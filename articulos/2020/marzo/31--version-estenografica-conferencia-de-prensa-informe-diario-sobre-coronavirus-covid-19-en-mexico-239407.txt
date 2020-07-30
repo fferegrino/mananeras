@@ -1,0 +1,201 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+31 de marzo de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Hoy vamos a tener la oportunidad de tratar varios temas que tienen que ver con la respuesta institucional ante esta epidemia. Tenemos noticias que nos parecen positivas y que es útil que la sociedad las conozca.
+A lo largo de la información que compartiremos, no sólo hoy, sino en los próximos días, nos gustaría que la población conociera no solamente la situación misma de la epidemia y la importancia de tomar acciones, -en este momento la principal acción son las medidas masivas de mitigación y es esto de quédate en casa, quédate en casa, quédate en casa, lo vamos a estar enfatizando todos los días- pero también queremos que la población conozca varios de los elementos que implican que las instituciones estén listas para responder y que estén respondiendo ante actividades específicas.
+Entonces, hoy el doctor José Luis Alomía va a dar el informe y nuestros compañeros del Seguro Social van a explicar aspectos específicos sobre la respuesta en el Instituto Mexicano del Seguro Social y van a ver que hay aspectos muy positivos que van a facilitar la protección de las personas, en este caso los hombres y mujeres derechohabientes, pero también facilitar la medida de mitigación comunitaria.
+Y finalmente, el doctor Reyes Terán, como lo anuncié hoy en la mañana, nos acompaña para hablar de las generalidades de los ensayos clínicos, que son la contribución de México a la generación de conocimiento para México y para el mundo. Yo nada más voy moderar.
+Doctor Alomía, por favor.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas noches a todas y a todos.
+Vamos a presentar el panorama internacional y nacional. Como ustedes pueden ver, todavía se mantiene una proporción de casos en los últimos 14 días de un 76 por ciento; si recuerdan las presentaciones anteriores, se ha mantenido entre un 75, 74, 76, lo que quiere decir que la transmisión reciente, es decir, lo que ocurre en los últimos 14 días ha mantenido un ritmo constante y esto representa precisamente la carga de la totalidad de los casos que hasta el momento se han confirmado, que ya es un poco más de 750 mil en esta pandemia.
+En la siguiente diapositiva vemos nuestro panorama nacional. El día de hoy al punto de corte son mil 215 casos confirmados, así también se suma una nueva defunción, para una totalidad de 29.
+Pueden ver ustedes la distribución en una escala de colores en el mapa en donde lógicamente hay mayor concentración de casos confirmados para cada uno de los estados. Son ya un total de más de 11 mil, 11 mil ocho personas las que han sido estudiadas como o desde que son casos sospechosos de COVID-19.
+En la siguiente diapositiva podemos observar la distribución de carga de enfermedad por estado. Es similar, digamos, a la que tenemos en la diapositiva anterior, en donde tenemos el mapa, donde se puede notar donde existe la mayor carga de enfermedad, en qué estado se está produciendo; pero, de hecho, la quisimos precisamente presentar de esta manera porque queremos también ver el contraste con la siguiente diapositiva.
+La siguiente diapositiva nos muestra ahora la tasa de incidencia acumulada, es decir, la cantidad de casos, pero en comparación con una base poblacional, no es lo mismo tener 10 casos en una población de millones de habitantes que tener esos mismos 10 casos en una población de sólo miles de habitantes; por lo tanto, eso en su momento revela que estamos teniendo, sí, mayor transmisión o mayor afectación en función de la tasa de incidencia acumulada.
+Entonces, veamos cómo aquí se da la diferencia. Si recuerdan, Ciudad de México y Estado de México tenían la mayor carga de enfermedad, pero entonces ya cuando lo vemos en base poblacional, es decir, a través de una tasa de incidencia acumulada, entonces ya las posiciones cambian.
+Y, de hecho, tenemos que Quintana Roo es la que tiene la mayor tasa acumulada, 2.73 de tasa acumulada, que con sus 48, 49 casos, muy por debajo de la Ciudad de México, pero sí tiene una mayor tasa.
+Y vamos también cómo el Estado de México, que estaba en segundo lugar de carga, cuando lo vemos ya por tasa acumulada, es de 0.85; y tenemos muchos otros estados que están delante de este gráfico.
+Entonces, este gráfico ustedes lo van a poder revisar a fondo, lo van a tener como un producto todos los días en el comunicado que se compara.
+Nuestra distribución de carga de enfermedad por grupo de edad y también nuestra distribución por sexo, vemos ahora nuevamente ya la distribución por sexo un poco, digamos, más pareja, aunque todavía el 58 por ciento de los casos han sido del sexo hombre; y vemos cómo nuestra carga de enfermedad es de alguna manera similar a la que se ha estado reportando a nivel internacional, en donde los menores de edad no han representado un grupo importante para la transmisión y para la presentación de casos es básicamente ya a partir de los 24, 25 años de edad donde empezamos a tener presentación de casos y de ahí para adelante.
+En la siguiente diapositiva podemos ver cómo esta distribución también por edades la observamos ahora en función de si son pacientes ambulatorios u hospitalizados. La proporción sí está similar a los últimos días, que es del 16 por ciento, pero además también podemos ver cómo esta carga de enfermedad, este 16 por ciento, que son casos que en su momento tuvieron que ser hospitalizados, podemos ver en el gráfico también cómo se concentra y tiene una tendencia ascendente, que son las barras de color amarillo, tiene una tendencia ascendente en la medida que la edad se va a incrementando.
+Ya sabíamos que la edad es un factor, se considera como un factor de riesgo para poder tener enfermedad grave y lo vemos de alguna manera reflejado en esta gráfica. A mayor edad es donde se concentran la mayoría de los casos que necesitaron hospitalización y, en contraste, la mayoría de los casos que fueron o son ambulatorios están concentrados precisamente en la población adulto-joven y son casos que no requirieron mayor tratamiento o muchos de ellos inclusive cursaron o están cursando con un resguardo domiciliario corresponsable.
+En la siguiente diapositiva vemos este 16 por ciento de hospitalizados, que es el que tenemos en este grupo, cuál fue su evolución, son 167 personas que tuvieron que ser hospitalizadas, de las cuales el cinco por ciento sí tuvieron un nivel de gravedad importante e inclusive el uno por ciento, que representaría dos personas, se encuentran actualmente intubadas, lo cual genera una situación clínica del mayor riesgo a poder perder la vida en un momento determinado.
+Ahora vamos a la distribución de lo que han sido las lamentables hasta el momento 29 defunciones. Podemos ver a los grupos de edad y podemos ver también la distribución por sexo.
+Vemos cómo el sexo femenino es el que menos, el sexo de mujeres es el que menos ha sido afectado; además podemos verlo representado en los grupos de edad, que son precisamente mujeres mayores de 55 años las que lamentablemente han perdido la vida y lógicamente también del otro grupo de hombres la mayoría también de alguna manera se concentra en estos grupos.
+Volvemos nuevamente a ver cómo tener edad avanzada o ser adulto mayor continúa siendo un factor de riesgo, no sólo para complicarse y hospitalizarse, sino también para, en su momento, poder fallecer.
+Aquí tenemos la distribución también de las defunciones por estado donde ocurrieron, tanto en una tabla donde tenemos los números enteros, como en una distribución de barras que nos permite un poco ver la intensidad.
+Vamos también a empezar a preparar y yo creo que para mañana podemos tenerles ya una gráfica, así como veíamos la tasa de incidencia acumulada por estado, lo cual genera un cambio y una diferencia. Aquí también podemos tener una diferencia si vemos un cuadro por letalidad y por estado.
+Entonces, vamos a preparar también para mañana un cuadro con letalidad por estado para poder también estar dando seguimiento a este indicador.
+Las comorbilidades o factores de riesgo que presentaron las 29 defunciones. A la cabeza de estas, con un 55 por ciento, la hipertensión, seguida de la obesidad y la diabetes, que sabemos que son los tres factores de riesgo principales que tenemos, ya con un poco menos de frecuencia, pero también presentes en las defunciones, la enfermedad pulmonar obstructiva crónica, la insuficiencia renal crónica, el tabaquismo, la inmunosupresión y la enfermedad cardiovascular.
+Si ustedes ven esta lista, es la ocurrencia que ha sucedido de las defunciones, son precisamente los grupos de riesgo que se quieren proteger a través de las medidas de seguridad sanitaria, porque son los que tienen un mayor riesgo de complicarse y fallecer, como lo estamos viendo en la gráfica.
+Aquí tenemos nuestra curva de casos acumulados ya actualizada a la carga actual, que es de mil 215 casos. Y bueno, vamos a seguir viendo siempre esta tendencia ascendente en la medida que la cantidad de casos que se van confirmando cada día continúen guardando una proporción: en la medida que se confirmen menos, la curva podrá tener una orientación más hacia la horizontalidad; en la medida que se confirmen más, lógicamente hay una elevación de la velocidad y por lo tanto también un incremento y es un indicador al que le estamos dando seguimiento.
+En la siguiente vemos precisamente esta curva, pero ahora cómo se compara en relación a lo que se ha dado en el comportamiento de otros países. Una gráfica que se ha estado presentando también y actualizando, y esto sería el nuevo aporte.
+Estamos dando seguimiento precisamente desde que en su momento se inició la Jornada Nacional de Sana Distancia el pasado 23 de marzo y estaremos siendo muy puntuales en cuál es el comportamiento de la curva en la medida que van avanzando a partir de ayer las medidas de seguridad sanitaria que empezaron a implementarse, digamos, con una mayor cobertura, precisión en relación a quienes son los grupos que deben de quedarse en casa y no salir.
+Me parece que es la última. Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A continuación, le pido al doctor Manuel Cervantes, quien es titular de la Unidad de Atención Primaria de la Salud del Instituto Mexicano del Seguro Social si nos puede comentar las distintas disposiciones y mecanismos que ha establecido el instituto para facilitar el proceso de obtención de recetas resurtibles, orientación médica telefónica e incapacidad por maternidad ante la epidemia.
+Doctor, Cervantes.
+---
+MANUEL CERVANTES OCAMPO, TITULAR DE LA COORDINACIÓN DE ATENCIÓN INTEGRAL A LA SALUD EN EL PRIMER NIVEL, IMSS
+Por supuesto, en el Instituto Mexicano del Seguro Social siempre alineados con el sector salud y por supuesto con la Secretaría de Salud, vamos a presentar un par de videos donde nosotros estamos sumando a que los pacientes lo menos que puedan acudir a las unidades médicas.
+Estas estrategias ya venían trabajando en el instituto y fueron fortalecidas y robustecidas desde el primer escenario. Ustedes van a ver en estos videos y posteriormente una presentación que haré de siete láminas explicando en qué consisten estas estrategias para garantizar el confinamiento en domicilio de algunos enfermos que tienen riesgo por sus condiciones de poder padecer la enfermedad.
+Si me dan los videos, por favor.
+---
+LUISA GIL VELÁZQUEZ, JEFA DE ATENCIÓN MÉDICA CONTINUA Y PROGRAMAS ESPECIALES
+Esto tiene como objetivo hacer más eficientes las instalaciones, sobre todo de primer nivel de atención, y con ello contribuir a que los pacientes que tienen alguna enfermedad crónica controlada puedan acudir solamente cada tres meses a la consulta de medicina familiar y los meses subsecuentes, ya sea ellos o cualquier familiar pueden pasar solamente a surtir la receta a farmacia y se les entregaran los medicamentos.
+La receta resurtible se emite a través del sistema de información de medicina familiar. Como ustedes pueden observar, ya sale su nombre, receta resurtible. La receta resurtible se emite cuatro tantos de la receta. Esta receta es una para el paciente, la primera receta del primer mes, del segundo mes y del tercer mes. Hoy llego a la farmacia y entrego los cuatro tantos.
+¿Qué hace la farmacia?
+Hoy me recogerá la receta del día de hoy y entrega el medicamento.
+Segunda receta, viene el vecino, amigo o familiar. Este vecino, familiar, entrega estos dos tantos a la farmacia y aquí la farmacia checa perfectamente que sea esta receta la que se surte con la de la fecha que hoy va a surtir.
+Y el tercer mes regresa con estas dos y se surte su receta, se queda farmacia con ella y esta es la receta del paciente.
+---
+MARLÉN VICENTE MARTÍNEZ, JEFA DE DIVISIÓN DE LA COORDINACIÓN INTEGRAL EN EL SEGUNDO NIVEL DE ATENCIÓN
+Y hacemos realmente trabajos enfocados para atender a estos pacientes que tienen una necesidad prioritaria por la patología crónica y que en forma controlada está garantizado su surtimiento.
+---
+MANUEL CERVANTES OCAMPO
+Miren, Quedémonos en casa ha sido una lucha, ha sido un anhelo y un desafío que tenemos. Y, bueno, en receta resurtible, como ustedes lo escucharon, este es un programa que buscamos facilitar la atención para pacientes con algunas enfermedades crónicas que están controladas.
+El paciente recibe una consulta y cada tres meses acudirá para poder tener la siguiente consulta, pero sus medicamentos podría acudir a canjearlo una por cada mes.
+¿Quiénes podrán acudir?
+Por supuesto que el paciente no, puede ser algún familiar o conocido o un amigo, eso es importante. El paciente se tendrá que quedar, como se ha quedado, en sus casas, ustedes lo van a ver ahorita, y aprovechamos para que sus medicamentos los tenga en su domicilio a través de sus redes de apoyo.
+El programa nos permite también que los pacientes con riesgo no tengan que ir personalmente a recoger sus medicamentos.
+Estos son los padecimientos que acaban de ver en la videoconferencia, está funcionando los tres niveles de atención y son pacientes con estas enfermedades que están controladas y cuyas condiciones clínicas nos dan oportunidad de no verlos cada 30 días, sino cada tres meses.
+Miren, ¿qué es lo que ha sucedido?, y aquí yo quiero felicitar a los pacientes por su compromiso, ahí tienen la historia.
+Nosotros veníamos dando desde agosto de 2013, 154 mil recetas resurtibles y vean lo que pasó desde el escenario 1, los pacientes y sus familias, sus amigos y sus conocidos se comprometieron a 914 mil recetas, casi un millón de pacientes que dicen: ‘Yo prefiero quedarme en casa y que vayan por mis medicamentos, mi conocido, mi amigo o mi familiar’.
+Ahí está el compromiso de los enfermos, queremos el compromiso de los sanos. Si los enfermemos se están comprometiendo, ¿por qué los sanos no?, y esto lo dejo a toda nuestra sociedad.
+También preocupados y ocupados por otro grupo de riesgo, que son nuestras pacientes embarazadas. Tenemos que ser muy cuidadosos, muy prudentes y no arriesgarlas cuando no sea necesario, pacientes embarazadas que llevan un control prenatal dentro del instituto y que van a requerir un certificado de incapacidad, bastará con la solicitud y la presencia de un familiar, amigo o conocido con una identificación oficial y con el carnet de la paciente.
+Estas pacientes obtendrán un certificado que se otorgará a partir de la semana 34 de gestación y se expedirá un certificado único por 84 días.
+¿Qué estábamos haciendo?
+Nosotros tenemos la fortuna, el honor y el placer en el primer nivel de atención de atender por lo menos cinco veces a nuestras pacientes antes de pasarlas al segundo nivel para la preparación de atención a su parto.
+Si yo ya conozco a la paciente y le estoy haciendo un seguimiento prenatal, pues no tengo por qué, teniendo el antecedente de que venga esta paciente conmigo para poderle dar la incapacidad.
+Para pacientes con vigilancia prenatal fuera del instituto, que tienen el derecho las señoras de poderse atender en lo particular, ¿qué es lo que vamos hacer?
+Primero, fuera del instituto se requerirá un resumen clínico de su médico particular, anexando exámenes de laboratorio y gabinete firmado y con datos de la cédula profesional del médico que la está atendiendo, el carnet de la paciente que avale el estado clínico del embarazo y puede acudir un familiar, un amigo o un conocido.
+Estamos ante una epidemia, tenemos que ser sensibles con estos grupos de riesgo y por lo tanto facilitarles la comodidad y el acceso a sus certificados de incapacidad.
+No nos hemos quedado ahí, no nos hemos quedado ahí, otra estrategia para que nuestros pacientes sigan en sus domicilios y que, si tienen algunas dudas o algunas circunstancias de preocupación, entonces activamos la orientación médica telefónica COVID-19.
+¿Cuál es el objetivo?
+Sencillo: reducir la concentración de personas en las unidades médicas, específicamente las unidades de primer nivel de atención, que son ambulatorias, y el riesgo de contagio por coronavirus, direccionando a nuestras pacientes para que sea un acceso efectivo a la atención médica, según sea el caso.
+¿Cuáles son los avances?
+Vean otra vez el compromiso de nuestra sociedad, de nuestros pacientes, de nuestros derechohabientes. Previo a la epidemia de COVID, que en los últimos 10 meses habíamos realizado ocho mil 600 orientaciones telefónicas, en 10 meses, pero fíjense bien, el promedio eran 60 diarias, ayer realizamos dos mil 393 orientaciones médicas telefónicas y el día de hoy, hasta hace una hora que me vine para acá, traíamos cinco mil 262 orientaciones médicas telefónicas.
+¿Para qué orientar médicamente a los pacientes?
+Si tienen algunos datos, fiebre, cefalea, puedan hablar, telefónicamente las va a atender un médico que tiene los algoritmos de seguimiento de acuerdo a las definiciones operacionales, y desde ahí les dará indicaciones y direccionará a los pacientes a los diferentes servicios que otorga el Instituto Mexicano del Seguro Social.
+Y aquí tienen como el teléfono de orientación médica telefónica es atender las dudas de las personas acerca de su enfermedad y para ello deben de llamar al número: 800 222 2668, donde nuestros médicos capacitados en este call center podrán atender todas las dudas que a continuación les comento.
+Cuando se considera a una persona sospechosa de la enfermedad, contacto, caso confirmado o sospechoso, ahí con una simple llamada, medidas de prevención para disminuir el riesgo de contagio, tanto en casa como al trasladarse: cómo se deben trasladar; qué es lo que tienen que hacer, cuándo debo de acudir a una unidad médica.
+Si nuestro subsecretario se ha cansado en decirnos cuándo de acudir un paciente a una unidad médica, cuando tengo datos de alarma, ¿de acuerdo?
+¿A quién se le tomará la muestra?
+Ha sido, bueno, uno y otro día están diciendo quiénes deben de tomar la muestra y a quiénes.
+La prescripción de incapacidades, como acabamos de ver, y la identificación de unos signos de alarma. Si el paciente tiene dificultad para respirar, tiene dolor torácico, tiene fiebre, tiene encefalitis, tiene tos, no lo vamos a mandar a una unidad de medicina familiar, lo vamos a mandar directamente a un hospital, ¿de acuerdo?
+Hugo, eso es como el Instituto Mexicano se preocupa y se ocupa para con nuestros pacientes.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita podemos comentar más seguramente a preguntas sobre la importancia de esta medida que facilita precisamente que se reduzca la oportunidad de movilización durante el periodo de emergencia sanitaria de personas en la vía pública, especialmente las personas que corren riesgo, como son las mujeres embarazadas o las personas con enfermedades crónicas, que precisamente son quienes tienen el mayor riesgo de complicaciones.
+Le pido ahora al doctor Eduardo Robles su intervención, pero antes yo quiero hacer una intervención.
+Ayer, a pregunta directa de alguna de las colegas, que no la veo en este momento, quien me preguntó si se habían identificado casos de enfermedad COVID en trabajadores de la salud.
+Yo comenté sobre un brote de COVID en una unidad médica del Instituto Mexicano del Seguro Social en Monclova, Coahuila, lo cual es cierto y hay en ese momento identificados 17 personas del personal médico, del personal de salud afectadas.
+Entonces, eso es completamente cierto, pero yo mezclé dos elementos y atribuí este brote a la infección que pudo haber ocurrido fuera de esta unidad de salud y la atribuyo a una consulta médica privada.
+Quiero hacer una aclaración, me parece que es justa y le pido una disculpa al estado de Coahuila, ya le pedí una disculpa al señor gobernador y a los habitantes de Monclova, que reconozco que estaban molestos por este comentario.
+Aclaro que el brote es cierto, pero la atribución a esta infección fuera de la unidad fue un error mío. Disculpa pública.
+Y por ello he pedido el apoyo del doctor Eduardo Robles, jefe de la Unidad de Salud en el Trabajo, de la División de Salud en el Trabajo del Instituto Mexicano del Seguro Social, quien tiene la información más directa sobre este brote, si nos puede comentar sobre las implicaciones del brote en el curso de la epidemia.
+Doctor, por favor.
+---
+EDUARDO ROBLES PÉREZ, JEFE DEL ÁREA MÉDICA DE LA DIRECCIÓN DE PRESTACIONES MÉDICAS, IMSS
+Les quiero comentar cómo está la situación en el panorama de los trabajadores de la salud del instituto. A la fecha del día de hoy, hasta este momento, tenemos nosotros reportados 39 casos confirmados; de estos 39 casos, tenemos tres casos que lamentablemente fallecieron, casos comprobados.
+En estos tres casos no se ha podido comprobar que haya habido una exposición ocupacional, más bien ha habido más bien elementos, evidencias que permiten que la exposición con la cual estos casos se pudieron haber infectado estos trabajadores de la salud: uno fue a través de un familiar que fue al extranjero, otro fue a través de una exposición que no fue ocupacional dentro del propio instituto y el otro fue de un trabajador que ya estaba jubilado, ya estaba fuera de las labores del instituto, no había una relación laboral que, bueno, por lo tanto, la fuente de contagio fue fuera de las instalaciones.
+¿Qué pasa con Coahuila?
+En Coahuila tenemos actualmente 21 casos comprobados, reportados, no ha habido una defunción de estos casos, la mayoría son ambulatorios.
+Y lo que les quiero comentar de estos casos es que básicamente se trató, la fuente primaria o los casos índices básicamente son dos médicos, dos médicos en los cuales estamos todavía en investigación de cuál ha sido la fuente por la cual ellos pudieron haber contraído el COVID-19.
+Y lo que sí es un hecho es que, derivado de estos dos médicos, 19, otro tanto personal de la salud de este hospital, de esta unidad hospitalaria, resultaron positivos a la prueba de COVID, ninguno tiene ahorita complicaciones, no son pacientes graves.
+A final de cuentas lo que les quiero comentar es que el hecho de que se presente un caso dentro de una unidad hospitalaria del instituto o de cualquier unidad hospitalaria no necesariamente involucra que haya una exposición ocupacional derivada de este caso.
+Como bien dice la ley del Seguro Social, a la letra en el trabajo, un riesgo de trabajo se determina básicamente porque el contagio -en este caso hablando de COVID- fue derivado por motivo en ejercicio del trabajo. En este caso para al menos estos tres trabajadores que fallecieron no se comprobó esta situación, no se ha comprobado esta situación.
+Y en el caso de los dos médicos que fueron los casos índices en Coahuila, estamos en investigación para ver si hay una exposición ocupacional dentro de las instalaciones del instituto.
+Lo que sí, a través de una indicación que nos dio nuestro director general, yo el día de mañana me dio la indicación de que parta o que vaya, viaje a Coahuila a primera hora, me reúna con el gobernador Miguel Ángel Riquelme para poder, precisamente a través de una conferencia de prensa, expresar cuáles van a ser las estrategias con respecto a las medidas sanitarias, de atención que se deben de dar en el Hospital General de Zona Medicina Familiar Número 7 de Monclova.
+Básicamente, doctor López-Gatell, este sería el estatus de este brote de Coahuila. Tenemos ya bien identificados los dos casos índices y ahí estamos todavía queriendo comprobar o determinar cuál fue la fuente de contagio.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Finalmente, le pido al doctor Gustavo Reyes Terán si es tan amable de compartirnos de manera breve la información sobre la investigación clínica que está emprendiendo el equipo mexicano en estos momentos relacionado con COVID.
+Doctor, por favor.
+---
+GUSTAVO REYES TERÁN, TIRULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
+El grupo de investigación científica que me ha tocado coordinar está conduciendo o está terminando los trámites para iniciar la conducción de cinco ensayos clínicos.
+Los cinco ensayos clínicos son con medicamentos que se han propuesto a nivel internacional como los que están en los primeros lugares de la lista de potenciales medicamentos que tengan un efecto contra el virus y que tengan al menos la potencialidad de poder controlar la replicación del virus, por un lado, y los síntomas de la enfermedad y quizá más importante, evitar que se llegue a la condición de gravedad o, si se ha llegado a la condición de gravedad, tratar de rescatar a los pacientes, el mayor número de pacientes posible.
+Ya les he dicho previamente, los cinco medicamentos que tienen potencialmente un efecto contra el COVID-19. Son, quizá, en primer lugar remdesivir, en segundo lugar la hidroxicloroquina, en tercer lugar la combinación de hidroxicloroquina con azitromicina y en cuarto lugar tocilizumab, el nombre un poro complicado, pero es un anticuerpo dirigido contra una molécula en las células que impediría la inflamación sistémica que finalmente es lo que conduce o el daño a los tejidos, al daño pulmonar en particular, no exclusivamente pulmones, sino también otros órganos, y el propósito de este último medicamento es evitar ese daño o reducirlo lo mayor posible.
+Y, finalmente, un método que se llama plasmaféresis o la obtención de plasma, el componente líquido de la sangre de los pacientes que han superado la infección y que han estado muy gravemente enfermos y con altos títulos del virus, que para tratar de trasladar o pasar el plasma a personas que están sufriendo la enfermedad.
+Entonces, los cinco protocolos están en terminación de los trámites que hay que hacer. Recuerden siempre que el principio médico fundamental es no dañar, o sea, no se puede utilizar un medicamento de buenas a primeras solamente porque alguien dice que puede ser útil, sino que se tiene que seguir un proceso: primero, escribir el protocolo, en segundo lugar someterlo a un comité de ética que está compuesto de integrantes con ciertos criterios y, en tercer lugar, también a un comité de bioseguridad, todo esto con el propósito de no dañar con el medicamento que se quiere probar o se intenta probar, como se está haciendo en otras partes del mundo, en México es igual.
+Y después de que se ha comprobado que no daña y algunos de los medicamentos que les he descrito se tiene amplia experiencia de que no perjudiciales, por tanto, da inicio a un ensayo clínico controlado, que es el nombre técnico correcto de un experimento en humanos, el evaluado éticamente para ser conducido en los pacientes con enfermedad grave, no exclusivamente grave, sino también en una etapa moderada, una etapa leve, inclusive o de manera de profilaxis.
+Y los tres ensayos clínicos que ya han recibido la aprobación por el comité de ética, incluso Cofepris, para empezar, son el de remdesivir, el de hidroxicloroquina y el tercero es con tocilizumab.
+En la historia de la enfermedad hay un periodo de incubación donde no hay síntomas, que puede ser en promedio de cinco días aproximadamente, cinco a seis días, inician los síntomas donde hay una carga de virus en los tejidos, el tejido de todo el tracto respiratorio, en ese momento hay fiebre, hay tos, pero estimula a su vez una inflamación de todo el organismo humano, que es donde puede causar daño al tejido pulmonar, inflamación sobre todo, y puede expresarse clínicamente con falta de aire, que es el síntoma de alarma más importante, una persona que tiene COVID-19 y que es un signo que debe de hacer pensar que esa persona deber ser atendida en un hospital.
+Y, finalmente, si no se detiene esa inflamación, aun cuando ya no haya virus en el cuerpo humano, esa inflamación puede causar la muerte de una persona infectada por el SARS coronavirus 2.
+¿En qué momento iniciar los tratamientos?
+Puede iniciarse en una etapa temprana, una etapa intermedia o en una etapa tardía, lo que estamos proponiendo es que en una etapa temprana e intermedia se utilice hidroxicloroquina y remdesivir, incluso también en pacientes graves, y el tocilizumab en esta fase de una enfermedad grave.
+Los otros dos protocolos, sobre todo el de plasmaféresis, para tratar de buscar el control en personas que ya tienen enfermedad, está en proceso de ser sometido a los comités de ética correspondientes para saber si es aprobado, que probablemente lo sea, sea conducido a la brevedad posible.
+Eso es en resumen, doctor López-Gatell.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nada más para cerrar lo que acaba de señalar el doctor Gustavo Reyes Terán, como él mismo lo ha aclarado en innumerables ocasiones, la población no debe asumir que los medicamentos que se han señalado son medicamentos ya conocidos como útiles para combatir o controlar o tratar al virus SARS COV-2 causante de la enfermedad COVID.
+Que quede muy claro, esto es investigación clínica sobre el uso de estos medicamentos, algunos medicamentos ya se usan para otras enfermedades, pero no hay todavía una autorización sanitaria ni una prueba científica contundente que indique que estos medicamentos pueden o deben usarse de manera segura para tratar el COVID.
+Ángeles Cruz, Blanca no, porque ayer ya le tocó, las dos compañeras de por acá y usted y este lado no le tocó. Entonces, Ángeles y acá y luego acá, por favor.
+---
+PREGUNTA
+Entonces, saber si nos pueden dar esa información ¿cuántos hombres?, ¿cuántas mujeres?
+¿A todos les han aplicado una prueba para verificar que ya no son portadores del virus? Si es así, ¿cómo se va a hacer o simplemente pasan los 14 días?
+Y si aparte de los 14 días, quienes se recuperan de la enfermedad requieren estar otros 14 días en aislamiento. Si me pueden precisar, por favor, esa parte.
+Y también de lo que acaba de comentar el doctor Cervantes, del IMSS. Yo quisiera preguntarle, de estas llamadas que han recibido, que son las cinco mil que dijo del día de hoy, incluso las de ayer ¿cuántas son las que son sí efectivamente indicativas de que se tratan de personas que pudieran sí tener la enfermedad?, ¿y cuál es la situación?, porque hay en otros servicios en que les ofrecen que les van a llamar o que les van a decir en qué clínicas acudir y esa llamada no ha llegado. Si me puede comentar, por favor, lo del Seguro Social.
+Y respecto a la curva de la pandemia, quisiera yo saber… Dice usted que con las medidas de sana distancia se va a buscar que la curva se aplane, al 30 de abril se va a evaluar en función de eso, si esa curva es plana o no, dependiendo qué es lo que nos va a decir, si hay necesidad de prolongar las medidas.
+¿De qué tamaño pudiera tener que ser la curva para, por ejemplo, seguir no sé si mantener el aislamiento o la sana distancia? Más o menos si nos puede orientar, por favor.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Esta variable, para tener la puntualidad de cuántos casos se ha recuperado, la actualizan también los estados, las entidades federativas de las unidades, ellos marcan en una pestaña que tienen disponible actualizan el estado de la persona.
+Entonces, solamente la migración que hemos tenido de lo que antes era una máscara de captura a lo que será ya un sistema formal de vigilancia, ha generado que estamos en este proceso nada más en el que estamos validando la información, pero podemos sin ningún problema traer una estimación para el día de mañana. El último corte había estado entre 16 y 18 por ciento ya la cantidad de personas recuperadas del total de casos, pero voy a pedir que hagan un corte, digamos, de tipo manual para que hagan la estimación y poderles presentar el dato mañana mismo.
+Y subsecuentemente, ya una vez que la nueva plataforma esté operando al 100 por ciento, es un dato que podremos tener ya sin problemas todos los días.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Y sobre la pregunta de Ángeles Cruz, de La Jornada, que me parece también de interés público general, ¿qué quiere decir aplanar la curva?, cuando decimos aplanar la curva a lo que nos referimos es que cuando ponemos en estas gráficas que presentamos en las tardes, la cantidad de casos que se presentan cada día, casos de COVID, independientemente de que sean leves, graves o muy graves, uno puede ver que existe esta curva que hemos presentado, si la podemos ver, por favor, y así lo explico de manera visual.
+La curva, esto es un tecnicismo, es la curva epidémica de casos acumulados, es la manera de representar visualmente la cantidad de casos que se presentan en México y que se reportan o se identifican cada día. Aquí están los días y, entonces, cada puntito en un día es el número de casos que dice aquí, cero, 200, tal, estos son los casos posibles que puede haber.
+Aquí había, cero, cero, cero, el 27 de febrero tuvimos el primer caso, esto es aquí, tuvimos el primer caso, no se ve porque está muy pequeñito, luego tuvimos un caso, un caso, dos, dos, cero, cero, cero, tres, etcétera, y el 13 de marzo tuvimos 11 casos y fue cuando hicimos el anuncio de que cambiaba el patrón de aumento de la epidemia, se acordarán, un viernes por la tarde y luego el sábado.
+Y después tuvimos 14, 14, 20, 20, 40, 45, 40, luego tuvimos 60, 65, luego tuvimos 100, 110, etcétera, y esa es la velocidad a la que está cambiando la epidemia.
+Esa velocidad de cambio es la fuerza de infección, es el vigor, vamos a llamar, en un término no técnico que tiene la amplificación de la epidemia. Lo que queremos es que sea más lenta; en la medida en que esta curva que va a hacia arriba, está a esta velocidad, quiere decir que cada día estamos sumando 80, 100, 110, 120 casos, quisiéramos tener menos casos por día.
+Y aplanar la curva es un término no técnico que quiere decir reducir esta inclinación.
+¿Cuánto?
+No hay una meta preestablecida. Lo ideal sería cero, pero sabemos que esto es imposible y cualquier ganancia en la que se reduzca la velocidad es un éxito, es un triunfo de las medidas de mitigación comunitaria.
+No hay, de antemano, una meta, porque obviamente es una epidemia nueva, es una carga de enfermedad que ocurre en la población, es un fenómeno muy complejo y quisiéramos tener el máximo éxito posible.
+Lo que vamos a saber es cuando hayan pasado 14 días desde que empezaron, en promedio siete días, de hecho, desde que empezaron las medidas de mitigación vamos a empezar a ver cambios en la inclinación de esta línea, debemos ver, ojalá veamos, esto será un éxito no nuestro, del gobierno, es un éxito de la sociedad mexicana que se habrá quedado en casa, se habrá quedado en casa, fuera del espacio público y habrá reducido el número de contagios.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Entonces, esperamos que va a ir en siete a 14 días reduciéndose eso y ojalá se reduzca de manera importante.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No olvidar que para la fase 3 también nos empezamos a preparar desde enero, entonces todo lo que se explicó ayer de la preparación y expansión y reconversión hospitalaria es lo que va a estar jugando un papel muy importante en la Fase 3.
+El compañero de por acá y luego usted. Nos quedan 10 minutos.
+---
+PREGUNTA
+Hoy por la mañana, doctor, usted comentó cuáles son las actividades no esenciales que se van suspender temporalmente hasta el 30 de abril y las sí esenciales que no se pueden detener.
+Esto generó en el sector minero de Coahuila unas preguntas, porque la actividad minera es una de las principales del país. Si se detiene la minería, se detiene prácticamente la economía del país, porque de ahí derivan michos insumos para la vida cotidiana.
+¿Se va a detener la minería también?, ¿cuándo?, ¿hasta cuándo?
+Esa sería una primera pregunta, doctor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Uno de los temas fue esta preocupación. Tanto el gobernador de Coahuila como el gobernador de Chihuahua como la gobernadora de Sonora, que son estados mineros, expresaron directamente esta inquietud.
+La respuesta es la siguiente:
+La minería evidentemente es una de las actividades económicas importantes, igual que la industria manufacturera, igual que la industria de la construcción, igual que la industria de producción de otros insumos primarios.
+Nosotros no quisiéramos que se detuviera, lo ideal es que no se detenga la vida pública, pero tememos que ser totalmente realistas, tenemos que tener una consciencia clara de dos elementos no deseados: una es, tenemos una epidemia y no queremos que esa epidemia se propague rápidamente.
+¿Qué va a pasar si se propaga rápidamente?
+En la fase tres vamos a tener demasiados casos, demasiadas personas enfermas y por más reconversión hospitalaria no va a ser posible atenderlas a todas, y esto va a causar graves daños en la salud y el riesgo de la vida de las personas, nadie quiere eso.
+Tampoco queremos que se disminuya la actividad económica y social, porque afecta a las familias. Hemos dicho repetidamente que la mitad de las familias mexicanas, no de las familias, de la población mexicana vive en condiciones de pobreza, vive al día, y quien no vive al día porque tiene un salario en la industria minera, tampoco queremos que quede en un paro de labores, en fin.
+Pero hay que ser… llegar al punto de equilibrio, y el punto de equilibrio no puede esperar más y es precisamente las disposiciones. Esto no es una disposición de una persona, no es que yo lo decidí, se sometió a consideración del Consejo de Salubridad General y en forma unánime reflexionando sobre los pros y los contras de esta medida, se decidió establecer una medida que es enérgica, útil para la reducción de los contactos y a la vez limitada, en tiempo es limitada, de manera efectiva son 21 días hábiles que se suspende la actividad.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Déjenme comentarles, en este trabajo que hacemos en el comando operativo, dicho sea de paso, quiero agradecer a todo un comando operativo que representa a todo el gobierno, están prácticamente todas las secretarías de Estado y algunos de sus órganos desconcentrados participando en este operativo y estamos funcionando muy bien porque estamos coordinados.
+Establecimos un grupo técnico conformado por los mejores especialistas en medicina crítica de las instituciones públicas de atención médica y convocamos a ingenieras e ingenieros de instituciones públicas y alguna privada de educación superior.
+Y esto lo hicimos con el propósito de que este grupo analice precisamente esto, cuál es la factibilidad, qué tan posible es que en un tiempo muy corto podamos tener la fabricación de uno o más prototipos o modelos de ventilador mecánico.
+Entonces, no tenemos esa resistencia alguna. Si usted conoce a un grupo adicional que nosotros no hemos contemplado, por favor, me da el dato y trabajamos también con quien sea.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ella, y creo que va a ser la última porque el tiempo es muy limitado.
+---
+PREGUNTA
+Dos preguntas nada más. Una, ¿ahora con esta declaratoria de emergencia va a haber alguna orden de cerrar playas? Si bien algunos estados están tomando algunas acciones, pues queremos ver esto.
+Y, rapidísimo, dos, algunas personas se están quejando mucho de que ustedes dijeron que se podían ir el mes con goce de suelo, pero esto a lo mejor no se está tomando así. ¿Va a haber algún seguimiento, una medición?

@@ -1,0 +1,212 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+29 de abril de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Hoy tenemos un programa especial, un invitado muy especial, que es nada menos que nuestro jefe, el secretario de Salud, pero también mi maestro y uno de los inmunólogos más destacados del país y con amplio reconocimiento mundial; y a petición, por demanda popular, nos acompaña para hablar de la inmunopatología y fisiopatología del COVID, elemento que consideramos muy importante porque nos va a permitir a todas y todos entender con mayor amplitud por qué este virus causa la enfermedad que causa y en qué consisten las alteraciones que ocurren que nivel de los pulmones, a nivel del sistema inmune, a nivel del sistema circulatorio, etcétera.
+Entonces, hoy vamos a empezar, si está de acuerdo el doctor, con su propia presentación y después abordamos el informe técnico que presentaría el doctor José Luis Alomía; finalmente, el doctor Ricardo Cortés nos va a hablar de las acciones de promoción y prevención, y nos va a hablar de una nueva guía técnica que tenemos para una población de especial interés.
+Doctor.
+---
+JORGE ALCOCER VARELA, SECRETARIO DE SALUD
+Estarán de acuerdo en principio conmigo y desde luego con Adam Smith, ilustre pedagogo, no sé cómo calificarlo, que señala que la ciencia es el gran antídoto contra el veneno del entusiasmo y la superstición. Si bien no han llegado todavía estos dos elementos de definición, sí estamos inmersos en mucho por la situación de un componente del ecosistema, hay que declararlo como tal, muestra de la biodiversidad de nuestra biología y desde luego nos recuerda a la selección natural que brillantemente expusiera hace décadas, hace siglos, el gran biólogo y taxonómico que condujo a la organización de los seres vivos.
+En la siguiente imagen, y voy a tratar de hacerlo rápido, les señalo cómo esta familia… Son siete integrantes de esta familia de coronavirus, de los cuales ya teníamos tres de ellos presentes en el ser humano.
+Ustedes saben, el primero es SARS-CoV, que nos dio, a través de un animal, el salto a poder infectar al ser humano. El primero es por el síndrome respiratorio agudo severo.
+Desde luego el segundo, que ustedes saben, es el relacionado con el Medio Oriente hace ocho años, otra acción de uno de estos coronavirus.
+Y es ahora cuando, a través de otro de los elementos de los seres vivos, animales, que son los reservorios de estos coronavirus, conocido y publicado desde hace 70 años, no es nada nuevo, pero ahora tenemos la llegada directa al ser humano y esto es a través de una expresión de su genoma de todos sus genes que conducen al que ahora está frente al humano un virus con unas características que todos sabemos, de gran infectividad y que curiosamente nos ha tenido en unos meses ligados a todo el mundo y también confinados afortunadamente a no salir de la casa a unos buenos millones también de habitantes.
+Pero para poder entender esto tenemos que conocer al enemigo y aquí está una caricatura, un dibujo muy representativo, estoy seguro que lo que va a llegar de los niños en unas horas o está llegando, van a tener dibujos relacionados con este virus, representado así, el SARS-CoV-2 y que tiene estos integrantes, proteína, hemaglutinina, esterasa en su superficie.
+La parte más importante de su genoma es un ácido ribonucleico, de cadena positiva, así lo llaman, y una matriz transmembrana que permite la entrada.
+Y aquí les señalo que desee hace miles de años virus se entrenan, se entrenan en una forma realmente increíble para llegar a ser agresivos en la necesidad de evolución para enfrentar a su enemigo, que es el sistema inmune, el del humano.
+¿Y a dónde va a atacar?
+En forma articular y específica va a atacar al tejido respiratorio y esto desde luego entra por el flush ya conocido y tenemos claramente ahí cómo las vías respiratorias altas, luego las de en medio, tráquea, laringe, tráquea, bronquios y luego todo se desparrama a la unidad funcional, que está que son los alveolos.
+Y esto desde luego, está compuesto, aparte de otras células y una serie de moléculas, por dos tipos de células inmunológicas… perdón, del pulmón, neumocitos que son de dos tipos: 1 y 2.
+El tipo 1 es el que se encarga de la función vital, no hay otro grupo de células que en toda nuestra economía lo haga más que los neumocitos, el fuelle que permite el intercambio de gases, la entrada del oxígeno que es requerida para todos nuestros tejidos en todo nuestro cuerpo y desde luego la salida ya procesado del CO2, esta es la función del neumocito 1.
+Pero el neumocito 2 se vuelve el blanco directo del virus.
+¿Por qué?
+Van a ver ustedes y aquí está representado, además que tiene una maquinaria importante, la otra tiene el fuelle, pero aquí tiene la maquinaria biológica, el laboratorio para poder hacer lo que quiera el virus: llegar y no va a matar a las células, sino entrar y tomar por asalto al sistema, al trabajo, al taller que va a arreglar varias proteínas, varias señales y va a tener como objetivo replicarse. Y en un día el virus, un virus que entra puede producir un millón de ellos y luego salen.
+Ahora, para esto -y aquí empieza la fisiopatología que me pidieron un poco resumida- hay muchos elementos todavía desconocidos, pero en lo que se ha avanzado, este camino de la función hacia la patología, de ahí su nombre, se está espetada aquí en ocho, ocho puntos.
+La espiga de glicoproteína que es la que el da esta característica diferente a otras, es una base para que el sistema inmune trabaje.
+El sistema inmune es muy sencillo, trabaja con una llave y una cerradura, nada entra al sistema inmune si no cumple con ese requisito.
+Y virus este, que les digo desde hace miles de años, ha podido fabricar su llave y ha encontrado que la cerradura es una proteína que está aquí en la membrana, en la membrana están muy localizadas, que se llama ECA2, es un convertidor, es una enzima que actúa específicamente sobre una angiotensina y en su nombre lo lleva, va a regular la tensión de los vasos.
+Por eso rápidamente ustedes asocian que la acción de este virus, la manifestación clínica se exacerba, se matiza mayormente en los pacientes que tienen hipertensión o que tienen algo que ver con este receptor, con esta angiotensina.
+Y luego transita adentro de la célula con una necesidad, forma su capa, su vacuola para que no la intervengan otras enzimas y esta capacidad la tienen estos nuemocitos tipo 2. Son transportados y rápidamente al laboratorio central, que es el aparato de Golgi donde se van a sumar, a restar y a accionar varias proteínas y producto de ello se ensamblan a través de procesos enzimáticos y de integración genética varia de esta producción, el RNA se réplica y sale nuevamente para poder protegerse a través de una de estas vacuolas.
+Esta capacidad la tiene el neumocito y no la tienen otras células preferencias, por eso para este camino.
+Y como ustedes ven este camino tiene que encontrarse con las posibilidades de verse reguladas. Y aquí sumo, además de la patogenia, o sea, los caminos hacia la enfermedad, con los recursos que se van generando a través del conocimiento para poder actuar en cada uno de estos pasos.
+Y aquí tenemos, por ejemplo, el más importante. Es actuar aquí, donde está la fábrica, donde están los elementos específicos para hacer que el RNA se replique, para que tengamos en un día un millón de copias.
+Y aquí actúa el lopinavir y el ritonavir, que son dos moléculas que se han usado en otras infecciones virales en otro tiempo y después el segundo, el remdesivir, que también tiene una acción ahí y que esto es novedoso, es uno de los que está más impulsados, ustedes que ven rápidamente las noticias hoy vieron que el doctor Fauci, del NIH, de los Institutos Nacionales de Salud de Estados Unidos, anunció que hay mejoría con este medicamento.
+Ya previamente, a través de China se había hecho un estudio rápido en unos cuantos pacientes, y ahora fueron varios cientos de pacientes que concluyen -ustedes, para que no me lo pregunten- que concluyen que no hay grandes avances excepto que en lugar de tener 12 días de estancia hospitalaria se reduce a 10 o así parecido en los pacientes, pero ellos mismos advierten que todavía hay necesidad de seguir haciendo estudios al respecto.
+La hidroxicloroquina llega en una acción más periférica no ligada a este ensamblaje de los biones y los mismo tocilizumab que es un anticuerpo que va como ejemplo a frenar lo que se está produciendo en otra parte que son moléculas que causan gran inflación.
+Una de las moléculas se llaman citosinas, algunos lo llaman como tormentas de citosinas, hay 20 y 30 que se están produciendo en diferentes enfermedades inflamatorias, principalmente reumáticas, pero en este caso la IL6 que es la que se ha usado ha mostrado también pobres resultados.
+Ahora bien, ¿qué capacidad tenemos si pasamos al otro lado?
+Ya conocemos algo del enemigo, pero ahora tenemos que conocer la guardia nacional y la guardia nacional es tremenda, está equipada, no nos hemos quedado atrás,
+Para empezar, en la vida de un individuo, esto calculado en la vida de 70 años donde se mantienen en general el sistema inmune más o menos estable, tenemos, recibimos un billón de agentes extraños, de patógenos, bacterias, virus, productos químicos y estos están actuando rápidamente en pie, mucosas, pulmón, intestino, en la sangre misma para echar para afuera y lo logran.
+Gran parte de esto todos los días estamos y de hecho ahí rápidamente les digo, hay un convenio entre patógenos y nuestro intestino, por ejemplo, y estamos llenos desde la boca hasta los pies de patógenos y estamos en convenio de paz y no sucede gran cosa.
+Pero también tenemos aparte para lograr este… contener este billón de agentes patógenos tenemos linfocitos, células linfoides y hay dos grandes grupos: los linfocitos T, que producen esas moléculas de las citosinas que son las que están dando gran inflamación, y tenemos fácilmente 100 mil millones de células que producen anticuerpos y 10 mil billones de linfocitos T. Toda esa guardia es suficiente para contener la mayor parte de los ataques que recibimos.
+Y aquí está una tabla integradora de la patogénesis hasta ahora postulada. Decíamos, entran por las vías respiratorias superiores, eso está en verde, es el sistema u órgano que afecta; tenemos la afección de las vías respiratorias inferiores; y, por otro lado, puede replicarse el virus y salir, actuar sobre el pulmón, riñón, hígado, corazón y después dar esa inflamación importante.
+Entran otras bacterias agregadas, no todos los pacientes mueren exclusivamente por el virus, sino por infecciones que se agregan y desde luego llega un estado de falla orgánica múltiple, que es un término para decir está enfermo grave del hígado, del riñón, del corazón, del pulmón y hasta del cerebro.
+Aquí entra otro gran sistema de coagulación intravascular, es lo que han encontrado en las primeras autopsias que se hicieron de estos pacientes, donde están tapados los vasos, es posible que el angiotensinógeno que señalé al principio como vía de entrada del virus también ahí participe, y después desregulando la enzima, esta convertidora, aumenta la permeabilidad de los vasos, hay edema en el pulmón y hay un desarrollo de un síndrome respiratorio agudo e importante que puede llevar a la muerte del paciente.
+Y por el otro lado, debido al número del virus, en forma moderada, tenemos que puede ser asintomático o puede caminar agravándose debido a las comorbilidades, si es diabético, hipertenso, etcétera, todo eso se magnifica este camino y puede pasar también hacia el camino del fallecimiento.
+Ustedes conocen este desglose y quiero nada más puntualizarlo. La fase de contagiosidad, que está aquí iniciando la infección, el contagio del virus, todos tienen una parte asintomática, totalmente asintomática hasta llegar a la inmunidad, que es el 30 por ciento de los pacientes en términos generales; sigue el contagio, hay una fase asintomática de unos cinco días, seis, puede tener síntomas leves o moderados y tiene inmunidad; y después graves, hospitalización, inmunidad; y los más graves que requieren ventilación, generan inmunidad, pero también varios de ellos mueren.
+Esto nos lleva a entender cómo el virus maneja el genotipo de expresión de la enfermedad, el genotipo es lo que recogen los médicos, lo que recogemos en la historia clínica y en los datos que n tenemos.
+Esta es una lista rápida de los medicamentos ya enunciados y sólo el mecanismo de acción que les señalaba, y lo pongo porque hay efectos secundarios que hay que cuidar.
+Si ya tenemos la enfermedad, tenemos la infección y la agresión y la pérdida de la función de las células del sistema respiratorio y después la comorbilidad, o sea, que es diabético, hipertenso, tiene problemas renales, etcétera, tenemos efectos secundarios que hay cuidar.
+Muchos de estos pacientes que reciben hidroxicloroquina, lo tomo así rápidamente, tienen problemas cardiacos, hay otros que tienen graves acciones y desde luego hay que cuidarlas.
+Entonces, la moraleja aquí es que es complicado y nos lleva a no tener en ningún lugar un elemento directo de cuál es el tratamiento a seguir. El tratamiento se sigue con condiciones generales de mejoría de la ventilación y además de lo que está sucediendo en otros órganos.
+El punto de aquellos pacientes que tienen hipertensión, que usan antihipertensivos es importante poner rápidamente. Esa enzima debe no bloquearse, sino esa enzima debe seguir en el paciente hipertenso con el tratamiento que está siguiendo. El paciente hipertenso que se controla bien la presión arterial es algo que sustenta una mejor evolución.
+Y podría, para terminar, señalarles que se han informado varios casos de tromboembolia venosa, trombosis en diferentes lugares, o sea, un riesgo trombótico, se identifica con la cuantificación de una molécula de un dímero D, pero no se recomienda anticoagular a los pacientes, excepto hacer una adecuación de lo que está sucediendo en la coagulación.
+Existe poca evidencia para considerar que el tromboembolismo venoso sea la causa directa del deterioro de la oxigenación.
+Se ha informado también que no hay datos suficientes y este es un resumen y aquí está sustentado inclusive con las guías de tratamiento de los institutos nacionales de Estados Unidos y también de aquí de México, todos estos medicamentos que les he señalado no tienen sustento suficiente para ser promovidos o desincentivar su uso, lo están haciendo, es tiempo y desde luego es entendible que se traten muchas cosas.
+Hay 700, 80 tipos de medicamentos que se están usando, algunos con más sustento que otro, pero no hay que pueda resolverlo.
+Y en la actualidad no se ha demostrado que algún medicamento sea seguro y efectivo para tratar el COVID-19. Los medicamentos para el tratamiento de enfermedades crónicas subyacentes deben continuarse, por eso se suma al tratamiento que están recibiendo en diferentes formas, el tratamiento estándar u ordinario para las otras enfermedades. Y con esto término.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Antes de pasar a preguntas y respuestas que, sin duda, habrá preguntas sobre este tema, le pido al doctor Alomía si nos presenta el informe técnico de manera sintética.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Estamos ya a punto de terminar este mes y en la conferencia vespertina número 61.
+En la siguiente diapositiva podemos ver cuál ha sido la progresión de la pandemia a nivel internacional, continua la contracción de la misma en 37 por ciento, son dos puntos porcentuales menos a los que veíamos el día de ayer.
+Y vemos cómo la región de las Américas mantiene esa proporción de los últimos casos confirmados en los 14 días de 48 por ciento y la región de Europa, que ayer estaba encima del 40 por ciento, hoy ya bajó de ese nivel, está en 39.6 y es lo que de seguro vamos a continuar viendo en los siguientes días.
+La siguiente diapositiva. Actualizamos los números nacionales, 17 mil 799 casos confirmados como carga acumulada, ya decíamos que la tercera parte un poco menos de la tercera parte son realmente los casos activos, cinco mil 444, que representan el motor de la epidemia en México, es decir, los casos que en los últimos 14 días iniciaron con la sintomatología.
+Tenemos 13 mil 263 casos sospechosos todavía, vamos a ver cuáles son sus resultados, mil 732 las defunciones que lamentablemente han ocurrido y también los números de personas que han salido negativas a la prueba, más de 50 mil 850, lo que al día de hoy nos suma un poco más de 81 mil 900 personas que ya han sido estudiadas para la enfermedad.
+En la siguiente diapositiva veremos la carga acumulada distribuida por entidad federativa. Si pueden ver, hay estados que ahora tienen ya una coloración más fuerte, es decir, un rojo más intenso, quiere decir que ya pasaron de una escala a otra, lo cual lógicamente refleja la ascendencia que está teniendo la transmisión y la carga de enfermedad en cada una de estas entidades federativas, del total de casos acumulados, de estos 17 mil 799.
+En la siguiente diapositiva vamos a ver la misma distribución pero ordenada, ya decíamos, en forma descendente para que ustedes puedan tener los números totales.
+En la siguiente diapositiva vamos a enfocarnos ahora sí en la epidemia activa, cinco mil 444, y aquí también podemos empezar a notar que hay otras entidades federativas, sobre todo en la región centro que en su momento empiezan a tener una carga acumulada de los últimos 14 días y, por lo tanto, al haber este incremento se convierten en un color más intenso, además de los estados en el sureste y en el noreste que ya habíamos visto en los últimos días.
+La siguiente diapositiva es solamente la distribución de esta misma carga en orden ascendente para que puedan ustedes tener los números totales para cada entidad federativa.
+Y en la siguiente diapositiva vamos a ver los confirmados activos, estos cinco mil 444 distribuidos ahora sí en base a una tasa de incidencia acumulada por 100 mil habitantes y en donde también empezamos a notar estados que en el mapa anterior tenían… pasaron de un color naranja claro a uno más oscuro, ahora también tienen un verde más oscuro, lo cual nos habla que en los 14 días ha continuado el incremento de casos y por lo tanto ahora sí, la afectación poblacional en estas entidades federativas.
+La siguiente diapositiva es el orden descendente de esta tasa de incidencia acumulada para que ustedes también puedan rápidamente identificar los estados de mayor a menor.
+Podemos ver la distribución de la ocurrencia de las defunciones por la fecha en que lamentablemente se dio la defunción, esto con la intención de poder ver cómo va la tendencia de estas defunciones.
+Y en el color naranja claro podemos ver aquellas que todavía son sospechosas, lo que quiere decir que podrían incrementar la carga de defunciones que hasta el momento hemos observado, recordando que en la última semana que vamos viendo el porcentaje de positividad ha estado ya rondando el 50 por ciento, pues bueno, podríamos inferir que en su momento al menos la mitad de estas 152 defunciones podrían convertirse en defunciones confirmadas.
+La siguiente diapositiva. Vemos a las defunciones, pero ahora distribuidas por entidad federativa y a la vez también podemos notar en función de ese color naranja claro qué entidades federativas pudieran tener todavía un incremento en las siguientes 48 horas de esa carga de defunciones, dado que tienen funciones sospechosas todavía pendientes de resultados. Podemos ver lógicamente el orden descendente de cuáles son las entidades federativas que han presentado la mayoría de las defunciones.
+La siguiente diapositiva. Podemos ver la curva epidémica, en este caso por fecha de inicio de síntomas, en color rojo los confirmados, en color naranja claro los que aún son sospechosos, como lo hemos comentado, para ver cómo continúa la tendencia de la presentación de los casos sospechosos de la enfermedad.
+Igual, si aplicamos este porcentaje de positividad, pues podremos tener una expectativa que al menos la mitad de los casos que están en este color naranja claro puedan convertirse en casos de color rojo que serían confirmados y, por lo tanto, la cifra total de casos confirmados incrementarse.
+Pero al ver las barras totales lo que podemos ver es la tendencia y la tendencia clara, si nos vamos al total de la barra, independientemente de color, podemos ver que todavía se mantiene esa tendencia ascendente por fecha de inicio de síntomas.
+Nuestra curva acumulada de casos confirmados, aquí están los 17 mil 799. En las últimas 24 horas tuvimos mil 47 casos confirmados nuevos, esto representó un incremento del 6.3 por ciento en relación a la carga que teníamos el día de ayer y en la parte de abajo podemos ver precisamente en las barras naranjas cómo va un poco la tendencia de los casos que se van confirmando día con día en donde hasta el momento llevamos al menos una tendencia estable.
+Vemos la red IRAG, es decir, las proporciones de ocupación o de disponibilidad de camas en el país. Aquí en el mapa podemos ver las unidades que el día de hoy reportaron su existencia u ocupación de camas, de las 669 unidades que pueden notificar, porque ya tienen un usuario y una clave, 588 fueron las que notificaron el día de ayer hasta el cierre, que fue a la media noche y esto representa el 88 por ciento de las unidades, que sería, en este caso, la proporción de notificación.
+¿Qué nos notificaron?
+Que se encontraban 13 mil 744 camas para atender pacientes IRAG en el área general, es decir, pacientes con algún signo de gravedad, pero que no necesariamente requieren todavía un ventilador mecánico.
+Y de este grupo de camas también cuatro mil seis se encontraban ocupadas, por lo tanto, para este grupo una ocupación al corte de ayer del 23 por ciento.
+Esto es lo nacional. En la siguiente diapositiva vemos la distribución por cada uno de los estados, vemos cómo se siguió incrementado este porcentaje de ocupación en la Ciudad de México, ahora es del 60 por ciento, seguidos de Baja California y México, que también eran los que estaban presentando la mayor ocupación de camas de hospitalización general con 44.41. Pueden ustedes ver el porcentaje de ocupación para cada una de las entidades federativas que nos han notificado.
+Y en la siguiente y última diapositiva vemos también la disponibilidad de ocupación, pero ahora sí de las camas críticas, es decir, de aquellas que cuentan con un ventilador y lógicamente con recurso humano e insumos para poder atender a estos pacientes.
+Vemos también cómo hay un incremento en la Ciudad de México, que ahora pasa al 51 por ciento para esta disponibilidad, seguidas de Baja California, San Luis Potosí y México, el Estado de México, que tienen arriba del 40, al 40 o arriba del 40 por ciento de ocupación de estas camas.
+Vemos también como en su momento se comportan los demás estados.
+Y cerramos, terminamos diciendo que precisamente para poder mantener estos porcentajes de ocupación en niveles que siempre dejen camas disponibles, es decir, que contribuyan a que exista porcentajes de disponibilidad, pues tenemos que seguir quedándonos en casa mientras la Jornada Nacional de San Distancia dure, porque es la única manera en la cual podemos detener la transmisión, disminuir el número de casos y contagios y por lo tanto disminuir también la carga de pacientes graves que en su momento son los que terminan demandando este tipo de atención.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Le pido al doctor Ricardo Cortés si nos comenta sobre la guía nueva.
+---
+RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchísimas gracias, secretario, subsecretario.
+Es para mí un placer y un honor presentar esta Guía para la protección de la salud de las personas con discapacidad en el contexto de COVID-19, con el apoyo del Consejo Nacional para la Prevención de la Discriminación, Conapred y el Consejo Nacional para las Personas con Discapacidad, Conadis y el apoyo de la sociedad civil organizada a través de Movimiento Tres Doce y otros colectivos también de especialistas en la materia de personas con discapacidad.
+Se desarrolló esta guía, que es útil tanto para personas que viven con discapacidad como las personas que son cuidadoras de estas personas que viven con discapacidad, así como para el personal de salud que puedan leer esta guía, que deba de leer esta guía y que le va a servir mucho para cuando reciba a una persona con discapacidad en el contexto de la atención del coronavirus.
+Nos parece que uno de los principales éxitos de esta guía es la conexión que hay entre la sociedad civil organizada. Para poner un ejemplo, es una asociación civil de intérpretes de lengua de señas mexicanas que ponen a disposición números telefónicos para WhatsApp para videollamadas que puedan interpretar lo que una persona con discapacidad auditiva, con sordera pudiera estarle expresando al personal de salud y que no se puedan entender.
+Se llama a través de una videollamada al WhatsApp de estas personas que están certificadas como intérpretes de lengua en señas mexicanas y así se puede generar una atención como la merece la persona que vive con discapacidad, o a lo mejor una persona que vive con discapacidad y que lleva a alguien grave para poder explicar cuándo empezaron los síntomas, cómo empezaron los síntomas, y poderle dar la atención que se merecen estas personas.
+Es un honor y un privilegio. Habíamos invitado al licenciado Ernesto Rosas a esta sesión para presentarle en conjunto con nosotros. Ernesto participa con Movimiento Tres Doce, pero Ernesto vive también con diabetes, y él muy razonablemente y respetuosamente hacia su persona, primero me cuido yo y así cuido a los demás, dijo: ‘No puedo asistir, debo quedarme en casa’. Te agradecemos mucho a Ernesto, a todas las personas que participaron, y es cuanto, muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a abrir a preguntas y respuestas. Usted, Fernanda, usted, usted ya participó ayer, vamos a darle la oportunidad a un nuevo compañero.
+---
+PREGUNTA
+Doctor Alcocer, nos da mucho gusto tenerlo en estas reuniones, ojalá y lo podamos tener más seguido.
+Con respecto a la semana de vacunación que se está presentando en las Américas, ¿existe la reflexión de qué actividades se están haciendo para no solamente tener la prevención de esta enfermedad en particular, sino también no perder la protección que tenemos con las otras?
+Y si nos pudiera detallar un poco más acerca del tratamiento con plasma, que es el que aparentemente tiene mayor avance para el tratamiento con COVID-19.
+---
+JORGE ALCOCER VARELA
+Existe una serie de necesidades que se están cubriendo en términos generales y desde luego en general incluye vacunación, incluye todos los protocolos de seguimiento para esta situación.
+En cuanto al plasma, es uno de los que podría tener en el momento que se logre hacer más, afinado más preciso, el cubrir la falta de una vacuna. No es lo mismo, pero sí tiene un mecanismo semejante, aunque le falta todavía la finesa de conocer más detalles de cómo está la respuesta inmune de los donantes del plasma; y particularmente ahí se requiere, como una estructura directa que va a inhibir al virus en el componente inhibitorio que lo mantiene a raya y que lo elimina, finalmente ese anticuerpo neutralizante.
+No todos los individuos que sufren la acción del virus lo manejan igual, su sistema inmune, por diferentes razones, y más cuando se agregan situaciones biológicas que limitan el que toda esa guardia nacional, como les señalé yo, se ubique directamente contra el virus, tiene que vigilar otra serie de cosas y estas son las que hace que en algunos individuos no sea suficiente la respuesta, aunque esté bien el seguimiento.
+Por eso uno de los aprendizajes que tenemos de esto todavía no identificado este virus es que la salud es lo más importante. Si nosotros cuidamos nuestra salud, vamos a enfrentar a todos los millones de antígenos que van a seguir llegándonos.
+Pero si tenemos mermado, y ahí rápidamente lo digo, los mismos actores que se usan para controlar una diarrea por una shigella, los mismos actores tienen que actuar también para cuando sucede una enfermedad, como el cáncer.
+A lo mejor van a decir: ‘No, no es cierto’. No, sí son los mismos actores, nada más que cambian sus llaves o son específicamente llamados los que tienen memoria y esa es una de las claves del sistema inmune, tener memoria, hacer historia.
+Y los que están haciendo ahorita historia con la inmunidad ante este virus es posible que sean los más protegidos antes de que llegue la vacuna.
+Entonces, por eso se señala que los jóvenes, la gente que tiene un sistema inmune más completo, que no están ligados a enfermedades crónicas, son los que van a rescatar, entre comillas, esa situación a través de lo que se llama la inmunidad de rebaño.
+Esto es en términos generales algo de lo que pueden orientar a que ese tratamiento es uno de los que pudiera tener, siempre y cuando se logre hacia adelante hacer más específico un resultado acompañando algunas otras cosas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Fernanda, usted y usted.
+---
+PREGUNTA
+Le quería preguntar: ¿por qué es difícil encontrar un medicamento que sea 100 por ciento eficaz en la erradicación del virus?, ¿y qué características debería de tener este, por así decirlo, para que sea ideal y sea seguro y curativo y además eficaz?
+Si pudiera comentarnos sobre esto y relacionarlo con lo que acaba de explicar el doctor Alcocer.
+Y una más, debido a la tormenta de citoquinas que se desencadena ¿es seguro usar corticosteriodes para el tratamiento hacia COVID?
+Gracias.
+---
+JORGE ALCOCER VARELA
+Aquí en un principio, analizando los casos de China, se les ponía dosis altas de cortisona debido a que se encontró inflamación y después se vio que este factor condicionaba la no respuesta y la necesidad de antes usar el equipo, tanto de la atención del oxígeno como el ventilador.
+Por lo tanto, rápidamente la conclusión es: usarlo después cuando haya evidencia de la inflación. Y tenemos exámenes de laboratorio muy sencillos que nos orientan, no son nada diagnósticos, nos orientan y entonces cuando se usa cortisona, pero no en dosis grandes, porque las dosis mayores cambian mucho el sistema inmune.
+Por ejemplo, aplanan la posibilidad de producir los anticuerpos IgM, que son parte de lo que podemos nosotros tener para medir la inmunidad, que no se miden en todos los casos, hay enfermedades que nunca, nunca producen anticuerpos y se tienen que buscar otras herramientas diagnósticas.
+En este caso sabemos que sí se eleva la inmunoglobulina M y después la Igg y se da una connotación general de que hay respuesta inmune, pero eso es diferente a inmunizar, a estar listo para que si viene otra vez el virus, y es lo que pasa cuando regresa, pues vuelve a cantarse.
+No se han generado las células de memoria en ese tiempo, las células de memoria llevan su tiempo y requieren todo un mecanismo que no se conoce frente al virus.
+---
+JORGE ALCOCER VARELA
+Y desde luego tecnológicamente tenemos muchas posibilidades, pero no es que haya imposibilidad tecnológicamente, sino ubicar directamente qué es lo que a este virus lo neutraliza, lo dije, en los anticuerpos, en lo que puede ser en el otro proyecto; y desde luego eliminarlo tempranamente que eso es todavía más complicado, no existe por eso una propuesta novedosa.
+---
+PREGUNTA
+Doctor Alcocer, siguiendo con el tema del tratamiento, ya que no hay uno estándar para atender a los pacientes con COVID-19, ¿cada uno de los pacientes se atiende con algún fármaco dependiendo de sus comorbilidades y de su propia historia médica, digamos?
+Y quiero preguntarle también, que ya nos explicó que incluso este virus puede dañar pulmones, hígado, riñón, o sea, otros órganos, si los pacientes que se enfermen de este virus y tengan una enfermedad grave o a la mejor no tan grave, y se recuperen, si pueden tener secuelas importantes cómo, no sé, fallas renales o cardiopatías adquiridas, parece que hay algunos registros en otros países.
+¿Y qué estrategia estarían diseñando para entonces atender a los pacientes con esas secuelas?, ¿en qué momento se les da de alta?, ¿cuando ya no tienen el virus o hasta que, por ejemplo, están sin secuelas?
+Gracias.
+---
+JORGE ALCOCER VARELA
+Esto, como dice muy directamente, muy claramente, lleva a que cada paciente, y es en general en la medicina, no existe una enfermedad, sino existe un paciente, y en el paciente por lo general coinciden los tratamientos, pero siempre hay particularidades; y en este caso, si está acompañado de una de las enfermedades o el efecto de algunos de los medicamentos, por eso, lo puse ahí rápidamente, tenemos que atender a esa complejidad.
+Pero primariamente y en el 80, 90 de los problemas no ligados a otras enfermedades, es el pulmón el órgano, es la insuficiencia respiratoria, es la dificultad para respirar, eso es, y lo demás se va extendiendo de acuerdo al tiempo.
+Y la dificultad para contener, por ejemplo, y ahí termino, si hay problemas de coagulación se le agrega un medicamento que no sea tóxico, que no anticoagule al paciente, que esa es una de las ideas generales, sino en dosis menores, en dosis bajas, heparina, por ejemplo, que es lo que se usa en muchas situaciones virales, infecciosas, de otro tipo, y esto ayuda a que se prevengan las complicaciones posteriores, si no, el paciente termina mal o, como dice, con datos de daño real o daño de otro tejido. Entonces, es una complejidad, no es sólo el pulmón, pero sí es el central.
+---
+JORGE ALCOCER VARELA
+Pero no es un patrón definido, excepto lo del daño microvascular, por eso le digo de trombosis que hay que contenerlo, y fuera de eso hay muchas posibilidades de la expresión clínica.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Adelante, por favor.
+---
+PREGUNTA
+Con base en lo que escuchado, veo que sí hay una medida suficiente, por así decirlo, hasta el momento, para combatirlo en el sentido de la medicina.
+Este revisando que ustedes también cuentan con un sistema de sicología haciendo unos pequeños videos y unas recomendaciones, porque sabemos que, como bien dijeron ustedes, pues la salud es bastante amplia y no solamente la salud es dar medicamentos o dar la atención, también requiere la salud mental.
+Entonces, les quisiera yo preguntar y dependiendo su respuesta hacer una segunda pregunta, si ya como tal cuentan con un diseño o una estrategia para hacerle llegar a la población la sicología de una manera más tangible.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hay antecedentes. Hemos invitado en dos ocasiones, pero con mucho gusto le volvemos a invitar, a nuestro equipo de salud mental del que nos sentimos muy orgullosos y contentos: el doctor Juan Manuel Quijada, la doctora Lorena Rodríguez Bores, el doctor Gady Zabicky el doctor Julio, Jorge Julio González Olvera, entre otros varios, Evalinda Barrón, Diana Tejadilla, etcétera.
+Yo creo que vamos a tener una nueva sesión con ellos y explicamos nuevamente los distintos recursos que se han planteado para la salud mental. Ha habido capacitación al personal de salud, ha habido estrategias de contención, el propio número de atención que ha explicado el doctor Ricardo Cortés, 800 00 44 800, una porción importante de las llamadas que se hacen son por asuntos de salud mental, contención emocional y otros aspectos, pero ya toca. Vamos a hacer una actualización y se los explicamos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Le comento mientras, ahorita me lo pasa con mucho gusto y sí, en general, damos la bienvenida a cualquiera que quiera sumarse a contribuir en este momento.
+Gracias.
+---
+PREGUNTA
+Yo le tengo dos preguntas. La primera es si todavía no hay una vacuna, cómo es el mecanismo de la inmunidad de rebaño ¿cómo funcionaría si todavía no hay esta vacuna?
+Y la segunda pregunta es: ¿todos somos pacientes asintomáticos, seremos, fuimos?
+Espero que no. Gracias.
+---
+JORGE ALCOCER VARELA
+Tenemos un grupo de gente que está recibiendo el virus, que está reconociéndolo en toda esa maraña de células y empieza a protegerse produciendo moléculas, las más conocidas son las inmunoglobulinas, los anticuerpos y esos son parte de lo que les señalaba yo, que se guardan en la memoria y dentro de un año vamos a tener un espacio de meses, posiblemente nada más o menos inclusive, no sé cómo está sobrepuesto eso epidemiológicamente donde el virus ya no está activo, ya no tiene presencia, pero no se ha ido, hay enfermedades que tienen 50, 80 años y está el virus, otro virus, ahí presente en los tejidos y ya ahí se queda.
+Y en este caso, y también tenemos el ejemplo de los diferentes virus de la influenza, hay, pero son tantos los virus de las enfermedades respiratorias, que se protege para un grupo de ellos. Y en este caso, en esta experiencia que se está teniendo en estas nuevas células de nuestro organismo que están integrándose para contrarrestar el virus va quedando esa inmunidad.
+¿Qué tan potente?, ¿qué tiempo?, ¿y por qué unos si y otros no? Esas son preguntas que las tenemos que ir… las están conociendo y se tienen que ir sustentando, y dentro de un año vamos a tener nuevamente la presencia del virus y en algunos de nosotros los que… espero que yo sea uno de ellos, ya protegidos, no sabemos, podemos tener anticuerpos y salir avantes de eso, y nos va a agarrar la influenza, o una influenza que no fuimos vacunados, pero si nos vacunamos en todas las opciones, saldremos adelante en varias de estas enfermedades. Esa es la situación en general.
+---
+PREGUNTA
+Tengo tres preguntas rapidísimo. La primera, nos han llegado las denuncias de desabasto de sangre en cuestión de algunos hospitales, por ejemplo, el Hospital Juárez, en donde dicen que la gente ya no quiere ir a donar sangre ni plaquetas por miedo a que tienen un espacio para atender a pacientes de COVID; aunque estén en una sección específica, pues la gente ya no quiere donar y los pacientes oncológicos sobre todo pues están padeciendo de esto.
+Número dos, he visto algunas investigaciones de países como Chile, ahorita que relaciona estas enfermedades también referentes a que el virus, ya lo habían mencionado, puede entrar quizá por los ojos y esto se va al sistema sanguíneo y puede causar una trombosis. ¿Qué sucede con eso?, ¿es real?, ¿no?, ¿se han hecho las investigaciones?
+Y por último, si me podría mencionar, ¿se va a hacer alguna campaña o algo para poder conocer esta guía para las personas que necesiten una interpretación de señas?, ¿cómo va a funcionar esto de las videollamadas?, ¿se va a hacer una campaña o simplemente con la guía y los médicos?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre las dos primeras preguntas, también hemos invitado a nuestro muy apreciado colega, el doctor Jorge Trejo Gómora, quien es el director general del Centro Nacional de Transfusión Sanguínea, y aquí explicó con detalle cuáles son las previsiones que tomamos hace varias semanas, son prácticamente siete semanas, ocho semanas, para que no hubiera escasez de sangre.
+Y, de hecho, identificamos con antelación que en México solamente tenemos una muy reducida contribución de la transfusión o de la donación altruista. Esto viene de muchos años, se erosionó la capacidad del sistema nacional de procuración de sangre y provisión de sangre, para que hubiera donación altruista, estamos hablando de 37 años más o menos y solamente el siete por ciento de la donación es altruista, es voluntaria, es por deseo de donar.
+Y desde hace muchos años, todos estos años que mencionó, se pasó a una modalidad que no es la más conveniente, que consiste en condicionar la atención hospitalaria a la donación. En forma práctica ha resuelto por casi cuatro décadas la disponibilidad de sangre, pero no es conveniente por muchas razones, entre otras porque desfavorece la donación que hay.
+Y el doctor Trejo ha estado trabajando precisamente en eso y en el caso específico de la epidemia de COVID él anticipo con su equipo que podía haber este reto y estableció un programa precisamente de fomento a la donación sanguínea que ha tenido muy buenos resultados.
+Entonces, si usted tiene información específica de lo que comenta nos va a ser de gran ayuda para detectar este dato.
+Le pido al doctor si nos comenta de la guía.
+---
+RICARDO CORTÉS ALCALÁ
+Y lo que vamos a hacer es una campaña específica a través de redes sociales para llegar a la mayor cantidad de personas y poder explicar también con algunos videos y audios cómo es que puede funcionar este vínculo que hacemos con la sociedad civil para que los intérpretes de lengua de señas mexicanas puedan apoyarnos a las personas que así lo requieren para poderse comunicar mejor con los servicios de salud.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Me escribe el doctor Jorge Trejo precisamente diciéndome que en el Hospital Juárez hoy, hoy, con la estadística de hoy existen 86 concentrados eritrositarios, esto, es decir, glóbulos rojos, son bolsitas de glóbulos rojos y 617 plasmas libres. Entonces, no hay escasez en el Hospital Juárez.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Durante la epidemia de COVID, en el momento en el que se alteran muchas de las actividades diarias puede ser que se reduzca la disponibilidad de sangre y esta disposición de sangre es sumamente importante para múltiples tratamientos que no tienen que ver con COVID y es muy importante que haya
+Entonces hacemos un llamado y le aprecio su pregunta motivar esta inquietud.
+Nos queda… ya se nos acabó el tiempo. Bueno, nos vemos mañana.
+Aquí está el anuncio. Si el doctor Cortés quiere comentar.
+---
+RICARDO CORTÉS ALCALÁ
+Para todas las niñas y niños que participaron, muchísimas gracias. Más de tres mil 500 participaciones de diferentes niñas, niños y adolescentes de diferentes edades, de diferentes culturas con y sin discapacidad de todo el país que están aguantando ahí como campeonas y campeones la Jornada Nacional de Sana Distancia. Mañana es su día, mañana es el día en que van a interactuar con el doctor López-Gatell. Nos vemos mañana en punto de las 7:00
+Muchas gracias.

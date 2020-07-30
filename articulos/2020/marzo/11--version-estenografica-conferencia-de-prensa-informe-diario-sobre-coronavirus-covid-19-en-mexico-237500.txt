@@ -1,0 +1,221 @@
+Versión estenográfica | Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+11 de marzo de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Como es costumbre, vamos a tener hoy dos elementos:
+El primero va a ser: el doctor José Luis Alomía, director general de Epidemiología, va a comentar sobre la situación mundial y el panorama de la dispersión de este virus y también la situación en México.
+Hoy tenemos un invitado especial, que es el doctor Jean-Marc Gabastou quien es asesor regional para Emergencias y Laboratorio de la Organización Panamericana de la Salud, Organización Mundial de la Salud, residente en nuestro país, quien ha estado desde el inicio de nuestra fase de preparación, que inició en enero, acompañándonos y asesorándonos en todas las materias técnicas que tienen que ver con bioseguridad, diagnóstico por laboratorio, organización de los sistemas de emergencia y la preparación para la respuesta de atención médica.
+Especialmente le pedimos al doctor Gabastou que nos acompañara hoy porque las declaraciones que hoy presentó el doctor Tedros, director general de la Organización Mundial de la Salud, han causado una importante inquietud en nuestro país y en el mundo, y consideramos que es pertinente que la propia organización, en voz de uno de sus funcionarios, pueda proporcionarnos una perspectiva directa del significado de estas declaraciones para el mundo y también lo que pudiera aplicar para el caso de nuestro país.
+Le pido entonces al doctor Alomía -después abriremos para preguntas y respuestas, le pido al doctor Alomía si comienza.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Si nos permiten la primera diapositiva, el panorama internacional, en ella podemos ver la actualización para el día de hoy, un poco más de 118 mil casos confirmados a nivel internacional, de los cuales un poco más de cuatro mil 600 casos son los que se han confirmado en las últimas 24 horas.
+Como comentábamos el día de ayer, modificamos ya un poco la forma de cómo presentar la cuenta de casos y ahora lo hacemos por región para que un poco se pueda ver dónde está en este momento llevándose a cabo la transmisión activa y dónde está incrementándose la curva de casos.
+Como ustedes pueden ver, precisamente, es en la región de Europa en donde se han confirmado prácticamente el 65 por ciento de los casos en las últimas 24 horas, con dos mil 998 casos, prácticamente ya Asia, el suroriental, donde está China, ya no presenta prácticamente actividad de casos confirmados en las últimas 24 horas.
+Y lo que correspondería a las Américas, que es donde estamos nosotros situados, fueron 282 casos en toda la región que se confirmaron en las últimas 24 horas, de hecho fueron cuatro países los que se suman a la totalidad de países que en su momento han confirmado casos; y para efectos de nuestra región se suma Bolivia y se suma también Jamaica con casos ya confirmados para la región de las Américas.
+Si vemos en la siguiente diapositiva, donde tenemos ahora nuestro panorama nacional, el día de hoy se suman cuatro nuevos casos confirmados, el día de ayer teníamos siete, el día de hoy tenemos 11 casos, así también tenemos 264 casos ya descartados, que en su momento fueron sospechosos y tenemos 49 casos sospechosos que, como lo hemos estado comentado, es precisamente en este grupo en donde podríamos esperar encontrar nuevos casos confirmados.
+En relación a los cuatro nuevos casos que se han confirmado, el primero de ellos fue en el estado de Querétaro, en un hombre de 43 años. El antecedente de viaje de esta persona es a España, tiene hasta el momento identificadas dos contactos que están asintomáticos y su aislamiento por su sintomatología leve es de tipo domiciliario.
+Otro caso se confirmó, de una persona en la Ciudad de México en un hospital institucional. Es un masculino de 41 años, también con una presentación clínica leve, por lo tanto, se encuentra en aislamiento domiciliario y su antecedente de viaje fue al país de España.
+El tercer caso que se suma a la estadística es también una persona residente de la Ciudad de México. En este caso una mujer de 30 años de edad, también con sintomatología leve, por lo tanto, su aislamiento es domiciliario y su antecedente de viajes al país también de España.
+Y el cuarto caso que se suma es un residente del Estado de México. Una mujer de 64 años, igualmente con sintomatología leve, por lo tanto su aislamiento en este momento es domiciliario y su antecedente de viaje es a los Estados Unidos de América, serían los cuatro casos que se confirman.
+Si vemos en la siguiente diapositiva, vemos ya integrados estos cuatro nuevos casos en la tabla de seguimiento de contactos y podemos identificar que ahora los contactos que están bajo seguimiento de estos 11 casos suman 222, de los cuales 218 se mantienen asintomáticos, cuatro presentaron sintomatología, de los cuales tres ya tenemos resultados negativos y uno está todavía pendiente de resultado, ha sido de los que se han sumado contactos sintomáticos en las últimas 24 horas, esperemos que para el día de mañana ya podamos tener en su momento el resultado.
+Así también es importante comentar que en el estado de Puebla se detectó una persona que dio positivo a la prueba, pero que nunca desarrolló signos y síntomas de enfermedad. Esta persona fue referida por la empresa para la cual trabaja, dado que tenía el antecedente de viaje al extranjero, específicamente a Italia, fue referida para que en un laboratorio particular se le llevara a cabo una prueba diagnóstica, esta sale positiva, inmediatamente se envía a su laboratorio estatal de salud pública de Puebla para que pueda ser ratificada en base a la metodología ya liberada y certificada por el Indre.
+Y, efectivamente, entonces se confirma que hay colonización y positiva de SARS-COV-2 en las vías respiratorias.
+Pero es importante comentar que a esta persona se le considera como portadora del virus, hay otras definiciones que dicen persona infectada asintomática; nosotros decimos portador en el sentido que sabemos entonces ahora que está presente el virus, pero que no ha desarrollado síntomas.
+La persona lógicamente, independientemente de esto, se mantendrá en resguardo domiciliario durante los 14 días completos ante lógicamente un riesgo que es mucho menor en las personas que no desarrollan síntomas porque, al no estar tosiendo ni estornudando, lógicamente la dispersión de gotas que pueden contener el virus no está presente; sin embargo, en base a los lineamientos actuales y para efectos de poder llevar el riesgo al mínimo posible, entonces se recomienda el aislamiento correspondiente.
+Entonces, esa sería la actualización de los panoramas hasta el momento.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Le pido entonces al doctor Jean Marc Gasbatou si nos puede comentar sobre el panorama internacional y la OMS.
+---
+JEAN MARC GABASTOU, ASESOR INTERNACIONAL DE EMERGENCIAS DE SALUD DE LA ORGANIZACIÓN MUNDIAL DE LA SALUD
+Hoy, declaratoria de pandemia, un triste recuerdo para este maravilloso país con una gran diferencia, es que la pandemia esta vez se origina en China y no en México.
+¿Qué repercusiones tiene?
+Primero, es una declaratoria que se esperaba, ahora todos los ingredientes están reunidos, más de 100 países en el mundo afectados, o sea, la mitad del planeta, cinco continentes y 10 países con transmisión sostenida que a su vez se transforma en potenciales exportadores del virus de la enfermedad a los otros países.
+En otras palabras, cambia la escala de magnitud geográfica, más países, más gente, un aumento exponencial de casos que hace que una epidemia cambie de definición y pasamos a la pandemia.
+Es un recordatorio para los países que aún no están preparados, no han terminado sus preparativos, para que inmediatamente se detecten oportunamente los casos, se les aísle y se salven vidas atendiéndole oportunamente.
+Dos, que se limite la transmisión de persona a persona, que se mantengan los servicios esenciales en los establecimientos de salud y en las redes hospitalarias para atender otras enfermedades y no vía actualmente infecciosas, las crónicas, cardiovasculares, emergencia, etcétera.
+Y creo que es muy importante aquí este tipo de rueda de prensa, comunicar, comunicar a la población en tiempo real, en total transparencia con la información actualizada y basada en evidencia. Una población informada sobre los riesgos tomará las buenas decisiones para la contención y la mitigación de la extensión de la enfermedad en este país.
+¿Qué significa para este país la legitimización de los esfuerzos con sentido?
+Este país fue el primero en reaccionar, en implementar la capacidad de diagnóstico en todo el país, 32 estados, la Ciudad de México y en total 40 laboratorios que están en condiciones de establecer un diagnóstico confirmatorio y descartar con diagnóstico diferencial las otras enfermedades respiratorias.
+Este país siempre ha tenido un paso adelante para el escenario uno, que se ha descrito, casos importados.
+El escenario dos, ya con brotes comunitarios; y ojalá no entremos en el escenario tres, que es la diseminación y un perfil epidémico a escala país, por lo cual este país también se está preparando activamente para dar respuesta.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos entonces a abrir directamente a preguntas y respuestas.
+Está aquí la compañera Blanca Valadez, usted, usted, Jaime, Natalia y Araceli, todas.
+---
+PREGUNTA
+Hoy el presidente dejó muy en claro que no hay un maquillaje de cifras; sin embargo, infectólogos, colegas de ustedes han mostrado mucha preocupación por el número de pruebas que se han realizado, que son muy pocas. Alejandro Macías, que fue coordinador de la pandemia H1N1, dice que si surgiera este brote, se desbordaría.
+Entonces, quiero saber cuántas pruebas se están haciendo, por qué no está aplicando como lo hizo Corea del Sur, aplicó 200 mil pruebas para detectar de manera inmediata y tiene la tasa más baja de mortalidad ahorita.
+Entonces, saber qué está pasando con las pruebas, por qué siguen con ese lineamiento de solamente con antecedentes de viajes y si esto podría revertirse finalmente al país.
+También preguntarles: ¿qué pasa con los embajadores?, ¿con la gente que trabaja en México, pero fuera del país en esos países?, ¿hay algunos infectados?, ¿hay casos que nos puedan comentar si ya tienen documentación de algunos que están justamente en una situación delicada y están en aislamiento?, ¿cuál es el reporte que nos puede dar?
+Y nada más por último saber sobre Hacienda, el propio presidente dijo que no se requerían recursos, que sería tomar 40 mil millones de pesos y de esa bolsa casi prácticamente se va a tomar todo.
+¿Cuánto se tomaría de esos 40 mil millones de pesos?, ¿se va a crear un fondo?
+¿Y por qué se van a hacer compras? Hacienda anunció que van a hacer compras. ¿Van a hacer, adelantar la licitación de compras? No sé si tiene que ver para fortalecer la reserva estratégica o bien para evitar un desabasto de medicamentos posterior.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Empiezo de atrás para adelante, sobre este tema de las compras, sobre la Secretaría de Hacienda y el trabajo conjunto y coordinado que tenemos, no solamente con la Secretaría de Hacienda, sino con todas las dependencias de la administración pública federal, las estatales y las nacionales, es decir, tenemos una coordinación absoluta de todo el país.
+Sobre las compras, lo que ha insistido muy atinadamente el secretario de Hacienda y Crédito Público, el docto Arturo Herrera, es lo que precisamente es su responsabilidad, que es contribuir con las decisiones hacendarias a mitigar los impactos económicos que puede tener esta pandemia.
+La principal contribución hasta el momento para los impactos que pudiera tener en México son precisamente los internacionales, obviamente en México en el episodio uno, en el estadio uno sólo tenemos importación de unos pocos casos, no hemos tenido una afectación relevante a la realidad económica, pero en la medida en que en el mundo ha cambiado la situación, esto impacta finalmente a la economía mexicana como afecta a la del resto del mundo.
+El tipo de medidas que corresponde ejecutar a Hacienda, y para las que el doctor Herrera es precisamente un experto en la materia, son una serie de medidas de estímulo a la economía. Desde luego no puedo dar tantos detalles porque no soy experto yo en la materia, pero él estoy seguro que sí, son medidas de estímulo a la economía que permitan a los distintos actores económicos minimizar las pérdidas o anticipar la posibilidad de no quedar fuera de lo que los economistas llaman cadenas de valor, que son las cadenas de producción global.
+Hay muchos productos, una enorme cantidad de productos para cualquier país del mundo que se producen sus materias primas, sus productos intermedios en otras partes del mundo, la economía está globalizada.
+Entonces, ese es el tipo de decisiones que le corresponde ejecutar y las ejecuta con gran maestría el secretario de Hacienda.
+Ahora, por otro lado, dos elementos adicionales de colaboración que tenemos con la Secretaría de Hacienda y que son muy benéficos tienen que ver con la evaluación de los impactos económicos y me remonto aquí, como lo hacía el doctor Gabastou a lo que ocurrió hace 10 años, donde México tuvo una pérdida de uno por ciento del Producto Interno Bruto por efecto; en aquel entonces, estamos hablando de hace 10 años, de la pandemia de influenza 2009, y esta pérdida económica estuvo directamente relacionada en su mayoría con las alteraciones al turismo, al comercio y a los servicios también nacionales.
+Lo destaco porque en un momento seguramente vamos a hablar nuevamente de las medidas de salud pública que estamos tomando y voy a retomar precisamente sobre esto, las consecuencias económicas y sociales que también pueden tener estas medidas y por qué es tan importante con una precisión muy cuidada, no anticipar medidas que no corresponde a la magnitud del riesgo.
+Sobre la segunda pregunta, era el tema de si tenemos conocimiento de que haya diplomáticas y diplomáticos mexicanos afectados. No, hasta el momento no tenemos noticia de ello, generalmente para fines prácticos no tendrían por qué notificárnoslo, dado que los servicios de atención de la salud del personal diplomático se resuelven en los países donde están asentados.
+Sin embargo, aprovecho para destacar también y agradecer al secretario de Relaciones Exteriores, al canciller Marcelo Ebrard, la enorme colaboración y apoyo que hemos tenido para el país en su conjunto, para la Secretaría de Salud como coordinadora de toda esta respuesta y hay una comunicación extraordinariamente fluida con el propio canciller, con los tres subsecretarios y la subsecretaria y con todo el personal que está en los distintos ámbitos.
+¿En qué consiste esta colaboración?
+Principalmente en actuar de manera coordinada para comunicar los riesgos y la situación del país en el exterior y también para proteger a los mexicanos en el exterior.
+México tiene un programa desde hace mucho tiempo, desde hace más de 10 años que se llama Ventanillas de la Salud. Este es un programa que opera la Secretaría de Relaciones Exteriores en los 50 consulados mexicanos en Estados Unidos, pero también con la colaboración de la Secretaría de Salud; y justamente estamos articulando los mecanismos para proteger a nuestros connacionales en Estados Unidos y también a través de las embajadas y consulados el difundir información para nuestros connacionales, para los otros actores internacionales y esta colaboración es muy, muy fluida. Hace unos minutos precisamente terminamos una conversación adicional, llevamos muchas al respecto.
+Sobre las pruebas, el elemento principal que debemos tener presente, no sólo para el tema de pruebas, sino para todo lo demás, lo hemos dicho desde hace varios días, lo seguiremos diciendo es y lo acaba de decir el representante de la Organización Mundial de la Salud, Organización Panamericana de la Salud, cada país debe responder de acuerdo a su realdad epidemiológica.
+Corea del Sur está desde hace varios días, cerca de 10 o 12 en el escenario dos y ahorita está en el escenario tres, es decir, tuvo dispersión comunitaria, luego dispersión comunitaria sostenida y ahorita tiene una propagación generalizada.
+Y esto le llevo a Corea a tomar decisiones donde uno de los posibles abordajes diagnósticos es el realizar de manera extensiva pruebas de laboratorio.
+México no está en esa condición, México está en el escenario uno, donde tenemos una decena y media de casos importados y ahorita estamos aplicando las medidas de contención que acaba de caracterizar el doctor Gabastou y que hemos dicho diariamente aquí que consisten en la detección temprana de los casos, su confirmación diagnóstica, el aislamiento y el estudio de todos sus contactos para interrumpir las cadenas de transmisión.
+Entiendo la inquietud de nuestros colegas, no solamente infectólogas, infectólogos, sino de cualquier miembro de la ciudadanía en México de que comparan con la información internacional y existe la expectativa de que México debería estar haciendo lo mismo.
+Los países que pasaron por la etapa en la que está México hicieron medidas parecidas a las que está haciendo México ahora.
+En un momento dado, cuando México pudiera estar en los siguientes escenarios, algunas de estas medidas serán tomadas, las hemos explicado también diariamente, respecto a hacer pruebas y el momento de vigilancia. No necesariamente la mejor opción es la que hizo Corea, mis respetos para Corea, el país y el gobierno, pero no necesariamente es el modelo que corresponde a México.
+De hecho, lo anticipo, lo anunciaremos ya más formalmente en su momento, la Organización Panamericana de la Salud seleccionó a México, junto con otros dos países del continente, para ser quienes encabecen la transformación hacia el modelo Centinela de vigilancia de coronavirus, basado en el modelo que México tiene muy bien cimentado y estableció en 2006 de vigilancia centinela y ese es muy probablemente lo que en su momento haremos y lo explicaremos en detalle.
+Compañera.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Tenemos, lo explico de manera breve, ya lo explicaremos en detalle, tenemos cerca de 360 unidades monitoras de influenza, son unidades de salud ordinarias, no son centros especializados, ni de influenza ni de coronavirus, pero lo que hacen es: siguen un protocolo de detección sistemática, de ahí se obtiene un muestreo que no necesariamente es cinco por ciento y de ello se tiene una señal que permite de manera muy consistente tener el mapa de distribución de las epidemias, en este caso las respiratorias en el país y además caracterizar el comportamiento clínico y epidemiológico del virus y además hacer vigilancia virológica que México para el caso de influenza hace desde 1954 a través de su Laboratorio Nacional de Referencia.
+Colega, por favor.
+---
+PREGUNTA
+La OMS ha convocado a la promoción de medidas que permitan la producción de materiales como cubrebocas, filtros y demás.
+Considerando la afortunada situación de México, ¿qué medidas se van a tomar para poder promover o ayudar a otros países que necesitaran estos materiales?
+¿Y en investigación qué es lo que se está haciendo?
+Y, finalmente, nos están preguntando mucho con respecto a si puede aclarar cómo estamos protegiendo a nuestros médicos y personal de salud y con qué recursos materiales.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ahí están todos los materiales, todos son públicos, algunos son de interés técnico como la guía de control de infecciones, que es la que es relevante para responder su pregunta, lo mismo la guía de atención médica, la guía de vigilancia epidemiológica de laboratorio.
+Un asunto que ha sido materia de especulación en las redes sociales y en los medios de comunicación formales es por qué no vemos como vemos en otros países estos trajes de protección personal que se llaman trajes tyvek.
+Ayer el doctor Alomía explicaba precisamente la razón: porque esta enfermedad no requiere ese tipo de trajes, el manejo de esta enfermedad se transmite por vía respiratoria y por gotas y es un estándar universal las medidas de protección que corresponde a estos mecanismos de transmisión, básicamente consisten en caretas, mascarillas, googles para evitar la contaminación a través de las conjuntivas, de los ojos y el uso de mascarillas N95 que son filtros de alta eficiencia de uso clínico para el personal de salud que está en contacto directo con los pacientes, particularmente quien va a realizar procedimientos en la vía respiratoria, para tomar muestras o para otro tipo de procedimientos.
+El resto del personal de salud no requiere utilizar esta mascarilla cuando está a una distancia apropiada superior a un metro en promedio de los casos; la población general menos aún, menos aún y esto lo hemos dicho repetidamente, porque cuando surge el miedo, cuando surge el pánico, que son reacciones totalmente naturales en los individuos y en la población, existe la sensación de que si se tiene un objeto de obstrucción de la cara como puede ser un cubrebocas, ya sea el cubrebocas quirúrgico ordinario, esta telita azul que se pone el cubrebocas de alta eficiencia existe una protección.
+¿Por qué enfatizamos el que esto es un mito?
+Porque puede dar una sensación de falsa protección y entonces otras medidas esenciales, que también comentó el especialista de OPS, como lavarse continuamente las manos pueden relajarse, porque la gente percibe que como ya está cubierta su cara, su nariz y boca con un cubrebocas ya no tiene riesgo. La verdad es que esto no le protege sustancialmente, no lo necesita y en cambio es indispensable que acuda al lavado continúo de las manos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hasta el momento, que yo conozca, no tenemos ninguna solicitud formal de apoyo, pero por supuesto la tradición diplomática y solidaria que tiene México, si está en nuestras posibilidades, asumo que el presidente López Obrador daría una instrucción de estar disponibles para este tipo de apoyo.
+Vamos a darle a la compañera, a Natalia Vitela y nos vamos uno y uno.
+---
+PREGUNTA
+A mí me gustaría que, me imagino que ya lo ha repetido varias veces, pero que nos aclarara en qué momento la Secretaría de Salud del gobierno federal empezaría a limitar tal vez viajes y tal vez congregaciones tumultuosas de gente, tal vez que los niños no vayan a las escuelas. ¿En qué momento ya se llevaría a cabo este tipo de medidas extremas?
+Tengo entendido que es ya en una fase tres, pero si nos puede hablar de porcentajes tal vez de enfermos, ser muy específico en este sentido, porque hay mucha inquietud por parte de nuestros lectores en torno a esta situación.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+En este caso eso no lo hemos precisado, lo que sí anunciamos el lunes pasado es que en la reunión del Consejo Nacional de Salud que ocurrió el pasado viernes 6 de marzo tomamos una resolución en la que precisamente, a petición de las y los secretarios de salud estatales, enviaríamos un lineamiento técnico más preciso sobre los criterios que se deben aplicar para considerar la cancelación de eventos públicos o el tránsito de personas en situaciones de congregación masiva, esto incluye sitios de uso ordinario, es decir, común, frecuente, como las escuelas, los trabajos, pero también congregaciones extraordinarias, como los festivales, conciertos, maratones, etcétera, etcétera.
+Esto lo vamos a explicar mañana que vamos a estar en mismo recinto en la conferencia matutina. Nos ha pedido el presidente que dediquemos la conferencia matutina enteramente al tema de coronavirus y vamos a venir en bloque todos los que estamos o los que estamos al frente de todo esto, y vamos a explicar esto. No es que no le quiera decir en este momento, pero mañana vamos a tener la oportunidad de explicarlo a detalle.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La respuesta es no, la declaratoria de pandemia, y ahorita le pediré nuevamente el apoyo al doctor Gabastou, para contextualizar por qué la OMS, la Organización Mundial de la Salud, hace estas declaraciones y cuál es su auditorio, en quién está pensando, en qué países y por qué es tan enfático en algunas cosas.
+En sentido técnico declarar una pandemia no significa que la situación es más grave, es decir, la proporción de personas que pueden tener enfermedad grave en cambio de, como es la mayoría, enfermedad leve, es igual.
+Lo que significa una pandemia es simplemente una medida de propagación internacional, y hay algunos criterios un tanto concertados para decir cuántas regiones o cuántos países afectados o qué patrón de transmisión ya se considerara una enfermedad de carácter pandémico, pero no se vuelve más grave.
+Y la dinámica de la prevención y el control en los países no cambia sólo por el hecho de declarar una pandemia, siempre que el país esté haciendo las medidas de preparación y respuesta que son apropiadas. Y entonces, le pido al doctor Gabastou si nos puede comentar.
+---
+JEAN MARC GABASTOU
+Las medidas en los aeropuertos se han tomado y se han tomado en el marco del reglamento sanitario internacional que insta a los países a implementar medidas que permitan prevenir, proteger, controlar y responder a eventos de salud pública de importancia internacional, de ahí la declaratoria del 30 de marzo de nuestro director general, el doctor Tedros, pero en el pleno derecho respecto del derecho humano y sin interferencia en el tráfico y en el comercio.
+¿Qué significa eso?
+Establecer un balance entre el costo y la eficiencia de las medidas, históricamente estas medidas que a veces son drásticas no han demostrado su eficiencia, pero sí su costo económico, pero también el trauma que ello genera en la población, entre otras.
+Pero también la visión, la imagen del país, un país comerciante, un país turístico, un país hospitalario que realmente tendría dificultad en implementar estas medidas tan drásticas.
+Sin embargo, cuando vamos a entrar eventualmente muy pronto en el escenario dos, se van a iniciar, como se presentó aquí, medidas de contención puntuales y eso es responsabilidad del país en sus tres niveles geopolíticos, o sea, que puede ser a nivel de municipio, de distrito, de la jurisdicción del Estado y obviamente algunas medidas federales que realmente van a ser muy puntuales, porque definitivamente eso permite un respiro, una reorganización de los servicios puntualmente, pero no va a solucionar por sí solo la problemática.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Natalia Vitela, Jaime Hernández, usted y allá.
+---
+PREGUNTA
+Entiendo, entonces doctor Gatell, que las pruebas que está realizando México son las pruebas que tiene que realizar. Y si me puede actualizar el dato de cuántas pruebas está realizando.
+Me puede hablar también del modelo Centinela que va a encabezar México, por favor.
+Y cómo va el estudio de mercado para lo de la reserva estratégica, entiendo que también Hacienda lo estaba haciendo.
+También preguntarle sobre el pánico que ha creado entre la población esta declaración de la OMS y cómo puede afectar, más allá del que haya coronavirus, cómo puede afectar si hay saturación de hospitales, ¿qué está sucediendo?
+Y si, por ejemplo, Estados Unidos cancela vuelos procedentes de Europa, podrían conectar a través de México ¿eso podría implicar algún riesgo?
+Muchas gracias.
+---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La afectación de la economía típicamente ocurre por, digamos… Voy a simplificarlo, desde luego a reserva de lo que digan los especialistas en economía.
+Una es que se afecte la producción, la producción de insumos, esto lo vemos reflejado, por ejemplo, en las medidas extrema de contención que tomó el gobierno chino al inicio de esta epidemia, dejaron vacíos en la producción de insumos porque se pararon las fábricas literalmente, no todas obviamente y asumo que el gobierno chino cuidó también ese aspecto, pero irremediablemente tuvo que cancelar trabajos, y hubo gente que no fue a las fábricas; entonces, se dejaron de producir materiales que se usan para productos que finalmente se ensamblan en China o en otras partes de China y llegan a muchos países.
+Este es un asunto… Porque lo que hace es que ya no lleguen los productos, los productos pueden encarecerse o sencillamente puede escasear, esa es una manera.
+Otra manera común en las epidemias es cuando existe un estigma hacia los países y por eso hemos enfatizado desde el 22 de enero, cuando dimos la primera conferencia de prensa sobre esto, que es un error garrafal, sin sustento científico o técnico calificar a los connacionales de un país como los causantes de las epidemias, en principio China, ahorita Italia, próximamente ahorita 10 países, carece de sentido.
+México sufrió esta situación en 2009 precisamente porque, contrario al Reglamento Sanitario Internacional, hubo varios países que estigmatizaron a México como el sitio de origen de la en ese momento 2009 de la influenza. Entonces, eso no hay que hacerlo, porque daña a la economía, daña a las sociedades y perturba la situación, es el tipo de afectación.
+Una tercera puede ser, como lo señalaba ya el doctor Gabastou, si se toman decisiones poco científicas, poco técnicas, poco cuidadas o a destiempo como cerrar puertos de llegada, terrestres, marítimos, aéreos, entonces se manda una pésima señal al turismo internacional, que es muy sensible a estas cosas, y se empieza a dar una señal de que no vengan al país porque el país es un sitio de riesgo y eso tiene pérdidas económicas impresionantes.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Esto no es algo nuevo, esto es la extensión de la medida que tomaron ya desde que estaba la epidemia sólo en China y que entró en vigor el domingo 2 de febrero a las 5:00 de la tarde y que básicamente consiste en que connacionales que venían de, en ese caso China, ahora será Europa, no podían estar en Estados Unidos.
+También estableció que los propios nacionales de Estados Unidos entrarían en un periodo de cuarentena.
+Esto implica riesgos importantes para el tema económico, pero además una complejidad muy grande, es muy difícil, realmente, operacionalizarlo en términos técnicos, porque estaríamos hablando de decenas, centenas de miles de viajeros.
+¿Qué puede pasar en relación a ello hacia México?
+Puede pasar, efectivamente, que se considere a México como una alternativa de desplazamiento de connacionales, de viajes, no lo podemos saber en este momento, pero tenemos una fluida comunicación también con las cámaras empresariales y la industria turística en México.
+Aquí agradezco al secretario de Turismo, el licenciado Miguel Torruco, porque también esto nos ha permitido prever escenarios, ya informaremos en su momento cuando conozcamos las posibles consecuencias y el canciller Ebrard está al pendiente, muy al pendiente de toda esta situación y nos ha recomendado abordar muy rápidamente a las autoridades europeas a través de los mecanismos diplomáticos para poder explicar en qué fase está México, cuáles son las medidas, etcétera, etcétera.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Efectivamente, prácticamente a la par o minutos antes de que iniciáramos esta conferencia vespertina, Nuevo León efectivamente dio a conocer un caso confirmado, que es un masculino de 57 años de edad, con antecedente de viaje a Europa, específicamente a Alemania y España, su estado es leve, está en aislamiento domiciliario con cinco contactos que hasta el momento son asintomáticos; entonces, es un caso más que, digamos, se suma a través de una confirmación por parte directa del estado de Nuevo León.
+---
+INTERLOCUTORA
+Sobre este modelo Centinela que va a encabezar México, el estudio de mercado de Hacienda y la reserva estratégica y el pánico.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo de la reserva estratégica lo explicó el otro día el doctor López Ridaura, director del Cenaprece, pero retomo sobre ello. Antiguamente, y cuando antiguamente me refiero hace unos 15 años aproximadamente, el modelo de reserva estratégica que se consideraba en el mundo para cada país o cada circunstancia era el acúmulo, juntas físicamente insumos para la salud, equipos, materiales, etcétera, y tenerlos listos por si ocurría una situación como esta.
+Desde hace al menos unos 10 años esto ha sido motivo de discusión en los foros globales sobre seguridad en salud, y se ha visto que no es un modelo conveniente, porque lo que ocurre con eso es que, ante la imprevisible que son la fecha de llegada de los eventos como este, las epidemias, uno entra en riesgo de que se deteriore el material. Y el riesgo mayor es tener un material que no va a servir en el momento oportuno.
+Entonces, desde hace mucho, insisto, 10 años aproximadamente, ya se consideró otros mecanismos de reserva estratégica que en algunos casos tienen que ver con tener una lista de la demanda en forma anticipada y una identificación temprana de proveedores.
+Eso es lo que estamos haciendo en este momento, y aquí nuevamente la participación de la Secretaría de Hacienda es muy útil para agilizar este proceso de adquisición de insumos; agradecimiento también al canciller Ebrard y Relaciones Exteriores, que ya solamente para el proceso de compra consolidada ordinaria de los insumos normales, ya había tenido un mapeo de los mercados globales.
+Sobre las pruebas. ¿Cuántas se han hecho?
+Depende cuántas personas han tenido la condición de caso sospechoso, y en algunos casos depende cuál es la carga viral que tiene, porque se ha tenido que hacer un monitoreo a lo largo de su evolución para ver si ya se les da de alta. No hay una cifra predeterminada de cuántas pruebas deben hacerse o van a hacerse, depende precisamente de la dinámica de la epidemia.
+El modelo Centinela lo explicaré mañana, precisamente como parte de esta explicación general de cómo funciona la vigilancia epidemiológica y por qué en México tenemos varios elementos de monitoreo, uno es la vigilancia de casos sospechosos, por qué tenemos una definición de sospechoso que es una manera de tener anticipación a la detección antes de la confirmación, por qué hacemos también una vigilancia basada en laboratorio y una vigilancia basada en eventos; pero todo eso lo explicaré mañana.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hemos dicho, las autoridades estatales les respaldamos absolutamente, están haciendo un espléndido trabajo todos los gobernadores y las dos gobernadoras, los secretarios y secretarias de salud y nos parece completamente entendible que ellos en la dinámica del Estado se anticipen a comunicarlo en cuanto llega, pero nosotros tenemos un corte de información y la información la acumulamos hasta el corte.
+Si llega un caso después del corte no pasa nada, se incluye al día siguiente.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a pasar… el pánico ahorita lo retomo, porque seguramente va a hacer un comentario general.
+Jaime Hernández, Melina y allá.
+---
+PREGUNTA
+Ahora que la Organización Mundial de la Salud ha declarado como pandemia el COVID-19 debido a su rápida expansión, ¿podría informarnos sobre el riesgo de reincidencia del virus en los pacientes que se han declarado como recuperados?, ya que de acuerdo al Cidar, Centro de Investigación y Política de Enfermedades Infecciosas, pacientes que han salido recuperados pueden ser portadores del virus después de cinco o 13 días.
+¿Qué opinión le merece al respecto?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Por ahí han estado circulando esporádicamente noticias de personas, esto originalmente se describió en China, algunas personas se cuentan con los dedos de una mano que después de haber sido dados de alta regresaron nuevamente con síntomas y aparentemente se encontró que tenían nuevamente infección por el virus.
+Como ha explicado el doctor Gustavo Reyes Terán, coordinador de los institutos y experto en infectología clínica y virología, no existe ninguna evidencia de que esto sea un patrón generalizado. Algunas personas tienen variantes en la calidad de su respuesta inmune y podría ser que algunas personas, pero que son rarezas en términos de su frecuencia en la población tuvieran esta circunstancia.
+No consideramos, no sólo nosotros, sino la Organización Mundial de la Salud y los expertos internacionales en ciencia, que esto tenga un significado relevante para la epidemia, pero vamos a decirle al doctor.
+---
+JEAN MARC GABASTOU
+Y eso es lo que se aplicó para los pacientes que estuvieron hospitalizados y/o a domicilio para darle de alta al momento en el cual estamos seguros que no van a transmitir el virus y la enfermedad de persona a persona.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Antes de pasar a la siguiente, le pido al doctor Alomía si nos ayuda a aclarar una información que hoy estuvo circulando profusamente en redes sociales sobre el manejo de las personas con síntomas.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Estamos en el escenario uno, volvemos nuevamente a tomar el tema, no es algo que esté indicado por la Secretaría de Salud ni por la UIES, este fue un modelo muy específico que se armó para atención precisamente de los viajeros internacionales o de nuestros connacionales que estuvieron en el extranjero y regresan ante la posibilidad de que sí sean casos sospechosos.
+O sea, aquí lo que prima en todo caso y la importancia es tener el antecedente del viaje internacional, porque si yo tuve el antecedente de viaje internacional, porque si yo tuve el antecedente de viaje internacional, entonces mi probabilidad de ser caso sospechoso es alta, y al poder ser caso sospechoso, entonces sí es preferible que me quede en mi domicilio, marque al 800 00 44 800, transmita mi situación al profesional que me va a atender en la UIES, el personal va a hacer en enlace con los servicios de salud del estado donde se encuentra la persona para que, ante el antecedente de viaje internacional, entonces sí se puede realizar este tipo de valoraciones a domicilio.
+Pero esta no es una instrucción para toda la población, porque si yo soy un mexicano que estoy aquí en Ciudad de México y no he viajado en los últimos 14 días fuera del país, no tengo un riesgo de ser un caso sospechoso, más bien lo que podría tener es influenza, y si tengo influenza debo de acudir oportunamente y rápidamente a demandar atención a un centro de salud o a una clínica familiar para que el profesional de salud sea el que me revise, me solicite el procedimiento diagnóstico correspondiente, decida si puedo continuar mi evolución en mi domicilio o si tengo algún factor de riesgo o algún signo de alarma indicar la hospitalización.
+Entonces, es importante aclarar esto para la población.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Itzel, Araceli y la compañera, y usted, y usted, si da tiempo, nos quedan siete minutos. Por favor.
+---
+PREGUNTA
+Con esta nueva, bueno, con esta declaración de pandemia y la posibilidad de llegar a un segundo escenario, ¿en qué situación quedaría la Feria Nacional de San Marcos debido a la cantidad de personas que se congregan?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Como he explicado, esto lo vamos a detallar mañana, por ahora tengan presente que hemos estado trabajando desde toda esta fase de preparación, anticipamos desde muchas semanas atrás que esto podía ser una realidad en donde tuviéramos que tomar decisiones cuando lleguemos al escenario dos y al escenario tres donde se tengan que cancelar o posponer los eventos.
+No tenemos todavía un criterio específico que anunciar ahora, pero mañana lo vamos a hacer.
+Itzel, de TV Azteca; Araceli, de Canal 11 y…
+---
+PREGUNTA
+Muy buenas tardes, subsecretario. Ya nos explicó, hemos entendido en el escenario en el que estamos, pero a la gente en concreto ¿qué se les dice hoy, que la OMS elevó esto a una pandemia ante la desinformación en las redes sociales justamente a los audios de la gente que está en Europa y demás y también ante esto que está haciendo nuestro vecino?
+¿México pudiese restringir de alguna manera estos vuelos justamente a Italia, a España o algún punto de Europa?
+Gracias.
+---
+JEAN MARC GABASTOU
+La declaratoria de pandemia nuevamente no es un aumento de riesgo ni de gravedad, es la constatación de que la epidemia se ha extendido geográficamente.
+¿Qué significa para México?
+No es un cambio, México se está preparando para los tres escenarios que hemos descrito, independientemente que a nivel global se esté extendiendo, el riesgo está ya al máximo.
+Entonces, que tengamos hoy 10 países que son potenciales portadores del virus o de la enfermedad o mañana seguramente otros, el riesgo no puede ser superior y las medidas se están tomando.
+Entonces, tenemos que estar razonablemente preocupados para tomar… Estoy hablando a nivel individual cada uno de los ciudadanos de México, debe estar informado sobre los riesgos para tomar las buenas decisiones y esas buenas decisiones es la higiene básica, el lavado de manos frecuente ante cualquier comportamiento que contribuya al ensuciamiento de las manos.

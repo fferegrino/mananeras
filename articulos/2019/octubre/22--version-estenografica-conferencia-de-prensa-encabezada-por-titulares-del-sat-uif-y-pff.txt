@@ -1,0 +1,240 @@
+Versión estenográfica. Conferencia de prensa encabezada por titulares del SAT, UIF y PFF
+Presidencia de la República
+22 de octubre de 2019
+---
+MARGARITA RÍOS-FARJAT, JEFA DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
+La presentación obviamente ya se le hizo al presidente. No sé si la tengamos ya ahí lista.  La presentación de las tres unidades de Hacienda, el Servicio de Administración Tributaria, la Unidad de Inteligencia Financiera y la Procuraduría Fiscal de la Federación.
+Empieza su servidora porque vamos a partir justamente de aquella conferencia que dimos el veintitantos de junio de este año 2019, donde habíamos nosotros encontrado un modelo de riesgo en el SAT, lo desarrollamos para identificar qué contribuyentes podían caer en el esquema de factureros, que facturan operaciones simuladas o que lo dedujeran.
+En nuestro modelo de riesgo eran empresas de nueva creación, incremento exponencial en su facturación, inconsistencias entre lo facturado y lo declarado, y otro tipo de información confidencial que metimos aquí.
+Con esta hicimos una corrida de un universo seleccionado del grande, una cosa reducida todavía ahí e identificamos unos primeros 150 posibles casos de factureras con 282 mil millones de pesos facturados.
+Nosotros cancelamos el sello fiscal y transmitimos a la Unidad de Inteligencia Financiera 144 casos de esos 150; a su vez, la UIF hizo una selección de una muestra de 10 de esos 144, y regresó con nosotros porque de esa muestra de 10 le salieron otros 135; o sea, esto es por todos lados crece y crece el problema.
+De las acciones desplegadas por el SAT tenemos, insisto, que en junio pasado corrimos ese modelo de riesgo, habíamos seleccionado 150 contribuyentes que arrojaron las características de empresas facturadoras; en 38 casos incluso, como era un modelo de riesgo nuevo, en 38 casos nosotros optamos por visitar las empresas antes de proceder a la cancelación de ellos para ver si efectivamente no tenían materialidad, no estaban, etcétera, asegurarnos de la medida que íbamos a llevar a cabo.
+Tras esa visita, decidimos de esos 150 quitar cinco, porque encontramos sí había materialidad en sus operaciones, se encontraban en el domicilio y contaban con su infraestructura y personal para eso. Entonces, cancelamos en ese operativo el certificado de sello digital a 145 empresas.
+Tras haber bajado, como se dice, los sellos, vino todavía uno de esos contribuyentes el mismo día en que se le notificó el oficio por el cual le cancelábamos el sello digital, es una notificación y todo, y dijo: ‘Yo si existo, yo no hago operaciones simuladas, no me dedico a eso’.
+La atendimos de inmediato, nos demostró que una empresa de reciente creación, y como era parte de una trasnacional, pues por eso cuadraba en nuestro modelo de riesgo, que era nueva, que tiene una facturación excesiva y demás, porque era parte de una trasnacional. Acreditó todo y se le quitó el bloqueo al día siguiente hábil.
+Son de ese tipo de medidas que el Sistema de Administración Tributaria toma en corto y de inmediato con los contribuyentes: siempre garantía de audiencia y siempre debido proceso.
+Ahora, se realizaron actos de autoridad sobre 144 contribuyentes entonces, y estos son los que le transmitimos la información a la Unidad de Inteligencia Financiera.
+¿Qué fue lo que le transmitimos?
+La relación de la RFC con lo facturado en los últimos tres ejercicios, la relación de clientes y lo facturado también por los últimos tres ejercicios, y la relación de socios y accionistas, así como representantes legales que teníamos registrados nosotros.
+Eso se fue enriqueciendo también porque quizá algunos de ustedes recordarán que cuando nosotros hicimos, implementamos este operativo, al mismo tiempo solicitamos información a las notarías públicas y a los registradores públicos, quienes han sido muy colaboradores con nosotros. Entonces, en la medida en que fuimos recibiendo esta información, pues la fuimos también mandando a Unidad de Inteligencia Financiera.
+En una primera etapa seleccionamos… bueno, la UIF, perdón, analizó los movimientos en cuentas bancarias, algo que a lo mejor íbamos a hacer nosotros, originalmente era que nos pasaran los estados de cuenta para nosotros hacer la revisión, pero ellos mismos hicieron ese análisis e identificó lavado de dinero -ahorita yo creo que el director de la Unidad de Inteligencia Financiera va a comentar al respecto- en el 100 por ciento de los casos.
+Sobre esos 144 casos que le mandamos, insisto, le pasamos, UIF seleccionó 10.  De esos 10 casos encontró que las ramificaciones seguían creciendo y encontró 135 casos más, insisto, de esa muestra de 10, sólo de 10; o sea, de verás la perspectiva es como si por todos lados hubiera esto.
+Entonces, la UIF revisó esos 145 casos, porque eran los 10 nuestros, más los 135 que ellos encontraron relacionados con estos 10. Esto representa 50 mil millones de pesos facturados.
+Entonces, UIF regresa con nosotros, con esos 135, nosotros revisamos, ahora fue como al revés el proceso, revisamos el estatus de los contribuyentes y bloqueamos el Certificado de Sello Digital en 92 casos de esos 135.
+¿Qué pasó con los otros 53 que nos pasó la UIF?
+Pues que no se le bloqueo su Certificado de Sello Digital porque son personas que no facturan su régimen, que no tienen diferencias fiscales, están inactivas o ya se liquidaron, vaya, puede haber amas de casa recibiendo, precisamente, parte de los flujos financieros.
+Como para tener una visión, nada más digamos, de esa porción del universo identificada de empresas facturadoras de operaciones simuladas, corrimos este modelo de riesgo con estas características que señalamos allá abajo: empresas de nueva creación, incremento exponencial de la facturación, incongruencias entre facturado y declarado; y 144 casos, de todos los que pueden salir, nada más seleccionamos una muestra de 144, de ese universo que cubre los supuestos y la UIF tomó una muestra de 10, de esos 10, 135 arroja más.
+Vamos a imaginarnos, suponiendo que por cada 10 la Unidad de Inteligencia Financiera encontrara 135 relacionados, pues imaginemos entonces qué sucedería, pues una simple multiplicación, son mil 944 empresas o personas que pueden estar relacionadas con estas 144.
+Obviamente, no sabemos cómo va a ser, apenas estamos con la muestra de los 10, pero sí de esos 10 dan 135, y de cada 10 hasta esos 144, es la misma cantidad, pues podrían ser hasta 1944 personas involucradas en esta pequeña muestra.
+Esto, por ejemplo, puede dar un caso de 13.5 casos relacionados por cada uno enviado por el SAT. Pudiera ser, insisto, estamos trabajando sobre esta estrategia, no se había hecho antes así, el modelo de riesgo para nosotros es nuevo, la colaboración con la UIF tampoco se había dado así, entonces vamos precisamente compartiendo los hallazgos que vamos teniendo con la sociedad.
+El modelo de riesgo que desarrolló el SAT. Entonces, causó excepciones a seis contribuyentes de 150, y ahí se ve, no hubo afectación a los contribuyentes, al que sufrió el bloqueo al día siguiente se le quitó. Esto habla, precisamente, porque al SAT siempre le preocupa estar de la mano y acompañando al contribuyente cumplido.
+¿Qué pasa, entonces?
+La efectividad de la parte empírica en un 96 por ciento y la efectividad probada ya en colaboración, pues en un 100 por ciento, porque de los 144 casos que le mandamos a la Unidad de Inteligencia Financiera, la Unidad de Inteligencia Financiera encontró que había alertas de lavado de dinero.
+Este es un ejemplo de lo que habíamos nosotros puesto en junio. Este es el caso, por ejemplo, de una empresa que se dedica al comercio al por mayor de fibras, hilos y telas; siguió bloqueado porque cubría con nuestro modelo de riesgo, porque podemos ver aquí cómo en 2018 de no tener ingresos pues pasa a casi a dos mil millones de pesos ingresos con 34 clientes.
+Ese tipo de cosas, o sea, nosotros hicimos los cruces para que nos brincaran las alertas. Entonces, esta empresa es un ejemplo de lo que el modelo de riesgo de los que detectó. Recordemos también que habíamos hecho una comparativa, bueno, ¿cómo le va con los competidores, suponiendo que tengan ingresos similares?, vamos a poder a los competidores del ramo, en este caso de comercio al por mayor de fibras, hilos y telas. Pues aquí podemos ver si les va bien cuatro millones de pesos por año, este en el segundo año de existencia y ya estaba facturando casi dos mil millones de pesos.
+Son el tipo de cosas que no pueden o no podían por desapercibido en la administración tributaria; que sin embargo es muy grande, es mucho, nos rebasa en las capacidades y demás, y estamos acoplando sistemas, modelos y demás, también es correcto. Entonces, estamos trabajando con esto.
+¿Qué encontró, por ejemplo, la Unidad de Inteligencia Financiera de este caso?
+Yo le voy a pedir, entonces, al licenciado, doctor Nieto, que continúe con este pedacito, luego retomo yo por el lado de las cuestiones… redondear la idea por el lado del SAT y lo que estamos haciendo de anuncios penales por el SAT y luego pasaríamos con el señor procurador fiscal de la federación.
+Esto es más o menos una idea de las cosas que encuentro en inteligencia financiera. Entonces, si esto no es organizado y no es red, pues yo no sabría cómo llamarle.
+Santiago.
+---
+SANTIAGO NIETO CASTILLO, TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA
+Efectivamente, lo primero que quisiéramos destacar por parte de la Unidad de Inteligencia Financiera es la labor de coordinación entre el Servicio de Administración Tributaria, la UIF, y la Procuraduría Fiscal de la Federación en este caso en particular de combate a las empresas fachada y a las factureras.
+Por un lado, se trata de empresas que son utilizadas particularmente para los casos de corrupción política; en segundo lugar, estaríamos hablando de modelos y problemas en materia de defraudación fiscal.
+Efectivamente, como se puede ver en la lámina, estamos viendo una empresa que originalmente tenía un giro relacionado con textiles y que también tiene un cambio hacia actividades en materia de construcción.
+Estamos viendo además como ha operaciones en efectivo, más de 300 millones en este caso en particular y también traspasos, incluso, de transferencias internacionales a Hong Kong, a China, entre otros lugares.
+Como ha mencionado la jefa del SAT, de las 144 empresas que el SAT hizo del conocimiento de la Unidad de Inteligencia Financiera seleccionamos 10 casos; y de ahí se generó una red a partir de las transferencias y operaciones financieras que habían desarrollado estas 10 empresas para reunir a 135 adicionales, para un total de 145.
+Los montos. En el caso de la primera empresa, depósitos por más de 935 millones 944 mil 438 pesos, retiros por 928 millones 106 mil pesos. Estas empresas fueron bloqueadas en virtud de la competencia de la Unidad de Inteligencia Financiera.
+El segundo caso, hablamos de más de dos mil 48 millones de pesos en depósitos y 623 mil 753 dólares.
+En retiros hablaríamos de dos mil 585 millones de pesos en retiros y 531 mil dólares, un total de 24 empresas relacionadas y 15 bloqueadas de manera directa.
+En el tercer supuesto, los depósitos fueron de dos mil 491 millones de pesos y los retiros por dos mil 427 millones de pesos, además mil 687 millones de dólares. En este caso, las transferencias internacionales que se suman a los montos anteriores son por las cantidades de mil 401 millones de pesos y 16 millones de dólares, así como las transferencias recibidas por mil 46 millones de pesos y cuatro millones de dólares.
+El siguiente caso se trata de 18 personas analizadas, 16 bloqueadas de manera directa, cuatro físicas y 12 morales. Hablaríamos de cuatro mil 324 millones de pesos en depósitos, cuatro 316 millones de pesos en retiros y un total de seis millones 365 mil dólares.
+El caso de la empresa cinco más de mil millones de pesos en depósitos y más de mil millones en retiros.
+El caso de la empresa seis dos mil 171 millones en depósitos, dos mil 241 millones en retiro y cinco millones 895 mil dólares.
+La empresa siete, hablaríamos de mil 578 millones en depósitos y mil 615 millones en retiros.
+La empresa ocho, dos mil 676 millones en depósitos, dos mil 676 millones en retiros.
+Y la empresa nueve, cinco mil millones en depósitos y cinco mil 100 millones en retiros.
+Finalmente, la empresa número 10 tiene… que fueron 13 personas analizadas, se logró el bloqueo de 12 personas de manera directa, dos físicas y 10 morales por montos de 863 millones de pesos en depósitos, 842 millones en retiros.
+De esto, además de transferencias internacionales por casi tres millones, más de tres millones 910 dólares y 19 millones de pesos a diversos espacios.
+Como pueden ustedes ver, se trata de organizaciones en donde los perfiles transaccionales de los usuarios o clientes y accionistas de las empresas y de las sociedades mercantiles, muchas veces no corresponden con un perfil transaccional propio de empresas.
+Se trata también de personas o con una edad joven, o personas que no tienen un perfil transaccional idóneo para tener estos montos, también empresas en proceso de liquidación que puede dar como finalidad proceso evidentemente de defraudación fiscal.
+Este es, digamos, es un caso particular nada más en donde se puede ver la red de transferencias entre la serie de empresas para efecto de generar mayores gastos y no cubrir sus obligaciones de naturaleza fiscal.
+Además, que no se localizó comercio exterior que pueda justificar las transferencias internacionales, particularmente este caso es el de China y Hong Kong al que ya nos hemos referido, pero no solamente abarcan estos dos espacios geográficos, sino también hay transferencias hacia Estados Unidos, hacia España, Turquía, entre otros países del mundo.
+Por parte de la Unidad de Inteligencia Financiera el proceso continúa, hemos recibido un siguiente bloque por parte del Servicio de Administración Tributaria, estamos en proceso de elaboración de 14 denuncias por lavado de dinero.
+Y lo único que quisiera resaltar es no solamente la colaboración institucional, como dije al inicio de mi intervención, sino también que los modelos de riesgo que desarrollo el Servicio de Administración Tributaria y la Unidad de Inteligencia Financiera han resultado coincidentes y esto ha permitido generar acciones de combate a la defraudación fiscal y por supuesto el lavado de dinero.
+Muchas gracias.
+---
+MARGARITA RÍOS-FARJAT
+Aquí, por ejemplo, tenemos de lo que hemos encontrado entre UIF y SAT que los principales países de estos 10 que tomó de muestra la unidad de inteligencia financiera, en los que se distribuye el dinero, principalmente China, Hong Kong, Estados Unidos, Taiwán, Corea del Sur, Uruguay y demás.
+Es dinero que ni siquiera se queda aquí, que va al extranjero y que nosotros ya en una especulación muy personal, no formal, no oficial ni nada, uno no evita reflexionar de lo que uno hace, y una especulación como muy personal sobre esto es: Quizá no siempre estén lavando dinero, a lo mejor también es un tema de búsqueda de financiamiento de otro tipo de delincuencia, a lo mejor transnacional, que puedan cometer otro tipo de cosas que a nosotros nos parecen inimaginables.
+Es por ello entonces que las actividades ilícitas son realizadas por organizaciones que de manera reiterada o permanente tienen finalidad de delinquir.
+Esto que subrayamos en rojo es muy importante porque es justamente la voluntad lo que vemos como estas redes, el comportamiento, el que pasen los modelos de riesgo de la Administración Tributaria e Inteligencia Financiera, para nosotros hay una forma de comportamiento reiterado y permanente, y es precisamente lo que tomó en cuenta la Procuraduría Fiscal de la Federación a cargo del señor procurador aquí presente cuando diseñaron en la procuraduría precisamente las reformas para conocidas como reformas contra factureros.
+De los requerimientos a fedatarios, que señalaba yo que pedimos de los casos que íbamos nosotros a hacer el operativo 150 y que luego quedaron 144, cuando nosotros fuimos a la cancelación del sello, al mismo tiempo pedimos la colaboración a los notarios que estaban relacionados con estos casos, o sea, que nos informaran diversa información.
+¿Qué hayamos o cuáles…? Compartimos los hallazgos de estos.
+Uno lamentable, pero quizá no es secreto para muchos que la gran mayoría de los socios y/o accionistas y representantes legales son jóvenes, pero son padres de familia y educados. Eso es una reflexión interesante en términos de la sociedad que estamos siendo.
+Se detectaron además cuatro casos en los que los actos constitutivos fueron realizados por prestadores de servicios profesionales que implementan esquemas de factureros.
+¿Qué significa esto?
+De los 150 hubo cuatro que utilizaron, por decirlo así, como el mismo despacho. Entonces, significa que hay servicios, o sea, hay grupos o despachos, organizaciones, agencias de prestación de servicios que se dedican a esto; porque si de 150 casos encontramos cuatro las mismas personas como prestación de servicios que no estaban relacionadas en las redes, pero sí en los servicios, o bueno, no lo sabemos a lo mejor la IUF lo detecta, es una revelación interesante.
+Y luego ¿qué utilidad tiene esta información?
+Constituyen alertas de lavado de dinero que van a enriquecer precisamente los procedimientos que siga la Unidad de Inteligencia Financiera y además constituyen indicios para el SAT y para la Procuraduría Fiscal que puede servir ante el Ministerio Público para justificar, precisamente, las acciones que se hagan y reforzar las denuncias.
+¿Y cómo vamos en el caso de en qué se está traduciendo en cuestión de persecución penal?
+Bueno, por los delitos de expedición y/o enajenación de comprobantes que amparan operaciones inexistentes, el artículo 113 del Código Fiscal de la Federación, esta es una muestra, compara por la razón que fuera, pero esa es la comparación.
+Tenemos que hay 210 denuncias, se presentaron 210 denuncias durante cuatro años, tomamos 2015 al 2018, lo que va del 2019 hemos presentado ya 174 denuncias y están en proceso de presentación otras 130 relacionadas precisamente con este operativo, que para no confundirnos nosotros, las autoridades de Hacienda, le hemos puesto como la etapa dos de la estrategia contra factureros, la que estamos haciendo ahorita considerando que la uno fue en junio, esta es la dos.
+Esto representa un incremento casi del 30 por ciento respecto a los cuatro años anteriores sobre denuncias penales; y bueno esas 130 esperamos que sean este año y creemos que sea lo mínimo, porque depende también nosotros seguimos avanzando, seguimos investigando y seguimos detectando cosas.
+Ahora, finalmente, por lo que toca a nuestra parte para que entonces el procurador fiscal nos haga el favor de darnos su participación aquí, cerramos con el mismo llamado que en junio pasado, a la autocorrección. Hemos tenido buena respuesta de muchos contribuyentes que se sintieron nerviosos. Créanme, somos comprensivos, hay personal del SAT los escucha, los atiende, es ver, cómo se autocorrigen: ‘Me equivoqué, me arrepentí, no supe que hicimos, se me hizo fácil’, la razón que sea.
+Ya vimos que toda factura a dónde puede ir a dar y cuánto llega a sumar. No hay una compra de una factura que digas hay es poquito, son 100, 200 mil pesos, todo eso se suma y llega a redes que el que lo compra no sabe, y no sabe también qué daño podría estarse causando con esa cosa. Es un tema también de conciencia.
+Entonces, el llamado es: Acérquense a nosotros, a las oficinas centrales del SAT, a Bansen, o a las desconcentradas que le corresponda, diga: ‘A ver, tengo esto así’, la posibilidad de autocorregirse es permanente para el contribuyente, nuestro deber es acompañarlo.
+Es de veras mucho mejor que llegue el contribuyente se autocorrija con nosotros, a que lleguemos nosotros ya sobre con una situación fiscalmente… que fiscalmente tenemos la atribución de hacer, pero que a él le puede resultar muy agresiva; que se acerque, que vea, y cómo se regularice.
+Y bueno esta es una parte de la estrategia que seguimos nosotros, no estamos trabajando solos, todo la Secretaría de Hacienda está comprometida precisamente con abatir la evasión fiscal, aquí estamos las tres autoridades, precisamente, dando fe de ello.
+Hemos trabajado de forma muy coordinada, nos entendemos muy bien, la información que tenemos ahí de cambiar las mesas de trabajo, sabiendo también, insisto, que esto es una cosa, un camino nuevo que estamos recorriendo y cuando llega a haber: Oye, entró un modelo de riesgo que no va, pues inmediatamente corregirlo, o sea, también darle la tranquilidad al contribuyente que siempre estamos nosotros dispuestos a escuchar, dispuestos a orientar.
+Y eso es en corto, más los procedimientos administrativos que tenemos internos para que él siempre nos haga valer precisamente su punto de vista y sus cosas, más todos, tenemos a la Auditoría Superior de la Federación, al órgano de control encima, a los contrapesos internos, los recursos administrativos o que en sede administrativa tiene el propio contribuyente, los recursos legales, las denuncias dentro la forma, los juicios de amparo y de más.
+Este es un procedimiento en todo momento lleno de salvaguardas y Estado de derecho, nada más que es para nosotros nuevo, novedoso, porque, insisto, no se había seguido antes para nosotros.
+Y estamos caminando juntos aquí, y esperamos, de veras, la colaboración de la sociedad, porque es un problema muy grande.
+Y sí hay quien lo dice: ‘Es problema de la dureza hacendaria, a ellos les toca’. No, hay un problema muy sencillo de la sociedad, la sociedad crea al mercado. Entonces, hay un mercado ahí, en la medida en que hay un mercado ahí, necesita la sociedad, por favor, participar en la solución del mismo.
+Termino yo mi participación, señor procurador. Muchas gracias.
+---
+CARLOS ROMERO ARANDA. PROCURADOR FISCAL DE LA FEDERACIÓN
+Esto con objeto de equiparar a las empresas fantasmas, esas tres o más personas que en forma constante y permanente llevan a cabo actividades ilícitas, como es el caso de la defraudación fiscal, se equipare a delincuencia organizada.
+Como pudimos ver en los cuadros que nos hizo favor de exponer tanto la doctora Ríos como el doctor Nieto, pudimos ver que realmente es una delincuencia organizada lo que aquí se presenta, y son verdaderas mafias que llevan a cabo la defraudación al fisco federal.
+Entonces, ¿cuál es la segunda etapa o la etapa que sigue que estamos trabajando?
+Una vez que ellos nos den vista o en algunos casos ya nos dieron vista de los asuntos que investigaron, nosotros los estamos analizando y estamos presentando las denuncias de defraudación fiscal en los casos que tenemos. Pero a partir de la reforma, nosotros vamos a iniciar los asuntos que procedan.
+Con base en lo anterior podemos ver. En esa tenemos una primera columna que nos habla de delincuencia organizada.
+Estas son las tres o más personas cuyo objetivo es el crimen. No son contribuyentes, su actividad criminal es permanente y reiterada, son EFOS, esto es Empresas que Facturan Operaciones Simuladas y que defraudan por más de 7.8 millones de pesos.
+Con ellos vamos a tener prisión preventiva oficiosa, esto es, vamos a tener la excepción de delincuencia organizada con objeto de tener escuchas, con objeto de tener infiltrados, con objeto de tener cateos, de tener criterios de oportunidad y prisión preventiva oficiosa, con objeto de poder llegar a las cabezas de estas redes criminales para poder seguir la huella del dinero en efectivo.
+Estos son delincuentes organizados, son los que venden facturas. Jamás podrá confundirse un contribuyente normal que cumple con sus obligaciones fiscales y que por un error cometió alguna infracción o cometió algún delito, jamás podrá ser considerado un delincuente organizado.
+Aquí podemos ver las otras tres columnas donde hablamos de contribuyentes. Estos sí son empresas o personas físicas que llevan a cabo actividades normales, pero que cometieron algún delito.
+El que compra una factura cabe en este supuesto, que es delitos calificados conforme al Código Fiscal de la Federación; es decir, que utilizan documentos falsos para obtener devoluciones, que no tienen registros contables, que omiten enterar retenciones, que manifiestan datos falsos para compensar o acreditar impuestos o que presentan pérdidas fiscales inexistentes y, además, que defrauda por más de 7.8 millones de pesos. Esto es que tiene que tener una facturación por más de 21 millones de pesos.
+Ese es el contribuyente que compra la factura. Este también va a tener prisión preventiva oficiosa.
+Son los dos contribuyentes, uno muy peligroso que es el delincuente organizado y otro peligroso que es el compró la factura por esas cantidades.
+Hay otro tipo de contribuyente, que es el contribuyente normal, pero que defrauda al fisco, sin tener ninguna calificativa. Ese no va a tener prisión preventiva oficiosa, y se va a seguir operando como estamos ahorita.
+Y el primero, que es el contribuyente normal, que hace sus planeaciones fiscales dentro del marco de la ley, y que tiene seguramente alguna omisión por error o negligencia. En este no existe ninguna sanción penal.
+Son los distintos capítulos que tenemos en esta nueva reforma que nos permite clasificar a los delincuentes organizados de los contribuyentes normales.
+Paralelamente hay mucho temor entre que si el SAT puede ir directamente a presentar las querellas y que por un capricho, por un error, pueden ir a dar a la cárcel con prisión preventiva oficiosa. Esto no es cierto, porque en todos estos casos, lo primero que realiza el SAT es un procedimiento de fiscalización, conoce omisión de contribuciones y lo comunica al contribuyente, y determina la cuantificación del perjuicio.
+El siguiente paso es lo manda la Procuraduría Fiscal de la Federación. La procuraduría integra el expediente, requiere el pago, y en su caso presenta la querella respectiva en la Fiscalía General de la República.
+La Fiscalía ¿qué es lo que hace?, integra la carpeta de investigación, invita a las partes a tener una salida alterna cuando proceda, y envía el expediente al Poder Judicial de la Federación. El Poder Judicial de la Federación ¿qué hace?, recibe el expediente, ordena citación, comparecencia, y en su caso ordena órdenes de captura, se informa al contribuyente sobre la investigación y continúa el procedimiento penal; hay un juicio, hay una sentencia, y hay unos medios de impugnación.
+Esto ¿qué nos da de tranquilidad?, que hay dos autoridades involucradas del Poder Ejecutivo Federal que es el SAT y la Procuraduría Fiscal, hay una autoridad autónoma que es la Fiscalía, y hay una autoridad del Poder Judicial que es un juez, y en todos estos casos proceden los medios de defensa, incluso el juicio de amparo.
+Entonces, aquí no podemos tener ningún problema de que no hay filtros institucionales o que van a permitir que esto se haga totalmente arbitrario.
+¿A qué conclusiones podemos llegar con esta reforma?
+La Reforma Penal Fiscal permitirá continuar la persecución de los delitos fiscales básicos y aportará herramientas para la persecución de aquellos que por su configuración constituyan una amenaza a la seguridad nacional o sean cometidos por delincuencia organizada, únicamente los delincuentes fiscales peligrosos ameritaran prisión preventiva oficiosa.
+Existen filtros legales institucionales que impiden el uso ilegal de herramientas contra los delincuentes fiscales.
+Un último punto, esta reforma entrará en vigor el 1º de enero. Todas las actividades y todos los delitos que se cometan hasta el 31 de diciembre serán sancionados conforme a la ley vigente, por lo tanto, y reiterando lo que decía la jefa del SAT y exhortaba a los contribuyentes a regularizar su situación fiscal, de nueva cuenta nosotros los exhortamos a que regularicen su situación, acérquense con las autoridades fiscales y quítenle los efectos fiscales a los comprobantes que se expidieron en forma simulada, eso les va a quitar muchos problemas, a partir de enero eso será sancionado con delincuencia organizada.
+Por mi parte es todo.
+Muchas gracias.
+---
+MARGARITA RÍOS-FARJAT
+Por favor.
+---
+PREGUNTA
+Yo quisiera preguntarle si nos pudiera usted dar detalle. El presidente Andrés Manuel López Obrador se reunió en días atrás con el presidente, el CEO Brad Smith, presidente de Microsoft, y dio a conocer que se pondrá en marcha un programa software, precisamente para la anticorrupción de este tipo de facturas.
+¿Usted podría detallarnos cómo será este software?, ¿qué candados tendrá y algún otro detalle que me pueda dar?
+Y una siguiente pregunta para el doctor Santiago Siento.
+---
+MARGARITA RÍOS-FARJAT
+No sé para cuando estén pensando lo que usted me dice, por lo que a nosotros toca estamos funcionando con lo que tenemos y lo estamos haciendo bien.
+El problema… la situación con la tecnología no es… la tecnología sola no hace nada, siempre es la calidad humana la que lo maneja y eso es lo interesante.
+Y, además, bueno, cualquier tipo de contratación y demás pasa por muchos procesos internos del SAT, muchos contrapesos.
+Entonces, para nosotros eso es… todavía no tenemos noticia de eso y cuando la tengamos, si es que la tenemos, y es para nosotros y demás, va a ser evaluada por las autoridades del Servicio de Administración Tributaria.
+No sabemos si lo necesitemos o no. Y también va a ser evaluada por la Secretaría de Hacienda, las instancias que Hacienda determine para ver si se necesita o no, porque también luego los periodos de ajuste y las curvas de aprendizaje y demás, ahí se puede ir un tiempo muy valioso; y ahorita nosotros estamos trabajando bien con nuestros modelos de riesgo.
+Eso es todo lo que yo le podría decir, porque no estuve presente en esa reunión, pero no lo teníamos nosotros en el radar inmediato.
+La otra pregunta.
+---
+INTERLOCUTOR
+Perdón, no me presenté, soy Carlos Pozos, reportero de la revista Petróleo y Energía.
+Yo quisiera preguntarle, doctor, ¿cómo avanza o cómo se encuentran las investigaciones sobre los señores Gonzalo Gil y José Antonio Cañedo White, socios de Oro Negro de esta empresa quienes han sido denunciados por su abogado Alfonso Alonso del Val por denuncias de fraude de los fondos de Afores y contubernio con Gonzalo Gil White el despacho Quinn Emanuel para defraudar a Petróleos Mexicanos?
+¿Cómo avanza esa investigación?, que aquí el señor presidente dijo que iba a hacer una investigación profunda en torno a Oro Negro.
+¿Cuáles avances tendrán?
+---
+SANTIAGO NIETO CASTILLO
+Segundo, que sean revisado y se han presentado ya una serie de denuncias relacionadas con las prácticas de corrupción o presuntas prácticas de corrupción en la pasada administración en Pemex que incluyen desde temas vinculados con agronitrogenados, Odebrecht, empresas Yacani, entre otras.
+Estamos en el tema de Oro Negro en proceso todavía de investigación, no puedo dar datos en virtud del deber de sigilo de las investigaciones y también por la debida… el cumplimiento de las reglas del debido proceso.
+Pero, bueno, evidentemente cumpliendo con la instrucción del presidente López Obrador de combatir la corrupción y la impunidad.
+---
+PREGUNTA
+Una, ¿qué responsabilidad tiene el sistema bancario?, porque resultaría increíble pensar que toda esta red y todo este engranaje de lavado de dinero y facturación falsa no tenga la complicidad del sistema bancario.
+¿Cuál es su reflexión sobre este asunto?, ¿cuál es la responsabilidad de los bancos sobre estas redes?
+---
+SANTIAGO NIETO CASTILLO
+En ese sentido hay que plantear que lo que hace el sistema financiero es recibir los recursos, y que el problema de las empresas fachada y de la facturación falsa tiene su origen fuera del sistema financiero, en la constitución de este tipo de empresas.
+Hay que señalar que las reformas en materia mercantil de 2013 establecieron un procedimiento distinto para la constitución de ciertas empresas, y esto ha generado que la Secretaría de Economía cuente con una información y los sistemas, por ejemplo, notariales con otro.
+Lo que estamos nosotros trabajando es junto con la Secretaría de Economía para intercambio de información y poder tener claridad en torno al beneficiario final de las empresas que son constituidas, y que son utilizadas con estos mecanismos de defraudación fiscal por factureras y por empresas fachada particularmente con los temas de corrupción.
+Yo creo hay que reconocer el aporte del sistema financiero, del sistema bancario, de la información que nos dan los bancos de México para poder generar los casos que es importante que sean denunciados ante la Fiscalía General de la República, como lo hemos hecho. En el transcurso de este año hemos presentado ya 135 denuncias ante la Fiscalía General de la República y 69 vistas ante otras autoridades, lo cual es récord histórico de la Unidad de Inteligencia Financiera, en razón de que el año más denuncias se habían presentado era 2016 con 113 casos.
+Pero es importante para la UIF contar con información del sistema financiero y de las actividades vulnerables para poder generar todos los casos.
+---
+SANTIAGO NIETO CASTILLO
+Encontramos también personas jóvenes que resultan ser los accionistas y reciben millones de pesos o de dólares en sus cuentas, y todo ello en términos de la normatividad implica una operación con recursos de procedencia ilícita, con independencia de problema de la defraudación fiscal.
+México, en este momento estamos en proceso de revisión por la Unidad de Inteligencia Financiera y el resto de las instancias que forman parte del grupo de atención de las 40 recomendaciones de GAFI, tiene la obligación de generar una evaluación nacional de riesgo y es en la que hemos estado trabajando en este momento para efecto de que todos los sectores, incluyendo el sistema financiero, los notarios, corredores, desarrolladores inmobiliarios, entre otros, puedan tener conocimiento de cuáles son los riesgos que tiene su sector en los ámbitos relacionados con lavado de dinero y financiamiento al terrorismo en el país.
+---
+PREGUNTA
+Se habla ahorita del hijo de ‘el Chapo’ Guzmán, pero me gustaría preguntarle precisamente si ya tienen identificadas y bienes de Joaquín Guzmán Loera y todos sus prestanombres, porque en Estados Unidos se está hablando de buscar y recuperar lo más que se pueda de sus bienes y su dinero, y aquí en México casi no se está hablando nada de eso.
+También me gustaría preguntarles sobre cómo va la investigación precisamente de las cuentas del expresidente Enrique Peña Nieto.
+Y algo que también quiero preguntarle es: se está investigando a todos estos actores políticos de la administración pasada de Enrique Peña nieto, pero no vemos que se esté investigando a la administración del panismo.
+¿Es coincidencia o es una estrategia?
+Muchas gracias.
+---
+SANTIAGO NIETO CASTILLO
+Primero, respecto al tema de Joaquín Guzmán Loera. En este momento se ha generado un grupo de trabajo en temas relacionados con lavado de dinero y delitos financieros, coordinado por la Secretaría de Relaciones Exteriores, uno de los elementos que se tiene que trabajar de manera conjunta con Estados Unidos precisamente es la localización de los bienes de Joaquín Guzmán Loera relacionados con el tráfico de estupefacientes a Estados Unidos.
+Evidentemente nosotros estamos en un proceso de revisión de la información con la que contamos.
+Se ha presentado denuncias por parte de la Unidad de Inteligencia Financiera hacia la Fiscalía General de la República y hemos generado también congelamiento de cuentas para… de temas vinculados con todos o con los muchos cárteles que operan en la República Mexicana.
+En este momento estamos en proceso de integración de la información. En su momento, cuando tengamos los datos correctos, verificados, evidentemente se dará el siguiente paso de hacerlo público.
+Y sobre todo generar el trabajo institucional en ambos países para efecto de poder lograr la extinción de dominio delos bienes.
+Respecto a… la operación por parte de la Unidad de Inteligencia Financiera no tiene sesgos políticos, actuamos sin filias y sin fobias y no hay, digamos, persecución hacia ningún grupo político.
+La instrucción que tengo por parte del presidente López Obrador es muy clara, es combatir la corrupción y evidentemente llevar los casos ante los órganos competentes, principalmente a la Fiscalía General de la República, pero también, las fiscalías y procuradurías locales, el Consejo de la Judicatura Federal, en caso de responsabilidad de jueces y magistrados federales, para efecto de que también se combata la impunidad con la aplicación de las sanciones.
+Por tanto, no tenemos nosotros ninguna ideología atrás, sino simple y sencillamente el cumplimiento de las reglas del Estado constitucional de derecho.
+Un planteamiento que es relevante respecto a la temporalidad es que la Unidad de Inteligencia Financiera ve operaciones con recursos de procedencia ilícita, y estas acciones son acciones que tienen un proceso de 10 años de prescripción; por tanto, nosotros somos competentes, evidentemente, para conocer de asuntos que se hayan desarrollado en este momento 2009 a la fecha.
+---
+PREGUNTA
+Hay mucha especulación en cuanto a las acciones que lleva a cabo su unidad de inteligencia.
+Dentro de lo posible, doctor, con afán de transparencia también, ¿nos podría informar cómo van a las denuncias en contra de exfuncionarios públicos?, por ejemplo -y si podría tomarse ese tiempo se lo agradecería muchísimo- en relación a Luis Videgaray, Miguel Ángel Osorio Chong, se habla también en estos días sobre Manlio Fabio Beltrones.
+¿Cómo va la denuncia en contra del exgobernador César Duarte por desvío también de recursos hacia el PRI?
+¿Y cuál es la situación del exministro Medina Mora? Se habla de enriquecimiento ilícito.
+Si nos hace favor, si nos podría precisar información acerca de esto.
+Gracias.
+---
+SANTIAGO NIETO CASTILLO
+Tenemos al final un sistema de corte constitucional que nos obliga a mantener el sigilo de las investigaciones, tanto en la sede administrativa, como en el caso del órgano autónomo, que es la Fiscalía General de la República, al momento de integrar sus carpetas de investigación.
+Lo que sí quiero plantear es que hemos tenido acercamiento con la Fiscalía General de la República para en aquellos casos en donde por requisito de procedibilidad la Unidad de Inteligencia Financiera ha presentado denuncias, nos puedan reconocer el carácter de coadyuvante y poder darles seguimiento a los casos.
+Quiero plantear algo que es muy importante para nosotros, el GAFI, cuando presentó su informe sobre México en noviembre de 2017, publicado en enero de 2018, señaló que una de las principales deficiencias del sistema en México, reconociendo la fortaleza del sistema financiero, reconociendo los avances que existen, por ejemplo, en materia de congelamiento de cuentas, señaló que una de las deficiencias era no elevar el número de sentencias condenatorias y el número de temas vinculados con el decomiso de bienes e instrumentos de delito.
+Ese es en este momento nuestra labora más importante y la vinculación con la Fiscalía General de la República tiene esa finalidad, poder ir incrementando no solamente el número de denuncias, decía hace un momento que 113 hemos pasado hasta este momento a 135, sino poder ir avanzando en el llevado o en el acompañamiento del proceso penal para lograr en su caso, no solamente combatir la corrupción, sino la impunidad.
+---
+SANTIAGO NIETO CASTILLO
+El caso de César Duarte, me tocó verlo desde Fepade, y bueno, en realidad…. también en el caso específico de… se han presentado denuncias ante la Fiscalía General de la República y creemos que es importante que esas instancias se pronuncien, tanto la Fiscalía General, en su momento el Poder Judicial, en los términos que establece la Constitución.
+Y como el fiscal general ha reconocido, es importante que todas las personas ejerzan su derecho a la defensa, porque estamos viviendo un Estado constitucional de derecho.
+---
+MARGARITA RÍOS-FARJAT
+Entonces, agradecería mucho su compresión.
+---
+MARGARITA RÍOS-FARJAT
+A ver, para poder nosotros dar un estimado, que es un dato cuantitativo, tendríamos que tener elementos cuantitativos, cuántas manzanas, cuánto esto, cuánto.
+Estamos trabajando sobre elementos cualitativos, qué vamos encontrando, cómo se va moviendo la red, cuánto va a ser.  Si no sabemos cómo estamos encontrando y qué se está generando, tampoco podemos saber aquí qué impuesto se está generando y en qué momento, no podemos hacer una especulación de ese tamaño.
+Nosotros esperaríamos tener un efecto positivo en forma directa, como también por percepción de riesgo.
+Ahora, también la situación económica, otro tipo de situaciones que puedan afectar que suba o que baje la recaudación nos van a impedir verlo; no podríamos nosotros establecer desde ahorita, quizá a posteriori, el resultado.
+Pero es lo mismo, o sea, me piden un dato cuantitativo sobre una cosa cualitativa que está en proceso.
+Decir nosotros de las factureras publicadas cuánto hay de presuntiva de evasión fiscal no es fácil, porque todos son datos cuantitativos.
+¿Para el procurador no hay? para que yo pueda toser.
+---
+PREGUNTA
+Sólo preguntarle si usted o su institución ha detectado deficiencias en las instalaciones de las aduanas que han permitido la entrada al país de este tipo de armamento y de municiones.
+Tenemos el dato que son 77 mil en 15 meses, pero que es una cifra muy baja comparada con decomisos que hace el Ejército ya al interior del territorio nacional. Esa es la primera que le quiero hacer.
+Y la segunda, muy fácil, si después de que se dio a conocer esta lista de beneficiarios de condonaciones fiscales, se hablaba de 201 usuarios que todavía estaban amparados.
+¿Qué ha pasado con esos amparos que están evitando la difusión de los nombres de las personas físicas y morales de estos beneficios de condonaciones fiscales?
+Gracias.
+---
+MARGARITA RÍOS-FAJAT
+Muchos de estos amparos ya son firmes, la mayoría de hecho ya son firmes, no hay más que hacer en el Estado de derecho en el que vivimos.
+Los que están vivos todavía estamos esperando se resuelvan, pero nos avise la autoridad judicial el momento la autoridad judicial el momento en que ya si procedió no procedió.
+Si ya es firme concediendo el amparo, no podemos hacer nada; si es firme negándolo, ahí sí tenemos nosotros que dar la información al quejoso.
+Todavía no, de que platicamos o de que se dio a conocer que se entregaba la información al momento no tenemos novedad.
+Sobre lo que señala de las aduanas. A ver, las aduanas son unas instituciones complicadísimas en todas partes del mundo, son las entradas y salidas de lo mejor y lo peor de nuestro país y nuestros vecinos y del mundo.
+Entonces, son administraciones, son entes de gobierno muy complicados para cualquier parte del mundo por esa razón lógica, porque todo el intercambio se realiza ahí. Hay mucho interés en que cosas muy buenas pasen por ahí, mucho interés en que cosas muy malas pasen por ahí.
+Nosotros constantemente estamos publicando, incluso por ahí en las cuentas de Twitter lo que encontramos hasta droga en ataúdes, por ejemplo.
+¿Cómo va el resultado con nuestros binomios caninos?
+Empieza la tecnología, ve algo en situación de las imágenes de calor y luego entra a lo mejor en los binomios, porque entra el perro, pero antes también el manejador y luego se hace se hace la inspección; o sea, una serie de elementos.
+En las aduanas trabajan gente muy comprometida. Hay una serie de elementos que intervienen, precisamente, para encontrar cosas.
+¿Por qué siempre las encontramos?, ¿Esto significa que esté mal?
+No, siempre las encontramos por esa razón, por la naturaleza misma de lo que es la aduana.
+Pero también puede haber cosas que suceden y que no estén bien, no queremos prejuzgar, pero nosotros estamos precisamente revisando, lo dijimos con el presidente precisamente, y lo insisto cuando hablamos ahorita retomo la frase cuando hablamos con el tema de la tecnología.
+El tema humano siempre es un tema, el estar comprometido con la institución o el estar distraído con otro tipo de beneficios, ese siempre es el reto más que la tecnología misma de una entidad que administra algo tan importante como la aduanas.
+Yo, por ejemplo, le voy a dar unos datos a junio. Por ejemplo, de cocaína, bueno ¿qué aseguramos en lo que va del año? 910 kilos, bueno, en junio; de heroína, 2.67 kilos; precursores químicos, 17 kilos; psicotrópicos, 923 pastillas. Sé que se han estado incautando más, porque me toca a mí ver los informes.
+Armas, armadas, desarmadas y demás, armas, 80, cargadores 768, cartuchos 30 mil y tantos; pero eso es a junio, necesitamos actualizarlo en el último trimestre, porque por lo menos yo recuerdo de agosto a la fecha, o sea, el trabajo de binomios caninos, armas que entran desarmadas, o sea, ya no nada más todo el reto en sí mismo, sino que el arma entra desarmada para hacer una… para camuflagearse en las cámaras de lo que podemos ver nosotros.
+Ahí es donde entra la experiencia, la sapiencia, los animales y los principios, siempre es un tema de principios.
+Entonces, señores, muchísimas gracias. Vamos a quedar a sus órdenes, pero ya tenemos que retirarnos.

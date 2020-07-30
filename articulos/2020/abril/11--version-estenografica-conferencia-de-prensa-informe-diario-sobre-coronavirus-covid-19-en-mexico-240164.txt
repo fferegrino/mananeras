@@ -1,0 +1,246 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+11 de abril de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Hoy vamos a dedicarnos específicamente al informe técnico diario y vamos a abrirnos a preguntas y respuestas. Le pido al doctor Alomía si nos lleva.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+El día de hoy, si vemos el porcentaje de casos en el mundo en los últimos 14 días, vemos que nuevamente tiene una disminución en relación al día de ayer, 65 por ciento ahora son los casos confirmados en todo el mundo en los últimos 14 días y, aunque pasan del millón, ya tenemos prácticamente unos 10 días en donde vemos que este porcentaje continua disminuyendo, y esto nos habla también de cómo se está comportando la pandemia a nivel mundial.
+La tasa de letalidad se ha mantenido prácticamente estable en un 6.2 por ciento, ya lo comentábamos, es una tasa que promedia las tasas de letalidad en todos los países del mundo.
+En la siguiente diapositiva podemos ver un poco mejor la distribución de cómo está la carga en estos últimos 14 días por las regiones de la Organización Mundial de la Salud. Vemos cómo sigue habiendo un incremento en el caso de la región de las Américas, ayer era del 40 por ciento y ahora ya está en el 42; también la región europea tiene una disminución y es lo que vamos a estar viendo en los siguientes días, cómo se reduce la región europea y cómo se incrementa la región de las Américas que, vamos a decir, es prácticamente la última región que en su momento está haciendo y va a ser afectada por la pandemia como tal; 42 entonces para las Américas.
+En la siguiente actualizamos nuestras cifras para México a cuatro mil 219 casos, es un incremento de 375 casos en relación a lo que teníamos el día de ayer; nueve mil 983 sospechosos, si recuerdan, también los sospechosos se han mantenido estables, es decir, se han estado confirmando o negativizando y no han crecido en los últimos días, de hecho tenemos hoy menos sospechosos de los que teníamos el día de ayer; 21 mil 276 personas también ya han dado negativo, es decir, tuvieron alguna sintomatología respiratoria pero su prueba fue negativa para SARS-CoV2.
+Lamentablemente 273 defunciones, también se actualiza esta cifra, y ya son más de 35 mil las personas que han sido estudiadas hasta el momento en relación a la epidemia en México.
+Como vemos, la Ciudad de México, que es el punto más oscurito que tenemos en el medio del mapa, es aquella que ya superó los mil casos. Somos estado y como región y, por lo tanto, mantiene esta coloración.
+En la siguiente diapositiva vemos precisamente esta distribución de la carga de enfermedad, es decir, de la cantidad de casos que se han confirmado para cada uno de los estados; pero a medida que va evolucionando la epidemia en el país, vemos ahora cómo la tasa de incidencia por 100 mil habitantes para todo el país que es de 3.30. Ahora tenemos un movimiento de la Ciudad de México, un tercer lugar, y hay otros estados que en función de su base poblacional empiezan también a tomar, digamos, esta delantera.
+Vamos desde una tasa del 12.68 hasta una tasa de 0.68 que ha caracterizado al estado de Chiapas como tal desde hace varios días.
+En la siguiente diapositiva nuestra distribución por grupos de edad y además también una diferenciación entre el tipo de servicio que demandaron al momento de llegar a la consulta, si fueron en su momento hospitalizados o fueron ambulatorios, lo cual nos representa a su vez una enfermedad grave, una enfermedad leve.
+Y ya veníamos notando esta tendencia en los gráficos de los últimos días y continúa de hecho acentuándose. Vean cómo precisamente en el grupo de edad, que inicia a los 60 años, es donde vemos un cambio de las barras amarillas, que representan las personas que se tienen que hospitalizar; las barras verdes, que representan las personas que pueden tener un manejo ambulatorio en el domicilio por una enfermedad leve y que además es mucho mayor cuando lo vemos en los grupos de 60 años hacia abajo.
+En la medida que vamos avanzando en los siguientes grupos de edad, vemos cómo esa barra varía y se incrementa, y esto en su momento nos refleja precisamente lo que ya habíamos comentado, que en los mayores de 60 años hay una mayor carga de enfermedad grave que cuando se tiene menos de esa edad. Y así están distribuidos los cuatro mil 219 casos que el día de hoy han sido confirmados.
+En la siguiente diapositiva vemos un poco también la distribución de lo que estamos viendo en los grupos de edad, pero ahora en concentrados grandes. Los ambulatorios representan el 67.43 por ciento, esto ya es un corte a la evolución.
+Tres grupos de pacientes que se hospitalizaron, ese grupo que veíamos de hospitalizados se divide en tres: Los que están estables, que representan un 10.43; los que se encuentran en alguna condición de gravedad, son 18.23 por ciento; y los pacientes más críticos, que en su momento son los que están intubados, que el día de hoy son 165 personas.
+En la siguiente diapositiva vemos la proporción de los casos confirmados que ya se han recuperado, 42 por ciento. Si recuerdan, este porcentaje ha estado prácticamente variando entre un 42 y un 46 desde que inició la transmisión en México, y representa precisamente a estas personas que han tenido una evolución ambulatoria, que se han autoresguardado en el domicilio y que ya tienen más de 14 días de haber iniciado sus signos y lógicamente no están hospitalizados ni tampoco forman parte de este seis por ciento que lamentablemente perdió la vida a consecuencia de la enfermedad.
+Precisamente en la siguiente diapositiva vemos, de las 273 personas que lamentablemente han fallecido, la asociación que venimos refiriendo desde que inició también la epidemia en México de cómo se ha asociado a una comorbilidad o a un factor de riesgo. Hipertensión, diabetes, obesidad siguen bastante a la cabeza, tabaquismo sigue creciendo, ayer estaba alrededor del 10, ahora ya está en un 11.72 y bueno, todas las demás enfermedades que en su momento se han estado presentando en los casos que lamentablemente han fallecido.
+En la siguiente diapositiva vemos precisamente el cuadro que iniciamos al presentar el día de ayer, que para efectos de grupo de edad nos revela precisamente cómo en estos tres grupos que se han seleccionado, menores de 25, de 25 a 59 y mayores de 60, si pueden ustedes ver la mayor carga de enfermedad se encuentra en el grupo de 25 a 59; sin embargo, la mayor letalidad, es decir, la mayor cantidad de personas que fallecen a consecuencia de la enfermedad, de ser casos confirmados de COVID, se encuentra en los mayores de 60 y de hecho es la letalidad más alta que tenemos en estos tres grupos, inclusive más alta que lo que vemos en el promedio nacional, siendo de 14.3.
+Por eso la Jornada Nacional de Sana Distancia, que sigue invitando a estas personas en los grupos de riesgo, ya sea por la edad o ya sea por las comorbilidades, a resguardarse al menos durante este tiempo en el que sabemos que va a haber un incremento importante de casos y, por lo tanto, un incremento del riesgo de contagiarse, padecer de la enfermedad, complicarse a consecuencia de ella y un riesgo importante también de poder fallecer.
+En la siguiente diapositiva vemos la distribución de la letalidad y del número de defunciones por el estado en el cual han ocurrido. Ya comentábamos, 6.48 la letalidad para el país, pero dependiendo del estado esta letalidad puede variar, yendo desde 25 hasta un 1.82.
+Igual sucede, como lo vemos en la siguiente diapositiva, con la mortalidad. La mortalidad para el país es de 0.21; sin embargo, puede iniciar desde 1.04 y 0.02, dependiendo de la base poblacional de los estados en donde han ocurrido las defunciones.
+Y, finalmente, tendríamos nuestro gráfico diario, la carga de casos acumulados. Aquí están los cuatro mil 219 casos.
+Pero también la gráfica que nos muestra los casos incidentes. Y si vemos los casos incidentes, ya tenemos unos cuatro días en donde esa tendencia que veíamos que se estaba presentando como ascendente en función de la notificación y confirmación de nuevos casos se ha mantenido de alguna manera estable en relación a los casos que día con día se han confirmado. Como decíamos al principio, fueron 375 los que se confirmaron las últimas 24 horas y vamos a estar dando también seguimiento a cómo se comportan estas tendencias.
+Sería el panorama del día de hoy.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a abrir a preguntas. Empecemos con usted, luego para acá con usted y luego ustedes dos, luego usted.
+---
+PREGUNTA
+Y con respecto a la confusión del factor de ocho que se está aplicando, existe mucha confusión con otro aspecto ¿por qué no se está aplicando con las muertes?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La vigilancia Centinela tiene la… bueno lo que explicamos la semana pasada y con gusto lo vamos a ir explicando, puede ser que en los días que actualizamos las estimaciones que es cada semana recapitulemos de cómo funciona la vigilancia Centinela.
+Las personas que tienen enfermedad leve y que son estas que les llamamos ambulatorios, porque el tratamiento, el manejo, la vigilancia médica es ambulatoria, están en su casa, se identifican en las unidades Centinela, las unidades de salud monitoras de enfermedades respiratorias, que son este centenar, cuatro centenas, poquito más de cuatro centenas, respecto a las 26 mil que existen en el sector público.
+Y en ellas se hace uso del factor de corrección para estimar por cada caso cuánto representa. Hasta la semana pasada cuando lo presentamos eran gruesamente 8.2 casos por cada caso identificado. Esto va a ir cambiando, cada semana va a ir cambiando la proporción o el porcentaje de personas.
+A quienes se le toma la muestra, se les hace el procesamiento de laboratorio y se identifican que son positivas al coronavirus, SARS-CoV2. Es muy esperable que lo largo de la epidemia este porcentaje va a empezar a aumentar y eso nos va a llevar a que seguramente este factor de expansión cambie.
+Esos son los ambulatorios.
+Las personas con enfermedad grave, que son quienes se hospitalizan, con mayor razón quienes se hospitalizan en terapia intensiva y, por lo tanto, quienes desafortunadamente fallecen, no hay factor de corrección porque directamente al 100 por ciento se les toman muestras para el diagnóstico por laboratorio.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ya llegó el segundo, como lo anunció la cancillería. Todo este operativo de adquisición de los insumos, ahorita mayormente provenientes de China, lo está coordinando la Secretaría de Relaciones Exteriores.
+Entonces, ya llegó el primer embarque, lo anunció el canciller Marcelo Ebrard en la conferencia matutina, ya llegó el segundo y lo vamos a estar anunciando. Esto es lo que llamamos el puente aéreo. Una vez que se estableció el primer vuelo, no paran, vienen y vienen; conforme llegan, se empiezan a distribuir.
+Han llegado distintos productos, llegaron guantes, llegaron cubrebocas, llegaron…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Por favor. Estaba usted, usted; usted no, porque ayer ya habló; la compañera de blanco y usted.
+---
+PREGUNTA
+La pregunta es si la Secretaría de Salud está pensando en cambiar la estrategia, en hacer también un llamado para que se vigilen más a estas unidades y cesen estos ataques.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La estrategia tiene distintos componentes y, como han visto en las distintas conferencias, múltiples temas. Ayer vinieron los siquiatras, antes vinieron los especialistas precisamente en discriminación, han venido las especialistas en mujeres, próximamente vamos a hablar de juventudes, vamos a traer todos los distintos temas. Todo eso forma parte de la estrategia.
+La táctica es los plazos, cómo hacemos las operaciones en los plazos intermedios, y finalmente las operaciones son lo que se ejecuta en el día a día.
+Entonces, hay un componente de la estrategia que es la seguridad, la seguridad del conjunto del operativo que incluye las instalaciones, el transporte de los insumos, las instalaciones de salud, las instalaciones de resguardo de los materiales, etcétera.
+Dentro de ese segmento o ese componente de la estrategia que trabajamos de manera muy coordinada con la Secretaría de Seguridad Pública, también con la Guardia Nacional y también desde luego con las Fuerzas Armadas, hay distintos elementos para garantizar la seguridad de las personas y de las instalaciones y de los materiales y los equipos.
+Nos preocupa profundamente y nos indigna que el personal de salud reciba ataques. Es verdaderamente indignante, es insólito, es muy alarmante que haya personas que estén canalizando distintos sentimientos muy básicos como el temor y como el, quizá, sentimientos de enojo hacia el personal que les protege.
+Entonces, piensen en esto. La persona que haya perpetrado cualquiera de estas agresiones perfectamente puede ser que sea la próxima persona que padezca la enfermedad o que tenga un familiar directo que padezca la enfermedad; entonces, aunque no lo sea, es increíble pensar que alguien pueda considerar sensato atacar a un miembro del personal de salud que está precisamente para protegerle a esa persona y a cualquier otra persona en este país.
+Nuestro total reconocimiento, respeto, admiración, agradecimiento a todo el personal de salud en este momento que estamos próximos de entrar a la fase 3. Ellas y ellos van a ser las personas protagonistas de la respuesta ante la epidemia de COVID.
+Entonces, necesitamos protegerles por supuesto por parte del Estado, pero también por parte de la población. Confiamos en que la solidaridad natural, el espíritu de comunidad esté presente y también la población ayude a proteger y a respetar y a darle las mejores condiciones de trabajo a las profesionales de la salud.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+También están los propagadores de noticias falsas, los saboteadores de la integridad de nuestra República circulando noticias completamente irresponsables y falsas. Hace un par de días circulaba una falsa proclama, supuestamente proveniente del gobierno que hablaba de que se declararía el estado de emergencia o toque de queda. Esto es falso, no crean en esa desinformación y calumnias.
+Estaba la compañera allá, de blanco, y usted y luego usted.
+---
+PREGUNTA
+Dos preguntas. La primera es: en esta fase y ya con el número de hospitalizados, ¿Cuántas camas, ventiladores, hay disponibles hay, restando a este grupo de personas?, ¿cuántos hospitalizados están ingresando al día?, si tienen un promedio.
+Y la otra pregunta es respecto a la comunicación que le está dando el personal médico a los familiares con pacientes de coronavirus. Ese es quizá el mayor de los enojos, que no tienen mucha comunicación, que el médico no les da informes y por eso la gente se está molestando y por eso quizá venga el enojo de parte de la ciudadanía.
+¿En esta estrategia que plantearon hace tres meses ya se tenía el panorama de cómo se les va a informar sobre el estado de salud de los pacientes?, ¿habría que cambiar la operación?, ¿cuál es el mecanismo de cómo se pueden informar las personas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Está obligada y obligado a dirigirse al propio paciente si el paciente está en condiciones de recibir información; si no lo está, por ejemplo, porque estuviera gravemente enfermo y no está en un estado consciente, tiene la obligación de referirse a quien ha firmado como responsable legal de la persona enferma.
+Esta información debe ocurrir de manera continua. En los hospitales existen unas rondas o procesos que ocurren de manera continua, generalmente se pasa visita a alguna hora de la mañana y a media tarde, precisamente es el momento de informar a los familiares.
+Entonces, no se necesita un operativo especial, pero desde luego si esto no ocurre, esto habla de un problema de calidad de la atención, que es atribuible a la operación que exista en el hospital determinado.
+Y aquí lo que llamamos es a la ciudadanía que donde quiera que detecten una situación como esta, no duden en alertarlo a las autoridades correspondientes; por ejemplo, si se trata de una institución nacional como es el Seguro Social o el Issste, que los distintos mecanismos que se ponen a disposición para la denuncia ciudadana, estos están de manera visible en los propios hospitales, que hablen o que manden un correo electrónico, también existe un mecanismo por Twitter, que lo denuncien. No se justifica en ninguna circunstancia que no se les informe correctamente.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Si se identifica que es un caso compatible con COVID, se le manda un paquete de asistencia y se le dan instrucciones, se le da un seguimiento telefónico. Pero esto es aparte.
+Lo que usted me decía antes es en las unidades de salud ¿no?
+---
+INTERLOCUTORA
+Entonces, si este modelo se puede replicar en otros hospitales para evitar la…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Directamente los gobernadores y las gobernadoras y cada estado, los 32 estados tienen una Secretaría de Salud, y esa Secretaría de Salud puede tomar decisiones técnicas en el marco de las disposiciones generales de la Secretaría de Salud federal para que, de acuerdo a sus propias realidades y necesidades, puedan brindar los mejores servicios.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nosotros dimos las disposiciones generales, hicimos una guía técnica muy cuidadosa sobre cuáles son los criterios para reconvertir un hospital. Uno de los criterios importantísimos es que haya hospitales COVID y hospitales no COVID, y cada Secretaría de Salud de los estados es responsable de poner en práctica esta reconversión.
+El 19 de marzo sesionó el Consejo de Salubridad General y quizá recordarán que uno de los cinco acuerdos de esa sesión fue un exhorto para que todas las autoridades estatales procedieran de manera inmediata a la reconversión de sus hospitales.
+Entonces, ha habido avance en distinta velocidad, algunos estados están más avanzados que otros, algunos planes de reconversión son más elaboradoras que otros, y estamos dando seguimiento para que se cumpla.
+Usted, la compañera, luego usted y luego usted, y acá me está faltando, ¿verdad?, perdón, allá atrás, perfecto. Entonces, a ver, por favor.
+---
+PREGUNTA
+Preguntarle rápidamente si usted tiene información en torno a la muerte de un empleado del Seguro Social en Tlatelolco. Se hablaba en redes sociales de un posible contagio ahí. Si tienen algún dato.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Se puede hacer una investigación sin problema, porque tenemos acceso a la información, pero de seguro en este caso sería la Ciudad de México la que podría tener más información.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Afortunadamente, conforme ha transcurrido la epidemia, ya no ha ocurrido un fenómeno que ocurrió al principio y lo recordarán, que es este fenómeno de estigmatización y ensañamiento contra las personas afectadas o sus familias, esto nos ocurrió con el caso dos, una persona que estuvo en Sinaloa no siendo residente de Sinaloa.
+Entonces, volvemos a hacer el mismo exhorto. Para fines de un fenómeno masivo poblacional tiene poca utilidad conocer los detalles de una persona, pero además entrar en los detalles de una persona implica entrar en la confidencialidad, que es un derecho que se debe preservar y cuidar y respetar para cada persona
+Usted dirá: ‘Aunque no conozcamos el nombre’, pero a lo mejor el nombre ya está en los medios públicos; o, aunque no esté el nombre, está en dónde trabaja, dónde vivía y eso lleva a un fenómeno de agresión y discriminación.
+Y yo les pido…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Si se vuelve noticia la vivencia de una persona, no perdamos de vista que se afecta todo su entorno y entonces sus familias, sus vecinos, sus colegas de trabajo empiezan a irremediablemente enfocar la atención a una persona.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Como hemos comentado, todavía existe, lo vamos a tener, la actualización del porcentaje de confirmación el lunes, pero existe la influenza y la influenza da un síndrome clínico con una afección pulmonar muy semejante a coronavirus.
+Entonces, en este momento son las dos causas posiblemente más frecuentes de una neumonía atípica. Cuando existe la oportunidad, también lo explicábamos hace algunos unos pocos días, se puede y se debe tomar una muestra aun cuando la persona haya fallecido.
+Si la muestra se tomó cuando la persona estaba en estado grave y lamentablemente perdió la vida, pero la muestra ya se estaba procesando, en cuanto sale el resultado se clasifica la muerte como de la causa correspondiente, ya sea por COVID, por influenza, o por alguna otra causa identificada.
+---
+INTERLOCUTOR
+En algunos hospitales privados están diciendo, bueno, la prueba de coronavirus, una tomografía, una radiografía, después de ahí un comité define qué medicamento se aplica, algunos antivirales.
+¿Cuál es el protocolo cuando alguien ya empieza a estar en esa raya de que se está complicando la enfermedad de COVID-19?, porque algunos están en su casa y han mandado mails y han estado comunicándose en algunos medios de información, que dicen: ‘¿Cuál es el momento en el cual yo ya tengo que ir al médico?’
+Y segundo, cuando yo ya estoy en urgencia, cuando yo ya estoy en un hospital, ¿qué me tienen que hacer los médicos?, ¿qué estudios me tienen que realizar para identificar el COVID-19?, o por lo pronto, ¿cómo ese virus dañó al pulmón?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Existe una guía que se publicó desde la última semana de enero, la publicamos, está de acceso público ahí en el micrositio coronavirus.gob.mx, no es una guía para uso de la población en general, es una guía técnica para las y los profesionales de la salud, para los médicos.
+Y en esta guía se ha compilado lo más relevante de la evidencia científica que permita a las y los médicos orientar el proceso de identificación diagnóstica, el diagnóstico propiamente dicho, la identificación, también, de la probabilidad de complicaciones, el manejo de estas complicaciones, etcétera, etcétera, etcétera.
+A su vez, hay una guía sobre el proceso de control de infecciones que estipula los elementos de bioseguridad que debe considerar tanto la familia como el personal de salud, como las demás personas.
+Respecto al manejo médico, lo que es importante es que las personas recuerden lo siguiente: los grupos de la población que tienen mayor probabilidad de complicarse, adultos mayores, ponemos el punto de límite en 60 años y más, esto es un punto referencial; pero cada vez, conforme aumenta la edad, aumenta también el peligro de complicaciones, es decir, la persona de 70 años tiene mayor riesgo de complicaciones que la persona de 60 años, pero definitivamente la persona de 60 años tiene mayor riesgo que la persona de 50 años. Este es un elemento.
+El segundo es mujer embarazada, por favor que no se nos olviden las mujeres embarazadas, tienen un riesgo aumentado de complicarse.
+Y el tercer grupo son las personas que padecen enfermedades crónicas, en especial las que comentamos cada noche: hipertensión, diabetes, enfermedad cardiovascular, tabaquismo, tabaquismo en sí mismo es una enfermedad, pero además causa muy importantes alteraciones del funcionamiento del aparato respiratorio.
+Entonces, el tabaquismo aumenta el peligro de complicaciones, el uso de vapeadores también, hemos considerado por semejanza a otros daños que causa el uso de vapeo que debemos considerarlo como un elemento de riesgo.
+Las personas con inmunosupresión de cualquier causa adquirida, provocada, por ejemplo, las personas que viven con VIH y han tenido una reducción de las células, de los linfocitos CD4 en forma importante, las personas que padecen cáncer, las personas que usan quimioterapia contra el cáncer, las personas que padecen enfermedades autoinmunes como el lupus eritematoso generalizado, la artritis reumatoide y varias otras enfermedades de esta clase o que utilizan medicamentos inmunosupresores para el tratamiento de este tipo de enfermedades. Todas ellas son personas que tienen mayor riesgo de complicarse y ahí es donde está la distinción más importante del manejo.
+El manejo médico empieza por identificar esos factores de riesgo. Quien está en el grupo de alta probabilidad de complicarse tiene que tener una mayor atención pronta. Si tuviera síntomas de COVID y tiene fiebre, por ejemplo, este grupo de personas no debe esperar para ser evaluado médicamente; en cambio, este otro grupo de personas que son jóvenes, que no son mujeres embarazadas, que no tienen enfermedades crónicas -obesidad, por cierto, también es otro elemento importante- quien no tiene esas características, puede esperar, puede en su mayoría no necesita una atención médica ni siquiera para valoración.
+Ahora, recordar que una vez con la enfermedad, con COVID, las personas que están en el grupo de alto riesgo pueden complicarse literalmente en pocas horas, en pocas horas, es decir, no es algo progresivo que lentamente me voy sintiendo cada vez más mal y mejor me espero un día o dos, no.
+En el momento en que una persona tiene los síntomas de COVID piense, revise, comente con su familia si recuerda, para que le ayude a recordar todos los elementos que pudieran tener de riesgo, los que acabo de mencionar, y debe ser evaluado medicamente en una unidad de salud.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Si la persona tiene o no tiene infección por el nuevo coronavirus SARS-CoV-2.
+Segundo, un elemento que es de uso médico no es transcendente para la atención, que es si la carga viral es alta o es baja. Esto es importante para el elemento de si la persona podría ser contagiante por mayor tiempo.
+En algunos pocos casos las personas llegan con cargas virales muy altas, están eliminando una gran cantidad de virus, esos infieren directamente por uno de los parámetros de la prueba PCR, y eso puede llevar a que se necesite hacer una segunda prueba antes de que las personas sean dadas de alta para estar seguros de que no van a continuar contagiando.
+Otros estudios, como pueden ser la radiografía del tórax, la tomografía computada, dependen de lo que evalúa el médico, la médica específicamente de cada paciente; es decir, no todos los pacientes necesitan una placa de tórax, no todos los pacientes necesitan una tomografía y, desde luego, hay muchísimos otros procedimientos, diagnósticos y de manejo médico que se evalúan uno por uno de acuerdo a la condición del paciente.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estaba la compañera y el compañero de allá, y nos vamos aquí de este lado, y usted también. Todavía tenemos tiempo, por favor.
+---
+PREGUNTA
+Bueno, pues ya lo dijo el doctor Alomía, ya la Ciudad de México superó los mil casos y ya está cerca la fase 3.
+Están cercando, pues ya vimos, el Zócalo, el frente de Palacio Nacional, ya también la Alameda. ¿Ante esta fase 3 se cercarían algunas zonas, digamos, de la ciudad por completo? Esto para ir evitando la aglomeración de las personas, como ayer y antier, en la zona de La Viga. Esta es una pregunta.
+Y la segunda, hoy se reunió usted con personal del Insabi para checar la capacidad hospitalaria en los estados. Si nos puede regalar algunos datos.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+En la fase 2… El gran cambio entre fase 1 y fase 2 en términos de la prevención y el control fue la instauración de las medidas masivas de distanciamiento social, de sana distancia. En estas medidas masivas lo importante es que son precisamente masivas, es decir, funcionan por millones de personas que salen de la vía pública.
+Tenemos un monitoreo aquí en la Ciudad de México, que lo hace el propio gobierno de la Ciudad de México, y como mostramos hace unos días, tenemos reducción de más del 65 por ciento de la movilidad urbana.
+En la fase 3 la escena más importante es el hospital. Entonces, así como en la fase 1 estábamos preparando la fase 2 y la pusimos en práctica 15 días antes de entrar en la fase 2, porque quisimos aprovechar la oportunidad adelantándonos, en la fase 2 estamos preparando la fase 3, y ahí viene su otra pregunta.
+Por eso, nos reunimos, no sólo hoy, nos reunimos diariamente con todos los colegas que tienen que ver con la reconversión hospitalaria.
+La reconversión hospitalaria, llevamos más de siete semanas donde estuvimos trabajando en los protocolos de reconversión en la evaluación de las condiciones de las unidades de salud.
+Hay que garantizar no solamente que existan los ventiladores, por ejemplo, sino que la toma de oxígeno esté en condiciones óptimas, que exista la presión suficiente del circuito de oxígeno para sostener 10, 15, 20, 40, la cantidad de camas necesarias con ventilador, porque los hospitales van a estar operando en condiciones extraordinarias.
+Desde detalles. Por ejemplo, los enchufes en las camas de hospitalización general, a diferencia de las camas de terapia intensiva, no necesariamente existen suficientes enchufes, enchufes eléctricos, y en el manejo de una persona en estado crítico se necesitan muchos equipos eléctricos, el propio ventilador, el monitor, las bombas de perfusión de soluciones intravenosas, y esto podría requerir 10, 15 enchufes y además el circuito eléctrico tiene que ser competente.
+Todos esos detalles, algunos son ingenieriles, otros son orgánicos, tienen que estar las personas, por ejemplo, competentes para vigilar el paciente y modular los parámetros de la ventilación.
+Como hemos comentado, tenemos poco personal de salud en el país. México tiene un rezago histórico en la formación de sus especialistas en salud, y en este campo específicamente la medicina crítica tenemos un número muy pequeño de especialistas.
+Lo que hemos hecho, que lo explicamos, lo explicó el doctor Svarch aquí en la nocturnera y en la mañanera, es un esquema piramidal donde un especialista guía a cinco personas que tienen una profesión médica, pero no son especialistas necesariamente en el campo de medicina crítica, y a su vez cada uno de ellos se hace responsable de cinco pacientes, esto nos permite expandir muy rápidamente la capacidad. Entonces, ese es el trabajo continuo.
+Terminando esta reunión con los colegas de Insabi, nos fuimos todos juntos al Seguro Social, al comando operativo del Seguro Social. Estuvieron los colegas del Seguro Social, del Issste y estuvimos también evaluando el progreso de la reconversión hospitalaria.
+Usted colega, usted colega y nos vamos acá allá con el compañero, y luego usted.
+---
+PREGUNTA
+Hace un par de días usted nos habló de un estimado de contagiados con base en el modelo Centinela, que ronda aproximadamente, nos comentó usted, en 26 mil casos. Esta cifra escandalizó a algunas voces públicas, bastantes.
+Quienes han escuchado sus conferencias saben que este dato usted lo ha dicho una y otra vez durante varias semanas, pero desde antier algunos periodistas y políticos tomaron sus palabras para difundir esta idea de que al doctor Gatell lo obligaron a revelar la verdad después de la entrevista para The Economist, cuando incluso el doctor Alomía y usted nos han dicho esta proporción desde hace semanas, incluso casi un mes.
+Esta afirmación irresponsable de que al gobierno lo obligaron a decir la verdad, personalmente me parece muy grave, muy delicada y es algo que se sigue diciendo en las redes sociales. Me gustaría pedirle que volviera hacer, por favor, esta aclaración para que no existan futuras confusiones sobre esta cifra, ya sea legítimas o malintencionadas, gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No pretendo hacer ningún diagnóstico a distancia de las personas que escriben esto, pero es un fenómeno conocido. La importancia de la verdad en el manejo de una epidemia no es solamente un asunto ético, es un asunto técnico. Esta misma frase la dije hace meses y la he dicho por más de 10 años, desde que me dedico a este tema.
+La verdad es importante porque permite que una población, en este caso la población mexicana, conozca cuál es el escenario al que se enfrenta y pueda tomar decisiones, y esas decisiones no dependen sólo de cada persona o no están encaminadas al bienestar de cada persona, están encaminadas al bienestar de la persona, su familia, su comunidad, su barrio, su ciudad, su país y su mundo.
+Somos más efectivos cuando conocemos la realidad, sabemos a lo que nos enfrentamos, lo sabemos con anticipación y podemos saber que si algo es positivo, algo es alentador, nos puede llamar a aprovecharlo.
+Si algo es retador, si algo es difícil, si algo es peligroso, podemos enfrentarnos de manera más efectiva, es decir, no es solamente… desde luego, entraña un principio ético fundamental y un compromiso con la verdad, pero tiene un valor técnico.
+Como nosotros nos dedicamos a lo técnico, no podemos desperdiciar ninguno de los elementos en ese sentido. Y lo que hemos estado ejerciendo en este foro desde el 28 de febrero, cuando tuvimos el primer caso y mucho antes, la primera conferencia de prensa que tuvimos sobre coronavirus la dimos en la Secretaría de Salud el 22 de enero.
+Entonces, en todo momento hemos querido que la información se conozca lo más rápidamente posible, de la manera más amplia posible y de la manera más clara posible.
+No podemos cambiar las percepciones de cada persona. Si hay un reducido grupo de personas en México que, por algún otro interés distinto de la seguridad sanitaria, del bienestar de las y los mexicanos, tienen necesidad de obstinarse en una agenda particular de difamación, de desoír las evidencias científicas, respetamos su opinión, no podemos hacer nada al respecto más que seguir sumando con la enorme mayoría de mexicanas y mexicanos que conocen en este foro y muchos otros la verdad.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Acabo de decir en respuesta a la primera pregunta, cada semana esto se va a ir actualizando conforme cambie el porcentaje de positividad, el porcentaje de personas que acuden a unidades de salud con enfermedad combatible con coronavirus, etcétera, y lo vamos a estar anunciando cada semana, y conforme existan los datos los ponemos a disposición.
+A veces esos datos nos van a llevar a decir: ‘Qué bien, esto no está tan mal como pensaba’, y otras veces los datos nos van a decir: ‘Qué difícil, vamos a enfrentar una situación difícil’. Ambas cosas se deben conocer con la misma claridad y la misma oportunidad.
+Y aprovecho para recordar lo que he dicho casi al terminar cada conferencia. ¿Se acuerdan que garanticé que iba a llevar el coronavirus a México? Bueno, sigo garantizando que va a ocurrir lo que hemos dicho que va a ocurrir, garanticé que íbamos a pasar a la fase 1 a la 2 y ahora sigo garantizando que vamos a pasar a la fase 3.
+La fase 3 implica un crecimiento acelerado del número de casos, que ya lo estamos viendo, implica muy tristemente muertes, y lo que se requiere es la respuesta organizada, solidaria de todas y todos, y lo hemos resumido con esta frase: quédate en casa. Necesitamos que se queden en casa y que contribuya cada quien a que se reduzca la transmisión de este virus.
+Vamos a pasar allá con el compañero, nos regresamos con usted.
+---
+PREGUNTA
+Un par. Primero una inquietud. Tratándose de que usted el director de toda esta estrategia, ¿no debería tener un micrófono personalizado?, ¿un gabalier?, lo veo también a veces sí, a veces lo veo también tocándose y rascándose ahí el cachete, inquieto, en fin. Esa es una inquietud, por una parte.
+---
+INTERLOCUTOR
+Y otra, igual y le parece una gracejada, pero está ahí en las redes sociales. Cuando la peste negra, esta cosa de la peste bubónica, hubo ahí cuatro personajes, cuenta ahí la historia, hasta en todas partes: el aceite del ratero, que está compuesto a base de varias… con base en varias hierbas: eucalipto, limón, canela, en fin, y se está vendiendo, pero a granel.
+No sé, digo, no está comprobado científicamente, no lo sé, pero ¿es válido que la sociedad también pueda tener este tipo de creencias como las estampitas religiosas que muchos de nosotros creemos?
+Son estas preguntas, subsecretario, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Me gustan mucho sus preguntas, las aprecio por lo mismo, porque me parecen completamente naturales, genuinas, legítimas y porque seguramente reflejan la inquietud de al menos una persona que nos está escuchando y usted le da voz y nos ayuda a que tengamos este diálogo en forma indirecta.
+Empezaré por la segunda. De acuerdo a la idiosincrasia, la cultura, la cosmovisión de cada pueblo y de cada persona, existe una serie de elementos referenciales en los que se deposita la confianza, la esperanza.
+El estado de ánimo depende mucho de la identificación de este tipo de elementos referenciales. A veces son elementos de carácter religioso, a veces son símbolos culturales, a veces están en los propios modos de convivencia entre los seres humanos y a mí me parece que todos deben ser considerados legítimos, respetarlos, celebrarlo, honrarlos en la medida en que proceden de tradiciones, la mayoría de estos milenarios.
+Cuando uno se enfrenta a un problema complejo como puede ser una epidemia, que representa un reto mayúsculo para una población o para la sociedad, en este caso para todo el mundo yo creo que es importante no entrar en actitudes cerradas que precisamente desagreguen a la sociedad.
+Si una persona quisiera sumar… No conozco este aceite del que me habla, pero pensemos en este aceite o en cualquier otro medio físico que se utiliza y eso además se suma a algunas medidas de precaución como lo que hemos dicho de lavarse manos, cubrir el estornudo, etcétera, qué bien, no hay ningún problema, alguien le dará más énfasis al aceite, alguien le dará más énfasis a lo otro.
+Yo creo que se trata de sumar y el estado de ánimo es muy importante, porque el estado de ánimo… ayer que estuvieron, por eso fue muy importante que estuvieran nuestros queridos compañera y compañeros siquiatras, y lo dijeron con puntualidad, depende nuestro estado de ánimo, nuestra conducta, nuestra respuesta, el propio sistema inmune está modulado y esto se conoce científicamente por el estado de ánimo.
+Entonces pienso que es muy válido quien quiera usar esto, adelante.
+Una cosa que preocupa es cuando se le deposita una confianza quizá exclusiva o excesiva a un instrumento de precaución, llámese este aceite, llámese el propio cubrebocas, porque esto lo que puede llevar es a perder la atención de otros elementos que contribuyen.
+Entonces, por ejemplo, el cubrebocas, y por ahí seguirá la inquietud. Quizá algunos de ustedes traían esa pregunta preparada, me anticipo, es que en la Ciudad de México recomendaron el cubrebocas, y es que en el estado Fulano de Tal recomendaron el cubrebocas, ¿y por qué el gobierno no?
+Bien, lo hemos dicho también, lo retomo, y esto lo retomaremos una y otra vez, porque esto va cambiando. En este momento no existe evidencia científicamente suficientemente completa, sólida para identificar al cubrebocas de uso en la comunidad, distinto a la protección que usan los profesionales de la salud, pero en la comunidad no existe evidencia de que puede ser un mecanismo efectivo de precaución.
+¿Por qué?
+Porque, aunque el cubrebocas es una barrera física, sí se conoce que ayuda a disminuir la probabilidad de que el contagiante, es decir, la persona enferma, propague el virus, pero se conoce que no reduce significativamente el riesgo de recibir el virus; entre otras razones, porque el virus también entra por los ojos; a menos que la persona tuviera además del cubrebocas, tuviera goggles, entonces, no hay una reducción muy significativa.
+Pero por otro lado, y lo relaciono con su primer comentario, lo cual me parece también una buena observación, es común que en la vida cotidiana uno se le olvide que las manos son un instrumento efectivo de transmisión, y que uno se talle los ojos, o se toque la nariz, o se rasque el cachete, con mayor razón cuando está el cubrebocas que acalora, pica, y entonces uno se lo está quitando y poniendo, quitando y poniendo.
+Por esa razón es que no hemos hecho una recomendación enfática en pro del cubrebocas y de uso comunitario, pero tampoco estamos en contra. Sí es un elemento auxiliar que por su uso masivo contribuye a que personas que empezaran a ser infecciosas en el periodo antes de que se den cuenta, ya les protegió, muy probablemente va a contribuir un poco.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Después de un episodio en donde se nos saturó el centro de llamadas, lo expandimos masivamente, estamos lejos de que se nos sature.
+Entonces, usted llame, por ejemplo, si usted tiene la inquietud de si tiene o no riesgo de complicarse, es lo que preguntaba usted hace rato, llame, 24 horas al día, 800 0044 800 y entonces platique con el quien le va a asesorar y que le diga, le va a hacer preguntas: ‘Oiga, ¿usted fuma?, ¿cuándo fumó?’, y le va a decir: ‘La recomendación es que sí vaya en este momento a atención médica’.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nos queda tiempo para una pregunta.
+Ahí está 0800 0044 800.
+La última pregunta, por favor.
+---
+PREGUNTA
+Nos ha llegado mucha inquietud de cómo hablar con los niños de esto. Es una de las preguntas que ayer se nos quedó por la falta de tiempo en el tintero que quería preguntarles a los siquiatras, para saber también si tienen en esta estrategia, preparado materiales específicos para hablar con los niños, cómo les explicamos lo que está ocurriendo, por qué tienen que estar encerrados, un poco lo que se dijo ayer, pero con materiales dirigidos a ellos o cómo podemos hacerle para explicarle a los niños.
+Y, por otro lado, digo, hemos estado siguiendo esta información de China presentó ya su primer día sin muertos, que en Europa va bajando, lo que nos van explicando, que va aumentando en América, que viene la fase 3.
+Y yo quería preguntarle si con la información que tienen hasta ahorita con lo que han monitoreado, sus previsiones sobre esto que había explicado de alargar la curva más o menos cómo van, si vamos más bien mal o algo así.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Déjeme abordar primero, porque él está coordinando los distintos grupos que elaboran las guías, pero le comento sobre esto.
+Todavía no tenemos evidencia, porque no ha transcurrido suficiente tiempo desde que se establecieron las medidas masivas de sana distancia.
+El 23 de marzo se cerraron las escuelas y esta fue la contribución hasta ahora más consistente a la sana distancia, porque de un día para otro se salieron de la circulación cerca de 15 millones de personas, todos los educandos, el personal, el personal que está en las economías periféricas a las escuelas, pero luego se sumó el resto de las suspensiones de actividades y estas no se han ejecutado de manera muy consistente.
+¿A qué me refiero?
+No se están respetando del todo. Aquí hago un llamado a las autoridades sanitarias precisamente de los estados, los gobernadores y las gobernadoras, a que contribuyan tomando las decisiones necesarias y los operativos correspondientes a que se cumplan estas medidas, en el marco de su competencia que es cada uno de los estados.
+En algunos estados vemos progreso, hay además un monitoreo continuo de la reducción, de la movilidad como el que he mencionado en la Ciudad de México, 60 por ciento. En otros casos no existe un mecanismo de monitoreo, pero si se pueden poner en práctica el cierre de espacios públicos, el cierre de centros comerciales, el cierre de las playas, etcétera.
+Y también la actividad industrial. Conocemos que todavía, particularmente, en la zona norte del país siguen activas muchas plantas maquiladoras. Le corresponde a la entidad federativa garantizar que se cumplan las disposiciones generales del Consejo de Salubridad General, que es la autoridad sanitaria nacional, y la del secretario de Salud.
+Entonces, hacemos un llamado, todos y todas dependemos de ustedes. Y dependemos también de la población. Cuando a la población le decimos: Quédate en casa, ese es un acto de voluntad personal, que requiere conciencia, requiere un sentido de solidaridad.
+Pero cuando una persona se ve en cierta manera presionada para tener que ir a trabajar porque su empresa, que no tiene una actividad esencial, se empeña en seguir operando, o le ha planteado al trabajador, la trabajadora que le va a despedir si no se presenta a trabajar, quien está incumpliendo es la empresa.
+Si brevemente nos comenta nada más sobre los niños.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Si ustedes ingresan a esa pestaña… Ah, lo tenemos en grande, la pestaña que dice ‘Sección para niños’, y ahí podemos ver como hay material, que está específicamente diseñado para ellos, desde conocimiento para que ellos sepan cómo se produce la enfermedad, cómo se lleva a cabo.
+Si seguimos subiendo vamos a encontrar toda una serie de videos -si le podemos dar para arriba a la página, por favor- hay sección de cuentos, hay personajes conocidos ya mundialmente, que lógicamente en alianza con ellos han hecho estos eventos.
+Si seguimos subiendo encontramos también videos explicativos, mensajes lógicamente en formatos que ellos puedan entender mucho mejor, que le sean más coloridos, en lenguaje sencillo. Aquí están los videos, videos desde los personajes ampliamente conocidos como también con videos son Susana Distancia.
+Y muy importante, también podemos encontrar guías para cuidadores, es decir, la interacción que pueden tener los adultos con ellos y cómo enseñarles o cómo transmitirles información en relación a esta pandemia.
+Los invitamos a visitar esta página.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Muchas gracias.
