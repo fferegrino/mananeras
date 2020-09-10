@@ -2,7 +2,7 @@ from pathlib import Path
 from urllib.request import urlretrieve
 
 
-def download(url_list, download_folder):
+def download_articles(url_list, download_folder):
     url_list = Path(url_list)
     download_folder = Path(download_folder)
     download_folder.mkdir(parents=True, exist_ok=True)

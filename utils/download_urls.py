@@ -39,7 +39,7 @@ def get_anchors(documents):
         anchors.extend([clean_url(a["href"]) for a in doc.find_all("a")])
     return anchors
 
-def download(url_list, page):
+def download_urls(url_list, page):
     page = page or 1
     url_list = Path(url_list)
     url_list.parent.mkdir(exist_ok=True, parents=True)
