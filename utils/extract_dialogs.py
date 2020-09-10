@@ -1,13 +1,10 @@
 from pathlib import Path
 import re
-import click
+
 from bs4 import BeautifulSoup
 
 date_format = re.compile(r"(?P<day>[0-9]{2}) de (?P<month>[a-z]+) de (?P<year>[0-9]{4})")
 
-@click.command()
-@click.argument('raw-input', type=click.Path(file_okay=False))
-@click.argument('processed-output', type=click.Path(file_okay=False))
 def extract(raw_input, processed_output):
     raw_input = Path(raw_input)
     processed_output = Path(processed_output)
@@ -48,6 +45,3 @@ def extract(raw_input, processed_output):
                 writable.write(speaker + "\n")
                 for line in lines:
                     writable.write(line + "\n")
-
-if __name__ == "__main__":
-    extract()

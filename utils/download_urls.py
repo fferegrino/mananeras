@@ -2,7 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
-import click
+
 
 base_url = "https://www.gob.mx"
 articles_url = base_url + "/presidencia/es/archivo/articulos?page="
@@ -39,9 +39,6 @@ def get_anchors(documents):
         anchors.extend([clean_url(a["href"]) for a in doc.find_all("a")])
     return anchors
 
-@click.command()
-@click.argument('url-list', type=click.Path(dir_okay=False))
-@click.option('--page', type=int, default=0)
 def download(url_list, page):
     page = page or 1
     url_list = Path(url_list)
@@ -54,26 +51,26 @@ def download(url_list, page):
             for old_url in readable:
                 old_urls.append(old_url.strip())
         last_fetched = old_urls[0]
-        click.echo(f"Last url found {last_fetched}")
+        print(f"Last url found {last_fetched}")
     else:
-        click.echo("No previous urls found, starting from scratch")
+        print("No previous urls found, starting from scratch")
 
-    click.echo(f"Starting fetching from page {page}")
+    print(f"Starting fetching from page {page}")
 
     new_urls = []
     stop_crawling = False
     while not stop_crawling:
         results = query(page)
         if not results:
-            click.echo("No more urls, no need to crawl anymore")
+            print("No more urls, no need to crawl anymore")
             break
 
         if page % 10 == 0:
-            click.echo(f"Querying page {page}")
+            print(f"Querying page {page}")
 
         for link in get_anchors(results):
             if link == last_fetched:
-                click.echo("Found a previously crawled page, no need to crawl anymore")
+                print("Found a previously crawled page, no need to crawl anymore")
                 stop_crawling = True
                 break
             new_urls.append(link)
@@ -81,11 +78,6 @@ def download(url_list, page):
         page += 1
 
     all_urls = new_urls + old_urls
-    click.echo(f"Downloaded {len(new_urls)} new urls")
     with open(url_list, "w") as writable:
         for url in all_urls:
             writable.write(url + "\n")
-
-
-if __name__ == "__main__":
-    download()

@@ -1,11 +1,7 @@
 from pathlib import Path
 from urllib.request import urlretrieve
-import click
 
 
-@click.command()
-@click.argument('url-list', type=click.Path(exists=True, dir_okay=False))
-@click.argument('download-folder', type=click.Path(file_okay=True))
 def download(url_list, download_folder):
     url_list = Path(url_list)
     download_folder = Path(download_folder)
@@ -37,10 +33,6 @@ def download(url_list, download_folder):
     with open(downloaded_urls, "w") as writable:
         for url in all_urls:
             writable.write(url + "\n")
-
-
-if __name__ == "__main__":
-    download()
 
 
 
