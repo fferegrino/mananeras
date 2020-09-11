@@ -1,8 +1,8 @@
 {
-    "id": "io_exception/mananeras",
+    "id": "ioexception/mananeras",
     "title": "Conferencias Mañaneras",
     "subtitle": "Versiones escritas de las conferencias de la presidencia de México.",
-    "description": "",
+    "description": "Las versiones escritas de las conferencias de la presidencia de México, descargadas diariamente del sitio web oficial del gobierno y procesadas para hacerlas un poco más fácil de consumir programáticamente.",
     "licenses": [
         {
             "name": "CC-BY-SA-4.0"
@@ -16,7 +16,7 @@
     "resources": [
       {
         "path": "articulos.zip",
-        "description": "All the cards dataset"
+        "description": "Todos los artículos organizados en carpetas."
       }
     ]
   }

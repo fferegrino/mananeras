@@ -21,6 +21,12 @@ def extract(raw_input, processed_output):
             author, date = [dd.text.strip() for dd in soup.find("section", {"class":"border-box"}).find_all("dd")]
             all_ps = article_content.find_all("p")
 
+
+            date_info = date_format.match(date).groupdict()
+            file = processed_output / date_info["year"] / date_info["month"] / f"{date_info['day']}--{html_file.stem}.txt"
+            if file.exists():
+                continue
+
             current_speaker = None
             dialogs = []
             for ps in all_ps:
@@ -33,8 +39,6 @@ def extract(raw_input, processed_output):
                 else:
                     dialogs.append(ps.text.strip())
 
-        date_info = date_format.match(date).groupdict()
-        file = processed_output / date_info["year"] / date_info["month"] / f"{date_info['day']}--{html_file.stem}.txt"
         file.parent.mkdir(exist_ok=True, parents=True)
         with open(file, "w") as writable:
             writable.write(title + "\n")
