@@ -11,6 +11,7 @@ requests = "*"
 html5lib = "*"
 lxml = "*"
 kaggle = "*"
+click = "*"
 
 [requires]
 python_version = "3.7"
