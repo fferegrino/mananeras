@@ -9,7 +9,11 @@ def extract(raw_input, processed_output):
     raw_input = Path(raw_input)
     processed_output = Path(processed_output)
     processed_output.mkdir(exist_ok=True, parents=True)
+    existing_files = {str(file).partition("--")[2][:-4] for file in processed_output.glob("**/*.txt")} 
     for html_file in raw_input.glob("*.html"):
+        if html_file.stem in existing_files:
+            continue
+
         author = None
         date = None
         title = None
@@ -24,8 +28,6 @@ def extract(raw_input, processed_output):
 
             date_info = date_format.match(date).groupdict()
             file = processed_output / date_info["year"] / date_info["month"] / f"{date_info['day']}--{html_file.stem}.txt"
-            if file.exists():
-                continue
 
             current_speaker = None
             dialogs = []

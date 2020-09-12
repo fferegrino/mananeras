@@ -30,6 +30,7 @@ def main(log_file):
     download_urls("urls.txt", 1)
     logger.info("downloading articles")
     download_articles("urls.txt", "raw")
+    logger.info("processing articles")
     extract("raw", "articulos")
     logger.info("compressing articles")
     shutil.make_archive('data/articulos', 'zip', "articulos")
