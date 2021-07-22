@@ -31,7 +31,7 @@ def extract(raw_input, processed_output_path):
 
 def _c(txt: str) -> str:
     """Clean a string removing whitespace"""
-    return txt.strip()
+    return txt.replace("\xa0", " ").replace('\xc2', ' ').strip()
 
 def _parse_ps(ps: Tag) -> Tuple[str, str]:
     raw_speaker, _, raw_dialog = ps.text.partition(":")

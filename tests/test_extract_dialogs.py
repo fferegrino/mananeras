@@ -3,8 +3,10 @@ from pathlib import Path
 
 import pytest
 from _pytest.config import Config
+from bs4 import BeautifulSoup
 
-from utils.extract_dialogs import parse_document
+from utils.extract_dialogs import parse_document, _parse_ps
+
 
 @pytest.fixture
 def sample_docs_path(pytestconfig: Config) -> Path:
@@ -46,3 +48,13 @@ def test_2021(sample_docs_path: Path):
 
     assert all_dialogs[-2][0] == "INTERLOCUTORA"
     assert all_dialogs[-2][1][0] == "¿A qué hora?"
+
+def test_parse_ps():
+    p_content = "<p>Iniciamos esta mesa con el mensaje a cargo&nbsp;" \
+                "del gobernador constitucional del estado de Tabasco, licenciado Ad&aacute;n Augusto " \
+                "L&oacute;pez Hern&aacute;ndez.</p>"
+    soup= BeautifulSoup(p_content)
+    _,dialog = _parse_ps(soup.find("p"))
+
+    assert dialog == "Iniciamos esta mesa con el mensaje a cargo " \
+                     "del gobernador constitucional del estado de Tabasco, licenciado Adán Augusto López Hernández."
