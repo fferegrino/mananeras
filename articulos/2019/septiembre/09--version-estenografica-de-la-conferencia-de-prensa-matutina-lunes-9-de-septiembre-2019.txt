@@ -3,11 +3,13 @@ Presidencia de la República
 09 de septiembre de 2019
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Buenos días, buenas tardes.
 Estábamos terminando de hacer las cuentas porque vamos a presentarles un resumen, una síntesis de lo que se entregó el día de ayer al Congreso, el proyecto de ley de ingreso y de presupuesto para el año próximo. Entonces, Arturo Herrera, secretario de Hacienda, va a informar sobre este tema.
 Y como todos los lunes, Ricardo Sheffield va a informarnos, va a dar a conocer a todos los mexicanos el Quién es quién en los precios de los combustibles.
 Si les parece, comenzamos con Ricardo y luego Arturo hace la presentación del proyecto de ley de ingreso y de presupuesto. Entonces, vamos con Ricardo.
 ---
 RICARDO SHEFFIELD PADILLA, PROCURADOR FEDERAL DEL CONSUMIDOR
+Muchas gracias.
 Buenos días, señor presidente.
 Buenos días a todas y a todos.
 Quién es quién en los precios de los combustibles, iniciando con las gasolinas. Y tenemos en la gasolina regular el margen más alto con el precio más alto, que lo encontramos en La Paz, Baja California Sur, Ralsi, con un margen de tres pesos 31 centavos por litro y un precio al público de 21 pesos con 52 centavos por litro; mientras que el menor margen y el menor precio lo encontramos en Carvi Autoservicios en Centro, Tabasco, un precio al público de 17 pesos con 89 centavos y un margen de 19 centavos.
@@ -30,22 +32,45 @@ Muchas gracias.
 Sí, dígame.
 ---
 PREGUNTA
+Una pregunta. Arturo Gómez, del Horizonte de Monterrey.
 Respecto a la demanda colectiva con la empresa gasera Naturgy, ¿cómo va el proceso?, ¿nos podría explicar por qué es de interés de los usuarios?, si han recibido alguna bonificación ya del proceso este que se inició en julio, tengo entendido.
 ---
 RICARDO SHEFFIELD PADILLA
+El problema lo encontramos en el estado de Nuevo León, de Coahuila y aquí en la Ciudad de México con esta empresa de capital español que comercializa con la marca Naturgy, Gas Natural México.
 Esta empresa recibió la petición de parte de nosotros por dos temas: El primero es que no estuviera cobrando servicios que los clientes no le habían contratado, entre ellos Hogar Consentido, que Dios guarde ser hogar consentido de Naturgy porque te cobran entre 80 y 150 pesos no sabes por qué, y ni siquiera lo pediste.
 Y el otro tema es que estaban estimando los consumos, todos los consumos, siempre con un 30 por ciento adicional al consumo real y el ajuste lo hacían hasta el siguiente bimestre, y en consecuencia pues se jineteaban tu 30 por ciento que habías pagado, te cortaban el servicio. Estas dos prácticas las estaban haciendo porque el permiso con el que operaban se los permitía.
 Entonces, hablamos con la CRE y afortunadamente hace casi un mes la CRE accedió a modificar el permiso para que, en consecuencia, se modifique el contrato de adhesión con el cual se vende el gas natural a los consumidores, principalmente en estos tres sitios.
 Adicional a ello -porque eso lo estamos peleando, obviamente no han querido acceder, tenemos una reunión el día de mañana con ellos- también iniciamos una acción colectiva, esa acción colectiva, si se resuelve de fondo, como lo estamos hablando, quedaría sin sustancia, sin motivo.
 Pero mientras son peras o son manzanas nosotros vamos a dar continuidad a la acción colectiva ante las instancias judiciales. Apenas se está en la primera etapa, hace poco que se les notificó de esta demanda.
 ---
+INTERLOCUTOR
+¿Se han sumado más a esta acción colectiva, más usuarios se han sumado? Eran dos mil a julio.
+---
 RICARDO SHEFFIELD PADILLA
+Mira, para iniciar una acción colectiva ocupamos 30 consumidores, la verdad es que tenemos varios cientos y la suma se da al final, cuando se tiene ya la sentencia.
 Entonces, no nos preocupa mucho que se sumen o no más usuarios en este momento, nos preocupa que Naturgy se ponga las pilas y cumpla en vez de contender con las modificaciones que se hicieron para que deje de cobrar servicios adicionales y deje de estar estimando el consumo.
 ---
+INTERLOCUTOR
+¿No ha habido ninguna bonificación a los usuarios hasta el momento?
+---
 RICARDO SHEFFIELD PADILLA
+No le entendí.
+---
+INTERLOCUTOR
+Alguna bonificación a los usuarios de los cobros excedidos.
+---
+RICARDO SHEFFIELD PADILLA
+Son casos individuales, pero ahí no resolvemos. Que se les quite el catarro a tres no se quita el catarro. Entonces, lo que queremos nosotros es resolver de fondo.
 Sí ha habido compensaciones a varios miles de casos individuales, pero si continúa la práctica el siguiente mes, ¿qué ganamos? Hay que resolver de fondo el problema.
 ---
+INTERLOCUTOR
+Muchas gracias.
+---
+RICARDO SHEFFIELD PADILLA
+Gracias a usted.
+---
 ARTURO HERRERA GUTIÉRREZ, SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO (SHCP)
+Muchísimas gracias.
 Tenemos aquí la presentación sobre el Paquete Económico que entregamos hoy. Me acompañan Victoria Rodríguez, la subsecretaria de Egresos; Carlos Romero, el procurador fiscal de la Federación; y Gabriel Yorio, el subsecretario del ramo.
 Como señalaba yo, entregamos el día de ayer a la Cámara de Diputados y posteriormente al Senado de la República el Paquete Económico.
 ¿No se escucha? ¿Me escuchan mejor así? Voy a hablar más fuerte.
@@ -80,7 +105,7 @@ Las diferentes variables que aparecen en el marco macro son las que nos permiten
 ¿Por qué es relevante esto?
 Entre otras cosas, los ingresos son proporcionales a la actividad económica. Si el crecimiento es mayor, si el PIB es mayor hay un mayor ingreso sobre la renta, hay un mayor IVA.
 El segundo es la inflación. En materia de inflación nosotros siempre vamos con el pronóstico del Banco de México y por eso tenemos tres por ciento.
-El cuarto y el quinto son el precio del petróleo y la producción de petróleo. El precio del petróleo resultó ser la variable más complicada de poder estimar de todo el marco macroeconómico.  Hasta hace un mes, cuando teníamos prácticamente preparado el paquete, el precio del petróleo de la mezcla mexicana era de 55 dólares por barril, una vez que se incrementaron las tensiones comerciales entre Estados Unidos y China el precio del petróleo llegó a caer hasta a 47.2 dólares por barril.
+El cuarto y el quinto son el precio del petróleo y la producción de petróleo. El precio del petróleo resultó ser la variable más complicada de poder estimar de todo el marco macroeconómico.  Hasta hace un mes, cuando teníamos prácticamente preparado el paquete, el precio del petróleo de la mezcla mexicana era de 55 dólares por barril, una vez que se incrementaron las tensiones comerciales entre Estados Unidos y China el precio del petróleo llegó a caer hasta a 47.2 dólares por barril.
 Entonces, decidimos ser muy prudentes y poner 49 dólares por barril. Si ustedes checan el precio del petróleo hoy por mañana, está en 57 dólares por barril, es decir, tuvo un incremento, ha tenido una volatilidad muy importante, de tal forma que esta es una variable conservadora, probablemente vamos a estar en rangos más altos.
 El tipo de cambio estimado para el cierre del 2020 está en 19.9 y la tasa de interés en 7.4. Como ustedes saben se entró ya en el ciclo de política acomodaticia por distintos bancos centrales a lo largo del mundo, incluyendo el Banco Central de México que en su última reunión decidió bajar en 25 puntos base su tasa de referencia y bajar de 8.25 a 8 por ciento.
 La siguiente lámina determina algo muy importante que está asociado con el diseño, aprobación y ejecución del presupuesto en México. Una vez que se tiene el marco macroeconómico, lo primero que se determina es cuáles es la estructura de deuda sustentable a lo largo del tiempo y eso nos ayuda a determinar cuál es el financiamiento, el endeudamiento en esto. Entonces, ese es el primer punto que se determina.
@@ -126,6 +151,7 @@ Muchas gracias.
 Si les parece bien, tomamos tres preguntas y después las respondemos. Empezamos aquí, ahí y allá.
 ---
 PREGUNTA
+Buenos días, presidente de México. Su servidor Carlos Pozos, reportero de Petróleo y Energía.
 Señores secretarios, señores invitados; y buenos días a los que nos ven y nos escuchan.
 Mi pregunta es esta, secretario. Una vez ya entregado formalmente este paquete entiendo que tiene una iniciativa para modificar el Código Fiscal de la Federación a la Ley de Derechos y también una iniciativa a la Ley de Ingresos sobre hidrocarburos.
 ¿Nos podría explicar a detalle qué impacto y qué modificaciones son para los estados petroleros, específicamente?
@@ -133,26 +159,35 @@ También preguntarle, de estos seis mil 96 millones de millones de pesos, ¿cuá
 Finalmente, quisiera preguntarle si los lineamientos de política de ingresos para el 2021 podrían ser modificados, una vez que la ciudadanía haya constatado que no hay corrupción y que los dineros que se ingresan están siendo bien canalizados a programas, infraestructura y todo lo que requiere el gobierno.
 Mil gracias.
 ---
+ARTURO HERRERA GUTIÉRREZ
+Teníamos otra pregunta por allá.
+---
 PREGUNTA
+Hola, buenos días.
 Básicamente, me gustaría preguntar acerca de los recursos que se están destinando a Pemex. De este margen de maniobra que usted planteó ahorita de 1.17 billones de pesos, ¿esto fue el margen para destinar los 86 mil millones de pesos para Pemex? ¿y esto qué implicó en cuanto a recortes a sectores?, o sea, no nada más a las dependencias económicas, ¿cuánto implicó recortar a sectores como salud, educación o a qué sectores les recortó?
 Y me gustaría preguntar al presidente. Algunos consideran que está saliendo demasiado caro este capricho político de rescatar a Pemex en la manera en que se está haciendo, sobre todo porque se habla de combatir a la corrupción y en Pemex no se ha hecho una limpieza, sabiendo que también hay corrupción.
 ¿Hay una estrategia para hacer una reingeniería dentro de Pemex?, tomando en cuenta que también las calificadoras consideran que los apoyos fiscales a Pemex no están siendo suficientes para rescatar a esta petrolera.
 Por último, para este año se planteaban ahorros de 200 mil millones de pesos. ¿Para el siguiente año cuánto va a ser el ahorro? y si hubo recortes.
 Gracias.
 ---
+ARTURO HERRERA GUTIÉRREZ
+Había otra pregunta por acá, si quieren tomamos esa y respondemos esas tres.
+---
 PREGUNTA
+Qué tal. Alberto Rodríguez, de SDP Noticias.
 Un par de preguntas. La primera es sobre el crecimiento. El Plan Nacional de Desarrollo habla de un crecimiento de cuatro por ciento anual, pero según los criterios que ha establecido el Paquete Económico 2020 se va a crecer a un máximo de 1.2 en 2019 y un máximo de 2.5 en 2020; esto significaría que para llegar a la meta se tendría que crecer en los cuatro años restantes a un promedio de cinco por ciento, incluso, un poquitito por encima del cinco por ciento.
 Quiero preguntar qué tan realista sigue siendo esta meta original del sexenio.
 Y por otro lado -es una pregunta un poco aparte- el viernes pasado muchos medios de comunicación como que magnificaron la noticia sobre la desaparición del IEPS a la gasolina Premium. Quisiera que nos explicara más o menos cuál es el impacto real de lo que sucedió el viernes y qué es lo que está sucediendo con los precios en esta semana.
 Gracias.
 ---
 ARTURO HERRERA GUTIÉRREZ
+Muchas gracias.
 Empiezo respondiendo esa. La primera y la segunda pregunta tenían referencia a Pemex, así es que les parece bien las respondo ambas al mismo tiempo.
 Este paquete tiene un apoyo de alrededor de 86 mil millones de pesos a Petróleos Mexicanos. Este apoyo está dividido en dos partes:
 Hay 46 mil millones de pesos de capitalización, es decir, presupuesto que está contemplado entre el Presupuesto de Egresos de la Federación y que se va a transferir a Pemex, es decir, esa es la parte del apoyo que sale por la vía del gasto, y de una parte del apoyo que sale por la vía del ingreso.
 Pemex es una empresa que ha estado sobregravada a lo largo del tiempo, y esa es una de las razones por las cuales no ha estado invirtiendo y hemos visto una caída a lo largo de los años. Entonces, lo que estamos haciendo, estamos flexibilizando el régimen tributario de Pemex, y en particular hay una caída en el DUC que representa alrededor de 40 mil millones de pesos. En total, 86 mil millones de pesos. Esa fue la pregunta que nos hacían por allá.
 Esos no están en los 1.1 billones, el 18 por ciento, ese ya es el resultado, eso ya está contemplando ambas cosas. El total de los apoyos a Pemex son un poco más de uno por ciento del presupuesto total.
-En la medida en que nosotros estemos invirtiendo en Pemex, tendremos una empresa que es mucho más eficiente, pero también eventualmente vamos a tener más recursos. Por ejemplo, la caída que había tenido hasta menos de 1.7 millones de barriles por día, Pemex logró a lo largo de los últimos  meses, primero, ya parar la caída, estabilizar la producción y empezarla a incrementarse.
+En la medida en que nosotros estemos invirtiendo en Pemex, tendremos una empresa que es mucho más eficiente, pero también eventualmente vamos a tener más recursos. Por ejemplo, la caída que había tenido hasta menos de 1.7 millones de barriles por día, Pemex logró a lo largo de los últimos  meses, primero, ya parar la caída, estabilizar la producción y empezarla a incrementarse.
 Entonces, contrariamente a lo que sugería la pregunta, en realidad es un muy buen negocio, porque como podrás ver en los criterios generales de política económica, hay casi 200 mil barriles adicionales, nada más multiplica 200 mil por alrededor de 50 dólares, 200 mil por día, por 50 dólares, por 365 días, y vas a ver que es un muy buen negocio.
 Difiero yo del hecho de que no se esté parando la corrupción en Pemex y algunas otras medidas. El hecho más evidente es el que está relacionado con el huachicol, eso le está dando ya a Pemex ingresos que antes se perdían por alrededor de 30 mil millones de pesos.
 Había una pregunta asociada al total del servicio de la deuda. El total del servicio de la deuda para este año es de alrededor… no al servicio de la deuda, el pago de intereses de la deuda va a ser alrededor de 728 mil millones de pesos. Y el pago de intereses está ya acotado y es el resultado de dos cosas:
@@ -173,7 +208,11 @@ Segundo, tenemos un sector financiero relativamente delgado. México es un país
 Hay un cuarto más, que tiene que ver con la recaudación. Nosotros tenemos una recaudación de solamente el 13 por ciento del PIB. En la Miscelánea Fiscal van instrumentos muy importantes para que pueda recaudar más el SAT, asociado a una serie de iniciativas que ya están en el Congreso: una, la que va a prohibir las condonaciones, y otra, que va a dirigir a las empresas fantasmas y la facturación falsa.
 Creo que esas eran las preguntas que había.
 ---
+PREGUNTA
+Faltó la de la posibilidad de modificar los lineamientos...
+---
 ARTURO HERRERA GUTIÉRREZ
+Ah sí. No, no, no, los lineamientos lo que determinan cómo construimos nosotros la ley de ingresos, no son parte del aparato jurídico.
 Lo que nosotros sí creemos, y es algo que le vamos a apostar, y es muy importante en ese sentido de su pregunta, la recaudación adicional tiene tres principios sobre lo que nosotros estamos construyendo los estimados:
 Uno. Dotar de instrumentos al SAT que antes no tenía.
 Segundo. Mejorar operativamente al SAT en su funcionamiento interno.
@@ -181,16 +220,25 @@ Y el tercero el que usted señalaba, en la que en medida en que nosotros podamos
 A ver, si quieren una pregunta ahí, otra allá y una aquí.
 ---
 PREGUNTA
+Buenos días. Pedro Hernández, del periódico Ángel Metropolitano y El Día.
 Secretario ¿qué van a hacer con las empresas trasnacionales que evaden impuestos?
 ---
+ARTURO HERRERA GUTIÉRREZ
+Muy bien. Había otra allí, inmediatamente atrás de ti.
+---
 PREGUNTA
+Buenos días a todos. Silvia Rodríguez, de Grupo Milenio.
 Quiero saber si estas medidas de eficiencia dentro del SAT no implican que a la población se le va a estar presionando más y apretando más el cinturón para compensar todos los recursos que no se pueden tener por otras vías, como por ejemplo por la caída en los precios del petróleo que se ha observado.
 ¿Qué implicaciones va a tener esto para la población?
 ---
+ARTURO HERRERA GUTIÉRREZ
+Muy bien. Había una acá.
+---
 PREGUNTA
+Buenos días, señor presidente, secretario, subsecretarios, señores.
 Preguntarle sobre la Ley de Ingresos. El ISR, estoy checando que tiene un incremento en recaudación de 94 mil millones, esto es más o menos cinco por ciento.
 ¿De aquí más o menos cuánto equivale por el combate a las factureras y la no condonación de impuestos?
-Dentro del IVA yo veo sólo 11 mil, 12 mil millones de pesos más o menos en cifras cerradas de incremento de recaudación, pasa de 995 mil millones de pesos a un billón siete mil millones de pesos.  Esto podría ser un indicador de que el consumo y las ventas serán deprimidas, porque es un aumento muy magro del IVA.
+Dentro del IVA yo veo sólo 11 mil, 12 mil millones de pesos más o menos en cifras cerradas de incremento de recaudación, pasa de 995 mil millones de pesos a un billón siete mil millones de pesos.  Esto podría ser un indicador de que el consumo y las ventas serán deprimidas, porque es un aumento muy magro del IVA.
 En el caso del IEPS hay un incremento de 73 mil millones de pesos, para quedar en 343 mil millones.
 ¿De dónde va a salir esto?, porque de repente eso también implica que la gente tenga dudas de que va a haber más gasolinazos.
 ¿De dónde van a salir esos 73 mil millones de pesos?
@@ -198,6 +246,7 @@ Por último, en el caso de la Ley del Presupuesto de Egresos, el Ramo 33 veo que
 ¿Esto a qué se debe, secretario?
 ---
 ARTURO HERRERA GUTIÉRREZ
+Muy bien. Empiezo con la primera pregunta.
 El interés de nosotros es que todos paguen, empresas locales y empresas extranjeras. En general, yo diría sobre todo aquellos grandes corporativos suelen tener prácticas en línea, corporativos extranjeros, que les obligan a cumplir con sus obligaciones fiscales.
 Hay una pregunta y hay una preocupación que nosotros tenemos, y que se ha convertido en una pregunta reiterada en los últimos días, que tiene que ver con la economía digital y con las plataformas digitales.
 Los impuestos -déjenme y aprovecho su pregunta para aclarar este punto- los impuestos que tienen que pagar las plataformas digitales no son nuevos, son los impuestos que pagamos, o todas las empresas o todos los ciudadanos, es decir, cuando se renta un vehículo a través de una plataforma se tiene que pagar un Impuesto Sobre la Renta o un IVA, no son diferentes.
@@ -213,22 +262,36 @@ En el caso del IPS, del Impuesto Sobre la Renta, el IVA y el IEPS dependen funda
 Hay una información adicional que no necesariamente está en la parte que tú estás viendo, en la parte comparada, porque tú estás viendo lo que se aprobó en el 2019 y estás comparado con el 2020.
 Nosotros tenemos un elemento de información adicional que es: sabemos exactamente cuánto hemos recaudado y tenemos un estimado de cierre, y con base en ese estimado de cierre es que como calculamos las que estimaciones que pensamos que vamos a tener de ingresos en cada uno de estos rubros.
 ---
+INTERLOCUTOR
+…1.2 por ciento de incremento, quiere decir que no va a haber mayor consumo, ¿esa es la perspectiva que tienen?
+---
 ARTURO HERRERA GUTIÉRREZ
+No, no, no, el consumo es proporcional al crecimiento, y como viste traemos un crecimiento promedio de alrededor de dos por ciento.
 Les parece bien si tomamos tres preguntas más. Empezamos allá, allá y una más acá.
 ---
 PREGUNTA
+Buenos días.
 A mí me gustaría saber. La parte del crecimiento, se habla de que va a haber un programa especial para impulsar el crecimiento y la productividad en las empresas, ¿eso de qué se va a tratar y cómo se va a beneficiar?, porque ahorita las proyecciones que nosotros estamos viendo son crecimientos que de alguna manera no están muy creíbles para los analistas y estaban diciendo que Hacienda estaba presentando cifras que presentaban una realidad.
 ---
+ARTURO HERRERA GUTIÉRREZ
+Muy bien. Había otra pregunta allá y una más por acá.
+---
 PREGUNTA
+Muchas gracias, secretario, Stephanie Ochoa, de ADN 40.
 Saber si me puede responder el presidente, ante este contexto internacional, ¿cuál es el factor que será necesario para alcanzar el crecimiento de hasta el 2.5 por ciento?
 Y también saber si con este presupuesto se garantiza que no se baje la deuda tanto para Pemex, como la soberana.
 Gracias.
 ---
+ARTURO HERRERA GUTIÉRREZ
+Sí, aquí alguna pregunta.
+---
 PREGUNTA
+El Ejecutivo federal ofreció en tiempos de campaña que a través del combate a la corrupción se podrían recaudar 900 mil millones de pesos anuales.
 ¿Cómo se ha avanzado en ese sentido?, ¿qué hay respecto a las reglas de operación que también causan parálisis y subejercicio en la administración pública?
 Y finalmente, ¿cuál es la política de Hacienda frente a las demandas de los alcaldes y gobernadores para crear un nuevo pacto, un nuevo federalismo hacendario, señor secretario?
 ---
 ARTURO HERRERA GUTIÉRREZ
+Muy bien.
 Si quieren, empiezo con un par de las preguntas que hacían referencia a los temas de crecimiento.
 Hay una serie de variables que para nosotros son importantes, además de las que ya se presentaron en los criterios generales de política económica. Una variable central y está explícitamente abordada en los criterios generales, y es de particular relevancia en un contexto de desaceleración global y de conflictos comerciales, es la aprobación del nuevo Tratado de Libre Comercio, del T-MEC.
 Los conflictos comerciales han tenido efectos negativos en todas las economías y también en la nuestra, pero también han generado oportunidades. México se convirtió -y no lo era desde el 2003- ya en el principal socio comercial de Estados Unidos.
@@ -246,7 +309,11 @@ Entonces, lo que esto se va a traducir es que vamos a estar buscando que el pres
 Me parece que era la misma pregunta de la gente de ADN 40.
 Había una pregunta más con relación al combate a la calificación.
 ---
+PREGUNTA
+¿Si este presupuesto garantizará al menos que no se baje la calificación para Pemex y también para la deuda soberana?
+---
 ARTURO HERRERA GUTIÉRREZ
+No nada más el presupuesto, la calificación de la deuda tiene que ver con una serie de características.
 Una es el tamaño de la deuda y claramente la estamos acotando.
 Dos. Con el perfil de la deuda, es decir, al mismo tamaño de deuda si tienes vencimientos muy cercanos, eso pone en riesgo y nosotros hemos venido, sobre todo en el caso de la deuda soberana, haciendo unas operaciones de manejo de pasivos que han sido muy exitosas.
 Te recuerdo algunas de ellas. Emitimos en enero un bono de alrededor de dos mil millones de dólares en el mercado de Nueva York, después emitimos en el mes de marzo, si mal no recuerdo, 2.5 millones de euros, después emitimos en el mercado samurái, en el mercado japonés alrededor del equivalente a 1.5 mil millones de dólares.
@@ -255,7 +322,11 @@ Por el lado de Pemex. Pemex, como ya decía tiene además que ver la parte de do
 La caída que había en la producción ya fue frenada, ya se estabilizó y ya empezó a crecer y seguimos trabajando con ellos en ver cómo podemos mejorar el perfil de la deuda de Pemex.
 Y la última pregunta tenía que ver…
 ---
+INTERLOCUTOR
+Con el federalismo hacendario que plantean alcaldes y si a través de sus demandas en la Secretaría de Gobernación como ocurrió hace 15 días, Hacienda estaría en condición de flexibilizar su postura draconiana frente a demandas de alcaldes y gobernadores, porque ellos consideran que es inequitativo la entrega de recursos a municipios.
+---
 ARTURO HERRERA GUTIÉRREZ
+Yo no sé si es equitativo o no, la entrega para estados y municipios es por ley, ni siquiera lo determinamos nosotros. Esto está en la Ley de Coordinación Fiscal. La Ley de Coordinación Fiscal determina cuál es el monto que existe para distribuir y las reglas.
 De hecho, si usted revisa la Ley de Coordinación Fiscal tiene fórmulas matemáticas, no hay discrecionalidad y anda en ese sentido.
 Lo que sí había discrecionalidad antes era en el llamado Ramo 23, donde había distribuciones a las entidades y algunos municipios que podían ser asociadas a negociaciones de carácter político, a las coyunturas específicas. Eso no existe.
 Lo que cada uno de los tres niveles tiene que hacer es buscar cuáles son los mecanismos a través de los cuales tienen que fortalecer sus diferentes fuentes de financiamiento. El gobierno federal -y esto es muy importante en un país de carácter federal cada uno de los distintos niveles va determinando esto- nosotros lo que hemos determinado es estar buscando eficientar la recaudación sin subir los impuestos y cambiar la estructura tributaria.
@@ -267,14 +338,16 @@ Al margen de eso, sí hay un compromiso que es más o menos público del preside
 Hacemos un par de preguntas más. Aquí y allá, porque tienen ustedes buena izquierda.
 ---
 PREGUNTA
+Buenos días. Shaila Rosagel, corresponsal de Grupo Healy, El Imparcial de Sonora, La Crónica y Frontera de Tijuana.
 Ahorita usted concluyó hablando sobre las obras o mega proyectos. En junio recordamos que se anunció que se estaba trabajando con los gobernadores para apoyar determinados proyectos en los estados, en cada entidad.
-¿Cuáles son las obras más transcendentes que le presentaron los gobernadores y en específico qué proyectos se consideraron de Sonora y Baja California?  No sé si lo traiga usted o el presidente.
+¿Cuáles son las obras más transcendentes que le presentaron los gobernadores y en específico qué proyectos se consideraron de Sonora y Baja California?  No sé si lo traiga usted o el presidente.
 De acuerdo a lo informado seguridad está entre los rubros prioritarios en el presupuesto del año próximo.
 ¿Cuál es el monto total que se propone y en qué renglones más importantes se destinarán?
 Ahorita hablaba de la Guardia Nacional. ¿Cuál es el compromiso respecto a este recurso para seguridad?, ¿cuál es el compromiso en concreto de resultados, o sea, para dar resultados en este tema?, ¿y cuál es la recaudación estimada que espera recibir Hacienda con la aplicación de impuestos a las plataformas de comercio y servicio electrónico? si tiene una estimación estimada de recaudación y si se han acercado a las empresas. ¿Cuál es la postura de estas empresas? ¿qué les han dicho?
 Gracias.
 ---
 PREGUNTA
+Gracias, buenos días. Sara Pablo, de Radio Fórmula.
 Secretario, preguntarle. Por un lado, decía que con este presupuesto se busca enfrentar la desaceleración global, ¿cuánto se invierte en infraestructura?, ¿qué porcentaje?
 Y hablaba el presidente la otra vez de un programa nacional de infraestructura de mil 600 proyectos que se trabajaba con la iniciativa privada. Entiendo que habría capital privado y público.
 Si ya se están considerando estos proyectos, porque para los empresarios al parecer eran importantes para poder detonar esta inversión masiva de la iniciativa privada, ¿qué tanto se está destinando para estos proyectos en infraestructura?
@@ -282,6 +355,7 @@ Y nada más del presupuesto para los gobernadores, bueno, para los gobiernos est
 Gracias.
 ---
 ARTURO HERRERA GUTIÉRREZ
+Muy bien. Empiezo con la pregunta de Sonora y con la respuesta de Sonora.
 El proyecto que eligió la gobernadora de Sonora es un hospital, si no mal recuerdo es un hospital, de hecho, nos reunimos con el ella el viernes pasado.
 Sirva y no es ningún secreto, hemos tenido reuniones con los gobernadores a lo largo de las últimas semanas, el jueves pasado nos reunimos con los gobernadores del PRI, el miércoles pasado nos reunimos con los gobernadores del PAN. Algunos gobiernos como el de Sonora, como el de su estado, ya tienen determinados cuáles son los proyectos; algunos otros gobiernos, por ejemplo, como el de Hidalgo también lo tiene, y de hecho es un proyecto que ya se venía haciendo, que es el proyecto que va de la carretera de Pachuca a Huejutla.
 La mayor parte de estos proyectos son de largo alcance, van a tardar algunos años, algunos acaban más pronto que otros, pero sí hay un número importante de proyectos que están todavía definiéndolos los gobernadores. Nosotros vamos a trabajar con ellos para asegurarnos de que el proyecto que ellos están proponiendo es técnicamente factible y que le vamos a dar suficientes recursos.
@@ -292,9 +366,11 @@ La primera es que aun cuando es un sector relativamente pequeño es el sector qu
 Entonces, necesitamos asegurarnos que tenemos un marco de recaudación adecuado con ellos, no solamente por lo que tiene que por lo que tiene que pagar hoy, sino porque se espera que en el futuro todavía sea más relevante.
 ---
 PREGUNTA
+El proyecto de Baja California.
 ¿Qué les propusieron?
 ---
 ARTURO HERRERA GUTIÉRREZ
+En Baja California al gobierno le quedan unas cuantas semanas, supongo que más bien lo va a proponer el gobernador entrante.
 Después, Sara Pablo hacía referencia a los temas de desaceleración y si el proyecto atendía la desaceleración.
 Hay tres elementos asociados a ellos, dos que van en el paquete y uno que no va en el paquete.
 Los que van en el paquete es: la parte de recursos al bienestar, que es la primera que nosotros estamos garantizando, tiene un impacto directo en el consumo.
@@ -311,6 +387,7 @@ Con esto, no sé, Jesús si te parece o si hay algunas de estas preguntas que…
 Hacemos tres más, dos en la derecha y una en la izquierda, para un balance ideológico aquí.
 ---
 PREGUNTA
+Buenos días, Felipe Fierro, de Tiempo.com y Puentelibre.mx.
 México tiene un peso fuerte frente al dólar, la proyección es 19.9 a fin del siguiente año. Sin embargo, varios consideran que el peso está amarrado, que hay factores reales como que el gobierno norteamericano no le conviene una devaluación del peso, porque se incrementa su déficit comercial con México y serían presiones económicas para nuestro país.
 Dos. Que el pago de la deuda externa mexicana privada y pública es en dólares y también presiona.
 Tres. Que el Banco Mundial y el FMI apuntalan el peso con líneas de crédito por más de 100 mil millones de dólares, lo que implica también otra presión; además, la libre flotación del peso en el mercado monetario local es muy modesta, no influye mucho y cuando existe presión, el Banco de México quema reservas.
@@ -319,18 +396,24 @@ Las principales economías como Estados Unidos, China, Japón, Rusia hacen lo po
 La pregunta concreta es: ¿qué tanto está amarrado el peso para que no se devalúe? y si hay alguna intención de armonizar esta distorsión entre la economía de la frontera norte y el resto del país
 ---
 PREGUNTA
+Qué tal, buen día, secretario. Arely Escobar, corresponsal de Tiempo TV.
 Había un tema pendiente precisamente en Coahuila, el tema -y ahora que hablaba de algunos proyectos que hay en algunas entidades y dijo que se había reunido con algunos gobernadores del PRI- hay un tema pendiente, que es la construcción del Metrobús entre Coahuila y Durango.
 Ya se había dicho desde el gobierno federal que había quedado cancelado el proyecto; sin embargo, en la Cámara de Diputados, Ramírez Cuellar, presidente de la Comisión de Presupuesto, había dicho que como tal todavía no estaba cancelado y que incluso se habrían, en todo caso, contemplado algo de presupuesto.
 Preguntarle si, en efecto, se va a… se tiene pensado, se tiene pendiente este presupuesto o no, de plano quedó cancelado, nada más para disipar la duda.
 Gracias.
 ---
+ARTURO HERRERA GUTIÉRREZ
+Muy bien, tomamos una aquí y respondo esas tres.
+---
 PREGUNTA
+Muchas gracias, buenos días.
 Tengo una pregunta para el secretario y para el presidente, si es posible.
 Para el secretario. Apostar a que Pemex suba la producción de 18 por ciento en un año, algo que no han logrado desde 1982, ¿no es recargar el presupuesto en un pilar riesgoso?, después de todo, Pemex lleva más de 15 años pronosticando aumentar su producción sin lograr en ningún año completo esa meta.
 Para el presidente. La proyección del presupuesto muestra que México no va a crecer a cuatro por ciento en su sexenio, tal como había proyectado como meta.
 ¿Qué le falta?, ¿por qué no se puede crecer a ese ritmo? ¿qué es lo que falta en la economía para que eso suceda?
 ---
 ARTURO HERRERA GUTIÉRREZ
+Muy bien.
 Empiezo con la pregunta del tipo de cambio. Primero, nosotros no tenemos un tipo de cambio controlado, nosotros tenemos claramente un tipo de cambio flexible.
 Segundo. La mayor parte de nuestra deuda no está en dólares, la mayor parte de nuestra deuda está en pesos, un poquito menos del 80 por ciento, y solamente el 20 por ciento de nuestra deuda está en dólares.
 Tercero. La deuda no solamente no está en dólares, sino que tanto la deuda que está en pesos como en dólares en el 80 por ciento está a tasa fija, de tal forma que los riesgos de tipo de cambio y de tasa de interés están extraordinariamente acotados.
@@ -346,7 +429,11 @@ La última declaración hubo con relación a los temas de los conflictos interna
 Pero tiene que ver, incluso, estas cosas con contexto internacional, más que con una intervención de las autoridades financieras mexicanas.
 En el tema de la pregunta de Coahuila.
 ---
+INTERLOCUTOR
+(Inaudible)
+---
 ARTURO HERRERA GUTIÉRREZ
+Pero la distorsión no me parece que tiene que ver con eso, me parece que tiene que ver con las integraciones locales; es decir, la economía de Tijuana está muchísimo más ligada a la economía de San Diego y la economía de Ciudad Juárez está muchísimo más ligada a la economía de El Paso; y al revés también, la economía de San Diego y de El Paso con la de Tijuana y de Ciudad Juárez.
 Y para todos efectos prácticos se están enfrentando precios que tienen que empezarse a aparecerse. Esa es la gran distinción que existe entre las grandes ciudades de frontera y el resto del país.
 Paso ahora con la pregunta que tiene que ver con Coahuila.
 Primero. El Metrobús sí se está construyendo. El Metrobús pasa de ambos lados en la zona de La Laguna, la parte que se está construyendo y está casi terminada es la parte de Coahuila, la parte que va -si no mal recuerdo- de Matamoros hasta Torreón que es prácticamente una línea recta tiene que cruzar el río Nazas y del otro lado, no recuerdo si es Lerdo, me parece o Gómez Palacio, esa es la parte que se tiene que construir.
@@ -354,7 +441,11 @@ Y había una propuesta de apoyo del presidente al gobierno de Durango para const
 Una vez que se resuelvan los temas de agua, el tema del Metrobús va a poder ser considerado; y los recursos que iban a ir originalmente para esa parte, no estaban en el presupuesto, eran recursos del Fonadín.
 Así es que ni antes ni ahora los va a encontrar en el presupuesto, porque no estaban en ese momento ahí.
 ---
+PREGUNTA
+(inaudible)
+---
 ARTURO HERRERA GUTIÉRREZ
+Dependerá si el tema del agua es resuelto y si los ciudadanos que son los que pidieron que los recursos se privilegiaran en el agua consideran o no que es una prioridad la inversión en el Metrobús. Es algo que tendrán que decidir los gobiernos de esas regiones y los ciudadanos de esas regiones.
 Y la pregunta que tenía que ver con Pemex, la pregunta, si es distinta de la trayectoria que ha tenido y lo que hemos visto en los últimos, yo diría 15 años, Sí, sí es distinto, claramente es distinto.
 Lo que ya fue distinto, por ejemplo, es veníamos viendo una caída de la plataforma de producción altísima. Tuvimos una caída de 3.4 millones barriles por día a 2.4 entre el 2004 y 2012, en esos 12 años una caída de un millón de barriles, que equivale más o menos como entre 1.1 de 1.2 millones, perdón, entre 100 y 120 mil barriles por año.
 Después entre 2012 e inicios del 2018, es decir, en cinco años, no estoy hablando del sexenio completo, hubo una caída de 2.4 a 1.9 barriles por día, alrededor de 100 mil barriles por día, 100 barriles por cada año que se estaban perdiendo, pero entre el 1º de enero del 2018 y el 31 de diciembre del 2018, es decir en 11 meses de la administración anterior y en un mes de la administración de nosotros, cayó casi 300 mil barriles.
@@ -372,7 +463,17 @@ Ahora, asociado a ello sí viene un esfuerzo de nosotros. No es sencillo dedicar
 Tenemos otra vía que no viene en el presupuesto, que es: Pemex tiene algunos campos que son rentables para el Estado mexicano, pero no son rentables para Pemex, ¿qué quiero decir con eso?, quiero decir que, si Pemex los explotara, pagaría más de impuestos a nosotros que lo que ellos recibirían de ingresos; y lo que ha venido Pemex entonces es no explotarlos, están cerrados y sobre un campo que está cerrado nosotros no recibimos ingresos.
 El acuerdo que ya tenemos con Pemex es cambiar esos campos, migrarlos, es el término técnico, como un tratamiento diferenciado, de tal forma que puedan producir de forma rentable para ellos y entonces nosotros también recibimos algún ingreso.
 ---
+PREGUNTA
+Si tardan siete años, como dijo usted de aguas profundas, tal vez tengan un poco más de chance a los privados, bueno, es que hablan de que no hay mucha producción, pero si son siete años en esperar que realmente hay producción, dar ese chance a los privados de dar más subastas a los privados podría también ayudar y llegar a esa meta para el año que entra.
+---
 ARTURO HERRERA GUTIÉRREZ
+¿Para el año qué?
+---
+INTERLOCUTORA
+Para el 2020.
+---
+ARTURO HERRERA GUTIÉRREZ
+A ver, va a ir aumentando algo y nosotros nos hemos reunido también en el lado de Hacienda con las compañías petroleras, ellas nos han traído sus planes y claramente van a estar produciendo montos importantes después del sexenio, porque así estaba pensado. Quien me ha clarificado este ciclo han sido las compañías petroleras.
 Pero esto también ayuda a ilustrar un tema secundario, que es que uno tiene que… siempre cuando se prepara una reforma de gobierno, a veces hay la tentación de sobrevenderla para poder pasarla.
 Y a mí me parece que esta reforma fue claramente sobrevendida, se empezó a preparar en un momento en que la plataforma de producción era alrededor de 2.3 millones de barriles por día, se dijo que para estas épocas estaríamos produciendo más de tres millones de barriles y llegamos a producir 1.6; es decir, no solamente en vez de aumentar, no solamente no aumentó, disminuyó, sino casi llegamos a la mitad de lo que se había prometido.
 Dos preguntas más.
@@ -380,15 +481,21 @@ Yo tenía que hacer una presentación a las nueve en otro lugar, o le pido al su
 Una aquí y una acá.
 ---
 PREGUNTA
+Buenos días, señor secretario.
 Los normales de la calle, los que nos están oyendo y algunos de los que estamos aquí nos cuesta mucho trabajo entender gran parte de lo que dice.
 Yo le preguntaría: ¿De qué manera nos traduce este presupuesto?
 Uno, para la seguridad; dos, medicinas, que es algo que toda la gente está diciendo: ‘No hay dinero, no hay medicinas, la vida de la gente que menos tiene’.
 ¿A qué va este presupuesto? ¿Qué va al campo?
 ---
+ARTURO HERRERA GUTIÉRREZ
+Muy bien y había una pregunta más por acá, ahí.
+---
 PREGUNTA
+Buenos días, secretario. Omar Caballero, de Informantes Virales.
 Nada más para preguntarle y para finalizar ¿qué va a pasar con la inversión del Estado, la inversión, no el gasto del porcentaje del PIB que está proponiendo?, ¿y cuál va a ser la verdadera aplicación ya que ahora mismo es hasta el momento, estos son sólo subejercicios?
 ---
 ARTURO HERRERA GUTIÉRREZ
+Empiezo con la primera pregunta. Yo creo que es una pregunta muy importante y central.
 Nuestro país -como yo he señalado- es un país de ingresos medios, es un país de hecho, de ingresos medios altos, pero es un país de grandes contrastes. A pesar de que somos un país de ingresos medios, prácticamente la mitad de la población ve por debajo de la línea de pobreza. Los contrastes regionales son brutales.
 El PIB per cápita de la Ciudad de México, que es la medida más importante de bienestar, es casi siete veces el PIB per cápita de Chiapas.
 De las 32 entidades federativas hay 31 cuyo PIB per cápita a diversos niveles ha venido creciendo en los últimos 28 años. Hay solo una entidad en cuyo PIB per cápita no ha venido creciendo, es decir, que hoy los ciudadanos de esa entidad viven en condiciones más difíciles que a mediados de los 90. Esa entidad es Chiapas.
@@ -399,8 +506,10 @@ Y segundo. Hay montos muy, muy importantes a los sectores más desfavorecidos y 
 El programa de pensiones para adultos mayores tiene más de 126 mil millones de pesos programados para el año 2020, el programa pensión para personas discapacitadas tiene casi 12 mil millones de pesos, las becas de educación superior tienen siete mil millones de pesos, el programa de Sembrando Vida, que está fundamentalmente orientado a las zonas rurales campesinas del sur del país tiene 25 mil millones de pesos.
 Así es que yo diría que aquellas personas que, como usted dice, están en una situación más difícil ¿qué les podemos decir en concreto?, que estos beneficios, muchos de los cuales ya les están llegando, estamos comprometidos a que sigan llegando para allá y que además estamos haciendo inversiones adicionales en esa zona del país.
 La otra pregunta era…
+INTERLOCUTORA Las medicinas.
 ---
 ARTURO HERRERA GUTIÉRREZ
+Las medicinas ha sido un tema muy controvertido en el que yo ya muy a pesar ya también me metí.
 Tuve una conversación muy interesante hace un par de semanas con un diputado de un partido de oposición, y él me dijo: ‘¿Por qué no visitan los hospitales de manera aleatoria?’, y me pareció muy buena sugerencia.
 Entonces, empecé a mandar a personal de la Secretaría de Hacienda para ver si había medicinas o no, y en la mayor parte de los casos, incluso tomaron algunas fotografías, hay medicinas.
 Lo que sí me va a corresponder y es mi responsabilidad -y yo tengo en este cargo, hoy cumplo dos meses, mi cumpleaños como secretario de Hacienda- es asegurarme dado que la Oficialía Mayor ya me reporta, asegurarme que las licitaciones salen a tiempo y que hay una provisión adecuada de ella.
@@ -410,3 +519,89 @@ Y lo mismo pasa con el gasto de inversión. Tú empiezas haciendo licitaciones, 
 Así es que yo no coincido con ello, y yo creo que más bien lo que estamos preocupados es asegurarnos que estamos saliendo en línea y con nuestros objetivos.
 Muchísimas gracias.
 Voy a salir corriendo a la…
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, espérate.
+---
+ARTURO HERRERA GUTIÉRREZ
+Me espero, pues si no, que se vaya él.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, espérense, esto es más importante.
+Miren, es muy importante el dar a conocer cómo se presenta la ley de ingresos y el presupuesto para el año próximo.
+Yo quiero transmitir un mensaje a todos los mexicanos. Decirles que vamos muy bien, que afortunadamente vamos a seguir garantizando el bienestar del pueblo. Y esto es posible porque nos está resultando la fórmula de acabar con la corrupción y de hacer un gobierno austero, de manera muy clara no se permite la corrupción y esto ha significado ahorros muy importantes. El presupuesto rinde más.
+Cuando hay corrupción, si se hace una obra que cuesta 100 millones la cobran en 300 o en 500, o hay muchísimos ejemplos: les dan los anticipos y se quedan con el anticipo y no hacen la obra, o no entregan lo que supuestamente vendieron.
+Entonces, vamos bien, porque ya no se va el dinero del presupuesto, como era antes, por el caño de la corrupción.
+Y vamos bien porque ya no hay lujos en el gobierno, no hay sueldos de 700 mil pesos mensuales, ya no tiene el presidente una guardia de ocho mil elementos del Estado Mayor Presidencial. Imagínense cuánto significa esto de ahorros.
+Vamos bien, porque ya los funcionaros públicos no viajan sin ton ni son al extranjero, ya no hay avión presidencial, ya no se utilizan aviones, helicópteros, para el traslado de funcionarios, usaban los aviones hasta para ir de compras y los helicópteros hasta para ir a jugar golf.
+Ya no hay las pensiones millonarias a los expresidentes, ya no se destinan seis mil millones de pesos para la atención médica a los altos funcionarios públicos, ya no hay cajas de ahorro especial para los altos funcionarios púbicos. Hay un gobierno austero, porque no puede haber gobierno rico con pueblo pobre.
+Esta es la principal fuente de financiamiento del presupuesto: el combate a la corrupción y hacer un gobierno austero.
+Esto no se aplicaba antes. No está en el llamado paradigma neoliberal. Es más, si ustedes buscan en los discursos, en todo el periodo neoliberal en 36 años van a encontrar muy pocas veces utilizada, repetida, la palabra corrupción.
+Todo lo que aparecía en el discurso tenía que ver con políticas públicas y con reformas estructurales y la agenda dictada desde el extranjero, que no obedecía a nuestra realidad.
+Por eso, ¿qué les transmito?, ¿qué les digo a todos los mexicanos, de manera muy especial a la gente humilde, a la gente pobre?
+Que están garantizados sus apoyos, que todos los adultos mayores van a estar recibiendo día con día permanentemente su pensión, que todos los discapacitados pobres, de manera especial niñas y niños, su pensión está garantizada para finales de año y para todo el año próximo.
+La pensión a adultos mayores, mañana les vamos a explicar cómo va el programa, porque lo acordamos a nivel nacional, cómo va el programa de la pensión a los adultos mayores.
+Pensión para las personas con discapacidad.
+Se garantizó que se mantengan las becas para estudiantes pobres, se garantizó que todos los estudiantes de preparatoria tengan su beca, se garantizó que los que están estudiando en las universidades de familias humildes, de familias pobres, su beca, y se garantizó que continúe el programa de Jóvenes Construyendo el Futuro.
+Está garantizado también el programa -como aquí se dijo- de Sembrando Vida, y vamos de 500 hectáreas a un millón de hectáreas, y de 200 mil empleos a 400 mil empleos en ejidos, en pequeñas propiedades.
+Está garantizado también el que lleguen los apoyos a los productores de manera directa, lo que era el Procampo y que ahora es Producción para el Bienestar.
+Están garantizadas las Tandas para el Bienestar.
+Está garantizado el que no falten las medicinas, los médicos. El que no se reparen y se terminen de construir centros de salud, hospitales. Está garantizado, y es un compromiso, iniciar el programa de basificación de todos los trabajadores de la salud. Para ser precisos, el presupuesto real para la Secretaría de Salud, para el sector salud, aumenta 40 mil millones de pesos.
+Está garantizado que no va a aumentar la deuda pública, no ha aumentado ni aumentará el año próximo.
+Está garantizado que no aumentan los impuestos en términos reales, no han aumentado en este año ni el que viene. Está garantizado que no van a aumentar los precios de las gasolinas, del diésel, del gas y de la luz este año y el próximo en términos reales.
+Está garantizado que vamos a mantener una política económica procurando no gastar más de lo que ingresa a la hacienda pública, es decir, no van a haber faltantes, no va a haber déficit. Y esto nos permite que se mantenga estable el peso, en este año es de las monedas que más se han fortalecido, a pesar de la falta de entendimiento entre el gobierno de Estados Unidos y el de China.
+Vamos también a rescatar a Pemex, ya empezamos, ya se logró estabilizar la producción petrolera, lo que no se había logrado en 14 años ya se logró en nueve meses. En 14 años, de manera permanente caía la producción de petróleo, así nos dejaron la situación en Pemex, de disminución permanente, constante, en la producción. Se estabilizó y ya empezamos a crecer en producción.
+Nada más para que no se olvide, porque hay mucha amnesia, y aquí abro un paréntesis para decir que todavía estoy esperando que ofrezcan disculpas los que llevaron a cabo y apoyaron la llamada Reforma Energética engañando que iba a aumentar la producción de petróleo; fue al revés, lo contrario, se cayó la producción y no sólo eso, aumentó a los consumidores el precio de los combustibles, un rotundo fracaso. Nada más para recordar. Cierro el paréntesis.
+El año pasado yo -que trato de ser lo más objetivo posible- doy a conocer que se cayó 200 mil barriles diarios la producción petrolera, sólo el año pasado.
+Entonces, a los que les parece que no vamos a poder, les digo: si se cayó 200 mil barriles diarios el año pasado la producción, ¿por qué nosotros -si estamos actuando con eficiencia, si no hay corrupción, si se está invirtiendo más en Pemex- no vamos a levantar el año próximo la producción en 200 mil barriles?
+¿Saben qué hacían?
+Como lo único que les importaba eran los contratos y la corrupción -y esto nunca lo vieron las calificadoras- la mitad de la inversión en Pemex la destinaban al norte y a las aguas profundas, y el petróleo está en tierra y en aguas someras, y es donde cuesta menos extraerlo.
+Pero eran las empresas contratistas y las transas lo que prevalecía, pero entonces, la calificación de Pemex era de 10, estaba muy bien administrado Pemex y estaba muy bien la política económica, y mucho más bien iba a estar con la Reforma Energética.
+Entonces, ¿qué le digo a la gente?
+Que tengan confianza, vamos bien. No van a faltar los empleos, va a haber trabajo, se va a buscar que haya empleo pleno, que ningún mexicano se quede sin la oportunidad de trabajar. Ese es el ideal que queremos convertir en realidad.
+Y que sean cada vez mejores los salarios. Es para mí un timbre de orgullo poder decir que en 36 años aumentó el salario mínimo como nunca había sucedido, en 36 años. Y esto tuvo un efecto importante en todo lo que fue el aumento del salario, este año es el mejor salario en promedio en muchas décadas, de acuerdo a los datos del Seguro Social, de los inscritos en el Seguro Social.
+Entonces, vamos bien, de buenas. Tenemos, desde luego, que seguir trabajando, no aflojar el paso. Y estoy muy satisfecho con el trabajo que está haciendo el equipo de la Secretaría de Hacienda, encabezado por Arturo Herrera, son muy buenos servidores públicos.
+Pero la clave está… lo mero principal es no permitir la corrupción y no permitir los lujos en el gobierno, el gasto superfluo. Había un gobierno mantenido y bueno para nada.
+¿Dónde están los ahorros?, o si hay reducción del presupuesto.
+Claro, imagínense cuántos lujos había. Nada más ahora que se va a vender el avión presidencial ya no se contemplaron 500 millones de dólares que se tienen que pagar anualmente por el avión, y eso ya no se va a gastar, porque se va a vender el avión; pero no sólo el avión presidencial, 72 aviones y helicópteros, y no pasa nada.
+Acabo de estar el fin de semana en Tamaulipas, y llego a San Carlos y evidentemente acababan de tapar los baches de toda la carretera. Cuando estoy con la gente les digo: Va a llevar tiempo que se vayan cambiando malos hábitos, porque esto es un proceso. Lo importante es que ya iniciamos.
+Y le digo a la gente: Miren lo que hicieron, como iba yo a venir, bachearon y taparon los huecos. Y la gente muerta de risa. ‘Sí, es cierto’, diciendo todos.
+Entonces ¿qué les dije? Pues ahora voy a venir más seguido, porque si no vengo ni siquiera tapan los baches.
+Entonces, tenemos que cambiar y se está logrando, y lo estamos logrando porque el pueblo nos está apoyando, está dando su respaldo. Y no les gusta esto a los conservadores, pero, ¿qué culpa tenemos nosotros?
+Ellos dominaron por lo menos en los últimos 36 años, ahí están los datos, llevaron al país a una de las peores crisis en la historia, y sin duda es el periodo de más corrupción que ha habido en toda la historia de México, el saqueo de los últimos 36 años.
+Y es increíble cómo todavía quieren que se mantenga el mismo régimen corrupto de injusticias y de privilegios y cómo hay defensores, unos por conveniencia y otros por conservadurismo, o sea, no es que estén recibiendo algo, sino son muy reaccionarios, muy conservadores.
+Esto ha pasado siempre, nada más que el triunfo de la reacción en estos tiempos es moralmente imposible.
+Vamos muy bien. Ya dedicamos toda esta mañana a tratar estos temas, todavía falta más análisis, más debate, porque faltan meses.
+Primero se aprueba la ley de ingresos, luego el presupuesto y van a haber muchas opiniones, como era antes, hace poquito y durante tiempo, mucho tiempo, no sólo en el sexenio pasado, en los otros.
+Había acuerdos políticos y se hacían las bolsas, las partidas de moches. Yo repito y repito, porque es muy ilustrativo, Carstens resultó un maestro de la política, un genio de la política. Tres años que fue secretario de Hacienda sacó el presupuesto por unanimidad. A ver Arturo, tenga para que aprenda.
+¿Saben cómo le hacía?
+A todos les repartía, porque no les importaba tener un presupuesto como instrumento de desarrollo, les importaba salir adelante, porque la función del gobierno era facilitar la privatización, el traslado de bienes públicos, de bienes de la nación a particulares, esa era la esencia del gobierno, a eso se dedicaban, eran oficinas de contratación o para la entrega de convenios a particulares.
+Entonces, a todos les daban, pero el presupuesto no se utilizaba para el desarrollo y para el bienestar de la gente; porque suponían -fíjense- que, si el gobierno les daba facilidades a los inversionistas, entonces iba a haber crecimiento económico, y si llovía fuerte arriba, goteaba abajo.
+Entonces, ¿para qué se utilizaba el presupuesto?, ¿para que el Estado?
+Lo que se tenía que hacer, como en el porfiriato, era concesionar, dar subvenciones a particulares y así el mercado iba a ser posible que se crearan empleos, que hubiera trabajo, que hubiera bienestar.
+Me acuerdo cómo repetían aquello de que: ‘en vez de darle un pescado, enséñalos a pescar’, pero ¿de dónde van a agarrar los pobres pescado, aunque sepan pescar? Pero esa era la concepción, como si la riqueza fuese contagiosa y de esa manera llegaba a todos.
+Bueno, por eso, se entregaban las bolsas a las organizaciones campesinas, de la sociedad civil, de las llamadas organizaciones no gubernamentales y a los sectores. Ahora ya no hay eso. Ya se envió la ley de ingresos, el proyecto, el presupuesto, los legisladores libremente deciden. Ya nosotros cumplimos.
+Nada de: ‘A ver, quieres mis votos ¿qué vas a dar?’ Ya no, ya no queremos que la Cámara de Diputados sea un tianguis, ya que cada quién decida y garantizar lo más importante: que le llegue el presupuesto a la gente.
+La verdad que quisiéramos que les llegara más, pero tenemos gastos que no se pueden eliminar. Imagínense el pago de servicio de deuda, duele muchísimo.
+¿Cuánto están estimando?
+Setecientos mil millones sólo para el pago de intereses de la deuda.  A ver, ¿cómo me explican los expertos esto? si en los últimos tiempos en el periodo neoliberal se recibieron miles de millones de dólares por la venta de petróleo al extranjero, cuando estaban los precios del petróleo a 100 dólares.
+¿Dónde quedó todo ese dinero? ¿Por qué creció tanto la deuda si tuvieron ingresos extraordinarios, como nunca en la historia de la producción petrolera?
+Imagínense, 100 dólares por barril, y al mismo tiempo creció la deuda.
+Ya nada más para recordar, porque si no, nos olvidamos. Fox la dejó en 1.7 billones; Calderón, la aumentó a 5.2, más del 200 por ciento; Peña la dejó en 10 billones.
+¿Cuál es la diferencia?
+Que en términos reales no aumenta la deuda en este año y en el que viene, y estamos haciendo un gran esfuerzo para lograr esto. Por eso la clave está en acabar con la corrupción, porque era muchísimo el saqueo, más de lo que nos podemos imaginar.
+Todavía me encuentro a veces opiniones, bueno, no solo opiniones, amparos de los que querían que se construyera el aeropuerto en Texcoco, aunque se hundiera. Nada más imagínense, tenían estimado 300 mil millones.
+Si nos iba o si se comportaba como el tren de Toluca, que empezó en 30 mil y va a costar 90 mil, entonces quiere decir que el aeropuerto de 300 mil iba a pasar a 900 mil, pero como íbamos a cuidar que eso no sucediera, de todas maneras, por compromisos, una obra de 300 mil millones ¿cuánto nos va a costar, aun pagando los bonos, los contratos que se tenían?, 150 mil millones.
+Yo digo: Ahorro 100 mil, pero al final vamos a aumentar el ahorro y vamos a tener resuelto lo del aeropuerto y mucho mejor.
+Fíjense cómo se les olvidaba que para hacer ese aeropuerto iban a cerrar el actual aeropuerto y el de Santa Lucía. Y en el actual aeropuerto se construyó hace cuatro años el hangar presidencial, que costó mil millones de pesos y todo eso, a la basura. Bueno, la terminal dos la hicieron con Calderón, la terminaron y a la basura. Sí va a costar un poco de tiempo, pero vamos a seguir nosotros insistiendo de que estos absurdos, no.
+Y lo mismo de las medicinas, porque hay campaña, porque era un monopolio, tres empresas vendían el 70 por ciento de toda la medicina del gobierno a precios elevadísimos.
+Ustedes saben que, si se consideraban mil 200 marcas, les llaman claves de medicina, mil 200, resultaba que se convocaba a una licitación y de las mil 200, sólo había abasto para 500 claves, 700 no había.
+Entonces, esas 700 se compraban sin licitación y al doble o al triple de lo que costaban las medicinas.
+Yo preguntando: ¿Y por qué nada más tres empresas? Ah, porque me dicen los que todavía tienen esa influencia y están en el gobierno, porque estaban metidos aquí, o sea, el gobierno estaba tomado por estas empresas y por todas, no sólo estas, el gobierno estaba secuestrado. Entonces, tenían a su servicio a los servidores públicos.
+Entonces, alguien me dice: ‘Es que había tres, porque son las más fuertes y son las que aguantaban el pago demorado’.
+¿Cómo? O sea, que si les tardaban en pagar estas daban los créditos.
+Entonces, eso ya en Hacienda se termina. Qué demorar pago, ni nada. Tenemos recursos suficientes, inmediatamente a pagar.
+Pero estamos hablando que, si fuese cierto esto, se está pagando un sobreprecio por la demora del pago; o sea, todas estas irregularidades, todos estos absurdos; entonces, van cambiando las cosas. Vamos bien y yo felicito al equipo de Hacienda. No saben, nos reunimos y trabajan mucho, mucho, mucho, me consta, a veces se quedan a dormir aquí para poder tener las cuentas claras.
+Y la otra recomendación es no mentir, o sea, decir las cosas como son, como están sucediendo y son unos profesionales.
+Bueno, nos vemos mañana.
+Muchísimas gracias.

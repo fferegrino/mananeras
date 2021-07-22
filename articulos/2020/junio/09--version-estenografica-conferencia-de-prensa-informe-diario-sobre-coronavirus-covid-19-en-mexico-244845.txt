@@ -3,9 +3,11 @@ Presidencia de la República
 09 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 horas del martes 9 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a enfocar en el informe técnico y en algunos de los elementos semanales, que son dos: el martes de movilidad, vamos a dar el informe de movilidad en el espacio público; y el informe sobre persona de salud y las afecciones de COVID en el personal de salud, que también lo presentamos cada semana. Todo esto lo va a presentar el doctor José Luis Alomía y luego abrimos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Claro que sí. Con su permiso, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Vamos a empezar con la conferencia 102, estando en el noveno día de esta Nueva Normalidad, recordando que para esta semana -y es precisamente la siguiente diapositiva- es importante siempre estarlo recordando, sobre todo para las personas que nos están viendo desde sus hogares, que todo México se encuentra en riesgo máximo, que es precisamente el color rojo que representa el semáforo.
 ¿Qué significa riesgo máximo?
@@ -96,13 +98,16 @@ Va ser importante entonces semana con semana ver cómo se van a estar presentand
 Serían los datos actualizados para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias doctor José Luis Alomía, director general de Epidemiología de la Secretaría de Salud.
 Bienvenida su pregunta.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble de Pulso Saludable.
 Doctor Gatell, cuando el vino el doctor López Ridaura, él hablaba del dengue, ¿qué pasa si un paciente en estos lugares endémicos con sospechas y él piensa que es COVID y se queda en su casa, pero es dengue?, ¿ahí cómo, habría alguna forma de identificar para que no ocurra una complicación grave?
 Y también me gustaría saber, se han dado muchas movilizaciones de estos anarcos. Yo quisiera saber si estos eventos eventualmente pudieran potencializar un brote. A lo mejor y ellos piensan que porque son jóvenes no les va a pasar, pero mi inquietud ¿qué pasa si por ahí hay alguien que lo tiene y lo lleva a su casa y ahí se…?, esto se estaría en dos o tres semanas, más o menos. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sobre la segunda pregunta, efectivamente, sí, cualquier congregación en el espacio público por cualquier motivo, festivo, para expresar un posicionamiento de tipo político, un festival, cualquier razón, no es distinto en términos de la dinámica epidémica, cualquier congregación puede contribuir a los contagios.
 Desde mi punto de vista, por el tamaño de las expresiones públicas, las manifestaciones que han ocurrido en días recientes, no necesariamente son llamativas, desde luego como he dicho, sí, definitivamente pueden contribuir a que se generen contagios, pero no llaman particularmente respecto a otros tamaños de congregación pública que pueden existir y han seguido existiendo en todos estos días.
 Respecto a la posibilidad de tener más de una enfermedad infecciosa al mismo tiempo, puede representar un reto, sobre todo de diagnóstico, de control no tanto porque son dos mecanismos de control muy diferentes:
 COVID es una enfermedad que se transmite por la vía respiratoria y el mecanismo de control fundamental es mantenernos a sana distancia física unos de otros, en particular respecto a la vía respiratoria; y el control del dengue se ejecuta controlando a los mosquitos que lo transmiten, mosquitos del género aedes, que ocurren en el espacio de la vivienda, en la periferia de la vivienda y que se crían en pequeños reservorios de agua artificiales, también en los naturales, pero generalmente en los artificiales, la basura, llantas, cacharros, botes, cubetas, piletas, tinacos abiertos, etcétera, en los climas templados que tiene México por doquier.
@@ -113,20 +118,42 @@ Aquí lo que puede ayudar son los síntomas específicos de COVID o más especí
 Y del lado del dengue el dolor de los ojos, que es muy característico, igual, no es exclusivo de dengue, pero al distinguirlo puede ayudar.
 Sí se puede volver un reto a nivel población, nos pasó en la pandemia de influenza 2009, tuvimos, particularmente en el estado de Jalisco un enorme brote de dengue, el más grande que habíamos tenido en los últimos nueve años hasta ese momento, y tuvimos la pandemia de influenza y Jalisco fue una de las zonas importantemente afectadas. Entonces, hoy podría pasar lo mismo.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-¿Mande usted? Vamos a darle la palabra a la compañera.
+INTERLOCUTORA
+¿Hay alguna zona endémica?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿De dengue? Todo el país, excepto la Ciudad de México, Aguascalientes y Zacatecas, a veces incluso Aguascalientes ha estado afectado, pero generalmente no y Zacatecas casi nunca, y la Ciudad de México nunca en los últimos 22 años desde que remergió dengue en México.
+---
+INTERLOCUTOR
+¿Dónde fue?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No lo sé, ¿dónde fue el caso?
+---
+JOSÉ LUIS ALOMÍA
+Nayarit.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nayarit
+¿Mande usted? Vamos a darle la palabra a la compañera.
+---
+PREGUNTA
+Sobre estos coronavirus y dengue, si tienen más reportes, porque había contactado en este sentido periodístico a dos personas más que también habían padecido el mismo… los dos virus al mismo tiempo se recuperaron, por eso me salta que solamente ustedes tengan un solo registro.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No fueron registrados, qué bueno que lo dice, invitamos al personal de salud de todo el país a que tenga presente que está empezando la temporada anual de dengue. Como la mayoría de nuestras colegas hombres y mujeres del personal de salud saben, empieza la temporada de lluvias, llega un máximo en octubre y termina en diciembre; entonces, les invitamos a considerar el diagnóstico diferencial tanto COVID como dengue con la posibilidad de que tengan ambas enfermedades y cuando se considere procedente hacer los estudios de laboratorio de ambas enfermedades, es perfectamente factible.
 En el caso de COVID la muestra útil para el diagnóstico por laboratorio en la fase aguda, es una muestra de secreción respiratoria que se toma con un hisopo que introduce por la nariz y debe llegar hasta la faringe; en el caso de dengue es una muestra de sangre que se hace también para diagnósticos por PCR, la técnica es la misma, los reactivos son diferentes.
 Gracias por ponerlo presente.
 Daniela Pastrana, Pie de Página y usted, Juan, ahorita.
 ---
 PREGUNTA
+Gracias, buenas noches.
 Una pregunta era en ese sentido, de cuándo creen que van a tener este diagnóstico que nos habían dicho la semana pasada sobre en qué lugares están retrasando más el registro o menos el registro. Una era esa.
 Otra es sobre el turismo, nos dicen que en Quintana Roo, que es una de las zonas más afectadas económicamente, bueno, el gobernador ya ha empezado a abrir parcialmente algunas de los hoteles, parques, cines y bueno, no sé, no está dentro de la lista de los cinco estados que ya tienen la gráfica azul más alta que la naranja.
 Entonces, un poco saber qué se puede hacer en el caso del turismo, porque también implica la movilidad de personas que están quizá en una zona que ya para abajo, hacia otra que quizá va para arriba o viceversa. Entonces un poco cuáles pueden ser las medidas en el caso del turismo.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Quizá lo que me quieren preguntar es cómo nos fue en la reunión con la Conago con las mandatarias y los mandatarios estatales que tienen industria turística.
 Como todo martes o lo solemos hacer ya con cierta periodicidad, lo hemos hecho en los últimos cuatro martes, tenemos reuniones con las y los mandatarios estatales. Estas reuniones se organizan conjuntamente por la Conago, la Conferencia Nacional de Gobernadores y el gobierno federal, y nuestro punto focal nacional es nuestra querida secretaria de Gobernación, la ministra Olga Sánchez Cordero.
 Participó desde luego, mi jefe, el doctor Jorge Alcocer, secretario de Salud; el secretario Torruco, Miguel Torruco Marqués, de Turismo; la secretaria de Economía Graciela Márquez y la secretaria del Trabajo Luisa María Alcalde Luján, y varios otros funcionarias y funcionarios federales.
 Y la reunión fue muy productiva como suele ser cuando conversamos con las titulares del Poder Ejecutivo estatal en un ánimo de colaboración, siempre de mucho respeto, y el tema específico fue la industria turística. El secretario de Turismo, entre otras cosas, propuso al secretario de Salud que se evaluara a considerar la industria turística parte de las actividades esenciales.
@@ -151,18 +178,25 @@ Efectivamente y con esto termino, no se puede abrir en semáforo rojo de manera 
 Juan Álvarez, Grupo Basta, por favor.
 ---
 PREGUNTA
+Buenas noches. Juan Hernández, del periódico Basta y de Grupo Cantón. Hemos estado recibiendo a través de nuestras redes sociales ciertos señalamientos, no puedo decir denuncias, porque realmente son grupos de personas que quieren practicar deporte, en este caso son ligas de futbol provenientes del Estado de México, las cuales también quieren hacer una petición o presionar al gobernador Alfredo del Mazo precisamente para que los deje jugar.
 Pero aquí la cuestión es que son ligas que están… bueno, que agarraron este pretexto a raíz de la pregunta que hicieron el día de ayer de la Liga MX, ellos quieren agarrar este pretexto para según practicar deporte.
 Son municipios donde el más alto grado de contagios, el Estado de México es el municipio donde está el más alto grado de contagios y ya de hecho en Nezahualcóyotl ya hay ligas que están en la noche están practicando, jugando futbol con todo lo que conlleva, porras, etcétera y las autoridades no han hecho nada por frenar esto.
 ¿Qué es lo que se tiene que hacer o cuál es el riesgo que podría ocurrir precisamente de seguir esa tendencia?, porque ya se está replicando en varias partes, incluso en Nuevo León también ligas amateurs están precisamente en esa situación de querer presionar y también incluso ya están hasta promocionando por redes sociales torneos para realizarse esta semana.
 Entonces, realmente es una situación que está creciendo y no se ve que los puedan frenar o los puedan de alguna manera llamar precisamente a la razón. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Definitivamente es muy claro. Cualquier congregación en el espacio público en este momento en que tenemos el semáforo en color rojo en todo el país va a contribuir a los contagios y va a contribuir en proporción al número de personas que se congregan: si se congregan dos es ese tamaño, si se congregan cuatro es el doble, si se congregan ocho es otra duplicación y así progresivamente, y llega un momento en que pueden ser demasiadas experiencias de encuentro entre una persona con otra o con otras y empezar a multiplicar de una manera exponencial la probabilidad de que al menos una de estas personas sea contagiante y entonces propague al resto del grupo o a una proporción del resto del grupo.
 No es deseable que en este momento ocurran torneos, ni de futbol ni de béisbol, ni de basquetbol ni de ninguna otra actividad deportiva colectiva. Hemos comentado esta misma mañana, lo comentábamos ayer por la tarde, que los parques, los parques recreativos en este momento estamos indicando que se pueden abrir de manera muy selecta, muy parcial, considerando que no haya congregaciones, que no se usen los juegos infantiles u otros equipos donde se congrega las personas y hay contacto físico de unos con otros, entonces, no es deseable.
 ---
+INTERLOCUTOR
+(inaudible) al final de cuentas es presión social, no podría decirse que es una invitación a la desobediencia, también hay desesperación y también… y bueno a lo mejor puede ser el legítimo deseo de jugar.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Claro, aquí la invitación sería a, por un lado, el propio gobierno estatal a que se auxilie de los gobiernos municipales, la mayoría de estos espacios físicos tienen una administración directa cuando son espacio público o indirecta cuando son privados y se regulan como actividades comerciales por parte de los municipios.
 Entonces, es muy deseable involucrar a las personas titulares de los poderes municipales, a las y los presidentes municipales para que se sumen al esfuerzo de regulación en un carácter incluyente, en un carácter desde luego no confrontativo, que permita, como hemos dicho desde hace mucho tiempo, regular el espacio, el componente estructural, no confrontar a las personas, sino regular, el espacio, el motivo que hace las personas salgan y se congreguen.
 ---
 PREGUNTA
+Buenas noches, doctor. Juan Carlos Machorro, reportero.
 Doctor, un poco en relación a este tema de turismo, hay diferentes entidades que están hablando de prohibir ya por todo el año, en este caso un ejemplo es Coahuila, prohibir durante todo el año congregaciones masivas musicales, deportivas, culturales, por ejemplo, el desfile de septiembre, 2 de noviembre, etcétera.
 Como está la curva actualmente, ¿nota usted que el país entero sí va a poder llegar a celebrar estas festividades culturales y hasta deportivas con público o tal vez el año, valga la redundancia, nos lo aventemos como ligas deportivas de otros países que ya están regresando, pero sin gente?
 Usted mismo lo ha dicho, que se espera un rebrote por el cambio de temperatura, por el invierno, en octubre, en noviembre, cuando los deportes se siguen efectuando.
@@ -171,6 +205,7 @@ Sabemos que ahorita están como… igual, la pregunta del día de ayer, la liga 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En salud pública, en epidemiología siempre consideramos que el riesgo existe, que es mayor que cero, nunca hablamos de riesgo cero, porque siempre puede haber elementos que produzcan, aunque sea un riesgo mínimo.
 Cuando tenemos elementos de evidencia y métodos apropiados hacemos predicciones y siempre tenemos un margen de incertidumbre. Hemos comentado que eso angustia a muchas personas, es natural, es entendible, quien no está acostumbrado a un oficio de carácter científico o técnico como es la epidemiología puede causarle desazón que no haya una respuesta concreta, única, un día, a tal hora, en tal tamaño de las cosas.
 Para algunas preguntas el margen de incertidumbre es pequeño, puede uno decir: Bueno, esta es la fecha probable de que ocurra un evento con más menos uno, más menos dos días, tres, cinco, siete, depende, pero es relativamente pequeño.
 En otros casos no hay evidencia suficiente, aunque puede haber elementos de conjetura y en la conjetura uno puede decir que teóricamente sería factible pensar, como hemos dicho, que cuando venga la temporada invernal va a haber la influencia y también podría haber COVID.
@@ -178,6 +213,24 @@ Pero en este momento no tiene más alcance que un carácter de conjetura, no con
 Por favor.
 ---
 PREGUNTA
+Gracias, doctor. Gisela Ayala, revista Diabetes Hoy.
 Doctor, con lo que hemos visto respecto a diabetes y obesidad e hipertensión ¿esto nos llevará a políticas más estrictas, a guías de práctica clínica actualizadas y lo que estamos viendo, nuevos medicamentos para lograr el manejo de diabetes? Esa la primera.
 La segunda rápidamente: ¿habrá algunas normativas específicas en materia de movilidad para estos grupos de riesgo cuando el semáforo permita que regresemos a oficinas y calles?
 Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por estas dos preguntas, lástima que ya solo me quedan tres minutos para contestarlas, pero sobre la primera, nos estimula mucho que haya interés en este tema de las enfermedades crónicas, porque México es uno de los países que ha tenido las más grandes epidemias y sigue teniendo desde luego epidemias de enfermedades crónicas.
+En algún momento fuimos el primer país, un momento me refiero en los últimos seis años o siete, a veces nos han sobrepasado algunos otros países, pero uno o dos en la prevalencia de diabetes, en la prevalencia de obesidad y sobrepeso, en la prevalencia de hipertensión.
+La mitad de la mortalidad en México hemos comentado que el dato más reciente son un poco más de 722 mil muertes en México en 2018 por todas las causas documentables y clasificables, la mitad de ellas son por afecciones de la salud, por enfermedades que se relacionan con la mala alimentación, esto incluye algunos cánceres, pero desde luego la obesidad, el sobrepeso, la hipertensión, la insuficiencia renal, que a su vez es consecuencia en su mayoría de la propia diabetes.
+Para enfrentar un problema de esta magnitud, de estas dimensiones se requieren efectivamente políticas públicas con una visión de largo alcance, profundas, que cambien sustancialmente qué comemos y qué posibilidad tenemos de comer otras cosas, entre otros cambios, desde luego la actividad física es muy relevante.
+Sin embargo, es llamativo que en los últimos vamos a decir, ocho o quizá 10 años el énfasis se ha puesto más en la actividad física, lo cual es benéfico, pero se ha dejado de lado los elementos estructurales, volvemos a los famosos elementos estructurales también conocidos como determinantes sociales de nuestra alimentación.
+Uno no come necesariamente lo que quiere comer, es una combinación de lo que quiere uno comer y lo que puede uno comer, entre otras cosas por el costo de los alimentos, por la disponibilidad de esos alimentos en el espacio físico.
+Un profesor comentaba este ejemplo hipotético. Pongamos aquí a dos personas en un mismo punto, en el Zócalo, en la asta bandera, y a una le encomendamos que vaya y busque una manzana, un brócoli y un jitomate; y a la otra le encomendamos que busque un producto industrializado, comida chatarra y un refresco, una bebida azucarada, y a ver cuánto tienen que recorrer y a ver quién lo encuentra primero. Es un ejemplo hipotético, pero es real.
+Tenemos una sobreoferta de productos ultraprocesados de bajo valor nutricional y altísimo poder calórico. Y la evidencia científica es indiscutible de que es este el motor fundamental de la epidemia de diabetes, obesidad, sobrepeso y enfermedades crónicas, en general en México y en el mundo.
+Tenemos también una promoción inadecuada de las fórmulas lácteas que han inhibido la lactancia materna, comentábamos eso hace unos pocos días. La mala o las prácticas inadecuadas de lactancia materia, que en el caso mexicano son de las peores en América Latina, llevan también a riesgos de la salud en el infante y posteriormente en la edad adulta.
+Entonces, ¿por qué ocurre eso?
+No es una decisión individual. Entonces, sí vamos a tener varias políticas, algunas ya las empezamos a operar, y hay un grupo técnico del gobierno federal que se llama Gisamac, Grupo Interinstitucional de Salud, Alimentación, Medio Ambiente y Competitividad, y surgió de una alianza de más de 60 organismos públicos, originalmente Secretaría de Salud, Secretaría de Agricultura, Secretaría de Medio Ambiente y Secretaría de Economía, más varios otros, Conacyt incluido, y estamos impulsando precisamente… tenemos un mapa completo de políticas públicas estructurales y ya la hemos empezado a andar.
+Nuestro primer logro, y también gracias al Poder Legislativo, fueron los etiquetados frontales claros para advertir sobre el exceso de sal, el exceso de calorías, el exceso de grasas y el exceso de, ya dije sal, ¿verdad?, sal, grasas, azucares y calorías en las bebidas y los productos industrializados.
+Eso va a entrar en vigor ya en octubre y es una medida muy costo efectiva que se ha visto ayuda a reducir el consumo excesivo de los productos no saludables. Entonces, eso tenemos.
+Son las 20 con 01, pero si usted viene mañana, le seguimos comentando lo siguiente.
+Muchas gracias. Muy buenas tardes.

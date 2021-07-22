@@ -3,9 +3,11 @@ Presidencia de la República
 18 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 de este jueves 18 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria 111 sobre la situación COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener varias piezas de información: la primera es el informe técnico que presentará el doctor José Luis Alomía, lo segundo es el informe de vinculación social y los distintos elementos de promoción de la salud que coordina y presentará el doctor Ricardo Cortés Alcalá y luego abrimos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con permiso, señor subsecretario.
 Muy buenas noches todas y todos.
 Estamos en el día 18 de lo que se ha denominado como la Nueva Normalidad, en donde sabemos que su característica principal es que ahora para poder regular las actividades que están permitidas o deben de continuar con ciertas restricciones para poder todavía mantener la movilidad lo más acorde posible al riesgo pues se implementa precisamente un semáforo de riesgo COVID para que se puedan comunicar de una manera más visual y más entendible a la población este tipo de acciones.
 Si vemos la siguiente diapositiva vamos a ver precisamente cómo se encuentra el semáforo de riesgo COVID a nivel nacional, lo hemos estado viendo en días previos, pero siempre es bueno reforzarlo. La mitad de las entidades federativas en color naranja, que significa un riesgo alto; y la otra mitad, que significa el riesgo máximo, en el cual estuvimos todas las entidades federativas la semana pasada.
@@ -39,9 +41,11 @@ Y en la siguiente y última diapositiva vemos el incremento, un incremento impor
 Recordemos que preparar una COVID, hacer la reconversión de sus camas y tenerlas listas para poderlas poner a disposición de la población puede llevar en promedio entre 10 y 12 días, dependiendo lógicamente de la cantidad de camas que tenga una unidad; por lo tanto, estas 812 de seguro se venían preparando en la última semana y un poco más, pero hoy están ya disponibles para poder ser utilizadas en los diferentes lugares y esto es precisamente lo que contribuye a que la disponibilidad se incremente y el porcentaje de ocupación también disminuya. La idea es siempre tener camas disponibles cuando aquí se requieran.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Doctor Ricardo Cortés, por favor.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias. Doctor Alomía, doctor López-Gatell.
 Vamos a pasar a las diapositivas de contacto y participación ciudadana. La primera, por favor. Muchas gracias.
 Esto es participación ciudadana, no sólo es contacto ciudadano. Se contactaron las personas de la Coalición de Personas Sordas, la Copesor, se contactaron conmigo para generar, para iniciar un diálogo, para revisar con ellos y con la participación de todas ellas personas de esta coalición un diálogo de cómo mejorar, pero sobre todo cómo derribar las barreras que las personas sordas en este país tienen para acceder a los servicios de salud.
 Hablamos de la comunidad sorda en México como una comunidad lingüística, una comunidad que en lugar de hablar español habla lengua de señas mexicanas.
@@ -65,15 +69,18 @@ Los invitamos a utilizarla, utilícenla como un medio de comunicación con nosot
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés.
 Nos quedan 39 minutos para preguntas y respuestas. Juan Hernández, periódico Basta, usted y usted que ayer quedó pendiente, también tú.
 ---
 PREGUNTA
+Gracias. Buenas noches.
 Es una investigación referente precisamente a un reportaje que hizo Grupo Basta, en donde nos señalan… ¿Hay un plan de acción para garantizar los tratamientos de enfermos de VIH, cáncer, artritis, que han dejado de recibir atención médica a causa de la reconversión hospitalaria para atender COVID?
 Esto lo ha documentado Grupo Cantón, en hospitales del Issste, pero también en hospitales del Estado de México. Le puedo citar un ejemplo claro, que es el hospital de La Perla, en donde se hizo una reconversión, pero a los enfermos en este caso se les ha negado el medicamento, casos, por ejemplo, de personas que tienen problemas con la insuficiencia renal, que incluso los mandan a comprar sus bolsas, bueno, es una cuestión que es delicada y, bueno, lo que le mencionaba, casos de VIH, cáncer, artritis.
 ¿Qué planes hay para eso?
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Efectivamente, esto es un reto en todos los sistemas de salud del mundo, pero hablemos del de México, donde tenemos una capacidad instalada de origen limitada, de origen limitada, ya hemos mencionado múltiples veces las limitaciones del sistema de salud de México.
 Cuando se ve enfrentado a una situación inusual y en la que se requiere a atención masiva, pero además atención en periodos de tiempo corto, donde hay que resolver muy rápido, hay que priorizar, como se hizo con la reconversión hospitalaria, la posibilidad de atender a todas las personas que tengan infección o insuficiencia respiratoria aguda grave.
 Estos 812 hospitales designados COVID son los mismos hospitales que han existido siempre, que han sido adaptados para expandir las capacidades de atender a personas críticamente enfermas en camas de hospitalización tradicionalmente no destinadas a la terapia intensiva.
 Para lograrlo hubo hospitales que por completo se volvieron hospitales COVID, esto incluye hospitales de referencia, como las unidades médicas de alta especialidad, el Seguro Social, los hospitales regionales del Issste, los Institutos Nacionales de Salud, algunos de ellos total o parcialmente convertidos en hospitales COVID.
@@ -85,21 +92,34 @@ En este sentido también una de las cosas que se hizo fue el firmar el convenio 
 Hasta el momento no se ha utilizado desde mi punto de vista, en toda la extensión que se podría, en el informe más reciente de la semana pasada sólo 25, de hecho 22 por ciento de la disponibilidad había sido utilizada en hospitales privados, esta red de hospitales privados.
 Pero son varias modalidades y, como hemos comentado, a propósito de alguna pregunta sobre los escenarios próximos en la temporada de influenza, un elemento en el que estamos trabajando ahora es como encontrar el punto de balance entre mantener la capacidad para la atención COVID, para la atención de infección respiratoria aguda grave cuando viene la temporada de influenza y es fundamental no desmantelar o no revertir la reconversión hospitalaria, pero al mismo tiempo tener la posibilidad de mantener la continuidad de operaciones para atención de personas no COVID y estamos trabajando en ello.
 ---
+INTERLOCUTOR
+(Inaudible) este convenio que tienen con los hospitales privados.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, al contrario, lo que estoy diciendo es el convenio está subutilizado, todavía nos queda más de 75 por ciento de posibilidades de atención con el convenio existente, pero no está siendo utilizado a toda la capacidad que podría ser.
+---
+INTERLOCUTOR
+Pero los derechohabientes que pertenecen al Issste, al IMSS, a lo mejor tienen, como comenta el compañero, tienen una operación de urgencia, ¿en dónde lo pueden atender, si usted está comentado que está a su máxima capacidad por la atención?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es justo lo que estoy diciendo, las instituciones de seguridad social, estas dos, que son las mayores, el Issste y el IMSS dispusieron hospitales COVID y concentraron la atención no COVID en otras unidades de salud.
 Entonces, aquí uno de los elementos que puede estar ocurriendo es que la ciudadanía, las personas derechohabientes no estén teniendo información completa sobre dónde les toca ahora.
 Vamos a pensar que una persona derechohabiente del Issste a lo mejor está pensando que le toca este hospital en particular, porque es el que normalmente le tocaba y hoy se volvió COVID y la pregunta que tiene, totalmente importante, de atender es dónde me toca si el hospital se volvió COVID.
 Hay un hospital designado para atender a esa persona y aquí, qué bueno que nos alertan de esto, porque podría ser un tema de comunicación hacia las personas derechohabientes, pero está previsto que puedan ser atendidas todas las personas derechohabientes en los hospitales no COVID que fueron designados, sólo que es cuando el hospital de la persona derechohabiente se volvió COVID es un hospital diferente al que está acostumbrado.
 ---
 INTERLOCUTOR
+Pero en el caso de medicamentos, lo que le mencionaba de este hospital de ‘La Perla’ en donde tenían atención de pacientes y ahora simplemente no les dan la información, son personas que están en tratamiento.
 Ustedes saben perfectamente que una persona con diálisis no puede estarse esperando a… y una bolsa con diálisis estamos hablando de una inversión de más mil 500 pesos nada en una bolsita de diálisis que se la tienen que estar cambiando…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Conozco, conozco cómo funciona la diálisis.
 Vamos a hablar con el gobierno del Estado de México, el hospital de ‘La Perla’ pertenece al sistema de salud del Estado de México. Recuerden siempre, cuando se habla de la Secretaría de Salud que desde 1997, agosto de 19997 se estableció la descentralización de la Secretaría de Salud. Entonces, es muy importante, porque a veces es: ‘¿Y la Secretaría de Salud?’; no, hay 33 secretarías de Salud.
 La Secretaría de Salud federal, que es una sola que tiene la capacidad de atención en los hospitales federales y los Institutos Nacionales de Salud, son 23, tres de ellos no dan atención médica, son centros de investigación: el Instituto de Salud Pública, el Instituto de Geriatría y el Instituto de Ciencias de Medicina Genómica.
 Y hay 32 estatales, secretarías de Salud estatales, el hospital La Perla que está en Ecatepec es… En Nezahualcóyotl, perdón, lo estoy confundiendo con Las Américas, en Nezahualcóyotl es de la Secretaría de Salud del Estado de México, que ahí se llama Instituto de Salud del Estado de México, ISEM, pero con mucho gusto vamos a hablar con nuestros colegas para tratar de auxiliar si es que existe algún problema de comunicación hacia la ciudadanía, ¿de acuerdo?.
 Muy bien. Vamos a darle la palabra a usted, regresamos aquí con Carlos y nos vamos llevando.
 ---
 PREGUNTA
+Gracias, subsecretario. Buenas noches. Daniel Blancas, de Crónica, para compartirle dos investigaciones.
 Documentamos historias en especial de personal médico con falsos negativos, enfermeras, médicos con síntomas que, además de batallar para que se les aplicara la prueba, sus resultados fueron negativos. Ellos empeoraron, incluso debieron hacer las pruebas en laboratorios privados y es hasta cuando ocurrió esto que dieron resultados positivos.
 Estas historias, subsecretario, las corroboramos en diversos estados del país, principalmente la Ciudad de México, el Estado de México y Puebla, entre otros.
 En la mayoría de los casos, subsecretario, las pruebas se realizaron en patios, estacionamientos, carpas, toldos, oficinas administrativas y otros lugares provisionales aledaños a clínicas, hospitales y centros de salud.
@@ -108,6 +128,7 @@ Las preguntas, subsecretario, sobre este tema son: ¿qué margen de error tienen
 Si me permite, le consulto un segundo tema. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Daniel. Qué bueno que saca este tema porque nos ayuda a identificar con precisión varios de los elementos que usted relata.
 Lo primero es: aplicación de pruebas. Infiero por la narrativa que se refiere a la toma de muestra para obtener un espécimen útil para realizar la prueba.
 Si se trata de la prueba, que es el estándar de oro, estándar de oro es un término técnico que quiere decir la prueba preferente, es la prueba de PCR, de reacción en cadena de la polimerasa, y el espécimen relevante, es decir, el material biológico necesario para hacer esta prueba es secreciones, líquidos, de la nariz y la garganta, que se toman, como hemos comentado en otras ocasiones, con un instrumento que es una varillita, que tiene una punta de un material absorbente, que se introduce por la nariz, llega hasta la garganta, se moviliza, se saca y se pone en un tubo que tienen un líquido muy especial de transporte viral.
 Este se lleva al laboratorio y la realización de la prueba se hace en un laboratorio, no hay manera de hacerlo en otro lado porque no existe la tecnología para hacer este tipo de prueba fuera de un laboratorio. La toma de la muestra es un proceso importante para garantizar la calidad del diagnóstico.
@@ -130,24 +151,35 @@ La cantidad de falsos negativos es muy alta si la prueba se toma tempranamente, 
 Entonces, todos esos elementos son muy importante de cuidar y por eso hay un lineamiento técnico de laboratorio para la vigilancia epidemiológica que se debe seguir en todas estas condiciones.
 ---
 INTERLOCUTOR
+Las historias que yo le comparto, subsecretario, ya son de personas que tenían los síntomas, ya con síntomas.
 Y cuando yo me refiero al tiempo de espera, no me refiero digamos a la evolución de los síntomas, sino a ya estando en el lugar donde se hacía la toma, filas de 50, 40, 60 personas y las iban colocando en una caja y evidentemente pasaba mucho tiempo para que se les llevaran. Me refiero al tiempo en el que esa toma estaba expuesto a la intemperie, al sol, al viento, a la tierra, etcétera.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Claro. La temperatura, no es tanto… Bueno, el Sol definitivamente sí, el viento y la tierra es completamente indeseable que se contaminen los especímenes, pero la temperatura puede afectar mucho la viabilidad de los especímenes y hay indicaciones técnicas precisas de cómo debe de realizarse.
 Entonces, si esas no se cumplieron en los casos que usted identifica podría ser una razón por la que salieron negativos cuando realmente debieron haber sido positivos.
 ---
 INTERLOCUTOR
+¿Ustedes qué lectura les dan entonces a estos falsos negativos? Me gustaría conocerla.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La lectura de un resultado negativo es que le salió no reactiva, el contexto específico de la calidad del procedimiento desde luego puede afectar sí es falso o es verdaderamente negativo.
+---
+INTERLOCUTOR
+Muy bien, subsecretario.
 Y el otro tema que quiero ponerle sobre la mesa es producto de una investigación. Hay alrededor, hoy actualmente de acuerdo ya incluso ya actualizaba los datos que nos dieron hoy, cuatro mil 600 toneladas que se han generado de residuos peligrosos biológicos-infecciosos por la pandemia.
 Documentamos hallazgos de estos residuos en baldíos, áreas naturales, ríos, autopistas, otros terrenos de la naturaleza en diversos estados del país.
 También nos percatamos de que hay escaso control e inspección de este asunto; de hecho, llevamos un mes solicitando una postura, una reflexión de la Profepa y de la Cofepris, que son las instancias que están directamente encargadas de esta situación, pero ellas han optado por el silencio.
 En vista de este silencio, la pregunta es ¿cuál es la estrategia de la Secretaría de Salud federal para que este panorama no incremente los riesgos para la población y se desborde un problema sanitario aun mayor? Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. La postura es muy clara, la hemos comentado ya en dos ocasiones al menos, ha venido la doctora Alethse de la Torre, que es especialista en control de infecciones, y hemos comentado que existe una Norma Oficial Mexicana específicamente para esto, para establecer las condiciones del manejo de los RPBI, residuos peligrosos biológico infecciosos, y los procedimientos específicos además están reglamentados en los contratos que establecen los sistemas locales de salud para la disposición de estos residuos.
 Si esto que ustedes relatan de esa manera desde luego es completamente inconveniente, eso le puedo decir es la postura que puedo decirle instantáneamente, no es para nada adecuado que los residuos peligrosos biológicos infecciosos acaben en un sitio en donde no se han dispuesto de manera segura.
 Con todo gusto lo voy a comentar con Cofepris y vamos a hacer la extensión también hacia Profepa para investigar, y si su investigación periodística será de gran ayuda, investigar dónde estuvo la omisión del procedimiento o de seguir las normas tanto por la compañía, muy probablemente privada, que es la que da los servicios, como el contratante público para que se deslinden las responsabilidades necesarias y se atienda el problema.
 Le agradezco que lo alerte, muchas gracias, Daniel.
 Vamos a dar la palabra aquí a Carlos y nos vamos uno y uno.
 ---
 PREGUNTA
+Qué tal doctor, doctores. Buenas noches. Carlos Guzmán de Aba Noticias.
 Relacionado un poquito con la pregunta de nuestro compañero de Crónica, se ha filtrado por parte de una agencia internacional un supuesto audio donde usted en una reunión en la Conago, marca la preocupación que existe precisamente ante ellos, que son autoridad local en cuanto a salud, por la cuestión del retraso de los análisis de las pruebas de COVID-19, de coronavirus.
 ¿Qué tanto nos puede mencionar? ¿esto es cierto?, se les externó a los gobernadores?
 En dado caso que sí, ¿cuáles son los estados donde hay esta mayor omisión que nos muestran ahí, por ejemplo, en Jalisco, nos muestran por ahí Nuevo León, pero ¿qué estados son los que están en este momento con ese problema de retrasar tanto las pruebas?
@@ -155,6 +187,7 @@ Usted mencionaba, según dice esta nota informativa, este trascendido, de que es
 Y una segunda pregunta, si me lo permite.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Carlos.
 Me da pie a retomar sobre varias cosas. No conozco este audio. Que se filtren las cosas cuando uno no tiene nada que ocultar no pasa absolutamente nada, si era mi voz y es verídico que fue mi voz y yo lo dije, excelente, eso es lo que dije, qué bueno, porque ahí está el audio.
 Ahora, efectivamente, hoy tuvimos una reunión, como la tenemos cada semana, con las personas titulares del Poder Ejecutivo estatal, es decir, la gobernadora de Sonora, la jefa de Gobierno de la Ciudad de México y los 30 gobernadores de la República. No asistieron todos, pero en su gran mayoría.
 Y la reunión fue muy productiva, como suele ser, siempre es un gran gusto escuchar gente pensante, gente comprometida y además con un sentido grandes responsabilidad para atender un fenómeno como este y las consecuencias que tiene sobre el bienestar social, la economía, etcétera. Una vez más comprobamos que ese es el espíritu de unidad nacional y de responsabilidad con la ciudadanía.
@@ -182,19 +215,23 @@ Entonces, mañana precisamente vamos a tener una reunión de coordinación a la 
 Si se filtró el audio y decía parte de esto, qué bueno; si no decía todo esto, aquí lo estoy diciendo.
 ---
 INTERLOCUTOR
+Y segunda, rápida, esta reunión que tuvo el día de hoy con los gobernadores y las gobernadoras del país, ¿cuál fue la propuesta? ¿cuántos estados podrían entrar en cambio de semáforo para la próxima semana?
 Y si nos puede indicar si hay alguno que va a regresar a fase roja.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto y también anticipándome a las filtraciones. Si se filtra un documento que dice: ‘Este es el semáforo del próximo lunes’, todavía no es el semáforo del próximo lunes.
 En esta relación tan cordial y tan productiva con los gobiernos estatales hemos convenido desde hace varias semanas, desde que empezó el semáforo que daremos un espacio a que en los gobiernos estatales se revise la información y haya una réplica de falta considerar esto o falta considerar aquello.
 Hoy en la sesión específicamente teníamos un pendiente con el estado de Querétaro, que ya habíamos identificado en una conversación de ayer; el gobernador de Jalisco nos hizo ver también que no están todavía registradas algunas camas de capacidad hospitalaria que muy apropiadamente el gobernador Alfaro ha estado expandiendo esta capacidad a muy buen ritmo, agradecimiento también al gobernador Alfaro por esta dedicación; hace unos minutos me acaba de escribir el gobernador de Yucatán con una inquietud semejante.
 Entonces, todas las que alcancemos a atender y el semáforo no lo presentaremos sino hasta mañana viernes en la noche, aquí en la conferencia, precisamente para dar espacio a reconciliar estas perspectivas con los gobiernos. Gracias, Carlos.
 Vámonos allá con usted. Son las 19:54.
 ---
 PREGUNTA
+Gracias, secretario. Juan Carlos Machorro, reportero.
 Es una sola pregunta y retomando un poco el tema igual del enlace del medio ambiente y la salud. El propio secretario Alcocer ha declarado que esta pandemia nos obliga a prestar mayor atención a la preservación de la salud ambiental y evitar el uso indiscriminado de la biodiversidad, y que la ecología debe hacer más nexos con la salud en instancias académicas y también gubernamentales.
 Me gustaría saber su opinión al respecto de esto. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Absolutamente, el doctor Jorge Alcocer Varela, secretario de Salud, mi jefe, mi maestro, desde el inicio del sexenio ha sido muy enfático en que no descuidemos dos aspectos que han estado largamente abandonados por el Sistema Nacional de Salud: la salud mental y la salud ambiental y por eso estamos trabajando entre los múltiples asuntos en estos dos.
 Respecto a la salud mental no diré nada hoy, en cualquier momento lo retomamos; y respecto a la salud ambiental, desde el inicio del sexenio hicimos una alianza muy estrecha, muy productiva con la Secretaría de Medio Ambiente.
 Cuando llegó el doctor Víctor Manuel Toledo, a quien también queremos y respetamos mucho, nos hemos ido integrando con todo su equipo para establecer una serie de acciones o programas que tienen que ver con la confluencia de la salud ambiental, digamos el ambiente, la preservación y recuperación de la calidad del ambiente y la salud.
 Hay varios focos, uno está en torno al Gisamac, ya he hablado del Gisamac, Grupo Intersectorial de Salud, Alimentación, Medio Ambiente y Competitividad, y este es un foro multinstitucional en donde estamos atendiendo a esta agenda de la salud ambiental también.
@@ -205,4 +242,19 @@ Entonces todo eso lo estamos trabajando. Conacyt, por cierto, también es una in
 Muchas gracias. Vamos a irnos con usted, por favor. Quedan tres minutos, creo que va a ser la última.
 ---
 PREGUNTA
+Buenas tardes. Héctor Tlatempa de Puntos Suspensivos Radio, Puntos Suspensivos Comunicación.
 La mía es muy sencilla, nada más es para hacerle saber de su conocimiento o si es que tiene la respuesta, es con respecto a este aparatito del oxímetro. Nosotros también hemos difundido que es importante que se tenga en casa, pero en nuestras redes sociales ya desde hace un mes para acá nos han dicho que no lo encuentran, que en la Ciudad de México por lo menos ya no hay en ninguna farmacia, ¿a qué se debe y qué se puede hacer?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Del oxímetro hemos hablado poco y nos quedan dos minutos, pero trataré de sintetizarlo. El oxímetro, oxímetro de pulso, pulso oxímetro, es un dispositivo electrónico para registrar o medir de manera indirecta el porcentaje de oxigenación de la sangre de los seres humanos.
+El aparato se reconoce porque tiene la forma de una pincita que se pone en uno de los dedos, generalmente el índice, se puede poner en otros de acuerdo a las especificaciones técnicas, y produce una señal de luz que el propio aparato registra y a través de la intensidad de esa luz, con una programación de computadora registra el porcentaje de oxigenación de la sangre.
+La sangre humana en condiciones convencionales, de acuerdo a la concentración de oxígeno que hay en el aire ambiente, que normalmente es del 21 por ciento, la sangre humana puede registrar un valor que generalmente está un poco por debajo del 100 por ciento.
+En aire ambiente, cuando respiramos aire ambiente podemos tener oxigenaciones que van desde 95 a 98 por ciento. Esto varía de acuerdo a la altitud, en nivel del mar, las zonas costeras se alcanzan porcentajes de oxigenación mayores, 98, 99 por ciento, raramente 100; en zonas muy altas como la Ciudad de México se pueden alcanzar 94, 95 por ciento, y en general por debajo de 90 se considera anormal.
+COVID es una enfermedad que puede causar neumonía, daño grave a los pulmones y la función fundamental de los pulmones es introducir oxígeno a través del aire, a partir del aire que entra a los pulmones y transferirlo a la sangre, y el oxígeno en la sangre es fundamental para mantener la vida y la función de los órganos.
+Cuando COVID causa daño a los pulmones es útil monitorear, vigilar, que el porcentaje de oxigenación no baje de ciertos valores críticos, como podría ser por debajo de 90, definitivamente no por debajo de 85.
+Y se ha conocido que si uno monitorea la oxigenación podría tener la oportunidad de más temprana transferir a las personas por su propia voluntad y con el apoyo familiar o por otros medios a los hospitales para recibir oxigenación y con ello disminuir el peligro de muerte. Así es de importante.
+¿Por qué se acabaron?
+Porque hay sobredemanda, se supo esta información, lo cual es positivo y entonces la gente que tiene la posibilidad acudió a las distintas farmacias y otros lugares donde se venden y se acabaron, y no ha habido una renovación suficientemente rápida de la producción.
+En programas específicos como el que tiene la Ciudad de México y también el mismo tipo de programa que ya estamos preparando para otras entidades federativas, hemos comprado, el Insabi, el Instituto de Salud para el Bienestar, ha comprado pulsioxímetros que se han distribuido a los estados que iniciarían con este programa y estamos buscando la manera de ver, de facilitar la disponibilidad de pulsioxímetros para este tipo de programas.
+Son las 20 horas con un minuto, ya no nos da tiempo, pero mañana continuamos con todo lo necesario, igual con Daniela.
+Muchas gracias. Buenas noches. Mañana es viernes de semáforo.

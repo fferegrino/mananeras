@@ -1,0 +1,308 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+28 de febrero de 2021
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES, DIRECTORA DE VIGILANCIA EPIDEMIOLÓGICA DE ENFERMEDADES NO TRANSMISIBLES
+Hola, Muy buenas noches de domingo 28 de febrero. El día de hoy su servidora, la doctora Gabriela Nucamendi, a nombre de la Dirección General de Epidemiología, estaremos apoyando en la coordinación de la gestión de las preguntas, al igual que la presentación del informe técnico.
+Vía remota tenemos conectado al doctor Ruy López Ridaura, director general de Cenaprece, que nos estará presentando el avance de la estrategia de vacunación antiCOVID en México. Bienvenidos.
+Si les parece, podemos iniciar, doctor Ruy. Podríamos empezar con el componente técnico para que ustedes puedan identificar el avance al día de hoy de la información que estamos trabajando.
+Como ustedes bien saben, durante la semana y diariamente tenemos el registro de toda esta información a través del sector salud, de las unidades médicas tanto públicas como privadas y es por ello quepodemos contabilizar al día de hoy, 28 de febrero, a más de 50 mil, 50 ml 29 para ser exactos casos estimados activos.
+Si podemos ver el gráfico, nuevamente identificamos claramente un descenso tanto en los casos estimados como en las personas recuperadas. Al día de hoy tenemos ya un millón 633 mil 900 personas recuperadas.
+Es importante destacar que en todos los casos confirmados, en todos los casos estimados, identificamos también un claro descenso que viene observándose ya desde hace varias semanas al día de hoy con una disminución del 14 por ciento y una disminución en personas recuperadas del 20 por ciento, pero esto se debe a que ha habido una disminución de contagios.
+Tenemos contabilizadas las desafortunadas defunciones, también al día de hoy 185 mil 715, las cuales están registradas actualmente en el Sistema Nacional de Vigilancia Epidemiológica, específicamenteen el Sistema de Vigilancia Epidemiológica de Enfermedades Respiratoria Viral.
+Tenemos más de medio millón de esquemas de esquemas de vacunación aplicadas.
+En este otro gráfico podemos identificar cómo tenemos la evolución diaria de la hospitalización, tomando en cuenta que aquí se presenta a nivel nacional distribuida las personas hospitalizadas, tanto personas hospitalizadas totales, que es la curva superior, en el tono más claro, como las personas hospitalizadas en camas generales, que es la curva en tono rojo oscuro; y las personas hospitalizadas con ventilación mecánica.
+Las tres curvas también muestran un claro descenso, principalmente las hospitalizadas generales, y las que están hospitalizadas en camas generales.
+La población que se mantiene hospitalizada o que ha sido hospitalizada con apoyo ventilatorio mecánico también presenta un claro descenso en las últimas semanas.
+Observemos pues cómo también tenemos una disminución de un punto porcentual y un 30 por ciento de ocupación nacional.
+En esta otra lámina podemos identificar la disponibilidad de camas, esta disponibilidad de camas específicamente en hospitalización general. Llevamos ya varios días en donde ya no identificamos a ninguna entidad federativa que se encuentre en el espacio de arriba de 70 por ciento de ocupación, eso es bastante favorable para el panorama epidemiológico del país.
+Y actualmente tenemos entre el 50 y el 69 por ciento de ocupación a dos entidades federativas, Ciudad de México y Puebla con el 50 por ciento. A pesar de que se encuentran en este rango ambas entidades, ya se encuentran sin cambio; pero, con base a la tendencia nacional, se espera que en los próximos días inclusive pudiéramos empezar a hablar de una disminución.
+Y en el grueso del país, en 30 entidades federativas, obviamente el panorama es favorable, porque tenemos ya una ocupación de menos de 50 por ciento, por lo tanto, actualmente tenemos un total de camas totales, son 31 mil 541, de las cuales tenemos disponibles 22 mil 437 y tenemos actualmente ocupadas nueve mil 104.
+Si recuerdan el gráfico anterior, esta totalidad de camas ocupadas principalmente se dan en las camas generales.
+A nivel nacional, como se presentaba en la lámina anterior, tenemos un total de ocupación del 29 por ciento.
+Y si hablamos de la disponibilidad de camas con ventilador, es decir, aquellos espacios en donde tenemos a los pacientes graves con diagnóstico de COVID, es muy importante resaltar que también en la parte superior en donde identificamos a las entidades con más de 70 por ciento de ocupación no tenemos afortunadamente el día de hoy ninguna entidad.
+Y en el rango medio únicamente conservamos a la Ciudad de México con una ocupación del 57 por ciento. Esto, volvemos a recordar que son espacios de camas con ventilador, es decir, con pacientes graves.
+Afortunadamente se identifica ya que en la Ciudad de México hay una tendencia franca a la baja y esto significa que poco a poco tal cual como se ha venido presentando esta tendencia va para la disminución y en algunos próximos días sería muy probable que la podamos encontrar con menos del 50 por ciento; actualmente está con el 57 por ciento de ocupación. El resto de las entidades, las 31 entidades federativas restantes, afortunadamente se encuentran en el rango de menos 50 por ciento de ocupación.
+Observemos que, dentro de las entidades federativas, Colima, que se encontraba en un rango un poco superior, también ya se encuentra a la baja y actualmente tiene una ocupación del 43 por ciento.
+Es identificable que a nivel nacional tenemos cuantificadas el número de camas que cuentan con ventilador mecánico para el apoyo de estas personas, en total son 11 mil 165, de las cuales actualmente tenemos siete mil 525 disponibles y tenemos ocupadas tres mil 640.
+No olvidar que esta información se mueve día con día con el reporte de todas las unidades que actualmente integran el sector salud a nivel nacional.
+Pues bien, le daremos la palabra al doctor Ruy López Ridaura para que él pueda presentar el avance de la Estrategia Nacional de Vacunación.
+---
+RUY LÓPEZ RIDAURA, DIRECTOR GENERAL DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Muchas gracias, doctora Nucamendi. Un saludo a todas y a todos. Gracias por estar escuchando el informe técnico diario.
+Y como comenta la doctora Nucamendi, ahora les presentaré el componente de vacunación para, después de este componente, poder abrir a preguntas y respuestas.
+Ya también están familiarizados con las diapositivas. Esta es la es la diapositiva donde mostramos el gráfico de las dosis que se han (falla de transmisión) el día de hoy. En el número resaltado de 55 mil 55 son las dosis aplicadas el día de hoy domingo 28 de febrero.
+Y del total… Como pueden ver, la tendencia que hemos tenido,claramente está también alineada y a la par de los embarques que han llegado a nuestro país, en un principio los embarques de Pfizer y en las últimas dos semanas, donde ya tenemos una combinación de al menos tres vacunas, cuatro vacunas que están activamente colocándose en diferentes sitios de la República mexicana.
+En la siguiente diapositiva lo que vemos es el acumulado, esto es el total de dosis. Al día de hoy hemos llegado a casi dos millones y medio de dosis aplicadas desde el 24 de diciembre a la fecha.
+Y como pueden ver, en el recuadro de abajo, las mil 883, son dosis que se han perdido durante la operación, cosa que refleja el 0.08 por ciento del total de las dosis aplicadas.
+Y como verán también, la gráfica muestra la tendencia, cómo en ciertos momentos en la espera, hubo esta larga espera de tres semanas a partir en las últimas semanas de enero, pero claramente desde febrero un poco ya más constante el ascenso ha sido continuo.
+En la siguiente, también familiarizados ustedes en esta forma, lo que presentamos es el avance por el grupo el que se ha vacunado.
+Como pueden ver en la parte superior, al día de hoy se han vacunado 753 mil 38 personas del grupo de personal de salud de primera línea y 565 mil 423 de ellos ya tienen el esquema completo de dos dosis y especialmente o únicamente con la vacuna de Pfizer. Esto quiere decir que llevamos un 75 por ciento de avance de la segunda dosis con respecto a la primera.
+Y sólo comentar que aun activamente se está completando las segundas dosis del último embarque y además también se logró expandir a la totalidad del personal de salud de la primera línea.
+El personal educativo son 17 mil y tenemos ya, ya desde el día de este fin de semana se inició y no se ha registrado aquí, es un error que cambiaremos en el informe, pero ahora en el corte llevamos ya casi 14 mil maestros que han cubierto su segunda dosis y esperemos que el día de mañana o pasado mañana podamos cubrir el 100 por ciento de los dobles esquemas para el personal educativo en el estado de Campeche.
+Y, finalmente, en la parte de abajo reflejamos que al día de hoy ya tenemos más de un millón, un millón 119 mil 171 personas adultas mayores que han recibido su primera dosis y aun no ninguna de estas personas que iniciamos en las últimas dos semanas han cumplido en el periodo para una segunda dosis y, por lo tanto, aún tenemos un avance de cero.
+Y ya también están familiarizados con esta, lo que presentamos es el número total de los eventos asociados o supuestamente atribuibles a la vacunación e inmunización. Recuerden que este es un esquema de farmacovigilancia reforzado que tenemos en todo el país y tanto de los eventos adversos que se presentan en la primera media hora de observación, como dice el protocolo, de los sitios de vacunación, pero también en los días posteriores aquellas personas que han tenido algún tipo de molestia, la gran mayoría, como pueden ver, son leves en su gran mayoría y solamente 57 de esos casos, menos del uno por ciento, aproximadamente el uno por ciento, son considerados casos graves.
+Y como pueden ver también tenemos la notificación aquí del número de eventos adversos por cada uno de los tipos de vacuna que ya están colocándose en nuestro país: Pfizer-BioNTech, AstraZeneca, Sinovac y Sputnik V. Y vemos el número, pero también esto claramente refleja el número relativo de las vacunas que se han puesto de cada una de estas marcas.
+El porcentaje de Esavi, ya considerando todos los casos graves y leves es menos del 0.5 por ciento como pueden ver.
+Y también tenemos aquí una descripción general de los casos, en donde pueden ver tanto los casos distribuidos por sexo, el número más en mujeres que en hombres, 14 aún están hospitalizados en estas entidades federativas y la gran mayoría de las entidades han reportado al menos un caso de eventos supuestamente asociado o atribuible a vacunación e inmunización.
+La siguiente por favor. Solamente para recordar, al momento se han recibido cuatro tipos de vacuna y este es el monto de dosis que hemos recibido hasta el momento: tres millones 839 mil 625 dosis. Todos estos esquemas, Pfizer, AstraZeneca, Sinovac y Sputnik son de dos dosis y por lo tanto esto refleja un poco más de un millón y medio de esquemas completos.
+La que más hemos recibido hasta el momento es de la vacuna de Pfizer, también tenemos un embarque programado para la próxima semana de AstraZeneca hemos recibido las 870 mil que se adquirieron a través del Serum Institute de la India, Sinovac también recibimos ya un millón y Sputnik también recibimos las primeras 200 mil dosis del primer componente y también estamos en espera de recibir el segundo componente y los próximos embarques de Sputnik.
+Importante, ya para terminar, en la última diapositiva. Hemos insistido también desde el día de ayer lo importante de esperar el turno. Creo que esta es -nos gustaría seguir insistiendo en este mensaje- esta es una estrategia nacional federal con la colaboración de múltiples instituciones tanto del gobierno federal y una colaboración estupenda que hemos tenido con todas las entidades federativas para llevar a cabo el Plan Nacional de Vacunación para COVID-19.
+Una de las limitantes principales en la operación precisamente es la proveeduría. Ha llegado y conforme ha llegado se ha distribuido y se ha aplicado en todas las entidades federativas, como pueden ver, en los diferentes grupos prioritarios.
+El grupo prioritario ahora en el que estamos enfocados es la progresión rápida del grupo de adultos mayores que, como también se ha comentado tanto en la política pública como en los documentos que nuestro grupo de expertos nos ha ayudado y nos ha asesorado, claramente el eje prioritario de edad es el que mayor impacto va a tener en mortalidad y es por eso que se ha decidido.
+Ahora la prioridad son los adultos mayores; sin embargo, no tenemos suficiente proveeduría para llegar a todos los lugares donde existen los adultos mayores. Estamos avanzando de manera simultánea, equitativa, en ambientes rurales urbanos y también equitativa en todas las entidades federativas de acuerdo a la distribución o a la distribución proporcional de adultos mayores en cada una de las entidades.
+Pero para que esto funcione, para que funcione en cada uno de los puestos de vacunación es importante el mensaje de que hay que esperar el turno, están llegando (falla de transmisión) donde ustedes viven, ustedes como personas en sus municipios (falla de transmisión) es mucho más fácil y en las próximas semanas estaremos recibiendo y estarán distribuyéndose y pronto llegará al lugar donde viven y se podrán aplicar la vacuna.
+Si esto lo entendemos, es un acto muy importante que nos ayuda a la operación y por eso el llamado a la población de esperar el turno, estar atentos a la convocatoria para los municipios donde empiezan a llegar las vacunas para acudir ordenadamente.
+La utilización también del registro en la plataforma es útil, nos permite una operación mucho más fluida y por eso también invitar a las personas que sigan registrando para nuestra operación.
+Muchas gracias y quedamos atentos a preguntas y respuestas.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Muchas gracias, doctor Ruy López Ridaura.
+Le daremos la palabra a nuestros compañeros periodistas.
+Adelante, por favor.
+---
+PREGUNTA
+Qué tal, muy buenas noches, doctor, doctora. Juan Hernández del periódico Basta, de Grupo Cantón.
+Pues la pregunta obligada del día, saber sobre el estado de salud del doctor Hugo López Gatell. Es la segunda vez en la semana que se ha manejado un supuesto agravamiento de la salud del doctor. Queremos saber realmente cuál es el estado de salud.
+Y bueno, también de alguna manera también, si esto es cierto, pues también confirmarlo ¿no?, o en caso también señalarlo, si esto también puede ser una infodemia. Gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Gracias. Doctor Ruy, le cedería la palabra para poder dar el estado de salud del doctor Gatell. Adelante.
+---
+RUY LÓPEZ RIDAURA
+Sí, muchísimas gracias y gracias por la pregunta y por el interés.
+A ver, queremos ser muy claros. Es totalmente falso. El doctor López Gatell se encuentra muy bien, tuvo un cuadro de COVID moderado, por eso requirió una atención y, como se ha comentado en estos días, requirió suplementación de oxígeno; pero en su evolución ha sido muy buena y realmente está yendo directamente a la recuperación. Y no, para nada ha tenido un cuadro ni de mayor gravedad, sino que desde el día que reportamos esto, hasta el día de hoy todos los días ha ido hacia un estado de mucha mejoría y esperemos que pronto estará totalmente recuperado.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy, la pregunta es: ¿para cuándo podría estar reincorporándose el doctor Gatell nuevamente en las conferencias o en las actividades.
+---
+RUY LÓPEZ RIDAURA
+Sí, pues eso ya estaremos viendo. El día de hoy está cumpliendo su día 10, 11 de haber iniciado con síntomas y tiene que esperar al menos, principalmente por el cuadro moderado, es muy probable que al menos durante toda la semana siga en observación y en aislamiento, pero ya les iremos comentando para cuándo estará de regreso en las conferencias, ya sea de manera virtual o presencial.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Por favor, compañero.
+---
+PREGUNTA
+Gracias. Gerardo Suárez, de El Heraldo de México. Buenas tardes.
+Respecto al estado de salud del doctor López Gatell, ¿nos pueden explicar si el subsecretario estuvo hospitalizado algún día debido al COVID-19? ¿y dónde en todo caso?
+Otra pregunta es: a un año del primer caso de COVID-19, ¿qué balance harían en la respuesta que ha tenido el gobierno federal a la pandemia?, ¿cuáles son los puntos que ustedes dirían como aciertos?, ¿cuáles son los errores o cosas que hubieran corregido?
+Y por último, de las 800 mil vacunas de Sinovac que llegaron ayer, ¿nos pueden decir en qué estados se van a utilizar y a partir de cuándo?
+Gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy, ¿ sí pudo escuchar las tres preguntas?
+---
+RUY LÓPEZ RIDAURA
+Sí, sí, perfectamente, muchas gracias. A ver, de la primera pregunta, sí, estuvimos viendo que en redes sociales se comentó el lugar en donde ha estado hospitalizado el doctor López-Gatell.
+No es ningún… Digo, se ha dicho y lo vuelvo a insistir, el doctor López-Gatell desde el miércoles pasado en este sentido, cuando se conversó también durante conferencia vespertina, requería un tratamiento en el sentido de un estado de COVID moderado ya con requerimiento de oxígeno, y por eso se consideró, su equipo médico evaluó y evaluó la necesidad de una hospitalización anticipada con un monitoreo y con un tratamiento hospitalario en este esquema que también desde siempre hemos insistido de la necesidad de una búsqueda de atención anticipada, de la posibilidad de tener una también hospitalización anticipada en los casos que los amerita, porque es justo en este momento donde las posibilidades de tratamiento son muchas, son mucho mejores, de mucho mayor éxito.
+Entonces, en ese sentido de una hospitalización anticipada, preventiva de la posible complicación puesto que su equipo médico decidió hospitalizarlo y ha estado desde el miércoles hospitalizado y con una evolución muy favorable y esperemos que ya el día de mañana pueda regresar o darse de alta de la unidad hospitalaria.
+De la tercera pregunta, sí llegaron unas dosis de Sinovac el sábado pasado; sin embargo, tenemos aún pendiente por parte de la misma casa farmacéutica en China de enviarnos una serie de pruebas analíticas de los lotes que enviaron que estaban aún pendientes.
+No se quiso retrasar el embarque, pero ahora está encintando, esperando que se tengan las pruebas analíticas que están por llegar esta semana, en estos días; y una vez que tengamos este lote, se liberarán por parte de Cofepris y se podrán distribuir en un plan que ya se había establecido de distribución a las 32 entidades federativas, especialmente enfocada por la facilidad operativa que esta vacuna permite en poder llegar también a las zonas más rurales y así, de manera simultánea con los embarques que también tenemos por Pfizer, poder de manera simultánea ir cubriendo tanto áreas rurales como áreas urbanas, pero se distribuirá en las 32 entidades federativas.
+Y por último, yo creo que la pregunta del balance, es una, digo, es una pregunta de siempre y todos los días nos la hemos hecho. Tenemos diferentes grupos con los que se ha discutido, tanto internos como externos, y esto es un balance que hemos hecho todos los días, todos los días tenemos una discusión entre grupos, vemos qué se puede hacer, qué se puede hacer mejor, qué se pudo haber hecho y es un balance que lo tenemos continuo.
+Uno que creo que es muy importante y también estaremos, ya estamos trabajando precisamente con el grupo de este gran seminario que organizó el Instituto Nacional de Salud Pública junto con la UNAM, con El Colegio de México y otras instituciones, donde durante una semana se discutieron todos los temas, abarcaron un gran número de temas desde este grupo para hacer una reflexión propositiva de diferentes aspectos de respuesta en la pandemia que se pueden mejorar o modificar en los próximos meses.
+Hemos estado trabajando, se realizaron mesas de trabajo. Aquí quiero agradecer muchísimo al doctor Juan Rivera y al Instituto Nacional de Salud Pública por lo proactivo en la creación también de estos grupos de trabajo y pronto estaremos anunciando pues qué es el resultado que se obtuvo de ese seminario propositivo y su incorporación a nuevas estrategias en estas bases subsecuentes en donde tenemos claramente un descenso importante ya en todas las entidades federativas.
+Y hay toda una serie de oportunidades y necesidades de modificar, especialmente dirigidas hacia la apertura de las entidades sociales y económicas y en eso estamos enfocados ahora en estos esquemas, junto con la semaforización de poder ir encontrando oportunidades para una apertura más pronta. Eso es un poco el esfuerzo en el que se está trabajando.
+Creo que en general un año, un año siempre es importante para reflexionar, creo que se ha tenido respuestas y que han ido modificándose de acuerdo a la evidencia. Es importante y a veces es complejo el pensar que hace un año todo lo que hemos aprendido durante este año, los grandes huecos de información que se tenía tanto con la biología del virus, pero también con su comportamiento epidemiológico, con el impacto que pudiera tener, había mucha incertidumbre, pero poco a poco se ha tenido mucho más información y eso ha enriquecido en general en todo el mundo y en México las políticas y la respuesta ante la pandemia.
+Creo que en general se han buscado siempre mejorar las alternativas y así se ha hecho, no solamente en la expansión hospitalaria, que ha sido uno de los grandes retos que tuvimos que presentar en esta pandemia ante un sistema que tenía una gran debilidad en la atención, en la infraestructura hospitalaria y en la atención médica en general, no solamente en el segundo nivel y en el tercer nivel, donde había unas grandes deficiencias, sino también en el primer nivel de atención.
+Y creo que en este tiempo eso fue una prioridad muy importante, el reforzarlo, para tener las capacidades de respuesta y la atención para todas las personas.
+Pero también hubo un gran componente importante del abordaje epidemiológico, de la búsqueda, del rastreo de contactos, de la promoción de la salud para modificar y detener las cadenas de transmisión, cada vez con mensajes más directos, más claro y creo que también ha habido un gran avance y progresión en ese sentido.
+Y también la estrategia comunitaria, donde también en algún momento se identificó la necesidad de reforzar el abordaje comunitario de COVID, de salir a las calles, estar haciendo rastreos casa a casa, barridos en las personas. Se están buscando los casos, procurando esta hospitalización anticipada, que realmente es lo de mayor impacto, pero también teniendo un mensaje más cercano a las personas para la promoción.
+Creo que el balance… Hemos tenido un aprendizaje muy importante, se han mejorado y se han incorporado muchoscomponentes de lo que se ha aprendido.
+Agradeciendo también a los diferentes grupos que de manera propositiva han planteado estrategias innovadoras que se han ido incorporando y que seguramente tendrán un peso importante en la nueva estrategia para ir abriendo o teniendo cada vez un a apertura de las entidades sociales y económicas que ya se necesitan cada vez más.
+Pero bueno, creo que durante esta semana también iremos comentando este tipo de reflexiones precisamente con la ayuda de estos grupos del Instituto Nacional de Salud Pública y de quienes organizaron este gran seminario.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Gracias, doctor.
+Adelante, por favor.
+---
+PREGUNTA
+Buenas noches. Alberto Amaro, de La Prensa de Tlaxcala.
+¿Cree usted que se cumplan los objetivos del gobierno federal para vacunar a las personas adultas en el plazo establecido que estima nuestro presidente?
+También quisiera saber si se va a realizar algún tipo de cambio en la logística, toda vez que específicamente en el estado de Tlaxcala las primeras vacunas fueron asignadas a ciertos municipios generando que vecinos, bueno, gente, habitante de otros municipios acudieran a vecinos cercanos donde los cuales ellos no radicaban y esto generó que el municipio donde fueron asignadas las vacunas no pudiera cumplir con el total de los habitantes que se habían registrado, generando una molestia, incluso pues algún tipo de reclamo hacia la mala estrategia que se implementó en ese momento.
+También quisiera yo saber… En Tlaxcala presentamos una situación de una variación de datos. Por ejemplo, hoy, el gobierno del estado registra 15 mil 933 casos positivos y dos mil 133 fallecimientos por COVID-19, mientras que los datos emitidos por el gobierno federal registra 17 mil 156 casos positivos y dos mil 135 muertes.
+Quisiéramos saber qué datos vamos a tomar como registro, toda vez que en el estado nos informan una cosa y bueno, en el gobierno federal los datos establecidos son diferentes.
+Por último, saber si en Tlaxcala ya existen casos de la nueva cepa de COVID-19. Gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruiz, si le parece, le dejo la primera pregunta.
+---
+RUY LÓPEZ RIDAURA
+Sí, muchas gracias. Contesto las primeras dos preguntas.
+La expectativa, como se ha mencionado, es que en abril y tal vez en la primera quincena de abril podamos tener cubierto al menos las primeras dosis de los adultos mayores.
+Entonces, hemos dado pues con toda la proveeduría, siguiendo cada uno de los contratos con cada una de las empresas y también la buena noticia es que ya las vacunas que se están envasando aquí en México, es decir, tanto la vacuna de AstraZeneca como la vacuna de Cansino se está esperando que para la segunda quincena de marzo o la última semana de marzo ya empiece la proveeduría directa de estas vacunas ya envasadas en México, cosa que el flujo va a ser mucho más importante.
+También estamos esperando que en marzo o a principios de abril también podamos ya contar con las vacunas de la plataforma Covaxy también los embarques que ya están programados tanto de la vacuna de Pfizer como de la vacuna Sputnik.
+Entonces, creemos que con esto vamos a poder cubrir al 100 por ciento de los adultos mayores que quieran vacunarse a finales de abril para poder seguir en las siguientes etapas y lo que estoy diciendo es que son las primeras dosis y una proporción importante también ya de segundas dosis.
+La operación, digo, creo que lo que comentaba precisamente en lo que mencioné al final del reporte, sí, digo, sí hay datos puntuales, pero en la gran mayoría de los sitios, digo, tanto en los rurales, pero también en todos los urbanos que ya están activamente vacunando, la gran mayoría, y aquí quiero agradecer a la ciudadanía en general y a todo el cuerpo de operación y organización que tenemos en las brigadas, porque han tenido mantener el orden tanto las personas entienden el esperar el turno y ha habido un orden en la gran mayoría.
+Sí hay sitios donde hemos tenido que tener estrategias operativas para modificar y para mejorar el orden, pero en general la gran mayoría de la población está entendiendo que las vacunas se están dirigiendo a ciertos municipios y son para los residentes de ciertos municipios.
+Digo, creemos que este es el llamado principal hacia la ciudadanía, esperar el turno, ya llegarán y no han necesidad de ir a los municipios activos, pronto llegará a su municipio, y por eso creemos que el llamado ayudará a mejorar el orden en algunos sitios en general. Lo hemos visto aquí en la Ciudad de México, hay un gran respeto al orden por alcaldías y creemos que eso debe ser la conducta generalizada, y estoy seguro que lo es en la gran mayoría de los casos.
+Te dejo las próximas preguntas, doctora Nucamendi.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Sí, gracias, doctor. Bueno, contestando la última, actualmente en el estado de Tlaxcala no tenemos identificado una de las nuevas cepas de coronavirus. Creo que en emisiones anteriores se comentó que solo en algunas entidades federativas como Jalisco, Tamaulipas, Nuevo León, deben de estar tranquilos porque para la identificación de estas nuevas variantes estas muestras obviamente llegan hacia nuestra Dirección General de Epidemiología, es decir, al Instituto de Diagnóstico y Referencia Epidemiológicos, y es ahí donde se realiza, con la técnica ya validada, con la coordinación nacional, la identificación de las mismas.
+Lo comento solo para que se queden con certeza que si algún momento en el trascurso de la semana, en los meses posteriores se identificara alguna cepa, no sólo en su estado, sino en cualquier otro estado de la República, pues se daría a conocer de forma inmediata porque para nosotros en el área de Epidemiología es sumamente importante que la secretarías de Salud estatales, que el equipo operativo obviamente estén enterados de esta información para poder captar en un momento dado, si es que así fuera, que hasta el momento no ha ocurrido, pues la identificación de los casos secundarios del caso identificado.
+Ahora, en relación a los datos, yo creo que esa muy buena pregunta.
+¿Por qué?
+La notificación o la información que la Secretaría de Salud federal pública diariamente, ustedes saben que esta información la tenemos publicada tanto en el micrositio de coronavirus de la Secretaría de Salud y también tenemos un espacio destinado a coronavirus dentro de la Dirección General de Epidemiología.
+Esta información se notifica diariamente a través de la plataforma del Sistema de Vigilancia Epidemiológica de Enfermedad Respiratoria Virales. No sólo se notifica COVID, se notifican otras entes dentro del mismo sistema.
+Pero esta notificación se hace a través de las entidades federativas, es decir, existe una plataforma en línea en tiempo real en donde el epidemiólogo o el responsable de la unidad médica que tiene la información en sus manos la captura de forma directa con un usuario y contraseña; es decir, nosotros a nivel federal no podemos hacer ningún movimiento de la información que nos notifica el propio estado y esta información se conjunta no sólo de la Secretaría de Salud, sino que proviene de las unidades de la Secretaría de Salud, del IMSS, del IMSS-Bienestar, de Pemex, Sedena, Semar e inclusive privados.
+Ahora, respondiendo a su pregunta ¿por qué existe una variación entre la información que está brindando la entidad federativa y la información que teneos publicada? Muy probablemente se puede deber a dos situaciones:
+En primera instancia, cuando nosotros hacemos el recuento de los casos dentro del Sistema de Epidemiología los ubicamos por entidad de residencia. Si yo, Juanita Pérez, me identifico que vivo en el estado de Tlaxcala y digo que esa es mi identidad de residencia y presento mi INE, de esa manera quedo clasificada en la plataforma.
+Y la segunda situación que yo considero que es la más probable es que para que nosotros podamos sacar todos esos productos de información que ustedes identifican en las páginas públicas realizamos un corte todos los días a las 16:00 horas y muchas veces las entidades federativas realizan cortes posteriores, entre las 6:00 y 8:00 de la de la noche.
+Entonces, como les comentaba, como es una plataforma en tiempo real, obviamente minuto tras minuto la información puede ir variando porque se siguen capturando los casos que van llegando de las unidades, ya sea de primero, segundo o tercer nivel.
+Adelante, por favor.
+---
+PREGUNTA
+Buenas noches. Ignacio de Alba, de Pie de Página.
+Preguntarle si es mucho o poco el porcentaje de casos de Esavicomparado con otras vacunas.
+Y tengo otras dos preguntas. Gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy, no sé quiera responder esta pregunta.
+---
+RUY LÓPEZ RIDAURA
+Perdón, no escuché nada la pregunta si me la pueden repetir.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Claro, a ver.
+---
+INTERLOCUTOR
+Hola. Va de nuevo. Que si es mucho o poco el porcentaje de…
+---
+RUY LÓPEZ RIDAURA
+Gaby, ¿me lo podrías decir tú?, porque creo que el micrófono de él no me sirve.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Sí, doctor. La pregunta es que, si en la proporción de Esavis que estamos identificando actualmente, si son consideradas muchas o pocas, en comparación de otras vacunas que ya se aplican en el Sistema Nacional de Salud.
+---
+RUY LÓPEZ RIDAURA
+Gracias, gracias. Sí, en general han sido… Digo, sí se esperaba un número mayor de Esavis en estas vacunas que son aprobadas para una situación de emergencia, sí son más que lo que se observa en el programa universal de vacunación, pero son menos que en lo general que se había esperado también por lo que se había observado en los ensayos clínicos.
+Entonces, creo que a la fecha tanto aquí en México como en los sistemas globales de farmacovigilancia las tasas en general se han mantenido dentro de lo esperado.
+---
+INTERLOCUTOR
+También preguntar si se sabe que con el cambio de estación pueden bajar los contagios. ¿Hay algún estudio sobre esto?
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+No sé sí logró escucharlo.
+Si está el doctor Ruy todavía por ahí; si no…. Esto se ha comportado de una manera diferente a lo que hemos identificado ya con influenza, en este momento no se tiene la evidencia que el coronavirus pueda presentar un comportamiento similar o estacional,justo porque, como ustedes recordarán, cuando tuvimos la epidemia de influenza H1N1 en el 2009, también tuvimos una presentación de casos fuera de lo esperado; es decir, iniciamos en el mes de abril y todavía esta curva se mantuvo terminando el 2009, iniciamos el 2010 y la curva disminuyó prácticamente ya a finales del primer semestre, inicios del segundo semestre.
+Entonces, como este es un padecimiento nuevo, en este momento no podríamos hablar de que va a presentar una estacionalidad; sin embargo, este año podríamos ir identificando el comportamiento.
+Justo ahora vamos a empezar la temporada de calor, se empató justo con la disminución de la segunda oleada y pues obviamente necesitamos ir identificando cómo se comporta en los meses de marzo, abril, mayo para que en un momento dado pudiéramos tener al menos la evidencia que se presenta en México del comportamiento del mismo.
+---
+INTERLOCUTOR
+Claro.
+Y por último, preguntar si ya tienen compras de vacuna suficientes para toda la población, ¿el Gobierno de México va a seguir comprando vacunas?
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Creo que el doctor no ha regresado. Justo esa pregunta en particular sí tendría que responderla él, dado que él… O el propio grupo de técnicos asesores de vacunación, sin embargo, si logra reconectarse,yo creo que no dudaremos en que él nos responda; y si no, con mucho gusto el día de mañana les estaremos brindando la información.
+Adelante, por favor.
+---
+PREGUNTA
+Muchas gracias. Buenas noches, doctora Gabriela Nucamendi. Le mandamos un saludo al presidente López Obrador.
+Y quisiera preguntarle: ¿cómo se encuentra en estos momentos el doctor Ruy López Ridaura?, al quien le mandamos un saludo, pero bueno, ya se desconectó. ¿Cómo se encuentra?, ¿y cuándo lo podríamos tener próximamente?
+¿Y también cómo se encuentra el señor Luis Cresencio Sandoval, de la Secretaría de la Defensa Nacional?
+Y el señor Rafael Ojeda, el almirante Rafael Ojeda, también si fue caso, con respecto a la última pregunta que le había hecho hace unos días, si fue recontagio, que parece que ya le dio por segunda vez coronavirus, si fue recontagio o no. ¿Qué nos pueden informar al respecto?
+Y tengo otra segunda pregunta.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Okey, ya está de vuelta el doctor Ruy. Voy a responder, doctor, nada más, por el estado de salud del doctor, derivado que su servidora es quien lo está monitoreando. Como ustedes lo pueden ver, está estable, asintomático. ¿Doctor, escuchó la pregunta?
+---
+RUY LÓPEZ RIDAURA
+Sí, sí.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Ah, muy bien.
+---
+RUY LÓPEZ RIDAURA
+Muchas gracias, muchas gracias. Sí, digo, contesto en las preguntas que escuché. Digo, sí, muchas gracias, estoy bien, totalmente asintomático y ya, tras cumplir el periodo de observación, mañana me incorporo a las actividades rutinarias. Entonces, estamos perfecto, gracias por el interés.
+En cuanto al número de vacunas que se han comprado, sí, también como lo comentó el mismo secretario de Hacienda, el secretario Herrera, sí tenemos una compra que cubre una proporción ya muy grande del total de la población; sin embargo, obviamente todavía no, y no se ha comprado para el 100 por ciento en el sentido de que aún en la población menor de 16 años no hay ninguna vacuna autorizada para su rango de edad.
+El saber que la proveeduría, también como lo comentó también en su momento el canciller, la proveeduría puede modificarse, puede cambiar y podemos tener que en ciertas situaciones, algunas de los contratos que tenemos puedan tener algún imprevisto que no puedan completar las dosis que hemos adquirido o que no puedan completarlo en tiempo y forma.
+Ahora, estamos en una estrategia de cualquier opción y esto es del gobierno federal, cualquier opción que se pueda tener una proveeduría inmediata, eso se irá adquiriendo y se tendrá que ir viendo la forma de cómo responden, cómo vemos la proveeduría en cada una de las casas comerciales con las que tenemos los contratos; y si vemos que se modifican, se disminuye, tendremos que tener más contratos.
+Entonces, esto es una acción dinámica y no podemos decir que ya tenemos todo hasta que realmente las tengamos en nuestro país.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+En relación a sus otras dos preguntas, justo los secretarios generales están bajo seguimiento, no específicamente de nosotros de la Dirección General de Epidemiología, en este caso se encuentran a cargo de las Fuerzas Armadas, serían ellos en un momento dado quienes tendrían que informar tanto del estado de salud y de la identificación si fue o no un recontagio.
+---
+INTERLOCUTOR
+Muchas gracias. Y qué bueno que se encuentra bien el doctor López Ridaura y esperemos que se encuentren bien los secretarios.
+Por ahí nos enteramos de unos caballos que le entregó la Secretaría de la Defensa Nacional a Birmex para el proceso de un medicamento efectivo contra el coronavirus. Quisiera que nos pudieran informar más al respecto de esto. ¿Cuál es el proceso?, ¿cuál es su función?, y si necesitarían más recursos en ese aspecto?, en este caso por ejemplo los caballos, ¿o cuál es el porvenir de esas investigaciones, de este suero?
+Muchas gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy, no sé si logró escuchar.
+---
+RUY LÓPEZ RIDAURA
+Sí, muchas gracias. Sí, esto es un proceso y también aun en fases de investigación, sueros equinos que puedan ayudar también al tratamiento de casos graves y casos moderados. Esto es una línea de investigación y con mucho gusto buscaremos tal vez a algún experto que venga a comentar, porque es una línea de investigación con muy interesante, muy importante y con un gran potencial y podemos invitar a algún experto para que lo hable con mayor detalle.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Sí, claro, adelante, por favor.
+---
+PREGUNTA
+Otra vez voy a insistir con el tema del doctor López Gatell. Hace un momento les pregunté sobre la cuestión, bueno, su situación de salud y después preguntaron precisamente sobre lo que es la hospitalización.
+Se está manejando que estuvo varios días hospitalizado. O sea, lo que queremos como… O sea, realmente que se aclare es si estuvo el subsecretario hospitalizado. O sea, sería lo normal, es una atención a COVID, ¿sí?, pero yo creo que los ciudadanos merecen saber si el subsecretario estuvo hospitalizado, cuántos días estuvo hospitalizado y, bueno, si está ahorita… Ya lo acaban de informar, está estable, pero por favor confírmenos cuántos días estuvo hospitalizado, porque se está manejando que estuvo hospitalizado cuatro días, que realmente tuvo un agravamiento de su estado de salud, precisamente para que no haya este tipo de confusiones o que estemos manejando información inexacta. Por favor confírmenos esta situación. ¿Estuvo o no estuvo hospitalizado?
+¿Cuánto tiempo? Bueno, ya dijeron que sí, pero ¿cuánto tiempo? Por favor.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy, lo he perdido ahora.
+---
+RUY LÓPEZ RIDAURA
+Sí, muchas gracias. Y confirmamos, está hospitalizado, aún sigue hospitalizado y desde el miércoles ha estado hospitalizado. Entonces, esto también lo comenté con el doctor López Gatell, con el que he hablado todos los días. Está muy bien de muy buen ánimo y estamos en espera de que se pueda egresar muy probablemente el día de mañana o el día de pasado mañana; pero está evolucionando muy bien en este protocolo de hospitalización anticipada, de tratamiento temprano y con una gran respuesta.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Adelante, por favor.
+---
+PREGUNTA
+Gracias. El IMSS reportó que 251 residentes podían integrarse al ámbito laboral de la institución. Esto me parece muy buen proyecto, muy buena noticia, 251 residentes. Quisiera saber si este planteamiento va a estar fijo. ¿Son 251 residentes o van a ser más?
+Y pues de ahí vienen varias preguntas: ¿por qué no se había llevado a cabo ese planteamiento anteriormente? Vemos que son residentes también de otros países. ¿No habrá más mexicanos o cuál sería el planteamiento a futuro respecto a esta nueva metodología de que se le dé trabajo en la institución de la salud a estos residentes que ya trabajaron con el COVID durante esta temporada?
+Muchas gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy, no sé si quiera mencionar.
+---
+RUY LÓPEZ RIDAURA
+Sí, muchas gracias. Digo, sí, en efecto, ha habido, digo, tanto durante toda la pandemia en general, en especialidades críticas como intensivistas o neumólogos, digo, las especialidades de mayor especialidad y que eran los coordinadores de los equipos médicos, en este equipo que también ha funcionado muy bien, de un equipo de cascada donde tenemos a un intensivista que coordina grupos grandes para la atención simultánea de pacientes en estado crítico.
+Y desde el principio hubo necesidad de ir adelantando la incorporación aun en un estatus de temporalidad y de eventualidad para que estos residentes de los últimos años se fueran incorporando activamente en este periodo de la pandemia.
+En efecto, digo, además se está haciendo el esfuerzo para su incorporación temprana y el IMSS está haciendo un gran esfuerzo, hizo un llamado también para incrementar su número de plazas y poder incorporar a un grupo importante de personal de salud en el IMSS que tiene contratos todavía eventuales, pero durante mucho tiempo que se han ido incorporando, y también se dio la oportunidad de incorporar residentes en este grupo de trabajo para empezar en su trayectoria ya como profesionales con base, y este es un proceso que va a tomar tiempo.
+Pero con mucho gusto específicamente el número y el cómo se realizó, pues le pediremos también al maestro Zoé Robledo que lo pueda comentar posiblemente en el Pulso de la Salud.
+Gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Esto es particularmente del IMSS, nada más que no hay que olvidar que -ayer lo comentaba el doctor Zaragoza- año con año egresan un número importante de médicos residentes, obviamente convirtiéndose ya en especialistas o subespecialistas, y se reincorporan a la plantilla laboral pues de todo el sector, tanto en el ámbito público como privado.
+Pues sí vale la pena nuevamente hacer un reconocimiento, dado que esto se ha implementado a lo largo de muchos años y ser una fortaleza muy importante para la atención no solo de COVID, sino de todos los padecimientos que se presentan día con día tanto en unidades de primer nivel, hay que destacar que unidades en zona rural, porque ellos también acuden a estas áreas a realizar su servicio social y obviamente a las unidades de alta especialidad, institutos nacionales.
+Y bueno, nada más resaltar. Si tienen alguna otra duda. Justo quería comentar al compañero de Tlaxcala que, ya verificando con el equipo técnico, el corte de información que tenemos actualmente en nuestro de sistema de vigilancia es a las 9:00 de la mañana, entonces con esto inclusive la variación podría ser de los datos aún mayor, si es que en la entidad federativa hicieran un corte vespertino.
+Pero adelante con su pregunta.
+---
+PREGUNTA
+Gracias. Digo, la variación es de más de mil personas, entonces sí nos queda un poquito de dudas, pero bueno.
+Otra pregunta. El día de mañana las escuelas particulares volverán a actividades presenciales. Saber si eso está ya autorizado por parte del gobierno federal.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Doctor Ruy López Ridaura, ¿podría apoyarnos con esta pregunta, por favor?
+---
+RUY LÓPEZ RIDAURA
+Sí, gracias. No, desde el punto de vista de la Secretaría de Salud seguimos con la recomendación de solamente en el caso de las entidades en color verde puedan ir abriendo en pleno las actividades educativas; pero, como también yo mismo comenté la última vez que estuve en esta conferencia vespertina, estamos en una mesa de trabajo activa para ver la oportunidad de poder tener protocolos que se puedan seguir con mayor exactitud en las escuelas y buscar la opción de tener una apertura aún más temprana de lo que definimos en un inicio, que sigue siendo vigente, que es: desde la Secretaría de Salud la recomendación es que se inicie cuando las entidades entren en el semáforo verde, pero esto puede cambiar, estamos en discusión con los grupos técnicos y por lo tanto… Pero no para empezando el 1º de marzo y ya será también tarea de la Secretaría de Educación Pública el poder trasmitir esto a todo el sector, tanto en el ámbito privado como en el ámbito público.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Adelante, por favor.
+---
+PREGUNTA
+Gracias. Solamente un complemento a la pregunta que hice de los médicos residentes. Dado que no puedo accesartodavía a las conferencias matutinas, quisiera establecer algunas preguntas si las pudieran resolver para cuando estén en el Pulso de la Salud.
+Me llegaron las preguntas, por ejemplo, ¿cuánto serían en total -que ya lo había preguntado- cuánto se beneficiaría el sistema de salud con este proyecto? ¿qué alcance tendría? Si aceptarían más médicos residentes o no involucrados a la pandemia, ¿en dónde estaban esos médicos residentes?, ¿en dónde trabajaban?, los hospitales específicos o los diferentes estados, para saber más o menos cuántos salieron de cada estado, ¿qué sueldos y puestos tendrían? y si sería un planteamiento recurrente ya fijo, ya para futuro.
+Esas serían las preguntas. Muchas gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Sí.
+---
+RUY LÓPEZ RIDAURA
+Muchísimas gracias. Son importantes y sí le pediría si nos las hacen llegar para poderlo conversar. Creo que esto es una estrategia que también, como se ha dicho también desde un inicio antes de la pandemia, pero uno de los ejes importantes en la transformación, en el sector salud es la necesidad de cubrir esta gran brecha de personal de salud que tenemos de más de 200 mil.
+Y tanto el Insabi está haciendo un esfuerzo muy importante como también todas las instituciones federales, incluido el IMSS, y por eso este esfuerzo reciente del IMSS creo que se enmarca en esta gran tarea, en esta gran necesidad, en esta gran urgencia.
+Y con mucho gusto podemos comunicarla, las preguntas específicas para que se informe ya sea en el Pulso de la Salud o también podemos invitar a algún colega del IMSS a que en la vespertina pueda presentarlo.
+Gracias.
+---
+GABRIELA DEL CARMEN NUCAMENDI CERVANTES
+Pues simplemente para ahondar en una de las respuestas que ya el doctor Ruy López Ridaura nos apoyó amablemente en relación a las fortalezas o a este balance que se hace, como bien decía, a lo largo de la semana se van a seguir presentando como estas aristas positivas y negativas.
+Pero algo que si me gustaría resaltar desde la perspectiva de la Dirección General de Epidemiología es que para la atención de esta pandemia en particular, más allá de las dimensiones o diferentes perspectivas que se tenga de la opinión pública de la misma, sí podemos decirle que una de las principales fortalezas fue el trabajo intersectorial; es decir, no sólo trabajo, ni ha trabajado sola la Secretaría de Salud, ha trabajado hombro a hombro con las diferentes instituciones que ustedes ya conocen, con todo el sector, con el ámbito privado, con los investigadores, con la Red Nacional de Laboratorios de Salud Pública, con los epidemiólogos de todas las entidades federativas y los servicios estatales de salud.
+¿Y por qué no decirlo? El Sistema Nacional de Salud mexicano es realmente fuerte, tan fuerte que tiene a todo el personal de salud de primera línea trabajando día con día de lunes a domingo, 24 horas al día, con todos los turnos abiertos. Y a pesar del incremento de casos en las diferentes oleadas que hemos tenido, pues creo que se ha demostrado que el nivel operativo es fuerte y que el nivel gerencial también lo es, dado que día con día pues presenta los datos en esta conferencia, publicamos la información.
+Este año en particular México se vio galardonado también porque presentó datos transparentes de la pandemia de los casos, tanto los casos y las defunciones son completamente públicos, y creo es digno de reconocerse porque detrás de todo ese trabajo hay una cantidad muy importante de personas que día con día trabajan 24/7 los 365 día del año.
+Si no hay más preguntas pues agradecemos a todos los presentes. Gracias, doctor Ruy López Ridaura, por habernos acompañado vía remota, y gracias a todos los que se encuentran presentes y están observando esta conferencia. Que tengan muy buenas noches de domingo.
+---
+RUY LÓPEZ RIDAURA
+Muchas gracias, buen inicio de semana. Gracias, Gaby.

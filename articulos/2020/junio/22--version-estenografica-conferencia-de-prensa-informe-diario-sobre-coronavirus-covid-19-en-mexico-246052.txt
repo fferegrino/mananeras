@@ -3,10 +3,12 @@ Presidencia de la República
 22 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas tardes y buen inicio de semana. Son las 19:00 horas del lunes 22 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Vamos a tener el informe técnico, la información semanal de los lunes, que es el detalle sobre la situación de comorbilidades de las personas y la distribución demográfica, las características demográficas de las poblaciones afectas y luego abrimos a preguntas y respuestas.
 Le pido al doctor Alomía si es tan amable.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Bienvenidos a la conferencia vespertina 115, ya en el día 22 de la Nueva Normalidad; por lo mismo, es importante siempre todos los días repasar el semáforo y las actividades que en su momento se pueden llevar a cabo.
 En la siguiente diapositiva vemos el semáforo vigente para esta semana. En esta semana tenemos 17 entidades federativas en nivel de riesgo alto, que es el nivel o el color naranja; tenemos 15 en nivel de riesgo máximo, que es el color rojo. Aquí está el mapa que las representa.
@@ -63,15 +65,18 @@ La media que se ha tenido hasta el momento… No la media, perdón, sería el po
 Sería la actualización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias doctor Alomía.
 Abrimos a preguntas y respuestas. Juan Hernández, Grupo Cantón; usted, Nuri, colega.
 ---
 PREGUNTA
+Gracias, buenas noches. Juan Hernández del periódico Basta y Grupo Cantón.
 Serían dos preguntas que van relacionadas precisamente a esta situación que viene circulando en redes. La primera -bueno, yo creo que serían las dos juntas- la primera es de Eric Feigl-Ding, de Twitter, esta persona dice que es epidemiólogo de la Universidad de Harvard y dice que está llorando por México. Él dice que más del 50 por ciento en el porcentaje de positividad de los exámenes que se han hecho a mexicanos han sido positivos y que en este caso pues señala que no se puede estar confiando en lo que se está aplicando aquí en México.
 Pero también circula también en redes un informe de Mexicanos Contra la Corrupción y la Impunidad en donde señala que en México la tasa de contagio por el virus, el coronavirus, es mayor que China y es el doble que en Italia. Entonces, que no están informando con claridad lo que está ocurriendo en el sector salud.
 ¿Cuál sería la respuesta precisamente a estas dos situaciones que ahorita realmente han cimbrado las redes y que han estado ahorita en boga y la han reproducido en varios noticieros?
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Este doctor, Eric Feigl-Ding, no lo conozco personalmente, pero sí a través de amigos o excompañeros del doctorado, él se graduó en la misma universidad donde yo hice el doctorado, en Johns Hopkins, y luego se fue a estudiar a la Universidad de Harvard.
 Su campo del conocimiento es la epidemiología nutricional. Él, de hecho, es una persona, pienso, muy destacada en el campo de la epidemiología nutricional y a una muy joven edad él obtuvo el doctorado, tanto en epidemiología como en nutrición. Insisto, no lo conozco personalmente, pero tengo muy buenas referencias de él.
 Su relación con COVID empezó a ser notoria porque desde que empezó la epidemia él fue muy expresivo. Es un científico joven y me imagino con mucha atención a los aspectos humanos, el sufrimiento humano, lo cual me parece que es muy deseable y fue muy expresivo en alertar sobre el COVID casi de manera angustiosa.
 Le valió algunas críticas por parte de algunos colegas, tanto de su universidad como de otras en el campo de la epidemiología, porque él está dedicado, su entrenamiento más riguroso está en la nutrición y de repente saltaba un poco de tema, pero, en fin, yo creo que es válida su actuación.
@@ -91,17 +96,27 @@ Ahora, a propósito de pruebas, comentábamos que en un foro reciente que organi
 Ojalá que estas personas que usted relata nos estén escuchando para que si tienen unos minutos y no tienen otras ocupaciones pudieran ver este video y se enteren de cuál es la posición de la OMS.
 Este, exactamente. Por favor.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Esto lo hemos dicho una, dos y tres, y 300 veces, pero lo volvemos a decir ante la inquietud o la perplejidad de estas personas que padecen preocupadas porque se hagan más pruebas y que seguimos esperando a que tengan una conexión con un argumento técnico sobre cuál es su propósito.
+JEAN-MARC GABASTOU
+Nuestra organización no está a favor o no recomienda pruebas masivas en un país tan inmenso, tan complejo, tan diverso como México. No estamos en una isla del Caribe, en el cual eventualmente podemos tener acceso a toda la población, pero sí estamos totalmente conformes con las iniciativas ad hoc en estos recintos, en estos lugares de riesgo, como la Ciudad de México lo está planteando.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Eso justamente. Entonces, lo que dice con este intenso acento francés que tiene el doctor Gabastou es: ‘La organización nuestra -se refiere a la Organización Mundial de la Salud- no es está recomendando, no está en favor de recomendar la realización masiva de pruebas en un país complejo como México’.
+Esto lo hemos dicho una, dos y tres, y 300 veces, pero lo volvemos a decir ante la inquietud o la perplejidad de estas personas que padecen preocupadas porque se hagan más pruebas y que seguimos esperando a que tengan una conexión con un argumento técnico sobre cuál es su propósito.
+---
+INTERLOCUTOR
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Pues los vamos a invitar a que vengan los martes, ¿cuándo presentamos?, todos los martes presentamos desde hace varias semanas, ustedes lo saben, el informe, hoy es lunes, hoy lamento no traerles información a este grupo empresarial, pero mañana es martes, mañana lo traeremos, todos los martes lo presentamos.
 Este es un foro abierto, ojalá tengan tiempo o tengan un poquito de interés en la pandemia de COVID y le echen un ojito a la información pública que ponemos. También están las bases de datos que ponemos desde el 24 de abril, son datos abiertos, nunca se había visto en México que hubiera datos abiertos. Gracias, por favor.
 ---
 PREGUNTA
+Buenas noches, doctor. Juan Carlos Machorro, reportero.
 Doctor, usted mencionó hace unos días que es muy significativa la falta de infraestructura hospitalaria en destinos turísticos. ¿Ha dialogado con gobernadores de sitios y entidades con vocación turística para remediar esta situación? tal vez no sólo por la cuestión del COVID, sino pensando que esa infraestructura se quede ahí por años y atienda estos sitios que se han desbordado: Acapulco, Cancún, Los Cabos va para allá donde mucha población está llegando.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Por supuesto, gracias por la pregunta.
 Por cierto, regresando a la anterior pregunta, a veces pensamos que estas inquietudes que expresa alguien, este grupo empresarial de Mexicanos, que se dedica a promover varias causas, pareciera tan repetitiva que llama la atención cómo un asunto que quisiera orientar la agenda de conversación fuera del interés público hacia otros temas muy puntuales.
 Lo digo porque me cuesta trabajo visualizar, asumo que son gente inteligente por supuesto, que repitan y repitan y repitan la misma cosa, cuando México está en inmerso está en una epidemia, igual que el resto del mundo en una pandemia, y los temas centrales que nos ocupan son muy, muy trascendente.
 Entonces, está bien, quien lo pregunte pues se le vuelve a contestar, pero no perdamos de vista los mensajes fundamentales, estamos en medio de una pandemia, la epidemia sigue en México, hay elementos de prevención.
@@ -119,12 +134,14 @@ La respuesta ha sido muy positiva, yo creo que los tres gobernadores que usted m
 Muchas gracias. Nuri y el colega que está allá atrás, y usted, y usted también.
 ---
 PREGUNTA
+Hola a todos y a todas. Soy Nuri Fernández, de La Caracola.
 Quiero compartir una preocupación que quizá se pueda convertir en una propuesta, que creo que como especie en todo el mundo estamos desconcertados, y desconcertadas, estamos en un proceso de enfrentar una situación nueva, para que no hay una solución clara, y por lo tanto hay un proceso global de aprendizaje y el aprendizaje se da a partir de experiencias exitosas, no son tantas, pero sí hay experiencias exitosas.
 Y yo me quiero referir al tema de las brigadas de atención comunitaria. Creo que esto se ha implementado en algunos lugares del Caribe, como Venezuela y Cuba, no tengo en realidad certeza de estos dos datos, pero el otro día que oía al gobernador de Tlaxcala él habló de las Brigadas Cuídate, que visitan las comunidades y hablan con las personas que tienen comorbilidades y tratan de hacer un censo de este tipo de personas en la comunidad y de darles una instrucción determinada a las personas que son más sensibles y grupo de riesgo.
 Entonces, me parece muy interesante, porque además en estas brigadas de atención comunitaria podrían participar no solamente profesionales de la salud, sino gente que se capacite para hacer la tarea y a lo mejor va a ser necesario hacer un esfuerzo social más grande para llegar a estos lugares y darle una atención a la gente en su propio lugar, en su propia casa, sobre todo la gente que es grupo de riesgo, que no se puede muchas veces movilizar.
 Entonces, esa es como la pregunta y la inquietud.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Nuria Fernández, de La Caracola.
 Efectivamente, hay modelos exitosos de mitigación del riesgo que se basan en la acción comunitaria, el acercamiento a las comunidades y que desde la perspectiva de salud son exactamente compatibles con un modelo general que se llama atención primaria de la salud.
 Este modelo, para quien no esté tan familiarizado con él, lo planteó la Organización Mundial de la Salud en una conferencia hace 40 años como el modelo a seguir por parte de los sistemas de salud del mundo, hace 40 años, 41 de hecho ya.
 Y en este modelo la visión es una visión eminentemente comunitaria que implica que la mayoría de los problemas de salud se pueden resolver localmente y que participan efectivamente actores y actrices sociales que no necesariamente están medicalizadas.
@@ -137,9 +154,11 @@ El martes pasado estuve en Tlaxcala, platiqué con el gobernador y precisamente 
 Colega, está aquí el compañero, usted y usted.
 ---
 PREGUNTA
+Buenas noches, doctor Gatell.
 La pregunta es la siguiente: ¿la Secretaría de Salud federal tiene desagregados los datos de mortalidad por COVID-19 al nivel de colonia y manzana en las zonas urbanas? De ser así, ¿son datos al público y a través de qué medio?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. La desagregación efectivamente es fina, pero es a nivel municipal y esto tiene una razón importante, es una decisión proteger la confidencialidad de las personas.
 En las zonas urbanas la agregación o la densidad poblacional es suficientemente grande como para que se convierta casi imposible el identificar a una persona en concreto si su colonia de repente tiene un primer caso o un segundo o un tercer caso, pero en las comunidades pequeñas, tanto suburbanas como rurales, si pusiéramos un nivel de agregación tan fino fácilmente se puede saber que cuando aparece un caso enseguida sabe quién es, y eso podría vulnerar no sólo el derecho de confidencialidad de las personas y de privacidad, sino la propia seguridad de las personas.
 Al inicio de la epidemia vivimos escenas muy lamentables de acoso hacia las personas enfermas, nos pasó con los primeros siete casos que estuvieron en cuarentena en un hotel y otros lugares, y no queremos que eso pase de ninguna manera.
 Ahora, todos los datos son públicos. Insisto, nunca en la historia de la salud pública de México se habían puesto todos los datos públicos para que los analice quien quiera, que se los manden a un epidemiólogo en Harvard, si lo desean, que lo analice la persona que quiera, y si nos traen aquí una perspectiva que contribuye a entender mejor la epidemia, gracias, la verdad es que va a hacer muy útil.
@@ -151,6 +170,7 @@ Muchas gracias.
 Usted, por favor, y terminamos con usted.
 ---
 PREGUNTA
+Señor subsecretario, Raymundo González Cervantes, director de la plataforma Encuentro Virtual Multimedios y corresponsal de La Felina Radio TV y Pinkus Visión, de Los Ángeles, California.
 Señor subsecretario, en algunas ciudades que han sido muy golpeadas por el COVID, como Nueva York los hipódromos ya comenzaron a trabajar a puerta cerrada, eso sí. ¿No podría ocurrir lo mismo en el Hipódromo de Las Américas?
 Y se lo pregunto de este modo porque de este deporte espectáculo dependen más de 15 mil personas, disciplina que por el COVID las ha puesto en una situación crítica.
 Hoy mismo por la mañana platicábamos con jockeys, con cuadrilleros y otras personas sobre la crítica situación que están padeciendo, además de que el mantenimiento de los caballos de carreras y de su acondicionamiento que requieren para estar en forma, lo mismo que el de los jockeys, es muy caro.
@@ -158,6 +178,7 @@ Entonces, la pregunta se la repito ¿existe esta posibilidad de que se permita q
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. La pregunta es muy clara, la respuesta debe serlo. En principio sí es análogo a los estadios de fútbol o de cualquier otro deporte masivo que tiene un gran público.
 No nos preocupa tanto lo que ocurre en el caso del fútbol en la cancha o aquí en la pista, no me aventuro a decir términos técnicos porque desconozco completamente el mundo de los hipódromos, las cuadras o la pista, no nos preocupa tanto, obviamente pueden existir contagios también entre la población que asiste a los caballos y los jinetes y demás, o las jinetes, no sé si haya jinetas mujeres.
 Pero, definitivamente, el público sí puede ser un mecanismo de congregación masiva y por lo tanto de contagios masivos.
 En la medida que eso no ocurra, el público, y que se preserve solamente la parte de abajo podrían operar; sin embargo, hay que analizar cuidadosamente cuántas personas están en esa operación.
@@ -167,6 +188,7 @@ Muchas gracias por su pregunta, don Raymundo.
 Terminemos con usted, última pregunta.
 ---
 PREGUNTA
+Sí, gracias, doctor López-Gatell y gracias al doctor Alomía.
 En particular -Demian Duarte, Pasión por los Negocios, Política y Rock and Roll Radio y Lobos FM de Sonora- en particular mi inquietud es una inquietud que se le ha manifestado en varias ocasiones; sin embargo, en mi estado tenemos una preocupación particular sobre el tema, son las discrepancias tan fuertes que hay en la información.
 Yo me metí a hacer un análisis detallado de la información que nos presenta allá el secretario de Salud Enrique Clausen y la información que ustedes nos presentan de manera cotidiana.
 Encontramos discrepancias tan fuertes de que representan alrededor del 34 por ciento de los casos no solamente de contagios, sino también de casos de hospitalización y de personas que están intubadas.
@@ -178,6 +200,7 @@ Yo sé que el doctor Alomía conoce muy bien el sistema de salud de mi estado, �
 Tengo otro tema que tiene que ver con esto de la activación física responsable. Yo voy a estar aquí hasta el miércoles, ojalá tenga la oportunidad de platicarlo el tema, porque me interesa mucho su opinión, doctor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Como no, muchas gracias. De manera genérica y ahorita quizá el doctor Alomía nos pueda dar más detalles técnicos, de manera general, efectivamente estas discrepancias las conocemos y tal como lo dijimos aquí, íbamos a presentar la evidencia y la estamos presentando ahora, habrán notado que agregamos a la gráfica de casos confirmados la columna amarilla de los casos que aún están sospechosos.
 En cualquier sistema de vigilancia epidemiológica del mundo no es inusual que exista un retraso de algunos días en el proceso de notificación hasta la oficina central, aun sistemas de vigilancia epidemiológica muy tecnificados, que tienen terminales de cómputo donde se carga en plataforma, igual que lo tenemos en México.
 Pero desde luego entre la ocurrencia de un evento, por ejemplo, el reconocimiento de un caso, o una lamentable defunción, y que el dato finalmente quede integrado en una plataforma, ocurren múltiples eventos o múltiples transacciones que llevan sus propios tiempos. Esta tarde me hacían una entrevista en radio y comentaba precisamente esto.
 Si tenemos un escenario en donde tenemos 3:00 de la mañana, se está en la guardia, hay dos médicos residentes, un adscrito, hay nueve pacientes, hay que intubar a tres más, 15 ya están previamente intubados, etcétera, y fallece una persona, es natural, y además yo diría completamente adecuado, que el personal de salud se enfoque a proteger y salvar la vida de quienes están presentes aun cuando pudiera ser indeseable que no se reporte en tiempo real un evento como este.
@@ -188,6 +211,10 @@ Entonces, esto es parte de la explicación y desde luego lo que hay que hacer es
 La red de hospitalización, esa sí debe ser en tiempo real, los cortes son cada 24 horas y el doctor Alomía nos puede comentar qué se debe hacer para que se informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+De hecho, de seguro no está muy alejada de la situación real, porque si revisamos los gráficos que acabamos de presentar de disponibilidad y sobre todo de ocupación hospitalaria, Sonora en el caso de camas generales está en el cuarto lugar, y en el caso de camas críticas está en el tercero; es decir, es un estado que ha diferencia… sin embargo, hay que recordar que este porcentaje es para todo el estado.
 Entonces, mientras a lo mejor en Navojoa, en Nogales o en San Luis puede haber ya disminuido la ocupación o hay, y esto aporta este porcentaje, a lo mejor Hermosillo, Obregón u otras localidades el porcentaje es mayor y está realmente más cerca de la saturación.
 El dato se tiene, lógicamente no lo podemos desagregar a ese nivel en una presentación nacional, pero sobre todo es de importancia para la operación local ver a nivel de su localidad, o sea, ya de la ciudad, cómo se encuentra este porcentaje.
 Entonces, habría que ver específicamente cuando el secretario de Salud se refiere a que pueden ya estar a un nivel muy alto de saturación, se está refiriendo precisamente a algunas localidades del estado que efectivamente sí pueden estarlo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Gracias por su pregunta, vemos la otra en el curso de la semana. Son las 20:02, aquí terminamos. Muchas gracias.

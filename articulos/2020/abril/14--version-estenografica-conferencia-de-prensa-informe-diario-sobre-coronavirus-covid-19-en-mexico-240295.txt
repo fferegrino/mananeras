@@ -3,10 +3,12 @@ Presidencia de la República
 14 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del martes 14 de abril de 2020, estamos en la Ciudad de México, este recinto es el Palacio Nacional y vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el virus SARS CoV2.
 Hoy nos vamos a concentrar en el informe técnico y abriremos después a preguntas y respuestas de diversos temas que interesen.
 Le pido al doctor Alomía si nos comparte. Los asistentes son conocidos: el doctor José Luis Alomía y el doctor Víctor Hugo Borja Aburto.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas tardes todas y todos.
 Iniciamos con la presentación del panorama internacional y el panorama nacional para el día de hoy. Nuevamente volvemos a observar una disminución en la proporción de casos que se han confirmado en los últimos 14 días a nivel mundial, ahora ya bajó de 69 a 59.3 por ciento, esto lógicamente está dado también, ya lo comentábamos, a expensas de la disminución de esta proporción y cantidad de casos en el continente europeo.
 Una tasa de letalidad global que se ha mantenido estable en los últimos tres, cuatro días, de 6.3.
 En la siguiente diapositiva podemos observar mejor cómo precisamente el continente europeo continúa disminuyendo, la cantidad de casos en los últimos 14 días, y cómo también la región de las Américas continúa su incremento, ahora ya de un 44 por ciento de total de casos confirmados en los 14 días.
@@ -47,24 +49,32 @@ Pero muy importante las barras naranjas de abajo, que nos muestran un poco la te
 Sería la presentación para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía.
 Son las 19:15, vamos hoy a abrir a preguntas. Ustedes dos, ustedes dos y nos seguimos por acá, usted estaba pendiente.
 Empezamos con usted, vamos a empezar con la compañera, que fue la última que quedó ayer.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor, tengo dos preguntas, una para el doctor Alomía. Doctor Alomía, en el programa de radio de hace dos semanas entrevisté a un experto y le preguntaba si la velocidad de la dispersión del virus es respondedora a que algunas personas no tomen en serio estas medidas de sana distancia o es el comportamiento natural de una pandemia como esta.
 Una segunda pregunta para el doctor Gatell. Doctor, ¿usted qué cree que ocurra con los estudios que ya se tienen al momento?, ¿primero una vacuna o primero un tratamiento?
 Gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Definitivamente sí, y es muy sencillo de alguna manera explicarlo. La enfermedad se transmite, sabemos que es una enfermedad que se transmite de persona a persona. Una persona que está enferma que tose y estornuda en estas gotas que salen en la tos y en los estornudos está el virus que en su momento puede contagiar.
 Si esta persona que tose o estornuda encuentra a otra persona que en este caso es susceptible para la enfermedad, que para fines del país somos todos los que no hemos enfermado, porque al ser una enfermedad nueva nadie tiene anticuerpos que lo protejan, ni existe, por lo tanto lo sabemos, una vacuna para poder… Todos los que no hemos enfermado de COVID-19 somos susceptibles.
 Entonces, si una persona tose y estornuda y encuentra a otras personas susceptibles, está lógicamente el contagio directo. Si las medidas de sana distancia no se dan, si las personas siguen conglomerándose en actividades sociales, al aire libre o, más aún, en espacios cerrados, donde entonces la transmisión todavía se da con mayor eficiencia, entonces claro que vamos a tener una mayor tasa de transmisión y vamos a tener una mayor cantidad de personas infectadas y que muchas de ellas van a enfermar, muchas de ellas van a ser casos graves y pueden en su momento también fallecer.
 Por eso la importancia de acatar las medidas de sana distancia del autorresguardo domiciliario que estamos teniendo independientemente de tener o no síntomas, porque esto es lo que produce es precisamente un distanciamiento entre las personas que evita que esa tasa de infección o que esa probabilidad de contagiarse esté presente.
 ---
+INTERLOCUTORA
+¿Y por eso la incidencia acumulada?
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+No, la incidencia acumulada, precisamente como su nombre lo dice, es en una base de población. Por ejemplo, en este caso, 100 mil habitantes, ¿cuántas personas por cada 100 mil habitantes se están enfermando?
 Si la tasa de incidencia acumulada empieza a tener un crecimiento rápido, quiere decir que muchas más personas se están contagiando y, por lo tanto, que las medidas no están siendo efectivas.
 Mientas la tasa de incidencia acumulada se mantiene estable o no tiene un crecimiento importante en el día a día o en la semana con semana, podría revelar, sería directamente proporcional al hecho de que menos personas están infectando, menos personas están expresando la enfermedad y eso sería un indicador positivo.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Y respecto a su segunda pregunta, en general el desarrollo de nuevos productos farmacéuticos, ya sea vacunas o sea medicamentos, requiere un tiempo de desarrollo, porque existen estándares técnicos, científicos y que se relacionan también con la bioseguridad y la ética de su uso en sujetos humanos.
 Y hay un ciclo muy conocido, formalmente establecido, en donde los principios activos de un medicamento o de una vacuna tienen que ser probados primero en condiciones experimentales, literalmente con condiciones no vivas, esto se llama de estudios in vitro; después, se puede hacer experimentación con animales, generalmente con especies menores, todo esto sigue siendo el capítulo de la experimentación preclínica; después, se pueden -cuando es el caso necesario- usar otras especies animales mayores; y luego se empieza en la fase de investigación clínica en donde se empieza con un número muy reducido de personas que se evalúa la seguridad del producto, después con un número un poquito más grande ya de quizás centenas, porque casos son decenas y cuando centenas se avalúa la eficacia y se sigue estudiando la seguridad.
 Después vienen ya los ensayos clínicos controlados. Esta es la fase 1, 2 y ya estaríamos en la 3, en donde hay miles o decenas de miles de personas; se sigue evaluando seguridad, pero también eficacia en condiciones ya un poco más cercanas a las reales
 Y después viene la fase 4, que es posterior a un registro sanitario en millones o centenas de miles de personas. Se evalúa el uso en situaciones reales y ahí lo que interesa es detectar, por ejemplo, reacciones adversas muy infrecuentes, porque se necesita mucha población para detectarlas.
@@ -75,6 +85,7 @@ Esto ocurriría si se tratara de medicamentos nuevos o en el caso de una vacuna,
 Vamos a darle la palabra a los dos compañeros acá, luego a las dos compañeras y nos seguimos.
 ---
 PREGUNTA
+Buenas tardes. Arturo Contreras, de Pie de Página.
 En varios hospitales hay varios doctores y personal médico que está contratado bajo un régimen de suplencias. Estas suplencias no ganan el 50 por ciento que las bases reales, no tienen servicio médico ni prestaciones y algunos de ellos están muy preocupados porque así van a ser, como dijeron ayer, la línea frontal que va a ser frente a la epidemia.
 ¿Qué hacer con ellos?, ¿cómo darles atención?, si se les va a mejorar esto.
 Ayer se anunciaba un bono de 20 por ciento a personal médico, ¿después qué pasa con este otro personal médico que queda abandonado?
@@ -83,12 +94,21 @@ Entonces, el Centro Diocesano para los Derechos Humanos Fray Juan de Larios emit
 ¿Cómo hacer para que estos tengan como una identificación propia?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por las preguntas.
 Le voy a pedir al doctor Borja si contesta la primera sobre suplencias, dado que el Seguro Social es quien ya anunció el tema del bono.
 ---
 VÍCTOR HUGO BORJA ABURTO, DIRECTOR DE PRESTACIONES MÉDICAS DEL IMSS
+En el caso del IMSS, todos los médicos, enfermeras y demás categorías que son contratados para estos siguientes tres meses de la epidemia, en los picos más altos, y tendremos una extensión hasta seis meses de contratación, van a ser contratados en algo que llamamos nosotros por obra determinada, esto les da las prestaciones de la seguridad social, les da el servicio médico y demás.
 No tenemos suplencias que lleven a menos del… como usted lo menciona, sin seguridad social y sin servicio médico.
 ---
+INTERLOCUTOR
+(inaudible)
+---
+VÍCTOR HUGO BORJA ABURTO
+Eso no lo podría contestar.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Exacto, aquí esto es lo que acaba de describir el doctor Borja, se refiere a las condiciones de contratación del Seguro Social.
 Y en los sistemas estatales de salud en su conjunto existe cerca de 98 mil miembros del personal clínico, no solamente médicas y médicos, también enfermeras y enfermeros, químicas, químicos, sicólogas, sicólogos, etcétera que están contratadas y contratados en estas condiciones que se les llama precarias; y son precarias precisamente por lo que usted observa, que no es una base laboral, no tiene las prestaciones de ley en toda su extensión, tienen a veces algunas y en términos salariales también son irregulares.
 Esto ya lo habíamos detectado durante 2019, lo comentamos precisamente como uno de los elementos que nos llevó al surgimiento del Instituto de Salud para el Bienestar y precisamente por eso una de las cuatro encomiendas al Insabi, al Instituto de Salud para el Bienestar, es la regularización de todas las contrataciones de este personal. Esto fue antes de COVID.
 Este es un plan que se empezó a trabajar desde el 1º de enero y el plan sigue vigente, no anticipamos que con motivo de COVID este proceso necesariamente se pueda acelerar, pero definitivamente estamos comprometidos con lograrlo.
@@ -100,6 +120,7 @@ Qué bueno que hace la pregunta para quien tenga esta inquietud. Se va a elimina
 Entiendo que hay un acuerdo de dos preguntas por reportero, tenemos mañana otra oportunidad. Usted y ustedes dos, y nos seguimos por allá.
 ---
 PREGUNTA
+Doctor, buenas tardes. David Pérez de Tejada, de Informe 24, de Audiorama.
 Usted nos ha hablado de que la economía es importante en esta estrategia que está manejando el sector salud; sin embargo, se le ha pedido parar a una de las industrias tal vez más importantes del país, que es la cervecera.
 Usted ya nos había comentado algo al respecto, sobre que no era catalogado como esencial; sin embargo, solamente dos países en el mundo han parado la industria cervecera. Aquí se están poniendo en riesgo 800 mil tienditas donde la cerveza forma casi el 40 por ciento de sus ingresos, también el impacto es en cuestión de agricultores, que son casi cerca de cinco mil que se están viendo afectados, obviamente pequeños empresarios, como las tienditas.
 Más allá de que, entiendo que no sea un artículo de primera necesidad, sigue siendo un principal producto agroindustrial, es una exportación del 25 por ciento total del país y los impuestos que genera representan el cuatro por ciento de los ingresos presupuestarios del gobierno.
@@ -109,6 +130,7 @@ También considerando que no es esencial, pero sí tiene un peso en la economía
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por su pregunta. No dudo que haya personas que son propietarias o trabajadoras de los distintos expendios donde se comercializa cerveza que tengan la inquietud, pero conozco de manera directa que los propios empresarios, los grandes capitalistas, dueños de la industria cervecera en el país fueron los primeros en mostrar esta inquietud con básicamente todos los argumentos que usted ha señalado caso de manera literal.
 A las pocas horas de que salió publicado el acuerdo en donde se establecen las disposiciones, las medidas extraordinarias, la industria cervecera, no los pequeños propietarios de establecimientos, sino los propietarios grandes de los establecimientos productores de cerveza, fueron los primeros que se acercaron a comentar los mismos argumentos.
 La lógica o la mecánica, el mecanismo por el que operan este tipo de medidas sanitarias cuyo propósito -y lo hemos explicado varias veces- es disminuir el número de contagios con la finalidad de que cuando llegue la fase 3 que está muy, muy próxima no tengamos una saturación de los hospitales, no porque se aun inconveniente administrativo, sino porque el riesgo de la vida de las personas está precisamente dependiente de eso, de que no se saturen los hospitales, haya suficientes camas, haya suficientes ventiladores, haya suficiente personal.
 Todas las actividades económicas lícitas y legales tienen un papel que jugar en la sociedad.
@@ -122,11 +144,13 @@ La medida finalmente es temporal, está claramente estipulada en el acuerdo publ
 Vámonos por acá. Ustedes dos y luego allá usted, usted y usted, y nos seguimos por acá.
 ---
 PREGUNTA
+Hola. Ernestina Álvarez, de MVS.
 Yo quisiera preguntarle. Hoy se tuvo una reunión virtual con los secretarios estatales. ¿Cuáles son los acuerdos a los que llegaron con el tema de la reconversión y sobre todo con este monitoreo en el uso de los servicios médicos toda vez que muchas entidades todavía están reportando el personal médico falta de insumos?
 Y si existe una parte o un compromiso o algún punto que ya han tocado, porque usted señalaba que solamente la zona metropolitana ha cumplido con el 70 por ciento de disminución de movilidad, pero esto no ocurre en los otros estados. Eso es por un lado.
 Y por el otro lado, saber si existe la posibilidad en esta transición a fase 3, de que no todo el país entre al mismo tiempo a la fase 3, sino la zona metropolitana, Ciudad de México, Estado de México, sean los primeros que entren en esta fase.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por su pregunta.
 Efectivamente, hoy entre las 10:00 y las 12:30 tuvimos esta reunión por vía virtual con los secretarios y secretarias de Salud de los estados, y tuve la encomienda de representar al doctor Alcocer en esta reunión. Él estaba reunido con el presidente precisamente para atender el mismo tema, pero en otros campos.
 Y la reunión fue muy productiva, como suele ser. Identificamos una actitud sumamente positiva, siempre muy profesional de todas y todos los secretarios de Salud, una gran dedicación a la tarea. Han identificado claramente cuáles son sus retos, sus necesidades, y las manifestaron hacia la colectividad de secretarios y secretarias estatales, y desde luego a los funcionarios federales que estábamos en la reunión.
 Quedan pendientes todavía de completar algunos procesos de reconversión en algunas entidades federativas. Estas dependen, entre otras cosas, de que empiecen a lograr liberar camas disponibles que están en este momento ocupadas con personas hospitalizadas, obviamente no se les puede sacar del hospital si tienen necesidades.
@@ -143,6 +167,7 @@ En algunos casos, la movilidad entre estados es muy importante, hay varios ejemp
 Usted, por favor.
 ---
 PREGUNTA
+Gracias, subsecretario. Carolina Rivera, de Milenio.
 Usted acaba de hablar del tema de los insumos, dice que ya se han distribuido a los 32 estados lo que se ha recibido en estos dos vuelos de 11 que se tienen contemplados; sin embargo, hay estados, personal médico que sigue asegurando que no tienen estos insumos, que no hay ni siquiera las mascarillas o los insumos que ya han sido entregados en estos puentes humanitarios.
 Yo le quisiera preguntar si tiene el detalle de en qué estados realmente sí ya se entregaron, se corroboró que se entregó y que están distribuidos ya en las clínicas, en qué estados se tiene.
 Dijo que algunos dijeron que estaban en este proceso de transferencia. Si nos puede decir qué estados son.
@@ -150,6 +175,7 @@ Y también le quisiera preguntar qué es lo que se tiene contemplado que llegue 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Por supuesto, todos los vuelos que sean necesarios, el avión, la aeronave, es el medio, pero no es el fin, todos los vuelos que se necesiten contratar serán contratados para traer todos los insumos que sean identificados como necesarios.
 Cuando me pregunta: ¿qué estados?, le digo todos, los 32, los 32 que existen en la república han recibido y tenemos las constancias de recepción de los insumos correspondientes.
 Como expliqué esta mañana, una vez que esto llega a la responsabilidad estatal, hay un tramo de varios pasos en el mecanismo de distribución al interior del estado, que es responsabilidad administrativa y legal del estado.
 Nos interesa mucho… Le cambio su pregunta por una petición a usted y a todas y a todos: si ustedes conocen de casos específicos, ayúdennos a identificarlos. Se lo pedimos a los médicos, médicas y enfermeras, todo el personal de salud de manera directa. Si usted es un trabajador de la salud y está en una clínica y usted identifica que no tiene los recursos necesarios:
@@ -162,16 +188,26 @@ Lo que ocurrió hace acerca de cuatro semanas es que las existencias de este tip
 Entonces, le pido a usted, a todos ustedes y a la ciudadanía, especialmente a los profesionales de la salud, asegúrense de que la expectativa del equipo que están buscando corresponde con los lineamientos técnicos de la Guía de control de infecciones. Si este es el caso y no los tienen, denúncielo, ayúdennos a que se denuncie porque sabemos por experiencia que en ese último tramo de control puede haber varios obstáculos que impidan que finalmente lleguen las mascarillas al sitio de uso.
 Gracias.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Y respecto a los vuelos…
+INTERLOCUTORA
+Sobre los vuelos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Vuelos, le dije: todos los que sean necesarios. No es puente humanitario, por cierto; y aquí también a usted le hago una aclaración, yo nunca dije que solamente en la Ciudad de México se redujera la movilidad, dije que solamente en el Valle de México tenemos una evidencia documental directa, es posible que en otros estados también se haya reducido la movilidad, pero no tenemos un medio de documentación directa porque no conocemos que se haga un monitoreo como el que se hace en la Ciudad de México.
+Y respecto a los vuelos…
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Distintos materiales, la lista es muy extensa, incluye más equipos de protección personal, incluye medicamentos propios para la anestesia, para la intubación, incluye en su momento los ventiladores. Conforme vayan siendo adquiridos, también vendrán en los distintos vuelos, todos los que sean necesarios, ¿de acuerdo?
 Hay turnos aquí, si no, nos estamos saltando. Las dos compañeras que están allá atrás, usted, ellos dos, y luego nos pasamos con usted.
 ---
 PREGUNTA
+Sí, buenas noches, Maricarmen Wister, reportera de Canal 11.
 Doctor Gatell, en las conferencias que usted ha dado aquí en Palacio Nacional hemos conocido la evidencia científica de epidemiólogos que nos dicen por qué el confinamiento, por qué la cuarentena y todo esto, pero me gustaría, y creo que es una inquietud que tiene también mucha gente, ¿cuándo podremos conocer también la evidencia científica de la gente, por ejemplo, de economistas, de sociólogos, que nos digan los pros y contras de este confinamiento?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. La pregunta es extraordinariamente importante. En términos generales este tipo de medidas uno les desea reservar, y fue el caso de México, no sólo como un deseo, sino como una decisión de Estado, reservar para el momento en que son indispensables.
 Recordarán, quizá, que en enero y febrero empezó de manera creciente voces, opiniones en algunos periódicos, en algunos columnistas, en las redes sociales que de manera cada vez más vehemente exigían que en México tomara ciertas disposiciones análogas a las que en ese momento se estaban tomando en países como Italia, España y otros países europeos o en un momento dado también Estados Unidos.
 Y repetidamente decíamos hay dos razones importantes para no tomar ese tipo de medidas, de hecho tres razones.
 La primera es algunas de estas medidas no tienen una base sólida en términos técnicos, concretamente nos referimos al tema de cierre de vuelos, y hemos comentado que en toda la historia de la epidemiología no se ha documentado que el cerrar físicamente las fronteras tenga una utilidad para el control de la propagación de infecciones.
@@ -186,6 +222,7 @@ Regresando a su pregunta, que me parece enteramente válida, podemos traer a las
 Doctor, por favor.
 ---
 VÍCTOR HUGO BORJA ABURTO
+A mí me gustaría mencionar que en los últimos días hemos estado muy preocupados y ocupados por conseguir los materiales, sobre todo los ventiladores, los respiradores que vamos a necesitar para este cupo máximo.
 Y hemos también recibido ofertas de donaciones, pero hay una ayuda que me gustaría pedirle a la población: ayúdennos a evitar que los pacientes lleguen, ayúdennos a evitar el contagio, la mejor manera como nos pueden ayudar para los médicos que estamos tratando pacientes y que necesitamos de esos ventiladores es disminuyendo el contagio y el distanciamiento social.
 Entiendo que es muy preocupante ver a un paciente que no puede respirar y que le pudiera hacer falta un ventilador en este pico de la epidemia, pero la mejor manera que podemos ayudar es disminuyendo el contagio, disminuyendo la transmisión.
 Todavía estamos a tiempo, todavía podemos hacer más estricto el distanciamiento social. Es por eso que el gobierno ha decidido, tomando en cuenta estas afectaciones económicas, pero tomando más en cuenta que el mayor impacto es esta parte de la sana distancia, porque la epidemia, como lo ha mencionado el presidente y el doctor López-Gatell, no se enfrenta con los hospitales, no se enfrenta con los respiradores, se enfrenta desde las medidas de distanciamiento social, la sana distancia, se enfrenta con la higiene personal, todo esto que hemos estado diciendo, lávate las manos, lávate las manos, desinfecta, procura no tener estos riesgos de contagio.
@@ -194,19 +231,26 @@ Y una vez que pasó todo esto, y una vez que hicimos todos los esfuerzos, entonc
 Entonces, les pido que todavía estamos a tiempo de disminuir la transmisión para no necesitar esos respiradores, esos ventiladores que hacen falta, sí, pero todavía podemos disminuir el número de casos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Borja.
 Vamos a darle la palabra a Laura Poy. Nos dicen que nos faltan dos minutos, a ver si nos da tiempo.
 ---
 PREGUNTA
+Buenas noches. Rapidísimo, hablando ante la inminente llegada de la fase 3, doctor, que usted ya nos ha alertado desde hace varios días, precisamente lo que acaba de decir el doctor Borja, ¿en qué nivel, digamos, por decirle una palabra, de ocupación de los servicios hospitalarios ya estamos?, ¿al 30, al 40? para entender la magnitud de lo que podría ser.
 Hoy la OPS ha alertado, ya hay transmisión comunitaria en toda la América Latina, pero lo grave del virus está por llegar. Entonces, para tener una magnitud más clara de a qué nos enfrentamos.
 Y para el doctor Borja, tenemos testimonios lamentablemente de personas que tienen pacientes internados con COVID, que todavía no funciona mucho este sistema de información telefónica, ¿qué está pasando?, ¿están fallando ahí un poco el mecanismo?, ¿se va a afinar?
 Y también casos muy peculiares, hay pacientes que visitaron hasta cuatro doctores con los síntomas de COVID y no fueron alertados, o su médico no les dijo que usted puede ser paciente COVID, ¿qué está pasando con los médicos de primer contacto? Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por la pregunta. No sé si el doctor Borja quiere contestar eso.
+---
 VÍCTOR HUGO BORJA ABURTO
+Sí, esta parte de la identificación oportuna es muy importante que todos los médicos sospechen y que hagamos un diagnóstico rápido, y lo primero es que los aislemos. Si hemos conocido de pacientes que van a una farmacia, después a un privado y después con nosotros, y después nos llegan desafortunadamente ya graves.
 Tenemos que hacer conciencia toda la población y sobre todo reconocer la sintomatología, la sintomatología respiratoria, la cefalea, la tos y la fiebre, y también debemos aprender a reconocer que si me hace falta el aire, que si hay disnea, que le llamamos, eso es signo de que tenemos que ir al hospital, porque desafortunadamente sí nos están llegando los pacientes ya graves y las defunciones están ocurriendo en un periodo muy corto por la gravedad con la que llegan los pacientes.
 Desafortunadamente también son muertes muy tristes, porque no están en compañía de sus familiares, son pacientes que mueren acompañados de las enfermeras y de los médicos, pero no pueden estar los familiares, y esto es algo muy desafortunado y tenemos que buscar los medios para que se puedan despedir cuando así sucede. No tenemos un tratamiento específico y los debemos acompañar.
 Estamos buscando todos estos medios para poder comunicarlos con sus familiares, aunque la muerte finalmente la mayoría de estos lleguen en unos momentos en que ya están sedados, ya no pueden hablar, tienen un tubo, pero están dormidos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Vamos a atender este otro asunto y gracias también, Laura, por la pregunta.
 Complemento simplemente lo que ha dicho el doctor Borja, que es extraordinariamente claro sobre esta situación. Con el paso de los días es muy probable que usted no conozca a la gran mayoría de quien nos escuchan, no conozca una persona con COVID y le podría parecer lejano, le podría parecer remoto el riesgo de que esta enfermedad afecte a un ser querido de usted o a usted mismo, porque simplemente lo oye en las noticias, lo oye aquí, lo lee en los periódicos y en algún momento podría usted pensar que esto es una alharaca innecesaria que es algo que no corresponde con la realidad.
 La experiencia vivida en los países que ya han tenido esta epidemia ilustra precisamente que ese estado ánimo en donde se ve como un problema acaso remoto, nos puede tomar por sorpresa y puede hacer que la población, cada uno de ustedes de repente se sorprenda de identificar que ya conoce a uno, que ya conoce a dos, que ya conoce a seis, que ya conoce a 12, que ya conoce a 24, que ya conoce a 36 y que empieza a conocer y también es afectada su familia.
 No hemos querido alarmar a la población, lo que hemos querido es dar a conocer la información como es, pero esto es parte de la realidad.
@@ -216,3 +260,15 @@ Cuando venga la fase 3, que quedan pocos días, literalmente muy pocos días par
 Lo que hagamos hoy nos quedan muy pocos días para hacerlo enérgicamente y evitar estar en contacto con otras personas el mayor tiempo posible, todas y todos, no solamente las personas con mayor riesgo de complicarse.
 Entonces, insistimos, quédate en casa, esta es la medida de precaución, de prevención, de control que hoy es necesaria.
 Gracias.
+---
+INTERLOCUTORA
+¿Los fallecimientos?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana lo explicamos a detalle.
+---
+INTERLOCUTORA
+Es que decía el doctor Borja que (inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana lo explicamos con las estadísticas.

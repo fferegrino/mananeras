@@ -3,6 +3,7 @@ Presidencia de la República
 31 de marzo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 del martes 31 de marzo de 2020, estamos en la Ciudad de México, este es el Palacio Nacional y aquí empieza la conferencia de prensa sobre la situación de COVID, la epidemia de COVID en el mundo y en México.
 Hoy vamos a tener la oportunidad de tratar varios temas que tienen que ver con la respuesta institucional ante esta epidemia. Tenemos noticias que nos parecen positivas y que es útil que la sociedad las conozca.
 A lo largo de la información que compartiremos, no sólo hoy, sino en los próximos días, nos gustaría que la población conociera no solamente la situación misma de la epidemia y la importancia de tomar acciones, -en este momento la principal acción son las medidas masivas de mitigación y es esto de quédate en casa, quédate en casa, quédate en casa, lo vamos a estar enfatizando todos los días- pero también queremos que la población conozca varios de los elementos que implican que las instituciones estén listas para responder y que estén respondiendo ante actividades específicas.
 Entonces, hoy el doctor José Luis Alomía va a dar el informe y nuestros compañeros del Seguro Social van a explicar aspectos específicos sobre la respuesta en el Instituto Mexicano del Seguro Social y van a ver que hay aspectos muy positivos que van a facilitar la protección de las personas, en este caso los hombres y mujeres derechohabientes, pero también facilitar la medida de mitigación comunitaria.
@@ -10,6 +11,7 @@ Y finalmente, el doctor Reyes Terán, como lo anuncié hoy en la mañana, nos ac
 Doctor Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas noches a todas y a todos.
 Vamos a presentar el panorama internacional y nacional. Como ustedes pueden ver, todavía se mantiene una proporción de casos en los últimos 14 días de un 76 por ciento; si recuerdan las presentaciones anteriores, se ha mantenido entre un 75, 74, 76, lo que quiere decir que la transmisión reciente, es decir, lo que ocurre en los últimos 14 días ha mantenido un ritmo constante y esto representa precisamente la carga de la totalidad de los casos que hasta el momento se han confirmado, que ya es un poco más de 750 mil en esta pandemia.
 En la siguiente diapositiva vemos nuestro panorama nacional. El día de hoy al punto de corte son mil 215 casos confirmados, así también se suma una nueva defunción, para una totalidad de 29.
@@ -38,15 +40,18 @@ Estamos dando seguimiento precisamente desde que en su momento se inició la Jor
 Me parece que es la última. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía, director general de Epidemiología.
 A continuación, le pido al doctor Manuel Cervantes, quien es titular de la Unidad de Atención Primaria de la Salud del Instituto Mexicano del Seguro Social si nos puede comentar las distintas disposiciones y mecanismos que ha establecido el instituto para facilitar el proceso de obtención de recetas resurtibles, orientación médica telefónica e incapacidad por maternidad ante la epidemia.
 Doctor, Cervantes.
 ---
 MANUEL CERVANTES OCAMPO, TITULAR DE LA COORDINACIÓN DE ATENCIÓN INTEGRAL A LA SALUD EN EL PRIMER NIVEL, IMSS
+Muchas gracias. Primero que nada, buenas noches a todos ustedes.
 Por supuesto, en el Instituto Mexicano del Seguro Social siempre alineados con el sector salud y por supuesto con la Secretaría de Salud, vamos a presentar un par de videos donde nosotros estamos sumando a que los pacientes lo menos que puedan acudir a las unidades médicas.
 Estas estrategias ya venían trabajando en el instituto y fueron fortalecidas y robustecidas desde el primer escenario. Ustedes van a ver en estos videos y posteriormente una presentación que haré de siete láminas explicando en qué consisten estas estrategias para garantizar el confinamiento en domicilio de algunos enfermos que tienen riesgo por sus condiciones de poder padecer la enfermedad.
 Si me dan los videos, por favor.
 ---
 LUISA GIL VELÁZQUEZ, JEFA DE ATENCIÓN MÉDICA CONTINUA Y PROGRAMAS ESPECIALES
+Se va a apoyar a los pacientes para que ellos traten de evitar estar exponiéndose al transporte público, no se expongan tampoco a estar en lugares confinados como es la misma consulta, la sala de espera, no estén ahí exponiéndose, sobre todo los adultos mayores, que son los que están más vulnerables a esta situación.
 Esto tiene como objetivo hacer más eficientes las instalaciones, sobre todo de primer nivel de atención, y con ello contribuir a que los pacientes que tienen alguna enfermedad crónica controlada puedan acudir solamente cada tres meses a la consulta de medicina familiar y los meses subsecuentes, ya sea ellos o cualquier familiar pueden pasar solamente a surtir la receta a farmacia y se les entregaran los medicamentos.
 La receta resurtible se emite a través del sistema de información de medicina familiar. Como ustedes pueden observar, ya sale su nombre, receta resurtible. La receta resurtible se emite cuatro tantos de la receta. Esta receta es una para el paciente, la primera receta del primer mes, del segundo mes y del tercer mes. Hoy llego a la farmacia y entrego los cuatro tantos.
 ¿Qué hace la farmacia?
@@ -55,9 +60,14 @@ Segunda receta, viene el vecino, amigo o familiar. Este vecino, familiar, entreg
 Y el tercer mes regresa con estas dos y se surte su receta, se queda farmacia con ella y esta es la receta del paciente.
 ---
 MARLÉN VICENTE MARTÍNEZ, JEFA DE DIVISIÓN DE LA COORDINACIÓN INTEGRAL EN EL SEGUNDO NIVEL DE ATENCIÓN
+Todo aquel paciente que tiene enfermedad crónica controlable y que se incluye dentro de las 19 patologías en segundo nivel tienen de conocimiento las unidades hospitalarias, derivado de la contingencia y de las medidas preventivas, con el afán de evitar o minimizar riesgos.
 Y hacemos realmente trabajos enfocados para atender a estos pacientes que tienen una necesidad prioritaria por la patología crónica y que en forma controlada está garantizado su surtimiento.
 ---
+VOZ DE MUJER
+Gobierno de México.
+---
 MANUEL CERVANTES OCAMPO
+Los videos -si me permiten, me voy a poner de pie, si ustedes me permiten- los videos pueden decir mucho, pero si no hay acciones que impacten en este día o en estas semanas, sigue quedándose en una imagen.
 Miren, Quedémonos en casa ha sido una lucha, ha sido un anhelo y un desafío que tenemos. Y, bueno, en receta resurtible, como ustedes lo escucharon, este es un programa que buscamos facilitar la atención para pacientes con algunas enfermedades crónicas que están controladas.
 El paciente recibe una consulta y cada tres meses acudirá para poder tener la siguiente consulta, pero sus medicamentos podría acudir a canjearlo una por cada mes.
 ¿Quiénes podrán acudir?
@@ -92,6 +102,7 @@ Hugo, eso es como el Instituto Mexicano se preocupa y se ocupa para con nuestros
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Excelente. Muchas gracias, querido amigo doctor Manuel Cervantes, titular de la Unidad de Atención Primaria de la Salud.
 Ahorita podemos comentar más seguramente a preguntas sobre la importancia de esta medida que facilita precisamente que se reduzca la oportunidad de movilización durante el periodo de emergencia sanitaria de personas en la vía pública, especialmente las personas que corren riesgo, como son las mujeres embarazadas o las personas con enfermedades crónicas, que precisamente son quienes tienen el mayor riesgo de complicaciones.
 Le pido ahora al doctor Eduardo Robles su intervención, pero antes yo quiero hacer una intervención.
 Ayer, a pregunta directa de alguna de las colegas, que no la veo en este momento, quien me preguntó si se habían identificado casos de enfermedad COVID en trabajadores de la salud.
@@ -103,6 +114,7 @@ Y por ello he pedido el apoyo del doctor Eduardo Robles, jefe de la Unidad de Sa
 Doctor, por favor.
 ---
 EDUARDO ROBLES PÉREZ, JEFE DEL ÁREA MÉDICA DE LA DIRECCIÓN DE PRESTACIONES MÉDICAS, IMSS
+Gracias, buenas tardes. Gracias por la invitación a este foro.
 Les quiero comentar cómo está la situación en el panorama de los trabajadores de la salud del instituto. A la fecha del día de hoy, hasta este momento, tenemos nosotros reportados 39 casos confirmados; de estos 39 casos, tenemos tres casos que lamentablemente fallecieron, casos comprobados.
 En estos tres casos no se ha podido comprobar que haya habido una exposición ocupacional, más bien ha habido más bien elementos, evidencias que permiten que la exposición con la cual estos casos se pudieron haber infectado estos trabajadores de la salud: uno fue a través de un familiar que fue al extranjero, otro fue a través de una exposición que no fue ocupacional dentro del propio instituto y el otro fue de un trabajador que ya estaba jubilado, ya estaba fuera de las labores del instituto, no había una relación laboral que, bueno, por lo tanto, la fuente de contagio fue fuera de las instalaciones.
 ¿Qué pasa con Coahuila?
@@ -116,10 +128,12 @@ Lo que sí, a través de una indicación que nos dio nuestro director general, y
 Básicamente, doctor López-Gatell, este sería el estatus de este brote de Coahuila. Tenemos ya bien identificados los dos casos índices y ahí estamos todavía queriendo comprobar o determinar cuál fue la fuente de contagio.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Excelente. Muchas gracias, doctor Eduardo Robles, jefe de la División de Salud en el Trabajo del Instituto Mexicano del Seguro Social.
 Finalmente, le pido al doctor Gustavo Reyes Terán si es tan amable de compartirnos de manera breve la información sobre la investigación clínica que está emprendiendo el equipo mexicano en estos momentos relacionado con COVID.
 Doctor, por favor.
 ---
 GUSTAVO REYES TERÁN, TIRULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
+Buenas noches y gracias.
 El grupo de investigación científica que me ha tocado coordinar está conduciendo o está terminando los trámites para iniciar la conducción de cinco ensayos clínicos.
 Los cinco ensayos clínicos son con medicamentos que se han propuesto a nivel internacional como los que están en los primeros lugares de la lista de potenciales medicamentos que tengan un efecto contra el virus y que tengan al menos la potencialidad de poder controlar la replicación del virus, por un lado, y los síntomas de la enfermedad y quizá más importante, evitar que se llegue a la condición de gravedad o, si se ha llegado a la condición de gravedad, tratar de rescatar a los pacientes, el mayor número de pacientes posible.
 Ya les he dicho previamente, los cinco medicamentos que tienen potencialmente un efecto contra el COVID-19. Son, quizá, en primer lugar remdesivir, en segundo lugar la hidroxicloroquina, en tercer lugar la combinación de hidroxicloroquina con azitromicina y en cuarto lugar tocilizumab, el nombre un poro complicado, pero es un anticuerpo dirigido contra una molécula en las células que impediría la inflamación sistémica que finalmente es lo que conduce o el daño a los tejidos, al daño pulmonar en particular, no exclusivamente pulmones, sino también otros órganos, y el propósito de este último medicamento es evitar ese daño o reducirlo lo mayor posible.
@@ -135,11 +149,13 @@ Los otros dos protocolos, sobre todo el de plasmaféresis, para tratar de buscar
 Eso es en resumen, doctor López-Gatell.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Qué amable, doctor Gustavo Reyes Terán.
 Nada más para cerrar lo que acaba de señalar el doctor Gustavo Reyes Terán, como él mismo lo ha aclarado en innumerables ocasiones, la población no debe asumir que los medicamentos que se han señalado son medicamentos ya conocidos como útiles para combatir o controlar o tratar al virus SARS COV-2 causante de la enfermedad COVID.
 Que quede muy claro, esto es investigación clínica sobre el uso de estos medicamentos, algunos medicamentos ya se usan para otras enfermedades, pero no hay todavía una autorización sanitaria ni una prueba científica contundente que indique que estos medicamentos pueden o deben usarse de manera segura para tratar el COVID.
 Ángeles Cruz, Blanca no, porque ayer ya le tocó, las dos compañeras de por acá y usted y este lado no le tocó. Entonces, Ángeles y acá y luego acá, por favor.
 ---
 PREGUNTA
+Buenas noches. Hacer una petición sobre las personas recuperadas, de pronto el dato ya no nos los están dando. Quisiera yo saber cuántas personas, porque se ha mantenido ya muy estable en cuatro por ciento, pero a un mes del primer caso yo pensaría que ya hay más personas que están recuperadas.
 Entonces, saber si nos pueden dar esa información ¿cuántos hombres?, ¿cuántas mujeres?
 ¿A todos les han aplicado una prueba para verificar que ya no son portadores del virus? Si es así, ¿cómo se va a hacer o simplemente pasan los 14 días?
 Y si aparte de los 14 días, quienes se recuperan de la enfermedad requieren estar otros 14 días en aislamiento. Si me pueden precisar, por favor, esa parte.
@@ -148,11 +164,19 @@ Y respecto a la curva de la pandemia, quisiera yo saber… Dice usted que con la
 ¿De qué tamaño pudiera tener que ser la curva para, por ejemplo, seguir no sé si mantener el aislamiento o la sana distancia? Más o menos si nos puede orientar, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, respondo rápidamente, el tema de los recuperados. Si recuerdan, la semana, principios ya de la semana pasada, iniciamos con la transición al Modelo de Vigilancia Epidemiológica Centinela, esto también lleva a adecuaciones en el sistema de información en línea, es decir, la plataforma a través de la cual se notifican los casos.
 Esta variable, para tener la puntualidad de cuántos casos se ha recuperado, la actualizan también los estados, las entidades federativas de las unidades, ellos marcan en una pestaña que tienen disponible actualizan el estado de la persona.
 Entonces, solamente la migración que hemos tenido de lo que antes era una máscara de captura a lo que será ya un sistema formal de vigilancia, ha generado que estamos en este proceso nada más en el que estamos validando la información, pero podemos sin ningún problema traer una estimación para el día de mañana. El último corte había estado entre 16 y 18 por ciento ya la cantidad de personas recuperadas del total de casos, pero voy a pedir que hagan un corte, digamos, de tipo manual para que hagan la estimación y poderles presentar el dato mañana mismo.
 Y subsecuentemente, ya una vez que la nueva plataforma esté operando al 100 por ciento, es un dato que podremos tener ya sin problemas todos los días.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Doctor Cervantes.
+---
+MANUEL CERVANTES OCAMPO
+Gracias. Efectivamente, de las cinco mil 262 llamadas que se recibieron, hoy aproximadamente hasta las 5:00 de la tarde, cuatro mil tres llamadas están relacionadas con enfermedades respiratorias; no quiere decir que todas con COVID, sino que se orientó a los pacientes, 446 pacientes fueron direccionados a través de nuestros médicos a las unidades de medicina familiar, y nada más siete pacientes, de acuerdo al interrogatorio que se les hizo, mostraron datos de alarma, estos pacientes con datos de alarma fueron canalizados a hospitales de segundo nivel.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Cervantes.
 Y sobre la pregunta de Ángeles Cruz, de La Jornada, que me parece también de interés público general, ¿qué quiere decir aplanar la curva?, cuando decimos aplanar la curva a lo que nos referimos es que cuando ponemos en estas gráficas que presentamos en las tardes, la cantidad de casos que se presentan cada día, casos de COVID, independientemente de que sean leves, graves o muy graves, uno puede ver que existe esta curva que hemos presentado, si la podemos ver, por favor, y así lo explico de manera visual.
 La curva, esto es un tecnicismo, es la curva epidémica de casos acumulados, es la manera de representar visualmente la cantidad de casos que se presentan en México y que se reportan o se identifican cada día. Aquí están los días y, entonces, cada puntito en un día es el número de casos que dice aquí, cero, 200, tal, estos son los casos posibles que puede haber.
 Aquí había, cero, cero, cero, el 27 de febrero tuvimos el primer caso, esto es aquí, tuvimos el primer caso, no se ve porque está muy pequeñito, luego tuvimos un caso, un caso, dos, dos, cero, cero, cero, tres, etcétera, y el 13 de marzo tuvimos 11 casos y fue cuando hicimos el anuncio de que cambiaba el patrón de aumento de la epidemia, se acordarán, un viernes por la tarde y luego el sábado.
@@ -164,20 +188,30 @@ No hay una meta preestablecida. Lo ideal sería cero, pero sabemos que esto es i
 No hay, de antemano, una meta, porque obviamente es una epidemia nueva, es una carga de enfermedad que ocurre en la población, es un fenómeno muy complejo y quisiéramos tener el máximo éxito posible.
 Lo que vamos a saber es cuando hayan pasado 14 días desde que empezaron, en promedio siete días, de hecho, desde que empezaron las medidas de mitigación vamos a empezar a ver cambios en la inclinación de esta línea, debemos ver, ojalá veamos, esto será un éxito no nuestro, del gobierno, es un éxito de la sociedad mexicana que se habrá quedado en casa, se habrá quedado en casa, fuera del espacio público y habrá reducido el número de contagios.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Entonces, esperamos que va a ir en siete a 14 días reduciéndose eso y ojalá se reduzca de manera importante.
+INTERLOCUTORA
+¿Cuánto aproximadamente?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Siete, 14 días, es en promedio desde que se ponen las medidas, en este caso las medidas empezaron el 23 de marzo con el cierre de las escuelas, el cierre de las escuelas implica la suspensión de la circulación en el espacio público de cerca de 15 millones de personas de manera directa entre estudiantes, profesores, de todos los niveles educativos, más los padres de familia, otros familiares, las personas que dependen de la economía relacionada con la venta de productos y servicios a las escuelas; luego se han ido agregando las otras intervenciones que, como mencionamos ayer, tienen un cumplimiento incompleto todavía.
+Entonces, esperamos que va a ir en siete a 14 días reduciéndose eso y ojalá se reduzca de manera importante.
+---
+PREGUNTA
+¿Y si no?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Si no, siguen otras posibilidades, otras medidas, pero llega un punto en el que la velocidad de cambio de la epidemia es tan importante que otras medidas implicarían una restricción extrema de la movilidad que tendría efectos muy desfavorables sobre la vida pública y quizá en un momento de muy poca utilidad.
 No olvidar que para la fase 3 también nos empezamos a preparar desde enero, entonces todo lo que se explicó ayer de la preparación y expansión y reconversión hospitalaria es lo que va a estar jugando un papel muy importante en la Fase 3.
 El compañero de por acá y luego usted. Nos quedan 10 minutos.
 ---
 PREGUNTA
+Buenas tardes, doctor, buenas tardes, Carlos Domínguez, de Nación 14.
 Hoy por la mañana, doctor, usted comentó cuáles son las actividades no esenciales que se van suspender temporalmente hasta el 30 de abril y las sí esenciales que no se pueden detener.
 Esto generó en el sector minero de Coahuila unas preguntas, porque la actividad minera es una de las principales del país. Si se detiene la minería, se detiene prácticamente la economía del país, porque de ahí derivan michos insumos para la vida cotidiana.
 ¿Se va a detener la minería también?, ¿cuándo?, ¿hasta cuándo?
 Esa sería una primera pregunta, doctor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Hace unos minutos, justo antes de venir acá estuve en una reunión en que ya llevábamos dos horas y media con la secretaria de Gobernación, de inicio también el canciller Marcelo Ebrard, el vocero de la Presidencia, el titular de Protección Civil y por vía remota los 32 gobernadores, bueno, 30 gobernadores y dos gobernadoras, incluyendo la gobernadora de Sonora y la jefa de gobierno de la Ciudad de México.
 Uno de los temas fue esta preocupación. Tanto el gobernador de Coahuila como el gobernador de Chihuahua como la gobernadora de Sonora, que son estados mineros, expresaron directamente esta inquietud.
 La respuesta es la siguiente:
 La minería evidentemente es una de las actividades económicas importantes, igual que la industria manufacturera, igual que la industria de la construcción, igual que la industria de producción de otros insumos primarios.
@@ -187,15 +221,65 @@ En la fase tres vamos a tener demasiados casos, demasiadas personas enfermas y p
 Tampoco queremos que se disminuya la actividad económica y social, porque afecta a las familias. Hemos dicho repetidamente que la mitad de las familias mexicanas, no de las familias, de la población mexicana vive en condiciones de pobreza, vive al día, y quien no vive al día porque tiene un salario en la industria minera, tampoco queremos que quede en un paro de labores, en fin.
 Pero hay que ser… llegar al punto de equilibrio, y el punto de equilibrio no puede esperar más y es precisamente las disposiciones. Esto no es una disposición de una persona, no es que yo lo decidí, se sometió a consideración del Consejo de Salubridad General y en forma unánime reflexionando sobre los pros y los contras de esta medida, se decidió establecer una medida que es enérgica, útil para la reducción de los contactos y a la vez limitada, en tiempo es limitada, de manera efectiva son 21 días hábiles que se suspende la actividad.
 ---
+INTERLOCUTOR
+En otro contexto, señor subsecretario, de los ventiladores, hay un déficit de ventiladores, de respiradores artificiales en el mundo por esta pandemia.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto.
+---
+INTERLOCUTOR
+Hace unos días el canciller nos comentó que él está tratando de conseguir fuera del país, pero, o sea, ¿por qué buscar fuera del país?, cuando aquí en México se han formado ya varios grupos de empresarios, emprendedores, científicos, médicos, ingenieros, que han desarrollado prototipos y que están esperando solamente que la Cofepris, el INER, Secretaría de Salud, evalúe sus prototipos que fueron hechos y basados en normas internacionales para poder producirlos en masa; incluso nosotros en Nación 14 platicamos con un colectivo, un grupo de Sonora, que dicen que ellos están desarrollando prototipo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Magnífico.
+---
+INTERLOCUTOR
+Para regalar la patente si es necesario.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Magnífico.
+---
+INTERLOCUTOR
+Y con ayuda de ustedes hacerlos, ¿por qué?, para que no pase lo que pasó en Europa, en España e Italia, sobre todo, que donde tuvieron que seleccionar a quién no darle un respirador
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Magnífico.
+---
+INTERLOCUTOR
+Comentan que su prototipo puede ayudar a que el 80 por ciento de los que ya existen sean solamente para casos graves, y los suyos que es de mediano nivel…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mandándonoslo, ya no perdamos tiempo, mándenlos con nosotros.
+---
+INTERLOCUTOR
+Si quiere le paso el dato.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mándelos con nosotros, no tenemos resistencia alguna a considerar estas alternativas, estamos buscando todas las alternativas.
 Déjenme comentarles, en este trabajo que hacemos en el comando operativo, dicho sea de paso, quiero agradecer a todo un comando operativo que representa a todo el gobierno, están prácticamente todas las secretarías de Estado y algunos de sus órganos desconcentrados participando en este operativo y estamos funcionando muy bien porque estamos coordinados.
 Establecimos un grupo técnico conformado por los mejores especialistas en medicina crítica de las instituciones públicas de atención médica y convocamos a ingenieras e ingenieros de instituciones públicas y alguna privada de educación superior.
 Y esto lo hicimos con el propósito de que este grupo analice precisamente esto, cuál es la factibilidad, qué tan posible es que en un tiempo muy corto podamos tener la fabricación de uno o más prototipos o modelos de ventilador mecánico.
 Entonces, no tenemos esa resistencia alguna. Si usted conoce a un grupo adicional que nosotros no hemos contemplado, por favor, me da el dato y trabajamos también con quien sea.
 ---
+INTERLOCUTOR
+Que personal de Cofepris los visite para…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No es Cofepris, no se trata de Cofepris, necesitamos resolver esto pronto. Manden a cualquier persona, grupo, institución, que usted conozca que tiene una posibilidad real de producir una alternativa. Gracias.
 Ella, y creo que va a ser la última porque el tiempo es muy limitado.
 ---
 PREGUNTA
+Buenas noches. Joselyn Arredondo, de Notimex.
 Dos preguntas nada más. Una, ¿ahora con esta declaratoria de emergencia va a haber alguna orden de cerrar playas? Si bien algunos estados están tomando algunas acciones, pues queremos ver esto.
 Y, rapidísimo, dos, algunas personas se están quejando mucho de que ustedes dijeron que se podían ir el mes con goce de suelo, pero esto a lo mejor no se está tomando así. ¿Va a haber algún seguimiento, una medición?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Absolutamente.
+Le contesto la segunda, bueno, la de las playas. Este fue otro de los temas que se conversaron con los 32 titulares de los gobiernos estatales, qué agradable es escucharles, qué sentido de responsabilidad, de dedicación, de coherencia, todos los 32 jefes, los mandatarios de los estados, todos muy unidos, todos con una visión perfectamente orientada a la misión, realmente fue muy productiva la reunión, de hecho, me tuve que salir para venir acá, pero la reunión siguió.
+Y uno de los temas que provino de alguno de los estados turísticos, que viven de la industria turística fue este tema, las playas.
+Y sí tuvimos que volver a tocar base con la realidad explicando que la orden ya se dio, la orden es el acuerdo de la Secretaría de Salud que establece las medidas generales de seguridad sanitaria que dice que se suspende también la actividad en el espacio público. No puede haber más de 50 personas reunidas al mismo tiempo, lo que lleva a que, en el marco de la autoridad estatal y posiblemente municipal, se tomen medidas congruentes y también se suspenda la actividad turística en playas, ya sea para el turismo internacional o el turismo nacional o local.
+Respecto al trabajo, reiteramos lo que dijo ayer el canciller Ebrard sobre la figura jurídica de esta emergencia por causa de fuerza mayor. Esto no permite en el marco jurídico laboral actual que se pretenda reducir el salario de las y los trabajadores ni tampoco que se use como razón para suspender la relación laboral entre la persona trabajadora y la empresa contratante, independientemente del tamaño de la empresa, desde enormes empresas hasta pequeños negocios familiares.
+La secretaria del Trabajo, esta mañana precisamente, emitió un comunicado por medio de un video en el que participamos conjuntamente; y ella, en el marco de sus atribuciones, explicó que están a disposición los números de la Procuraduría de la Defensa del Trabajo y la propia Secretaría del Trabajo para orientar a cualquier persona trabajadora en lo individual o a representaciones de los trabajadores sobre sus derechos para que estos derechos no sean vulnerados.
+Lo que pedimos es un acto de solidaridad con el país. Cada empresa que ponga el hombro, que asuma una parte del problema, del reto, el reto es para todas las personas que habitamos el país, vivimos ante un riesgo que hay que enfrentar todos, todas de manera colectiva.
+Entonces, si las empresa grandes, medianas o pequeñas hacen su parte y contribuyen facilitando que la medida de sana distancia se lleve a cabo sin afectar los derechos de las personas trabajadoras, vamos a tener una medida efectiva que nos disminuirá el riesgo a todas las personas que vivimos en este país. Es lo que pedimos.
+Aquí se va a tener que acabar, porque se nos acaba la transmisión. Muchas gracias. Nos vemos mañana, 1º de abril.

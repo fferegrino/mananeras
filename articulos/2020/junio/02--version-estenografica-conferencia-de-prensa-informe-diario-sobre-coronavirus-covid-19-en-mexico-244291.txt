@@ -3,12 +3,14 @@ Presidencia de la República
 02 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:02 de este martes 2 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a enfocarnos en dos temas, que son muy clásicos del martes.
 El doctor Alomía presentará el informe técnico y las estadísticas de lo que ocurre en el personal de salud, los casos afectados por COVID.
 Y el doctor Ricardo Cortés presentará el informe de movilidad, martes de movilidad, y vamos a poner atención a fenómenos recientes de reducción de las restricciones, por lo tanto, aumento de la movilidad en el espacio público. Vamos a destacar por entidad federativa dónde ha ocurrido esto, desde cuándo como un elemento importante de reflexión de las actividades de prevención que continúan ahora con la titula directa de las entidades federativas. Este elemento de movilidad sigue siendo un blanco muy específico de control de la epidemia.
 Doctor Alomía.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Estamos el día de hoy en nuestra conferencia vespertina número 95 desde que iniciaron estos espacios de comunicación. El día de hoy es el segundo día de la nueva normalidad, recordando que la única diferencia que hay de la nueva normalidad con la Jornada Nacional de Sana Distancia es que ahora las intervenciones comunitarias, la sana distancia como tal y las acciones que en su momento limitan la movilidad no son de manera similar y al mismo tiempo para todo México, sino que ahora a través de un semáforo semana con semana se podrá definir cuál será la intensidad de estas acciones o, si las queremos ver desde el otro punto de vista, de estas restricciones para precisamente poder disminuir en mayor o en menor grado la movilidad de la población.
 Por eso es importante que estemos atentos a los anuncios de cuál será el color del semáforo en el cual estarán abriendo cada semana las diferentes entidades federativas, recordando que esta semana 31 entidades federativas están en color rojo, lo cual significa que prácticamente las restricciones en la movilidad y por lo tanto las acciones de la Jornada Nacional de Sana Distancia se mantienen y continúan todavía esta semana en 31 entidades federativas, a excepción solamente de Zacatecas, que fue la única entidad que abrió esta semana en color naranja; aun así, naranja no permite todavía muchas actividades.
@@ -51,12 +53,14 @@ La siguiente diapositiva nos muestra la comorbilidad que hubo en todos los casos
 Veamos la siguiente diapositiva. Aquí tenemos ahora sí la distribución de las defunciones, lamentablemente son 271 profesionales de la salud los que también han perdido la vida a consecuencia de las complicaciones de COVID-19. Aquí podemos ver su distribución en función de la entidad federativa donde perdieron la vida, también podemos ver que hay 10 defunciones aún que están pendientes de resultados, por lo tanto, este número pudiera incrementarse en esa misma proporción y en esas entidades federativas donde aparece el naranja claro.
 La siguiente diapositiva, que también tiene que ver con las defunciones. Vemos ahora la distribución de grupo de edad y sexo de cada una de las que ocurrieron, de estas 271. Vemos que la curva se mueve ligeramente dos grupos de edad hacia la derecha, lo cual también observamos y lo vemos cuando vemos las actualizaciones de la población general, en función también de los grupos de edad y de estas comorbilidades, de estas enfermedades sobre todo crónico degenerativas que suelen presentarse en los grupos de edad por encima de los 30 años.
 Veamos la siguiente diapositiva, que es precisamente también las defunciones, cómo han ocurrido por institución, esto también representa la institución en la que fallecieron, es decir, donde se le brindó los últimos días la atención y donde lamentablemente fallecieron. Secretaría de Salud ahora con 105, el IMSS y el Issste, 96 y 48, que contribuyen lógicamente igual que con la carga de enfermedad, en este caso con defunciones también con la mayor cantidad de la ocurrencia.
-Y, si mal no recuerdo, esta sería la última diapositiva.  Muchas gracias.
+Y, si mal no recuerdo, esta sería la última diapositiva.  Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Le pido al doctor Ricardo Cortés Alcalá si presenta el informe de movilidad, por favor.
 ---
 RICARDO CORTÉS ALCALÁ
+Con mucho gusto, subsecretario. Muchísimas gracias.
 Muy buenas tardes tengan todas y todos aquí en Palacio Nacional y también en sus casas a través de su televisor o su dispositivo móvil que, por cierto, hoy en una muy interesante plática con una amiga me preguntaba cómo es que sabíamos nosotros que la gente se movía o no se movía.
 En realidad es que nosotros no lo sabemos, sino que cada uno de nosotros a la hora de adquirir uno de estos artefactos de comunicación, comprarlo y aceptar los términos y condiciones de la contratación o al descargar alguna de las aplicaciones, como pueden ser Facebook y Twitter, nosotros estamos dando permiso al sistema operativo del aparato que compramos o la aplicación a la que le estamos otorgando todos nuestros datos, le estamos otorgando también el permiso de revisar nuestra movilidad, así es como yo puedo decir hoy que saco mi teléfono y digo: Oh, estoy en Palacio Nacional, en la conferencia de prensa’, y eso lo registra Facebook o eso lo registra Twitter y voilá, así es como Facebook, Twitter y Google nos comparten estos datos totalmente anonimizados para saber cuál es la movilidad por estado de nuestra bellísima República.
 Entonces estas gráficas, son 32 gráficas específicas que tienen cuatro líneas y dos barritas.
@@ -81,25 +85,34 @@ El estado de Jalisco se mantiene prácticamente sin movimiento, pero a partir de
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés.
 Vamos a abrir a preguntas y respuestas. Ayer se había quedado pendiente Hans Salazar, ¿no?, sí alcanzaste a hacer las preguntas, quedó pendiente mi respuesta a dos inquietudes.
 ---
 PREGUNTA
+Sí. Gracias, doctor. Hans Salazar, de ZMG Noticias.
 Sí, quedó nada más pendiente, porque ya fue lo último que pude alcanzar a comentar. Bueno, dos temas que pues ya entregamos los datos, pero en el tema que quedó fue el de los recuperados, los porcentajes, particularmente los que han sido intubados.
 Y también la curva de Chiapas, si es que se tuviera, que la han solicitado mucho para que se pueda ilustrar cómo ha estado ahí el estado.
 Y el tema también de los recuperados, la clasificación, digamos, de hipertensión, estas enfermedades que son las principales que han sido el COVID, que están relacionadas con el COVID, pero en su recuperación, en su recuperación. La gente pregunta mucho esta parte de cómo está el panorama en ese sentido de la recuperación del COVID.
 Gracias, doctor, le agradezco.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Quieres comentar? Adelante, doctor Alomía.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En el caso específico de los pacientes que han llegado a tener que intubarse, es decir, poder asistirse con un ventilador mecánico para poder mantener la respiración, realmente el ser intubado de hecho es un indicador de mal pronóstico y precisamente tiene que ver con el este mal pronóstico en el sentido de que sólo entre un 30 o alrededor de un 30 por ciento de los pacientes que han sido intubados logran la extubación, pueden pasar a un periodo en el cual puede seguir, ya de ese grupo de 30, una recuperación en los siguientes días o pueden volver nuevamente a caer en una insuficiencia respiratoria que requiera nuevamente ser intubado.
 Entonces, realmente es una proporción muy pequeña los pacientes que han sido intubados y que en su momento han alcanzado la recuperación como tal, es muy poca y básicamente en esas proporciones, entre un 25 y un 30 por ciento solamente, es decir, los demás, es decir, el otro grupo que está entre un 60 y un 65 lamentablemente han terminado perdiendo la vida.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
 Olinka, por favor.
 ---
 PREGUNTA
+Doctor, a propósito de la reunión que hubo hoy con los gobernadores se acordó... ¿Por qué no se le había dado conocer a los gobernadores los indicadores que iban a utilizar?
 Quiero decir, en el comunicado de la Conago dice que ahora se les van a dar a conocer antes de la publicación, ¿esto significa que no se les había dado a conocer o ellos no sabían que si sólo tenían un indicador en rojo iban a estar en rojo?
 Segunda pregunta, ¿es verdad que se dijo ahí que necesitaban mayores recursos económicos y que usted o alguien en el gobierno federal dijo que estábamos en el peor momento de la pandemia? Pregunto.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+A ver, les comento. Hoy martes 2 de junio tuvimos una más de las reuniones periódicas que tenemos con los gobernadores, los 30 gobernadores, la gobernadora de Sonora y nuestra queridísima jefa de gobierno de la Ciudad de México, y tratamos temas varis, fundamentalmente COVID, que fue la razón por la que se convocó la reunión, pero hubieron otras ramificaciones de inquietudes de algunos gobernadores respecto a temas económicos, dado que nos acompañó nuestra también muy querida y respetada doctora Graciela Márquez Colín, secretaria de Economía.
 Sobre el tema de COVID una de las inquietudes principales fue el semáforo. Este semáforo se les presentó originalmente en la reunión de hace una semana, el marte 26 de mayo, se les presentaron todos los indicadores que presentamos aquí públicamente, también las dos tablas:
 La tabla de monitoreo, los indicadores, los umbrales, los colores y su interpretación.
 Y segundo, la tabla de intervenciones apropiadas a cada nivel de riesgo.
@@ -117,17 +130,23 @@ Entre el martes y el jueves tendremos un diálogo muy fluido y si alguno de los 
 De tal suerte, que el jueves nosotros ya tendríamos el semáforo con la opinión de los 32 gobernantes estatales y el viernes lo presentaríamos públicamente; y nuestro compromiso para no causar ruido, confusión en las poblaciones de los estados es: no lo vamos a presentar sino hasta el viernes, una vez que pase el periodo de conversación.
 Por supuesto, si en un momento dado uno, una, gobernantes estatales no tienen ninguna opinión y no la externa, pues se dará por resuelto el asunto y se presenta el viernes.
 ---
+INTERLOCUTORA
+Si va a haber un solo semáforo federal, ¿por qué la Conago dice que la megalópolis va a tener su propio semáforo?, ¿qué va a pasar con las otras zonas?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Por una excelente idea que… Hace dos semanas en viernes, convocamos nosotros, gobierno federal, a los siete o los seis mandatarios estatales de la megalópolis y a la jefa de gobierno de la Ciudad de México, y tuvimos una reunión parecida a esta donde tratamos temas técnicos de COVID.
 La mayoría de quienes asistieron, que fueron todos, tenían una perspectiva de que la megalópolis por ser una zona económica y social con una alta vinculación, movimiento de personas, movimiento de bienes, dependencias económicas, etcétera, valía la pena considerarla como una sola región para evitar que hubiera distintas calificaciones del semáforo por distintas temporalidades de la pandemia en un estado versus el otro y que eso pudiera llevar a que un estado de menor trasmisión o menor intensidad se viera afectado por los movimientos poblacionales desde un estado de mayor intensidad.
 Esta reflexión quedó sobre la mesa, no se resolvió hace dos semanas, pero hoy el gobernador Omar Fayad, la jefa de gobierno de la Ciudad de México y otros mandatarios y mandatarias de la región externaron que valía la pena recuperar esa idea.
 Entonces, se quedaron, ellos están trabajando al respecto, sí así lo definen nos parece una excelente idea.
 Muchas gracias, Olinka. Usted, por favor.
 ---
 PREGUNTA
+Muchas gracias. Sandra Aguilera, del Grupo Larsa Comunicaciones.
 Subsecretario, en algunos países han incluido de manera oficial el uso de tocilizumab como un fármaco para tratar el COVID-19.
 Quisiera saber si en nuestro país se está incluyendo de manera oficial en el protocolo para tratar a pacientes con COVID, ya que varios médicos de hospitales privados lo están poniendo como tratamiento, solamente que el precio es de aproximadamente nueve mil pesos en las farmacias y se está vendiendo en el mercado negro hasta en 30 mil pesos. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La respuesta clara es no. Este fármaco es un inmunomodulador, modifica la respuesta inflamatoria al bloquear uno de los mediadores químicos de la inflamación, la IL-6, y fue evaluado en ensayos clínicos donde participaron investigadoras e investigadores mexicanos, el doctor Gustavo Reyes Terán, coordinador de los Institutos Nacionales de Salud participó en coordinar uno de estos ensayos clínicos.
 No conozco los resultados, hasta donde tengo entendido no han sido todavía publicados, así como sí fueron los de remdesivir e hidroxicloroquina.
 Por lo tanto, no es un fármaco que en este momento sea recomendado ni tampoco autorizado en términos de la autorización sanitaria para el tratamiento de COVID en México.
 Tenemos una guía técnica sobre el uso potencial de fármacos cuya efectividad o eficacia más bien no ha sido todavía comprobada en condiciones que de acuerdo a ciertas características de los pacientes pudieran ser deseable su uso por otras razones, pero no es un fármaco que esté en este momento recomendado a pesar del potencial que de manera anecdótica pudiera verse.
@@ -135,11 +154,13 @@ La investigación científica en su componente clínico es muy importante que no
 Usted, por favor.
 ---
 PREGUNTA
+Buenas noches. Subsecretario, si pudiera comentarme, ahorita también presentaron una tabla donde Chiapas, por la cuestión de movilidad, puede presentar un incremento en contagios, usted está comentando que seguimos todavía arriba, todavía no ha bajado, ahora sí que la curva.
 De presentarse contagios en las grandes construcciones que están iniciando en el sureste como el Tren Maya, que se está llevando a cabo en Quintana Roo, en Chiapas, Tabasco, zonas que tienen muchos contagios, ¿la recomendación sería parar esa obra durante el tiempo necesario?
 O sea, no sé si ha visualizado usted que en determinado momento, esperemos que no, pero si llegase a pasar, aunque sea una reactivación económica, esa obra se tenga que detener.
 Y otra pregunta rapidísimo, si me lo permite. Usted mismo ha comentado y han dicho que se ve más movilidad en la ciudad y lo podemos apreciar. ¿Cuál es su llamado tanto pequeñas como grandes empresas que, sin ser esenciales, ya sea por cuestión económica o porque piensan que ya el domingo ya se acabó todo, ya están abriendo sus puertas?, o sea, ¿cómo hacerles entender que, como usted mismo ha dicho, el coronavirus sigue aquí, va a seguir aquí un buen, buen rato con nosotros? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, gracias por sus preguntas.
 Sobre el Tren Maya, el Tren Maya como obra es igual que cualquier otra y los protocolos de seguridad sanitaria se implantan, así ocurrió en la construcción del aeropuerto Felipe Ángeles en Santa Lucía y así ocurrió y ha estado ocurriendo en la construcción de la refinería de Dos Bocas.
 Desde el inicio quedaron asentadas como parte del repertorio de las actividades esenciales y la condición es que cumplan con los protocolos de seguridad sanitaria. En un momento dado en cualquiera de estas obras o cualquier otra donde se identificara un brote, se hacen las medidas de control del brote, que pueden incluir, si el brote está fuera de control, la suspensión temporal de actividades o pueden no necesitarse la suspensión temporal de actividades, depende de la magnitud de epidemia localizada, el brote.
 ¿Qué llamado?
@@ -151,9 +172,24 @@ Ahora, habiendo dicho eso, desde el punto de vista del control epidémico -y me 
 Natalia Vitela.
 ---
 PREGUNTA
+Gracias. Buenas noches, doctor.
 Le quiero preguntar, más bien, pedir si puede detallar el cambio de color en el semáforo, cuáles son los parámetros que están considerando. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Los parámetros del semáforo son cuatro:
 Uno es la intensidad de la epidemia que se manifiesta por la tendencia que tienen los casos. Cuando decimos tendencia de los casos es: si hoy tenemos 10 casos, mañana 15, mañana 20, mañana 40, hay una tendencia ascendente, van subiendo en número de casos, o bien pueden tener una tendencia estable, hoy hay 25, mañana hay 26, mañana 24, pasado mañana 25, aunque hay pequeñas variaciones hay una tendencia estable o bien hay un descenso, 40, 30, 20, 10, dos, cero, hay un descenso. Entonces, es el parámetro número uno.
 El parámetro número dos es la misma idea, cuál es la tendencia, pero de la hospitalización, si la hospitalización va subiendo, está estable o va bajando. Este parámetro y el que diré a continuación son sumamente importantes porque expresan el resto que implica la epidemia sobre la capacidad del sistema de salud para atender a todas las personas que así lo necesiten, que así lo soliciten.
-El tercer parámetro es la capacidad, la ocupación absoluta de las unidades de salud tomadas en el conjunto de las entidades federativas. Son las tablas finales que presentamos todos los días desde que empezó la fase tres de ocupación hospitalaria y se toman tanto de terapia intensiva, como de camas generales y hay una ponderación, es decir, se toman con distinta representatividad, 60 por ciento las de camas generales y…  perdón, las de terapia intensiva y 40 por ciento las de camas generales.
+El tercer parámetro es la capacidad, la ocupación absoluta de las unidades de salud tomadas en el conjunto de las entidades federativas. Son las tablas finales que presentamos todos los días desde que empezó la fase tres de ocupación hospitalaria y se toman tanto de terapia intensiva, como de camas generales y hay una ponderación, es decir, se toman con distinta representatividad, 60 por ciento las de camas generales y…  perdón, las de terapia intensiva y 40 por ciento las de camas generales.
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No le puedo poner un ejemplo específico porque incumpliría el compromiso que adquirimos precisamente de buena fe con la Conago de no hacer público el semáforo hasta que lo hayamos platicado, pero el jueves tendremos eso y el viernes podemos hablar de un ejemplo trabajado.
+Ahora, el cuarto indicador es el porcentaje de positividad que presentamos también aquí cada semana y este porcentaje de positividad es una representación indirecta de la actividad epidémica del virus SARS-Cov-2.
+Empezarán a surgir distintas proporciones o distintos porcentajes de positividad en los distintos estados en la medida que vaya cambiando la intensidad de propagación del virus SARS-Cov-2 y que otros virus, otras causas de infección respiratoria que han seguido presentes en todo este tiempo, predominen sobre el virus SARS-Cov-2.
+Pero esta es la idea, en resumen, la idea del semáforo es representar de manera panorámica el acontecer epidémico, tanto en los casos comunitarios como en la ocupación hospitalaria, como en el fenómeno virológico. Todos los indicadores los conocen ustedes, porque los ven todos los días, aquí traemos es la misma información, sencillamente la analizamos.
+Y aquí aprovecho antes de que se acabe la conferencia, porque nos queda un minuto agradecer por un lado a Conacyt y a la doctora Álvarez-Buylla y a los grupos académicos tanto de instituciones públicas, de investigación y educación superior como de los centros públicos Conacyt, porque todo este trabajo, este refinado y sofisticado análisis que nos llevó a diseñar el semáforo, después hacerlo simple y operativo respecto a la propuesta muy sofisticada que originalmente existía fue gracias a ellas y a ellos.
+Y lo otro que no quiero olvidar decir, porque ayer se me pasó decir, es mi agradecimiento una y otra y otra vez, no propio, no de los colegas, sino de todos quienes estamos involucrados en esto y asumo que también de la población, al personal de salud. El personal de salud ha seguido trabajando intensísimamente con un sentido heroico, hombres y mujeres en cada rincón de los hospitales haciendo una labor muy específica, no solamente médicos y médicas o enfermeras y enfermeros, que son los protagonistas más conocidos, el personal de radiología, el personal de laboratorio, todos.
+Y hace tiempo que no recordaba específicamente al personal de los Institutos Nacionales de Salud, los hospitales federales de referencia, quienes, junto con el IMSS, el Issste, Pemex, Sedena, Semar y las instituciones sociales y también los sistemas estatales de salud, y los hospitales privados cumplen este papel tan importante para todas y todos nosotros.
+Muchas gracias. Son las 20:00 horas en punto. Aquí terminamos, nos vemos mañana. Gracias.

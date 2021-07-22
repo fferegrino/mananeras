@@ -3,10 +3,12 @@ Presidencia de la República
 08 de septiembre de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 en punto del martes 8 de septiembre de 200. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy tenemos un breve informe técnico, después que (falla) técnico y detallado y vamos a tener más tiempo para preguntas y respuestas.
 Le pido al doctor José Luis Alomía, director general de Epidemiología, si presenta el informe técnico y procedemos.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes todas y todos, de manera especial lógicamente con la población que nos hace el favor de sintonizar a esta hora y enterarse, actualizarse de la situación de cómo se está comportando la epidemia de COVID-19 en México.
 Estamos en la conferencia vespertina 193, día 101 de esta Nueva Normalidad, siempre recalcamos el llamado a la población de, con la operación del semáforo de riesgo COVID que se está realizando de manera regional en cada una de las entidades federativas, estar por favor muy atentos y atender las instrucciones, intervenciones, diferentes tipos de acciones, que están realizando sus autoridades locales, tanto a nivel estatal como a nivel municipal porque de seguro todas ellas van encaminadas a poder limitar la transmisión comunitaria de la enfermedad.
 Veamos la actualización de las cifras nacionales para esta noche. Tenemos aquí la representación a nuestra curva epidémica de todas las personas que han presentado signos y síntomas de la enfermedad, independientemente del resultado.
@@ -26,12 +28,15 @@ Veamos la siguiente y última diapositiva del escenario nacional. Continuamos co
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, gracias, doctor Alomía.
 Vamos a pasar a la sección de preguntas y respuestas. Héctor García, Grupo Basta periódico Cantón; Daniela Pastrana; ustedes, todos, hoy hay tiempo para todos.
 ---
 PREGUNTA
+Subsecretario, rápidamente, lo que dan a conocer AstraZeneca con Oxford.
 Pero también el gobierno ruso anuncia que ya pone en circulación el primer lote de su vacuna Sputnik V y del otro lado Trump dice que el próximo mes van a tener una buena vacuna bajo su liderazgo. Platique sobre eso, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. Pongamos en contexto, vacuna contra el SARS-CoV-2, vacuna que proteja contra la infección por SARS-CoV-2 o contra la enfermedad COVID-19.
 Como hemos relatado en varias ocasiones, esta misma mañana también lo comentamos en la conferencia matutina, existen 143 productos candidatos a ser vacunas que protejan contra la infección por SARS-CoV-2 o contra la enfermedad COVID-19 y están en distintas etapas de desarrollo, desde la que son literalmente pruebas de conceptos, son solamente experimentos de ciencia básica, hasta las que se encuentran en algunas de las etapas de la investigación clínica.
 La investigación clínica se considera el momento en que ya se pasa de la experimentación en animales de laboratorio y se empieza a hacer pruebas en humanos. Clásicamente la investigación clínica se divide en cuatro etapas, la primera, se enumeran así, etapa 1, 2, 3, y 4.
 La primera tiene como razón principal, como preguntas de investigación, el mostrar la seguridad de los productos candidatos, estas etapas son indistintas para la investigación en vacunas como para la investigación en productos farmacéuticos, incluso en dispositivos médicos con pequeñas variaciones, desde luego.
@@ -68,7 +73,17 @@ Lo que quiero dejarle en claro a la población es: no anticipar vísperas, no em
 Y podemos confiar en que este y otros estudios semejantes de las otras vacunas cumplen los estándares éticos que se estipulan, son estándares internacionales que incluyen la presencia de un comité de seguridad y monitoreo de datos.
 Este respecto a la vacuna de AstraZeneca. Me preguntó otras dos.
 ---
+INTERLOCUTOR
+Sí, la vacuna rusa.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Vacuna rusa. De eso no tenemos información directa, sólo sabemos que como se presentó en algunos medios de información, el gobierno ruso comunicó que el candidato a vacuna llamado Sputnik V empezó a ser distribuido para su uso en los ensayos clínicos, nada más.
+---
+INTERLOCUTOR
+Y del Trump.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Y del presidente Trump, presidente de Estados Unidos, hizo esta afirmación, desconocemos cuál es el proceso, en el Gobierno de México no tenemos identificación específica sobre el proceso de análisis de la vacuna que está siendo impulsada por el gobierno de Estados Unidos, la de la empresa Moderna.
 Todas y todos queremos que haya vacunas pronto, pero los ensayos clínicos tienen sus tiempos, no se puede anticipar vísperas, el diseño del estudio establece cuáles son los tiempos necesarios para reclutar candidatos al estudio, personas que participan en el estudio para recolectar la información, para analizarla, para hacer inferencias y para publicar la evidencia.
 Aquí aprovecho para comentar. En México y en el mundo es también un estándar que ninguna vacuna puede ser adoptada hasta que se tienen resultados satisfactorios publicados de los ensayos clínicos fase 3.
 Esto es importantísimo tenerlo presente porque no se pueden anticipar vísperas. Existen múltiples ejemplos en la historia de la vacunología mundial de vacunas o candidatos a vacunas que pasaron satisfactoriamente la fase de investigación preclínica y las fases clínicas 1 y 2, y justo en el ensayo clínico o los ensayos clínicos de la fase 3 se muestra que, o bien no tienen la capacidad de producir el resultado que se espera, es decir, la eficacia, o incluso que pueden ser inseguras. Entonces, ahí es responsabilidad de la autoridad sanitaria de cada país no permitir la autorización sanitaria.
@@ -77,11 +92,13 @@ Es importante, este ya lo presento públicamente, Sistema de Precalificación de
 Daniela Pastrana, Pie de página; luego Juan Carlos Machorro, AM; Araceli Aranday.
 ---
 PREGUNTA
+Gracias, doctor. Buenas noches.
 Siguiendo con este tema del anuncio de AstraZeneca, entiendo entonces, por lo que usted está diciendo, que… bueno, más bien ellos anunciaron que se suspende mientras se investiga esto que nos está explicando de si es, si sería efecto directo de la vacuna o no.
 ¿Más o menos eso cuánto tiempo se lleva una investigación así?, ¿en cuánto tiempo se tiene que dar resultados?, ¿y qué efectos tiene para el acuerdo que hay o que se anunció aquí en la mañana con el gobierno de Argentina, y bueno todo lo que se había dicho?, ¿qué efectos tiene en ese plan?, ¿qué impactos tiene en ese plan?
 Y luego, la otra cosa es: Suiza retiró a México de su lista de países de riesgo. ¿Básicamente eso qué significa?, ¿cuál es la señal que mandan? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias por ambas preguntas.
 Sobre la duración de esta suspensión temporal que dispuso el laboratorio AstraZeneca no se puede anticipar hasta que se sepa cuál fue la reacción secundaria y cuál fue la recomendación del Comité de Seguridad y Monitoreo de Datos, si fue algo que es razonablemente evidente de investigar y se encuentra una solución rápida, en 24, 48 o 72 horas basta eso y ya se reactiva.
 Si es algo que requiere otro tipo de investigaciones más detalladas, en los tejidos humanos, en los líquidos humanos, en la historia clínica de la persona afectada, etcétera, se requerirá más tiempo, es difícil predecir anticipadamente cuánto puede durar la suspensión.
 Lo que sí quiero decirles es que no es un evento inusual. Cuando se hace investigación clínica es común, de hecho, diría muy común que al menos una vez, a veces dos, tres, cinco, siete veces, a lo largo de un estudio se suspenda temporalmente, precisamente lo que demuestra es que existe un mecanismo muy sensible de seguridad.
@@ -96,6 +113,7 @@ Gracias, Daniela.
 Juan Carlos Machorro, AM Noticias, de Querétaro.
 ---
 PREGUNTA
+Sí, buenas noches, doctor. Juan Carlos, de AM de Querétaro.
 Doctor esta mañana y ahorita comentó rapidísimo el tema, hizo un desglose de los estados más o menos cómo van y de algunos de los estados que usted mencionó que están no disminuyendo, sino creciendo, esto hace que en octubre el país no va a estar verde totalmente.
 Estos estados que no están, en el buen sentido, no cumpliendo, ¿ha hablado con los secretarios de Salud estatales, con los gobernadores?, o sea, ¿qué es lo que está pasando que no están controlando ahora sí que su línea de contagios.
 ¿Y visualiza usted que sí, que va a ser, llamémosle un país pintado diferente en octubre?
@@ -104,6 +122,7 @@ Y rapidísimo una segunda pregunta si me permite, la Liga Mexicana de Fútbol Pr
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Juan Carlos. Empiezo con la última pregunta.
 Sí, efectivamente, en el semáforo verde, dadas las características que definen al estado del semáforo verde hay una muy razonable seguridad sanitaria, y eso incluye que se podrán abrir cuando se esté en verde las escuelas y también las actividades masivas con aforo restringido, eso incluirá las actividades deportivas, incluyendo el futbol, si se llega al semáforo en verde o cuándo se llegue en semáforo en verde.
 No tengo conocimiento de que nos hayan contactado ya, a reserva de que al doctor Ricardo Cortés lo hayan contactado, él es nuestro punto focal, el doctor Ricardo Cortés, director de Promoción de la Salud, nuestro punto focal para el ámbito deportivo y otros ámbitos, pero vamos a ver.
 Escuchemos la propuesta y hemos tenido, reitero, un diálogo muy fluido con la Liga Mexicana de Futbol desde el inicio de la epidemia, y aprovecho para agradecerles y celebrar el sentido de responsabilidad que ha tenido la liga de mantenerse siempre en contacto y siempre apegado a las disposiciones sanitarias nacionales.
@@ -123,12 +142,20 @@ Entonces, por favor no tomarlo como que es un juicio sobre la calidad y todos de
 Gracias, Juan Carlos.
 Araceli Aranday, Canal 11.
 ---
+PREGUNTA
+Gracias, secretario. Preguntarle…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sub.
+---
 INTERLOCUTORA
+Preguntarle primero, usted en alguna ocasión había dicho que el reto para la Secretaría de Salud era esta red de refrigeración o red para condensar las vacunas. A mí me gustaría saber cómo va esto, si ya han hecho estos avances y cómo está el panorama para poder guardar todas estas vacunas en todo el sector.
 También dos preguntas por parte de las personas que nos ven: ¿cuáles son las recomendaciones para la población ahora para los festejos del 15 de septiembre?, ¿qué aspectos se van a tener que guardar para las personas que quieran convivir o no puedan hacerlo?
 Y una más, ¿por qué si el contagio de COVID es a través de la saliva, por qué cuando se hace la prueba rápida tiene que introducirse el hisopo muy adentro de la nariz?
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Empecemos con esta tercera pregunta, recordando no confundir la prueba rápida con la prueba de PCR.
 Las llamadas pruebas rápidas también conocidas como tiras reactivas, en general son pruebas que buscan detectar anticuerpos, es decir, no al virus, sino la respuesta inmune o una manifestación de la respuesta inmune de los seres humanos, la muestra biológica que se utiliza es sangre, y funciona, para quien lo conozca, como una prueba de embarazo en el sentido, no tiene nada que ver COVID y embarazo, pero es la manera en que se ejecuta es parecida.
 Es un cartuchito, una pieza de plástico que tiene una tira de un material textil impregnada en los reactivos correspondientes se deposita una gota de sangre, igual que se hace también en las pruebas de glucosa del monitoreo de personas con diabetes, y ahí se hace una reacción química, bioquímica y se detecta una coloración de una línea sobre que identifica los anticuerpos. Esta es la prueba rápida.
 Sobre estas pruebas rápidas me he pronunciado en innumerables ocasiones y lo vuelvo a hacer en el sentido de que la Secretaría de Salud no recomienda el uso de pruebas rápidas porque tienen muy limitada capacidad para distinguir a alguien que ya tuvo COVID de alguien que no ha tenido COVID, dan resultados falsos positivos y falsos negativos, y en una proporción inaceptablemente alta, y esto impide que sean un instrumento confiable para diagnóstico clínico o para vigilancia epidemiológica. Esas son las pruebas rápidas.
@@ -138,12 +165,26 @@ Porque es la zona de mayor densidad de secreciones respiratorias contaminadas co
 Entonces la transmisión cuando decimos que es por gotas no son de saliva solamente, es más alta la carga viral en los otros componentes que no son saliva, que son las secreciones que todos tenemos en la vía respiratoria, los mocos. Esa es la razón.
 Había otra pregunta.
 ---
+INTERLOCUTORA
+15 de septiembre.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El 15 de septiembre, no quisiera equivocarme, porque no recuerdo que se haya presentado ya oficialmente la modalidad del Grito ¿o ya se presentó?, no ¿verdad?, no caeré.
 No, esto será responsabilidad en su momento del propio presidente muy seguramente o del comité organizador de las fiestas patrias en el que participa de manera protagónica nuestras heroicas Fuerzas Armadas.
 Entonces se hará la presentación pública, es una modalidad interesante, hasta ahorita les puedo decir. Creo que desde el punto de vista de salud se ha cuidado muy bien, muy, muy bien todo lo que implica la seguridad sanitaria para tener esta propuesta innovadora de Grito y de actividad del 16 de septiembre, pero me espero a que se presente públicamente.
 Lo que sí les puede decir a toda la ciudadanía es que en cualquier condición lo que se recomienda es no congregarse y ya cuando se presente públicamente se entenderá el porqué.
 ---
+INTERLOCUTORA
+Tampoco en casa.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Tampoco en casa, exacto, la famosa reunión de pozole para ver el Grito, mejor no, mejor el pozole en pequeños grupos.
+---
+INTERLOCUTORA
+Y lo de la refrigeración de las vacunas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La refrigeración de las vacunas. A todo el sistema en el que se conserva en una temperatura ideal las vacunas, también se usa para algunos medicamentos se le conoce como red de frío.
 ¿Por qué se llama red o cadena de frío?
 Porque es un mecanismo por el que de un refrigerador a otro, a otro, de un almacén central, posiblemente en el aeropuerto donde llegan las vacunas hasta un almacén central, quizá en la Ciudad de México o en algún puerto marítimo donde se conservan temporalmente a un refrigerador también de tamaño industrial en cada una de las entidades federativas, a uno ya de menor tamaño pero todavía de grandes dimensiones en las jurisdicciones sanitarias, a un pequeño refrigerador en cada una de las 26 mil unidades de salud, hasta un termo portátil que lleve la persona vacunadora. En cada paso, en cada transferencia del embarque de vacunas se tiene que cuidar que en todo momento se conserve la temperatura ideal.
 Hay vacunas que requieren refrigeraciones extremas, por ejemplo, menos de 70 grados centígrados, es una temperatura de congelación importantísima durante alguna fase del proceso. Hay vacunas que, al contrario, no se pueden poner a una temperatura tan baja porque se daña la sustancia activa, ya sea material genético, antígenos, un virus inactivado, y en general una vez en temperatura de operación no deben pasar de cuatro grados centígrados, que es la temperatura de refrigeración convencional de un refrigerador doméstico.
@@ -162,10 +203,12 @@ También quiero ser justo reconociendo que no es que no haya nada, hay, hay una 
 Gracias, Aracely.
 ---
 PREGUNTA
+Buenas tardes.
 Mi primera pregunta sería si con esta experiencia que algunos gobernadores del país en la falta, han dicho, en la falta de comunicación con la autoridad federal y con la salida de estos 10 gobernadores se afectaría aún más la coordinación para la estrategia de combate contra COVID-19.
 Por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. No pensamos que sea así, el presidente López Obrador esta mañana explicó extensamente las implicaciones de esta decisión libre que tomaron 10 gobernadores y la posición que tenemos desde luego él como jefe de la Nación, pero también los miembros del Gobierno de México de celebrar la libertad que existe en México de opinión y también de este tipo de decisiones.
 La Conferencia Nacional de Gobernadores, Conago, no es un organismo del Estado, no es un organismo de gobierno, es una asociación que por libre voluntad establecieron hace varios años los que eran gobernadores y gobernadoras del momento, creo que no había gobernadoras en ese momento, y hoy 10 de ellos deciden libremente tomar una decisión que, sin duda, les corresponde como titulares del Poder Ejecutivo de sus estados.
 Desconozco si consultaron a la ciudadanía de sus estados sobre las implicaciones que esto puede tener, desconozco si es así, pero tomaron una decisión que supongo les corresponde o que tienen las facultades para tomarla en la medida que es un mecanismo de asociación libre.
 ¿Eso le cambia la perspectiva respecto a la relación del Gobierno de México?
@@ -174,24 +217,38 @@ Quiero decir, además, con el mayor entusiasmo que yo encuentro en los 32 mandat
 Entonces, no dudo que, aunque ellos, los 10 que se retiraron de Conago, ya no concurran a las sesiones Conago, -mañana tenemos precisamente una sesión que convoca la secretaria de Gobernación para discutir varios temas- habrá otros mecanismos de comunicación directa, y los tenemos.
 ---
 INTERLOCUTORA
+¿Serían dos sesiones?, una para ellos y una para la Conago.
 Y hablaba de implicaciones, ¿qué implicaciones podría tener…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, no he hablado de implicaciones, no creo que tenga ninguna implicación.
+---
+INTERLOCUTORA
+Hablaba usted de que había algunas implicaciones, por eso le preguntaba ¿qué implicaciones podría tener con la autoridad sanitaria en específico que le corresponde?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, si no me expresé, gracias por la oportunidad de aclararlo. Yo no veo implicación, ninguna.
 ¿Por qué razón?
 Porque la relación de los Poderes Ejecutivos estatales con el Poder Ejecutivo y en general de los gobiernos en su conjunto estatales con el gobierno en su conjunto federal la establecen las leyes, no tiene nada que ver con pertenecer o no a una asociación de gobernadores, nada, las obligaciones son las mismas, las facultades son las mismas.
 Yo no le veo implicaciones, en el campo que me corresponde o nos corresponde al equipo de salud no veo que vaya a afectar la dinámica de trabajo y celebro para las 32 entidades federativas que tengan titulares del Poder Ejecutivo gobernadores, gobernadoras, la jefa de Gobierno con una actitud tan propositiva y tan responsable sobre la salud en sus estados.
 ---
+INTERLOCUTORA
+Y, por último, sobre el proyecto de presupuesto que hoy en envía a la Secretaría de Hacienda, su opinión respecto a lo que se le está otorgando a la Secretaría de Salud.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Todavía no lo analizamos, apenas lo recibimos por vía extraoficial hace unos minutos, pero lo vamos a estar analizando.
 En general en el paquete que se envió, identificamos que se envió la propuesta presupuestal que en su momento hizo la Secretaría de Salud a partir de su Unidad de Administración y Finanzas que llegó a Hacienda a la unidad correspondiente de política fiscal, política presupuestal y que fue la que el secretario Arturo Herrera presentó ante el Congreso, pero hay que esperar a ver cuál es la dinámica de deliberación soberana que tendrá la Cámara de Diputados, quien tiene la facultad de hacer contrapropuestas o modificaciones al proyecto de Presupuesto de Egresos de la Federación.
 Muchas gracias.
 Por favor.
 ---
 PREGUNTA
+Muy buenas noches doctores. Omar Quiroga, de Reporte Crítico, con un recordatorio y una pregunta, si es tan amable.
 Hace un par de semana pregunté al doctor Ricardo Cortés, si no mal recuerdo sobre una actualización de la afectación de COVID a los pueblos originarios en México y considerando que en la presentación que se hizo aquí fue una etapa temprana cuando apenas se introducía el virus a esas comunidades.
 Y la pregunta, siguiendo el hilo conductor de la Conago, digo, ya usted dijo las implicaciones en términos de comunicación que parece no haber ninguna, pero no sé si la autoridad sanitaria federal, digo, considerando que ellos también son autoridades sanitarias, ¿ha identificado una diferenciación entre, no sé, la calidad de la información, comunicación, desempeño en los diferentes indicadores que la autoridad sanitaria no presenta aquí para el semáforo, digo, y esta pregunta también porque hay una correlación entre estos 10 gobernadores y aquellos que no suscribieron al convenio con el Insabi a principios de año. Entonces, digo se habían hecho este tipo de análisis y un resultado al respecto a ocho meses del Insabi y a seis de COVID.
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sobre el recordatorio, con mucho gusto lo preparamos, un informe de actualización sobre la situación de COVID-19 en los pueblos originales y la traemos en algunos pocos días, no le puedo decir cuándo, pero trabajaremos en ello.
 Sobre gobernadores o gobiernos estatales su decisión de salir de Conago, su antecedente de haberse suscrito o no, -adherido que es el término jurídico- o no al Insabi, el sistema que ahora coordina el Instituto de Salud para el Bienestar, que es el organismo público descentralizado del Gobierno de México que coordina la atención médica, tiene como facultad coordinar la atención médica en el país.
 No es una correlación propiamente dicha en el sentido de que los 10 no se hayan adherido y los otros 22 sí se hayan adherido, es un mixto, en términos estadísticos aun cuando hubiera una diferencia en el porcentaje de estos 10 que no se adhirieron comparado con el porcentaje de los 22 que no se adhirieron.
 Si se fijan, la comparación es parecida a lo de las vacunas, así funciona la diferencia estadística, no hay poder estadístico suficiente porque la muestra es muy chiquita, tenemos 10, es muy pequeña esa muestra, entonces dudo que se pueda hacer una correlación en el sentido estadístico del término.
@@ -201,8 +258,22 @@ Muchas gracias.
 Nos queda medio minuto para una última pregunta, allá el compañero que levantó la mano, atrás de Héctor García, por favor, es que no le alcanzo a ver.
 ---
 PREGUNTA
+Buenas noches, doctores. Soy Gerardo Suárez, reportero en El Heraldo de México.
 Quiero preguntarle, en torno a la vacuna contra la influenza, varios científicos, médicos y divulgadores de la ciencia lanzaron una campaña para pedir a la población que se vacune.
 Mi pregunta es: ¿qué cambios se prevén para la campaña de vacunación de influenza ante esta coexistencia con el COVID-19?
 ¿Y qué se está previendo debido a esta coexistencia?, porque ya habían dicho una cifra de las vacunas que se han comprado, 35 millones.
 También preguntarle si son suficientes, porque son aproximadamente tres millones más que el año pasado.
 Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. La pregunta me parece muy pertinente, ya la habíamos comentado en una ocasión previa, pero con mucho gusto lo volvemos a explicar.
+Influenza -pero me quedan pocos… un minuto, entonces lo abreviaré- influenza se parece al COVID, tienen algunas diferencias, pero ambas son enfermedades causadas por virus, distinto virus, pero que producen infección leve en la mayoría de los afectados, 80 por ciento, 85 por ciento, infección grave, suficientemente grave en 15 o 10 por ciento y entre tres al cinco o hasta el seis por ciento de enfermedad muy grave que requiere terapia intensiva y puede ser letal.
+En el caso de influenza se conoce que existen vacunas desde hace mucho tiempo, las vacunas contra influenza tienen una eficacia muy limitada, muy limitada, 40 por ciento es la efectividad estimada en el mejor de los casos, ¿esto qué quiere decir?, que no tienen la aspiración de ser vacunas de cobertura universal toda la población, porque el propósito no es interrumpir la transmisión dada la limitada eficacia y efectividad de la vacuna contra influenza.
+Pero lo que sí pueden lograr es disminuir los riesgos de complicaciones, hospitalización y muerte en los grupos más vulnerables de la población.
+¿Quiénes son?
+Muy parecidos a los del COVID, excepto los niños. Mientras que la influenza incluye mayores de 60 y menores de cinco, COVID no incluye a los menores de cinco como un grupo de especial riesgo.
+Sí las embarazadas, aunque nosotros hemos exagerado en considerar a las embarazadas como una población de alto riesgo de COVID, exagerado en el sentido de la protección de las embarazadas, pensamos de más y no de menos, y coinciden en diabetes, obesidad, sobrepeso, hipertensión, enfermedad cardiaca y pulmonar crónica, inmunosupresión, etcétera.
+El reto es lograr más rápidamente vacunar a las poblaciones de riesgo. Desde 2007 que existe el programa nacional gratuito de vacunación contra influenza, un número grueso, 32 millones de vacunas se ponen entre el 15 de octubre y hasta el final de marzo, y eso hacer que el segundo segmento de esta temporada de influenza, la correspondiente al año siguiente, enero, febrero, marzo, no brinde la protección o la duración de protección que se hubiera aprovechado si todo mundo se vacunara antes de diciembre.
+Entonces, el cambio fundamental que estamos haciendo es buscar los mecanismos de eficiencia en la logística de operación de los sistemas estatales, desde ahorita lo dejo claro, es una responsabilidad de los estados, los 32, los 10 que se salieron de Conago también, aplicar en tiempo y forma esta vacuna.
+Las disposiciones generales son del gobierno mexicano, el gobierno mexicano compra las 35 millones de vacunas, pero el que debe ponerlas en tiempo y forma, y ponerlas a las poblaciones de alto riesgo y no al primero que pase, son los gobiernos estatales, ¿quedó claro eso ya?, los gobiernos estatales, pero obviamente van a contar con nuestro apoyo y aplauso si lo logran, que esperemos que sí lo logren, trabajaremos de manera muy unida y coordinada para que la vacuna, que ya empezó a llegar desde el pasado viernes 28 de agosto, en cuanto juntemos 10 o 12 millones y que hayan pasado por el proceso de verificación sanitaria de Cofepris y se haga la liberación de la misma arranquemos con la campaña de vacunación para que alcancemos a vacunar antes del 31 de diciembre. Eso sería. Muchas gracias por la pregunta.
+Son las 20 horas con tres minutos. Aquí terminó la conferencia. Nos vemos mañana. Muchas gracias.

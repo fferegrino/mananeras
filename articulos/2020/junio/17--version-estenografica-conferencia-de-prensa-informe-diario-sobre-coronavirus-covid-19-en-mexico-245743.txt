@@ -3,6 +3,7 @@ Presidencia de la República
 17 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Son las 19:00 del miércoles 17 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener tres bloques temáticos:
 El primero es el informe técnico diario.
 El segundo, como ocurre cada semana, vamos a compartir con ustedes en tiempo real las proyecciones o las predicciones sobre las curvas epidémicas locales, en algunos casos por ciudad, en otros casos por estado y los datos observados, los datos reales de casos confirmados para los que están hechas las predicciones.
@@ -10,6 +11,7 @@ Y finalmente hoy nos acompaña nuestro muy querido amigo y colega, el doctor Ví
 Le pido al doctor José Luis Alomía si nos comparte el primer bloque.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas tardes todas y todos. Bienvenidos a la conferencia vespertina número 110, en el día 17 de esta nueva normalidad, en donde precisamente en la siguiente diapositiva podemos ver cómo se encuentra conformado el semáforo de riesgo COVID para todas las entidades federativas, la mitad de ellas en riesgo alto, color naranja; la otra mitad en riesgo máximo, que es el color rojo.
 Recordemos rápidamente cuáles son las actividades que pueden llevarse a cabo y en función también de su aforo o limitación. Esto es importante, repasarlo todos los días para que la población que nos está escuchando tenga muy presente y sepa claramente cuáles son estas actividades que pueden en su momento llevarse a cabo y, más importante, cuáles no deben llevarse a cabo o deben de realizarse sólo con algunas medidas.
 En el caso de la actividad hotelera, ya lo habíamos estado viendo, en semáforo rojo sólo un 25 por ciento de aforo y este 25 por ciento destinado a personas que estén en actividades laborales esenciales. Ya las entidades federales que están en color naranja sí pueden incrementar ese aforo hasta un 50 por ciento y además también ocupar o activar áreas comunes, también con un aforo de 50 por ciento.
@@ -44,6 +46,7 @@ La siguiente diapositiva. Vemos la cantidad de unidades COVID, cómo estas han i
 Sería el informe para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Vamos a compartir de manera sintética la actualización de las curvas epidémicas, recordando cuáles son los elementos que se presentan aquí y comentando sobre el significado y la utilidad también.
 Curva epidémica, un gráfico que representa cómo ocurre a lo largo del tiempo, que está representado en este eje, aquí están las distintas fechas y empezamos aquí desde el 27 de febrero, aquí está el 28 de febrero fecha del primer caso y hasta la fecha presente.
 Y aquí representando por la altura de las líneas, ya sea esta curva o las columnas está el número de eventos de interés, en esta situación concreta es casos y cuando lleguen las otras dos curvas explicaré qué significan, no son sólo casos, sino son personas hospitalizadas.
@@ -129,6 +132,7 @@ La última, la ocupación de terapias intensivas también en una fase ascendente
 Le pido al doctor Víctor Hugo Borja si ahora nos comenta sobre el tema.
 ---
 VÍCTOR HUGO BORJA, DIRECTOR DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Muy buenas tardes a todas y a todos.
 Voy a reportar sobre el registro de defunciones en el IMSS. Después de hacer un compromiso sectorial de mejorar la calidad de los registros y actualizar todos nuestros registros relacionados con la epidemia, en el IMSS hicimos una evaluación de la congruencia de datos entre los distintos sistemas de información.
 Nosotros tenemos un sistema automatizado propio del IMSS y lo comparamos con el Sistema de Vigilancia Epidemiológica de la Enfermedad Respiratoria Viral, que es sectorial. Dedicamos algunos epidemiólogos a hacer esta revisión y aprovechamos el personal que teníamos contratado para la Segunda Semana Nacional de Salud programara para junio, de tal manera que este personal no perdió el empleo, continuó trabajando con nosotros y nos ayudó a vigilar y a revisar los registros, tanto de las hospitalizaciones como de las defunciones en el IMSS.
 Esta búsqueda intencionada y la comparación de los registros nos llevó a la detección de 957 defunciones COVID confirmadas, con fecha de defunción previa al 10 de junio, esto estamos reportando los hallazgos de este fin de semana, y previo, lo que se considera previo al 10 de junio lo consideramos como rezago, dado que hay un periodo de siete días para la confirmación de las defunciones y el registro de las mismas.
@@ -152,44 +156,55 @@ Y de aquí en adelante garantizaremos la actualización permanente y continua de
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias doctor Víctor Hugo Borja, director de Prestaciones Médicas del IMSS.
 Por favor, adelante, hoy le vamos a dar la palabra acá al compañero y a la compañera y compañero por acá.
 ---
 PREGUNTA
+Buenas noches, señor subsecretario, director Alomía, director del Seguro.
 Unas preguntas. Cuando hay reconversión en los hospitales ¿también hay camas con ventilador? Esa es una pregunta.
 Y si se puede replicar el sistema de Tlaxcala para replicar los resultados, se ve que son buenos.
 Y en el caso de la última lámina del director del Seguro, ¿podrían incluir la palabra ‘optimización’ aparte en esa presentación. Gracias, buenas noches.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sí, definitivamente (falla de transmisión)… de personas con enfermedad, bueno enfermedad respiratoria aguda grave, esto quiere decir que no es solamente COVID de manera específica, sino que alguien que tenga una enfermedad una enfermedad respiratoria que requiera distintos servicios de apoyo, como la inhaloterapia o la medicina crítica, la terapia intensiva, debe estar disponible en los hospitales.
 Algunas de las personas que llegan en esa condición clínica se les confirma tener infección por el virus SARS-CoV-2, aproximadamente 73 por ciento, según informamos esta semana, de las personas que están con ventilación mecánica, y el 30 por ciento o 27 por ciento, aunque quedan sin confirmación, se les da la atención disponible.
 Respecto a Tlaxcala, justamente eso comenté ayer con el gobernador Marco Mena, que nos sería muy interesante explorar con mayor detalle la experiencia tan positiva que tiene Tlaxcala para poder intercambiar este conocimiento con las demás entidades federativas, poder encontrar cuáles son los elementos críticos de éxito, y en su momento aquellos que sean replicables en otras entidades federativas pues utilizarlo.
 Por supuesto generosamente el gobernador Marco Antonio Mena dijo que está totalmente dispuesto a hacerlo, y su secretario de Salud, el doctor Lima, también está en muy buena actitud en este sentido. Gracias.
 El colega de allá y acá estos dos colegas de acá.
 ---
 PREGUNTA
+Gracias, doctores buenas tardes. David Pérez de Tejada de Informe 24, de Audiorama.
 La semana pasada hablaba de… le pregunta el compañero Juan Carlos Machorro sobre la situación del futbol americano, ya nos decía que mientras esté este semáforo no se puede hacer nada.
 Pero los entrenamientos, ¿se ha acercado gente de la Liga Onefa a ustedes para ver los entrenamientos? En Estados Unidos se está haciendo que se hacen por sectores, por equipos, ofensiva, defensiva, equipos especiales aparte para preparar una temporada de seis meses que se podría inclusive entre los planes de Onefa alargar.
 ¿Esto podría ser factible?, ¿ustedes cómo…? ¿darían ese aval?
 Y también saber si han acercado obviamente las ligas universitarias con el sector salud para ver si se puede realizar esta liga mayor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. No tengo conocimiento de que se hayan acercado a reserva que el doctor Ricardo Cortés les haya recibido, pero pienso que todavía no.
 Y por supuesto que estamos abiertos a identificar cuáles son situaciones concretas que pudieran representar dudas sus organizadores y organizadoras sobre la conveniencia de hacerlo. Esa es la vía preferente que haya una identificación del riesgo y una actitud de exploración sobre cuáles son los elementos que se pueden trabajar para reducir estos riesgos.
 No perder de vista que las autoridades estatales tienen atribuciones específicas y siempre tienen que estar involucradas porque los detalles finales sobre que qué es aceptable o no en una entidad federativa, incluida por supuesto la Ciudad de México, es una responsabilidad del gobierno de la entidad. Pero sí. Muchas gracias.
 Vamos a dar cabida aquí a la compañera, al compañero y luego nos vamos con Marco Antonio, y si da tiempo Juan Hernández.
 ---
 PREGUNTA
+Buenas noches. Iris Velázquez, del periódico Reforma.
 Sólo precisar ¿a estas 19 mil defunciones anunciadas tenemos que sumar las reportadas por el IMSS?
 Y también, hasta ahora se ha reportado la capacidad en las unidades de terapia intensiva, pero en las gráficas que usted nos muestra vemos que hay, bueno, que se superaron ¿esto a qué se debe?
 Y aprovechando la presencia del IMSS, hemos visto… Bueno, quiero preguntarle, hay varias quejas que persisten en diversos hospitales de diversas entidades del país. Hemos visto que, por ejemplo, algunos funcionarios del Issste han sido separados de sus cargos porque han acusado que se mantienen, bueno, que retienen los materiales o los insumos en las bodegas.
 ¿A nivel nacional el IMSS tiene quejas de este tipo? Y si es así saber cuántos son los funcionarios que han sido separados del cargo por esta cuestión o por algunas otras quejas, como que se no se les da la incapacidad completa, malos tratos, etcétera.
 Muchas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Quieres contestar?
+---
 VÍCTOR HUGO BORJA ABURTO
+Sí. Una buena parte de las defunciones están incorporadas y se incorporarán algunas adicionales en los siguientes días, es por eso que queríamos anunciarlo, que se están incorporando paulatinamente en estos tres días.
 En el caso del IMSS las quejas de los derechohabientes son atendidas de manera inmediata. Si lo que se refiere son las quejas del personal de salud sobre el equipo de protección personal específicamente, no tenemos queja sobre de que los directivos se queden con el material, hemos tenido algunas quejas sobre la calidad de los equipos que se han sustituido de inmediato.
 Tenemos una coordinación de control de calidad e insumos que vigila estas situaciones y hemos sustituido de manera inmediata el equipo de protección personal que en algunos lotes vienen algunos de una calidad no aceptable; cuando esto pasa, lo sustituimos.
 No hemos tenido que rescindir ninguno de los directivos de hospitales por estos motivos. La verdad es que estamos muy orgullosos de los médicos, las enfermeras y el resto del personal del IMSS, porque están haciendo un gran esfuerzo para la atención de los derechohabientes.
 Y más que enfocarlo a estas quejas, yo enfocaría al gran esfuerzo que están haciendo todos ellos día con día. Es una epidemia para la que no estábamos preparados en ninguna parte del mundo en los términos o en la magnitud que está afectando a todos, de tal manera que es un esfuerzo adicional el que están desarrollando todo el sector salud en todos los hospitales.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Borja.
 Aquí aprovecho para recordarles, a propósito del tema de mortalidad, que estamos trabajando con el gobierno de la Ciudad de México para estandarizar una metodología para incorporar la información estadística de la mortalidad que no es inicialmente observada.
 La presentación del doctor Víctor Borja es muy útil porque nos permite identificar lo que comentamos hace varias semanas e incluyendo cuando vino la doctora Sheinbaum y que son los procesos de integración de la información y la situación donde hay personas que desafortunadamente pierden la vida, en sí mismo es desafortunado, pero además desafortunadamente no se logra poner un espécimen útil para el diagnóstico del virus, para el diagnóstico por laboratorio.
 Esto incluye algunas personas que fallecen también en la casa y aprovecho para recordar aquí a la población: no se esperen, no se esperen, si es una persona mayor de 60 años, tiene diabetes, enfermedad crónica como hipertensión, tiene obesidad, fuma, tiene inmunosupresión, no se esperen, vayan a la unidad de salud si es que tienen los síntomas de COVID para poder detectar oportunamente cómo va avanzando la enfermedad; y si no hay un avance que pueda ser manejado en casa, debe quedarse hospitalizado.
@@ -200,4 +215,12 @@ Entonces, ya empezaremos a tener una reconciliación de información de lo que e
 Nos queda muy poquito tiempo. Dijimos que el compañero, por favor.
 ---
 PREGUNTA
+Gracias, buenas noches. Bogdán Castillo, de Televisa.
 La pregunta es ¿en qué parte de esta contingencia se estarían incorporando a su vida laboral las personas vulnerables?, es decir, aquellas que tiene diabetes, que tienen hipertensión arterial, que son obesas o que tienen problemas renales, ¿en qué momento de esta contingencia se estarán incorporando a la vida laboral?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+La pregunta es muy importante y se ha expresado tanto los empleadores, las y los empleadores, como las y los trabajadores que están en una condición como ésta. Hemos recomendado que las personas que tienen enfermedades crónicas o son mayores de 60 años retrasen su incorporación a la vida laboral como una medida adicional de protección.
+Y en el semáforo en amarillo es donde los tenemos, en amarillo, cuando los semáforos pasen a amarillo es cuando ya se sugiere que pueden incorporarse de una manera más seguras las personas mayores de 60 años o con enfermedades crónicas.
+Muchas gracias. Ya no da tiempo, Juan, Marco, mañana.
+Muchas gracias. Son las 20:00 horas. Muchas gracias por sus preguntas.

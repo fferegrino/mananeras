@@ -3,14 +3,20 @@ Presidencia de la República
 25 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:08. Hoy se nos atrasó ocho minutos el inicio de la sesión. Hoy es sábado 25 de abril de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la pandemia de COVID, la enfermedad causada por el coronavirus SARS CoV-2.
 Hoy vamos a centrarnos en el informe técnico, vamos a compartir alguna información de interés público, incluyendo un video y otra información que es también relevante para ustedes, y abrimos a preguntas y respuestas.
 Entonces, vamos a empezar con el video, el video se los voy anunciando mientras lo ponen, ahí está.
 ---
 FABIANA ZEPEDA ARIAS, JEFA DE LA DIVISIÓN DE ENFERMERÍA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+¿Qué les digo a las personas que hoy están violentando a mis compañeras, mis compañeros?
 Paren la violencia, únanse a nosotros. Somos gente común como cualquier otra, somos seres humanos que también tenemos sentimientos, pero que también somos profesionales responsables de nuestra labor.
 Pedimos respeto, pedimos respeto a las personas que hoy nos estamos dedicando a cuidar a los demás, a las personas que estamos cuidando familias enteras que están contagiadas. Por eso exigimos respeto, nos lo merecemos.
 ---
+VOZ MUJER
+Gobierno de México.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias a la jefa Fabiana, que nos comparte nuevamente este mensaje, recordarán que lo expresó públicamente la semana pasada y seguimos teniendo esta horrible situación, afortunadamente en casos esporádicos, pero no por ello menos importantes. Nos ofende y nos preocupa cada uno de los casos de agresión, de violencia física o verbal, o cualquier acto de discriminación que ocurra en contra de cualquier persona, pero en este caso en contra de las y los trabajadores de la salud.
 Entonces, gracias, jefa Fabiana, por compartirnos este mensaje que expresa la voz de todas y todos en el sector salud y estoy seguro que de una parte muy mayoritaria de la sociedad mexicana.
 Vamos a entrar con el informe técnico. Le voy a pedir al doctor Alomía que lo presente, yo solamente voy a comentar sobre el calendario, ya dijimos que lo vamos a poner a poner todos los días para darle seguimiento a la jornada.
 Ahí podemos ver. Recordarles que la Jornada Nacional de Sana Distancia inició el 23 de marzo, se formalizó con la disposición del Consejo de Salubridad General a partir del 30 de marzo y se ha prolongado hasta el 30 de mayo.
@@ -43,6 +49,7 @@ Le van a picar los mosquitos y le pueden transmitir estas enfermedades. Entonces
 Le pido, ahora sí, al doctor Alomía si nos lleva por el comunicado.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Buenas noches a todos y todas.
 Si vemos el comunicado. Creo que hay una diapositiva antes de esta para ver el panorama internacional. Muchas gracias.
 Como podemos ver, 41 por ciento, es decir, un punto porcentual menos también de ayer para hoy, en el acumulado de casos de los últimos 14 días de la pandemia. Vemos cómo la pandemia continúa día con día disminuyendo su actividad, es decir, en los últimos 14 días.
@@ -67,6 +74,7 @@ Si vemos las barras de color naranja, los 970 casos que aparecen precisamente pa
 Sería la actualización del panorama nacional.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Excelente. Muchas gracias, doctor Alomía.
 Y lo de los hospitales para introducirlo. Vamos a presentar otra sección que es nueva y que representa uno de los elementos de interés de la fase 3. Dijimos, retomo sobre lo que comentamos para que todo mundo recuerde, cada fase de la epidemia tiene una necesidad de información diferente.
 ¿Por qué razón?
 Porque la dinámica de la enfermedad, la dinámica epidémica de la enfermedad es diferente.
@@ -126,22 +134,29 @@ Esto ilustra lo importante que es la contención. Esto es un trabajo de contenci
 Vamos a abrir. Nos consumimos casi todo el tiempo, pero vamos abrir a preguntas, usted hace mucho que ya no le tocaba, empecemos con usted y luego con usted.
 ---
 PREGUNTA
+Sin el micrófono, ¿está bien? Sí se escucha, ¿no? Es que no, no, no. Perdón.
 Quiero preguntarles por qué algunos hospitales no reportaron la ocupación hospitalaria, los que mostró.
 Y si este reporte es con fecha, creo que sí de hoy, pero es que en la app de la Ciudad de México hoy reporta más hospitales que no tienen disponibilidad. Quisiera saber cuál es la diferencia entre ese reporte y la app que presenta la Ciudad de México.
 Y también quiero saber, de las 11 mil 600 camas, bueno de las camas que presentaron que hay disponibles ¿cuántas son específicamente para terapia intensiva?, por favor.
 Y si tiene alguna implicación o un impacto que no estén reportando todos los hospitales que deberían hacerlo la ocupación hospitalaria.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Yo le contesto la tercera y le pido al doctor Alomía si contesta las otras dos.
 La implicación, digamos, lo ideal es que estén reportando todas las unidades de salud y por lo tanto todas las autoridades sanitarias que son los sujetos obligados. No lo tomamos a mal ni estamos preocupados de que haya negligencia o indisposición o algo así, a veces es retos operativos, no necesariamente en todos los estados existe el personal designado antes de COVID para hacer este tipo de operaciones, este es un proceso de vigilancia epidemiológica de la ocupación hospitalaria y de la demanda de servicios que no todos los hospitales tienen.
 Es una costumbre que los hospitales tengan un censo diario, pero la mecánica de integrarse a ese censo diario y cargarlo a una plataforma no es algo ocurra en forma ordinaria en los hospitales de México. Es un proceso de adaptación a una nueva tarea.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Claro que sí. En relación a las preguntas, comentar que este nuevo sistema, es un sistema informático está en línea y es además en tiempo real, quiere decir que en el momento en que la unidad captura su información cada una de las unidades que están notificando -hasta el momento estas más de 600 unidades- tienen un nombre de usuario y password específico para la unidad, hay una persona responsable dentro de la unidad que además fue designada por su coordinador estatal, dado que los mismos secretarios y secretarias de Salud de los estados nombraron a este enlace operativo, ellos a su vez nombraron a un responsable en la unidad.
 Y esa persona con esta clave notifica directamente a la red, y en el momento en que lo hace los números se van actualizando. Uno, si entra al dashboard en donde se ve la información, cada uno que uno hace un refresh, los números están actualizando.
 Por lo tanto, para presentar la información, al igual como lo hacemos con los datos de la vigilancia epidemiológica se marca un punto de corte. Como dice el doctor, el corte lo hicimos el día de hoy, pero marca un corte más temprano, por lo tanto, vamos a estar haciendo un corte siempre a la misma hora para que en su momento los datos igual y puedan ser comparables.
 Entonces, es importante comentar que, como también lo decía el doctor López-Gatell, se está incorporando más unidades de aquellos estados que están pendientes de reportar. Los 10 estados que vimos en la presentación son aquellos que en el mapa de tasa de incidencia acumulada de los últimos 14 entidades, son esas entidades federativas que tienen la mayor tasa de incidencia; por lo tanto, si tienen la mayor tasa de incidencia, se podría esperar que son los que tienen más carga hospitalaria.
 Por eso quisimos presentar esos 10 estados el día de hoy a manera de arranque y para que se vea cómo está la ocupación y la disponibilidad hospitalaria en estos 10 estados que tienen la mayor tasa de incidencia. Como lo dijo el doctor, para el día lunes se estarán integrando ya los 32 estados para que podamos ver cada uno de ellos.
 ---
+INTERLOCUTORA
+¿Es necesario que están tanto el doctor Gatell como quizá el doctor Alomía, si vino el lunes, se hagan una prueba diagnóstica de COVID-19 por este caso que nos presentan o si algunos…?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Qué bueno que menciona lo de la prueba. Y más allá de nosotros que, en este caso de acuerdo al estudio de contactos, no somos contactos, es decir, aunque estuvimos aquí no somos contactos.
 ¿Por qué razón?
 Porque el contacto se define, como hemos dicho, en términos de la proximidad. La proximidad y la duración. Esa proximidad y duración… Por eso expliqué al inicio de la sesión los tres mecanismos de transmisión, es decir, una persona que estuvo ahí, por ejemplo, el compañero camarógrafo, si yo estuviera enfermo y él está ahí, él no es contacto mío o viceversa. Entonces, en este caso nosotros no lo somos.
 Pero más allá de eso, quiero aprovechar su pregunta, que me parece muy importante, para explicar el tema de pruebas. Una reacción natural esperable es: si soy contacto, quiero hacerme la prueba para saber si tengo o no la enfermedad. Es legítima la inquietud, pero en términos médicos, en términos científicos no corresponde con la utilidad de la prueba, porque la prueba va a salir negativa mientras no haya síntomas, también por lo que comenté.
@@ -151,3 +166,9 @@ Si yo tomo ese resultado como un asunto de confianza que digo: No te preocupes, 
 Entonces por eso la vigilancia de los contactos. No se hace con base en pruebas de laboratorio, se hace con base en una vigilancia dirigida de los síntomas y eso sí, si la persona desarrolla síntomas, en cuanto desarrolla síntomas se le hace la prueba. Eso también para que lo tengamos en cuenta cómo se usan las pruebas.
 Ya se nos acabó el tiempo, se la debo, se la debo y a ustedes también, pero mañana tenemos otra conferencia de prensa.
 Muchas gracias.
+---
+PREGUNTA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Están en la diapositiva, la diapositiva que tiene las barras rojas, esas son terapia intensiva y las anaranjadas son camas generales.

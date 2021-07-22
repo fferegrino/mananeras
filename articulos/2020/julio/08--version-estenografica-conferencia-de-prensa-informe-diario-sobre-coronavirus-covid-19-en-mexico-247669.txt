@@ -3,6 +3,7 @@ Presidencia de la República
 08 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19 horas con un minuto y vamos a empezar aquí en el Palacio Nacional de México, en la Ciudad de México, la conferencia de prensa diaria sobre COVID-19, la pandemia causada por nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener tres componentes:
 El primero es el informe técnico y hoy vamos a analizar o comentar el análisis básico del estado de Baja California, más la perspectiva internacional y nacional.
 Segundo componente, el doctor Ricardo Cortés va a presentar el mosaico de movilidad y va a comentarlo.
@@ -11,6 +12,7 @@ Bienvenidos, compañeros.
 Y le pido al doctor Alomía si presenta la primera parte, tratando de ser sucintos para que nos dé tiempo de todo.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muy buenas tardes a todas y todos ustedes.
 Estamos en la conferencia vespertina número 131. El llamado dentro de este esquema de Nueva Normalidad es precisamente a la población para que esté atenta siempre, todos los días, de las indicaciones que sus autoridades estatales y municipales están definiendo y atendiendo en base al nivel de riesgo.
 Recordemos que en México el riesgo es alto y es máximo porque algunas entidades federativas están en color naranja, otras en color rojo, lo que quiere decir que todavía no debe haber una movilidad y una apertura importante, sino más bien restringida, tal y como las acciones del semáforo de riesgo COVID lo propone.
 Dado que el panorama local lo conocen a la perfección las autoridades en sus municipios y en sus estados, entonces hay que estar muy atento a las medidas que se dan precisamente para resguardarla la salud de las personas en cada uno de estos lugares.
@@ -55,9 +57,11 @@ Aquí el llamado es a la población de Mexicali, de Ensenada y de Tijuana, sobre
 Y la siguiente diapositiva es… Esta es la última, perdón, nos regresamos una anterior. Sería el informe para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía, director general de Epidemiología.
 Le pido al doctor Ricardo Cortés, director de Promoción de la Salud, si nos comenta la movilidad.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, López-Gatell.
 Buenas tardes a todos aquí en Palacio Nacional y en casa.
 Esta es ahora la forma de presentar la movilidad. Creemos que estos mapas de calor -sin ser realmente un mapa geográfico- nos ayudan a ver cómo la movilidad ha cambiado. Es la misma información que se presentaba en las tres diferentes líneas que estaban de tres diferentes sistemas operativos o aplicaciones, y ahora lo que vemos son también colores: ahora en azul, colores más intensos cuando la movilidad es más alta, o sea, la disminución no ha sido tan profunda; y los colores más claros donde vemos una movilidad aún más disminuida.
 Por ejemplo, podemos ver Aguascalientes y Baja California cómo en las últimas tres semanas estamos observando un movimiento mayor, un incremento en la movilidad y por lo tanto números más cercanos al cero, al final de cuentas Aguascalientes y Baja California tienen una movilidad ahora de menos 36 y menos 31 por ciento respectivamente, pero aquí es como vemos, desde la semana 13 hasta la semana 26, cómo se ha movido la gente en nuestro país.
@@ -68,9 +72,11 @@ Este es el mapeo de lo que antes presentábamos como barras positivas y negativa
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Ricardo Cortés Alcalá.
 Le pedimos al doctor Mauricio Hernández, director de Prestaciones Económicas y Sociales del Seguro Social si nos comenta sobre las guarderías.
 ---
 MAURICIO HERNÁNDEZ ÁVILA, DIRECTOR DE PRESTACIONES ECONÓMICAS Y SOCIALES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Muchas gracias, doctor López-Gatell, por la oportunidad de poder acompañarle y de presentar estos datos.
 En el Instituto Mexicano del Seguro Social -si me pasan la siguiente- hacemos toda serie de acciones. La mayor parte de la población está familiarizada con las acciones que hacemos en favor de la salud de todos los asegurados y sus familias, pero la Dirección de Prestaciones Económicas, que tengo que la fortuna, de dirigir tiene una participación amplia.
 A lo largo de la vida, damos lo que es la protección materna para el recién nacido a través de las incapacidades por maternidad y luego pasamos a recibir los hijos de nuestras trabajadoras en nuestras guarderías y ahí contribuimos mucho al desarrollo cognitivo de estos chicos.
 Esta, es que de la que me voy a concentrar, es la intervención más costo-efectiva que tiene el instituto en términos de lo que invertimos y del beneficio que tiene.
@@ -111,6 +117,7 @@ Entonces, nosotros estamos muy entusiasmados de reabrir, de reincorporarnos a la
 Hasta aquí es cuánto y muchas gracias, doctor por permitirme comunicar esto.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Al contrario, muchas gracias, doctor, al contrario, doctor Mauricio Hernández, muchas gracias.
 Vamos a pasar a las preguntas y respuestas. Antes, quisiera hacer una síntesis de los tres mensajes del día de hoy.
 En el panorama nacional lo que vemos es que la epidemia continúa desacelerándose, esto es un mensaje que nos interesa mucho destacar. A veces hay ruido, hay ruido de información que plantea cosas que son técnicamente incorrectas y por lo tanto se convierten en mentiras, sean con intención o sin intención de mentir.
 La epidemia en México se está desacelerando, no se ha acelerado y el proceso de desconfinamiento, de retorno a las actividades en el espacio público no se ha manifestado como un rebrote o como un repunte o como un incremento de la velocidad a la que ocurre la epidemia. La epidemia se está desacelerando.
@@ -131,13 +138,19 @@ Y esta actividad esencial es muy importante para poder reactivar los distintos c
 Vamos a pasar a preguntas y comentarios. Vamos a empezar ahorita aquí con Alejandro, Nuri, Juan, Arturo y Juan Carlos.
 ---
 PREGUNTA
+Gracias, buenos días. Alejandro Alemán, de Medicina Digital,
 Para el doctor Mauricio Ávila en relación a esta apertura que lleva su riesgo, porque asisten a las guarderías mujeres embarazadas, que son población de riesgo, y la pregunta concreta es si están considerando hacerles pruebas a los trabajadores de las guarderías para determinar si son positivos y dar un seguimiento distinto a primer nivel, es decir, a nivel de clínicas sobre el manejo del virus.
 ---
 MAURICIO HERNÁNDEZ ÁVILA
+Gracias y gracias por la pregunta. La información actual ya de consenso mundial es que el embarazo es una condición de riesgo sólo en el tercer trimestre, en el último trimestre de embarazo, entonces eso le pone un digamos efecto protector a ese periodo. Estamos nosotros en guarderías pidiendo precisamente que no vengan mujeres que se encuentren en el tercer trimestre del embarazo y, dos, que no vengan tampoco a recoger o a llevar a los niños personas de más de 65 años, un poco para tratar de proteger.
 Segundo, hay personal que trabajó en guardería y que pudo haber estado trabajando en áreas COVID como enfermeras en los hospitales. A esos trabajadores sí se les va a pedir que tengan una prueba de PCR por lo menos y un estado negativo 24, 48 horas de ingresar.
 No es necesario estrictamente porque sólo se debería de hacer si la persona tiene signos y síntomas, porque el protocolo de protección dentro de la guardería no debe generar ninguna cadena de transmisión, entonces, aunque fuera asintomático no debería de generar un mecanismo de transmisión al interior de la guardería.
 ---
+INTERLOCUTOR
+Y para concluir, para el doctor Gatell, estamos hablando de que hay descenso en el número de infectados. ¿Podemos suponer que vamos a llegar a un semáforo verde en tipo Wuhan?, que era 15 días con cero casos?, ¿o vamos a seguir un modelo como Nueva York?, que abrieron a sus actividades cuando estaban en la parte más baja de la curva.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. No se puede predecir con tanta antelación el semáforo verde, me lo habían preguntado hace unos días, ninguno de los colores. Y lo que hacemos es: semana tras semana lo vamos monitoreando.
 ¿Por qué?
 Es muy importante, desde luego es deseable que uno ya supiera lo que va a ocurrir, pero es deseable también no anticiparnos, porque todo depende de un fenómeno humano general, un fenómeno social donde existen múltiples variables.
 De manera concreta sabemos que hay dos variables importantes:
@@ -147,26 +160,34 @@ Y si las personas en los sitios de encuentro, por ejemplo, de trabajo respetan l
 Uno pensaría o aspiraría a que se mantenga orden, disciplina, consciencia del riesgo, solidaridad, etcétera, pero esto es impredecible. Entonces, esta frase que he dicho en innumerables ocasiones, las predicciones son válidas si y sólo si se logra que todas y cada una de las personas o la gran mayoría de las personas sigan estas actividades de prevención.
 Entonces, preferimos semana a semana, lo monitoreamos diariamente, pero presentarlo semana a semana con el semáforo.
 ---
+INTERLOCUTOR
+¿Cuál es el peso que tiene el número de casos detectados?, ¿qué peso tiene?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El semáforo, lo hemos comentado también, tiene cuatro indicadores:
 Un indicador que es el porcentaje de ocupación hospitaliaria que se mide a partir de la red IRAG, la red de hospitales COVID, y es el número de camas ocupadas entre el número de camas dispuestas específicamente para atender a personas con infección respiratoria aguda grave, se conozca o no el estatus de confirmación por laboratorio, y eso tiene un peso específico de 50 por ciento.
 Después tenemos dos indicadores de tendencia, que es la velocidad a la que cambian las hospitalizaciones y la velocidad a que cambian los casos diarios, y esa no se estima de manera general la trayectoria, sino de manera específica en intervalos de 10 días, 10 días, 10 días, y estos tienen un peso específico de 20 por ciento cada uno de ellos.
 Y luego tenemos un indicador que es el porcentaje de personas que teniendo el síndrome COVID resultan positivas a la prueba de SARS-CoV-2 y este tiene un peso específico de 10 por ciento. La suma es 100 por ciento y esto compone la resultante del semáforo.
 Liliana Noble y nos pasamos de este lado.
 ---
 PREGUNTA
+Gracias. Buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Gatell, tengo una pregunta para usted, pero si me permite primero a su invitado, al doctor Mauricio.
 Doctor, quisiera saber cuáles serían los elementos que se tendrían que tener en consideración como para cerrar una guardería en caso de algún brote, etcétera, no sé.
 Gracias.
 ---
 MAURICIO HERNÁNDEZ ÁVILA
+El lineamiento habla, digamos, de las acciones que hay que hacer cuando hay un caso en una sala. Ahí la acción es aislar al caso del grupo, llamar a los padres y acudir a la clínica.
 Cuando hay dos casos en una sala, entonces se procede a cerrar esa sala y todos los chicos que están en esa sala regresan a su casa, la dala queda cerrada por 14 días y después los niños van regresando de acuerdo a síntomas.
 Cuando hay más de tres salas que tienen un caso que se detecta, ahí se cierra temporalmente la guardería por 14 días.
 ---
 INTERLOCUTORA
+Gracias. Y dos Gatell, me gustaría conocer su opinión, ayer el presidente Donald Trump mencionó que se iba a retirar de la Organización Mundial de la Salud.
 Yo no sé si esto afecta a los países con menos poder adquisitivo, porque se conoce que Estados Unidos aporta una cantidad importante de dinero. ¿Tendremos que estar pensando en algo atroz?, ¿qué va a pasar a partir de la salida de Estados Unidos de esta organización tan importante?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El presidente de los Estados Unidos de América había hecho este anunció ya hace varias semanas, lo que se anunció ayer es la formalización por parte del gobierno de Estados Unidos, de su Poder Ejecutivo, hacia la Organización de las Naciones Unidas a la que pertenece la Organización Mundial de la Salud y al Congreso, es decir, al Poder Legislativo de este país.
 México valora mucho los organismos internacionales. Consideramos que el multilateralismo es una vía muy saludable para analizar los problemas y los retos que enfrenta el mundo. Esto lo hago como una declaración general, yo no soy ni especialista en relaciones internacionales ni tengo atribuciones específicas para opinar al respecto, quiero aclararlo.
 Lo que sí puedo decir es en materia de salud, en la materia técnica de salud, donde sí tengo una atribución específica de representar a la Secretaría de Salud en materia técnica, considero muy valiosa la Organización Mundial de la Salud. Es un organismo que fue creado inmediatamente después de la Guerra Mundial, fue uno de los primeros organismos del sistema de Naciones Unidas.
 Los triunfos, logros de la organización o coordinados por la organización en materia de prevención y control de enfermedades a nivel mundial son por demás sobresalientes. Uno de los más emblemáticos fue la erradicación de la viruela. La viruela es una enfermedad infecciosa causada por un virus que es la única en toda la historia de la humanidad, la única enfermedad infecciosa de los humanos que fue erradicada, es decir, eliminada por completo de la faz de la tierra por la acción humana, y justamente el esfuerzo y la unidad de propósito de que se logró en el mundo para erradicar la viruela fue en mucho gracias a la Organización Mundial de la Salud.
@@ -179,21 +200,41 @@ Quisiera yo pensar que esta decisión del gobierno de Estados Unidos será anali
 Vámonos de este lado con Juan, Nuri, Arturo, Juan Carlos si nos da tiempo, nos queda muy poquito.
 ---
 PREGUNTA
+Gracias. Buenas noches. Rápidamente. Juan Hernández del periódico Basta del Grupo Cantón.
 Esta es una pregunta que nos hicieron llegar ahorita de redes, precisamente a raíz de la explicación que acaban de dar de las guarderías, nos comentan que si no es riesgo que los niños vayan a las guarderías ya que podrían transmitirse en transmisores y podrían contagiar a los papás y a los abuelos.
 ¿Qué se tendría que hacer ahí en ese aspecto o cómo se evitaría?
 ---
 MAURICIO HERNÁNDEZ ÁVILA
+Todos estamos en riesgo de llevar el COVID a casa: un niño de una guardería o un trabajador en una maquiladora en una tienda de autoservicio.
 El asunto del éxito es seguir los protocolos de seguridad para romper esas cadenas de transmisión, no únicamente, digamos, en la guardería o en el sitio, sino a lo largo del transporte que utilicemos y llevar a cabo esas medidas de sanitización que hacemos cuando llegamos a casa. Eso es lo que minimiza los riesgos.
 Y tenemos que convivir en esta Nueva Normalidad con el SARS-CoV-2. El chiste es hacerlo, como decimos, higiénicamente para interrumpir estas cadenas de transmisión.
 Gracias por la pregunta.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Concuerdo con esa perspectiva.
 Nuria Fernández.
 ---
 PREGUNTA
+Gracias. Buenas tardes a todos y a todas.
 Yo quería, en primer lugar, hacer un reconocimiento sobre el tipo de exposición que están haciendo ahora porque creo que si tenemos una visión global, podemos actuar localmente; es decir, es muy importante que tengamos una visión del mundo y de las distintas zonas.
 Y hablando de actuación local yo quisiera decir Tabasco, Tabasco, Tabasco, es decir, están ya a menos de 20 por ciento de camas disponibles. ¿Qué va a pasar?, ¿cómo ven ustedes el futuro?, ¿qué acciones están tomando? Y lo mismo para Nayarit.
 Y quiero señalar, además, que en estos dos estados la presencia indígena es sobresaliente en los municipios que señalaron ayer de Tabasco, donde es fuerte el COVID, hay una presencia indígena importante de chontales, del grupo yokot'an, como se llaman a sí mismos.
 Sería importante saber qué se va a hacer en el caso de Tabasco o qué se está haciendo, y lo mismo para Nayarit, donde están los coras y los wixárikas, huicholes.
 Y la otra pregunta, que también tiene que ver con esta relación de lo global y lo local es: si vemos los estados en semáforo rojo, podemos ver que varios de ellos son estados fronterizos, en particular creo Sonora, Coahuila, Tamaulipas y en Estados Unidos en este momento hay un rebrote importante, hay un aumento en el número de los casos diarios. Entonces ¿qué va a pasar en la frontera?
 Esas son las preguntas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, muchas gracias, Gracias, Nuria Fernández por estas preguntas.
+Sobre los estados con población indígena y los ejemplos específicos de Tabasco y Nayarit referido a la ocupación hospitalaria, nosotros no paramos, nosotros estamos todo el tiempo activas, activos, trabajamos en conjunto con distintas instancias del Gobierno de México.
+Y quiero una vez más externar mi reconocimiento y agradecimiento desde el sector salud a la unidad del sector salud y en conjunto hacia otras dependencias del Gobierno de México, prácticamente todas están involucradas.
+En particular destaco la Coordinación General de Protección Civil que nos ha sido extraordinariamente valiosa para tener un esquema operativo muy eficiente, muy efectivo, análogo al que se necesita cuando existen desastres naturales. No se puede uno esperar, esto es 24 horas al día los siete días de la semana, todo el tiempo está activo el comando unificado COVID que nos ha permitido con Protección Civil, con las Fuerzas Armadas tanto la Sedena como Marina con las demás instituciones civiles estar detectando y respondiendo.
+Con Tabasco comentábamos hace unos días, justamente el gobierno de Tabasco, el gobernador Adán Augusto López Hernández y la secretaria de Salud, la doctora Silvia Roldán nos comentaron una alerta anticipada sobre la velocidad de ocupación hospitalaria, esto ocurrió entre miércoles y jueves de la semana pasada, se concretó el viernes y enseguida todos actuamos.
+El Instituto Mexicano del Seguro Social detectó oportunidades para tener ampliaciones particularmente en Cárdenas, Tabasco.
+Ayer que presentábamos el caso de Tabasco vimos las zonas que no son las de mayor concentración geográfica que eran las que enfrentan este reto.
+El Insabi, el Instituto de Salud para el Bienestar a cargo del maestro Juan Ferrer también enseguida empezó a mandar equipo e insumos y ya se está reorganizando todo el operativo; y el propio gobierno de Tabasco tiene capacidades ha anticipado para coordinar más efectivamente el uso de los hospitales. Entonces, eso no para, vaya.
+Una cosa semejante ocurre con Nayarit, igual el gobernador nos alertó de esto y hemos estado actuando para expandir capacidades. Desde la semana pasada se mandaron ventiladores, se está mandando personal y se está verificando que el personal esté activo en los estados.
+Respecto a población indígena tenemos un… No me voy a adelantar, ya lo hemos comentado, estamos próximos a lanzar un esquema general que comentaremos mañana en la Comisión de Salud Pública del Consejo Nacional de Salud y el viernes en el pleno del consejo, de modo que posiblemente el viernes explicaremos a detalle, vendrán algunos compañeros y compañeras a explicarlo.
+Y, finalmente, respecto a la frontera existe desde marzo un acuerdo de buena voluntad con el gobierno de Estados Unidos para trabajar conjuntamente en la frontera en la reducción de riesgos, independientemente de la dirección a la que se desplacen las personas y del diferencial que pudiera haber de intensidad de las epidemias.
+Por momentos ha sido más intenso en el lado de Estados Unidos que en México y en otros momentos ha sido al revés, pero trabajar conjuntamente con el gobierno de Estados Unidos y la tradicional amistad y colaboración que hay entre estados vecinos, Arizona con Sonora y Baja California con California, etcétera, nos ha permitido también tener acciones de campo locales; algunas gobernadores, la gobernadora de Sonora, el gobernador de Tamaulipas hicieron comentarios al respecto a lo largo de la semana y entonces hay un operativo de reducción de riesgos que tiene que ver con el traslado de personas.
+No hay un cierre de las fronteras, esto quiero especificarlo, esto no es una decisión de cierre de fronteras ni sería en su momento una atribución de los estados, eso sería, en todo caso, una atribución del gobierno federal a través de la Secretaría de Gobernación, pero no se están cerrando fronteras, se están haciendo operativos de detección y reducción de riesgos.
+Aquí terminamos, ya no tiempo con ustedes. Arturo, mañana empieza usted y también Juan Carlos. Son las 20:02. Muchas gracias, hasta pronto.

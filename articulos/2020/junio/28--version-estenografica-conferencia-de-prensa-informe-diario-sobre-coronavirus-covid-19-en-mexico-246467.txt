@@ -3,6 +3,7 @@ Presidencia de la República
 28 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches.
 Hoy vamos a empezar dos minutos tarde, son las 19:02 de este domingo 28 de junio 2020, estamos en el Palacio Nacional de México, en la Ciudad de México.
 Vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy tenemos el informe técnico y vamos a compartir algunas gráficas respecto a lo que usted decía ayer, justamente, un indicador que es útil para mostrar cómo se está desacelerando el curso de la epidemia, todavía está en fase de ascenso, como lo mostraré, como lo hemos venido diciendo, no ha disminuido el ascenso, pero sí la velocidad en la que se están sumando los nuevos casos y las muy lamentables defunciones.
@@ -159,23 +160,31 @@ Vamos abrir a preguntas, Juan, Alejandro.
 Ahorita, cómo no, dejemos a Juan y ahorita pasa usted.
 ---
 PREGUNTA
+Buenas noches, Juan Hernández, del periódico Basta y del Grupo Catón.
 Bueno, ahorita, lo que acaba de mencionar precisamente de esta larga epidemia, a lo mejor va a sonar un poquito tonta la pregunta, pero ¿aquellas personas que tuvieron COVID se van a poder vacunar contra la influenza?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, no se conoce que haya ninguna interferencia, y como los grupos de riesgo son parecidos, personas mayores de 60 años, personas con enfermedades crónicas, obesidad, diabetes, hipertensión, etcétera, enfermedad cardiaca, enfermedad pulmonar crónica.
 Entonces, la recomendación de vacunación contra influenza va dirigida a las personas que tienen esa condición de riesgo y se puede, alguien que tuvo COVID, vacunar contra la influenza en general.
 Alejandro Alemán.
 ---
 PREGUNTA
+Gracias. Alejandro Alemán, de diario Plaza Juárez, soy el corresponsal, y trabajo para el periódico, para el sitio de internet Medicina Digital.
 El motivo de mi intervención es hacer, me dio el derecho de réplica, ya que me mencionó el día viernes, después de haber hecho una pregunta el día jueves terminando la conferencia, en relación a que, así lo plantee yo, era un privilegio el que los funcionarios tuvieran acceso a pruebas sin el protocolo que llevan los demás, los ciudadanos comunes.
 Entonces, retomo lo que usted señaló el viernes 26 del presente en esta conferencia, usted dijo: ‘Aquí no existe ninguna clase de criterios de privilegio, no funciona así este gobierno’.
 Lo que es útil, desde el punto de vista técnico, para identificar por qué al secretario Herrera se le hace la prueba, igual que se le hizo aquí a varios colegas reporteros y reporteras, es que es de interés público que no haya un brote de COVID en este contexto, porque es un espacio cerrado que cumple una función esencial, que es la comunicación.
 Lo mismo aquí con el secretario Herrera o con cualquier otro funcionario, creo que sería difícil que alguien sostenga que un funcionario, particularmente del primer orden en términos jerárquicos del gabinete federal no sea estratégico para el país conservar su salud y proteger su integridad, estas sus palabras del viernes.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto, esas fueron mis palabras.
+---
 INTERLOCUTOR
+Lo que puedo comentar al respecto es, por lo que usted mismo señaló, hay evidencias de que por su importancia estratégica opera un mecanismo o protocolo para detectar casos de infección por el virus SARS-CoV-2 al interior del gobierno federal, que se ha expresado en los casos hasta ahora detectados de funcionarios de alto nivel infectados por el virus.
 Para completar esta bienvenida aclaración, sólo me restaría preguntarle ¿cómo opera este mecanismo en servidores públicos del primer orden jerárquico? ¿en cuáles otros niveles de gobierno, estatal o municipal, se aplica? ¿cuántas pruebas se le han hecho al presidente de la República?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Alejandro, con mucho gusto, y qué bueno que hace esta pregunta porque justo es parte del entendimiento de cómo funcionan los planes de preparación y respuesta ante epidemias.
 El modelo clásico es el de influenza, esto desde el plan global de preparación y respuesta ante una pandemia de influenza, que la Organización Mundial de la Salud estableció en 2005, ha dado lugar al desarrollo de los planes nacionales y la actualización de los mismos.
 Y, en general, hay poblaciones que se identifican como estratégicamente importantes, por distintas razones, voy a mencionar a algunas y voy a incluir, precisamente, a los funcionarios federales o estatales también.
 Las poblaciones que viven privadas de su libertad son estratégicas.
@@ -189,7 +198,11 @@ En el caso del gabinete federal nos corresponde a nosotros en la Secretaría de 
 Cuando ocurrió el caso del maestro Zoé Robledo, él propio Seguro Social se encargó del estudio de casos y contactos, pero en comunicación con nosotros.
 Y en los que no son del Seguro Social, del Issste, de Pemex o de las Fuerzas Armadas que tienen su propio dispositivo, nosotros nos hacemos cargo. Esa es la razón.
 ---
+INTERLOCUTOR
+(Inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ninguna hasta el momento, yo tampoco, por cierto, ni el doctor Alcocer.
 ¿Razón?
 No hemos sido identificados en un sistema de caso-contacto, y no todos, y aprovechando la pregunta, y se la agradezco nuevamente, a veces existe la idea de que como supe que alguien tenía COVID y yo estuve en la misma reunión, por ejemplo, voy a poner un caso así típico, tal persona tuvo COVID y resulta que yo estuve con ella o él en la misma reunión el martes pasado.
 De inicio debe estar en la lista quien haya estado en una situación así, pero el estudio de casos-contactos, lo que se hace es, se entrevista el caso y luego entrevista a los contactos, y hay un razonamiento médico epidemiológico para ver si la duración del contacto es relevante, si en general consideramos una hora o más, si la proximidad del contacto es relevante, ahí no hay un criterio fijo, pero ponemos los dos metros de la sana distancia como criterio, y si ocurrió en el periodo de contagiosidad.
@@ -199,5 +212,15 @@ Algunas, se van a haber como que, no, bueno, tú si estuviste en el mismo salón
 Habrá quien sea lo contrario, pongo el ejemplo también, si ella no se ofende, de la secretaria Graciela Márquez, ella estuvo en mucho contacto con el maestro Herrera desde el viernes pasado, y tuvieron una reunión el sábado, y luego otra el lunes, y luego otra el martes, y luego otra el miércoles, y le hicimos la prueba a la secretaria Márquez, salió afortunadamente negativa, pero era un elemento de sospecha, porque era una de las personas de esa lista de casi 70 que en mayor contacto había estado.
 Así es como funciona.
 ---
+INTERLOCUTOR
+(Inaudible) no es personal, simplemente…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, no, no, yo sé que no, ni me lo tomo personal.
 Yo lo decía por su comentario el jueves, que fue ya cuando se había acabado la sesión, que dijo lo de privilegio, y yo no quiero que la población se confunda con una idea de que privilegio, en el sentido de que hay consentidos o no consentidos. Aquí nos manejamos por estos criterios técnicos.
+---
+INTERLOCUTOR
+No tenía esa información.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No hay ningún problema. Gracias, Alejandro. Muchas gracias. Son las 20 horas con tres minutos, terminamos y nos vemos mañana. Gracias, Alejandro. Gracias.

@@ -3,6 +3,7 @@ Presidencia de la República
 23 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19 horas con un minuto del jueves 23 de abril. Estamos en el Palacio Nacional de México, vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, enfermedad causada por el nuevo coronavirus SARS CoV-2.
 Hoy tenemos tres segmentos.
 El primero, que comentaré yo, es muy breve y es para hacer una recapitulación de dónde estamos y hacia dónde vamos.
 El segundo será el informe técnico diario, que lo presentará el doctor Alomía.
@@ -33,6 +34,7 @@ Entonces, hoy 23 de abril hace 11 años empezó la pandemia de influenza y hoy e
 Le pido al doctor Alomía si nos presenta el informe técnico, por favor.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas noches a todas y todos. Vamos a iniciar con la actualización del panorama.
 Como podemos ver, la cantidad y por lo tanto la proporción también de casos confirmados en los últimos 14 días, es decir, que iniciaron síntomas en los últimos 14 días a nivel mundial continúa disminuyendo, 44 por ciento es esa proporción para el día de hoy, lo que habla de cómo la pandemia por lo menos en las últimas semanas ha venido ya disminuyendo a consecuencia también de la caída de casos que ha habido en Europa.
 Sin embargo, podemos ver que más allá que la región de las Américas superó en un momento determinado al continente europeo, realmente la diferencia todavía no ha sido muy marcada, es decir, no ha habido una separación muy grande.
@@ -66,9 +68,11 @@ Pero a su vez adjuntamos barras amarillas que en su momento representan esos sie
 Esa sería la actualización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Le pido a la doctora María Elena Álvarez Buylla si nos comenta lo que sigue.
 ---
 MARÍA ELENA ÁLVAREZ-BUYLLA, DIRECTORA GENERAL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA (CONACYT)
+Claro que sí. Muchas gracias, doctor Hugo López-Gatell. Me da mucho gusto estar acá. Buenas tardes a todas y a todos.
 En México hay muchas capacidades científicas y tecnológicas; sin embargo, cuando llegamos en esta administración nos encontramos una desarticulación y una dependencia que ante un reto como el que tenemos nos impone muchas dificultades.
 Sin embargo, ya habíamos organizado dentro del Conacyt los programas nacionales estratégicos, entre ellos el de salud dentro del cual había ya organizados ya previo a esta emergencia el Proyecto Nacional de Investigación e Incidencia de Virología, porque lo veíamos desde el punto de vista científico como estratégico, puesto que estaba claro por la evidencia que ahí había una amenaza, otro de inmunoterapias.
 Y todo ello nos permitió a inicios de enero, cuando nos enteramos del inicio de esta pandemia, organizar un Proyecto Nacional de Investigación e Incidencia con la idea de articular capacidades científicas, tecnológicas e innovación para enfrentar los retos de la posible llegada de esta epidemia al inicio y eventual pandemia a México.
@@ -120,16 +124,22 @@ Muchas gracias.
 Al final está ahí la página del Conacyt, muchísimas gracias, doctor, López-Gatell.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora María Elena Álvarez Buylla por esta explicación tan clara y tan amplia.
 Laura Poi Solano, de La Jornada y ahorita nos vamos por acá.
 ---
 PREGUNTA
+Gracias, buenas noches a todos, doctoras; doctores.
 Preguntarle por una parte a la doctora. Nos habla de los 700 ventiladores, entiendo yo que son dos modelos, uno, digamos, el que han hecho en colaboración con centros públicos de investigación y empresas solidarias, esos serían 200, y los otros 500 ya con un modelo hecho más bien por los centros públicos de investigación, por favor.
 ¿Y cuánto estarían ya en los hospitales?, o sea, ¿ya cuándo dirían acá están?
 Y, perdón, para el doctor López-Gatell, hoy recabamos testimonios en uno de los hospitales del IMSS, el número 30, donde enfermeras y enfermeros lo que están diciendo es: ‘Sí, sí nos han llegado los insumos, los insumos provenientes de China, el problema es que llegan, los abastecen, pero se terminan y no vuelve como un ciclo de abastecimiento constante’, eso, por un lado.
 Y también porque es verdad, la demanda de pacientes COVID ya está presente en todos los hospitales, es una realidad, y ellos dicen un poco con angustia que lo que están viendo es que se saturan las áreas COVID que se tenían previstas, llega el paciente y hay que buscarle un espacio, ni modo que le digas que no, y están llegando a zonas, digamos, no preparadas, y esas enfermeras no traen el equipo de protección.
 ¿Cómo le van a hacer para resolver esto?, gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Por favor.
+---
 MARÍA ELENA ÁLVAREZ-BUYLLA
+Sí, gracias, gracias, Laura, por tus preguntas.
 El primer desarrollo es cien por ciento diseño Conacyt-Cidesi en colaboración con algunos centros públicos de investigación, es para el ensamblaje y la adquisición de algunas partes, de hecho, algunas se van a construir en los propios centros públicos de investigación y desarrollo tecnológico del Conacyt.
 Y para el ensamblaje y para la adquisición de algunas de las partes o para el ensamblaje de las tarjetas electrónicas que se va a colaborar con empresas que solidariamente están participando sin fines de lucro. Y les agradecemos de corazón esto.
 El segundo desarrollo es cien por ciento mexicano, lo encontramos por suerte, porque creemos que es un desarrollo muy, muy sólido. Aquí el Conacyt a través de sus centros públicos de investigación, en particular, el Cidesi, lo que ha hecho es porque ellos han sido generosos en compartir, en abrir su información y en, como quien dice, prestar toda esta información que en estos tiempos podría estar protegida, y está protegida, para muchos de los desarrollos, porque buscamos varias opciones y no fue fácil encontrar una empresa que estuviera dispuesta a abrir sus diseños a que el Cidesi, y otros centros públicos de investigación, revisaran a fondo cómo estaba planteado este diseño.
@@ -137,7 +147,14 @@ Y en ese caso, sí, es una colaboración, también, sin fines de lucro con esta 
 Estamos pensando que estos equipos se terminen de construir el 15 de mayo, y ya estamos preparando una logística en colaboración con un centro de mando único que tiene el gobierno federal para organizar este tipo de logísticas para poder instalar y también capacitar a los médicos que los van a usar cuanto antes.
 Esperemos que todo el proceso de ensamblaje vaya bien, yo confío en que sí, hasta ahora ha sido un proceso muy riguroso de investigación y de desarrollo tecnológico.
 ---
+INTERLOCUTORA
+(inaudible)
+---
+MARÍA ELENA ÁLVAREZ-BUYLLA
+La idea es sí, que estén completamente ensamblados para el 15 de mayo, y en pocos días instalados en los hospitales de acuerdo a instrucciones de la Secretaría de Salud, esa es la meta y lo vamos a lograr.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Álvarez-Buylla.
 Sobre este asunto de la saturación de los hospitales, efectivamente, estamos en la fase de ascenso rápido en el número diario de casos, y vamos a seguir teniendo más y más y más casos de enfermedad, personas que requieren hospitalización, y también personas críticamente enfermas hasta llegar al punto cumbre de esta epidemia, por lo menos de este primer ciclo epidémico que se ha estimado que podría estar en mayo, rumbo a la segunda semana de mayo.
 Pero su comentario lo aprecio mucho porque me lleva a visualizar que las unidades de salud todavía no están completamente identificando que no tienen que resolverlo todo ellas mismas. Esto lo tenemos previsto, lo hemos estado trabajando para tener los mecanismos de coordinación y respaldo, aún dentro de una misma institución, por ejemplo, el Instituto Mexicano del Seguro Social que es donde mejor funciona el sistema de referencia y contrarreferencia, este es un mecanismo en el que las unidades de salud liberan su exceso de demanda, aun en condiciones no epidémicas, hacia otras unidades de salud cuando se están viendo rebasadas.
 Desde luego, es aún más importante en una epidemia, y vamos a tomar cartas en el asunto para que esta información llegue a cada una de las unidades de salud de todas las instituciones y, entonces, se puedan respaldar y canalicen a los pacientes.
@@ -145,6 +162,7 @@ Muchas gracias.
 Araceli Aranday había levantado la mano por allá, Canal Once.
 ---
 PREGUNTA
+Gracias, muy amable.
 Preguntarle en este tenor mismo, ya la Organización Mundial de la Salud invitó a todos los países a que ya concretaran la transformación hospitalaria, la conversión hospitalaria.
 Yo quisiera saber ¿cómo está el país exactamente?, ¿cuántos hospitales tenemos ya reconvertidos?
 Recuerdo que Reyes Terán había dicho que eran seis hace unas tres semanas.
@@ -152,6 +170,7 @@ Entonces hoy por hoy ¿cuántos hospitales están reconvertidos?, ¿y cuántos f
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Lo que dijo el doctor Reyes Terán hace varias semanas se refería solamente a la coordinación de los Institutos Nacionales de Salud que es un pequeño conjunto del todo y él hablaba de estos seis hospitales que fueron designados para la atención COVID.
 En el caso de la coordinación de los institutos se evacuaron literalmente completos el Instituto Nacional de Enfermedades Respiratorias, el Instituto Nacional de Ciencias Médicas y Nutrición, Salvador Zubirán para que fueran dedicados a COVID.
 El domingo que nos acompañó, el domingo próximo pasado que nos acompañó el doctor Reyes Terán anunció lo que está en proceso que es el elemento adicional de la reconversión lo que él ha designado como la mega reconversión y la meta para esta mega reconversión solo de su sistema de hospitales federales de alta especialidad e institutos nacionales de salud es tener hasta 870 camas, solo estamos hablando de esa contribución, por supuesto que existe el IMSS, existe el Issste, existe los servicios médicos de Pemex, existe el Plan Marina, existe el Plan DN-III, existen los servicios estatales de salud.
@@ -162,3 +181,18 @@ Entonces el conjunto hasta ahorita tenemos identificados cerca de 700, un poco m
 Entonces el doctor Rafael Valdez, que es el que dirigirá esta unidad, ayer explicaba eso, es para descargar los hospitales donde están las personas críticamente enfermas y tener la segunda fase de recuperación ahí.
 Entonces lo vamos a ir anunciando conforme va habiendo elementos nuevos, pero está contemplado a la meta que nos pusimos desde el inicio conociendo del escenario más retador de la primera modelación matemática donde consideramos cerca de 15 mil personas críticamente enfermas necesitando ser atendidos en terapia intensiva.
 Dicho sea de paso, con la segunda modelación, el segundo ciclo de modelación que presentamos aquí el jueves pasado, hace una semana, tenemos una reducción de la expectativa de la cantidad de pacientes, lo cual es muy bueno, pero eso no nos llevó a relajar las previsiones, nos mantuvimos en la expectativa alta y por eso todos estos elementos, fabricar ventiladores, conseguir ventiladores con Estados Unidos, con China, con la producción nacional, las compras que se hicieron en los estados, etcétera, etcétera.
+---
+INTERLOCUTORA
+¿Cuántas camas, perdón de estos poco más de 700…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Se lo voy a precisar, porque esto ha ido cambiando de manera muy acelerada, ahorita le doy este dato general de 711.
+Les habíamos anunciado que a partir de que entró en vigor con su publicación en el Diario Oficial de la Federación el acuerdo del secretario de Salud que estipula las nuevas medidas de fase 3 dispusimos una plataforma informática que ya venía en trabajo técnico, en pilotaje 10 días antes, pero que ahora es obligatoria para que todas las instituciones del sector informen diariamente sus disponibilidad de camas de los hospitales COVID, y justamente esto ayuda a resolver lo que explicaba Laura Poi de la posibilidad de identificar una cama donde hay disponibilidad y no saturar los hospitales que están al borde del colapso.
+Pero la situación, es esta plataforma entró en carácter obligatorio el martes o el miércoles porque eso fue el martes en la noche y estamos todavía en el proceso de que todos los estados estén informando diariamente.
+Ya están informando casi todos, pero todavía no diariamente o no a la hora del corte, que es a las ocho de la mañana.
+Usted.
+¿Ya no nos da tiempo?
+Se nos acabó, son 19:59.
+Mañana seguimos.
+Muchas gracias, doctora Álvarez-Buylla, doctor Alomía.
+Gracias.

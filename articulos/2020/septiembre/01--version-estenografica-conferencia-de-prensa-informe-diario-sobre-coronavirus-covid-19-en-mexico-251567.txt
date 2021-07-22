@@ -3,10 +3,12 @@ Presidencia de la República
 01 de septiembre de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Hoy es 1º de septiembre, día del Informe de Gobierno, son las 19:01 estamos en el Palacio Nacional de México, es martes, estamos en la Ciudad de México.
 Vamos a tener un informe técnico diario, que va a ser un poquito más extenso, vamos a tener la parte básica que presentamos todos los días y hoy vamos a aprovechar para hacer un recorrido por las 32 entidades federativas. En cada una de las 32 entidades federativas veremos la curva epidémica de los casos registrados, veremos también las hospitalizaciones, en la curva epidémica también veremos la curva epidémica de mortalidad.
 En cada diapositiva encontrarán que está el porcentaje de ocupación de camas generales y de terapia intensiva, de camas con ventilador y el color en que se encuentra el semáforo en esta semana. Todo esto lo va a presentar el doctor José Luis Alomía y abrimos a preguntas y comentarios. Doctor Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muy buenas tardes todas y todos.
 Vamos a iniciar la conferencia vespertina 186 ya. Como se comentó hace un momento, estamos iniciando el mes de septiembre, vamos a continuar también durante este mes con las actividades del semáforo de riesgo COVID, recordando que el semáforo que inició el día de ayer estará vigente toda esta semana y toda la siguiente semana.
 Ustedes ya conocen cuáles son las entidades que están en cada uno de los niveles de riesgo y el llamado más bien directo en este marco de la Nueva Normalidad es precisamente a la población para que estén atentos y puedan implementar todas aquellas acciones que a nivel local se están llevando a cabo, las autoridades sanitarias en los gobiernos de los estados de la mano y en coordinación con los municipios implementan de manera cabal cada una de estas acciones precisamente para poder limitar la transmisión.
 Veamos la siguiente diapositiva. Vamos a actualizar las estadísticas nacionales. El día de hoy ya son más de un millón 360 mil las personas que hasta el momento han ingresado a protocolo de estudio, han sido clasificados como casos sospechosos.
@@ -124,6 +126,7 @@ Prácticamente al día de hoy tenemos nueve entidades federativas que todavía p
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía.
 Hoy quisimos tener esta panorámica detallada de cada estado, lo habíamos presentado en ocasiones previas para recapitular sobre el estado que guarda hoy la epidemia.
 Hay ideas que hemos manejado desde el inicio de la epidemia y una de ellas es precisamente la enorme diversidad de tiempos de ocurrencia epidémica que hay en las entidades federativas.
 Recordarán que cuando algún segmento de la población, este segmento que ha tenido una idea fija a lo largo de toda la epidemia estaba con la inquietud de que si el pico, que si le atiné, que si no le atiné y la ha costado mucho trabajo visualizar este elemento.
@@ -133,10 +136,12 @@ Vamos a abrir a preguntas. Carlos, por favor, de UnomásUno.
 Ya se la debía de tres sesiones.
 ---
 PREGUNTA
+Gracias, doctor. Buenas noches, doctor Gatell; buenas noches, doctor Alomía. Carlos Abaroa, de UnomásUno.
 Disculpe, yo tengo dos preguntas. La primera, doctor, hay casos que hemos conocido personalmente respecto a que se hacen la prueba, salen positivos, están el tiempo necesario en confinamiento, se hacen la prueba 15 días después o un mes después y continúan en positivos. ¿Qué pasa en estos casos? Es la primera.
 La segunda, brevemente, yo le había… desde la semana pasada con respecto a lo que se habla de… cuando usted habló del tema del asunto de las gaseosas, de la comida chatarra y todo, y después el Congreso de Oaxaca acuerda limitar estos productos para venta hacia los niños, yo solamente le haría pregunta a usted y al doctor Alomía: ¿no cree usted que…? más que enfrentar esa parte, porque finalmente son empresarios los productores de todos estos productos, ¿no es mejor que haya una educación cívica, una educación, por ejemplo, de la salud desde temprana edad para que los niños tengan una decisión en su momento de ser adolescentes y adultos y tomar una decisión adecuada al respecto del consumo de estos productos?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Carlos, por sus preguntas.
 Sobre la primera. ¿Qué pasa cuando una persona se hace la prueba después de haber transitado los 14 días o 15 que dura generalmente la enfermedad COVID y la prueba vuelve a salir positiva?
 En la enorme mayoría de los casos lo que ocurre es que fragmentos del material genético del virus permanecen por semanas, posiblemente meses en la vía respiratoria de la persona. Eso no quiere decir que sean virus activos, no son partículas con capacidad infectante, son restos del material genético.
 La prueba de PCR, que es el estándar de diagnóstico en México y en el mundo, lo que hace es detectar esas secuencias genéticas, esas hebras de material genético, ácido ribonucleico, y seguirá saliendo positivo si la carga viral era muy alta, de inicio es posible que haya una mayor cantidad de ese residuo.
@@ -155,10 +160,12 @@ Hemos dicho con gran orgullo y satisfacción que para lograr poner en práctica 
 Héctor García, de Grupo Cantón.
 ---
 PREGUNTA
+Gracias. Periódico Basta y Grupo Cantón.
 Subsecretario, precisamente hablando de esto, de lo último que acaba de señalar, hay información, está circulando de que la Fundación Bloomberg patrocina estudios como la campaña sobre etiquetado con el hashtag: ‘Etiquetado claro ya’, a partir de la cual se impulsaron cambios en la Norma 051.
 La pregunta aquí sería: ¿hay algún tipo de relación de la Secretaría de Salud con esta organización?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. No la hay, y qué bueno que lo menciona porque precisamente la industria que ha sido promotora de los distintos conflictos de interés que han sometido a los gobiernos, tanto estatales como nacionales, de administraciones pasadas a estas relaciones viciosas… En el sexenio pasado se creó, por ejemplo, un organismo que se llamaba Observatorio Mexicano de Enfermedades No Transmisibles, Oment, que era una especie de consejo asesor, el 65 por ciento de la composición de este consejo era la representación de la industria alimentaria, ya sea en forma directa o a través de las cámaras empresariales, y obviamente, mantenía el control para que ninguno de estos programas o políticas fuera puesto en marcha, a pesar de que la evidencia científica ya existía.
 Como lo explicó el jueves pasado el doctor Juan Rivera, cuando nos mostró sus libros, los libros que él editó, junto con más de 50 investigadoras e investigadores nacionales e internacionales, se publicaron en 2012 y fueron incorporados en el sexenio pasado como la base de evidencia para escribir el librito, para escribir el plan de prevención de obesidad, pero no se pusieron en práctica más que esquemas relativamente simples de promoción de la salud, como aquel famoso o tristemente célebre ‘Muévete, chécate, mídete, muévete’, y ya se vio, se invirtieron millones de pesos en esto. Es, por cierto, muy oscura la cantidad de dinero que se invirtió y cómo se utilizó, y no dio resultado, la epidemia ha seguido creciendo.
 Entonces, la industria, cuando se vio enfrentada a un gobierno independiente, un gobierno que no tiene interés en defender las particularidades de las ganancias económicas privadas, sino cumple su obligación constitucional y legal de defender, promover y proteger el interés público en materia de salud, quiso contaminar el ambiente con una calumnia.
 Entonces, habló de la Fundación Bloomberg. Explico brevemente quién es la Fundación Bloomberg y quién es Bloomberg. Existe un señor que se llama Michael Bloomberg, es un empresario y un político de Estados Unidos que fue alcalde de Nueva York. Cuando fue alcalde de Nueva York impulsó muchas de estas políticas que en el mundo entero gozan de gran popularidad para el control de las enfermedades crónicas. Después hubo un juez que, desafortunadamente, le bloqueó la iniciativa de reducir las porciones de los productos de consumo, específicamente los refrescos y no se lograron esas políticas.
@@ -170,5 +177,20 @@ Y efectivamente, el Instituto Nacional de Salud Pública, que ha conducido sendo
 Todo esto es absolutamente transparente, se ha declarado una y otra vez y eso no condiciona en modo alguno a que el actuar del Gobierno de México o específicamente la Secretaría de Salud tenga que complacer a alguien que podría tener una coincidencia como la tiene millones de mexicanas y mexicanos en el sentido de que la epidemia de obesidad, sobrepeso y diabetes es la causa de la mitad de las muertes en México. Muchas gracias.
 Nos queda tiempo para una pregunta. Demian Duarte… No, los sonorenses ayer ocuparon el estrado.
 ---
+PREGUNTA
+Sí, gracias, doctor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Bueno, sea breve.
+---
 INTERLOCUTOR
+Muy rápido. En el Senado de la República se presentó una iniciativa para gravar con más impuestos, incluso sube a cinco por ciento el impuesto a los refrescos y bebidas azucaradas, aparte de una serie de medidas.
 Parece que es una reforma bastante amplia que propone incluso gravar alimentos que son considerados no sanos, en pocas palabras, para ser breve. La pregunta es: ¿qué le parece?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Me parece excelente, qué bueno que existan estas iniciativas.
+Existe investigación extensa en todo el mundo sobre la utilidad de estos impuestos, estos impuestos especiales a productos y servicios como los conocemos en México, impuestos saludables se les conoce en otras partes del mundo, impuestos pigouvianos le llaman las personas expertas en economía, porque un famoso economista, Pigou, fue quien describió que cuando se ponen impuestos a ciertos productos se disminuye el entusiasmo, vamos a llamarle o el deseo de las personas de comprar esos productos.
+Y esto se ha usado en el tabaco como lo mencionábamos el domingo, con gran éxito y es un inhibidor del deseo de consumir.
+Algunas personas especialistas en economía han usado el argumento de que esto afecta mayormente a las personas con menor ingreso, esto se llama regresividad en economía.
+Pero aquí ocurre un fenómeno interesante, ciertamente disuade más a las personas con menor ingreso, porque es a quienes les afecta más el bolsillo, pero como se disuade el consumo de un producto tóxico, un producto no saludable, al final resulta que es progresivo, que es lo contrario de regresivo, se vuelve una ventaja, un beneficio precisamente con mayor prioridad o con mayor retribución para las personas con menor capacidad económica que, son dicho sea de paso, quienes sufren las mayores consecuencias de esta devastadora pandemia de obesidad, sobrepeso, diabetes asociada a la mala alimentación.
+Muchas gracias. Ya no nos da tiempo para la última pregunta, son las 20:00 horas, pero mañana continuamos. Muchas gracias.

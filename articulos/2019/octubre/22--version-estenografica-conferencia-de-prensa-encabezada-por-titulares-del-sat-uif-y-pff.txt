@@ -3,7 +3,8 @@ Presidencia de la República
 22 de octubre de 2019
 ---
 MARGARITA RÍOS-FARJAT, JEFA DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
-La presentación obviamente ya se le hizo al presidente. No sé si la tengamos ya ahí lista.  La presentación de las tres unidades de Hacienda, el Servicio de Administración Tributaria, la Unidad de Inteligencia Financiera y la Procuraduría Fiscal de la Federación.
+Aquí seguimos.
+La presentación obviamente ya se le hizo al presidente. No sé si la tengamos ya ahí lista.  La presentación de las tres unidades de Hacienda, el Servicio de Administración Tributaria, la Unidad de Inteligencia Financiera y la Procuraduría Fiscal de la Federación.
 Empieza su servidora porque vamos a partir justamente de aquella conferencia que dimos el veintitantos de junio de este año 2019, donde habíamos nosotros encontrado un modelo de riesgo en el SAT, lo desarrollamos para identificar qué contribuyentes podían caer en el esquema de factureros, que facturan operaciones simuladas o que lo dedujeran.
 En nuestro modelo de riesgo eran empresas de nueva creación, incremento exponencial en su facturación, inconsistencias entre lo facturado y lo declarado, y otro tipo de información confidencial que metimos aquí.
 Con esta hicimos una corrida de un universo seleccionado del grande, una cosa reducida todavía ahí e identificamos unos primeros 150 posibles casos de factureras con 282 mil millones de pesos facturados.
@@ -18,7 +19,7 @@ Ahora, se realizaron actos de autoridad sobre 144 contribuyentes entonces, y est
 La relación de la RFC con lo facturado en los últimos tres ejercicios, la relación de clientes y lo facturado también por los últimos tres ejercicios, y la relación de socios y accionistas, así como representantes legales que teníamos registrados nosotros.
 Eso se fue enriqueciendo también porque quizá algunos de ustedes recordarán que cuando nosotros hicimos, implementamos este operativo, al mismo tiempo solicitamos información a las notarías públicas y a los registradores públicos, quienes han sido muy colaboradores con nosotros. Entonces, en la medida en que fuimos recibiendo esta información, pues la fuimos también mandando a Unidad de Inteligencia Financiera.
 En una primera etapa seleccionamos… bueno, la UIF, perdón, analizó los movimientos en cuentas bancarias, algo que a lo mejor íbamos a hacer nosotros, originalmente era que nos pasaran los estados de cuenta para nosotros hacer la revisión, pero ellos mismos hicieron ese análisis e identificó lavado de dinero -ahorita yo creo que el director de la Unidad de Inteligencia Financiera va a comentar al respecto- en el 100 por ciento de los casos.
-Sobre esos 144 casos que le mandamos, insisto, le pasamos, UIF seleccionó 10.  De esos 10 casos encontró que las ramificaciones seguían creciendo y encontró 135 casos más, insisto, de esa muestra de 10, sólo de 10; o sea, de verás la perspectiva es como si por todos lados hubiera esto.
+Sobre esos 144 casos que le mandamos, insisto, le pasamos, UIF seleccionó 10.  De esos 10 casos encontró que las ramificaciones seguían creciendo y encontró 135 casos más, insisto, de esa muestra de 10, sólo de 10; o sea, de verás la perspectiva es como si por todos lados hubiera esto.
 Entonces, la UIF revisó esos 145 casos, porque eran los 10 nuestros, más los 135 que ellos encontraron relacionados con estos 10. Esto representa 50 mil millones de pesos facturados.
 Entonces, UIF regresa con nosotros, con esos 135, nosotros revisamos, ahora fue como al revés el proceso, revisamos el estatus de los contribuyentes y bloqueamos el Certificado de Sello Digital en 92 casos de esos 135.
 ¿Qué pasó con los otros 53 que nos pasó la UIF?
@@ -39,6 +40,7 @@ Esto es más o menos una idea de las cosas que encuentro en inteligencia financi
 Santiago.
 ---
 SANTIAGO NIETO CASTILLO, TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA
+Agradezco mucho a la jefa del SAT.
 Efectivamente, lo primero que quisiéramos destacar por parte de la Unidad de Inteligencia Financiera es la labor de coordinación entre el Servicio de Administración Tributaria, la UIF, y la Procuraduría Fiscal de la Federación en este caso en particular de combate a las empresas fachada y a las factureras.
 Por un lado, se trata de empresas que son utilizadas particularmente para los casos de corrupción política; en segundo lugar, estaríamos hablando de modelos y problemas en materia de defraudación fiscal.
 Efectivamente, como se puede ver en la lámina, estamos viendo una empresa que originalmente tenía un giro relacionado con textiles y que también tiene un cambio hacia actividades en materia de construcción.
@@ -65,6 +67,7 @@ Y lo único que quisiera resaltar es no solamente la colaboración institucional
 Muchas gracias.
 ---
 MARGARITA RÍOS-FARJAT
+Ya son los temas que comentó, son de los ejemplos de lo que habíamos presentado nosotros en junio y que desarrolló la Unidad de Inteligencia Financiera. Ya lo abordó el doctor Nieto.
 Aquí, por ejemplo, tenemos de lo que hemos encontrado entre UIF y SAT que los principales países de estos 10 que tomó de muestra la unidad de inteligencia financiera, en los que se distribuye el dinero, principalmente China, Hong Kong, Estados Unidos, Taiwán, Corea del Sur, Uruguay y demás.
 Es dinero que ni siquiera se queda aquí, que va al extranjero y que nosotros ya en una especulación muy personal, no formal, no oficial ni nada, uno no evita reflexionar de lo que uno hace, y una especulación como muy personal sobre esto es: Quizá no siempre estén lavando dinero, a lo mejor también es un tema de búsqueda de financiamiento de otro tipo de delincuencia, a lo mejor transnacional, que puedan cometer otro tipo de cosas que a nosotros nos parecen inimaginables.
 Es por ello entonces que las actividades ilícitas son realizadas por organizaciones que de manera reiterada o permanente tienen finalidad de delinquir.
@@ -94,6 +97,7 @@ Y sí hay quien lo dice: ‘Es problema de la dureza hacendaria, a ellos les toc
 Termino yo mi participación, señor procurador. Muchas gracias.
 ---
 CARLOS ROMERO ARANDA. PROCURADOR FISCAL DE LA FEDERACIÓN
+Una vez analizada la problemática que tenemos con todas estas redes de defraudación fiscal fue por lo que se llevó a cabo el análisis y, en su momento, la presentación de la reforma de empresas fantasmas.
 Esto con objeto de equiparar a las empresas fantasmas, esas tres o más personas que en forma constante y permanente llevan a cabo actividades ilícitas, como es el caso de la defraudación fiscal, se equipare a delincuencia organizada.
 Como pudimos ver en los cuadros que nos hizo favor de exponer tanto la doctora Ríos como el doctor Nieto, pudimos ver que realmente es una delincuencia organizada lo que aquí se presenta, y son verdaderas mafias que llevan a cabo la defraudación al fisco federal.
 Entonces, ¿cuál es la segunda etapa o la etapa que sigue que estamos trabajando?
@@ -122,14 +126,23 @@ Por mi parte es todo.
 Muchas gracias.
 ---
 MARGARITA RÍOS-FARJAT
+Como ya hemos estado mucho rato contestamos unas cinco preguntas, a lo mejor seis, de dos en dos.
 Por favor.
 ---
 PREGUNTA
+Buenos días.
 Yo quisiera preguntarle si nos pudiera usted dar detalle. El presidente Andrés Manuel López Obrador se reunió en días atrás con el presidente, el CEO Brad Smith, presidente de Microsoft, y dio a conocer que se pondrá en marcha un programa software, precisamente para la anticorrupción de este tipo de facturas.
 ¿Usted podría detallarnos cómo será este software?, ¿qué candados tendrá y algún otro detalle que me pueda dar?
 Y una siguiente pregunta para el doctor Santiago Siento.
 ---
 MARGARITA RÍOS-FARJAT
+¿Otra pregunta para mí?, para contestar de una vez.
+---
+INTERLOCUTOR
+No.
+---
+MARGARITA RÍOS-FARJAT
+Contesto rápido esta.
 No sé para cuando estén pensando lo que usted me dice, por lo que a nosotros toca estamos funcionando con lo que tenemos y lo estamos haciendo bien.
 El problema… la situación con la tecnología no es… la tecnología sola no hace nada, siempre es la calidad humana la que lo maneja y eso es lo interesante.
 Y, además, bueno, cualquier tipo de contratación y demás pasa por muchos procesos internos del SAT, muchos contrapesos.
@@ -139,32 +152,47 @@ Eso es todo lo que yo le podría decir, porque no estuve presente en esa reunió
 La otra pregunta.
 ---
 INTERLOCUTOR
+Doctor Santiago Nieto.
 Perdón, no me presenté, soy Carlos Pozos, reportero de la revista Petróleo y Energía.
 Yo quisiera preguntarle, doctor, ¿cómo avanza o cómo se encuentran las investigaciones sobre los señores Gonzalo Gil y José Antonio Cañedo White, socios de Oro Negro de esta empresa quienes han sido denunciados por su abogado Alfonso Alonso del Val por denuncias de fraude de los fondos de Afores y contubernio con Gonzalo Gil White el despacho Quinn Emanuel para defraudar a Petróleos Mexicanos?
 ¿Cómo avanza esa investigación?, que aquí el señor presidente dijo que iba a hacer una investigación profunda en torno a Oro Negro.
 ¿Cuáles avances tendrán?
 ---
 SANTIAGO NIETO CASTILLO
+Es importante señalar que efectivamente, como ha mencionado el señor presidente, hay una política de cero tolerancia a la corrupción y a la impunidad.
 Segundo, que sean revisado y se han presentado ya una serie de denuncias relacionadas con las prácticas de corrupción o presuntas prácticas de corrupción en la pasada administración en Pemex que incluyen desde temas vinculados con agronitrogenados, Odebrecht, empresas Yacani, entre otras.
 Estamos en el tema de Oro Negro en proceso todavía de investigación, no puedo dar datos en virtud del deber de sigilo de las investigaciones y también por la debida… el cumplimiento de las reglas del debido proceso.
 Pero, bueno, evidentemente cumpliendo con la instrucción del presidente López Obrador de combatir la corrupción y la impunidad.
 ---
 PREGUNTA
+Gracias, Daniel Blancas, de Crónica. Dos preguntas.
 Una, ¿qué responsabilidad tiene el sistema bancario?, porque resultaría increíble pensar que toda esta red y todo este engranaje de lavado de dinero y facturación falsa no tenga la complicidad del sistema bancario.
 ¿Cuál es su reflexión sobre este asunto?, ¿cuál es la responsabilidad de los bancos sobre estas redes?
 ---
 SANTIAGO NIETO CASTILLO
+Yo creo que habría que plantear algo muy importante. La Unidad de Inteligencia Financiera obtiene su información a partir de dos elementos, básicamente a partir de dos elementos: el sistema financiero y, por otro lado, los sujetos obligados por actividades vulnerables.
 En ese sentido hay que plantear que lo que hace el sistema financiero es recibir los recursos, y que el problema de las empresas fachada y de la facturación falsa tiene su origen fuera del sistema financiero, en la constitución de este tipo de empresas.
 Hay que señalar que las reformas en materia mercantil de 2013 establecieron un procedimiento distinto para la constitución de ciertas empresas, y esto ha generado que la Secretaría de Economía cuente con una información y los sistemas, por ejemplo, notariales con otro.
 Lo que estamos nosotros trabajando es junto con la Secretaría de Economía para intercambio de información y poder tener claridad en torno al beneficiario final de las empresas que son constituidas, y que son utilizadas con estos mecanismos de defraudación fiscal por factureras y por empresas fachada particularmente con los temas de corrupción.
 Yo creo hay que reconocer el aporte del sistema financiero, del sistema bancario, de la información que nos dan los bancos de México para poder generar los casos que es importante que sean denunciados ante la Fiscalía General de la República, como lo hemos hecho. En el transcurso de este año hemos presentado ya 135 denuncias ante la Fiscalía General de la República y 69 vistas ante otras autoridades, lo cual es récord histórico de la Unidad de Inteligencia Financiera, en razón de que el año más denuncias se habían presentado era 2016 con 113 casos.
 Pero es importante para la UIF contar con información del sistema financiero y de las actividades vulnerables para poder generar todos los casos.
 ---
+INTERLOCUTOR
+Porque estos criminales sí usan los bancos, vimos en las tablas que ustedes nos presentaron, que incluso se tapó ahí por razón confidencial el nombre de los bancos, pero sí los usan.
+---
 SANTIAGO NIETO CASTILLO
+A ver, hay que decir que utilizan varias herramientas, por ejemplo, el uso de efectivo, por ejemplo la generación de una empresa que le establecen un domicilio fiscal en lugares que no corresponden al perfil transaccional de empresas de ese tipo.
 Encontramos también personas jóvenes que resultan ser los accionistas y reciben millones de pesos o de dólares en sus cuentas, y todo ello en términos de la normatividad implica una operación con recursos de procedencia ilícita, con independencia de problema de la defraudación fiscal.
 México, en este momento estamos en proceso de revisión por la Unidad de Inteligencia Financiera y el resto de las instancias que forman parte del grupo de atención de las 40 recomendaciones de GAFI, tiene la obligación de generar una evaluación nacional de riesgo y es en la que hemos estado trabajando en este momento para efecto de que todos los sectores, incluyendo el sistema financiero, los notarios, corredores, desarrolladores inmobiliarios, entre otros, puedan tener conocimiento de cuáles son los riesgos que tiene su sector en los ámbitos relacionados con lavado de dinero y financiamiento al terrorismo en el país.
 ---
+INTERLOCUTOR
+¿Síi los usan, Santiago, verdad, sí no los usan?
+---
+SANTIAGO NIETO CASTILLO
+Usan muchos mecanismos y lo importante es que se ataquen todos los mecanismos para efecto de proteger el sistema financiero y la economía nacional.
+---
 PREGUNTA
+Muchas gracias, doctor Santiago Nieto. Rafael Herrera, corresponsal de Sin Censura, con Vicente Serrano.
 Se habla ahorita del hijo de ‘el Chapo’ Guzmán, pero me gustaría preguntarle precisamente si ya tienen identificadas y bienes de Joaquín Guzmán Loera y todos sus prestanombres, porque en Estados Unidos se está hablando de buscar y recuperar lo más que se pueda de sus bienes y su dinero, y aquí en México casi no se está hablando nada de eso.
 También me gustaría preguntarles sobre cómo va la investigación precisamente de las cuentas del expresidente Enrique Peña Nieto.
 Y algo que también quiero preguntarle es: se está investigando a todos estos actores políticos de la administración pasada de Enrique Peña nieto, pero no vemos que se esté investigando a la administración del panismo.
@@ -172,6 +200,7 @@ Y algo que también quiero preguntarle es: se está investigando a todos estos a
 Muchas gracias.
 ---
 SANTIAGO NIETO CASTILLO
+Qué bueno que surgen estas preguntas.
 Primero, respecto al tema de Joaquín Guzmán Loera. En este momento se ha generado un grupo de trabajo en temas relacionados con lavado de dinero y delitos financieros, coordinado por la Secretaría de Relaciones Exteriores, uno de los elementos que se tiene que trabajar de manera conjunta con Estados Unidos precisamente es la localización de los bienes de Joaquín Guzmán Loera relacionados con el tráfico de estupefacientes a Estados Unidos.
 Evidentemente nosotros estamos en un proceso de revisión de la información con la que contamos.
 Se ha presentado denuncias por parte de la Unidad de Inteligencia Financiera hacia la Fiscalía General de la República y hemos generado también congelamiento de cuentas para… de temas vinculados con todos o con los muchos cárteles que operan en la República Mexicana.
@@ -182,7 +211,14 @@ La instrucción que tengo por parte del presidente López Obrador es muy clara, 
 Por tanto, no tenemos nosotros ninguna ideología atrás, sino simple y sencillamente el cumplimiento de las reglas del Estado constitucional de derecho.
 Un planteamiento que es relevante respecto a la temporalidad es que la Unidad de Inteligencia Financiera ve operaciones con recursos de procedencia ilícita, y estas acciones son acciones que tienen un proceso de 10 años de prescripción; por tanto, nosotros somos competentes, evidentemente, para conocer de asuntos que se hayan desarrollado en este momento 2009 a la fecha.
 ---
+INTERLOCUTOR
+Muchas gracias.
+---
+SANTIAGO NIETO CASTILLO
+Por favor.
+---
 PREGUNTA
+Gracias, doctor. Nancy Rodríguez, de Oro Sólido.
 Hay mucha especulación en cuanto a las acciones que lleva a cabo su unidad de inteligencia.
 Dentro de lo posible, doctor, con afán de transparencia también, ¿nos podría informar cómo van a las denuncias en contra de exfuncionarios públicos?, por ejemplo -y si podría tomarse ese tiempo se lo agradecería muchísimo- en relación a Luis Videgaray, Miguel Ángel Osorio Chong, se habla también en estos días sobre Manlio Fabio Beltrones.
 ¿Cómo va la denuncia en contra del exgobernador César Duarte por desvío también de recursos hacia el PRI?
@@ -191,21 +227,31 @@ Si nos hace favor, si nos podría precisar información acerca de esto.
 Gracias.
 ---
 SANTIAGO NIETO CASTILLO
+A ver, agradezco mucho la pregunta, pero también tengo que ser muy franco con la respuesta.
 Tenemos al final un sistema de corte constitucional que nos obliga a mantener el sigilo de las investigaciones, tanto en la sede administrativa, como en el caso del órgano autónomo, que es la Fiscalía General de la República, al momento de integrar sus carpetas de investigación.
 Lo que sí quiero plantear es que hemos tenido acercamiento con la Fiscalía General de la República para en aquellos casos en donde por requisito de procedibilidad la Unidad de Inteligencia Financiera ha presentado denuncias, nos puedan reconocer el carácter de coadyuvante y poder darles seguimiento a los casos.
 Quiero plantear algo que es muy importante para nosotros, el GAFI, cuando presentó su informe sobre México en noviembre de 2017, publicado en enero de 2018, señaló que una de las principales deficiencias del sistema en México, reconociendo la fortaleza del sistema financiero, reconociendo los avances que existen, por ejemplo, en materia de congelamiento de cuentas, señaló que una de las deficiencias era no elevar el número de sentencias condenatorias y el número de temas vinculados con el decomiso de bienes e instrumentos de delito.
 Ese es en este momento nuestra labora más importante y la vinculación con la Fiscalía General de la República tiene esa finalidad, poder ir incrementando no solamente el número de denuncias, decía hace un momento que 113 hemos pasado hasta este momento a 135, sino poder ir avanzando en el llevado o en el acompañamiento del proceso penal para lograr en su caso, no solamente combatir la corrupción, sino la impunidad.
 ---
+PREGUNTA
+Al exgobernador, por ejemplo, César Duarte lleva ya un proceso; también el mismo presidente nos ha revelado lo del exministro Medina Mora, que dijo renunció porque tiene cuentas pendientes.
+---
 SANTIAGO NIETO CASTILLO
+Creo que sobre los casos en particular no podría hacer ningún pronunciamiento.
 El caso de César Duarte, me tocó verlo desde Fepade, y bueno, en realidad…. también en el caso específico de… se han presentado denuncias ante la Fiscalía General de la República y creemos que es importante que esas instancias se pronuncien, tanto la Fiscalía General, en su momento el Poder Judicial, en los términos que establece la Constitución.
 Y como el fiscal general ha reconocido, es importante que todas las personas ejerzan su derecho a la defensa, porque estamos viviendo un Estado constitucional de derecho.
 ---
 MARGARITA RÍOS-FARJAT
+Voy a tomar una más en respeto al tiempo de los compañeros, porque tenemos realmente mucho trabajo, igual que ustedes.
 Entonces, agradecería mucho su compresión.
 ---
+PREGUNTA
+Con estas reformas y con este trabajo que están haciendo contra las factureras, ¿cuánto piensa o cuánto está proyectado recaudar el SAT?
+---
 MARGARITA RÍOS-FARJAT
+Ya nos habían preguntado por acá cuando estaba el presidente.
 A ver, para poder nosotros dar un estimado, que es un dato cuantitativo, tendríamos que tener elementos cuantitativos, cuántas manzanas, cuánto esto, cuánto.
-Estamos trabajando sobre elementos cualitativos, qué vamos encontrando, cómo se va moviendo la red, cuánto va a ser.  Si no sabemos cómo estamos encontrando y qué se está generando, tampoco podemos saber aquí qué impuesto se está generando y en qué momento, no podemos hacer una especulación de ese tamaño.
+Estamos trabajando sobre elementos cualitativos, qué vamos encontrando, cómo se va moviendo la red, cuánto va a ser.  Si no sabemos cómo estamos encontrando y qué se está generando, tampoco podemos saber aquí qué impuesto se está generando y en qué momento, no podemos hacer una especulación de ese tamaño.
 Nosotros esperaríamos tener un efecto positivo en forma directa, como también por percepción de riesgo.
 Ahora, también la situación económica, otro tipo de situaciones que puedan afectar que suba o que baje la recaudación nos van a impedir verlo; no podríamos nosotros establecer desde ahorita, quizá a posteriori, el resultado.
 Pero es lo mismo, o sea, me piden un dato cuantitativo sobre una cosa cualitativa que está en proceso.
@@ -213,6 +259,7 @@ Decir nosotros de las factureras publicadas cuánto hay de presuntiva de evasió
 ¿Para el procurador no hay? para que yo pueda toser.
 ---
 PREGUNTA
+Sobre la cantidad de balas que son decomisadas en las aduanas, tiene que ver con todo esto de tráfico de armas.
 Sólo preguntarle si usted o su institución ha detectado deficiencias en las instalaciones de las aduanas que han permitido la entrada al país de este tipo de armamento y de municiones.
 Tenemos el dato que son 77 mil en 15 meses, pero que es una cifra muy baja comparada con decomisos que hace el Ejército ya al interior del territorio nacional. Esa es la primera que le quiero hacer.
 Y la segunda, muy fácil, si después de que se dio a conocer esta lista de beneficiarios de condonaciones fiscales, se hablaba de 201 usuarios que todavía estaban amparados.
@@ -220,6 +267,7 @@ Y la segunda, muy fácil, si después de que se dio a conocer esta lista de bene
 Gracias.
 ---
 MARGARITA RÍOS-FAJAT
+Le contesto primero la segunda.
 Muchos de estos amparos ya son firmes, la mayoría de hecho ya son firmes, no hay más que hacer en el Estado de derecho en el que vivimos.
 Los que están vivos todavía estamos esperando se resuelvan, pero nos avise la autoridad judicial el momento la autoridad judicial el momento en que ya si procedió no procedió.
 Si ya es firme concediendo el amparo, no podemos hacer nada; si es firme negándolo, ahí sí tenemos nosotros que dar la información al quejoso.
@@ -238,3 +286,10 @@ Yo, por ejemplo, le voy a dar unos datos a junio. Por ejemplo, de cocaína, buen
 Armas, armadas, desarmadas y demás, armas, 80, cargadores 768, cartuchos 30 mil y tantos; pero eso es a junio, necesitamos actualizarlo en el último trimestre, porque por lo menos yo recuerdo de agosto a la fecha, o sea, el trabajo de binomios caninos, armas que entran desarmadas, o sea, ya no nada más todo el reto en sí mismo, sino que el arma entra desarmada para hacer una… para camuflagearse en las cámaras de lo que podemos ver nosotros.
 Ahí es donde entra la experiencia, la sapiencia, los animales y los principios, siempre es un tema de principios.
 Entonces, señores, muchísimas gracias. Vamos a quedar a sus órdenes, pero ya tenemos que retirarnos.
+---
+PREGUNTA
+(inaudible)
+---
+INTERVENCIÓN
+Le agradecería mucho, quizá a lo mejor ya afuerita lo pueda… ya a decisión a de él, porque de veras tenemos que irnos a recaudar y un montón de cosas, y hacer que operen estos programas de combate a operaciones simuladas.
+Muchas gracias.

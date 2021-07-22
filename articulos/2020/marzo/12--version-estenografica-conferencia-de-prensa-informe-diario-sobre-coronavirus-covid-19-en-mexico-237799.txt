@@ -3,6 +3,7 @@ Presidencia de la República
 12 de marzo de 2020
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas noches a todas y todos, gracias por estar acompañándonos en esta conferencia vespertina en relación al tema de COVID-19. También un saludo a toda la audiencia que través de ustedes nos acompañan, a través de ustedes podemos llegar con la información y con los mensajes correspondientes en relación al tema comentado.
 Esta noche nos acompaña, como ya es costumbre en varias de nuestras conferencias, el doctor Gustavo Reyes Terán, coordinador de la CCINSHAE y además también líder del componente de acción de atención médica, así como el equipo de investigación científica.
 También estará con nosotros en un momento más el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, que es un tema que también el día de hoy queremos presentarles.
 Entonces, para poder dejar un buen espacio para preguntas y respuestas, si gustan, pasamos a la primera diapositiva, donde siempre actualizamos el panorama internacional. El día de hoy sobrepasamos a nivel mundial la barrera de los 125 mil casos, fueron cuatro mil 613 casos que se notificaron como confirmados en las últimas 24 horas en todo el mundo, y podemos cómo en la gran cantidad de esos casos sigue presentándose en el país europeo, que es el que actualmente integra varios países que están teniendo escenarios dos, inclusive escenarios tres y, por lo tanto, el incremento de los casos confirmados continúa en su curva epidémica de manera ascendente y lógicamente esto hace que día con día se incrementen estos casos.
@@ -46,6 +47,7 @@ Por eso esta noche nos acompaña el doctor Ricardo Cortés Alcalá, como decía,
 Entonces, le doy la palabra al doctor Ricardo Cortés.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchísimas gracias, José Luis. Muy buenas tardes a todas y a todos aquí en la sala, a miembros de la prensa y sobre todo buenas noches a quienes nos están viendo desde su casa.
 Vamos a ver los criterios que estamos estableciendo, es para una sana distancia. La primera diapositiva que se está… muchísimas gracias, son los criterios de sana distancia para eventos masivos.
 ¿Qué es lo que queremos?
 Lo que queremos es la gente siga viviendo su vida lo más normal posible. La vida continua con, sin, a pesar del COVID, pero sí tenemos que establecer unos criterios muy claros para establecer una sana distancia.
@@ -79,6 +81,7 @@ Nosotros confirmamos: oye, esto sí es cierto o no, esto no es correcto o no es 
 Muchísimas gracias. Visiten el micrositio www.gob.mx/coronavirus. Gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias.
 Antes de pasar a la parte de preguntas y respuestas, solamente quisiéramos nosotros hacer una aclaración que consideramos es importante para toda la población, porque es un tema que se ha estado presentando en las últimas 48 horas.
 Han estado circulando mensajes en redes sociales generando una invitación o generando una instrucción que no ha sido emitida por la Secretaría de Salud, específicamente por la Unidad de Inteligencia Epidemiológica y Sanitaria, o la Dirección General de Epidemiología, porque de hecho dependiendo de qué ha circulado lleva un logo o lleva el otro.
 Este es un mensaje que se ha estado dando de manera errónea a la población, de que no demanden atención médica si se encuentran con algún problema de infección respiratoria aguda, esto no es cierto; al revés, si una persona que tiene un problema de infección respiratoria aguda no demanda atención, entonces va a perder la oportunidad de ser evaluado por un profesional de la salud y, por lo tanto, poder ingresar a un protocolo de estudio.
@@ -91,6 +94,7 @@ Entonces, sí queremos ser muy puntuales con esto para que la población no teng
 Teníamos una mano de este lado, que fue la primera persona que levantó y luego tenemos una mano acá y ahorita nos vamos en orden, y pasamos de este lado también.
 ---
 PREGUNTA
+Gracias. Buenas tardes. Julio Omar Gómez, de Medios Digitales del Pacífico y 911 Noticias.
 La primera pregunta para el doctor Ricardo, de la sana distancia en un escenario como el Vive Latino, yo no sé si el virus se pueda contagiar, yo que he vivido esos eventos, todo mundo suda, entonces el sudor de una persona con otra ¿eso no es algún problema?
 Esa sería la pregunta número uno, digo, ya compartir bebidas y todo, pero el sudor sería una pregunta.
 La segunda, ¿cuáles son los protocolos para una sintomatología leve que se envía a casa?, es decir, vete a tu casa sin medicamentos ¿o qué clase medicamentos son?
@@ -98,7 +102,11 @@ Y si se está monitoreando, ¿cómo se monitorea? o si se va visitando o no.
 Cuando los síntomas son graves o agudos, mejor dicho, que es necesario estar en un hospital ¿cuál es el tratamiento? ¿qué medicamentos? ¿cuánto tiempo está ahí o de qué depende? ¿en sí cuál es el protocolo que toman en ambos casos, tanto leve como agudo?
 Esas dos preguntas.
 ---
+RICARDO CORTÉS ALCALÁ
+Muchísimas gracias. Y aunque soy médico cirujano de formación, el experto es el doctor Gustavo Reyes Terán, le paso la palabra.
+---
 GUSTAVO REYES TERÁN, TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
+Gracias. Buenas noches y gracias.
 Sobre el sudor la respuesta es no, no hay posibilidad de que pueda transmitir el virus. Un estudio reciente, interesante sobre dos aspectos que me parecen fundamental que ustedes sepan, la prueba de diagnóstico para detectar el virus es una prueba muy sensible y detecta un solo fragmento del virus, un pequeño fragmento del virus; sin embargo, eso no garantiza que el virus sea infeccioso.
 Claro, si la persona tiene síntomas y la prueba es positiva, obviamente se asume que esa detección es de un… en este caso el SARS coronavirus2, hay síntomas, la persona tiene COVID-19.
 Entonces, este estudio, sobre todo fue para el tiempo de cuarentena o el tiempo de resguardo domiciliario de las personas u hospitalario también, se dedicó a estudiar cada día con esta prueba sensible, que se llama PSR el que detecta el fragmento del virus, y comparó al mismo tiempo con la posibilidad de aislar al virus, cultivar al virus.
@@ -118,12 +126,17 @@ De manera que el tratamiento de una persona con un cuadro clínico grave en un h
 Esto ocurre en un 15 por ciento del total de los casos, generalmente o la vasta mayoría de ellos, son personas que tienen más de 65 años o tienen alguna enfermedad subyacente, una enfermedad crónica, como ya lo hemos repetido, hipertensión arterial, diabetes y probablemente obesidad también se asocie a la gravedad del cuadro clínico, en fin.
 El tratamiento es de soporte, básicamente los casos graves y sintomático en los casos leves. En ambos casos se siguen una medida que le llamamos de control de infecciones, de manera que exista la… se elimine la posibilidad de que el paciente que excreta virus con sus síntomas, tos o estornudos o sus secreciones respiratorias no infecte a otra persona dentro de un hospital, y para eso hay equipos de protección personal por parte del médico o del personal de enfermería o del personal de salud que evitarían la adquisición de la infección.
 ---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Tenemos una pregunta más de este lado y ahorita pasamos también de este lado, no sé si ya otorgaron el micro por ahí, por favor.
+---
 PREGUNTA
+Gracias, buenas noches.
 Pues yo de entrada quiero preguntar sobre el caso de Querétaro. En la tabla sólo hay un caso, pero entiendo que ya se informó que hay otro caso en Querétaro, quería saber eso.
 Después les quiero preguntar, hay sugerencias ya por parte de académicos e investigadores de la UNAM en el sentido de que el gobierno ya debe implementar las acciones para fase dos de diseminación comunitaria; entonces, quería preguntarles en ese sentido si ustedes están considerando hacerlo, y lo pregunto porque además en el Tecnológico en Monterrey y en la UNAM ya están previendo cancelar clases, eventos masivos, a partir de la próxima semana.
 Los dos casos que tienen en estudio de los contactos, de confirmarse, ya sería, ya podríamos hablar de diseminación comunitaria o de autóctonos.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muy bien, hilo la primera pregunta con la tercera porque están directamente relacionadas.
 Efectivamente, en un comunicado el estado de Querétaro dio a conocer que tenían un resultado positivo para SARS-CoV-2 en uno de los contactos que se habían identificado del primer caso que en su momento comentamos.
 Esta información, en su momento, digamos que no alcanzó ya al corte, pero además tenemos entendido que está por emitirse el resultado confirmatorio por parte del mismo laboratorio, es solamente un procedimiento que se resuelve en tema de horas, recordando que ya los laboratorios estatales pueden emitir sus resultados confirmatorios como tal.
 En función de la tercera respuesta, si este caso es confirmado, se clasifica como asociado a importación y es un caso que esperábamos tener todavía en el escenario uno.
@@ -133,12 +146,17 @@ La transmisión de segunda generación está todavía en el marco del escenario 
 El escenario dos inicia cuando tenemos casos de tercera generación, es decir, estos segundos casos que pudieran haberse contagiado del primero, a su vez generan ahora sí un contagio a un tercer grupo o empezamos, a través, como decía, de la vigilancia Centinela, podemos empezar a detectar casos en la comunidad que no necesariamente están ligados o hay una cadena de transmisión clara a un caso importado.
 Le cedo el micrófono al doctor Cortés para otra pregunta.
 ---
+INTERLOCUTORA
+Perdón, nada más, ¿la cifra es 16 o se queda en 15?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, mire, quisiéramos explicar, los números son muy dinámicos, son completamente dinámicos porque tenemos 40 laboratorios, que son los de los estados, y son además los de los hospitales que se consideran como laboratorios que apoyan a la vigilancia epidemiológica, y todos estos 40 laboratorios que están reconocidos por el Indre, pueden emitirnos un caso confirmado en cualquier momento, pudiéramos nosotros estar aquí atendiendo la conferencia y pudieran ellos estar emitiendo resultados de uno o dos.
 Entonces, lo que nosotros presentamos en la diapositiva y en el comunicado técnico, que es el que se publica a las 7:30, corresponde a un corte de información, se corta la plataforma a través de la cual se hace la vigilancia y entonces tenemos los datos.
 Pero lógicamente una vez cortada la plataforma, en la siguiente hora puede aparecer un nuevo caso, puede aparecer otro. Los estados tienen toda la autonomía de poder dar a conocer sus casos o transmitir, comunicar la información a su población del estado, pero lo que pasaría, como lo hicimos hoy con el caso de ayer de Nuevo León, es que, en el siguiente corte, al siguiente día, este caso ya estará integrado a la estadística; por lo tanto, nunca tendremos un desfase de más allá de 24 horas entre un corte y el otro corte.
 Entonces, para efectos del corte son 15, pero efectivamente sabemos que hay un caso positivo más que será el caso 16, que es este caso asociado a importación.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias.
 Sobre la otra pregunta, los escenarios por eso se plantean, se plantean con base en evidencia científica, y se plantean como escenario uno, importación; escenario dos, brotes, dispersión comunitaria; escenario, escenario epidémico.
 Si en el escenario uno tenemos que hacer las actividades del escenario dos, entonces, ¿para qué existe el escenario dos o para qué existe el escenario uno?, ¿sí?
 Entonces, cuando tomamos decisiones basadas en evidencia científica, tomamos buenas decisiones; cuando tomamos decisiones con base en supuestos que no han ocurrido o con pánico o con miedo, entonces, las decisiones creo que se toman de forma equivocada.
@@ -146,11 +164,13 @@ La UNAM, por lo que yo leí en una nota, lo que está suspendiendo es algunas ac
 Sobre otra universidad que suspendió clases, bueno, tienen alguna capacidad para dar esas clases a distancia, no todo México tiene esas capacidades, no todas las universidades tienen esas capacidad y no todos los mexicanos tienen acceso a esas tecnologías, pero tienen acceso o tenemos acceso al mismo nivel educativo y en este momento no está indicada la suspensión de clases y lo que está indicado es los pasos para mitigar nosotros como población, ustedes en su casa, lavarse las manos, estornudando correctamente y quedándose en casa si están enfermos.
 ---
 INTERLOCUTORA
+Están reaccionando con miedo, porque sugieren entrar a la fase dos, porque hablan de que ya estaríamos en el escenario dos, que las pruebas que se han hecho son insuficientes y que es muy probable que ya haya esta diseminación comunitaria.
 Entonces, de hecho, ya hay fecha para cancelación de eventos multitudinarios en la UNAM, no nada más es en algunas universidades.
 Y, perdón, rapidísimo, el ABC también me informan que ya tiene casos de COVID, el hospital ABC, que ya están aislándolos, si me pueden comentar.
 Gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Lo que yo puedo comentar es que nosotros lógicamente vamos avanzando, trabajando y tomando decisiones, como lo decía el doctor Ricardo Cortés, en base a la evidencia que tenemos.
 No tenemos ninguna evidencia de que exista la transmisión comunitaria, que existan los casos de tercera generación o la presencia de brotes en la comunidad, esto lo estamos diciendo, no es que no vaya a pasar, va a pasar, definitivamente va a pasar, pero la evidencia que tenemos no lo ha identificado.
 Recordar que también estamos realizando la prueba confirmatoria para SARS-CoV-2 en aquellos casos que salen negativos a influenza y que son graves en hospitales, estamos hallándole la utilidad al Sistema de Vigilancia Epidemiológica de influenza para que todos estos casos que han sido muestreados con enfermedad grave.
 Si salieron negativos a influenza, le buscamos SARS-CoV-2 como segunda opción inmediata y hasta el momento no hemos encontrado casos de SARSCoV-2 en estos pacientes, que además no solamente son de Ciudad de México, sino que son muestras que provienen de todo el país, es lo que comentábamos en semanas previas.
@@ -161,6 +181,7 @@ El caso que menciona del hospital privado, necesitaríamos revisar. Hasta donde 
 Y nos queda espacio para una pregunta, pasamos de este lado y sería una última pregunta.
 ---
 GUSTAVO REYES TERÁN
+Podría yo ahondar más sobre la presunción de proponer actividades como si estuviésemos en el escenario dos y con el argumento de que asumen completamente que México se encuentra en un escenario dos.
 Déjenme decirles evidencias, de datos duros, de cuánto tiempo ha transcurrido en algunos países como España, como Francia, como Alemania, del momento que detectan el primer caso hasta que ocurre el escenario dos, que es ya la transmisión comunitaria y uno en la curva pude ver esto realmente y un incremento del número de casos.
 En España, por ejemplo, cuando llevaban 25 casos acumulados de casos importados, documentados, pasaron 27 días; en Francia, con 12 casos acumulados pasaron 31 días; en Alemania, con 18 casos acumulados, pasaron 28 días entre el inicio y la transmisión comunitaria.
 Hace dos semanas, casi exactamente dos semanas se documentó el primer caso en México.
@@ -173,4 +194,19 @@ Evidentemente, y aprovecho para decir, la población vulnerable son las personas
 Y lo podemos hacer todos, el gobierno tiene acciones, tiene estrategia, pero también medios de comunicación, población en general, deben estar conscientes de que finalmente las personas de más de 65 años y sobre todo las personas de más de 70 años que van a tener el efecto más letal de la infección por SARS coronavirus-2, deben de cuidarse y debemos simplemente tener las acciones, las medidas clásicas de salud pública, que son lavado de manos, distancia, si hay síntomas respiratorios de una persona, entre una persona y otra, básicamente, y resguardarse en domicilios si son síntomas leves, buscar atención médica si son síntomas que indican alguna gravedad.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Bien, bueno…
+---
+INTERLOCUTORA
+¿Cuántos casos pasan el diagnóstico que decía el doctor Terán? Perdón, decía que Japón tiene 66 por millón, ¿México?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, lo que pasa es que México… estamos hablando de países que ya pasaron o están en una fase de un tercer escenario donde hay una carga importante de enfermedad en donde se puede hacer estos cálculos por millón, estamos hablando de países que ya están en escenario tres o algunos de ellos como China, por ejemplo, ya está prácticamente saliendo del escenario tres, por eso se pueden hacer estos cálculos.
 En el caso de México vamos apenas empezando en el escenario uno y en su momento los cálculos con estas dimensiones todavía no pudieran ser posibles.
+---
+INTERLOCUTORA
+No tenemos las pruebas.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Las pruebas tenemos, las pruebas iniciamos para escenario uno, tenemos nueve mil 600 pruebas disponibles, recuerden que se destinaron 200 reacciones a cada uno de los estados, son 32, más los seis laboratorios de apoyo a la vigilancia, más todas las pruebas que el Indre tiene en su reserva estratégica.
+Muchas gracias, se nos acabó el tiempo. El día de mañana, como saben, podremos también estar en la conferencia del señor presidente y estaremos nuevamente en la tarde con ustedes.
+Muchas gracias.

@@ -1,0 +1,290 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+02 de febrero de 2021
+---
+RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muy buenas noches tengan todas y todos. Hoy es martes 2 de febrero del 2021, son las 19:01 y vamos a dar inicio a esta conferencia de prensa en donde todos los días que está la oportunidad vamos actualizando sobre el panorama epidemiológico que guarda la epidemia de la COVID-19, esta enfermedad que ya cumplió su año de vida en nuestro país, el 28 de febrero se dio a conocer el primer caso.
+Doctor López-Gatell, muchísimas gracias. Adelante, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Adelante, continuamos con esta conferencia de prensa, hoy que es martes 2 de febrero, Día de la Candelaria, estamos aquí en Palacio Nacional, en la Ciudad de México, en México y continuamos con esta conferencia de prensa diaria sobre COVID-19.
+Como ya relata el doctor Ricardo Cortés, comentaremos, igual que lo hemos hecho en los días más recientes, sobre el informe técnico; presentaremos también el informe de la vacunación y hoy queremos dedicar un buen rato a responder preguntas sobre la nueva plataforma de registro de las personas mayores para la vacunación COVID.
+Nos interesa que quede completamente claro cómo se registran, para qué se registran, cómo se cuidan los datos personales, esto es algo muy importante, y cómo se va a utilizar la información específica y exclusivamente con el propósito de vacunar contra COVID-19.
+Entonces, el doctor Cortés va a presentar el informe técnico, explicaré el avance de hoy en la vacunación y después el propio Ricardo Cortés ha hecho un compilado de preguntas que a lo largo del día detectamos, las resolverá explícitamente y las que queden les agradecemos a ustedes, comunicadoras y comunicadores, que las formulen para beneficio de la población.
+Doctor Ricardo Cortés.
+---
+RICARDO CORTÉS ALCALÁ
+Muchísimas gracias, doctor López-Gatell. Vamos a dar inicio con el informe técnico de todos los días sobre la situación que guarda la epidemia del virus SARS-CoV-2 en nuestro país.
+Vemos esta primera curva epidémica, en donde vemos aquí cuál es el total de casos estimados. Actualmente, un total de dos millones 67 mil 855 personas se estima que tendrían un resultado positivo al virus SARS-CoV-2.
+¿Por qué decimos que se estima?
+Porque este número, del número de pruebas que se han hecho, es un poco menor, y éste se estima con base en las personas a las que no se les ha realizado una prueba específicamente y se estima con la positividad y la asociación epidemiológica.
+Como podemos ver, este número es más útil, porque además es mayor que el número de pruebas que se han realizado.
+Un total de un millón 436 mil 482 personas se estima que se han recuperado, siempre recordando que hay muchísimas más personas que se han recuperado, dado que esta enfermedad en su mayoría se tiene un cuadro leve y se recuperan en casa sin mayor problema.
+Desafortunadamente también, como siempre lo hemos mencionado, hay un total de 159 mil 533 muy desastrosas defunciones con una prueba confirmatoria al virus SARS-CoV-2.
+Y como también siempre lo mencionamos, hay un análisis, no sólo que hacemos aquí en México, sino se hace también a nivel internacional, para ver el exceso de las defunciones que esta pandemia ha generado en todo el mundo, en todo el mundo.
+Esto no es exclusivo de nuestro país y tampoco es exclusivo de nuestro país el hecho de que exista un mayor número de defunciones que no se hayan contabilizado oficialmente como parte del virus SARS-CoV-2.
+Como pueden observar en estas dos curvas epidémicas, la de casos estimados y al de casos recuperados, aquí hay un cruce en donde de la semana anterior a la actual hay un descenso en el 19 por ciento de casos estimados. Este porcentaje puede ser menor, puede ir siendo menos 18, menos 17, menos 16, pero es bastante alentador que en este momento haya un descenso importante y un incremento de más del 26 por ciento con respecto de los casos recuperados de la semana anterior.
+También ese porcentaje y ese número de casos estimados activos que representan la epidemia activa en nuestro país, que es el cuatro por ciento actualmente y es representativo de 83 mil 529 personas.
+Sobre la ocupación hospitalaria, siempre en los ámbitos diferentes, la ocupación hospitalaria general sobre las camas que atienden personas en las que se pueden atender personas con infección respiratoria aguda grave que no requieren de cuidados intensivos, hay una disminución a nivel nacional de un punto porcentual.
+Y hay actualmente ocho estados de nuestra República que tienen más del 70 por ciento de la ocupación. La Ciudad de México ocupa el primer lugar con un 84 por ciento y todos estados que están aquí se han mantenido en este indicador por encima del 70 por ciento.
+Es importante saber que, a pesar de que continúan en este indicador por arriba del 70 por ciento, han disminuido un poco sus ocupaciones, la Ciudad de México ha llegado al 90 por ciento y actualmente se está en el 84 por ciento. Estas disminuciones son las que también, a nivel nacional, han ayudado a que haya una ocupación un punto porcentual menor que lo reportado el día de ayer. Esta es una información muy dinámica, es de todos los días.
+Tenemos seis entidades federativas entre el 50 y el 69 por ciento de ocupación hospitalaria.
+El estado de Nayarit con un 65 por ciento disminuyó del día de ayer al día de hoy de este grupo del 70 por ciento a este del 50 al 69 por ciento.
+Al mismo tiempo, el estado de Oaxaca cruzó el umbral del 50 por ciento de ocupación hospitalaria para estar en este grupo y son, al final, 18 entidades federativas que tienen menos del 50 por ciento de ocupación.
+Lo que representa ese 55 por ciento a nivel nacional es que hay 19 mil 390 camas ocupadas en la Red IRAG de hospitalización general, de las 34 mil 953 camas que tenemos en su totalidad.
+Sobre las camas que utilizan un respirador mecánico que también sirven para dar atención a personas con infección respiratoria aguda grave, pero que requieren de cuidados críticos, tenemos también una disminución de un punto porcentual con respecto a lo reportado el día de ayer.
+Más del 70 por ciento se tienen tres entidades federativas, la Ciudad de México, el Estado de México y el estado de Nuevo León, que hoy cruza este umbral y por eso se suma a este grupo; pero también la Ciudad de México y el Estado de México con una disminución, con una ocupación un poco menor a lo que se había reportado en últimos días.
+Cinco entidades federativas que se mantienen entre el 50 y el 60 por ciento, que son Aguascalientes, Morelos, Colima, Hidalgo y Oaxaca, y 24 estados de nuestra República que tienen menos del 50 por ciento de la ocupación hospitalaria de camas que cuentan con un respirador mecánico para los cuidados críticos.
+Este 51 por ciento de ocupación nacional significan que hay cinco mil 532 camas ocupadas con un respirador mecánico de las 10 mil 890 camas totales con las que se cuenta en nuestro país en la red en esta red hospitalaria que atienden personas con infección respiratoria aguda grave y que notifican a nuestro sistema de información.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El informe de vacuna.
+---
+RICARDO CORTÉS ALCALÁ
+Viene el informe sobre la vacunación.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Pasamos a la vacunación, la vacunación contra el virus SARS-CoV-2, causante de COVID-19 para proteger contra COVID-19.
+Recordatorio general, el mismo lo estaremos diciendo prácticamente todos los días: Plan Nacional de Vacunación de México es uno solo, es una iniciativa nacional a cargo del gobierno de México. Se anunció públicamente el 8 de diciembre, tiene cinco etapas claramente definidas, uno, dos, tres, cuatro y cinco.
+La primera es vacunación de las personas de los equipos de salud: médicas, médicos, enfermeras, enfermeros, camilleros, recepcionistas, laboratoristas, trabajadoras sociales, etcétera, 11 categorías laborales, incluye sector privado, sector público, sector público, sector privado, son las personas que están en contacto directo con quienes se enferman de COVID-19 en tres espacios de atención: hospitales, consultas ambulatorias, es decir, primer nivel de atención y también la atención prehospitalaria.
+En eso estamos ahorita, en la primera etapa.
+Ya anunciamos esta mañana que se abre el prerregistro para la vacunación de personas adultas mayores. Explicaremos ahora detalles con la sección de preguntas respuestas por qué hablamos de este prerregistro y en qué consiste y cómo lo harán.
+Vamos a ver cómo ha avanzado la comunicación, empezó el 24 de diciembre de 2020, fuimos el primer país de América Latina en tener vacuna COVID, en empezar a utilizarla y entre los 10 primeros países del mundo.
+Tuvimos una fase de calibración que se extendió hasta el 12 de enero de 2021; después, arrancamos en una fase expansiva, en la que se puede ver que han llegado distintos embarques de vacunas y en el periodo de una semana se utilizan.
+Desde luego, es más rápido el primer día, después no tanto, después no tanto, como ocurrió con este segundo paquete.
+Hemos tenido prácticamente todas las dosis de la primera aplicación del más reciente paquete ya utilizadas, hoy se pusieron dos mil 27, que son principalmente o casi exclusivamente en este momento, segundas dosis.
+Hemos dicho que está garantizada la segunda dosis, que ahora estamos usando la vacuna Pfizer-BioNTech y que se puede aplicar deseablemente en el día 21, pero con toda seguridad nos ha recomendado el grupo técnico asesor de vacunación, inclusive hasta el día 35, en este momento no hemos necesitado llegar a ese punto y la estamos aplicando entre el día 21 y el día 28.
+Incluye toda la República también, esto ya quedó claro desde el inicio, 32 entidades federativas, al mismo tiempo, con el mismo nivel de prioridad.
+Y vemos aquí fase de calibración, fase de expansión rápida y 677 mil 539 dosis han sido ya administradas.
+Primeras y segundas dosis, primeras aplicaciones, 614 mil 733; segundas dosis, 45 mil 748; éstas se han aplicado a personal de salud, representan el siete por ciento de las personas trabajadoras de la salud de la primera línea de atención COVID, ya tienen doble dosis, el restante todavía tienen sólo una. Conforme llegue la fecha en que tienen que aplicarse la segunda dosis será aplicada.
+Tenemos un componente específico para personal educativo. El propósito, como comentamos, desde la preparación de este componente fue el aprovechar la vacuna no solamente como un recurso de protección a quien se vacuna y a sus familiares y a su comunidad, dado que las vacunas tienen un efecto protector colectivo, social, poblacional, quien se vacuna está protegida, está protegido, pero además protege a su entorno.
+Pero no sólo eso, sino que la vacuna puede también servir como un mecanismo para facilitar la activación de las distintas necesidades de la sociedad y una muy importante es la recuperación de la educación, de la educación pública.
+Se seleccionó a lo largo de un periodo de observación largo de más de tres meses, casi cuatro ya, del estado de Campeche que se mantuvo con mínima trasmisión, con mínima actividad epidémica y, por cierto, siempre felicitamos al gobierno del estado Campeche, al gobernador Carlos Miguel Aysa, a su secretario de Salud, José Luis González y a todo el equipo, porque mantuvieron las medidas más pertinentes, más oportunas y lograr un control muy adecuado de la epidemia durante muchas semanas.
+Entonces, aprovechando esa condición de salud pública, y conociendo que existen 13 ejes de priorización, la edad, las comorbilidades y las necesidades del control epidémico en esta modalidad, una situación en la que está en buen control y se puede contribuir a facilitar la reactivación de la actividad educativa, por eso se usó esto.
+Esto que estoy diciendo lo hemos venido diciendo, insisto, desde la preparación de este componente especial en el personal educativo, principalmente quienes están en las aulas, quienes están en los recintos escolares.
+Diecisiete mil 58 personas fueron vacunadas, hasta ahorita desde luego solo primera dosis, cuando se cumplan 21 días les tocará la segunda dosis.
+Setenta y tres por ciento de avance general del más reciente embarque, que llegó el 19 de enero, hace una semana, y este embarque llegó con 219 mil 375 dosis, 73 por ciento de ellas ya han sido aplicadas en 25 entidades federativas al 100 por ciento, cuatro entidades federativas están por arriba del 97 por ciento, les falta muy poquito, aquí se ve en el mapa cuáles son y tenemos tres entidades federativas en las que se está aplicando segunda dosis, porque fue donde inició la vacunación durante la etapa de calibración.
+766 mil 350 dosis se distribuyen de esa manera en los distintos embarques, el más reciente ya utilizado al 60 por ciento.
+Ayer comentaba Blanca Valadez, de Milenio, sobre lo que había antes aquí, 93 mil dosis que son las que están utilizando en la segunda aplicación.
+¿Por qué ya no las ponemos aquí desde hace varios días?
+Porque fue cuando ya se fueron a las entidades federativas donde se está aplicando, están listas para ser aplicadas de acuerdo al calendario, ya no están en la reserva en el Instituto Nacional de Cancerología.
+Lo que sí tenemos con estas seis mil 940, que estaremos utilizando precisamente para cubrir cualquier eventualidad y garantizar la continuidad de la operación del programa.
+Hemos destacado, ayer lo hicimos, que nos llama positiva y poderosamente la atención el número tan bajo de dosis que se han perdido, 0.13 por ciento, esto es 13 por cada 10 mil dosis que se ponen.
+Y lo que llama la atención es porque históricamente el programa de vacunación consideraba un desaprovechamiento o desperdicio de más del 15 por ciento de las dosis de vacuna y esto llama mucho la atención.
+Hemos iniciado ya un rastreo de qué pasaba anteriormente, no prometemos que vamos a tener evidencia, podría no estar disponible la información, pero vamos a buscarla, porque sería muy interesante saber por qué antes se gastaba un excedente tan grande vacuna y hoy estamos viendo que no es así.
+El 0.9 por ciento, es decir, nueve por cada mil aplicaciones son personas que han tenido eventos supuestamente asociados a vacunación e inmunización, que es lo que quiere decir Esavi. Cinco mil 778 hasta el 2 de febrero.
+Siempre recordamos, por si alguien tiene la tentación de empezar a informar que este número crece, crece y crece, son eventos de muy corta duración en su mayoría: dolor en el sitio de inyección, mareo, náuseas, ha habido quien vomita, ha habido quien se desmaya, pero comparativamente son muy pocas personas; y la gran mayoría son eventos no graves, menos del uno por ciento son eventos que han merecido atención continua, 47 de estos eventos.
+De ellos están 43 ya en su casa, hoy vemos cuatro que están en este momento hospitalizados y recordamos que no son las mismas personas, no quiere decir que llevan días hospitalizadas, en general en promedio han estado menos de un día y se van a su casa ya complementa restablecidas, lo que ratifica, hasta el momento, la impresión que tienen los demás países del mundo que utilizan la vacuna de Pfizer-BioNTech que lo demostrado en el ensayo clínico fase 3 es cierto: se trata de una vacuna segura, además, desde luego, de eficaz.
+Creo que esta es la última, perfecto.
+Ahora le dejo al doctor Ricardo Cortés si nos explica el tema de la plataforma.
+También queremos dar una información específica que muy amablemente puso a nuestra disposición la secretaria de Gobernación y el director general de Renapo, nuestro amigo Jorge Wheatley, y es cómo consultar el CURP o la CURP, la Clave Única del Registro Poblacional, sin tener que entrar a la plataforma respectiva, esto con el propósito de no saturar la plataforma respectiva, esto con el propósito de no saturar la plataforma.
+Tenemos ahí una pequeña fichita informativa sobre la credencial de votar, la credencial del INE al reverso tiene anotada la CURP, lo mostraremos con ese diagrama.
+Doctor Ricardo Cortés.
+---
+RICARDO CORTÉS ALCALÁ
+Con mucho gusto, doctor López-Gatell. Aquí está esta postal, esta postal que se utiliza en redes, que se utilizará en redes sociales de todo el Gobierno de México. Hay que encontrar, hay facilidad para encontrar la CURP.
+¿Por qué se hace esto, como comenta el doctor López-Gatell?
+Porque si de repente tenemos un tráfico muy intenso en la búsqueda de la CURP, también probablemente, así como observamos hoy en la mañana que hubo tanto tráfico en el sistema de registro de personas adultas mayores y puede colapsar el propio sistema de información y se tiene que ampliar las capacidades de infraestructura en este sistema, entonces también sucedería lo mismo en la Renapo para la búsqueda de la CURP.
+Entonces, aquí la Secretaría de Gobernación nos dice cómo en nuestra credencial para votar viene también nuestra CURP. Aquí se puede visualizar perfectamente y fácilmente en nuestra credencial para votar para poder hacer el registro de las personas adultas mayores en el sistema que se presentó el día de hoy.
+Ahora, desde el inicio de la epidemia presentamos como una de las formas de hacer contacto y comunicación con la población el sitio coronavirus.gob.mx. Le pediría a nuestros amigos de Cepropie si nos presentan aquí la página coronavirus.gob.mx
+Se presenta como primera entrada esta imagen en donde dice ‘Más información sobre la vacunación contra COVID-19, dé click aquí’ y esa imagen hemos decidido ponerla de forma estática para no estar esperando ni estar buscando a pesar de que aquí también se ve lo de vacunación COVID.
+Si puedes por favor darle click en cualquiera de la imagen o en vacunación COVID.
+Y aquí aparece la sección de vacunación COVID que iremos alimentando y creciendo conforme se tiene más información y se tiene más poder para tener una página muy, muy ambiciosa sobre la vacunación COVID, particularmente de un tamaño lo suficientemente grande.
+El primer botón que vemos en esta sección de vacunación COVID es el del registro para la vacunación de personas adultas mayores.
+Si usted que está en casa y ya conoce la página coronavirus.gob.mx desea registrarse o registrar a una persona adulta mayor, no tiene que aprenderse otro htpps//www, entra a esta página que ya conoce usted desde hace meses, le da clic en vacunación y aunque no vamos a hacer ahorita el ejercicio, si aquí pasamos el mouse, va a cambiar de color y entonces, si le diéramos -ahorita no hay que hacerlo para contestar las preguntas- si le diéramos click, aquí se va a abrir de forma automática el sistema de información en el que se podrá, a través de la CURP, registrar a nuestras personas adultas mayores, ya sean ellas mismas o con el apoyo de sus familiares.
+Sigamos para abajo, por favor. Esta sección de vacunación, sí nos dice que es una vacuna, una breve información, pero aquí esta es una sección de preguntas y respuestas que hemos visto con las dificultades que hubo hoy en el registro, también hubo preguntas y creo que son muy buenas y muy oportunas.
+Por ejemplo: ¿cuánto tiempo debo esperar yo para que me llamen después de mi registro?
+Entonces, ahorita es el registro, no son las citas y ahí no va a ver usted una fecha y hora en la que le asignen su cita, lo que va a tener es un comprobante de haberse registrado para ir priorizando también dentro de este grupo prioritario de vacunación, también hay que priorizar al interior.
+Entonces, vamos a ir programando las llamadas también de acuerdo a los decenios definidos como prioritarios a través del Grupo Técnico Asesor de Vacunas en México, dentro de las personas adultas mayores vamos a priorizar a las mayores de 80 años, o sea, de 80 y más, posteriormente de 70 a 79 y finalmente de 60 a 69 para concluir con este gran grupo de nuestras personas adultas mayores, a las cuales les debemos todo nuestro amor y nuestro respeto porque ellas y ellos nos han cuidado toda nuestra vida, ahora nos corresponde cuidarlas también de primera instancia.
+¿Qué debo hacer si no me llaman? Por favor, si das clic en la flechita de ‘¿Qué debo hacer si no me llaman?’
+Bueno, uno, antes de darle clic a ‘Enviar’ en el sistema de información hay que asegurarnos que los números, los números de teléfono, los números de contacto estén registrados correctamente en el formato de 10 dígitos.
+Hay que recordar que ya no se usa el 01, ya no se usa el 044, ya no se usa el 045. 10 dígitos para todo el país y, si los registramos de forma correcta, recibiremos la llamada de forma correcta.
+Hay que esperar a recibir la llamada con base en el punto de priorización. Si yo soy una persona adulta mayor de 61 años recién cumplidos o 60 años recién cumplidos, que ahí empieza el grupo de personas adultas mayores, cuando uno cumple los 60 años, entonces lo que hay que pensar es: Me van a llamar dentro del calendario, me van a llamar una vez que se hayan calendarizado bien los de 80 y más, 70, 79 y entonces ya me tocará a mí.
+Y como punto número tres, en caso de que usted considere que ha pasado mucho tiempo y la vacunación ya inició en su estado de la República, entonces en el mismo sistema en el que ya se registró puede solicitar una aclaración.
+Si la persona adulta mayor se le pasa la llamada, no puede asistir ¿cómo se reprograma la cita?
+En su momento -hay que recordar ahora es el registro y no son las citas- en su momento, cuando lleguen las citas y la persona no se presente en caso de que no se presentara a su cita, entonces se verá la forma de comunicarse de nuevo para saber qué dificultad habrá tenido esta persona adulta mayor para poderle asignar una nueva cita. No es un tema de ‘ya se me pasó, no pude llegar y ya perdí mi vacuna’. No, todas las vacunas están garantizadas.
+¿Si ya me llamaron las personas servidores de la nación tengo que registrarme?
+No, porque ya, si la persona adulta mayor al momento de haber recibido la llamada del servidor de la nación le dijo: ‘Sí, sí vivo, sí vivo, estoy aquí en el estado de Guanajuato en la ciudad de León y me interesa recibir la vacuna’, en ese momento ya está registrado como una persona interesada en recibir la vacuna y se generará su cita.
+¿Habrá medios de contacto adicionales a la llamada telefónica?
+Sí, el correo electrónico, va a haber mensajes SMS también a los teléfonos celulares para que todos estemos al pendiente de cuándo empieza la vacunación de personas adultas mayores y así también podamos tener otras formas de que las personas estén atentas a los momentos en que estaremos comunicándonos con ellos a través de las personas servidoras de la nación.
+Hay una pregunta que dice: ‘Bueno, un número de la Ciudad de México, a lo mejor es un banco queriéndome vender un servicio’, hay desconfianza cuando en el resto de la República reciben una llamada de la Ciudad de México, no se preocupen las personas servidoras de la nación van a llamarles del estado de la República en el que ustedes viven, por lo tanto, será un número un tanto más familiar para todos ustedes.
+La forma de verificar la cita en la plataforma cuando se den ya las citas el sistema cambiará y entonces podremos seguramente revisar a través del propio sistema la cita, la descarga del pase de abordar, por poner este nombre que le hemos denominado, que es el pase en el que va a venir el código QR y los datos de qué día, a qué hora y en qué centro o célula de vacunación le corresponde vacunarse.
+Las plataformas, el internet y todo esto son traicioneras a veces.
+¿Qué pasa si yo voy a medio registro y me saca el sistema?
+Los datos se van a ir guardando periódicamente, existe la posibilidad de que se pierdan algunos de los datos, pero ingresando de nuevo con su CURP estarán los datos que ustedes ya hayan registrado y podrán continuar el registro hasta obtener su comprobante específico.
+Hay algunas otras preguntas, esta de las plataformas en otros estados de la República, el doctor López-Gatell hoy por la mañana lo mencionó muy claramente, el registro de todas las personas adultas mayores se lleva a cabo a través de esta plataforma y exclusivamente de esta plataforma.
+Usted entre a coronavirus.gob.mx, dé click en ‘Más información’ y lo llevará hasta este botón que ya vimos al principio de la página que nos llevará fácilmente al registro de las personas adultas mayores.
+¿Sobre qué vacunas van a recibir?, ¿en qué momento lo sabrán?
+Dado que tendremos un portafolio de diferentes vacunas para el coronavirus, entonces en el momento en que se aplique, ya se vaya a aplicar la vacuna, es la vacuna que tenga la célula de vacunación o el módulo de vacunación en ese momento. Si esa vacuna que le toca a usted o a su familiar, persona adulta mayor corresponde a una vacuna que requiere de dos dosis, en ese momento simple y sencillamente con el lote y con la marca o con el laboratorio de productor de la vacuna el sistema sabrá en automático que esa es una vacuna, que sólo requiere de una dosis y ahí se cierra el esquema y se entrega el comprobante de vacunación o que usted estará en espera de una segunda cita después del tiempo específico que requiera para generar una segunda cita, una aplicación de segunda dosis y entonces ya tener el esquema completo.
+Si no hay posibilidad de que las personas adultas mayores se desplacen desde su domicilio a la célula de vacunación, habrá una estrategia específica también para poder llevar la vacuna a la persona.
+No queremos que esto sea lo general ¿por qué?, porque recuerden también lo que se presentó hoy en la mañana, tenemos un momento de observación que son 30 minutos después de la aplicación de la vacuna y esto, si vamos todos a todas las casas, esto va a dificultar mucho más la operación del programa del plan de vacunación y por eso es que se define que existan estos módulos o células de vacunación para aplicar la vacuna.
+Entonces, tenemos esta sección, vamos a irla mejorando también con otras preguntas que estemos recibiendo a través de redes sociales, dudas generales que haya y estaremos teniendo cada vez un sitio específico de vacunación que sea de más utilidad, sobre todo para usted.
+Este sitio está diseñado para que usted desde casa responda las preguntas que tiene sobre la vacunación y, si no se la respondemos aquí, hasta abajo hay un correo electrónico en el que nos puede mandar también otras de las preguntas y estaremos alimentando este sitio de preguntas y respuestas frecuentes.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Esto es. Gracias, doctor Ricardo Cortés.
+Como ven, hicimos un compilado de preguntas y respuestas. Desde luego no pretendemos agotarlas todas en un día, pero queremos dejar en claro: toda pregunta que usted tenga, usted en su casa que un familiar tenga, consúltela por favor, no se quede con esa duda y vamos a ir incorporando las preguntas que identifiquemos para que en esta página, que es el portal único del gobierno de México, coronavirus.gob.mx sobre el COVID podamos tener estas preguntas.
+Si estas preguntas surgen a una nueva persona, las podrá consultar; si no está su pregunta, las podrá formular.
+Y vamos a tener una sección también aquí de preguntas escritas para que, si la persona no identifica la pregunta que quiere hacer, la formule, seguramente haremos un compilado y pondremos la redacción más común de esa inquietud.
+Ahora, quiero antes de que empiecen con las preguntas, lo cual agradezco, todavía tenemos unos minutos de tiempo, comentar en síntesis lo que ocurrió esta mañana.
+Aquí en el Pulso de la Salud, presentamos la plataforma Emiliano Calderón, quien es el jefe de la estrategia o de la política digital nacional de la oficina de la Presidencia de la República; y también el ingeniero César Vélez Andrade, quien es el director general de Tecnologías de Información en la Secretaría de Salud.
+Y ellos dos son quienes encabezan al grupo que desarrolló esta plataforma, la plataforma está también de manera directa en la dirección mivacuna.salud.gob.mx.
+Entonces, ya ha explicado el doctor Ricardo Cortés. A través del portal coronavirus se puede llegar a un botón muy obvio, muy claro, donde se accede a la plataforma, pero también si alguien prefiere ir directamente: mivacuna.salud.gob.mx, llegan a exactamente la misma plataforma.
+Esta mañana, al estar anunciando, inmediatamente se suscitó una sobredemanda, lo cual nos da muchísimo gusto, esto habla de la claridad que tiene el pueblo de México sobre la importancia de vacunarse contra el virus SARS-CoV-2 y protegerse y proteger a los demás del COVID-19.
+Estas consultas fueron de una magnitud, de una frecuencia inusual, se estuvieron registrando en algún momento más de 65 mil a 70 mil entradas a la plataforma por segundo, por segundo. Entonces, esto obviamente saturó el sistema.
+No hay ningún problema, no pasa nada porque en unos pocos días ya esta curiosidad inicial se empezará a organizar y lo que recomendamos es, por un lado, esperar, no se desespere, si hoy no lo logró hacer, espérese uno o dos días; de todos modos, la vacunación no va a ser esta misma semana y eso va a permitir que usted encuentre menos saturación, es exactamente como las llamadas telefónicas.
+Por el otro lado, hoy el ingeniero César Vélez estuvo trabajando para ampliar la capacidad instalada funcional de nuestros servidores en el servicio de arrendamiento para tener un mayor respaldo con recursos que se usaban en otras aplicaciones, temporalmente van a ser destinadas a esto, pero seguirá funcionando la plataforma.
+Vamos a abrir ahora sí. Demian Duarte y nos vamos uno y uno hasta agotar las preguntas y respuestas.
+---
+PREGUNTA
+Sí, buenas tardes. Demian Duarte. Muchas gracias, doctores López-Gatell y Ricardo Cortés, un gusto en saludarlos. Demian Duarte, Sonora Power, Lobos FM, de Sonora.
+Muy en particular sobre el tema precisamente de la saturación. Yo sé que ustedes no son expertos en informático y yo tampoco; sin embargo, a sugerencia de muchos de mis espectadores, de mis yutubentes, una pregunta es si no han pensado en ampliar precisamente el ancho de banda derivando hacia los estados, es decir, estableciendo precisamente las demandas que surgen en cada entidad precisamente con servidores dedicados en cada lugar.
+Es una pregunta que probablemente no puedan responder ustedes, pero sería interesante que la respondieran técnicamente quienes son los expertos en la materia.
+Otro, son preguntas así muy rápidas así, al estilo de lo que presentó el doctor Cortés. ¿Qué pasa si ya tuve coronavirus? es decir, ¿me tengo que vacunar?, ¿me tengo que esperar? Es una pregunta también que me hace llegar mi público.
+Otra pregunta muy específica, que es seguimiento a un caso que yo le presenté, ¿qué pasa con la población que tiene síndrome de Down?, en particular si se consideró algún apartado específico, puesto que muchos no son mayores de 60 años, por supuesto, pero sí están considerados como población de alto riesgo.
+Y muy en particular, creo recordar que había otra pregunta muy específica, sobre el tema de la infodemia, muy en particular, puesto que hoy en la mañana no terminaba usted esto de la vacuna Sputnik y la senadora de Sonora, además, ya estaba con sus cosas, que la vacuna no está certificada, etcétera.
+Si no hay por lo menos un llamado de parte de ustedes como autoridad sanitaria para que deje las cosas correr en términos de lo que es, el asunto que la población tenga la oportunidad de informarse correctamente.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, con mucho gusto. Sobre la primera, no hay necesidad, sí se la puedo contestar porque la pregunté también yo a nuestras personas expertas, al ingeniero César Vélez, sobre si descentralizábamos el uso de los servidores.
+No hay necesidad, tenemos en el gobierno federal múltiples capacidades de servidores de cómputo. Uno que inmediatamente nos ofreció esto fue precisamente nuestro amigo Jorge Wheatley, director de Renapo, del Registro Nacional de Población, tiene una infraestructura poderosísima al servicio del Registro Nacional de Población, y estaría potencialmente como un respaldo, pero tenemos ya varios otros respaldos que están al servicio, no hay necesidad de descentralizar a los estados.
+Ahora, aquí aprovecho para recordarle a usted que la única plataforma, la única plataforma que está al servicio de Programa Nacional de Vacunación Contra COVID-19 es esta: mivacuna.gob.salud.gob.mx, mivacuna.salud.gob.mx
+En algunas entidades federativas, tenemos conocimiento, se han puesto a disposición unas plataformas de prerregistro. No le van a llevar a la vacuna contra el COVID.
+Como hemos dicho la Estrategia Nacional de Vacunación COVID-19 es una estrategia del Estado nacional y está organizada y conducida por el Gobierno de México.
+Sobre las personas con síndrome de Down, en alguna ocasión previa ya lo habíamos comentado, el síndrome de Down es una alteración de cromosomas que, entre otras alteraciones morfológicas y funcionales tiene también la particularidad de que causa inmunosupresión.
+Entonces las personas con síndrome de Down también están consideradas en el apartado de inmunosupresión en el que conviene tener precauciones adicionales para no contagiarse del virus SARS-CoV-2, pero además es importante que se vacunen.
+Sin embargo, como hemos también comentando, hasta este momento ninguno de los ensayos clínicos ya realizados incluyó personas menores de 16 años en cualquier condición -Down o no Down-, de modo que aún no hay autorizaciones de uso de emergencia en ninguna parte del mundo que contemplen a los menores de 16 años.
+Sin embargo, sabemos que ya están en curso algunos ensayos clínicos de esta vacuna Pfizer, también de Astra y de varias otras, y esperamos que en un tiempo relativamente próximo se anunciará ya cuáles son los resultados, ojalá que sean seguras y eficaces también a estas edades.
+¿La tercera pregunta?
+---
+INTERLOCUTOR
+Sería respecto al caso quien de que ya tuve coronavirus.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Quien ya tuvo coronavirus se puede vacunar y recomendamos que lo haga.
+Teóricamente, quien ya tuvo coronavirus desarrolló inmunidad y ya estaría protegida, protegido; sin embargo, no hay una evidencia directa de cuál sería la potencia y duración de la inmunidad que se causa por infección natural y hay una parte de la evidencia científica que muestra que quienes presentaron coronavirus, particularmente las formas graves de coronavirus, es posible que tengan algunos componentes de la respuesta inmune con menor eficiencia y esto haría pensar que no está uno totalmente tranquilo de que se queden sin vacunar.
+En México hemos considerado que independientemente de que ya se haya tenido coronavirus, conviene vacunarse, no hay peligro alguno, no hay contraposición alguna y es benéfico vacunarse.
+Finalmente, sobre la infodemia y el Poder Legislativo, ha habido varios protagonistas y protagonistos de la infodemia. Desde luego, respetamos las opiniones, consideramos que es un valor muy importante tener una enorme libertad de expresión, libertad absoluta de expresión, desde luego respetando los derechos de las terceras personas, pero que cada quien se exprese y que cada quien se haga responsable de lo que se expresa.
+Respecto a esta oleada de opiniones adversas o de desprestigio a la vacuna Sputnik V, que las vimos sobre todo en los últimos 15 días, hubo algunos grupos políticos, incluso legisladoras, legisladores, que de manera muy activa se estuvieron pronunciando en contra de las vacunas introduciendo estas conjeturas, estas descalificaciones, hasta donde tenemos conocimiento sin evidencia científica en la mano; ojalá, si la tienen, pues que la presenten, sería quizá la actitud más responsable que una persona legisladora podría tener.
+De lo contrario, se había especulado precisamente por estos grupos políticos que no existía un ensayo clínico, que no había evidencia sobre los estudios de la vacuna Sputnik V. Hoy a las 7:00 de la mañana recibimos y presentamos aquí la evidencia, se publicó en la revista Lancet, una muy prestigiada revista científica médica británica el ensayo clínico fase 3 de la vacuna de Sputnik V, creada por el Instituto Gamaleya de Rusia.
+Queda claro, de acuerdo a la evidencia, que es una vacuna segura y eficaz, una eficacia de 92 por ciento, 91.6 por ciento, se puede utilizar en personas adultas mayores, tiene una eficacia de hecho cercana al, igual, 92 por ciento, 91.8 por ciento, protege contra las formas graves al 100 por ciento.
+Entonces, es una vacuna muy conveniente, muy segura, muy eficaz. Por cierto, el 18 de este mismo mes la OMS va a tomar conocimiento formal de los resultados de esta vacuna.
+Muchas gracias. Por favor.
+---
+PREGUNTA
+Gracias. Daniel Flores, del periódico Publimetro.
+Justamente mencionan toda esta estrategia, pero ¿cómo le van a hacer con las personas que tienen nulo acceso a internet en estas entidades donde no hay, este acceso?, ¿cómo va a ser esta penetración, sobre todo para que la gente sepa? Si me pudieran responder esa primera pregunta, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Lo tenemos contemplado, efectivamente, y lo presentamos esta mañana.
+Tenemos dos vertientes: una para personas con amplio acceso al internet, mayormente en las zonas urbanas; y otra para personas con bajo o nulo acceso al internet, generalmente en las zonas suburbanas y rurales.
+Y en las zonas donde hay acceso a la internet, la propia plataforma generará, como indicó el doctor Cortés, una constancia de registro, no es todavía la cita propiamente dicha, pero está una constancia de que la persona ya está registrada. Y en su momento también la plataforma ayudará a generar la cita específica.
+Para las zonas de bajo acceso al internet, precisamente las Brigadas Correcaminos a través de los Centros Integradores de Bienestar estarán vinculando a las personas para informarles dónde, cuándo les tocará la vacuna.
+---
+INTERLOCUTOR
+Muchas gracias.
+Sobre las fallas que se registraron el día de hoy minutos después que se anunciara esta plataforma, ¿mencionaron cómo se va a proteger los datos personales, sobre todo por estas fallas que hubo durante varias horas y resguardar toda la información que va a fluir durante estos días? Por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con mucho gusto. Las fallas de acceso no tienen que nada que ver con la seguridad de los datos, es muy importante. No porque una persona usuaria no pueda entrar y le venga un mensaje de error en la plataforma de internet quiere decir que la plataforma misma se destruyó o se afectó, no es así. Los datos se conservan íntegramente en las memorias de los servidores informáticos.
+Lo que falla cuando hay una sobredemanda es la conexión al servidor, se satura y entonces compiten las entradas. Insisto, por eso la analogía. Es como un teléfono, si uno llama y hay otra llamada en curso pues uno va a oír pi-pi-pi, que está ocupado, es exactamente lo mismo, pero los datos están resguardados.
+Y los estándares de seguridad de los datos son los que corresponden a estándares internacionales y también los que siguen la normatividad, la ley, la Ley de Protección de Datos Personales en posesión de los particulares y los demás sujetos obligados.
+---
+INTERLOCUTOR
+Nada más, por último, doctor, sobre esta pandemia que ha sido muy larga, en algunos estados se han comenzado a relajar muchísimo las medidas sanitarias, incluso en redes sociales se ha documentado cómo ya se organizan fiestas privadas, sobre todo en entidades con alto turismo.
+¿Cuál es el llamado nuevamente a los gobernadores, a los ciudadanos, para que puedan frenar este tipo de eventos que se hacen a la postre de cualquier día?
+Por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con mucho gusto. Ayer lo comentábamos con respecto a una pregunta que hacía Juan Carlos Machorro, de AM Noticias Querétaro, justamente este sentido de corresponsabilidad que tenemos que tener todas las personas del mundo entero, desde luego al interior de un país pues todas las que habitan en el propio país. Autoridades, la federal, las estatales y las municipales, y todas las personas organizadas o no organizadas a hacer esta conciencia todos los días respecto a la existencia de la epidemia.
+Por eso solemos decir al terminar la conferencia que la epidemia sigue y que hay que hay que mantener las medidas convencionales de protección, las recordamos también muy frecuentemente y estas, hasta que no se haya logrado una cobertura sustancial de la vacuna y que se empiece a disminuir la transmisión, será entonces momento de relajar estas medidas; pero no es el momento, todavía faltan varias semanas.
+Gracias.
+Vamos a pasarnos aquí con usted y nos vamos uno y uno.
+---
+PREGUNTA
+Ignacio de Alba, de Pie de Página.
+Las personas que son extranjeras y tienen más de 60 años ¿cómo se pueden registrar’
+Y también preguntar ¿cómo se va a llevar a cabo el Plan de Vacunación en comunidades donde no se habla español?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Contesto primero la segunda. A lo largo de toda la epidemia hemos mantenido una estrecha colaboración entre las instituciones del Gobierno de México y esto realmente es una fortuna, tener a funcionarias y funcionarios públicos tan comprometidos, y me refiero a las personas titulares de las dependencias de los organismos descentralizados, de las comisiones, de todos, todo mundo ha cooperado de una manera extraordinariamente positiva.
+Y uno de ellos que quiero destacar y agradecer siempre es a Adelfo Regino, el licenciado Adelfo Regino, titular del INAI, instituto… Del INPI, perdón, de los pueblos indígenas; y también el INALI, el Instituto Nacional de Lenguas Indígenas.
+Aquí el doctor Ricardo Cortés, que ha sido nuestro punto de vinculación con todos estos organismos hemos hecho siempre el esfuerzo de tener acceso multicultural y multilingüe a toda la información que producimos.
+Recordarán que en la propia página coronavirus.gob.mx hay todos los materiales que tenemos están también traducidos a ¿cuántas lenguas?
+---
+RICARDO CORTÉS ALCALÁ
+Cincuenta y siete.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hasta 57 lenguas originarias. Y en el momento en que empiece el desplazamiento físico de las unidades de vacunación o los sistemas de registro, también consideraremos esta traducción para vincular a las personas.
+Aquí los programas de bienestar son fundamentales. Las personas servidoras de la nación son personas que están radicadas en sus sitios de origen, generalmente son personas que están incorporadas a las propias comunidades, porque a ellas pertenecen y muchas de ellas, aunque sean personas jóvenes, han conservado muy afortunadamente sus raíces culturales y lingüísticas y ayudan mucho a esa vinculación directa.
+Varios de los mensajes de capacitación que se están creando en videos instructivos bajo la coordinación de Gabriel García, el coordinador de los programas de bienestar, están precisamente en las lenguas autóctonas de cada región.
+---
+INTERLOCUTOR
+¿Y las personas extranjeras?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre personas extranjeras también lo tenemos considerado. Las personas extranjeras primariamente no tienen CURP, no tiene Clave Única del Registro Poblacional; sin embargo, existe una modalidad en donde pueden acceder a esta clave, es una clave especial en donde se considera que la entidad federativa o lo equivalente a la entidad federativa de registro es la locación en el extranjero y hay códigos o claves específicas para todas las localidades del mundo o todas las zonas del mundo. Entonces, se puede establecer esos registros.
+En este momento no llamamos a las personas que son extranjeras y que no tienen CURP a que se registren porque no deben preocuparse, este no es el registro ya definitivo, por eso hablaba al inicio de la conferencia que se trata de un prerregistro.
+A lo que nos va a ayudar este prerregistro es a tener identificado el tamaño poblacional que en cada región que está georreferenciada del país se requiere vacunar y por lo tanto poder organizar el diseño de la operación logística y considerar las distintas vacunas que estarán a disposición.
+Y en su momento será una minoría, una pequeña proporción de personas que no tengan CURP y que estén radicando en el país. Esto puede incluir connacionales, residentes en el extranjero o incluso que nacieron en el extranjero o personas que están transitoriamente en el país; pero todas, todas las personas que estén residentes en México serán vacunadas contra el COVID.
+---
+INTERLOCUTOR
+Los mexicanos que están en Estados Unidos, dónde se pueden registrar para que se han vacunados?, ¿en los consulados?
+Y si nos pudiera platicar un poquito más qué tipo de vacunas recibirán las personas que son mayores de 60 años.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Respecto a la vacunación en el extranjero, el canciller Marcelo Ebrard, a quien siempre le agradecemos cuando pensamos en él, todo el esfuerzo que ha hecho, él y su equipo, fabuloso esfuerzo por conseguir estos accesos tan oportunos y tan eficaces a las vacunas en el mundo.
+Y tenemos un programa específicamente para el caso de Estados Unidos, donde reside la mayor cantidad de personas de nacionalidad mexicana o hijas e hijos de personas nacionales mexicanas, por lo tanto, también potencialmente mexicanas, estén o no ya registradas, está un programa que se llama Ventanillas de la Salud.
+Este programa se estableció en 2002 conjuntamente entre la Secretaría de Salud, quien lo financia y coordina técnicamente, con la Secretaría de Relaciones Exteriores. Hay una Ventanilla de Salud en cada uno de los 50 consulados de México en Estados Unidos, y hoy están sirviendo precisamente como puntos focales para identificar a las personas que se podrían vacunar.
+Este es otro tipo de esfuerzo porque la vacuna que compra el Gobierno de México no se puede desplazar posteriormente hacia Estados Unidos, se trata más bien de gestiones locales en donde a través de estas ventanillas se localiza vacuna para ser utilizada en connacionales.
+---
+INTERLOCUTOR
+Y el tipo de vacunas que recibirán las personas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo comentábamos esta mañana. El tipo de vacunas… Muy importante, muy importante que haya claridad al respecto. Toda vacuna contra COVID, y de hecho todo producto farmacéutico que se use en México ha garantizado ser de calidad, seguro y eficaz, y en la mayoría de los casos de las vacunas que hemos seleccionado hasta el momento, que esta mañana volvimos a presentar, Pfizer, Astra, CanSino, Sputnik V y las que vengan en Covax, que hasta el momento es Astra, son vacunas que en su momento han demostrado o tendrán que demostrar, me refiero a la de CanSino que es la única que todavía no está evaluada, pero también tendrá que demostrar, igual que la han demostrado las demás, tener estos atributos: calidad, seguridad y eficacia.
+Y todas tienen una eficacia comparable, hay pequeñas diferencias numéricas, pero en conjunto son estadísticamente intercambiables, y la decisión de dónde se pone cada vacuna depende más bien de la operación del programa. No está sujeto a elección individual, como ya lo dice una de las preguntas frecuentes, no es de que cada persona diga: ‘Yo me espero a tal vacuna o mejor tráigame la otra o a mi hermana póngale una y a mí póngame otra’. No, esto está diseñado en el propio programa, pero tenga la población la garantía de que todas son igualmente de calidad, seguras y eficaces.
+---
+INTERLOCUTOR
+Y, por último, si nos pudieran platicar cómo se van a adaptar los centros de vacunación.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿En qué sentido?
+---
+INTERLOCUTOR
+¿Cuál es la logística?, ¿qué sitios van a ser?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Hemos preidentificado una cantidad inmensa de puntos de vacunación, más de 10 mil puntos de vacunación en todo el territorio nacional y seguimos identificando estos puntos.
+Las características de un punto de vacunación, y es como tradicionalmente ocurre con el programa de vacunación universal, hay de tres tipos:
+Existen unas que están en las instalaciones de salud, éstas seguirán siendo utilizadas, son cómodas, son adecuadas, obviamente son higiénicas y el personal, incluso de apoyo, conoce la operación.
+Tenemos después otro tipo de unidades o puntos de vacunación temporales, generalmente en espacios públicos, escuelas, plazas, incluso centros de recreación o centros comerciales y estos puntos son semifijos, están durante algunos pocos días mientras termina el ciclo de uso de la vacuna.
+Y también existe una tercera clase de puntos que son itinerantes, ahí directamente es una pequeña brigada, una unidad de vacunación, como ahora será la unidad Correcaminos que se desplaza hasta un punto remoto, lleva consigo la hielera, los insumos, las jeringuillas, el alcohol, las torundas, etcéteras, va pone la vacuna y se retira generalmente al final del día y estos puntos serán distribuidos en todo el país.
+Los centros integradores, sobre todo para las zonas rurales son extraordinariamente importantes. Ya lo hemos dicho varias veces, los centros integradores no son edificios, no son instalaciones, no es un edificio que dice: ‘centro integrador’, sino son comunidades de coordinación en donde las propias personas que residen en la localidad saben cómo coordinarse y ellas mismas tienen competencia para proponer puntos de vacunación y serán generalmente de los tres tupos que he mencionado.
+Muchas gracias.
+¡Eso! Antes de pasar a Liliana Noble, de Pulso Saludable, Cofepris acaba de otorgar la autorización de uso de emergencia a la vacuna Sputnik V creada por el Instituto o el Centro Gamaleya de Epidemiología y Microbiología de Rusia y, por lo tanto, existe ya la posibilidad de que se importe y de que sea utilizada.
+Esta autorización le ha sido conferida a Birmex, Biológicos y Reactivos de México S.A. de C.V., empresa pública que tiene ya desde hace un par de días un convenio jurídicamente vinculante para representar al gobierno ruso específicamente el Fondo Ruso de Inversiones Directas y su compañía de vacunación Human Vaccine para hacer este trámite.
+Esto es alentador. Tenemos una nueva vacuna en el repertorio.
+Muchas gracias.
+---
+PREGUNTA
+¿Cuándo llega?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Estaremos a partir de ahora… La noticia lleva obviamente a esta pregunta. El acuerdo con el fondo ruso es que, tan pronto estuviera disponible la autorización ellos firman el contrato.
+El contrato, como lo dijimos esta mañana, ya lo firmó el doctor Alcocer, secretario de Salud, el contrato está con su firma en su escritorio a buen resguardo y a partir de que se libera la autorización de uso de emergencia será enviado seguramente en los próximos minutos a Rusia, los rusos firmarán y el compromiso de ellos es que en muy pocos días estaremos platicando para precisarlo, ellos pueden poner el primer embarque de 200 mil esquemas de vacunación, es decir, 400 mil dosis ya para este mismo mes.
+Ya no nos dio tiempo, Liliana Noble, de Pulso Saludable. Son las 20:00 horas en punto, pero cerramos con esta noticia muy positiva y nos vemos mañana.
+La epidemia sigue, pero la vacunación avanza y estemos todos y todas atentos a ello.
+Si usted es adulto mayor, 60 y más, regístrese, mivacuna.salud.gob.mx o acceda a través del portal coronavirus.gob.mx y espere la llamada de las personas servidoras de nación que también le llamarán para darle instrucciones.
+---
+INTERLOCUTOR
+Sobre los de síndrome de Down, reiterando la pregunta, es decir, los menores de 16 no, pero ¿y los demás?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estarán considerados también, de acuerdo a la priorización que se irá anunciando.
+Gracias. Vámonos.

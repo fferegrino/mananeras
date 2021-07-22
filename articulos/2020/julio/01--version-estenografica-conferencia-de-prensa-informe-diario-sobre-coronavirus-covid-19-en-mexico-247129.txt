@@ -3,10 +3,12 @@ Presidencia de la República
 01 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches.
 Son las 19:00 horas del miércoles 1º de julio del año 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a centrar en el informe técnico y vamos a abrir a preguntas y respuestas. Le pido al doctor Alomía si lo presenta, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes todas y todos.
 Bienvenidos a la conferencia vespertina número 124, en este día número 31 de la Nueva Normalidad, cumpliendo prácticamente un mes, de hecho, pueden ver que nuestro calendario inicia nuevamente ahora el 1º de julio, tenemos todo un mes por delante para aplicar las medidas del semáforo de riesgo COVID, que es precisamente el que caracteriza a esta nueva etapa en donde consideramos que las acciones de en su momento sana distancia, de la limitación de la movilidad y por lo tanto de prevención de contagios, pues podemos tenerlo de manera regionalizada en los diferentes estados para que cada quien, respondiendo a su nivel de riesgo, a su perfil y panorama epidemiológico del momento, pueda tener mayor o menor interacción entre su población y esto contribuya a que paulatinamente podamos tener incremento o una actividad más elevada de acciones públicas, de acciones educativas, de acciones laborales, pero siempre con la medida suficiente para cumplir con el principal objetivo, que es cuidar la salud poblacional.
 Veamos la siguiente diapositiva que es precisamente el semáforo de riesgo COVID que se encuentra vigente durante toda esta semana y hasta el día domingo. Es muy importante entonces identificar cuáles son las actividades que se pueden realizar, cuáles no deben de realizarse u otras que se realizan con menos intensidad para cada una de las entidades federativas, algunas en nivel de riesgo alto, color naranja; otras en nivel de riesgo máximo, que es el color rojo.
@@ -61,31 +63,48 @@ Aquí sí, a diferencia de la estadística de todos los casos, aquí nuevamente 
 Me parece que es la última diapositiva. Bien, sería entonces la actualización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía.
 Vamos a abrir con usted, con usted y quedó pendiente Araceli Aranday y Carlos también, ahí está, Carlos, exacto. Por favor.
 ---
+PREGUNTA
+Buenas noches. Estuvimos viendo la semana pasada de que empezó a haber una desaceleración o contención del COVID y ahorita también vimos que hay…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El micrófono no está activo.
+---
 INTERLOCUTOR
+Repito la pregunta. Buenas noches, doctor; buenas noches, director.
 En la semana estuvimos viendo que ya hay una desaceleración de la pandemia, hay una contención y va en descenso ahorita la tasa de contagios en porcentajes.
 Vimos ahorita lo que son pacientes recuperados que tuvieron COVID y la tasa es del 60 por ciento. ¿Podemos saber qué personas y qué comorbilidades son en las que se están recuperando las personas y en qué edades?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En principio, sí. Ayer justo hicieron esa pregunta al terminar la sesión. Vamos a trabajar un poco en eso para tener detalles sobre la recuperación y, sobre todo, lo que resultaba importante es sobre cuáles son los elementos predictores de la recuperación.
 La información epidemiológica que tenemos incluye desde luego características demográficas de las personas, qué edad tiene, dónde viven, qué sexo tienen y también algunas características clínicas al momento del ingreso.
 Dado que la información epidemiológica no es un expediente electrónico, no tenemos detalles sobre el curso de la hospitalización, más que elementos básicos, cuándo son intubados y su estado de salud general, pero sí podemos tener algunas, tenemos la información de las comorbilidades, es justo la presentamos aquí los lunes y podemos analizarlo para las personas que se recuperan.
 ---
+INTERLOCUTOR
+¿No podría agregarse una información parecida a lo que hacen, pero por hospital?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Tenemos la posibilidad de hacerlo, por eso necesitamos un poquito de tiempo para trabajarlo en forma y lo presentamos, pero agradecemos la idea implícita en la pregunta.
 Vamos a darle paso a Araceli Aranday, que quedó pendiente ayer, nos regresamos por acá y luego de este lado y de este lado.
 ---
 PREGUNTA
+Gracias. Preguntarle, hubo diversas manifestaciones en la Ciudad de México y en algunos estados, ¿esto podría detonar alguna elevación de la curva por contagios?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No necesariamente si no fueron cuantiosas. Tengo entendido, por un informe preliminar, a través de los medios de comunicación, que fueron manifestaciones muy pequeñas, incluida la que llegó a la Secretaría de Salud y al Seguro Social, me parece que hablaban de menos de dos decenas de personas. Entonces, difícilmente eso podría precipitar un repunte.
 Gracias.
 Pasamos con usted y acá con Alejandro y luego nos vamos con Carlos.
 ---
 PREGUNTA
+Muchas gracias. Buenas noches. Farah Reachi, de Noticieros Televisa.
 Preguntarle, doctor López Gatell, en esta pandemia por COVID ¿usted recomienda el uso de albercas?, ¿qué información se tiene sobre contagio en albercas?, en algunas entidades ya se están abriendo algunos balnearios.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta. El tema de albercas no lo hemos encontrado extensamente documentado en términos técnicos o en términos científicos, pero en general no se considera, dado el mecanismo de transmisión, que la alberca por sí misma pueda ser una vía de transmisión.
 Es decir, quizá una inquietud que podría surgir es dado que el virus se transmite por la vía respiratoria a través de gotas de saliva o gotas pequeñas o aerosoles que el depositar esa saliva sobre dentro del agua de la alberca pudiera ser que el agua de la alberca sea un medio de transmisión.
 No parece ser el caso por muchas razones:
 En primera, generalmente las albercas están cloradas y la concentración de cloro es suficiente para eliminar a un virus como este.
@@ -95,11 +114,13 @@ Aquí la recomendación sería la misma, general para todos los espacios mojados
 Alejandro Alemán, por favor y pasamos después con Carlos.
 ---
 PREGUNTA
+Gracias, Alejandro Alemán, de Medicina Digital.
 Doctor, ¿estos 46 mil casos de personas enfermas del sector salud, realmente preocupan? ¿son responsabilidad de cosas que se tengan que mejorar dentro de esta Nueva Normalidad en el manejo hospitalario?
 De hecho, las protestas obedecen precisamente a eso, a que el personal se queja de falta de protocolos, falta de equipos y, bueno, sería una discusión circular otra vez que nos diga que sí está cubierto, que sí está funcionando. Lo que sí es un hecho es que este malestar en el sector no sé si… ¿qué medidas se tendrían que hacer?
 Y no lo digo sólo por esta situación de pandemia, sino que ya es parte de la Nueva Normalidad, los hospitales tendrán que operar de otra manera para garantizar la seguridad. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Creo que la pregunta es muy pertinente. Más bien, no hay puntos de discusión, hay puntos de reflexión y le agradezco el planteamiento.
 La seguridad en términos biológicos, que se llama bioseguridad, es parte de la cultura de trabajo de los ambientes sanitarios, digamos, la atención de la salud, los hospitales, las unidades de primer nivel, los laboratorios, en general, cualquier espacio donde existe material biológico potencialmente infectante deben tenerse prácticas de bioseguridad.
 Las prácticas de bioseguridad son diversas, pero el principio general es que los agentes infecciosos, los agentes biológicos infecciosos se mantengan lejos de las personas en la vía relevante por la que pueden ser transmitidas. Aquí tenemos el caso concreto de COVID, que es sumamente ilustrativo porque estamos en medio de una pandemia, pero todos los días, a toda hora en la atención de la salud existe un riesgo biológico.
 Un elemento que por muchos años se ha incorporado como un derecho laboral o prestación laboral es el tema de la prima de riesgo, es decir, una cantidad, una compensación salarial que se ha agregado a los salarios de las trabajadoras y trabajadores de la salud desde hace mucho tiempo, no tengo idea cuándo se puso.
@@ -128,11 +149,13 @@ Muchas gracias por la pregunta.
 Carlos, por favor, y luego nos vamos con Juan y con Daniela Pastrana.
 ---
 PREGUNTA
+Buenas noches, doctor Gatell, doctor Alomía, buenas noches a todos. Carlos Abaroa, del Unomásuno. La pregunta es:
 Es evidente que se debe fortalecer el sistema de salud en México y estar mejor preparados para los diversos rebrotes que se esperan en los siguientes meses.
 Si algo se evidenció en este primer brote fue la carencia de médicos con formación especializada. ¿Qué se está haciendo para mejorar este aspecto de los médicos y personal de salud que actualmente han estado al frente de esta pandemia?
 ¿Cómo se está garantizando las mejores condiciones laborales y de bioseguridad?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Carlos Abaroa, de Unomásuno.
 Su pregunta además de relevante y pertinente, es justo continuidad de lo que ya señalábamos con Alejandro. Efectivamente, nuestro Sistema Nacional de Salud, yo creo que para muchos pudiera esto ser una sorpresa cuando algunas personas tenían la percepción de que un sistema muy bueno, era un sistema, algunos casi lo veían como perfecto y lejos estaba de serlo.
 No quiero menospreciar en modo alguno los grandes logros que ha tenido nuestro Sistema Nacional de Salud y tampoco la calidad extremadamente buena que tienen varias de las unidades operativas, desde luego mayormente las unidades especializadas en donde ha habido inversión a lo largo de mucho tiempo, no solamente inversión monetaria, sino la formación apropiada de las y los profesionales de la salud; y también ciertamente en algunos hospitales general.
 Es decir, hay mérito por muchos lugares, pero lo que también es cierto es que hay una realidad que no se puede ocultar, que son más de 30 años de un esfuerzo insuficiente, esfuerzo en inversión, esfuerzo en planeación, esfuerzo en organización, esfuerzo en rectoría, esfuerzo en cobertura, esfuerzo en equidad, entre otros innumerables aspectos.
@@ -150,6 +173,7 @@ Eso es lo que hemos estado haciendo, todo esto es la reconversión hospitalaria 
 Daniela Pastrana y Juan Hernández. Daniela Pastrana, Pie de Página.
 ---
 PREGUNTA
+Gracias, doctor, buenas noches.
 Hace unos días circuló o bueno más bien la doctora en ciencias médicas Laurie Ann Jiménez hizo un hilo de tuit que generó una serie de inquietudes, porque ella hacía referencia a una investigación que decía que la excreción del virus puede durar de seis a 45 días, lo que significaría que a lo mejor alguien ya no puede ser activo antes de los 14 y puede ser activo hasta los 46 días.
 Bueno, el hilo al final de lo que hablaba es del tema de los recuperados, de las personas recuperadas, que si no hay un seguimiento a estas personas recuperadas y el virus puede contagiar hasta los 45 días generaría otros problemas.
 Entonces la pregunta es, una, si ustedes tienen información de esto, de esta investigación o de este estudio.
@@ -157,6 +181,7 @@ Y sí hay algún plan o si tenemos capacidad en el sistema de salud para dar seg
 Ahora hablaba de que no es un área de la que se ocupe epidemiología, pero si en el sistema de salud hay alguna forma de dar seguimiento a estos pacientes.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. No conozco esta autora ni esta publicación. ¿Está en una revista científica esta? Si nos puede compartir la bibliografía sería estupendo para leerlo.
 Habíamos comentado en ocasiones previas que de cuando en cuando aparecen algunos informes científicos o publicaciones en revistas. Hay un estándar en la calidad de las revistas científicas internacionales que le llamamos la revisión por pares. A veces hay revistas que tienen un grado de exigencia menor, otros que son altamente competentes donde se hace una revisión por pares. Esto es un principio fundamental de garantizar la credibilidad de los resultados científicos. Me gustaría mucho, asumo que esta es una de esas publicaciones, podríamos revisarla.
 Pero el punto es: de cuando en cuando se ha hecho series de casos, que es el tipo de estudio descriptivo en el que se toman informes de lo que ocurre a dos, tres, cinco, siete, 20, 40, 100, es decir, no hay un límite, una cantidad de personas.
 Y se hablado de este tema de la excreción prolongada de los virus, es decir, sigue ahí el virus. En su mayoría, aunque no han sido demasiado los informes, también habría que ver cuándo publicó esta doctora esto, si fue una de las informaciones preliminares o es algo reciente, pero en su mayoría lo que se ha interpretado es que la técnica de PCR, la Reacción en Cadena de la Polimerasa, es una técnica tan sensible que puede detectar segmentos del material genético del virus, de ARN, aun cuando no haya partículas activas.
@@ -165,12 +190,17 @@ Entonces, aunque de inicio pareció una idea inquietante de que más allá de lo
 Sin descartar que, obviamente, y lo dijimos también hace pocos días y lo hemos dicho en otras ocasiones, las personas con enfermedad grave pueden ser excretando virus por tiempos más largos, casi nunca por tiempos mayores a los que se requiere para su propio cuidado, su propio tratamiento, de modo que cuando se van de alta ya no excretan los virus.
 Y hay una variable que es importante, que es la cantidad de virus que inicialmente se detectan, y hay un parámetro de la PCR que mide justamente los ciclos de replicación que se tienen que hacer para detectar al virus y eso es una medida de qué tan fuerte o alta es la carga viral.
 ---
+INTERLOCUTORA
+¿Tendríamos nosotros capacidad de dar seguimiento a las personas recuperadas?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Bueno, las personas recuperadas, sobre todo quienes han estado hospitalizadas y particularmente quien estuvo en terapia intensiva -también lo decíamos hace unos días- requieren un seguimiento médico de ellas mismas, de las personas. Salen a veces muy debilitadas, con importantes afecciones, el reposo prolongado debilita los músculos, se atrofian los músculos y se requiere fisioterapia, por ejemplo.
 El daño pulmonar del COVID grave es muy extenso y se requiere fisioterapia pulmonar, en no pocas ocasiones se dañan otros órganos, ya sea directamente por el COVID, ya sea por el estado de gravedad que lleva a periodos prolongados de falta de oxigenación de los órganos o de falta de circulación sanguínea en capacidades adecuadas en los órganos. Entonces, puede haber muchos daños que tarden en reestablecerse.
 Y sí hay que darle seguimiento, generalmente donde hay una unidad que está dando tratamiento tiene la posibilidad de dar seguimiento, pero no olvidemos que nuestro Sistema Nacional de Salud era un sistema muy deteriorado, a lo largo de 30 años, se quedó muy insuficiente respecto a lo que México requería. Entonces, ese es el punto de partida.
 Juan Hernández, Grupo Cantón, periódico Basta.
 ---
 PREGUNTA
+Buenas noches.
 Son dos preguntas rápidas. La primera, hoy el subsecretario Rabindranath Salazar informó que dio positivo a COVID-19 y nos viene a la mente aquella fotografía donde se toma con el secretario de Hacienda, con la secretaria de Gobernación y con la nueva directora del Banco del Bienestar.
 Retomo lo que usted nos informó hace unos días, que había 60 personas alrededor del secretario de Hacienda que habían tenido este contacto.
 Nada más si nos puede actualizar las cifras, ¿cuántas de estas personas han dado positivo a COVID y cuántas negativo? y si dentro de estas personas de negativo están estos funcionarios públicos.
@@ -180,6 +210,13 @@ Y una preocupación muy grande es esta de las pruebas, siempre, aquí hay una qu
 Entonces realmente son muchas dudas, a lo mejor se las voy a hacer llegar por…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no
+---
+INTERLOCUTOR
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, con mucho gusto, todas las dudas son relevantes y en la medida de lo posible hay que atenderlas, la única limitación es cuando se nos acaba el tiempo.
 Sobre las personas como nuestro compañero Rabindranath Salazar, que han dado positivo, efectivamente, él tal como lo comunicó, dio positivo. Él es parte del estudio de contactos del secretario de Hacienda como se ve en esa foto cuando se le hizo el cambio de nombramiento y lo mismo todos los que aparecían en la foto.
 Ahora, hemos estado analizando ya de manera dirigida con los interrogatorios médico-epidemiológicos, la naturaleza de los contactos, ¿se acuerdan que habíamos hablado que un contacto depende de la duración, de la proximidad y del periodo relevante del caso contagiante?
 Aunque la foto es llamativa y veo que ha causado interés, lo cual me parece adecuado, legítimo e importante de atender, pudimos documentar que en el caso de nuestro compañero el licenciado Salazar él no fue durante la foto que fue el contacto relevante fue después, él después saliendo de la foto literalmente estuvo en sesiones de trabajo diversas en donde estuvo en contacto con quienes le pudieron haber infectado, uno de ellos es el secretario de Hacienda.
@@ -188,6 +225,33 @@ Quien ha decidido hacerlo público es libre de hacerlo, no están obligadas, no 
 Pero el número sí nos lo puede actualizar el doctor Alomía.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Claro, con mucho gusto.
 De hecho, del total de personas identificadas como potenciales contactos, ya después de hacer la intervención con cada una de ellas, un interrogatorio, esto lo realiza personal de la Dirección General de Epidemiología, epidemiólogos de hecho, capacitados, ya se acotó la lista solamente a 42 personas, o sea, son 42 las que en su momento sí tienen la clasificación de ser contacto en este caso del caso confirmado como tal.
 De estas 42 personas, hasta el momento solamente se identificado seis como casos sospechosos, es decir, que en su momento presentaron signos y síntomas de la enfermedad. Se tomó la muestra y cuatro personas más salieron confirmadas.
 Ahora, es interesante mencionar que no necesariamente fueron contagios del, nosotros epidemiológicamente decimos caso índice, no es necesariamente que el primer caso identificado haya contagiado a estas personas porque por la fecha de inicio de síntomas estas personas pueden haber tenido un contacto común para todas ellas o pueden haberse contagiado también en otros espacios, pero finalmente están en la relación de la lista de contactos.
+---
+INTERLOCUTOR
+Lo de casinos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Casinos. Lo de casinos, pues es muy simple, la recomendación explícita, aquí es uno de nuestros ejemplos todos los días, es que cuando se está en semáforo rojo y cuando se está en semáforo naranja, en ambas condiciones no deben abrir, no se recomienda abrir centros nocturnos, de esparcimiento, bares, casinos y demás variantes, no deben abrir, son sitios donde por la naturaleza de la vivencia que se tiene en ellas se consideran de mayor riesgo que los restoranes o los otros establecimientos comerciales de servicios, entonces, no deben abrir.
+---
+INTERLOCUTOR
+Pues obviamente ahí están, es una responsabilidad de estas personas que están abriendo estos lugares.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Definitivamente, o sea, lo que ahí recomendamos es a la ciudadanía que lo exprese, que obviamente si considera que hay algo que es inapropiado, para eso son las conferencias de prensa, para que haya un conocimiento por parte de la ciudadanía, pues que exprese esta inquietud y que se haga lo procedente.
+Ahora, sobre pruebas, que está pendiente a petición de Araceli Aranday y le agradecemos la petición, que vamos a dedicar una sesión completa a pruebas. Por cierto, tenemos pendiente presentarles públicamente un documento que publicamos desde la semana pasada, está en el sitio coronavirus, si quieren irle dando una hojeada, es un documento producto de una reunión técnica que tuvimos con expertas y expertos nacionales e internacionales en epidemiología, en laboratorio, incluye gente de CDC, gente de la Agencia de Salud Pública de Canadá, y mexicanas y mexicanos colegas de la UNAM, por ejemplo.
+Y las resoluciones, que las comentaremos de esa reunión, son consistentes con lo que hemos venido diciendo de que no existe en otras partes del mundo tampoco, por lo menos en estas dos, y ahorita les platico la de hoy, un planteamiento de hacer pruebas generalizadas.
+Esta idea de interpretar las palabras del doctor Tedros, director general de la OMS, que ha dicho test, test, test, como una recomendación de hacer prueba a todo mundo es una interpretación deformada, errónea, distorsionada, y es lo que está comentado en ese documento.
+Hoy tuvimos por cierto una reunión técnica con los centros de control de enfermedades de Europa, es una institución que se estableció en el año 2004, posterior a la epidemia de SARS-1, la epidemia de SARS en China, que después fue también una pandemia, aunque de menor escala, y se establecieron en Europa unos centros de control de enfermedades.
+La institución representa a la Unión Europea en un aspecto técnico, que es la vigilancia y la evaluación de riesgos, ellos no se encargan de la respuesta ante las epidemias, eso le corresponde a cada país miembro de la Unión Europea.
+Es una institución técnicamente muy competente, ha sido modelo mundial en muchos aspectos y tuvimos una conversación. Por cierto, mi agradecimiento a la Secretaría de Relaciones Exteriores, específicamente a nuestra compañera, la subsecretaria Martha Delgado, quién no solamente para esta reunión, sino para muchas otras ha sido un elemento muy importante que nos ayuda a vincularnos con el mundo en todos estos temas.
+Pero bueno, al punto al que voy, a propósito de su pregunta, Juan, es: una vez más, interactuamos con una comunidad técnica de alta competencia en otro país, en este caso en otra región, la Unión Europea, que tiene la misma postura que nosotros y es que considera que hubo una mala interpretación de las palabras del doctor Tedros cuando él dijo test, test, test, prueba, prueba, prueba, que se interpretó en la narrativa pública como hacer pruebas generalizadas. Y la pregunta que nos comparte creo que ayuda a visualizarlo.
+¿Cuántas pruebas habría que hacer?
+México tiene 128 millones de habitantes, más de 128. Pues a todo mundo, generalizado sería hacérselo a todo el mundo, a los 128 millones de habitantes, pero hacemos esta semana, suponiendo, lo cual evidentemente no es posible que se pueda hacer con la velocidad suficiente para que en una semana todo mundo tenga su prueba; a la siguiente semana o en 15 días habría que repetirla, porque en la medida que la epidemia sigue activa habría que tener otra ronda en donde otras personas se pudieran haber infectado. Evidentemente, esto no es procedente, no es una conducción técnica.
+Entonces, ¿cuántas hagamos?
+No 128 millones, hagamos quizá la mitad ¿no?, ¿más o menos, podríamos hacer la mitad? quizá, un poco más de 60 millones, pasaría lo mismo.
+Entonces, 30, 30 millones, una cuarta parte ¿o 10 millones?, así no funciona el asunto.
+Es justo a lo que voy, la pregunta me parece muy útil. No es que haya una cuota de pruebas que se necesiten hacer, es que donde hay un caso sospechoso, al caso sospechosos hay que hacerle una prueba, porque eso ayuda a hacer el estudio de caso-contacto y hacer la contención centrada en personas, que es lo que hemos venido haciendo desde el inicio.
+Son las 20 horas con un minuto, aquí se nos acabó el tiempo. Muchas gracias por la atención todos ustedes y nos vemos mañana. Muchas gracias.

@@ -1,0 +1,277 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+15 de diciembre de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 de este martes 15 de diciembre de 2020. Estamos en el Palacio Nacional, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
+Hoy, además del informe técnico que presentará el doctor José Luis Alomía, director general de Epidemiología, vamos a tener a tres invitados que apreciamos muchísimo. Son tres profesionales muy competentes, muy dedicados, muy comprometidos, que además están en el frente de la acción de la respuesta a la epidemia de COVID-19 en México.
+El tema de hoy, vamos a presentar lo que ya habíamos anunciado con antelación, que son los resultados preliminares de la Encuesta Nacional de Salud y Nutrición específicamente sobre el tema de COVID, la ENCOVID. Esto incluye también los resultados preliminares de la encuesta serológica.
+Entonces, vamos a conocer públicamente hoy la seroprevalencia de anticuerpos contra SARS-CoV-2, es decir, cuántas personas o qué porcentaje de personas fueron expuestas a lo largo de 2020 al virus SARS-CoV-2 y consecuentemente desarrollaron anticuerpos contra esta enfermedad.
+Voy a presentar a nuestros invitados. Está en doctor Juan Rivera, quien es el director general del Instituto Nacional de Salud Pública, ha venido en varias ocasiones el doctor Rivera. Dadas las funciones y atribuciones del Instituto Nacional de Salud Pública, es quien coordina las acciones de orientaciones de la política pública de la Secretaría de Salud para múltiples temas; pero en este caso también es el director del instituto responsable de la Encuesta Nacional de Salud y Nutrición. Bienvenido, Juan. Muchas gracias.
+También está el doctor Jorge Salas, quien es el director general del Instituto Nacional de Enfermedades Respiratorias, y ya todo mundo conoce, es uno de los epicentros de la respuesta clínica a la epidemia de COVID-19, lo es todos los años para la influenza, donde ocurre la mayor cantidad de hospitalizaciones para la atención de personas con infección respiratoria aguda grave; pero en esta ocasión no es la excepción, es el instituto especializado en enfermedades respiratorias y por tanto también uno de los centros de actuación respecto a la respuesta clínica. Bienvenido, doctor Salas.
+Y también el doctor David Kershenobich, quien es director del Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’ y otro de los epicentros de atención clínica de COVID, hospital que fue reconvertido prácticamente en su totalidad para ser un hospital COVID y ha estado dando una respuesta desde luego también formidable.
+Por cierto, omití el epónimo del Instituto Nacional de Enfermedades Respiratorias, ‘Ismael Cossío Villegas’.
+Vamos a empezar y procederíamos de la siguiente manera: el doctor José Luis Alomía va a presentar de manera sintética el informe técnico y le pediré al doctor Juan Rivera si es tan amable de conducir la presentación del informe del Ensanut y enseguida los doctores Salas y Kershenobich nos darán mensajes que son sumamente importantes que se desprenden de lo que ellos mismos pueden constatar de la importancia de la respuesta clínica, pero también lo que ellos pueden apreciar de la importancia de seguir las medidas de precaución, de prevención de los contagios de SARS-CoV-2 en la comunidad.
+Por favor, doctor Alomía.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto y con su permiso, señor subsecretario, con el de nuestros invitados también.
+Muy buenas noches a todas las personas que, ya se de manera presencial o virtual, nos acompañan en esta conferencia vespertina número 286 también en este día número ya 199 de la Nueva Normalidad que, como todos sabemos, está caracterizada por la implementación y aplicación del semáforo de riesgo COVID.
+Si vemos en la siguiente diapositiva repasamos rápidamente, sobre todo para la población que está sintonizando esta conferencia, las entidades que actualmente se encuentran en los niveles de riesgo más elevados, que sería el máximo, dos de ellas en rojo y alto 24 de ellas en color naranja.
+Por favor, continuemos prestando atención y sobretodo aplicando en el día a día todas las recomendaciones que las autoridades sanitarias en nuestras entidades y en nuestros municipios están implementando para poder disminuir la transmisión.
+Recordemos que la única forma de poder llegar a niveles de menor riesgo, como son los del color amarillo y el verde, es si todos juntos ponemos en práctica estas recomendaciones y entonces de manera colectiva disminuimos la transmisión de la enfermedad.
+Veamos ahora la actualización de los datos estadísticos para esta noche. Ya más de tres millones 235 mil han sido las personas que han ingresado a los protocolos de atención médica y de estudio.
+Recordemos que todo este grupo presentó en un momento determinado datos de infección respiratoria aguda sea leve o sea grave, por eso se clasificaron como casos sospechosos.
+Al día de hoy ya sabemos que un millón 578 mil 722 de estas personas han dado negativo a la prueba para el virus SARS-CoV-2 y, por lo tanto, se clasifican como casos descartados de la enfermedad.
+Pero asimismo, a través de los diferentes procesos de clasificación, la mayoría de ellos con una prueba positiva al virus SARS-CoV-2, un millón 267 mil 202 personas son los casos confirmados de COVID-19 en México que se han acumulado desde que en febrero se confirmara el primero de ellos y, por lo tanto, durante toda la epidemia a nivel nacional.
+Así también, y como parte de este grupo sabemos se encuentran las defunciones que se han confirmado para COVID-19. Lamentablemente 115 mil 99 personas han perdido la vida a consecuencia de las complicaciones que sabemos esta enfermedad produce, sobre todo en los grupos vulnerables que son considerados de riesgo con las comorbilidades y factores que ya hemos estado mencionado en las conferencias.
+El 39.8 por ciento el porcentaje de positividad, esto quiere decir que de todas las personas que expresan signos y síntomas respiratorios, digamos que de cada 10 personas cuatro al menos lo producen o expresan estos síntomas a causa del virus SARS-CoV-2 y por lo tanto, de COVID-19, y todavía otras seis forman parte de las afectaciones que vemos año con año en función de las temporadas invernales y de otros virus respiratorios que también circulan en estas fechas.
+Si vemos la siguiente diapositiva, nos enfocamos al comportamiento de la epidemia en México, que está precisamente representada en nuestra curva superior color azul donde se grafican los casos estimados de la enfermedad, que son más que los solamente confirmados, un millón 442 mil 136 para la estimación del día de hoy.
+Y si vemos este comportamiento, bueno, mantiene todavía la tendencia ascendente que hemos visto en las últimas semanas y que para la medición de la 48 a la 49 representa un incremento de un más 14 por ciento.
+Asimismo, se están incrementando también las personas que se están recuperando de la enfermedad y que para el día de hoy se estima son más ya de 938 mil también las que han vencido a la enfermedad.
+Si vemos en la siguiente diapositiva, tenemos la actualización con el enfoque de las personas que lamentablemente han perdido la vida. Veíamos también un ligero incremento en las últimas dos semanas, concordante con el incremento que hemos visto también en los casos, aunque no con la misma aceleración o magnitud que se ve en el tema de las personas que están enfermando con una pequeña diferencial positiva de más dos por ciento, cuando vemos justo la diferencia del comportamiento entre la semana 48, 49.
+Para efectos de lo que hemos visto en el transcurso de la epidemia y lo que en su momento observamos, por ejemplo, en la semana 28, que es la semana en al cual se presentaron la mayor cantidad de defunciones en un momento determinado del año, que fueron cinco mil 398, bueno, todavía hay una reducción de un menos 32 por ciento para efecto de lo ocurrido en la semana 49 al corte del día de hoy.
+Y finalmente, revisaremos la ocupación hospitalaria. El día de hoy toca verlo en la siguiente diapositiva en el formato de barras, que precisamente nos permite observar tanto la ocupación como la disponibilidad.
+Son siete las entidades federativas que superan el 50 por ciento, es decir, que tendrían más de la mitad de sus camas ocupadas, sólo siete, es decir, la gran mayoría de entidades federativas tiene una muy buena disponibilidad superior al 50 por ciento, inclusive entidades con disponibilidades superiores al 80 por ciento.
+Pero también de este otro lado de la gráfica, bueno tenemos o seguimos teniendo, por ejemplo, la Ciudad de México con una ocupación de camas generales del 82 por ciento y esto se ha mantenido fluctuando alrededor de este porcentaje en la medida que los trabajos de reconversión y expansión hospitalaria han podido continuar y continuarán durante los siguientes días y semanas permitiendo de esta manera que una persona que requiere una cama en un segundo o tercer nivel de atención la pueda conseguir y pueda recibir la atención especializada.
+Si vemos en la siguiente diapositiva, sobre todo en el tema de las camas con ventilador, que son para los pacientes más críticos, en donde la ocupación también se ha mantenido alrededor de un 70, 71 por ciento, 72 por ciento, lo que quiere decir que los trabajos de reconversión y expansión han estado dando resultados, porque entonces mantienen disponibilidades cercanas al 30 por ciento para efecto de camas con ventilador, en donde además vemos que la gran mayoría de las entidades federativas tienen una muy buena y holgada disponibilidad para efectos de en su momento poder brindar este tipo de servicios especializados.
+Recordamos a toda la población que la pandemia no ha terminado, la epidemia en México continúa activa, desde hace muchos meses se comunicó que para efectos de la temporada invernal estaríamos observando un repunte, un incremento en los casos por las condiciones ambientales propicias, esto lo estamos viendo ya de manera importante sobre todo en algunas entidades federativas; por lo tanto, el llamado continúa a poder seguir atendiendo las recomendaciones de mantenernos resguardados si no hay ninguna necesidad de salir al espacio público, hacerlo solamente para actividades esenciales importantes y mantener las medidas preventivas en todo momento.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Doctor Juan Rivera si es tan amable de comentarnos.
+---
+JUAN RIVERA DOMMARCO, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE SALUD PÚBLICA (INSP)
+Quisiera, en primer lugar, agradecer mucho al doctor Hugo López-Gatell por habernos invitado, tanto a mí, como director del Instituto Nacional de Salud Pública, como a mis colegas y amigos los directores del INER y del Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’.
+Y voy el día de hoy a presentarles resultados preliminares de una pequeña parte de la encuesta Ensanut-COVID-19, que es la versión Ensanut del año 2020 que se dedicó en buena medida al estudio de COVID-19.
+Quiero comentarles que son datos preliminares. Terminamos el trabajo de campo hace menos de cuatro semanas y la verdad es que es un orgullo para mí el poder ya presentar datos, aunque, repito, preliminares.
+La Ensanut-COVID, como ustedes saben, es una encuesta que está dirigida a todos los hogares del país. Su diseño es un diseño que intenta obtener una muestra nacional probabilística y la manera de hacerlo es que primero se escogen grandes estratos poblacionales al interior de estos grandes conglomerados y, al interior de los conglomerados, hogares de todos los habitantes del país, de modo que tenemos como resultado una muestra nacional que es representativa del país.
+Uno de los objetivos principales de esta encuesta, que no el único, fue estimar la proporción de la población que tiene anticuerpos contra SARS-CoV-2 en México; en otras palabras, personas que estuvieron en contacto con el coronavirus y que generaron una respuesta de anticuerpos, lo que quiere decir es que hubo una infección que pudo haber sido sintomática o asintomática.
+Quisiera yo, antes de empezar con esta diapositiva, hacer un verdadero agradecimiento a todas las personas de la población, nueve mil 400 hogares que nos permitieron entrar a su hogar, nos proporcionaron información, muestras de sangre.
+Sin la participación de la población mexicana seleccionado no hubiéramos podido tener estos datos de utilidad para todo el país, de manera que mis agradecimientos a la población.
+Y desde luego también a todo el equipo del Instituto Nacional de Salud Pública encuestadores, investigadores, tofo el personal que hizo posible que tuviéramos estos estos.
+Entonces, nosotros visitamos 12 mil viviendas seleccionadas, de las cuales casi el 80 por ciento, nueve mil 400, aceptaron participar y la encuesta se llevó a cabo de agosto al 15 de noviembre del 2020.
+Hasta ahora tenemos analizadas muestras de sangre de siete mil 98 muestras, que son el 74 por ciento de todas las muestras de sangre que tenemos y por esa razón yo sí les pido que siempre al reportar esto digan que son resultados preliminares.
+¿Por qué?
+Porque nos falta un poquito más del 25 por ciento y podría haber diferencias que pueden ser pequeñas, pero de todas maneras quiero que quede muy claro.
+¿Qué hicimos?, ¿cómo obtuvimos las muestras?
+Lo que hicimos fue que obtuvimos seis mililitros de sangre a través de una punción venosa en el antebrazo tanto de niños, como de adolescentes, como de adultos. En los distintos hogares había personas seleccionadas al azar que nos dieron su muestra de sangre.
+Usamos, desde luego, estrictas normas de higiene, material estéril, desechable para obtener las muestras, también les comento que en todo momento cuando llegamos a los hogares siempre había todas las medidas de seguridad para la prevención de contagios.
+La muestra en el campo se centrifuga y se separa el suero del resto de la sangre, se congela el suero en un tanque de nitrógeno y se entrega al laboratorio.
+Y aquí quiero agradecer mucho al Instituto de Diagnóstico y Referencia Epidemiológicos, el Indre, que fue la institución que nos hizo la determinación de los anticuerpos que vamos a presentar. Muchas gracias al Indre que también trabajó día y noche para tener los resultados a tiempo, por lo menos esta parte de los resultados.
+¿Cómo medimos los anticuerpos?
+Esto es un poco técnico, lo pongo aquí para que ustedes sepan, usamos una metodología que se llama Elisa para la detección de anticuerpos.
+Hay diferentes tipos de anticuerpos IGM, IGG, IGA, nosotros hicimos la determinación de IGG, que son un excelente marcador de infección y este IGG específico para SARS-CoV-2; en otras palabras, medimos si la gente tenía anticuerpos específicos para SARS-CoV-2.
+Y hay distintas proteínas blanco, que están en superficie del coronavirus; algunas pruebas van dirigidas a la proteína N, que es la que hoy voy a presentar los resultados; y otros a la proteína S, que también vamos a determinar, pero que todavía está en proceso.
+De modo que usamos Elisa para determinar anticuerpos IGG para la proteína N, y la prueba que utilizamos es una prueba que se llama Elecsys, de la compañía Roche, que fue validada por el Indre, el Indre validó la técnica y encontró que había un 92 por ciento de sensibilidad; en otras palabras, de la totalidad de personas que tienen realmente anticuerpos el 92 por ciento es detectado por esta prueba, hay un ocho por ciento de error, siempre las pruebas tienen un pequeño error y una especificidad en 99 por ciento.
+Y lo que es muy interesante es que los datos que yo les voy a presentar ya hacen un ajuste por estos errores de determinación, por la sensibilidad y especificidad que ya están contemplados y se corrigen entonces los datos en función de esto.
+Aquí, si me pasan la siguiente, me gustaría empezar con algo muy gráfico.
+¿Cuántas personas o qué porcentaje de personas en el país han estado expuestas al virus?
+La respuesta es: 24.8 por ciento, es decir, 25 por ciento. Quiere decir que 75 por ciento fueron negativos, muy importante saber esto.
+¿Cuántas personas expuestas tuvieron síntomas?
+Y esto es verdaderamente importante. Fíjense, de todas las personas que fueron positivas el 70 por ciento nunca tuvo síntomas, durante todo el periodo, desde febrero, finales de febrero hasta la fecha de la encuesta, no tuvieron síntomas.
+El 10 por ciento tuvieron algunos síntomas, pero no todos los que se requieren para hacer una definición de caso compatible con COVID-19 y 20 por ciento sí tuvieron síntomas.
+Pero imagínense ustedes, 80 por ciento casi sin síntomas.
+¿Qué quiere decir esto?
+Que muchísima gente a lo mejor muchos de los que estamos aquí somos asintomáticos y que por lo tanto podemos estar transmitiendo la enfermedad sin darnos cuenta, por eso la importancia de tomar todas las precauciones que aquí el doctor López-Gatell y la Secretaría de Salud nos insisten mucho.
+Este 25 por ciento de positivo representa alrededor de 31 millones de personas y muestra una gran velocidad de propagación y también que una gran proporción no presentan síntomas.
+Estos son los datos ya desagregados. Yo les comentaba que del total de la población casi el 25 por ciento fueron positivos, tenían anticuerpos.
+¿Cuántos hombres y cuántas mujeres?
+Los hombres un poquito más alto, 26, que las mujeres.
+En términos de edad. las edades con las mayores prevalencias fueron de 20 a 59 años, arriba de 25 por ciento; de cero a 19 un poquito menor y el grupo que sí es distinto es el de 60 y más, 18.7 por ciento.
+¿Por qué?
+No lo sabemos, porque está encuesta todavía tenemos que explorar mucho, pero da la impresión que las personas de 60 y más se cuidaron más, permanecieron más en casa y tomaron todas las medidas o muchas de las medidas que se están proponiendo.
+En escolaridad tenemos que la mayor… Los alumnos que… Perdón, las personas que tienen secundaria o preparatoria tuvieron prevalencias un poquito más altas que las de primaria, pero realmente la diferencia mayor está con quienes tienen educación superior, es decir, universidad o más donde es un poquito más bajo.
+Nosotros hicimos algunas comparaciones con otros países para ver cómo estamos en relación a otros países y en algunos casos tenemos datos de un periodo desde abril hasta junio de España, de Ginebra, Suiza; de Trento, Italia. Vean ustedes cómo en esa época las prevalencias o las proporciones de personas con anticuerpo todas estaban de 25 y menos, por ejemplo, España tenía seis por ciento.
+A medida que pasa el tiempo, pues obviamente va habiendo más contagio; pero, por ejemplo, en Estados Unidos en un estudio que hicieron la prevalencia, el porcentaje es de sólo 10 por ciento, mientras que, por ejemplo, en Medellín, es muy parecido al dato de México y hay dos ciudades de Colombia, Barranquilla y Leticia, que tienen prevalencias mucho más altas entre 50 y 60 por ciento.
+Entonces, ven ustedes que hay una gran heterogeneidad, pero México está en cifras que son compatibles con lo que encuentra uno en varios otros países.
+¿Qué implica esto?
+Y esto sí quiero poner, digamos, poner mucha atención. El 75 por ciento de los mexicanos no tenemos inmunidad contra COVID, es un porcentaje altísimo, son casi 100 millones de personas; de modo que no debemos descuidarnos, no debemos bajar la guardia, no porque venga la vacuna yo ya siento que puedo salir y puedo dejar de seguir todas las medidas precautorias para evitar el contagio, la gran mayoría estamos totalmente vulnerables a la infección.
+Pero además del 25 por ciento, que además mucha gente no sabe si lo tuvo o no, hay posibilidades de reinfección; es decir, la ciencia aún no nos puede responder cuánto tiempo duran las defensas contra el COVID una vez que uno ya ha enfermado y hay casos en México y en todo el mundo en que una persona tiene la enfermedad y vuelve a reinfectarse.
+Es cierto que no hay muchos casos documentados, pero los hay, de modo que el mensaje aquí es: Todos debemos seguir cuidando.
+¿Qué debemos hacer con esta información que tenemos el día de hoy?
+Bueno, como usted vieron, el doctor Alomía mostró cómo está aumentando muchísimo el contagio en México, los casos nuevos de COVID, cómo están aumentando la hospitalización, ya hay ciudades con una saturación bastante elevada, cómo está aumentando también desde luego las complicaciones y la muerte.
+Por lo tanto, debemos ser muy conscientes de que nosotros seguimos siendo, como país, altamente susceptibles a COVID-19.
+Quienes han tenido COVID-19 podrían llegar a tener otra reinfección, no está claro que pueda uno decir: ‘Yo ya tuve la enfermedad y tengo un pasaporte de inmunidad’, no, en realidad la ciencia todavía no nos responde esto y la infección es asintomática en un porcentaje altísimo de la población.
+De modo que una recomendación muy importante: aun si te sientes bien podrías estar contagiando a otras personas, podrías estar contagiando a tus seres queridos o podrías estar contagiando a alguien que no conoces. Por eso hay que seguir todas las recomendaciones que la Secretaría de Salud nos ha hecho, necesitamos redoblar esfuerzos ahora.
+Y hoy quiero pedirles que a todas y todos los mexicanos que seamos generosos, que nos ayuden a salvar vidas. Ninguna fiesta vale una vida, no salgas de tu casa si no es necesario; si es necesario, porque tienes que salir a trabajar, a cuidar un enfermo, sigue todas las recomendaciones para evitar contagios.
+Evita asistir a fiestas. Estamos en épocas de posadas, en épicas navideñas. Debemos evitar posadas, visitas, reuniones familiares, aun con la familia extendida puede haber contagio. Concretémonos a reuniones con la burbuja de la familia nuclear con la que convivimos todos los días.
+Sabemos que esto no es fácil, pero si nosotros no tomamos estas medidas de quedarnos en casa en la medida de lo posible, seguiremos teniendo contagios.
+Y finalmente un mensaje de optimismo. Todos tenemos que confiar en que va a terminar la epidemia en algún momento, pero que todavía nos quedan varios meses en que debemos seguir cuidándonos y mi recomendación es: pensemos en el día que ya vamos a poder otra vez a volver a abrazarnos, volver a convivir como lo hacíamos antes, pero de momento para que ese día llegue tenemos todos que seguirnos cuidando.
+Muchas gracias.
+Doctor Jorge Salas.
+---
+JORGE SALAS HERNÁNDEZ, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ENFERMEDADES RESPIRATORIAS (INER)
+Buenas noches. Gracias, doctor López-Gatell, doctor Alomía, por la invitación.
+Yo quiero en estos siguientes minutos hacer un relato de la experiencia de lo que está sucediendo dentro de los hospitales y al final hacer una invitación.
+Esta información que nos acaba de presentar el doctor Juan Rivera es verdaderamente relevante porque ha hecho énfasis, y creo que ha quedado muy claro, de la vulnerabilidad que gran parte de la población tenemos y de que otro grupo de la población han tenido la infección en forma asintomática y que seguramente han sido sujetos de riesgo para personas sanas. Ese es un extremo de esta enfermedad, la forma asintomática y que sin saberlo la gente tuvo la enfermedad.
+Pero en ese camino que puede llevar la enfermedad de COVID-19, pues está el otro extremo que es el que nosotros estamos viviendo hoy en día y llevamos así desde el mes de febrero en los hospitales.
+Ha sido un trabajo de varios meses, de mucha organización, de planeación y, de lo más importante, de ponerse a trabajar en un intento de preservar la salud y la vida de las personas que han enfermado.
+El número de enfermos que han sido atendidos en todo el sector salud dentro de los hospitales es un número importante y ha sido una experiencia complicada para el personal de salud, porque hemos estado trabajando con pacientes sumamente graves, todos ellos complicados, todos ellos por eso han tenido criterios de hospitalización.
+Y esta es la parte que nosotros queremos expresar, de que el trabajo en el interior de los hospitales ha sido como nunca en varias generaciones se ha tenido que hacer, ni siquiera cuando la pandemia de la influenza tuvo estas dimensiones. Y por eso creo que es importante que se sepa para tener consciencia de que eso se puede evitar, llegar a esos extremos de gravedad.
+Los pacientes llegan complicados, con neumonías, cuadros de insuficiencia respiratoria y lo que todos ustedes saben, muchos de ellos requieren de intubación de vías respiratorias y conectar a un ventilador.
+Esa es la situación más crítica en la que puede estar una persona con un alto riesgo de complicaciones y de mortalidad, y ese el trabajo que se ha estado haciendo en los hospitales.
+Esto requiere de una organización y conjunción de trabajo de un grupo multidisciplinario que se ha sabido organizar bajo directrices de nuestras autoridades de salud, bajo directrices de cada uno de los hospitales de acuerdo a sus capacidades e infraestructura y ese equipo de salud que ustedes conoces, médicos, médicos residentes, enfermeras, pero va mucho más allá, a gente igualmente importante, técnicos de rayos X, técnicos de laboratorio, técnicos de imagenología, camilleros, personal de lavandería, de alimentación, personal administrativo, personal de vigilancia, personal de ambulancias, en fin.
+Este es todo un grupo que ha tenido que trabajar de manera organizado, por supuesto con riesgo, con temores, con muchas horas de trabajo todos los días, a veces más de las que corresponde a lo que tienen que trabajar por ese gran compromiso que se ha tenido en la atención de estos pacientes gravemente enfermos.
+Hoy que hay tanta transmisión de la infección, ustedes lo han visto aquí, los números lo reflejan, hay más contagios, hay más enfermos y desafortunadamente muchos de estos casos graves y la capacidad hospitalaria está al límite, eso es lo que no queríamos que sucediera, pero se está haciendo frente a esta situación y se está reorganizando de tal manera que puede haber mayor capacidad.
+Pero aquí lo que queremos es expresar, y esa es la invitación, invitamos a toda la población a que se unan a este equipo de salud, al personal de salud.
+De tal forma que el cuidado de la salud, el evitar la enfermedad inicia desde casa, como lo decía el doctor Juan Rivera y como así están ya las recomendaciones que da la Secretaría de Salud.
+Evitar salir más que a lo que sea necesario, usar cubrebocas, lavado de manos, evitar actividad social, en fin, distanciamiento cuando se tiene que estar con gente, ahí empieza el cuidado de la salud y si ustedes lo logran hacer son parte de ese personal de salud.
+Hoy al personal de salud hay que ayudarle, está agotado físicamente y mentalmente, pero su compromiso con preservar la salud, con preservar la vida se mantiene y así será durante todas estas semanas o meses que sigan ante esta situación.
+Pero si ustedes se unen a este equipo de trabajo, sin duda, que eso nos ayudará y seguramente muchas vidas se podrán salvar.
+Así que esa es la invitación, ese es el mensaje que yo quiero hacer desde el interior de los hospitales, no sólo desde el INER que es el instituto que yo represento, sino de prácticamente todos los hospitales públicos, privados de esta ciudad y todo el interior del país.
+La situación ha sido la misma, el sentir del personal de salud es el mismo, la necesidad que tenemos es la misma y, por supuesto, que si somos apoyados con trabajo y con prevención por la población en general, por supuesto que todos saldremos fortalecidos y sobre todo preservando la salud de todos los mexicanos.
+Muchas gracias por escucharme.
+---
+DAVID KERSHENOBICH STALNIKOWITZ DIRECTOR GENERAL INSTITUTO NACIONAL DE CIENCIAS MÉDICAS Y NUTRICIÓN ‘SALVADOR ZUBIRÁN’
+Muchas gracias, Juan; muchas gracias, doctor López-Gatell, doctor Alomía y doctor Salas, por estar aquí en esta reunión.
+Déjenme comentarles. Es de todos sabido que la pandemia significa un gran reto. Si uno se fija para atrás resulta que hasta hace unos meses no conocíamos que teníamos una pandemia por COVID-19 y parece muy largo el tiempo y a la vez es muy corto el tiempo.
+Y ha significado un reto muy importante, ha significado un reto muy importante para la población, para el personal médico, para, yo diría, el mundo entero en forma global ha significado un reto.
+Hemos tenido a pasos agigantados que entender qué era el virus, cómo se transmitía el virus, cómo podíamos controlar a los pacientes que tienen COVID-19 y, mucho más recientemente, la posibilidad de tener vacunas.
+Han sido entonces meses muy intensos, con mucha incertidumbre, incertidumbre para todos: para el personal de salud, para los pacientes, para la población en general ante la incertidumbre de qué voy a hacer cuando me contagio y me infecto.
+Pero hemos aprendido muchas cosas y en la presentación del día de hoy lo que podemos entender como primera cosa es la necesidad de prevenir la infección por COVID-19. Y ahí es donde tiene mucho significado lo que mostró el doctor Rivera, de que muchos asintomáticos son los que transmiten la enfermedad sin darse cuenta.
+Entonces, una de primeras cosas es que está en las manos de todos nosotros, de todos los que participamos el prevenir la enfermedad y aquí se han mencionado muchas de las medidas que tienen que ver precisamente con la prevención.
+Es cierto, en las últimas semanas tenemos la posibilidad de las vacunas, pero, como bien dijo el doctor Rivera, eso no es necesariamente una garantía de que no nos podamos infectar aun estando vacunados, porque las vacunas son seguras, son eficaces, pero no sabemos todavía cuánto tiempo nos va a durar la inmunidad y por lo tanto no quiere decir que la vacuna es un pase para que podamos inmediatamente volver a nuestras actividades.
+Es muy importante, y yo diría que uno de los mensajes que estamos escuchando es evitar los contagios y que hagamos un esfuerzo todos para combatir el COVID-19. En esto estamos juntos, están juntos las autoridades sanitarias, están juntos el personal de salud, están juntos la población en general y por lo tanto es pedirles que todos actuemos en forma conjunta para que tengamos una oportunidad de poder tener un mejor control de esta infección por el coronavirus.
+Oímos muchas veces, y quizá lo hagamos por sentado, el que no tengamos reuniones, no tengamos fiestas, pero se vuelve muy importante, se vuelve realmente una de las medidas más importantes. Y quizá lo hemos oído muchas veces el lávate las manos, el aíslate, la distancia, el usa el cubrebocas, Todas esas medidas no son ocurrencias, sino que son medidas que nos pueden ayudar a poder controlar mejor la pandemia.
+Ahora, además de eso, si uno reflexiona en lo que presentó el doctor Rivera, de que la mayor parte de la gente no tiene inmunidad con la detección de anticuerpos, entonces se vuelve muy importante que aquél tiene síntomas busque atención, aquél tiene fatiga, que tiene fiebre, que tiene síntomas respiratorios, pues inmediatamente debería a nivel de todos los estados buscar la atención médica, por lo menos para tener una opinión y un plan de qué es lo que podemos hacer.
+Y el otro mensaje que me gustaría mencionarles, es que el personal de salud está comprometido en cuidar la salud. Si algo hemos aprendido en esta pandemia es la importancia que tiene la salud y la importancia que tiene la vida. Yo creo que todos estamos muy convencidos de lo que realmente es la importancia de la salud.
+Pero no estamos cansados, porque no nos podemos permitir estar cansados, ni los médicos ni la población en general, porque si nos cansamos y nos relajamos pues entonces es el peor de los escenarios. Entonces no nos podemos cansar.
+Y es una invitación a todos ustedes, al público en general a que redoblemos esfuerzos para que no nos cansemos. Yo siempre menciono que los grandes campeones que van en las carreras y hacen ejercicio es: los que ganan son los que en los últimos metros no se cansan y sobreponen al cansancio.
+Entonces, yo lo invito a todos a que sigamos con las medidas preventivas, a que busquemos la atención médica en forma temprana y que no nos cansemos, y sigamos adelante haciendo todo el esfuerzo que podamos, porque esa es la manera de poder lograr los mejores resultados en esta pandemia.
+Creo que la determinación de anticuerpos es una prueba muy importante que nos ayuda a reflexionar sobre esta necesidad de continuar encontrando el camino.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchísimas gracias, doctores, Rivera, Salas y Kersenobich directores de tres de los Institutos Nacionales de Salud.
+La presentación fue clara, solo 25 por ciento de las y los mexicanos tienen evidencia de haber sido expuestas al SARS-CoV-2, tres cuartas partes no, por lo tanto, todavía la gran mayoría de la población somos susceptibles a esta infección.
+Y en voz de dos directores de los institutos clínicos, el Instituto Nacional de Enfermedades Respiratorias ‘Ismael Cossío Villegas’ y el Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’ escuchamos un llamado clarísimo a que toda la población colabore para que reduzcamos los contagios.
+Ellos están viendo desde el inicio de esta epidemia los problemas que ocasiona la saturación hospitalaria, han sido protagonistas de la reconversión hospitalaria y todos los días están viendo el drama humano que representa la enfermedad grave, la enfermedad por COVID y la mortalidad derivada de ellas.
+Este es un mensaje que me parece indispensable, que toda la población tome muy en cuenta y estaremos teniendo el gusto de tener aquí las voces de las personas que están en el campo clínico, atendiéndonos, protegiéndonos, cuidándonos para que todas y todos sepamos que lo que hagamos en nuestra vida diaria, si no seguimos las medidas de precaución, entonces estamos causando también un daño por sobreocupación de los hospitales y el riesgo de que las personas pierdan la vida ante una enfermedad tan letal.
+Vamos a abrir a preguntas. Guiaré la sesión. Por supuesto, sería muy preferente que nuestros invitados reciban las preguntas. Vamos a empezar por Juan Carlos Machorro, AM Noticias, de Querétaro, nos seguimos con usted, enseguida Liliana Noble y Blanca Valadez.
+---
+PREGUNTA
+Buenas noches. Juan Carlos Machorro, de AM, de Querétaro.
+Para el doctor Juan Ángel Rivera, ¿esta cantidad de personas asintomáticas es similar a otras enfermedades?, ¿hay otras enfermedades que la población tenga esos altos niveles de cuestiones asintomáticas y que la hagan, bueno, ser tan peligrosa, en este caso al COVID-19?
+Y, segunda, de los datos que usted presentó, sabiendo que son preliminares, como nos ha aclarado, pues valga la redundancia, ¿no aplica ya esta famosa cuestión que hicieron los países nórdicos de inmunidad del rebaño?, o sea, ¿qué tanto esto con la preliminar que usted nos ha dicho, pues puede funcionar, no puede funcionar o, en este caso, nuestras características poblacionales nos hacen descartar una posibilidad de este tipo?
+Gracias.
+---
+JUAN RIVERA DOMMARCO
+Con su permiso, Hugo. Le voy a responder la segunda pregunta y la primera pregunta yo se la dejaría a mis colegas, pues los clínicos saben más que yo de esto, que tiene que ver que si hay algunas otras enfermedades con tantos pacientes asintomáticos.
+Pero la segunda, me parece, Juan Carlos, una pregunta muy buena porque clarísimamente no es la solución, la solución de que todo mundo salga, que todo mundo se contagie y al final logremos la inmunidad de rebaño, de 70, 80 por ciento, tiene costos altísimos en vidas de personas, en sufrimiento e incluso en pacientes que aún sí sobreviven van a tener secuelas.
+De modo que aquí claramente estamos viendo… Fíjense el tiempo que llevamos ya con la epidemia. Digo, el hecho de que no toda la población ha seguido las recomendaciones y aun así todavía tenemos 75 por ciento de la población que no ha sido infectada, pero el número de personas enfermas y muertas yo digo que es un precio muy alto que pagar y definitivamente no está recomendada esa metodología, digamos, de inmunidad de rebaño a través de dejar que la gente se contagie.
+No sé si Jorge o David quisieran responder a la otra pregunta.
+---
+JORGE SALAS HERNÁNDEZ
+Bueno, infecciones respiratorias agudas hay muchas causas. Ustedes ya han escuchado que hay múltiples virus que están en el medio ambiente, que lo respiramos y causan infecciones, por fortuna muchas de ellas son en formas leves y seguramente muchas son asintomáticas.
+Yo creo que no tenemos claro ahorita en este momento la similitud que tengan estos datos con otras, porque recuerden que ahorita estos estudios ahorita son dirigidos precisamente por el impacto que está teniendo en la salud pública esta enfermedad, y otras que definitivamente no se acercan en esas dimensiones a este tipo de infección pues no han tenido esta visión tan centrada de los científicos.
+Debe de haber, por supuesto, pero ahorita estos estudios son dirigidos buscando precisamente conocer más cómo se comporta el virus y qué está sucediendo en las personas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Vamos con usted y Liliana Noble, Blanca Valadez.
+---
+PREGUNTA
+Gracias. Buenas tardes. Daniel Flores, del periódico Publimetro.
+Es respecto a la vacuna, si me podrían responder, por favor. ¿Qué tan homologados están los criterios para la aplicación de vacunas aquí en México previo a estas dosis?, teniendo en cuenta que en Estados Unidos será a partir de los 16 años, y aquí en México a partir de los 18. ¿No se corre el riesgo de segregar a algún sector de la población con cierta vulnerabilidad? Esa sería la primera, por favor.
+¿Qué les han comentado de los mexicanos en Estados Unidos que no tienen documentos y está empezando esta aplicación de vacunas?, ¿cuál es el estatus?, ¿cuáles son las pláticas?
+Y caso contrario aquí en México con los extranjeros, también hay muchísimas dudas de cómo va a ser la campaña de vacunación con este millón, más de un millón de extranjeros que están aquí en México.
+Y nada más si tienen alguna fecha estimada para la venta de la vacuna COVID-19 a mediano plazo. Por favor, estas preguntas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. No se trata de homologación, nadie pretende hacer homologaciones porque esa no es la intención, cada país es soberano, cada país tiene sus capacidades técnicas y científicas.
+Lo que sí es muy importante es considerar las experiencias de otros países donde tenemos múltiples lazos no solamente de colaboración, sino de intercambio con las comunidades técnicas y científicas.
+Efectivamente, como lo anunciamos la semana pasada, la aprobación de uso en emergencias que dio la FDA, la Agencia de Fármacos y Alimentos de Estados Unidos fue muy instrumental para nosotros dado que lo hicieron patente con una sesión pública y nuestro Comité de Moléculas Nuevas pudo tomar varias notas para normar su recomendación.
+Esto que dice sobre la edad, originalmente comentamos que la indicación no podía estar por debajo de los 18 años, porque eso depende de la cantidad de evidencia disponible; sin embargo, en la consideración que hizo FDA tuvieron a la mano también algunos elementos de evidencia que también fue utilizado por nuestro Comité de Moléculas Nuevas, el comité científico de Cofepris y se incorporó también la recomendación de uso entre 16 y 18 años. Entonces, ha habido un cambio respecto a lo que yo mismo comenté el martes pasado.
+Sobre la cobertura, la cobertura es universal, aquí no se hace distinción de nacionalidades y es sumamente importante que toda la población residente en el territorio nacional tenga acceso a la vacuna.
+Efectivamente, se estima que en general hay una población flotante de cerca de medio millón de personas comparados con 126 millones de personas en México o cerca de 100 millones de personas adultas, desde luego no tiene ningún impacto en términos presupuestales o en términos de gasto y México es un país en donde se garantiza el derecho de la protección de la salud independientemente de la nacionalidad.
+Muchas gracias.
+Liliana Noble, Pulso Saludable.
+---
+PREGUNTA
+Gracias. Buenas, noches. Liliana Noble, de Pulso Saludable.
+Doctor Rivera con este dato que obtuvieron de estos datos preliminares y ya que los concluyan ¿han pensado en hacer algún otro tipo de estudio con esta misma información?, ¿y de qué iría el estudio si es que lo tienen mapeado?
+Y para el doctor David Kersenobich o doctor Jorge Salas, me da mucho gusto verlos y que estén muy bien, me gustaría saber si con la experiencia que tienen en el campo de batalla, por llamarlo así, ¿se sabe o tienen alguna hipótesis de por qué algunas personas son asintomáticas?
+Gracias.
+---
+JUAN RIVERA DOMMARCO
+Sí, empiezo entonces yo con la primera, Liliana. Muchas gracias por la pregunta, Liliana.
+Sí, estanos muy contentos por esta base de datos que tenemos.
+Lo primero va a ser terminar las determinaciones, pero fíjese que una ventaja que tenemos sobre muchos otros países que hicieron muestras serológicas, pero que no iban de la mano con una encuesta como la nuestra es que, por ejemplo, nosotros podíamos responder a la siguiente pregunta: A ver, de ese 20 por ciento con síntomas qué porcentaje buscó atención médica, cuál de ese porcentaje fue en instituciones públicas, cuáles en instituciones privadas; por ejemplo, los asintomáticos, cuáles son las características de esas personas.
+Imagínense, tenemos datos de peso, talla, de otras enfermedades, podríamos ver, por ejemplo, si de los sintomáticos, a los que peor les fue pues es aquellos que tienen diabetes, hipertensión, obesidad, en fin.
+Tenemos muchísimas preguntas en mente que vamos a hacer una vez que tengamos la base de datos, que espero la tengamos ya en enero y además esas bases de datos después van a ser públicas para que otros colegas las puedan explotar.
+---
+DAVID KERSHENOBICH STALNIKOWITZ
+En relación a su otra pregunta de por qué algunas personas contraen la enfermedad más fácilmente que otras, hay varios hechos muy interesantes.
+Uno de observación clínica es que, por ejemplo, pacientes que tienen enfermedades como lupus eritematoso o trastornos de inmunodeficiencia, parecen no tener el mismo riesgo que otras poblaciones y la razón es porque tienen activado su sistema inmune de por sí y eso les confiere cierta protección.
+Y mucho más recientemente, la semana pasada, salió una publicación en Nature en la cual se demuestra que existe distintos tipos de polimorfismos genéticos en la población, por ejemplo, uno de ellos tiene que ver con el interferón, que es un mecanismo de defensa. Entonces, aunque somos iguales, no necesariamente respondemos de la misma manera.
+Y, tercero, hay estudios ahora en gemelos, en los cuales los gemelos, aunque tienen las mismas características, uno puede contraer la enfermedad y el otro no a pesar de vivir en un mismo ambiente, y eso demuestra que puede haber cambios epigenéticos asociados que confieren mayor o menor susceptibilidad.
+Y el último son las comorbilidades, que juegan un papel muy importante en por qué una persona puede ser más susceptible que otra persona.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Blanca Valadez, Milenio.
+---
+PREGUNTA
+Buenas tardes a todos.
+Preguntarles, ¿tienen un promedio de cuántas personas, una persona asintomática puede contagiar al resto de las personas que lo rodean en su trabajo, en su familia?, ¿más o menos cuál es el promedio de contagios que tiene una persona asintomática?
+Si los dos directores de los institutos nos pueden informar si tienen casos de reinfecciones, si actualmente están analizando eso.
+Y si nos pueden explicar ahorita, yo sé que están saturados los institutos, ¿en qué?, ¿cómo?, ¿cuál es la diferencia de la primera ola a esta?, ¿cómo están llegando los pacientes?, ¿están llegando mucho más graves?
+Comentaba usted, pero exactamente ahorita ¿qué es lo que están viendo que los está preocupando más?
+También si me pueden aclarar, medir IGG la proteína N a diferencia de la proteína S, ya sé que es una cosa muy científica, pero sé que el virus entra a la proteína S y es cuando llega a todas las celuladas. Entonces, si medir la N ¿qué nos reflejaría?, y la proteína S ¿qué nos reflejaría?
+Y en el caso de los institutos sí, por favor, si hay casos de reinfección y la situación actual que están viviendo, ¿con cuánto personal?, ¿cuántas personas están en cama, intubados?, si nos pueden dar esos datos que demuestra que finalmente estamos en una situación de alerta.
+Gracias.
+---
+JUAN ÁNGEL RIVERA DOMMARCO
+No sé si quieren empezar alguien de ustedes.
+---
+JORGE SALAS HERNÁNDEZ
+A ver, muy brevemente y puntual por tiempo contestaré. En el caso del INER, al día de hoy tenemos 170 pacientes hospitalizados y de ellos están 105 intubados, esa es una gran terapia intensiva, obviamente son casos muy graves.
+Nosotros les hacemos todo el estudio viral, no sólo se determina SARS-CoV-2, sino otros virus, influenza y otros, y básicamente eso es lo que hemos encontrado, no hemos encontrado mezclas de otros virus. Prácticamente todos hasta este momento son primera infección, o sea, no tenemos casos reportados de que estén en una segunda infección.
+Y lo que hemos estados viendo también en esta nueva etapa de casos es que prácticamente de los casos que estamos viendo es ya todos los grupos de población, un poco como lo mostró el doctor Rivera, quizá, en la primera ocasión que en extremo de la vida o más jóvenes están un poco más encerrados eran en poblaciones de 50, 40, 50 años, algunos de 60 y ahora prácticamente estamos viendo una hospitalización de todos los grupos de edad, seguramente es multifactorial, puede ser más movilización, puede ser que algunos salen y traen como lo mostraban ya sea de manera asintomática o enfermos y se hace el contagio en el núcleo familiar, porque sí estamos viendo familias completas enfermas.
+---
+DAVID KERSHENOBICH STALNIKOWITZ
+Un comentario breve. Yo estoy de acuerdo con el doctor Salas y coherente con el mensaje que hemos tratado de dar hoy en la noche es que esta nueva elevación de casos ocurre en momentos en donde podemos esperar mayores infecciones virales sea o no de COVID-19 y por lo tanto mayor necesidad de reforzar las medidas de prevención. Ahora, a diferencia de antes, si alguien tiene gripa no se le ocurra ir a trabajar para no contagiar al resto de las personas.
+En relación a su primera pregunta de casos de reinfección y por eso quise hacer esta mención y lo dijo el doctor Salas, es que puede haber distintos virus que infecten a las personas y necesitamos detectarlas.
+Y cuando alguien vuelve a salir positivo de COVID-19 lo que estamos haciendo es estudios de secuenciación para ver si es el mismo virus que la persona tuvo en la primera ocasión o es una variante, una mutante distinta.
+Afortunadamente los casos de reinfección son pocos, realmente no son significativos, pero sí son motivo de investigación para ver si estar pendientes de que no pueda haber mutaciones en el virus.
+---
+INTERLOCUTORA
+¿Cuántos casos de la infección están investigando
+---
+DAVID KERSHENOBICH STALNIKOWITZ
+¿Cuántos qué, perdón?
+---
+INTERLOCUTORA
+¿Cuántos casos de la infección están investigando?
+---
+DAVID KERSHENOBICH STALNIKOWITZ
+Nosotros hemos tenido en el instituto por lo menos yo diría tres casos de gente que hace unos meses tuvo una infección por COVID y vuelve a tener una infección, y ahí es donde estamos haciendo los estudios de secuenciación para ver si es el mismo virus, si es una mutación o incluso hay que recordar la posibilidad de que el RNA puede permanecer en pequeñas cantidades en una persona.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Exacto.
+---
+DAVID KERSHENOBICH STALNIKOWITZ
+Y que pudiera ser, pero son tan pocos, son excepcionales, la verdad es que no impactan, desde el punto de vista de salud pública, no impactan ese número de casos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Justamente estos dos elementos, y han salido repetidamente a lo largo de la epidemia, estas inquietudes.
+Uno es sobre el tema de las posibles segundas infecciones o reinfecciones. Como bien dice el doctor Kershenobich, esto sigue siendo motivo de estudio científico en el mundo entero, no solamente en México.
+De manera muy alentadora en México tenemos desde luego científicas y científicos muy competentes, entre otros, en los Institutos Nacionales de Salud que están estudiando este fenómeno.
+Son un número casi diríamos anecdótico de casos, en realidad no hay una cuenta exhaustiva de segundas infecciones porque en muchas de ellas no existe la evidencia completa de si realmente esta segunda infección, como también dice el doctor Kershenobich, es causada por la misma cepa del virus que ha reactivado o bien es una nueva exposición al virus.
+Lo trascendente de esto es suponer que la infección causa inmunidad, pero, como decía el doctor Rivera al inicio al presentar los resultados de la encuesta serológica, todavía no existe certeza científica sobre la duración de la inmunidad, la potencia de la inmunidad y sobre todo la naturaleza de los anticuerpos, si son completamente protectores y neutralizantes del virus.
+Las implicaciones evidentes son la conducta que tiene o la dinámica que tiene la propia epidemia en términos de la famosa inmunidad de rebaño.
+Hago un paréntesis para aclarar, ningún país del mundo, estimado Juan Carlos Machorro, de AM Noticias, ningún país de mundo, ningún país, incluido Suecia, a quien al principio se le atribuyó la idea de que el gobierno de Suecia había determinado utilizar el mecanismo de inmunidad de rebaño para el control epidémico espontáneo. No, no fue el caso, ni del gobierno de Suecia, tampoco el gobierno británico y tampoco el de México, que también hemos recibido difamación al respecto.
+La inmunidad de rebaño es una condición natural que se da en todas las enfermedades infecciosas epidémicas y es una situación que se va a dar tarde o temprano, ya sea por inmunidad natural o por el uso de una vacuna.
+Ahora, sobre el tema de los asintomáticos. Como hemos explicado en otras ocasiones, hay que distinguir asintomáticos, personas que nunca desarrollan síntomas durante todo el periodo en que pudieran tener el virus y hasta el momento en que lo eliminan, de personas presintomáticas, que durante algunos días no tienen todavía síntomas, aunque ya tengan el virus y posteriormente, generalmente un par de días después que el virus empieza a ser detectable empiezan a desarrollar los síntomas.
+Algunas estimaciones consideran que en general una quinta parte de las personas portadoras del virus son asintomáticas, pero en ese conjunto están mezclados presintomáticos y asintomáticos.
+Ahora, el significado de la persona asintomática sobre la capacidad de transmitir es motivo todavía de estudios científico en el mundo entero. No se conoce con certidumbre cuál es la contribución de las personas asintomáticas en la propagación del virus.
+En algunas estimaciones que derivan de algunos estudios muy seleccionados en poblaciones cerradas, por ejemplo, casas hogar, asilos para ancianos, algunos enfermos crónicos en unidades de cuidado largo, un estudio famoso que hubo al inicio de la epidemia en uno de los barcos que estuvo atracado en Japón, son estudios en condiciones muy peculiares de los que se han hecho algunas inferencias sobre el papel de los asintomáticos como posibles transmisores, y en general se ha considerado que pudieran ser la mitad de eficientes en transmitir con respecto a los sintomáticos.
+Pero estos estudios, insisto, son en escenarios muy seleccionados, con poblaciones muy sesgadas, por ejemplo, sólo adultos mayores, sólo personas que viven en una residencia permanente, solo turistas, etcétera, y hacer inferencias para las poblaciones en su conjunto no es adecuado metodológicamente hablando porque no son las mismas condiciones. Entonces, todavía no se conoce, insisto, la contribución.
+Es lógico suponer, y esto es lo que se ha considerado por consenso, que al no tener los síntomas, tos o estornudos tienen menor capacidad de transmitir.
+Y lo otro también por el hecho mismo de que son asintomáticos se ha identificado de que tienen cargas virales menores en la garganta, en general las cargas virales de personas asintomáticas son considerablemente menores respecto a los sintomáticos.
+Pues muchas gracias, doctores Rivera, Salas, Kershenobich, por supuesto también a mi colega el doctor Alomía. Consideramos que este mensaje es muy importante, por favor tómenlo en cuenta ustedes que nos escucharon desde su casa, ustedes respetuosamente se los pido, a las comunicadoras y comunicadores, este es el mensaje, es la voz de los Institutos Nacionales de Salud, parte de ellos.
+En los próximos días va a venir también los colegas del IMSS, el maestro Zoé Robledo, su grupo directivo a presentar resultados de una encuesta serológica que también condujo el IMSS y que tiene resultados que son compatibles con lo que encontró la Ensanut.
+Y también tendremos el privilegio, ojalá de tener a otros directoras y directores de institutos y de hospitales federales de alta especialidad, el Hospital General de México, la doctora Guadalupe Guerrero; el doctor Octavio Sierra, del Hospital Gea González; y otros colegas también de los distintos hospitales federales, porque queremos que la población tenga claro el escenario que se ve al interior de los hospitales cuando la epidemia continúa y cuando estos colegas a quienes apreciamos y respetamos mucho están haciendo un esfuerzo mayúsculo, no solamente sus directores, sino también todo el personal que está ahí desde que empezó la epidemia y que, como decía el doctor Salas, está ya en un estado de enorme fatiga, de enorme estrés por cuidarnos a todas y a todos. Y les enviamos, como siempre, todo nuestro respeto, cariño y agradecimiento.
+Aquí terminamos, son las 20 horas con siete minutos. Muchas gracias. Seguimos.

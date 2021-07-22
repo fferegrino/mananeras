@@ -3,11 +3,13 @@ Presidencia de la República
 23 de junio de 2020
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Buenos días. El día de hoy vamos a tratar dos temas:
 Como todos los martes, vamos a informar sobre la situación de salud, el Pulso de la Salud.
 Al mismo tiempo vamos a informar sobre la acción que se está llevando a cabo y se va a intensificar en contra de los llamados factureros, estos que se han dedicado por años, cuando menos de 10 años a la fecha, de defraudar a la hacienda pública mediante el mecanismo de utilizar facturas para no pagar impuestos o para no pagar completos los impuestos. Un gran fraude que se toleraba, una especie de huachicol, pero esto con relación a lo fiscal. Vamos también a informarles sobre este asunto.
 Comenzamos con el informe de salud con el doctor Alcocer.
 ---
 JORGE ALCOCER VARELA, SECRETARIO DE SALUD
+Muchas gracias, señor presidente.
 Muy buenos días tengan todas, todos ustedes.
 Es un gusto estar aquí, que escuchen lo que hoy presentamos a ustedes, como ya fue anunciado por el presidente, el informe técnico de la epidemia. Pero vamos a tener un enfoque muy particular sobre la reconversión hospitalaria.
 Y yo me preguntaría ¿qué significa?
@@ -18,6 +20,7 @@ También estará el canciller Ebrard dándonos la actualización del convenio co
 Así es que Hugo, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Con gusto, secretario. Señor presidente, con su permiso. Canciller, directora del SAT, colegas, Héctor. Muy buenos días tengan todas y todos ustedes.
 Seré breve con la presentación del informe técnico más reciente para ubicarnos en el contexto de lo que va la epidemia. Si me pasan la primera, por favor.
 Llevamos 22 días con el esquema nuevo de la Nueva Normalidad, en donde estamos transitando a la preparación para integrar ya las actividades de la vida pública de una manera ordenada, cautelosa y organizada; 16 estados están en este momento con el semáforo naranja y otros 16 permanecen con el semáforo en rojo, esto quiere decir todavía un nivel importante de riesgo, pero ya se integran algunas actividades no esenciales siguiendo las medidas de protección y prevención.
 En la información numérica diaria, ocho millones 860 mil 331 personas en el mundo han tenido COVID hasta el corte más reciente, posiblemente ahorita a este momento ya estemos pasando los nueve millones y un millón 928 mil 576, que representan el 22 por ciento, lo han tenido en los últimos 14 días.
@@ -48,6 +51,7 @@ Pedimos a la población que no espere, que vaya a atenderse porque si llega temp
 ¿Podemos ver el video?
 ---
 VOZ MUJER
+México cuenta con personal de salud suficiente y preparado para atender a pacientes graves por contagio del COVID-19. Esto es resultado de que el sector salud puso en marcha una estrategia de capacitación de recursos humanos a fin de contar con más personal preparado para la emergencia sanitaria.
 En más de 100 sesiones realizadas desde el 1º de abril ya son más de 40 mil profesionales de la salud que han recibido educación continua de manera presencial o a través de teleconferencias y de la plataforma del Instituto de Salud para el Bienestar, coviduti.salud.gob.mx.
 Es personal de medicina, enfermería y otras áreas de la salud de todo el país, generales o especialistas que ha sido capacitado para integrarse a la atención de pacientes por coronavirus.
 Los contenidos fueron diseñados y han sido impartidos por especialistas y contemplan temáticas como: cuidados intensivos de pacientes con COVID-19, secuencia segura de intubación orotraqueal y manejo de ventilador mecánico, medicina interna, pediatría, control de infecciones y equipos de protección personal, salud mental, salud sexual y reproductiva, así como temas selectos de cirugía, anestesiología, enfermería y trabajo social.
@@ -60,7 +64,11 @@ Este esquema formativo presencial, instrumentado por el Insabi y la Organizació
 La capacitación sigue abierta. Si eres personal de salud y quieres sumarte a la atención de pacientes por COVID-19 regístrate en coviduti.salud.gob.mx.
 Esta es la hora de sumarnos al servicio de la patria.
 ---
+VOZ DE MUJER
+Gobierno de México.
+---
 HÉCTOR VALLE MESTO, PRESIDENTE DE LA FUNDACIÓN MEXICANA DE LA SALUD (FUNSALUD)
+Muy buenos días, señor presidente, canciller, secretario, compañeros.
 Es un gusto estar acá con ustedes para reportar los avances precisamente que tenemos en materia de Juntos por la Salud.
 En Juntos por la Salud, como ustedes saben, es una iniciativa nacida de manera conjunta entre la iniciativa privada, pública, en coordinación con el gobierno federal en la que trabajan ciudadanos, academia, todos juntos para intentar apoyar y en ese sentido poner foco en una cosa: en ayudar a que el personal de salud, que es quien nos está ayudando a hacer frente a la pandemia, esté mejor preparado, equipado y todos sumar por un solo México, porque México, como siempre lo hemos dicho, es uno: tu México, mi México, nuestro México.
 Hemos trabajado en cuatro cosas primordialmente y hoy me enfocaré de hablar en la primera, precisamente en lo que se refiere a cómo vamos en la aportación de equipo de protección personal, así como de ventiladores, aunque también debo decir que hemos trabajado en las otras áreas: agua potable, en donde hemos estado donando agua potable; noches de hospedaje para personal de la salud, doctoras, doctores, enfermeras, cuidados técnicos y se les ha estado apoyando; así como también temas de transportación.
@@ -86,7 +94,11 @@ Agradecer, por supuesto, el trabajo conjunto que se hizo en su momento con el Co
 Creo que lo más lindo es decir: Gracias, gracias a todos, gracias a todos los que han ido aportando, los que han ido sumando y los que hacen posible que todos vayamos sumando por México, porque México es uno: tú México, mi México, nuestro México.
 Muchísimas gracias, señor presidente.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, vamos a informar sobre el tema de las factureras y van a intervenir Raquel Buenrostro Sánchez, jefa del Servicio de Administración Tributaria, del SAT; y Carlos Romero Aranda, procurador Fiscal de la Federación, ellos van a explicar eso. Raquel.
+---
 RAQUEL BUENROSTRO SÁNCHEZ, JEFA DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA (SAT)
+Con permiso, presidente. Buenos días a todos y a todas.
 Para explicar qué son las empresas factureras vamos a poner un poquito en contexto la situación. Como gobierno siempre necesitamos recursos públicos para llevarlo a los programas sociales, para las becas, para educación, para salud. Para eso, es obligación de todos y todas las mexicanas contribuir con gasto público, y esa contribución se hace a través de los impuestos o contribuciones. Estas contribuciones buscan ser proporcionales y equitativas con relación al nivel de ingresos de cada contribuyente.
 ¿Qué es una factura?
 Una factura es un papelito que nos dan cuando nosotros hacemos una transacción, una compra o una venta. Esta factura nos dice quién vende, ahí viene el nombre de la empresa o de la persona, cuándo, en qué fecha, el domicilio y la descripción, si es un bien o servicio y el monto. A partir de ese monto se determina el impuesto.
@@ -125,6 +137,7 @@ Entonces, también es importante decirles a todos los contribuyentes que aquello
 El contribuyente podrá acercarse a las oficinas del SAT para regular su situación. En caso de que no se regularice el contribuyente, entonces se tomarán otras acciones porque el SAT dará vista a la Procuraduría Fiscal y aquí dejo la palabra al procurador fiscal para que nos continúe explicando cuáles serían las acciones siguientes.
 ---
 CARLOS ROMEDO ARANDA, PROCURADOR FISCAL DE LA FEDERACIÓN
+Con su permiso, señor presidente, estimados señores secretarios, jefa del SAT.
 Como perfectamente lo pudo explicar la jefa del SAT, un comprobante fiscal, una factura es propiamente un comprobante fiscal, y con el cuál se determina que hay una operación que se llevó a cabo y podemos ver los impuestos que hay que pagar.
 Lo que estamos atacando no son facturas falsas propiamente, son documentos que amparan operaciones inexistes o simuladas.
 ¿Con qué objeto?
@@ -155,9 +168,11 @@ Y un punto primordial en todo esto es que tenemos el apoyo del señor presidente
 Muchas gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, pues estas son las dos informaciones que teníamos para hoy.
 Abrimos. A ver, las compañeras, las dos mujeres.
 ---
 PREGUNTA
+Gracias, señor presidente. Sandra Aguilera, de Grupo Larsa Comunicaciones.
 Presidente, le voy a denunciar un caso de un médico que está trabajando actualmente en el Issste y quiero hacerle una breve historia del señor.
 En el 2008 fue acusado de participar en una red de pornografía infantil el que era el director del hospital regional de Veracruz, el doctor Arturo Mora Ochoa, además de corrupción y lamentablemente no le dieron seguimiento a esta investigación por influyentismo.
 En el gobierno de Javier Duarte en Veracruz estuvo involucrado en la administración de agua que le inyectaron a los niños con cáncer, que usted mismo nos ha comentado.
@@ -165,27 +180,56 @@ En la actualidad, el doctor está trabajando en el Issste, en el Issste de Canc�
 Todos ellos piden a usted su intervención para poder hacer justicia, porque este hospital ya es COVID y temen por su vida porque prácticamente no tienen nada con qué protegerse y lo que tienen lo tienen que comprar con su dinero.
 Gracias, presidente.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Muy bien, pues vamos a pedirle al director del Issste que atienda esta demanda. Creo que está por aquí, terminando la conferencia, que platiques con él y le des toda la información.
+---
+INTERLOCUTORA
+Muchas gracias, presidente.
+---
 PREGUNTA
+Buenos días señor presidente. Verenice Téllez, del diario nacional UnomásUno.
 Es con respecto a esta crítica que hace la Universidad Nacional Autónoma de México de que no se están considerando las estadísticas del sector indígena para el tema de COVID-19.
 Bueno, para usted y para el doctor Gatell, si nos pudiera aclarar un poco sobre cómo se está dando este tratamiento a este sector de la población, pues es la más desprotegida, sobre todo en estas comunidades rurales. Esa es mi pregunta. Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, pues no sé cómo se haya originado esta información, pero nosotros no somos corruptos, no somos deshonestos, no ocultamos información, no somos iguales a los conservadores de los gobiernos anteriores.
 Imagínese. ¡Cómo vamos a ocultar información de lo que pasa en las comunidades indígenas! Sería traicionarnos a nosotros mismos. Toda la vida hemos luchado por la justicia, en favor del humanismo. Es no mentir, no robar, no traicionar al pueblo, llevado a la práctica.
 Es parte de la campaña de los conservadores que están desesperados, desquiciados, buscando hacernos daño.
 Es como cuando inventaron que había muerto una persona del COVID y no murió, son los cuerpos que dieron a conocer en fotografías de fallecidos fuera de un hospital que eran de otro país, son los hornos crematorios de la revista Proceso. Es todo esto, toda esta campaña de desprestigio. Son las ocho columnas del Reforma: ‘México es el país con más fallecidos por COVID o está en los primeros lugares’. Puras mentiras, noticias falsas.
 No sé si Hugo quiera contestar, pero la verdad, se pasan, es una obviedad. ¡Cómo vamos a ocultar nosotros fallecidos! ¡Cómo vamos a dejar sin atención a los pobres!
-Entonces, ¿es demagogia que, por el bien de todos, primero los pobres?,  entonces ¿por qué se enojan tanto y protestan que estamos tomando en cuenta nada más a los humildes, a los pobres?
+Entonces, ¿es demagogia que, por el bien de todos, primero los pobres?,  entonces ¿por qué se enojan tanto y protestan que estamos tomando en cuenta nada más a los humildes, a los pobres?
 Pero vamos a contestar. Hugo tiene mucha paciencia.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, señor presidente.
 Efectivamente, me llama la atención su… le agradezco su pregunta, creo que es útil, a veces es más útil cuando dice de una institución: la UNAM denuncia que no están dando la información sobre comunidades indígenas.
 ¿Quién de la UNAM? La UNAM tiene 450 mil miembros en su comunidad. ¿Es una postura institucional?, ¿es una postura de un instituto?, ¿es una postura de una facultad o es un grupo de investigación o es una persona?
 Ahora, mientras lo busca, le comento…
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Quizá esto nos ayuda, porque es útil saber cuándo se dice que una institución tan noble y tan magnánima como la UNAM decir que la UNAM está haciendo una acusación de que el Gobierno de México esconde información sobre pueblos indígenas, pues esa es un señalamiento grave.
+INTERLOCUTORA
+Es un boletín de COVID-19 sobre salud pública y epidemiología.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Y quién lo presenta de la UNAM?
+Quizá esto nos ayuda, porque es útil saber cuándo se dice que una institución tan noble y tan magnánima como la UNAM decir que la UNAM está haciendo una acusación de que el Gobierno de México esconde información sobre pueblos indígenas, pues esa es un señalamiento grave.
+---
+INTERLOCUTORA
+Jorge Baruch.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, entonces el señor Jorge Baruch…
+---
+INTERLOCUTORA
+Médico responsable de la Clínica del Viajero en la UNAM.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, entonces no es la UNAM.
+---
+INTERLOCUTORA
+Okey.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La UNAM es la UNAM y tiene un rector, nuestro muy querido doctor Graue, Enrique Graue Wiechers, que es su representante legal en tanto que es el rector, tiene facultades, institutos y usted nos está diciendo que hay un médico de nombre Jorge Baruch, que es jefe de una Clínica de Medicina al Viajero, que está en la Terminal II del aeropuerto, y que es un buen médico que se dedica a medicina del viajero desde hace varios años.
 Entonces, no es un señalamiento de la UNAM, para ir disecando porque si no así es como se empieza a hacer la desinformación.
 Ahora, respecto a lo que usted pregunta vamos a responderle al doctor Baruch. Le mandamos un saludo.
 El Sistema Nacional de Vigilancia Epidemiológica de México, que es el mecanismo, el instrumento principal de incorporación de información, cubre todo el territorio nacional, lo cubre a través del Sistema Nacional de Salud, mayormente público, afortunadamente, y esperemos que así siga creciendo, que tiene también unidades de salud en zonas rurales e indígenas.
@@ -198,20 +242,30 @@ Participó el titular del Instituto Nacional de Pueblos Indígenas Adolfo Adelfo
 Y la reflexión fue precisamente sobre esta preocupación, cómo el COVID se ha desplazado a comunidades rurales. Y nos llama la atención porque en uno de los comentarios durante el foro señalamos esto, cómo había entrado el COVID a partir de viajeros internacionales con poder económico que fueron a Estados Unidos o a Europa. Y no había ningún reclamo, es una realidad constatable.
 Y luego en las noticias, como estas que estamos viendo, estas olas desinformación, el tema era una exaltación porque yo había dicho que el COVID llegó en grupos socialmente adinerados, cuando el foco de atención es la preocupación de que los no adinerados son quienes que ahora pueden sufrir el COVID.
 Claramente se ve que hay prioridades diferentes en la cabeza de cada quien, pero bueno, cada quien se preocupa de lo que se debe preocupar, nosotros nos preocupamos de las comunidades pobres, que es a quienes hay que ayudar a proteger porque nuestra obligación es proteger el interés público.
-Pero desde que empezó el COVID, y lo hemos presentado repetidamente, estamos trabajando muy coordinados con el Instituto Nacional de Pueblos Indígenas, con el Instituto Nacional de Lenguas Indígenas, con los distintos coordinadores territoriales en estados donde vive mayormente la población rural e indígena.  El procurador agrario Luis Hernández nos ayuda todos los días con información directa de terreno, de territorio sobre las comunidades indígenas, la Secretaría del Bienestar y la Coordinación de Programas Sociales también nos ayudan a llevar información, traer información y también llevar los mensajes de salud pública. Llevamos más de dos meses y medio trabajando en ello.
+Pero desde que empezó el COVID, y lo hemos presentado repetidamente, estamos trabajando muy coordinados con el Instituto Nacional de Pueblos Indígenas, con el Instituto Nacional de Lenguas Indígenas, con los distintos coordinadores territoriales en estados donde vive mayormente la población rural e indígena.  El procurador agrario Luis Hernández nos ayuda todos los días con información directa de terreno, de territorio sobre las comunidades indígenas, la Secretaría del Bienestar y la Coordinación de Programas Sociales también nos ayudan a llevar información, traer información y también llevar los mensajes de salud pública. Llevamos más de dos meses y medio trabajando en ello.
 Entonces, doctor Baruch, no la UNAM, sino doctor Jorge Baruch, creo que su respuesta ha llegado. Gracias.
 ---
 INTERLOCUTORA
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Y además tú estás haciendo bien tu trabajo, porque no es que estés preguntando de mala fe o de manera tendenciosa, lo hiciste muy bien, para que no se sienta que estás tú haciendo algo indebido. No, muy bien.
+---
+INTERLOCUTORA
+Son las dudas que surgen a partir de las notas periodísticas del día y mi obligación venir a cuestionar esto.
+Gracias.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, sí, sí.
 La compañera.
 ---
 PREGUNTA
+Hola. Buenos días, presidente.
 Yo quería preguntarle. El Consejo Nacional de Fomento Educativo entregó el año pasado 448 millones de pesos en contratos a empresarios cercanos a su director y a compañías sancionadas por el Banco Mundial.
 ¿Es esto aceptable en su administración y qué se debería de hacer para evitar eso?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues no tengo información al respecto, pero vamos a investigar.
 Pero volvemos a lo mismo, nosotros no somos corruptos. Si hay un acto de corrupción en el gobierno, se castiga a quien sea. No hay impunidad porque no establecemos relaciones de complicidad con nadie. La gente votó por un cambio verdadero.
 Y lo principal, si me preguntan de nuevo: ‘¿Cuál es el plan?, ¿qué es lo que están haciendo y seguirán haciendo?, dígalo en una frase, usted, que ni siquiera habla de corrido y dígalo además parado en un solo pie’. Acabar con la corrupción, ese es el plan.
 Porque partimos de una premisa fundamental: nada ha dañado más a México que la deshonestidad de los gobernantes. La corrupción política es lo que ha dado al traste con todo, es la causa principal de la desigualdad social, de la desigualdad económica. Por la corrupción hay desigualdad, hay pobreza, hay inseguridad, hay violencia. Por eso digo, no es epidemia, no es pandemia, es la peste más funesta que ha dañado a México.
@@ -219,13 +273,27 @@ Entonces, así como estamos atendiendo y enfrentando la pandemia del coronavirus
 Porque si limpiamos de corrupción al gobierno, si desterramos la corrupción del país, se va a lograr el renacimiento de México. Y lo vamos logrando, tan es así… ¿Cuándo se había presentado una denuncia de defraudación fiscal como la que se acaba de dar a conocer?
 Porque esto fue tolerado por muchos años y desde luego que participaban funcionarios públicos y les diría algunos empresarios, no todos, porque hay empresarios muy responsables pero, como en todos los sectores hay fichitas, y en esto también participaron medios de comunicación. Era la corrupción somos todos.
 ---
+INTERLOCUTORA
+Hay clientes, de hecho, de las factureras como la Cámara de Diputados, la UNAM, el club Atlas, Radio y Tv Hidalgo, esos, por ejemplo…
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, sí, partidos, periodistas, funcionarios públicos, gobiernos.
+---
+INTERLOCUTORA
+Todos ellos van a ser…
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Todos van a ser requeridos, no hay impunidad.
 Y qué bien que se explicó el procedimiento. Son dos niveles:
 Los, vamos a decir, autores intelectuales, los que maquinaron todo este fraude con influyentismo, las empresas factureras están bien identificadas, por eso se están presentando denuncias penales.
 Y la gente, los contribuyentes que utilizaron este procedimiento para reducir el pago de impuestos, algunos conscientes, otros sin saberlo.
-Entonces, por eso de inmediato querellas penales a los de arriba.  Son ¿cuántos?
+Entonces, por eso de inmediato querellas penales a los de arriba.  Son ¿cuántos?
+---
+RAQUEL BUENROSTRO SÁNCHEZ
+Cuarenta y tres.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Cuarenta y tres, y a ocho mil contribuyentes, personas físicas o morales. Persona física son los ciudadanos que actúan de manera personal y personas morales son las empresas, también esto porque a veces se habla y se piensa que todo mundo sabemos qué es persona física y qué es persona moral. Y todos tenemos que ir formándonos, aprendiendo, siempre se aprende.
 Bueno, son ocho mil aproximadamente que participaron en este paquete, porque no es todo, se va a continuar.
 A los ocho mil se les va a hacer llegar un aviso, una invitación, un exhorto, que sepan que les va a llegar. No sé si ponen el formato, hay un buzón especial y ahí se les va indicar a dónde tienen que acudir con el propósito de que regularicen su situación. Este es otro tratamiento.
 Si, desde luego, en el plazo de tres meses no se regularizan, pues entonces tenemos ya que proceder legalmente.
@@ -235,13 +303,37 @@ También por eso ofrezco disculpa por las molestias que pueda causar esta acció
 Entonces, las contribuciones, que ya ni siquiera quiero llamarle impuestos, las contribuciones son para que se beneficie a los demás, para ayudar a los que menos tienen, para que tengamos un buen sistema de salud pública, que si alguien se enferma no le falte las medicinas, que tenga una cama para hacer hospitalizado, que tenga un médico, un especialista, pues para eso son las contribuciones, para que se pueda financiar la educación y para sentirnos todos muy satisfechos con nosotros mismos, por ser profundamente humanos, por no estar apostando al individualismo, que no se nos endurezca el corazón, que podamos tender la mano al que lo necesita.
 Entonces, eso es lo que puedo contestarte.
 ---
+INTERLOCUTORA
+Presidente, mi segunda pregunta es sobre la violencia en Oaxaca, ayer 15 personas fueron asesinadas, la mayoría eran personas indígenas por sujetos armados. ¿Qué está pasando en la región y qué medidas va a tomar su gobierno?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues estamos ya en comunicación con el gobierno de Oaxaca. Es una situación muy triste, muy lamentable, porque es un enfrentamiento entre comunidades, vamos a decir, son diferencias que tienen en el mismo municipio, San Mateo del Mar. Es una confrontación por el gobierno municipal, por un lado son pobladores de la cabecera municipal y pobladores de comunidades.
 Siempre en… No siempre, pero suele pasar que en los ayuntamientos, los gobiernos municipales, cuando hay elecciones y queda de presidente municipal alguien de la cabecera municipal, hay el malestar de las comunidades, del municipio, porque se sostiene que lo que llega de apoyo en obras o el presupuesto del municipio sólo se aplica en la cabecera municipal y no se distribuye en las agencias. Esto genera rivalidades y confrontación. Es muy triste, muy lamentable lo que sucedió y desde luego que nosotros vamos a intervenir. Es un asunto de diferencias por la autoridad municipal.
 ---
+INTERLOCUTORA
+¿Cómo se va a intervenir, perdón?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Buscando la conciliación, que haya diálogo, que haya paz, que se evite el uso de la violencia, siempre lo hacemos.
+---
+INTERLOCUTORA
+¿Pero no con la Guardia Nacional o el Ejército?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, no, no. Cuando interviene la Guardia Nacional es para que se evite la confrontación, lo que pasa es que San Mateo del Mar está en el istmo, es una comunidad apartada, conozco he ido allá, y son autoridades de usos y costumbres, es un gobierno municipal de usos y costumbres. Entonces, tenemos que buscar la forma de que se concilie, pero no con el uso de la fuerza.
+---
+INTERLOCUTORA
+Presidente, y ya si me permite una última, aprovechando que está el canciller, ¿qué pasó con la reunión con su homólogo Donald Trump?, si se hará presencial o virtual. Gracias.
+---
 MARCELO EBRARD CASAUBON, SECRETARIO DE RELACIONES EXTERIORES
+Con su permiso señor presidente.
 Muy breve, les estaremos informando cualquier avance que haya en esa dirección. Como ustedes saben, el día 1º de julio entra en vigor el Tratado de Libre Comercio entre México, Estados Unidos y Canadá, y por lo tanto estamos en comunicación los tres países para ver cómo lo vamos a simbolizar, cómo lo vamos a acelerar, cómo lo vamos a profundizar y celebrar, pero en cuanto tenga yo información se las doy con todo gusto, al día de hoy no tenemos nada establecido.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Van los hombres, compañeros.
+---
 PREGUNTA
+Gracias. Buenos días, señor presidente.
 Es un tema relacionado con lo que presentan de la cuestión fiscal y un par de preguntas que le quiero hacer a usted. En particular, bueno, la pregunta se la dirijo a usted, aunque estoy seguro que la directora del SAT es quien puede responder con la cuestión técnica.
 El tema de ir precisamente sobre los factureros y detener este esquema de facturación fiscal es algo que es largamente anticipado, de hecho pues usted sabe, presidente, que es un principio de equidad propiciar que todos los ciudadanos y las empresas paguemos los impuestos de manera equilibrada, por lo cual evidentemente yo le felicito por tener la determinación.
 Ahora, mis preguntas son muy directas. En particular si nada más se considera el ejercicio fiscal del 2017, como dijo el procurador fiscal, o si se consideran otros. Se sabe que el Código Fiscal habla de que son siete años los fiscalizables en particular.
@@ -252,6 +344,7 @@ Preguntarle a la directora y a usted, señor presidente, si existe la posibilida
 Y si me permite, hacerle una pregunta sobre mi región.
 ---
 RAQUEL BUENROSTRO SÁNCHEZ
+Gracias, presidente. Con relación a lo de las factureras, como ustedes saben, en los procedimientos fiscales las auditorías llevan mucho tiempo, entonces hay que pedir información. El contribuyente tiene derecho a presentar también su información adicional o comprobatoria que él crea que acredite o que compruebe que lo que él hizo está bien.
 Estos procesos son muy largos, la revisión de auditoría se puede llevar desde tres a seis meses y en lo que se va intercambiando información con el contribuyente puede tomar hasta un año.
 Con el objeto de ser más eficiente y más ágil la recaudación, la estrategia fue revisar un solo año, que es 2017; sin embargo, nosotros por experiencia lo que hemos observado es que una empresa que tienen un comportamiento irregular, lo repite.
 Entonces, tomamos el 2017 y sabemos que seguramente el 2018, el 2019 y el 2020, si la empresa sigue operando, sigue usando el mismo, sigue operando de la misma manera. Entonces, lo que hacemos es: para hacer más eficiente la recaudación, porque ahorita lo que necesitamos son recursos para las necesidades de los gastos corrientes, revisamos un solo ejercicio, nos traemos a las empresas o a los contribuyentes que están irregulares, pero ya sentados con nosotros entonces ya revisamos todos los años. Eso permite una recaudación más ágil sin necesidad de hacer auditorías.
@@ -265,9 +358,11 @@ Ahorita en estos momentos, desde el día de ayer, la gente me está haciendo alg
 ¿Era otra pregunta, perdón?
 ---
 INTERLOCUTOR
+Sí, era el tema de que hay muchas personas, sobre todo físicas, aunque también morales, que por alguna razón, quizás por omisión, quizás por imposibilidad de hacerlo en su momento, tienen moras, atrasos. ¿Existiría algún plan diseñado ex profeso para que estas personas puedan regularizarse?
 Entiendo que muchas de estas personas no son omisos por su voluntad y que quisieran colaborar y contribuir con el gobierno de la Cuarta Transformación pagando sus impuestos regularmente; sin embargo, los montos, quizás, o la complicación de las declaraciones multianuales se los impiden.
 ---
 RAQUEL BUENROSTRO SÁNCHEZ
+En general todo el proceso que ha hecho el SAT todo este año ha sido de invitación, a todo el contribuyente que se pueda o se quiera regularizar se le ha ofrecido asesoría, se la ha orientado para que se autocorrija.
 Cuando asisten a las oficinas del SAT, ya sea en el caso de grandes empresas, también tenemos horarios, digamos, y oficinas para recibirlos, así como las personas o las empresas más pequeñas que van a las oficinas recaudatorias se les da una asesoría para hacer una autocorrección.
 Y con el objeto de no generar discriminación y con el afán de generar una nueva cultura fiscal donde todo mundo pague, lo que estamos haciendo es que nosotros por Código Fiscal de la Federación, el artículo 74 nos permite hacer disminuciones de lo que se llama multas y recargos.
 Como lo dijo hace un momento el procurador fiscal, ya hubo cambios en la Constitución donde no hay condonación de impuestos. El impuesto se va a entender como el monto histórico, que fue lo que no se pagó en su momento, más lo que le llaman la actualización, que no es otra cosa más que pegarle el equivalente a la inflación y traerlo al año actual.
@@ -276,6 +371,7 @@ Cuando aplica conforme al Código Fiscal una disminución de las multas y de los
 Sí se están presentando las facilidades, no se pueden dar de manera generalizada porque obedece a la situación que cada contribuyente tenga en su momento.
 ---
 INTERLOCUTOR
+Omití presentarme. Demian Duarte, de Pasión por los Negocios, Política y Rock and Roll Radio, Lobos FM, de Sonora.
 Señor presidente, le quiero hacer una pregunta en particular, son dos temas sobre una misma región, una en particular, es una región que nos duele en Sonora, que es Guaymas, muy en específico. Me contactaron un grupo bastante grande de pescadores de Guaymas, muy preocupados y sobre todo con muchas ganas de trabajar, representan a ellos a mil 200 familias del puerto.
 Y ellos están muy preocupados por el tema de las concesiones pesqueras. Estamos hablando precisamente de 200 concesiones pesqueras que atienden a la zona de Guaymas en particular, se entiende que en Sonora en general hay 40 concesiones de este tipo enfocadas a la pesca de camarón.
 Estas concesiones curiosamente este año, 2020, se vencen, se cumplen 30 años de que fueron entregadas en una estrategia que yo pudiera llamar del neoliberalismo para poner en manos del sector privado esto que son el tesoro de nuestro mar, en particular del mar de Cortés, que es el camarón.
@@ -289,6 +385,7 @@ Ellos lo que consideran es que se ha cometido una injusticia con el presidente, 
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, en el caso de los pescadores, aprovecho para informar a todos los pescadores y también al pueblo de México que se les está ayudando a todos los pescadores, se están entregando apoyos a 180 mil pescadores del país, tanto del Pacífico como del golfo, se están entregando estos apoyos.
 Nada más les quiero recordar a los pescadores, amigos, primos hermanos, de que ese apoyo que se está entregando en estos días es para toda la familia que, aunque es poco, debe de repartirse y que hay que llevarlo a la casa, que no se quede en otros sitios.
 ¿Por qué este programa?
 Porque los pescadores ayudan mucho para que haya vedas y que no se sobreexplote el mar, los ríos, que no se termine con las especies, sea el pescado, sea el marisco y hay que apoyarlos.
@@ -296,7 +393,17 @@ Antes no se les apoyaba o se hacía a través de organizaciones, los mismo que h
 Y tomamos en cuenta lo de los permisos. Si son pescadores, no van a tener ningún problema. No debe de haber favoritismo, influyentismo, corrupción en la entrega de los permisos. Ya el coordinador de pesca seguramente está tomando nota, el secretario de Agricultura y vamos a hacerles llegar este planteamiento.
 Si se vencen sus permisos, no va a haber problemas para que los puedan renovar.
 ---
+INTERLOCUTOR
+No solo de ellos, sino los que están en manos…
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Se revisan, se revisan para que no haya acaparamiento.
+---
+INTERLOCUTOR
+Quedaban muchos en manos de familias, pero incluso algunos políticos no de ahora, sino de antes se hicieron de la manera de…
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, pero ahora todo está en revisión para que no haya monopolios, no haya acaparamiento y se apoye a los más necesitados.
 Acerca del presidente Adolfo De la Huerta es un personaje de primer orden que, en efecto, ha sido olvidado y fue un hombre íntegro, una gente honesta, fue el que entró a la Presidencia luego del asesinato del presidente Venustiano Carranza.
 A él le tocó, sin el acuerdo del entonces hombre fuerte, Álvaro Obregón, o sin el acuerdo del todo de Álvaro Obregón, negociar con Francisco Villa. Esta negociación se llevó a cabo en Coahuila, a partir de esa negociación se le entregó a Villa la hacienda de Canutillo, en Durango, muy cerca de Parral, donde fue después asesinado.
 Hubo un movimiento que se le conoce como el movimiento delahuertista, él se fue al exilio, al extranjero, y allá murió. Era compositor y era músico, y murió siendo un hombre íntegro, pobre, vamos a decir, después de haber estado de presidente de México.
@@ -307,15 +414,37 @@ Por ahí por Guaymas, bueno, es toda la historia, por ahí se fue al exilio tamb
 Dos, ustedes dos.
 ---
 PREGUNTA
+Señor presidente, una pregunta en relación con el problema de las factureras. Ahorita usted mencionó y confirmó que efectivamente fue una denuncia que surge de un problema que es convalidado por los exfuncionarios.
 Yo quisiera saber concretamente si hay algún funcionario, exfuncionario, que haya sido o que será hoy involucrado en la querella, porque era evidente que inclusive ellos promocionaban y se decía que cobraban comisiones sobre el tema.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí hay.
+---
+INTERLOCUTOR
+¿De primer nivel?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No sé si del primer nivel de los que están en la querella.
+---
+RAQUEL BUENROSTRO SÁNCHEZ
+Es tercer nivel.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Tercer nivel, pero de los ejecutivos, de los que decidían, machuchón. Sí, hay de todo.
 Pero quedamos de que por respeto a la dignidad y al debido proceso vamos a que esto se resuelvan en las instancias judiciales y que también los ocho mil contribuyentes reciban, porque es un asunto confidencial su notificación, nadie se va a enterar, para que puedan ponerse al corriente.
 ---
-PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
-Entonces, si yo me entero de que están comprando votos, de que están utilizando el dinero del presupuesto para favorecer a un partido, a un candidato, como cualquier ciudadano estoy obligado a denunciarlo ¿o no puedo?
+INTERLOCUTOR
+También preguntarle, señor presidente, que usted ayer manifestó que la posición del gobierno era vigilar o se quería vigilar las elecciones; sin embargo, el presidente del INE Lorenzo Córdova afirmó que el guardián de las elecciones es el INE. ¿Esto va a generar un conflicto de intereses o de poder?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, no, no. Ellos son los que tienen esa encomienda, legalmente al INE le corresponde, pero el presidente de México puede opinar, puede ejercer su derecho de manifestación, como cualquier ciudadano.
+Entonces, si yo me entero de que están comprando votos, de que están utilizando el dinero del presupuesto para favorecer a un partido, a un candidato, como cualquier ciudadano estoy obligado a denunciarlo ¿o no puedo?
+---
+INTERLOCUTOR
+¿No está la Fepade también?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Claro. Si conozco un acto ilícito, si acabamos de hablar de no al contubernio, no voy a ser yo tapadera.
 Mi pecho no es bodega, siempre digo lo que pienso, ellos hacen su trabajo y yo como ciudadano y como presidente quiero que en este país no haya fraudes y quiero que no haya simulación, que nadie se haga de la vista gorda, sino que se respete la voluntad del pueblo, porque es un derecho sagrado, pues ese fue el lema de Madero ‘Sufragio efectivo no reelección’.
 Hay una entrevista que le hacen al presidente Madero antes del triunfo de la revolución maderista que acaba con el porfiriato, y habla de la democracia. Voy a traer ese texto, es de cómo él dice: ‘Hay muchas demandas, hay grandes y graves problemas nacionales, pero al llegar yo a la Presidencia -de ahí retomé lo guardián- me voy a convertir en el guardián de los derechos y de las libertades del pueblo y voy a garantizar el voto libre, elecciones limpias y libres’.
 Es un compromiso, no sé por qué se molesta el presidente del INE. Todos debemos de ayudar, todos, todos, todos, a denunciar si sabemos de un fraude.
@@ -324,15 +453,24 @@ Nada más para los jóvenes, los más jóvenes que nosotros, ¿saben que cuando 
 Pues en respuesta a nuestra denuncia nos presentaron también a nosotros una denuncia acusándonos de que habíamos rebasado el tope de campaña. ¿Y saben quién terminó acusado de rebasar el tope de campaña?
 Nosotros, o sea, lo mismo en el 2006. Pero todo eso está probado. Había una… Ah, bueno, creo que es la misma o ya se modificó, había una procuraduría de delitos electorales...
 ---
+INTERLOCUTOR
+Fepade.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Fepade, me acuerdo que era una abogada la que estaba ahí.
 Y se demostró que de Los Pinos salían las llamadas de la guerra sucia en contra nuestra, se demostró.
 Entonces, se presentó la denuncia, se hizo la investigación, la institución esta llegó a la conclusión de que, en efecto, ahí estaba el centro de operaciones en Los Pinos en contra nuestra, en la campaña de 2006, pero que no estaba considerado como delito grave y que, por lo tanto, no había nada que hacer.
 ¿Cómo es que dicen los abogados cuando le quieren dar carpetazo a un asunto?
 ---
+INTERVENCIÓN
+(Inaudible)
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, prescribe, pero dicen: ‘Por notoriamente improcedente’, pero, en fin.
 Allá.
 ---
 PREGUNTA
+Gracias. Buenos días. Esteban Durán, México Pública Diario y Jalisco Pública Diario.
 Presidente, un integrante de su gabinete, propiamente el titular de Seguridad Ciudadana aspira a la gubernatura de Sonora.
 ¿Qué opinión le merece su gestión al frente de la Secretaría de Seguridad Ciudadana, cómo lo maneja usted, ha estado bien, le daría su palomita para que se fuera al gobierno de Sonora?
 Y en cuanto a los proyectos, el proyecto del Tren Maya, presidente, ¿cómo va este proyecto?
@@ -341,6 +479,7 @@ Y, finalmente, con el Aeropuerto Felipe Ángeles ¿se entregará en tiempo y for
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, acerca de lo primero no quiero opinar, por lo pronto, estoy en huelga.
 Acerca de lo segundo, bueno, para no dar pie a malas interpretaciones sí diré que el secretario de Seguridad Pública es de primera, me ayuda mucho. Nada más.
 Lo de lo otro es cuestión política-electoral, eso en su en su momento.
 Si me preguntan: ¿Cómo está actuando?
@@ -400,3 +539,25 @@ Entonces, vamos a salir adelante, estamos saliendo adelante.
 Ánimo.
 Nos vemos mañana.
 Quedan pendientes.
+---
+PREGUNTA
+Presidente, el Puerto de Veracruz (inaudible).
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+El puerto de Veracruz.
+---
+PREGUNTA
+Presidente ¿la semana próxima sale a gira?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Esta.
+---
+INTERLOCUTOR
+¿La próxima semana no?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No sé todavía.
+---
+INTERLOCUTOR
+Todavía no sabe.
+Gracias.

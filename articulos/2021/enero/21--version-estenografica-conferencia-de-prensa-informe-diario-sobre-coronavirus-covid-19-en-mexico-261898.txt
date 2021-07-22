@@ -1,0 +1,248 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+21 de enero de 2021
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas noches todas y todos los aquí presentes, así como a todas las personas que nos sintonizan a través de los diferentes medios de comunicación y también redes sociales.
+Estamos en el Palacio Nacional, en la Ciudad de México y vamos a dar inicio a la conferencia informativa en relación a la pandemia de COVID-19 en México. En unos minutos más se integra también a la misma el subsecretario de Prevención y Promoción de la Salud, doctor Hugo López-Gatell.
+Vamos a iniciar actualizando los números, la estadística para esta noche. Vamos a pararnos. Muy bien, muchas gracias.
+Aquí tenemos la actualización para el día de hoy, el corte de la base nominal que obtenemos a través del Sisver, que es nuestro sistema informativo en línea a través del cual las 32 entidades federativas reportan todos los días sus casos clasificados como sospechosos de COVID y en los cuales en el transcurso de los días también los clasifican como confirmados a la enfermedad finalmente o descartados en función de los resultados de laboratorio.
+Aquí lo vemos, precisamente la curva de color azul superior es los casos que hasta este momento estimamos en base a los datos que tenemos en la plataforma del Sisver, son casos ya confirmados de COVID-19. Estos son todos los que salieron ya positivos a la prueba de laboratorio, ya sea de PCR o antigénica, positivos al virus SARS-CoV-2.
+Y además le sumamos por porcentaje de positividad aquellos que puedan tener todavía una muestra pendiente de resultado o pendiente de clasificación y entonces, obtenemos esta imagen que vemos en la curva azul superior, que nos permite evidenciar el comportamiento de la epidemia en el país desde que inició la misma a fines del mes de febrero.
+Como vemos, desde que inició la temporada invernal prácticamente hemos tenido un incremento continuo en la generación de contagios y por lo tanto de casos. Este incremento continúa en las últimas semanas y específicamente para el comparativo entre la semana 53, que fue la última semana del 2020, y la primera del 2021 este incremento es del más 10 por ciento. El día de hoy es jueves, todavía tenemos dos días más en los que este porcentaje puede continuar incrementándose.
+También tenemos representada la curva de personas que se han recuperado. Esto también es importante resaltarlo porque sabemos que al alrededor del 80 por ciento de los casos de COVID-19 suelen tener un comportamiento que no genera complicaciones si se consideran como casos de COVID leve, que aunados a el otro grupo de personas que algún momento se hospitaliza, pero se recupera, son dados de alta o egresan por mejoría, entonces suman a la cantidad de personas que se han recuperado para la enfermedad, que para el día de hoy ya son más de un millón 277 mil.
+Los casos activos estimados siguen representando el seis por ciento en proporción de la totalidad de los casos estimados, y precisamente son los que han enfermado, y por lo tanto desarrollado signos y síntomas en los últimos 14 días, y tenemos este seis por ciento que prácticamente se ha manejado desde que inició la semana epidemiológica que estamos presentando.
+Vemos la siguiente diapositiva, por favor. El comportamiento del porcentaje de positividad. Ya decíamos, este comportamiento ondulante que en su momento sube y baja dentro de parámetros de entre el 40 y 45 por ciento. Para la semana epidemiológica número 1 precisamente está en el 45 por ciento, y es el comportamiento similar que teníamos en semana anterior graficada que es la 53 última del 2020.
+Hasta el momento se han notificado en la plataforma de Sisver ya más de cuatro millones 299 mil personas que han sido clasificadas como sospechosas y de las cuales a su vez se han clasificado como casos confirmados un millón 711 mil 283; pero así también han dado negativo a algunas de las dos pruebas confirmatorias, PCR o antigénica, dos millones 160 mil 822 personas.
+Si vemos la siguiente diapositiva, también sin muchos cambios lo que significa el porcentaje o la tasa de letalidad en relación aCOVID-19, que para la semana 1 es del siete por ciento.
+¿Esto qué representa?
+De cada 100 personas que se confirman a COVID-19, cada 100 personas que enferman y son confirmadas para COVID-19, lamentablemente siete de ellas fallecen en la semana epidemiológica número 1. Hemos visto cómo este porcentaje ha ido disminuyendo a partir de la semana 18 del año pasado y en las últimas semanas ha mantenido este nivel.
+Son 146 mil 174 las personas que de manera acumulada pertenecen al grupo de lamentables defunciones.
+La siguiente diapositiva vemos la ocupación hospitalaria en estos tres rangos básicos: más de un 70 por ciento de ocupación hospitalaria, en estos tres rangos básicos:
+Más de un 70 por ciento de ocupación, nueve entidades federativas. A su vez la que mayor ocupación reporta es precisamente a Ciudad de México, con 89 por ciento.
+Podemos notar que esta ocupación de 89 por ciento o un promedio, o alrededor de este 89, 90 por ciento, es lo que la ciudad ha reportado prácticamente en las últimas, dos, tres semanas, y esto no quiere decir que no estén llegando más pacientes a hospitalizarse, de hecho, la tasa de hospitalización o la cantidad de pacientes que llegan día a día ha continuado en su momento incrementándose, pero la ocupación se ha logrado mantener entre el 89, el 90 por ciento precisamente como un resultado de los trabajos de reconversión y expansión, es decir, que día a día a la par de que más personas requieren una cama de hospital, asimismo, se genera una cama de hospital nueva a través de la reconversión o la expansión.
+Y situaciones similares de seguro encontramos en Guanajuato, Estado de México, Nuevo León, Hidalgo, Puebla, Morelos, Guerrero y Nayarit que son las nueve entidades que están en este grupo.
+En el siguiente rango, entre 69 y 50 por ciento se encuentran ocho entidades, 64 por ciento en el caso de Querétaro y apenas cruzando el nivel del 50, con un 51 por ciento Baja California y también Jalisco con un 52 por ciento.
+Y son 15 las entidades federativas que tienen más de la mitad, algunas de ellas más del 70, más del 80 por ciento de sus camas todavía disponibles para pacientes graves.
+Si vemos la siguiente diapositiva vemos ahora específicamente las camas con ventilador, en donde ahora son tres entidades y siempre han sido tres entidades en las últimas semanas, las que tienen este nivel de ocupación mayor al 70 por ciento: Ciudad de México, Estado de México y Nuevo León.
+Pero si, igualmente, vemos los porcentajes, éstos se han mantenido en estas últimas semanas, lo que quiere decir que la reconversión y la expansión para camas con ventilador también está funcionando en la medida que cada vez que se requieren este tipo de camas se están generando las camas necesarias para poder atender a las personas.
+Ocho entidades ahora en el rango de entre 69 y 50, están aquí representadas; y 21 entidades, todavía la gran mayoría, para efecto de las camas críticas, tienen más de la mitad de sus camas desocupadas; de hecho, a nivel nacional se tienen cuatro mil 976 camas disponibles con ventilador al día de hoy.
+Es la actualización de la estadística.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Gracias, doctor José Luis Alomía.
+Son las 19:18 horas. Continuamos con la conferencia de prensa diaria sobre COVID-19 y hablamos de las vacunas, la vacunación contra COVID, iniciamos el 24.
+El programa está dividido en cinco etapas, la etapa 1 es personal de salud de primer contacto, son 11 categorías laborales, no solamente médicas y médicos, y enfermeras y enfermeros, y también incluye al sector privado que desde ayer se está vacunando de manera muy amplia, las equivalencias del personal de salud en el sector privado, lo que corresponda a lo que se vacuna en el sector público será igual en el sector privado.
+Y tenemos ya el uso del nuevo paquete de vacunas que llegó el pasado martes, hoy se aplicaron 49 mil 753 dosis hasta el corte de las cuatro de la tarde, de las 16:00 horas, aquí está.
+Y es probable que mañana veamos que se puso algo más porque permanecen abiertas las unidades de vacunación, generalmente a veces hasta horas de la noche y tendremos el reporte actualizado, pero hasta las 4:00 de la tarde en preparación a esta conferencia se habían puesto caso 50 mil dosis de vacuna hoy mismo.
+Esto lo que nos permite es ver la acumulación. Y vean ustedes cómo tuvimos un periodo de calibración en donde vacunamos exclusivamente en unidades militares al personal de salud de primera línea, después llegó un paquete grande de 439 mil dosis y pudimos tener aplicaciones muy aceleradas, 150 mil dosis en el primero de estos días de la fase de expansión, todo esto dentro de la etapa 1, personal de salud de primera línea.
+Después hemos completado vacunación en algunas unidades, en espera de que llegara el nuevo paquete, ya llegó el nuevo embarque y hoy pusimos casi 50 mil dosis y volvemos a estar a esa velocidad.
+¿Por qué destaco todo esto?, ¿y por qué insisto en comparar con el curso general de la vacunación?
+Porque el Gobierno de México está preparado para usar las vacunas. El factor limitante no es la capacidad de ponerles, el factor limitante es que se fabriquen, y este es un factor limitante para el mundo entero. Y conforme los países que tuvimos la oportunidad, y la aprovechamos, de tener oportunamente vacuna contra el COVID y la recibimos en diciembre, México fue el primer país de América Latina en empezar a vacunar, y estuvo dentro de los primeros 10 países del mundo que empezó a vacunar. Estamos listos para seguir poniendo la vacuna tan pronto esta sea fabricada y enviada a nuestro país.
+Y recordar que tenemos contratos con Pfizer, con Astra, con CanSino, con Covax, el mecanismo de colaboración de la OMS.
+Este próximo 29 de enero Covax va a emitir ya cuál es su plan de abastecimiento, su plan de distribución de vacunas para el mundo y México está al día con los requerimientos para la primera y la segunda rondas de dotación por parte del mecanismo Covax, se pagó en su momento también anticipo a todos estos contratos.
+Se sigue explorando la oportunidad de tener otros contratos, es posible que tengamos ya en algún momento pronto el cierre de contrato con la vacuna rusa Sputnik V y en su momento, si se autoriza por parte de la Cofepris y se cierra el contrato, también incorporaremos Sputnik V, está ya en el plan de uso tentativo.
+Dependiente, desde luego, que se cierre el contrato y que sea autorizada, de eso no debe haber duda alguna, no se puede usar un producto que no es contratado y por supuesto tampoco se puede usar un producto que no tiene autorización sanitaria con base en la evidencia científica disponible.
+Y tenemos ya también una propuesta de contrato por parte de la compañía Janssen. Janssen es una compañía del Grupo Johnson & Johnson que está realizando en México también su ensayo clínico fase 3.
+Aquí vemos cómo vamos completando las segundas dosis. Recordamos, para cualquier persona que pudiera haberse confundido por algunas noticias desinformadas de ayer, nunca se ha pensado en cancelar las segundas dosis, las segundas dosis son importantes.
+¿Cuál es la utilidad de las segundas dosis?
+Aumentar el beneficio que puede dar la vacuna, es decir, incrementar la eficacia que se puede obtener. Eficacia, para decirlo en términos simples, es la potencia de protección que puede tener la vacuna y la potencia de protección se mide como el porcentaje de reducción del riesgo de ser una persona que padezca COVID.
+Y lo que tenemos es que, con la primera dotación, con la primera aplicación de la vacuna de Pfizer se obtiene 80, un poco más de 80 por ciento de la protección y con la segunda esto sube hasta arriba del 90 por ciento, cerca del 94 por ciento.
+Si la segunda dosis se pone exactamente a los 21 días se sigue lo que se identificó de manera primaria en los ensayos clínicos; sin embargo, la Organización Mundial de la Salud desde diciembre y lo ratificó este 8 de enero ha recomendado que se podría ampliar la cobertura de vacunación si es que se pone la vacuna en segunda dosis, no en el día 21, sino en el día 28, y recientemente, su recomendación más reciente, es que podría ponerse incluso hasta 42 días después sin que afecte en modo alguna la potencia que se logra ni la duración de la inmunidad.
+Estamos en espera de la comunicación oficial, formal del grupo técnico asesor de vacunación sobre esa posibilidad de extender el periodo entre las dosis. Si la recomendación es favorable, nos daría flexibilidad de diferir, no de cancelar, diferir, posponer, programar para una fecha posterior, no superior a 42 días la segunda dosis. Pero que quede muy claro: no es cancelación, no es cancelación.
+Y segundo, todas las personas que han sido vacunadas en primera dosis hasta el momento está garantizada su segunda dosis.
+Y aquí lo que vemos es cómo van progresando las primeras dosis y las segundas dosis. Este número es parte de este número porque aquí está incluida la primera dosis de estas 18 mil 18 personas que aquí se está contabilizando su segunda dosis.
+Y por eso podemos ver el porcentaje de avance, tres por ciento esto con respecto a aquello, de estas 552 mil 335 vacunas aplicadas.
+Veintidós por ciento del paquete que llegó hoy, bueno, que llegó el martes, y que se distribuyó ayer, y que hoy se empezó a poner 22 por ciento, la quinta parte de este paquete de más de 219 mil dosis que fueron distribuidas.
+Aquí se ve la distribución por las entidades federativas, algunas tuvieron un progreso muy rápido como Aguascalientes, como el estado de San Luis Potosí.
+Y aquí se ve el avance en el uso de los paquetes y tenemos que ahí es como se va utilizando. Recordar que teníamos reservadas en el Instituto Nacional de Cancerología 35 mil dosis que fueron precisamente guardadas para proteger la posibilidad de garantizar la segunda dosis.
+En este momento ya fueron desplazadas y van a ser utilizadas próximamente, se quedan en estas reservas con el mismo propósito. Y las dosis pérdidas son menos de 0.15 por ciento y representan 846 dosis.
+Finalmente, los eventos supuestamente atribuibles a vacunación e inmunización, las reacciones secundarias para decirlo de manera más simple, Esavi se llaman técnicamente, eventos supuestamente asociados a vacunación e inmunización.
+La enorme mayoría de estos eventos son la respuesta esperable, natural del organismo humano ante el hecho mismo de ser inyectados y también a recibir una sustancia, en este caso la vacuna, que provoca una respuesta inmune. Entonces, puede haber dolor, puede haber mareo, puede haber nausea, puede haber vómito, puede haber fiebre, dolor muscular, generalmente todos estos síntomas son menores y se resuelven de manera espontánea. Representan 0.5 por ciento o cinco por mil de las personas vacunadas o de las dosis aplicadas.
+Hasta el momento contabilizamos dos mil 817 y queda muy claro que este número, como lo actualizamos todos los días, estará creciendo. Y ojo, porque en algún momento será un número muy grande, pero mientras represente un número muy pequeño en porcentaje respecto a las dosis aplicadas y que se mantenga estable, no hay razón para preocuparse, particularmente porque la gran mayoría son no graves, como digo, y aquí informamos sobre los que pueden ser graves.
+Tanto la distribución en hombres y mujeres, como la edad y también cuál es el estado actual, 28 de estos 34 ya se fueron a su casa y están sin ninguna secuela; seis, que no son los mismos seis necesariamente de ayer, son personas que a lo largo de la vacunación han estado teniendo estas reacciones.
+La gran mayoría son reacciones de tipo alérgico con distintos grados de intensidad y salen a casa posteriormente, sin dejar secuelas, es muy importante tener presente: no tenemos registradas secuelas de la vacuna y no ha ocurrido este fenómeno.
+La siguiente. Me parece que es la última. Perfecto.
+Vamos a abrir entonces a preguntas y comentarios. Vamos a empezar con Natalia Vitela, Liliana Noble, también usted, por favor.
+---
+PREGUNTA
+Gracias. Buenas noches, doctor.
+Tengo tres preguntas. Lo primero que quiero preguntarle es sobre por qué los estados no pueden adquirir las vacunas directamente. Entiendo que hoy hubo una reunión y está esta petición por parte de los estados. Esa sería la primera.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por preguntarlo, Natalia, porque así comentamos con el público lo que efectivamente hoy volvimos a comentar, no es la primera vez que lo comentamos, volvimos a comentar con los gobernadores, la gobernadora de Sonora y la jefa de Gobierno de la Ciudad de México en esta reunión que tenemos frecuentemente, a veces cada semana, a veces cada 15 días, con la Conferencia Nacional de Gobernadores.
+La reunión, recuerden, la organiza la secretaria de Gobernación, la doctora Sánchez Cordero y participan distintos funcionarios y funcionarias federales, el segmento de salud desde luego lo coordina el secretario de Salud y participamos los funcionarios del sector.
+Y hoy explícitamente o directamente el gobernador Mauricio Vila Dosal, es gobernador de Yucatán y es presidente de la Comisión de la Salud de la propia Conago, hizo, como acostumbra, de manera muy respetuosa y muy clara, este planteamiento de si las entidades federativas podrían en un momento comprar vacuna y solicitó algún lineamiento técnico, porque en conversaciones previas habíamos comentado que podría existir, en todo caso si eso ocurriera, un lineamiento técnico.
+Aquí viene la razón, vamos a explicarlo de manera puntual, empezando por entender la situación mundial. Una pandemia, una pandemia es una epidemia que afecta a todo el mundo y en este momento todo el mundo, literalmente todo el mundo, no es una metáfora, es todo el mundo, toda la humanidad, vaya, toda la especie humana está afectada por esta epidemia.
+La producción de vacunas es limitada, primero, porque hay pocos proyectos de vacuna que han terminado su fase de investigación y de desarrollo y han probado ser de calidad, seguras y efectivas o eficaces, y pocas han logrado autorización de uso de emergencia.
+Segundo, porque dentro de ese conjunto, que hasta el momento son 11 con demostrada eficacia y seguridad, no todas todavía con autorización de uso de emergencia en suficientes países, están fabricando las vacunas, las vacunas no existían, evidentemente no existían y las están fabricando.
+La velocidad a la que se pueden fabricar uno quisiera que fuera inmensamente grande hasta alcanzar la necesidad, pero ¿cuál es la necesidad mundial?, el número de habitantes del mundo, más de siete mil millones, el mundo tiene más de siete mil millones de millones y uno necesita siete mil millones de dosis de vacunas; de hecho, el doble porque la mayoría tienen dobles esquemas, 14 mil millones de vacunas.
+Es muy importante tener claro que no es realista pensar que eso va a ocurrir en una semana, en un mes, en seis meses, quizá no en todo el año. Las predicciones o las proyecciones son que, si nos va bien -estoy hablando del mundo hasta el momento- si nos va bien tendremos suficientes vacunas para vacunar a la población mundial, por allá del año 22, 2022, el mundo.
+Muy pocos países hemos tenido acceso a las vacunas porque los gobiernos de esos países, incluido el de México, hemos hecho gestiones para conseguir la vacuna y las hicimos con mucha oportunidad, y eso depende mucho de la capacidad del propio país, incluyendo su servicio exterior.
+Y aquí agradecemos mucho siempre al canciller Marcelo Ebrard y a su equipo, porque gracias a las gestiones, muy oportunas que hizo, pudimos tener acceso a esas oportunidades.
+Depende también del dinero que tengan los países, México es un país de ingresos medios altos y tenemos un gobierno que tiene una clara prioridad en la salud. Entonces, están destinando dineros, recursos, del Tesoro Nacional a comprar las vacunas. No todos los países tienen esa situación, de hecho, la minoría tiene una situación afortunada en ese sentido.
+¿Cuál es la consecuencia? Y vamos a verlo en términos meramente técnicos, científicos, epidemiológicos.
+En la medida en que haya países que no tienen acceso a la vacuna y no logran tenerla, porque no la consiguen, porque es muy cara, porque ya se la llevaron otros países, entonces la epidemia seguirá activa en esos países.
+¿Cuánto tiempo?
+No se puede predecir, pero en principio es de manera sostenida, un año, dos años, tres años, cuatro años, en los demás países distintos a aquellos que pongan suficientes cantidades de vacuna.
+Y ahí es donde viene el problema de la especulación.
+¿Por qué la especulación, por qué la concentración de vacuna es tan adversa?
+Hace unos pocos días de esta semana el director general de la Organización Mundial de la Salud ponía un énfasis muy grande, hablaba de un fracaso de la humanidad. Por cierto, se relaciona con lo que me preguntaba Héctor hace un par de días, porque fue el mismo mensaje que dio la directora general de la Organización Panamericana de la Salud. El énfasis en la idea del fracaso es que la humanidad no se sepa organizar y entonces que no sepa que el beneficio colectivo es la mejor oportunidad de controlar esta epidemia, el beneficio egoísta, pocos, no ayuda tanto al control de la epidemia.
+Ahora bien, sigo hablando del mundo, pero ahorita voy a hacer el símil y van a ver la perfecta conexión entre el mundo y un país, y el país y sus territorios, en este caso, los estados.
+La oferta, es decir, la cantidad de vacunas claramente es menor que la demanda, la necesidad de vacunas. Y como dije, todavía no está claro cuándo llegaremos al punto en que la oferta, la cantidad de vacunas existentes y disponibles sea al menos igual que la demanda, la necesidad o, mejor aún, más que la demanda, porque eso además ayudaría a tener vacunas más baratas, más fácilmente disponibles, etcétera.
+Este asunto de que no nos pongamos de acuerdo como humanidad, como naciones, como países, como Estados miembros de la Organización de las Naciones Unidas o la Organización Mundial de la Salud, lleva a no lograr la forma más efectiva, eficiente, óptima del control epidémico mundial. Y obviamente desde el punto de vista técnico es muy frustrante porque eso perpetúa el drama humano de sufrimiento que nos causa el virus SARS-CoV-2.
+Llevemos la escena ahora a un país y hablemos de México. Esto que estoy diciendo es exactamente lo que le respondí, por supuesto, con todo el respeto que me merece al gobernador Vila, de Yucatán.
+Si al interior de un país hay un plan nacional, una estrategia nacional de vacunación contra COVID, que lleva meses desde que se preparó y que quienes recomendaron el diseño de esta política nacional son personas altamente calificadas, por ejemplo, el presidente del Comité Asesor Estratégico de Vacunación de la Organización Mundial de la Salud, por ejemplo, alguien que ha formado parte de ese comité y es todavía miembro del Comité Técnico Asesor de la Organización Panamericana de la Salud, y un grupo que hemos hablado de ellos son 21 personas expertas en distintos campos desde la virología, la infectología, la epidemiología, la economía de la salud, los derechos humanos, la bioética, etcétera, hizo un plan y es un plan estratégico nacional, piensa en todo un país, para lograr ese plan necesitamos tener abasto de vacunas y poderlas usar coordinadamente entre todo el país. Dicho sea de paso, como habitualmente funciona los programas de salud pública, incluyendo el programa de vacunación universal que tenemos desde hace muchos años.
+Si en vez de eso cada quien empieza a velar por sí mismo, en esto que estoy comentando, el sí mismo sería cada entidad federativa, entonces tendríamos alguna entidad federativa que quisiera vacunar a jóvenes y otra quisiera vacunar a adultos mayores y una quisiera vacunar en zonas rurales y otra quisiera vacunar a trabajadores de cierto sector.
+El impacto positivo, el efecto positivo de una estrategia nacional se diluye porque cada quien hace un modelo de operación diferente y se aleja de objetivos científicos, posiblemente para converger en otro tipo de objetivos, no digo que legítimos, sencillamente cada quien el suyo.
+Entonces, desde el punto de vista técnico y esta fue la frase que utilicé al final para responder, insisto, con todo el respeto que me merece, además me parece una persona muy agradable, el gobernador Vila, de Yucatán, le dije: Desde el punto de vista técnico el lineamiento es recomendar que eso no se haga, que eso no se haga, porque entonces cada quien va por la suya y no estamos hablando de una estrategia de Estado, del Estado nacional, que se llama Estados Unidos Mexicanos, sino como si no fuéramos un país y fuéramos simplemente una comunidad desordenada, anárquica. Esa fue la respuesta en términos generales.
+Ahora bien, que quede claro, lo ha dicho el presidente López Obrador en muchos, muchos contextos: no se trata de prohibir, no se trata de imponer, se trata de llegar a consensos y para llegar a consensos lo que se requiere es voluntad, consciencia del interés superior de la nación y no de las partes de la nación.
+Termino poniendo una analogía que creo que para mandatarios estatales puede ser útil: qué tal si en un estado ahora fueran los municipios los que quieren comprar la vacuna y cada uno la pone de la manera que quisiera. Los mandatarios y las mandatarias estatales experimentarían directamente la consecuencia de ese desorden en donde cada quien quisiera hacer su voluntad de acuerdo a distintos modelos de interpretación de la salud pública.
+Más aún, pensamos ahora al interior de un mismo municipio que cada poblado quisiera tomar decisiones, comprara vacuna y la pone de la manera que quisiera.
+Y ahora, al interior de cada poblado, cada colonia quisiera hacerlo suyo y al interior de cada colonia cada familia quisiera hacerlo suyo.
+Entonces, cuando uno piensa en orden, cuando uno piensa en diálogo, cuando uno piensa en el interés superior, generalmente llega a la conclusión de que colectivo es mejor que lo individual, pero se respeta desde luego los derechos individuales.
+---
+INTERLOCUTORA
+Gracias.
+La segunda pregunta es: ¿a qué acuerdos han llegado o cómo va la negociación del presidente con Pfizer respecto a que haya un cargamento antes del 15 de febrero?
+Y lo tercero es: ¿qué opciones va a haber para las personas que tienen enfermedades alérgicas respecto a las vacunas que hay actualmente?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. De Pfizer todavía no tenemos respuesta, es muy reciente apenas fue ayer o anteayer la conversación que tuvo el presidente López Obrador con el gerente general de Pfizer a nivel internacional y el acuerdo fue que en unas pocas semanas dijo el propio gerente, ‘in a few weeks’. Entonces, vamos a esperar.
+Respecto a alternativas para personas que tienen alergias graves, y por lo tanto tienen una contraindicación relativa de uso de la vacuna de Pfizer, no hay todavía una opción otra que esperar a que vengan las otras vacunas.
+No es, no hay una razón médica para suponer que el perfil de alergias que puede provocar una vacuna necesariamente ocurre con otra vacuna, depende la composición química de la vacuna. Y hasta el momento la alternativa es esperar, hay que posponer que se vacune esa persona hasta que lleguen las otras vacunas que no tienen esa contraindicación.
+---
+INTERLOCUTORA
+(Inaudible).
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto, así es, la vacuna de Astra pudiera tener también la propiedad de causar reacciones alérgicas, pero a otros componentes. Cada componente, las vacunas tienen la sustancia activa primaria, para la de Pfizer es el ARN mensajero que produce una proteína del virus SARS-CoV-2, para las otras es el propio virus que está atenuado, aniquilado, siempre aclaro, incapaz de causar enfermedad, y también el virus vector, el famoso adenovirus.
+Hay varias que utilizan adenovirus, la de Astra un adenovirus de chimpancé incapaz de infectar a los humanos; la de CanSino, la de Janssen, la Sputnik V utilizan adenovirus humanos atenuados, modificados genéticamente, no pueden causar tampoco enfermedad. Y esa es la sustancia activa.
+Pero además de la sustancia activa tienen otros componentes químicos que la estabilizan, le dan la capacidad de ser usada en ciertas condiciones de frío y en general funcionar para poder ser aplicadas, y esos otros componentes pueden ser los que induzcan la alergia.
+Liliana Noble, de Pulso Saludable, y enseguida usted. Son 19:44 horas.
+---
+PREGUNTA
+Liliana Noble, de Pulso Saludable.
+Doctor Gatell, ayer le preguntaba sobre este tema de los componentes sanguíneos, bueno, de la transfusión sanguínea. No sé si me pudiera ayudar dándome, perdón, de nueva cuenta la explicación, porque al momento de hacer la redacción me surgieron más dudas, entonces mejor ayúdeme con eso, por favor.
+Y, doctor Alomía, ahora que hay este desabasto del tema de los tanques de oxígeno surgen estas otras opciones de los concentradores. ¿Cuál sería una mejor opción?, ¿que sí anden buscando o estén en la búsqueda incesante de un tanque de oxígeno o busquen la opción de un concentrador de oxígeno?
+Y si surte el mismo efecto para fines prácticos del paciente durante la evolución de la enfermedad.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Comento brevemente sobre lo que me pregunta, pero vamos a invitar a nuestro director general del Centro Nacional de Transfusión Sanguínea, al doctor Jorge Trejo Góngora, que es una persona muy competente, ha venido varias veces aquí a hablar de transfusión para que hoy nos explique, no hoy, pero en próximos días, nos explique justamente de lo que estábamos hablando.
+En términos generales sólo lo explico: hoy nuestro lineamento de vacunación considera como contraindicación de la vacunación el haber sido transfundido. Y nos explica el doctor Jorge Trejo, y esto también lo escuchó y respaldó el Grupo Técnico Asesor de Vacunación, que algunos productos de la sangre, como los glóbulos rojos o los factores de coagulación que se utilizan para las personas que tienen hemofilias no deberían considerarse como contraindicación porque la transfusión de estos productos no tiene plasma y el plasma es donde pueden estar los anticuerpos que se inducen con la vacuna.
+Pero vamos a pedirle al doctor Jorge Trejo que venga, nos lo explique en detalle, nos ponga unas diapositivas para que quede completamente claro.
+---
+INTERLOCUTORA
+(Inaudible).
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto, ahí pudiera estar, pero vamos a dejar que el doctor Jorge Trejo nos lo comenté a detalle.
+Doctor Alomía.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+En relación a la segunda pregunta, primero, digo, rápidamente comentar que un concentrador de oxígeno, como su nombre lo dice, es un equipo que a través de sus mecanismos trata de incrementar la concentración de oxígeno hacia la persona que está recibiendo esa inducción de aire; sin embargo, aquí el punto importante que tenemos que resaltar es que uno no debe de autorecetarse el oxígeno, ya sea a través de un tanque de oxígeno como tal o una vía de oxígeno directa o uno de estos concentradores de oxígeno, el oxígeno debe de ser en su momento indicado por un médico tratante, o sea, un profesional de la salud, que no solamente lo indica y que por lo tanto define o decide cuál de los dos o qué otro tipo de aparto pudiera utilizarse para la administración del oxígeno, sino que además de mantener un seguimiento.
+Porque el hecho de colocarme el oxígeno no es algo que yo deba de hacer de manera directa sin esta supervisión, sino que tiene que ir acompañada de estos elementos que hemos comentado y esto es importante entonces que la población lo sepa, debe haber una indicación y una supervisión médica para efectos de este uso.
+---
+INTERLOCUTORA
+(Inaudible).
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Es correcto, para fines prácticos el segundo, el concentrador pudiera llegar a suplantar o en su momento contribuir a la función de lo que sería el oxígeno directo o concentrado en un tanque, pero finalmente es la indicación del médico la que tiene que prevalecer.
+---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Aquí aprovecho con este tema de los tanques de oxígeno.
+Ayer vi circular en redes sociales un video de una persona que compró un oxigenador de peceras, un aparatito eléctrico que se conecta a la energía, tiene un tubito y ese tubito lo adaptó a uno de los dispositivos que se utilizan médicamente para recibir finalmente el oxígeno.
+Y de acuerdo a lo que se ve en este video, parece ser una persona residente de una zona urbana y posiblemente la Ciudad de México, la propia persona -que interpreta uno por el video, que está enferma de COVID- dice: ‘Sin la oxigenación del oxigenador de peceras tengo baja saturación de oxígeno, cuando me lo pongo sube’.
+Aquí hacemos la advertencia. Desde luego, es completamente entendible que ante la preocupación de no encontrar atención específicamente un dispositivo de oxígeno o un concentrador, se busquen alternativas; sin embargo, sí debemos dejar en claro que no necesariamente -y lo más probablemente es que no lo sea- la cantidad de oxígeno que se puede recibir de ese dispositivo sea suficiente para mantener la oxigenación de una persona enferma de COVID que ya está sufriendo un trastorno de oxigenación.
+Recomendamos no acudir a esta técnica y persistir en la búsqueda de atención de salud. Como mencionó el doctor Alomía, los hospitalestienen un porcentaje importante de ocupación, pero existen todavía hospitales disponibles y seguiremos haciendo las reconversiones.
+---
+INTERLOCUTORA
+(Inaudible).
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, este es un dispositivo de uso médico, ese que se ve en el video que sí se usa para humedecer el oxígeno, digamos, el aire oxigenado a una mayor concentración mayor de oxígeno que circula por este dispositivo y ese su objetivo, pero el agua no se pasa al tubito.
+Pero aquí la preocupación es que la potencia del aparato oxigenador, y sobre todo que es aire, es aire ambiente con concentración de oxígeno de 21 por ciento, no necesariamente es lo que se requiere para sostener la capacidad respiratoria de una persona afectada con COVID.
+Entonces, nos preocupa que se pierda tiempo con la esperanza de que eso va a resultar y al paso de quizá horas o días, muy pocos días se deteriore la persona y entonces se dé cuenta tardíamente de que no es la solución adecuada medicamente hablando.
+Por favor.
+---
+PREGUNTA
+Buenas tardes. Daniel Flores, del periódico Publimetro.
+Justamente, era sobre los oxigenadores caseros, si había alguna otra alternativa. ¿Qué tan peligroso puede ser esta medida?, sobre todo porque se empezó a viralizar en redes sociales.
+Si hay alguna pues… ¿Cuál es el riesgo? Lo acaba de comentar, pero también si hay alguna otra forma para compensar pues esta demanda que hay, sobre todo los sobreprecios que se están presentando en los tanques de oxígeno.
+Y se han platicado con la UNAM o alguna otra pues no sé dependencia o autoridad para contrarrestar todo esto que está sucediendo, no solamente en la Ciudad de México, sino en toda la República. Esta sería la primera pregunta, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias, Daniel.
+Sí llevamos este tema, lo estamos llevando con múltiples protagonistas. Para empezar, las dos empresas mayoritariamente son prácticamente las únicas que en México producen y comercializan oxígeno, son Cryoinfra y Praxair, que distribuyen oxígeno o los tanques de oxígeno a través de una serie muy amplia de distribuidores, no necesariamente propiedad de estas dos compañías, sino son casas comerciales que distribuyen.
+El factor limitante no es la producción de oxígeno, sino es dónde envasarlo. Los tanques de oxígeno tienen una serie de estándares de seguridad industrial, se requiere que tengan ciertas características. No es desde luego adecuado que alguien pudiera fabricar su propio tanque y dijera: ‘Póngame aquí el oxígeno’, requieren ser fabricados con condiciones muy particulares y esto está reglamentado, desde luego, en normas de seguridad industrial y también para el uso humano en disposiciones sobre salud.
+Y ese es el factor limitante, que se están acaparando los tanques de oxígeno, acaparando.
+La situación, posiblemente común es: una familia que, ante la preocupación de que pudiera alguien padecer COVID, mejor consigue un tanque y lo tiene en casa, y prefiere pagar la renta. La mayoría de las adquisiciones de tanques para uso doméstico, para uso personal, es decir, fuera de hospitales, son por renta, hay quien de plano lo compra.
+Entonces, lo tiene ahí y si esa es una persona o una familia no pasa nada; pero si son miles de familias o decenas de miles de familias, desde luego se acaba la cantidad de tanques disponibles.
+Para cada quien que tenga el tanque en casa es totalmente entendible desde mi punto de vista completamente legítima su motivación de asegurar que está protegido, vamos a decir, tener la posibilidad de usarlo, pero hay que pensar que por cada persona o cada familia que haga eso hay una, dos, tres, cinco, siete, 20 familias desesperadamente buscando un tanque de oxígeno porque lo necesitan en ese momento.
+Tiene que ver con lo que platicábamos, Natalia Vitela, justo de las vacunas. Aquí se ilustra muy claramente cómo cuando las sociedades no se organizan cada quien trata de protegerse a sí mismo y esto está descrito en innumerables textos de manejo de crisis, protocolos de seguridad, incluso está estudiado en la evolución de las especies en general.
+Los biólogos evolucionistas saben que las especies que tienen la mejor capacidad de supervivencia son las especies que saben colaborar, las especies que compiten unos con otros, los miembros de la misma especie, por los recursos, perecen.
+Entonces, llevado a esta situación tan cotidiana y tan dramática cada familia, cada persona que tenga un tanque de oxígeno que no lo necesite en ese momento le está quitando días, horas y minutos de vida a otra persona y a otra familia.
+Y a veces puede ser que diga: ‘Pues no me importa, porque no conozco a las otras familias’, desde luego eso revela una importante afectación en la capacidad de ser solidarios.
+Pero qué tal si esa otra familia es un familiar que no conoce o con el que no habla en cierto tiempo y después se entera que su acaparamiento contribuyó a dañar a alguien que sí le es significativo.
+Entonces la recomendación aquí es esa.
+Ahora, respecto a cómo el gobierno está interviniendo para lograrlo, platicamos precisamente con las compañías que producen y otro de los elementos que nos indicaron es que, además de producir oxígeno medicinal, producen oxígeno para uso industriales y una parte también muy sustantiva de la producción de estas empresas es para el uso industrial de oxígeno. Entonces, estas empresas están obligadas a cumplir contratos para el uso industrial que restan o demeritan o retardan la oportunidad de tener oxígeno medicinal.
+---
+INTERLOCUTOR
+Y ante la…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Déjeme le completo la idea. Está por salir seguramente en los próximos horas o días un par de días cuando mucho un acuerdo del secretario de Salud, que es una acción extraordinaria en materia salubridad general. que prioriza el uso o la fabricación de oxígeno medicinal.
+---
+INTERLOCUTOR
+Perfecto.
+Y ante esta escasez y sobredemanda ¿no se ha platicado comprar tanques de oxígeno al extranjero por este escenario?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estamos viendo varias opciones y, efectivamente, esto lo conversamos en el Gabinete de Seguridad y el lunes precisamente fue la más reciente conversación específica sobre eso y el presidente involucró -lo cual me da mucho gusto, porque es una persona muy competente- al procurador del Consumidor, a Ricardo Sheffield y él está haciendo una reconstrucción de toda la exploración del mercado, que ya venía haciendo con fines de cumplir las funciones de la Profeco y sancionar, cosa que ha ocurrido, abusos, sobreprecios, acaparamiento, pero además ahora está haciendo otra cosa muy benéfica que es explorar un mapa de oportunidades de dónde podríamos tener reemplazos de tanques de oxígeno.
+---
+INTERLOCUTOR
+Sí se ha platicado.
+Nada más esta para finalizar, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Por favor.
+---
+INTERLOCUTOR
+¿Cuándo se aplicará la segunda dosis a los que ya se vacunaron en diciembre y ya pasaron estos 21 días?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Se les está aplicando conforme se cumplen los 21 días y se seguirá por este curso.
+---
+INTERLOCUTOR
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Al contrario, muchas gracias.
+Quedan dos minutos, Héctor García, periódico Basta, Grupo Cantón.
+---
+PREGUNTA
+Rápido, subsecretario.
+Los enfermos de VIH ¿en qué grupo entran?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Enfermos de qué?, perdón.
+---
+INTERLOCUTOR
+De VIH/sida ¿en qué grupos entran de crónicos? de VIH.
+Y algo más así rapidísimo, ya se está aplicando la vacuna, ya se está llevando a cabo todo esto. ¿Cuál es su duración? Porque si hoy están vacunando y dentro de un año dicen: ‘¿Qué creen? vamos a vacunar otra vez todos…’
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No se conoce, esto es la pregunta repetida, la pregunta de Héctor García, de Grupo Cantón periódico Basta, es ¿cuál es la duración de la inmunidad? Hoy vacuno y en 20 días en promedio tiene anticuerpos, ¿cuánto duran esos anticuerpos o la respuesta inmune?, las células necesarias para fabricar los anticuerpos, ¿cuánto tiempo se mantiene?
+En términos generales no se conoce, de los ensayos clínicos se pueden inferir periodos de hasta seis meses, y esto es porque los ensayos empezaron en julio del año pasado y en algunos de ellos ya se tienen información preliminar de que al menos seis meses.
+De la infección natural hay muy pocas publicaciones científicas que documentan periodos que podrían llegar hasta ocho meses.
+La pregunta natural y la esperanza de todas y todo es: ojalá durara de por vida, y entonces con sólo aplicar la vacuna una vez tendríamos solucionado el problema, pero la respuesta en este momento es: no se conoce la duración con exactitud.
+Y la segunda pregunta es sobre cuándo se va a vacunar las personas que viven en VIH o con sida, será parte de todo el grupo de comorbilidades, igual que las personas con diabetes, las personas con hipertensión, etcétera, se les va a ir vacunando progresivamente, usando los ejes de priorización que hemos comentado: la priorización de edad, la priorización de comorbilidades, y la priorización de control, epidémico.
+Muchas gracias.
+Muy bien, son las 20 horas en punto, aquí terminamos. La epidemia sigue, hay que mantener -por cierto, que no se nos olvide- las medidas de precaución, sana distancia, el uso de cubrebocas, lavado de manos, abstenernos de estar cercanos unos a otros y congregarnos en los espacios públicos.
+La vacunación empezó desde el 24 de diciembre y seguirá de acuerdo a este plan nacional que ojalá logremos todas y todos mantenernos muy unidos, muy coordinados, muy coordinadas para que tenga éxito en México y en el mundo.
+Muchas gracias.

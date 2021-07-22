@@ -3,10 +3,12 @@ Presidencia de la República
 20 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 del lunes 20 de julio de 2020. Vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2. Estamos en el Palacio Nacional de México, en la Ciudad de México.
 Hoy vamos a tener el informe técnico y vamos a tener un espacio más amplio para resolver preguntas y dar respuestas a las preguntas que hayan quedado pendientes en días previos. Hoy va a empezar Arturo y luego Araceli Aranday, ¿les parece bien?
 Le pido al doctor Alomía si es tan amable de presentar.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Vamos a dar inicio a la conferencia vespertina 143 en este día número 50 ya de la Nueva Normalidad. Pasemos a la siguiente diapositiva para revisar rápidamente los números a nivel nacional o del escenario nacional.
 Ya a partir de día de ayer, como comentábamos, incluimos la semana 28, estamos empezando a transitar por la semana número 30, semana epidemiológica 30, recordando a la población que las semanas epidemiológicas corren de domingo a sábado y nos permiten de alguna manera hacer comparaciones entre lo que ha pasado entre una y otra.
@@ -73,9 +75,11 @@ Entonces, eso sería la actualización para hoy. Invitamos, lógicamente, como t
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía, director general de Epidemiología de la Secretaría de Salud.
 Vamos a abrir a preguntas. Arturo, de Pie de Página; Araceli Aranday, de Canal 11; y luego pasamos con usted y ahí vamos.
 ---
 PREGUNTA
+Buenas noches. Arturo Contreras, de Pie de Página.
 Durante el fin de semana el King’s School de Londres ubicó seis tipos de síntomas de la enfermedad, ubicando a través de una aplicación de rastreo de enfermedad, definió estos grandes seis tipos, esto se correlaciona un poco a qué tan grave es la enfermedad y podrían determinar si una persona llega o no a necesitar intubación.
 Un poco aparte, pero en el mismo sentido, un grupo de estudios de científicos franceses igual este fin de semana en la revista Science demostró que un déficit en la proteína interferón de tipo 1 -espero se diga así- podría ser la antesala a una infección grave.
 Entonces, saber si esta información nueva que se va generando es útil para mejorar, por ejemplo, el triaje en los hospitales o si a partir de las pruebas se puede llevar un mejor seguimiento de los casos.
@@ -85,6 +89,7 @@ Rapidísimo ayer nos preguntaban ¿qué se le podría sumar a la plataforma que 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por estos comentarios y preguntas.
 Efectivamente, el conocimiento científico sobre esta epidemia continúa creciendo, continúa explorándose por distintas comunidades científicas nacionales y también internacionales, distintos aspectos, desde la parte molecular del propio virus.
 Hoy sale, por cierto, también un artículo interesante en una revista sobre virología que habla de una mutación persistente en las cepas de virus, que hace menos efectiva la prueba de PCR porque no se puede detectar con suficiente calidad el gen ‘e’ del virus.
 Por cierto, esto para México no tiene implicaciones porque nosotros mayormente no usamos ya el protocolo de Berlín que se usaba al inicio, sino que usamos ensayos, estuches diagnósticos comerciales que detectan tres genes simultáneamente, por cierto, pero bueno, este es un ejemplo.
@@ -96,37 +101,59 @@ Una de las situaciones que ha sido característica de México, no exclusiva, per
 Entonces, esto hace que el comportamiento de COVID, aun en la forma clínica, en la parte médica de cómo se presenta en cada individuo, pueda ser diferente al que ocurre en otras regiones; sin embargo, estamos siempre al pendiente de este tipo de contribuciones para que puedan auxiliar al personal clínico a tener una anticipación diagnóstica con base en otros criterios, más allá de lo que se puede identificar por la oximetría, por los estudios de imagen y otras características.
 Recuérdeme las otras dos preguntas.
 ---
+INTERLOCUTOR
+Sobre el COVID largo.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+De larga duración. COVID, efectivamente, es una enfermedad que ha sido mayormente conocida por las afecciones pulmonares, pero existen varios trabajos científicos también de investigación clínica que han descrito trastornos neurológicos, trastornos cutáneos, trastornos hepáticos, trastornos renales, trastornos cardiacos.
 Por ejemplo, la frecuencia de arritmias, entre otras, fibrilación auricular, son mayores en personas de edades equivalentes que no tuvieran COVID y uno de los mecanismos de daño fatal, es decir, por los que COVID puede causar la muerte, es la afección cardiaca, ya sea por trastornos eléctricos, trastornos relacionados con el ritmo o alteraciones de la contractilidad que no han sido todavía totalmente entendidas.
 Pero es una enfermedad de mayor complejidad que sólo una neumonía, algunos estudios han mostrado que los mecanismos de daño pudieran ser semejantes en varios órganos, por ejemplo, estas afecciones cutáneas se relacionan con esta combinación de un trastorno inflamatorio con un trastorno de coagulación en la microvasculatura, los vasos sanguíneos de pequeño calibre, y pueden dar efectivamente algunas lesiones necróticas o inflamatorias en la piel.
 Entonces, sí, eso se ha reconocido en el mundo. En México no conocemos que haya una descripción sistemática de todas las series de caso. El Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán publicó una de las primeras series clínicas de detalle sobre la presentación de COVID y vale la pena estar pendientes de otras publicaciones semejantes también en nuestro país. Gracias Arturo.
 Araceli Aranday de Canal 11.
 ---
 PREGUNTA
+Gracias doctor. Preguntarle su opinión sobre los ensayos que anunció la Universidad Británica de Oxford sobre una vacuna, preguntarle su opinión.
 Y también preguntarle sobre laboratorios autorizados para hacer la muestra, hasta donde nos quedamos en marzo eran 51, ¿se han sumado más?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita le pedimos al doctor Alomía si nos contesta esto.
 Sobre vacunas, en esta última semana prácticamente desde el jueves, salieron tres publicaciones, hoy sale una en la revista Lancet sobre las vacunas, los tres candidatos a vacunas que están en la fase más avanzada de investigación, que es la fase tres de investigación clínica.
 Los tres dan resultados prometedores, con distintas características y queremos tener una sesión específica sobre el avance del desarrollo de las vacunas. Yo recomendaría desde luego entusiasmo por saber que se acerca el mundo a tener una vacuna, una o más, podría ser que haya más de una. Si hay más de una es mejor, porque la oportunidad para conseguir el producto en precios razonables es mejor, y hasta ahorita hay tres que están en la fase puntera.
 Hay otras nueve que están en una fase, 11 de hecho ya en una fase avanzada de investigación clínica, y cerca de 140 que iniciaron alguna clase de investigación, pero vamos a tener una sesión específica, espero que a lo largo de la semana para hablar específicamente en qué van las vacunas.
 Doctor Alomía.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, en relación a los laboratorios privados, el listado de los reconocimientos que dio el Indre a estos laboratorios cerró en 63 laboratorios, pero no es que estos sean los únicos laboratorios o que hasta ahí llegó el procedimiento.
 Explico un poquito. La evaluación en un momento se inició primero con la evaluación comparativa de las pruebas de laboratorio, es decir, ver, que la metodología, el tipo de insumos, los equipos que se requieren para procesar las muestras cumplieran con las características, esto era el proceso de evaluación comparativa.
 En la medida que fue avanzando el tiempo se llegó a un momento en donde prácticamente se llegaron a evaluar la gran mayoría de kits comerciales, de pruebas y de los marcos analíticos que en su momento se tienen, a la par se estaba realizando estos reconocimientos a los laboratorios en la medida que iban utilizando este tipo de kits, este tipo de pruebas.
 Pero entonces cuando esto llega ya a un momento en donde prácticamente todas las pruebas están evaluadas, basta con que un laboratorio, que además está lógicamente certificado en función de capacidades técnicas, tiene un registro sanitario y un permiso para operar y si este laboratorio está utilizando los kits, la metodología, las pruebas que ya tienen un proceso de evaluación comparativa, entonces estos laboratorios privados pueden ahora realizar las pruebas y sus resultados pueden en su momento ser reconocidos en base a que están utilizando, reitero, pruebas que ya fueron o que ya tienen una evaluación comparativa y que lógicamente la Cofepris ya emitió un registro sanitario y ya son de libre venta y de libre uso en el mercado nacional.
 Entonces, sí fue muy al principio la parte de evaluar para poder reconocer y estar seguros que los kits y los procedimientos eran acordes, pero llega un momento en donde esto ya está tan estandarizado y tan difundido que los laboratorios lo pueden seguir haciendo sin la necesidad en este punto ya que el Indre emita un reconocimiento al laboratorio.
 ---
+INTERLOCUTORA
+(inaudible)
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+Con el reconocimiento, sí, es un reconocimiento que el Indre otorga en función de que al revisar sus procedimientos de diagnóstico cumplieron con todas las características que se requerían para dar por confirmada la prueba.
+---
+INTERLOCUTORA
+¿Dónde lo podemos ver?
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+Está el listado publicado, en la página de la Dirección General de Epidemiología, hay un link que da a todos los temas de laboratorio y ahí pueden ustedes descargar el último listado, van a encontrar a todos los laboratorios de la red nacional, de laboratorios de salud pública, los Labes, van a encontrar los laboratorios que han participado en investigaciones universitarios y la lista completa de los laboratorios privados.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
 La siguiente, por favor.
 ---
 PREGUNTA
+Gracias, doctores. Muy buenas noches. Paola Betancourt, de Multimedios Televisión.
 Doctor, me gustaría saber su opinión respecto a que hoy Movimiento Ciudadano anunció que levantó una denuncia en su contra en la Secretaría de la Función Pública por lo que consideran como negligencia, contradicciones y omisiones durante el manejo de la pandemia.
 Y también el día de hoy los gobernadores panistas señalaron que se les había cancelado la reunión que tenían pendiente con usted y con el secretario de Salud. Si nos pudiera comentar el motivo.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con todo gusto. No tengo una opinión específica sobre la denuncia, puesto que no la conozco. Sí supe que la presentaron y estaré pendiente de lo que instruya la Secretaría de la Función Pública. Todas y todos los funcionarios siempre tenemos que estar listos para responder a cualquier cuestionamiento.
 Ayer me preguntaban sobre el Poder Legislativo, las comparecencias y demás, y la respuesta es la misma. Cualquier entidad que tenga facultades legales para requerir la información, respuesta, opinión, de un funcionario y funcionaria pública debe tener fácil el camino.
 Entonces, estamos siempre atentos y ahora que ocurrió esto, pues esperaremos a ver qué nos requiere la Secretaría de la Función Pública.
 Respecto a la acción misma, pues respetamos este partido o cualquier otro, son parte de la vida pública están periodos políticos y los partidos políticos pues son políticos, hacen política. En este momento seguramente los tiempos políticos ya están en cierta manera invitándoles a tomar acciones políticas demostrativas, quizá para posicionarse, quizá para mostrar alguna clase de intensidad o fuerza.
@@ -139,6 +166,7 @@ Entonces, siempre hay diálogo, no hay por qué asustarse si no se concreta una 
 Por favor, allá atrás, Alejandro Alemán, casi no lo reconocía con el cubrebocas y lentes.
 ---
 PREGUNTA
+Doctor, dos, -buenas tardes, Alejandro Alemán de Medicina Digital- dos cosas, una es notoria la ausencia de nuestro compañero Juan Hernández, sabemos que está enfermo de una afección respiratoria, en fin, es una situación lamentable y preocupante para todos los que estamos aquí.
 Y me da espacio para preguntarle el porqué no convocar a una conferencia de prensa vía Zoom, porque entiendo que este es como espacio temático pues a veces no nos da oportunidad de hacer nuestras preguntas.
 Ha habido ocasiones en que no hay preguntas, en que se pregunta uno, dos o tres y que, vamos, hay más de un ejemplo de que al final es el gritoneo y que hay y que no hay. Entonces, sí preguntarle, ¿por qué no considerar hacer conferencias a través de los medios digitales?
 La Organización Mundial de la Salud hace tres conferencias a la semana con reporteros de todo el mundo, la jefa de Gobierno de la Ciudad de México también lo hace y yo creo que es algo para considerar en lugar de someternos a este riesgo. Esa es la primera pregunta.
@@ -150,6 +178,7 @@ Y con esto concluyo mi pregunta, Isaín Mandujano le preguntó sobre las indíge
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Alejandro. Creo que esto es sumamente útil.
 Bueno, sobre lo del Zoom y demás lo consideramos, tomamos nota y vemos las modalidades.
 Sobre este tema de las poblaciones indígenas, lo hemos dicho desde hace semanas y es precisamente por esa razón que viajamos a Chiapas el viernes pasado, para iniciar, solamente el inicio, la iniciativa de Acción Comunitaria por la Salud específicamente orientada en este momento al tema de COVID, pero que a su vez se articulará para atender otros aspectos de la salud en poblaciones rurales y especialmente en poblaciones indígenas.
 Evidentemente Chiapas es un estado que también tiene poblaciones indígenas, pero dado que es uno de los estados con la mayor proporción de poblaciones indígenas y pluricultural, seleccionamos Chiapas como el punto de arranque. Estamos viendo de hacerlo en Tabasco la próxima semana, Veracruz, Oaxaca, Guerrero, etcétera.
@@ -162,7 +191,11 @@ Y nuestra visión es que no tenemos que esperar a que las poblaciones logren ten
 Y en la iniciativa de la que estoy hablando y que presentamos el viernes pasado en la conferencia de prensa, justamente estamos articulando los mecanismos institucionales para desfragmentarlos. Tradicionalmente la Secretaría de Salud iba por su lado y la SEP y el INPI iban por su lado, y agricultura por su lado, y aquí estamos trabajando de una manera armónica para que independientemente de la unidad física que puede resolver sea de una secretaría o de otra o de otra, colabore en un mismo modelo de trabajo.
 Los centros integradores, que son unidades territoriales de los programas del bienestar, nos permiten precisamente tener este acercamiento para la detección temprana de la enfermedad, en este caso COVID, en las comunidades indígenas.
 ---
+INTERLOCUTOR
+(inaudible) siete mil 458 exámenes que se les han hecho para una población de 25 millones.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, ahora su estadística nomás tenga en cuenta que es una estadística que está hablando de pruebas por habitantes y hemos hablado varias veces aquí de que tome en cuenta personas enfermas y las pruebas que se hacen.
 Recuerde que aquí en México tenemos una política explícita de que las pruebas se hacen para diagnosticar la enfermedad. Entonces, esta estadística que usted utiliza, que hemos comentado extensamente aquí, es pruebas por habitante sin tomar en cuenta de este subconjunto poblacional, es que la población que se autoidentifica como indígena, qué proporción ha enfermado.
 Y afortunadamente hasta el momento, hasta el momento, la proporción de enfermedad, digamos, la incidencia en poblaciones indígenas es sustancialmente menor que en poblaciones no indígenas.
 ¿Cuál es la razón?
@@ -171,11 +204,13 @@ Entonces, en la medida que este desplazamiento se está dando, estamos actuando 
 Carlos, de UnomásUno, y después Nuria Fernández, si nos da tiempo, nos quedan cuatro minutos.
 ---
 PREGUNTA
+Hola, qué tal, doctor. Buenas noches, doctor Gatell; buenas noches, doctor Alomía. Solo una pregunta, doctor, al respecto de lo siguiente:
 Hay personas adultas mayores que trabajan en dependencias públicas las cuales nos informan que les han llegado circulares a sus dependencias, adultos mayores y además adultos que tienen enfermedades crónico-degenerativas, hay circulares que están enviando de sus dependencias que ya se tienen que presentar a trabajar el próximo día 5 de agosto. ¿Es así esta situación?
 Además que también hay inquietud, porque también hay inquietud en el sentido de que hay más contagios cada día. Esa es la inquietud, básicamente.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Nada más para que no se me olvide, sobre la pregunta que hacía usted, Alejandro, se me olvidó mencionar a la Procuraduría Agraria, también es una de las dependencias o de las componentes institucionales imprescindibles para esta misión.
 La Procuraduría Agraria nos ha estado proveyendo desde hace meses de información sobre la dinámica de propagación de la epidemia en el territorio, específicamente, los núcleos agrarios que son las unidades territoriales de la procuraduría, nos permite que los operadores de la procuraduría tengan información en tiempo real y esto afortunadamente a través del procurador agrario, a quien también le agradecemos, Luis Hernández nos ha permitido ir monitoreando la propagación tan solo con base en síntomas que es la señal más temprana que puede haber.
 Regresando, gracias por la pregunta, regresando a la pregunta de usted, Carlos, son dos temas, qué bueno que los pregunta.
 El primero sobre el regreso. Para toda la población que trabaja en gobierno, hay un decreto del presidente de la República que contempla que hasta el 1º de agosto se suspenden en general las actividades de la Administración Pública Federal.
@@ -183,3 +218,17 @@ Por lo tanto, una vez que termine la duración de este decreto… Las motivacion
 Este decreto llegará a su punto de caducidad a partir del 2 de agosto y hemos estado conversando precisamente con los gobiernos estatales, tanto como los titulares del Poder Ejecutivo como con las secretarias y secretarios de Salud la inquietud de cómo podremos tener un regreso ordenado y oportuno de las poblaciones trabajadoras del gobierno federal y particularmente de aquellas personas que padecen las enfermedades crónicas que son motivo de riesgo de COVID o la edad mayor de 60 años.
 Ya está en avanzado desarrollo próximo a publicarse en el Diario Oficial de la Federación, seguramente esta semana, un lineamiento técnico específico que trabajamos con el mismo grupo institucional con el que hicimos los lineamientos para el sector privado, pero este tiene detalles adicionales sobre las condiciones en las que debe operar la administración pública para proteger a las personas con mayor riesgo de complicaciones de COVID.
 Y la otra pregunta.
+---
+INTERLOCUTOR
+Sobre el aumento de contagios.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Los contagios, es justo lo que presentamos ahora. Recordarán que ya lo estamos presentando cada semana porque de día a día no varía tanto, hoy presentamos un incremento de 1.3 por ciento en el número de casos nuevos registrados de acuerdo a su fecha de inicio de sus síntomas, y de 1.2 por ciento de incremento diario respecto a las muertes.
+Como hemos dicho, entendemos que a veces causa un poquito de confusión reconciliar dos ideas. ¿Tenemos cada día más casos?, ¿hoy más casos que ayer?
+Sí, hasta el momento así ha ocurrido, pero la diferencia de casos entre hoy y ayer, si lo comparamos en el hoy y ayer de la semana pasada y el hoy y ayer de la semana antepasada, etcétera, cada vez hay menor diferencia, es decir, el salto, el escalón, entre un día y el otro es cada vez proporcionalmente más pequeño, aun cuando el número de casos ciertamente es mayor, porque este es un porcentaje respecto a una cantidad cada vez mayor de casos.
+¿Pero cómo se interpreta esto?
+La velocidad de crecimiento de la epidemia es cada vez menor y la velocidad de crecimiento es la aceleración de la epidemia. Entonces, se está desacelerando la epidemia a pesar de que sigue aumentando el número de casos.
+Usamos hace unos días una metáfora, es como cuando uno va manejando y se acerca a una población y uno va a cierta velocidad, 60 kilómetros por hora y luego empieza a desacelerar y reduce la velocidad a 50 kilómetros por hora, y luego a 30 kilómetros por hora, luego a 20, uno de todos modos se sigue acercando al punto, pero se está acercando a una menor velocidad.
+Entonces, eso es, así ocurre en las epidemias de enfermedades infecciosas, tienen esta forma en donde la curva epidémica empieza a ser más lenta, más lenta, más lenta, y llega a un punto en donde el crecimiento es cero. Ahí no se acaba la epidemia, ahí simplemente empieza la bajada; y ahora de cero pasa a menos uno, menos dos, menos tres, menos cuatro, etcétera.
+Entonces, esa es la idea general. La epidemia sigue creciendo, pero cada vez crece a una velocidad más lenta, lo que hace que nos aproximemos al punto cero de crecimiento y de ahí vendrá el decrecimiento, cosa que ya empezó y los hemos mostrado en la Ciudad de México, de hecho, más que empezó en la Ciudad de México, en Sinaloa, en Chiapas, en Baja California, en Michoacán, en el Estado de México, los que tengo ahorita en memoria y que me da tiempo en estos 22 segundos, seis estados ya tienen por lo menos dos a tres semanas con reducción de la epidemia, y dos ellos representan más del 35 por ciento de la epidemia en el país en su conjunto. Entonces, estamos en esa fase.
+Muchas gracias, son las 20:03, aquí terminamos. Gracias. ---

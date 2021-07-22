@@ -3,6 +3,7 @@ Presidencia de la República
 28 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 en punto del martes 28 de abril de 2020. Vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS-CoV-2. Estamos en el Palacio Nacional de México, en la Ciudad de México. Hoy vamos a enfocarnos en tres elementos:
 Primero, en el informe técnico diario que presentará el doctor José Luis Alomía.
 Segundo, el informe de movilidad, que ya dijimos que lo vamos a esta presentando periódicamente para ver cómo están aplicándose las medidas de seguridad sanitaria. Lo presentará el doctor Ricardo Cortés. El doctor Alomía es el director general de Epidemiología, el doctor Cortés es el director general de Promoción de la Salud.
 Y tenemos un nuevo mensaje de nuestra querida jefa Fabiana a través de un video ilustrativo de lo que ocurre en la atención de las personas con COVID.
@@ -10,16 +11,17 @@ Y luego, pasamos a preguntas y respuestas.
 Le pido al doctor Alomía si es tan amable de presentar el informe técnico.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPÍDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Buenas noches a todas y todos. Estamos nuevamente aquí, en la conferencia vespertina, para poder actualizar en este caso el panorama tanto internacional como nacional de COVID-19.
 Estamos en el día 37 de nuestra Jornada Nacional de Sana Distancia, en la cual, como ya conocemos todos pero nunca está de más volverlo a recalcar, invitamos a toda la población, toda la población que en este momento nos está escuchando y viendo a través de sus medios de comunicación y de las vías de comunicación oficiales a quedarse en casa.
-Quedarse en casa sobre todo si formamos parte de un grupo de riesgo, si tenemos más de 60 años de edad, si tenemos o padecemos de hipertensión arterial, de diabetes, de sobrepeso, obesidad, así también como de alguna enfermedad que nos genere inmunodeficiencia, ya sea porque estamos en tratamiento o ya sea porque tenemos inmunodeficiencia adquirida como tal o lógicamente tenemos también el antecedente de tabaquismo, enfermedad pulmonar obstructiva crónica, muy importante si son mujeres embarazadas, por  favor hay que quedarnos en casa. Ese es el grupo poblacional que más debemos de proteger.
+Quedarse en casa sobre todo si formamos parte de un grupo de riesgo, si tenemos más de 60 años de edad, si tenemos o padecemos de hipertensión arterial, de diabetes, de sobrepeso, obesidad, así también como de alguna enfermedad que nos genere inmunodeficiencia, ya sea porque estamos en tratamiento o ya sea porque tenemos inmunodeficiencia adquirida como tal o lógicamente tenemos también el antecedente de tabaquismo, enfermedad pulmonar obstructiva crónica, muy importante si son mujeres embarazadas, por  favor hay que quedarnos en casa. Ese es el grupo poblacional que más debemos de proteger.
 Y un llamado especial a las familias, a los amigos de estas personas para poder ser precisamente un grupo de apoyo, de sostén para que estas personas puedan mantener ese autorresguardo domiciliario y podamos entonces evitar ese riesgo de complicaciones que tienen de por sí estas personas.
 Estamos en la número 60, la conferencia vespertina del día de hoy, del 28 de abril.
 La siguiente diapositiva, por favor. Vamos a ver el panorama internacional de la pandemia, otro punto porcentual menos, se sigue contrayendo la pandemia en el mundo, 38 por ciento, ahora representan sólo los casos en los últimos 14 días; asimismo, podemos continuar viendo cómo se hace cada vez más visible la diferencia que hay entre los casos que se confirman en los últimos 14 días en el continente europeo, así como los que se confirman en la región de las Américas.
 De hecho, la región de Europa ya representa prácticamente el 40 por ciento solamente de los casos en los últimos 14 días y las Américas con los 535 mil 172 se mantiene alrededor de un 48 por ciento, es prácticamente la mitad de todos los casos que se han confirmado en el mundo en los últimos 14 días; por lo tanto, es donde la pandemia se mantiene todavía activa en función de estos casos.
 La tasa de letalidad global se mantenido durante los últimos días estable en el dato que venía también desde la última semana en 6.9 por ciento.
 Si pasamos a la siguiente diapositiva vamos a ver la actualización de las cifras para México, 16 mil 752 casos confirmados, que igualmente son los acumulados, es decir, todos los casos que han sucedido, todas las personas que han dado positivas a una prueba de laboratorio para SARS-CoV-2, representan ese total acumulado de 16 mil 752, pero igualmente la epidemia activa en el territorio mexicano son estos cinco mil 329 casos confirmados que en su momento iniciaron con signos y síntomas de la enfermedad, solamente en los últimos 14 días y esto viene a ser, ya decíamos, sólo una tercera parte de ese gran acumulado de casos que hemos tenido.
-Once mil 220 casos sospechosos.  Esa cifra sí incrementó del día anterior, recordando que de aquí podríamos tener más casos confirmados en un momento determinado; mil 569 lamentables defunciones que también han ocurrido a causa de la enfermedad, poco más de 49 mil personas que también dieron negativo a la prueba para virus SARS-CoV-2 y ya son más de 77 mil personas las que han sido estudiadas en México como casos sospechosos para la enfermedad.
+Once mil 220 casos sospechosos.  Esa cifra sí incrementó del día anterior, recordando que de aquí podríamos tener más casos confirmados en un momento determinado; mil 569 lamentables defunciones que también han ocurrido a causa de la enfermedad, poco más de 49 mil personas que también dieron negativo a la prueba para virus SARS-CoV-2 y ya son más de 77 mil personas las que han sido estudiadas en México como casos sospechosos para la enfermedad.
 En la siguiente diapositiva veremos la distribución de la carga acumulada, de la cantidad de casos acumulados de esos 16 mil 752, en donde ustedes podrán identificar en los colores más oscuros, el rojo y el marrón más oscuro aquellos estados que han concentrado desde el inicio de la epidemia la mayor cantidad de casos confirmados.
 En la siguiente diapositiva vemos esta misma distribución, pero en un orden ascendente para que ustedes puedan rápidamente identificar cuáles son estas entidades federativas que han acumulado la mayor carga de enfermedad y cuáles en un momento determinado inclusive se encuentran a lo mejor en otra fase diferente a la de estas entidades federativas en donde apenas están iniciando con una transmisión.
 En la siguiente diapositiva vamos a ver el mapa nuevamente, pero ahora sólo con la distribución de los cinco mil 329 casos que representan la epidemia activa en México.
@@ -45,9 +47,11 @@ Pero sí es importante mencionar que en la medida de que se incrementen los caso
 Esa sería la actualización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía, director general de Epidemiología.
 Le pido al doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, si nos presenta el informe de movilidad en el espacio público.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor. Con muchísimo gusto.
 Vamos a ver cuatro diapositivas con la movilidad. En esta ocasión hemos decidido presentar los gráficos por estado de la república con las dos fuentes distintas y diferenciadas. La línea azul son los datos de la empresa Google del sistema operativo y la línea amarilla es de Twitter.
 Entonces, lo que podemos ver, por ejemplo, en Aguascalientes, cómo en los últimos días a través de Twitter se ha mostrado un incremento en la movilidad que ya llega a cifras de menos del 50 por ciento, esto quiere decir que están ahorita recuperando movilidad. Invitamos a la población de Aguascalientes a regresar a su casa y mantener la Jornada Nacional de Sana Distancia.
 Baja California se mantiene por debajo del 50 por ciento de movilidad; Baja California Sur, a pesar de tener ahí con los datos de Twitter un pequeño pico de incremento en la movilidad, también ha regresado a números por debajo del 50 por ciento, al igual que Campeche que como pueden ver, las dos líneas van bastante de la mano como en los otros estados de la república.
@@ -66,22 +70,30 @@ Entonces, en general, a los usuarios de Twitter que están ahorita en sus casas,
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Gracias, doctor Ricardo Cortés.
 Sólo para que todos tengan presente, el periodo de observación, el periodo de monitoreo es del 15 de febrero hasta el 27 de abril, lo que se muestra en cada una de las 32 gráficas que mostró el doctor Ricardo Cortés.
 Vamos a tener entonces el video de la jefa Fabiana, si son tan amables y escuchemos con atención el mensaje que nos transmite y pasamos a preguntas.
 ---
 FABIANA ZEPEDA ARIAS, JEFA DE LA DIVISIÓN DE ENFERMERÍA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Cuando el personal de salud está en contacto con un paciente infectado con COVID debemos ser muy sensibles, porque esa persona también tiene miedo, también está consternada porque cambió su vida y dejó a su familia, y de un día a otro le avisaron que finalmente es sospechoso o confirmado de COVID.
 El paciente con COVID está aislado, no puede ver a nadie más que al personal de salud y hoy el personal de salud somos su familia temporal y somos una gran familia al final.
 ---
+VOZ DE MUJER
+Gobierno de México.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, a la jefa Fabiana, la maestra Fabiana Zepeda Arias, jefa de la División de Programas de Enfermería del Seguro Social.
 Abrimos a preguntas y respuestas. Ahora son poquitos, así que va a haber más tiempo. Usted, por favor.
 ---
 PREGUNTA
+Gracias. Buenas noches. Daniela Pastrana, de Pie de Página.
 Le quería preguntar, ha habido en el Reino Unido, Italia información sobre una variedad del virus que está provocando inflamación en los niños. Quería saber si tienen alguna información de eso básicamente. ¿Qué información tienen sobre eso?
 Luego, algo que ya ha explicado aquí, pero en esta semana hemos conocido ya de muchos más casos de gente que se empieza a sentir mal, cercanos a todos nosotros.
 ¿Queríamos saber qué es exactamente lo que tenemos qué hacer cuando si alguien se empieza a sentir mal, si se tiene cansado, si tiene dolor de cabeza?, ¿en qué momento uno tiene que definir si debe ir a un hospital o no?, ¿qué tenemos que hacer los que estemos alrededor, los que estemos incluso de pronto trabajando con algún compañero?, ¿qué es lo que se tiene que hacer exactamente?
 Y básicamente creo que es eso.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, gracias.
 Sobre lo que comenta de la variante del coronavirus, del nuevo coronavirus que podría estar dando mayor afección en niños, todavía no tenemos información que sea suficientemente confiable para comentarla.
 Efectivamente, vimos notas de prensa donde se menciona esto. Tratamos de rastrear si se trataba de un estudio científico o de un informe técnico consistente, no lo encontramos, las fuentes parecen ser más anecdóticas que documentales formales, pero lo seguiremos buscando y en caso de que exista alguna información útil, con mucho gusto la compartimos.
 Sobre su segunda pregunta, Daniela, gracias por hacerla y qué bueno que esté presente esta pregunta a través de las comunicadoras y comunicadores para también que la sociedad lo retome.
@@ -119,10 +131,12 @@ Si usted siente que tiene estas dificultades respiratorias o el dolor de pecho o
 Gracias. Vamos a pasar con usted y con usted.
 ---
 PREGUNTA
+Erick Hernández, del Diario Basta, para el Grupo Cantón.
 Doctor, la pregunta sería, para empezar, en Estados Unidos añadieron seis nuevos síntomas, entre escalofríos, la falta de olfato, del gusto; ¿aquí en México se ha presentado algún otro caso que presente este tipo de síntomas?
 Además, hacerle la pregunta sobre… Surge la duda todavía sobre la neumonía atípica, hay muchos casos, muchas muertes registradas por esta situación, entonces, si pudiera presentar las principales diferencias entre COVID y neumonía atípica para quedaran claras para la población.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Sobre la primera pregunta, desde luego tenemos muchísimos casos que tienen pérdida del olfato, que tienen pérdida del gusto y que tienen escalofríos, estos son síntomas generales de las enfermedades respiratorias agudas, y la razón es que estos virus, no sólo el virus SARS-CoV-2 causante de COVID, también el virus de influenza, rinovirus, adenovirus, metaneumovirus, otros coronavirus, afectan, dañan la superficie del aparato respiratorio, y el aparato respiratorio empieza en la nariz y termina en el último resquicio de los pulmones.
 Al inflamar esta mucosa, que es la superficie interna de la nariz se inflama y se deterioran el tejido, y esto puede afectar la capacidad de sensación del olfato o del gusto. Generalmente es una pérdida temporal, en las personas que se recuperan pueden pasar algunas semanas, a veces incluso un par de meses antes de recuperarse de esta sensación. No es un predictor de gravedad, no quiere decir que la persona que perdió el olfato o el gusto tiene mayor probabilidad de complicarse, no, no tiene nada que ver con esto.
 Y el escalofrío es propio de la fiebre, es un síntoma que antecede a la fiebre, generalmente se percibe como una sensación de irritación generalizada, puede empezar la persona a temblar sin control, y es precisamente el mecanismo que está anterior al aumento de la temperatura corporal.
@@ -144,28 +158,53 @@ Muchas gracias.
 Usted, por favor.
 ---
 PREGUNTA
+Buenas noches. Dulce Soto, del periódico Reforma.
 Quiero preguntarles si ya lograron documentar o ya tienen los datos de qué porcentaje de personas intubadas fallece o mejora, por favor.
 Y quiero preguntarles también si tienen información de qué perfiles por ocupación son los que se están contagiando más; es decir, si pueden ser personas que se dedican… que son choferes, que son obreros, por qué grupos de ocupación.
 Y la tercera pregunta sería si una vez que ven el historial médico de estas personas que se están contagiando, pueden determinar en dónde se sospecha que pudieron adquirir el virus, por favor.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Le pido al doctor Alomía si nos explica todo esto.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí. Los expertos en el tema de atención médica han reportado que en promedio, y esto depende lógicamente tanto de las unidades como de las entidades federativas, pero en promedio entre el 60 y el 80 por ciento de las personas que están en una persona crítica, es decir, que necesitan ser intubadas y están con un ventilador mecánico, lamentablemente terminan falleciendo.
 La segunda pregunta, perdón.
 ---
+INTERLOCUTORA
+Por ocupación, ¿qué grupos son los que más se están contagiando?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Por ocupación, hay una distribución sí, déjeme consulto el dato específicamente y ahorita se lo comento si hay un análisis de esto.
 Lo que pasa es que hay una categoría dentro de la red que en su momento modifica esto, que dice ocupación empleado, entonces, estos son los que tienen la mayor proporción, digamos, de personas que han enfermado del dato; sin embargo, muchas veces se utiliza esa categoría porque así lo refiere el paciente cuando es entrevistado, pero no necesariamente el paciente especifica algún tipo de profesión u ocupación, sino que es una variable que se puede seleccionar del estudio epidemiológico, y ese esta de empleado la que normalmente la mayor cantidad, casi el 42, 43 por ciento.
 ---
+INTERLOCUTORA
+Más allá de lo que les diga el paciente o lo que les responda, ¿ustedes cómo describirían la categoría de empleados?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+No lo podemos nosotros describir porque, o sea, esto es información que el paciente nos da, nosotros no podemos hacer una interpretación más allá de lo que el paciente nos dice.
+---
+INTERLOCUTORA
+Las muertes por neumonía atípica que, digamos, que están como pendientes de un resultado en caso de que se hubiera hecho una prueba, ¿tendrían que sumarse a las muertes por COVID-19?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No todas, no todas. Por eso también es importante el seguimiento del porcentaje de positividad, porque el porcentaje de positividad nos refleja el predominio que tiene una de las causas infecciosas que es el SARS-CoV-2, el virus causante del COVID, respecto a otras posibles causas, algunas de ellas infecciosas y otras no infecciosas.
 Y, por otro lado, no todas las características radiológicas, clínicas y epidemiológicas son necesariamente compatibles en cada persona con la sospecha de COVID.
 Entonces, por eso es importante el dictamen, es decir, no es sólo un asunto estadístico de súmese y ya, se necesita la experiencia clínica de quién conoció al paciente, a la paciente, para tener esta información y este consenso de dictamen.
 ---
+INTERLOCUTORA
+¿(inaudible) dónde pudieron haber adquirido el virus?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, en el historial, digamos, en las variables, todavía se continúa con la variable de antecedentes en donde se exploran, en un momento determinado se hacen preguntas al paciente de dónde estuvo en los últimos 14 días, incluido si hubo algún antecedente de viaje como tal.
 Entonces, son datos que en su momento pueden ser consultados, digamos, en la base de datos o se puede hacer una investigación, recordando que el estudio epidemiológico, el estudio de caso, tiene más de 120, 130 variables en total, de estas se han seleccionado las principales para poder ser publicadas en datos abiertos.
 Pero nos han estado llegando diferentes tipos de solicitudes a través de Inai, a través de correos electrónicos, a través de mensajes en redes sociales, donde en ocasiones son varias o muchas personas las que piden una variable o un dato más. Se analiza, se procesa y si ese dato en su momento incumple algunas de las disposiciones que también se tienen para la protección de datos personales de los pacientes se pueden continuar agregando a la base de datos a la que se publica de manera de datos abiertos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 El doctor Ricardo Cortés, tiene un comentario.
 ---
 RICARDO CORTÉS ALCALÁ
+Sí, muchísimas gracias, doctor.
 La pregunta sobre ¿en dónde me contagié? Me parece que hemos descrito las diferencias entre los escenarios o fases en donde en el escenario 1, fase 2, la importancia era de dónde habíamos importado el virus; en el escenario 2 se pierde esa capacidad, en el escenario 3 aún más.
 La pregunta más importante que debemos de hacernos no es en dónde me contagié, sino por qué. Y al final de cuentas me contagié, o porque me escupieron en la cara y no me di cuenta o porque no me lavé las manos antes de llevarme la cara a mis ojos, a mi nariz o a mi boca, porque no guardé Susana distancia.
 Entonces, ese es el, creo, uno de los detalles más importantes que debemos de llevarle a todos en casa. Es al final de cuentas manteniendo sana distancia, lavando las manos y haciendo un correcto uso de la etiqueta respiratoria es como más nos vamos a proteger.
@@ -173,9 +212,28 @@ A diferencia de una ocupación que es básicamente la de mayor riesgo, que son l
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Cortés.
 Última pregunta, allá, por favor.
 ---
 PREGUNTA
+Buenas noches. Gilberto Molina, de Canal Once.
 Doctor Gatell, hoy se publicó una crónica de un colega reportero donde mencionaba -él se recupera de COVID- mencionaba que en un hospital privado quisieron condicionarle la aplicación de la prueba a la realización de otros test, bajo el falso argumento de que así lo indicaba el protocolo de la Secretaría de Salud.
 La pregunta es si se va a revisar la actuación de estos hospitales privados con los que se está coordinando precisamente el gobierno federal para evitar este tipo de prácticas en el futuro, que bueno, a todas luces son indeseables.
 Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Gilberto, de Canal Once, por este señalamiento y esta denuncia sobre un hecho.
+Le agradezco mucho si ahorita al final de la conferencia nos comparte información específica sobre el hospital.
+Ahora, aprovecho para aclararlo en términos generales. En primer lugar, el gobierno no ha firmado ningún convenio para la atención de COVID con hospitales privados. El convenio que se firmó es para la atención, son seis condiciones clínicas o seis procedimientos, no voy a recordar en este momento cada uno de ellos, pero incluye la atención del parto y el puerperio, la realización de hemodiálisis, la atención de úlceras sangrantes, la colecistitis aguda, es la inflamación de la vesícula, que requiere un procedimiento quirúrgico, y no recuerdo las otras dos.
+Son seis condiciones clínicas que se seleccionaron porque son razonablemente frecuentes y eso, el propósito, es que ciertas instituciones públicas puedan liberar espacio al desplazar la atención de sus derechohabientes a ciertos hospitales privados. No es todos los hospitales privados y no son todas las enfermedades.
+Y generalmente en términos de este convenio es mayormente para utilidad del Instituto Mexicano del Seguro Social, con quien se estableció un tabulador de costos para la atención. Y el propósito es que la atención, aunque ocurra en hospitales privados, en ciertos hospitales privados, no se cobre a costos de medicina privada comerciales, sino a un costo referencial que estableció el Instituto Mexicano del Seguro Social.
+Entonces, segundo, no hay ningún condicionamiento para la atención de COVID en hospitales privados, Cualquier persona que considere que puede y quiere hacerlo, puede libremente ir a un hospital privado, si prefiere hacerlo en vez de ir a un hospital público.
+Y la Secretaría de Salud no estipula ningunas condiciones mínimas para hacer pruebas como un condicionante para hacer las pruebas diagnósticas del coronavirus; de hecho, como hemos dicho, esto hace mucho que no lo decíamos, yo pensé que ya había quedado superado, pero lo repetimos, la prueba diagnóstica de coronavirus, del nuevo coronavirus causante de COVID no es para uso clínico.
+¿Qué quiere decir esto?
+Aquí está una persona enferma que tiene fiebre, tos, dolor de garganta y además puede tener pérdida del olfato y del gusto, escurrimiento nasal, escalofríos, etcétera, hay una sospecha clínica, médica, la propia persona puede sospechar de inicio que padece COVID, y además es una persona que tiene mayor probabilidad de complicarse, por lo que explicamos a detalle hace unos minutos.
+El médico, la médica no necesita comprobar por laboratorio que esa persona tiene infección por el nuevo coronavirus para tomar una decisión médica de protección, de atención, de la persona enferma que tiene frente así, porque lo relevante ahí es que si tiene neumonitis, si tiene lesión de los pulmones, si tiene daño pulmonar agudo como conocemos también a este síndrome, y la persona no está oxigenando bien la sangre, va a necesitar una atención más avanzada con oxígeno, si está muy grave en terapia intensiva con ventilador mecánico, si no está tan grave quizá con una mascarilla con puntas nasales, más otras cosas, independientemente de que tenga la demostración de que tiene o no COVID.
+Y la prueba tiene una utilidad de vigilancia epidemiológica. Vigilancia epidemiológica es el proceso de reconocimiento a nivel de la población de cuánto circula del virus, a qué velocidad, en qué territorios, en qué personas, etcétera, etcétera, etcétera.
+Entonces, no debe haber condicionamiento para ello. Aquellos hospitales públicos que han mostrado… perdón, privados que han mostrado su capacidad técnica fueron posiblemente sujetos de una evaluación comparativa por el Indre y se dijo: Eres igual de competente que el estándar nacional que está en el Indre y que está validado por la Organización Mundial de la Salud, pero nada más.
+Y el gobierno no establece precios de referencia. Sólo para que lo sepan, una de estas pruebas suele costar un poquito más de dos mil pesos, sólo para que lo tengan como referencia de lo que les quisieran cobra en un hospital privado, que sepan que el costo de producción es como de dos mil pesos.
+Pero si me pasa los datos le damos seguimiento.
+Muchas gracias. Aquí terminamos, son las 20:00 horas en punto, martes 28 de abril. Gracias.

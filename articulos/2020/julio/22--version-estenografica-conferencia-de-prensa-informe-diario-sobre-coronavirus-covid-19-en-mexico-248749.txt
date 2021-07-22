@@ -3,6 +3,7 @@ Presidencia de la República
 22 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. son las 19:02 del miércoles 22 de julio de 2020 y vamos a iniciar en el Palacio Nacional de México, en la Ciudad de México, la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy vamos a abordar un tema importante que es… bueno, vamos a dar el informe técnico, que presentará el doctor José Luis Alomía.
 Y nos acompaña y nos da mucho gusto nuestra colega la doctora Karla Berdichevsky Feldman, quien es la directora general del Centro Nacional de Equidad de Género y Salud Reproductiva de la Secretaría de Salud. Ya ha venido en otras ocasiones, ella ha estado a cargo de todo el tema de la salud reproductiva, la salud de las mujeres, desde luego temas importantísimos como la violencia de género y otros elementos que nos han tenido ocupados y atentos durante la pandemia de COVID.
 Y uno de los temas que ha sido de especial interés dentro de este campo de trabajo es la salud materna y la mortalidad materna. COVID o la epidemia causada por COVID, por el virus SARS-CoV-2, desde el inicio la consideramos como una amenaza para la salud y la vida de las mujeres embarazadas.
@@ -12,6 +13,7 @@ Ya nos contará también que en la mañana participó en un foro organizado por 
 Vamos a empezar entonces y le pido al doctor Alomía si presenta el informe técnico, enseguida a la doctora Feldman, conscientes de que dejemos un poquito de tiempo para las preguntas y las respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto.
 Muy buenas tardes todas y con todos.
 Veamos, por favor, la primera diapositiva de esta conferencia vespertina número 145, en el día 52 de la Nueva Normalidad. Actualizamos, rápidamente, las estadísticas en el escenario nacional, que es precisamente la siguiente diapositiva, en donde vamos a ver distribuidas las más de ya hoy 860 mil personas que en su momento fueron clasificadas como casos sospechosos de la enfermedad.
 De estas, podemos ver que en las barras de color naranja claro, que son las que están en la parte basal, son las que dieron positivo en la prueba para el virus SARS-CoV-2 y por lo tanto son nuestros casos confirmados, las que se encuentran distribuidas en las barras de color lila son las que dieron negativo, por lo tanto están descartadas a la enfermedad y en las barras naranja claro aquellas que todavía tienen pendiente un resultado sospechoso.
@@ -64,9 +66,11 @@ Lamentablemente han ocurrido 83 defunciones maternas por COVID-19 o confirmadas 
 Esa sería la información de esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía.
 Con esta información, al final del informe técnico la doctora Karla Berdichevsky Feldman nos pondrá en el contexto amplio de este fenómeno.
 ---
 KARLA BERDICHEVSKY FELDMAN, DIRECTORA GENERAL DEL CENTRO NACIONAL DE EQUIDAD DE GÉNERO Y SALUD REPRODUCTIVA
+Muchas gracias, doctor López-Gatell, doctor Alomía por la introducción al tema que vamos a tratar el día de hoy.
 Si me puede dar la primera lámina, por favor.
 Partiendo de esta información epidemiológica que se registra todos los días en los sistemas de información que tiene implementado la Dirección General de Epidemiología que recaba datos a nivel nacional, nos preguntamos qué indican estas cifras de muerte materna durante la epidemia por COVID-19.
 En primer lugar, estos casos de muerte materna son muertes que deben ser analizadas y que requieren de un dictamen muy preciso por los comités hospitalarios.
@@ -119,21 +123,32 @@ Y solamente recordar que la responsabilidad es de todos para cuidar nuestra salu
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Karla Berdichevsky, directora del Centro Nacional de Equidad de Género y Salud Reproductiva.
 Vamos a empezar por acá con Fernanda Mendoza, Glucosa Atómica; Daniela Pastrana, que quedó pendiente ayer, y Carlos.
 ---
+PREGUNTA
+Subsecretario, buenas noches. Héctor García, de Diario Basta y Grupo Cantón.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nada más una pregunta por cada uno, si no, no nos da tiempo.
+---
 INTERLOCUTOR
+Una pregunta, perfecto.
 Desde el punto de vista de la federación y base técnica, ¿cómo enfrenta el gobierno de Tabasco la pandemia?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Como hemos presentado aquí, cada entidad federativa la vamos presentando con los datos técnicos, nos abstenemos de una calificación, esto no tiene sentido, aquí presentamos los datos objetivos y cada quien puede interpretar cuál es la situación de riesgo que enfrenta cada estado en cada momento.
 Hemos dicho una y otra vez, aquí no se trata de calificar o descalificar, o premiar o aplaudir, o desestimar. Todos los gobiernos estatales están haciendo un esfuerzo muy sustancial, todos los gobiernos estatales están muy comprometidos trabajando armónicamente con la Secretaría de Salud y el gobierno federal y así hay que seguir, todavía nos faltan muchas semanas de epidemia. Gracias.
 Fernanda Mendoza.
 ---
 PREGUNTA
+Gracias, doctor. Fernanda Mendoza, para Glucosa Atómica.
 Hace algunos días, cuando el doctor Simón Kawa presentó la guía de práctica clínica mencionó algunos medicamentos. Entonces, quisiera preguntarle: ¿qué ensayos clínicos se están realizando en México?, ¿en qué hospitales?, ¿qué necesita un paciente para ser parte de estos ensayos clínicos?
 También pedirle, por favor, si pudiera darnos su opinión sobre el dióxido de cloro, porque hay muchas personas que lo están promocionando como la cura milagrosa para el COVID y, la verdad, es algo alarmante.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Sobre lo primero, de los ensayos clínicos vamos a prepararlo para tener la información más actualizada. Ha habido varios ensayos clínicos en distintas instituciones y vamos a hacer una síntesis y la traemos.
 Sobre el dióxido de cloro y también otros productos semejantes, como lo dijo el doctor Simón Kawa, director general de Institutos Nacionales de Salud, el día que vino aquí, con la doctora Alethse de la Torre, y presentó la actualización a la guía de práctica clínica para COVID no existe evidencia científica, repito, no existe evidencia científica, ni en México ni en el mundo, que muestre que el dióxido de cloro es un producto eficaz y tampoco necesariamente seguro para el control, prevención o tratamiento de COVID-19.
 Efectivamente, se ha difundido por distintos mecanismos de redes sociales, videos, el internet, páginas, etcétera, la idea de que este producto podría ser benéfico para prevenir o tratar el COVID o la COVID. No existe evidencia científica, no es un producto autorizado por las autoridades sanitarias, ni de México ni de ningún otro país.
@@ -141,12 +156,17 @@ Recientemente, también se difundieron videos de que, en algunos países sudamer
 Carlos, Daniela Pastrana y Carlos Guzmán, y Carlos, de UnomásUno.
 ---
 PREGUNTA
+Gracias, doctor. Buenas noches.
 Tengo una pregunta de hoy y otra de ayer. La de hoy, nosotros publicamos un reportaje sobre los partos, sobre la situación de las mujeres embarazadas y con muchas fallas a la operación de estos lineamientos, mucha confusión, pero una de las cosas que nos llamaba la atención es que en este convenio con los hospitales privados sí se están atendiendo partos y cesáreas, pero los que les dicen es que las consultas en el embarazo no.
 Entonces queríamos saber si esto es real y qué pueden hacer esas mujeres que obviamente necesitan tener consultas prenatales antes de presentarse a un parto o a una cesárea.
 Y en lo que iba a ser ayer tiene que ver con los niños que no han tenido vacunas y otras personas de la tercera edad o que tienen alguna enfermedad, alguna complicación, que en estos meses por el miedo de acercarse a un centro de salud, por el miedo al contagio, no han estado atendiendo, ni sus rehabilitaciones ni su vacunación.
 Entonces, si hay algún plan o hay alguna estrategia para regularizarlos y cuándo sería prudente que sí se puedan digamos acercar por sus medicinas o algo así.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Doctora Karla.
+---
 KARLA BERDICHEVSKY FELDMAN
+Muchas gracias. El convenio ciertamente es solamente para la atención del momento del parto, o sea para la atención de partos y para la realización de cesáreas.
 Entonces, creo que vale la pena recordar a la población que con este lineamiento lo que se pretende es que la población tenga la suficiente seguridad.
 Sabemos justamente por las llamadas que recibimos en la línea materna o por los informes que nos dan las organizaciones de la sociedad civil que las mujeres lo que tienen es miedo, es miedo de ir a los servicios, porque perciben un riesgo infectarse en los propios servicios.
 Y para ello es que hemos diseñado este lineamiento en donde se marca muy claramente qué protección debe utilizar el personal de salud para darle también la seguridad a las usuarias de los servicios de que existen estas medidas que han sido delimitadas para trazar una atención en donde se separa a las mujeres que tienen síntomas de COVID o que son un caso confirmado o a la población en general que tiene COVID o sospecha de COVID, y los servicios están claramente delimitados para esa atención.
@@ -154,6 +174,7 @@ Y, por otro lado, se pretende también trazar una ruta para la atención de las 
 Igualmente, hay disposiciones para la atención a la persona recién nacida que en su caso si discrepa, por ejemplo, y tiene una madre el contagio y el recién nacido no lo sabemos, pues se realizan todas las medidas para proteger a la persona recién nacida, pero para también determinar si tiene la infección.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Berdichevsky.
 Y sobre lo segundo, efectivamente, en el mundo entero, pero también en México la epidemia ha causado dos retos importantes respecto a la continuidad de operaciones de la atención convencional.
 El primero es que las unidades COVID se lograron a partir de reconvertir otras unidades de salud que se dedicaban antes a múltiples propósitos, esto incluido algunos hospitales de referencia, como los institutos nacionales de salud, el Instituto Nacional de Nutrición y Ciencias Médicas Salvador Zubirán fue reconvertido en su totalidad, siendo que es uno de los más importantes hospitales de especialidades en México. Entonces, esto implica un reto porque obviamente lleva a rezagar la atención de ciertos padecimientos.
 Y el otro reto… Esto incluye cirugías y demás, esto lo comentamos abiertamente al principio, una de las mecánicas o formas de lograr la reconversión era el lograr diferir los servicios diagnósticos o terapéuticos, desde luego siempre y cuando no amenacen la continuidad de la conservación de la salud o la integridad de las personas, pero conforme se prolonga la epidemia se requiere tomar decisiones para restablecer la continuidad, hay un tiempo límite en la que está puede estar suspendida.
@@ -166,10 +187,18 @@ Porque la atención COVID se ha destinado, se ha preferenciado en las unidades a
 Creo que nos da tiempo para una última. Carlos Guzmán, de ABA Noticias.
 ---
 PREGUNTA
+Qué tal, doctores, doctora. Buenas noches. Carlos Guzmán, de ABA Noticias.
 Rápido, si nos puede ayudar con algunos números. Aproximadamente cada año se compran para influenza 32 millones de dosis de vacunas, el día de ayer se anunció esta posibilidad de que México pueda adquirir a fin de año esta vacuna, pero para coronavirus. ¿Cuánto es el número que se contempla de compra de este tipo de vacuna?
 Y, dos, si nos puede hablar un poco de las pruebas. Argentina es el único país en Latinoamericana, según la revista Lancet, que estábamos checando hace ratito en inglés, que va a hacer pruebas en población abierta. ¿En México se contempla esta posibilidad o hay alguna posibilidad?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Pruebas de la vacuna?
+---
+INTERLOCUTOR
+Sí, de la vacuna.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Existen múltiples vacunas. Esta mañana precisamente tuvimos una sesión con la iniciativa Covax, la iniciativa de la Organización Panamericana de la Salud, Organización Mundial de la Salud para establecer un marco de referencia de acceso equitativo a potenciales vacunas COVID.
 Las vacunas para COVID son varias las que son candidatas, hemos hablado aquí de más de 142 productos que están en distintas etapas de investigación de los cuales existen cerca de nueve que están ya en las fases casi finales de la investigación clínica y tres concretamente que están en la fase tres que es la última está de los ensayos clínicos controlados con más de… con miles de sujetos en experimentación.
 Y es importante que desde esta etapa en la que todavía no existe, que quede muy claro, en este momento hoy que es veintitantos de julio, 22 de julio, no existe todavía ninguna vacuna que haya demostrado eficacia y tampoco seguridad para su uso en humanos, ninguna, están en fases todavía de investigación.
 Sin embargo, es esperable que pudieran llegar a tener una vacuna o más y es muy importante que México participe en mecanismos de acceso equitativo, de acceso justo en términos de precios a las vacunas.
@@ -177,7 +206,29 @@ Por eso México ha tomado la decisión de encaminar sus esfuerzos al fondo rotat
 ¿Quién representa a México en la Organización Mundial de la Salud?
 La Secretaría de Salud, el secretario de Salud tiene la atribución específica de representar, él es el miembro de México en la Asamblea Mundial de la Salud y lo mismo en el Consejo Directivo de la Organización Panamericana de la Salud y es un gran gusto colaborar con este mecanismo.
 ---
+INTERLOCUTOR
+En el caso del número de dosis…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No hemos llegado todavía a eso, esta mañana que participamos en la reunión de la iniciativa Covax precisamente se conversó sobre como calcular la demanda, pero existen muchos elementos de definición que se necesitan hacer, no solo en México, sino en el mundo, porque entre otras cosas dependen de la magnitud o del nivel de eficacia que pudieran tener las vacunas y de cuáles pueden ser los objetivos específicos.
 Hay vacunas se usan con el objetivo de controlar o de eliminar la presencia de enfermedades infecciosas en la población y otra no, otras tienen como objetivo mitigar o reducir riesgos, tal es el caso de la vacuna contra la influenza, que no se utiliza con el propósito de eliminar o evitar que haya contagios de influenza, no. Se usa para reducir los riesgos de que la influenza se presente como una enfermedad grave en las poblaciones de más alto riesgo y es muy probable que este sea la perspectiva con COVID, pero todavía eso dependerá de la magnitud de la eficacia de las vacunas, misma que no se conoce porque todavía no ha sido demostrada en los ensayos clínicos.
 En México no tenemos una participación en los ensayos clínicos de las tres vacunas que están en este momento en la fase puntera, pero desde los científicas y científicos mexicanos en la parte de investigación clínica están siempre en capacidades de una participación eventual en esto.
 Terminamos aquí. Son las 20 horas con cinco minutos. Muchas gracias, doctora Berdichevsky, doctor Alomía, comunicadoras y comunicadores.
+---
+PREGUNTA
+¿Los contagios verticales existen?
+---
+KARLA BERDICHEVSKY FELDMAN
+Está en estudio, no se tiene evidencia científica.
+---
+INTERLOCUTOR
+(inaudible)
+---
+KARLA BERDICHEVSKY FELDMAN
+Tenemos un registro de personas recién nacidas; sin embargo, la transmisión vertical todavía está en estudio.
+---
+PREGUNTA
+(inaudible)
+---
+KARLA BERDICHEVSKY FELDMAN
+Sí, de acuerdo con la diapositiva, hoy se registra como la primera causa.

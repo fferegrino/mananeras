@@ -3,10 +3,12 @@ Presidencia de la República
 24 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 horas del domingo 24 de mayo de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México, vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a presentar el informe técnico, vamos a abundar sobre alguna información que ayer amablemente nos pedían sobre las pruebas de laboratorio y vamos a abrir a preguntas y respuestas.
 Le pido al doctor Alomía si es tan amable de presentar.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes todas y todos.
 Vamos a iniciar con la conferencia de prensa del día de hoy, 63 días ya de la Jornada Nacional de Sana Distancia, estamos iniciando lo que será la última semana completa de esta actividad nacional, que en su momento, como ustedes saben, tuvo como objetivo mitigar la transmisión, disminuir los contagios y por lo tanto también disminuir la carga hospitalaria y que esto permitiera atender a la población que enfermó por COVID-19 y que lo continua haciendo de una mejor manera.
 Esta semana se estará precisamente difundiendo ampliamente la nueva intervención que empezará precisamente a partir del 1º de junio, la nueva normalidad, que es una intervención ya no nacional en el sentido de que es igual para todas las entidades federativas o para todas las regiones, sino que ahora las acciones y las intervenciones comunitarias irán de la mano de la medición del riesgo que tenga cada una de estas para incrementar su transmisión o que ya la estén teniendo, de ahí la semaforización y los colores de estos que en su momento definirán qué acciones más intensas o menos intensas se llevarán en cada una de las actividades.
@@ -34,27 +36,36 @@ Ciudad de México, Estado de México, Baja California son los estados que hoy re
 Sería la actualización para esta noche. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Vamos a abrir a preguntas y respuestas. Blanca Valadez, bienvenida de regreso, usted, compañera, usted también. Adelante, por favor.
 ---
 PREGUNTA
+Muy buenas tardes, doctor. Hemos estado seguimiento a un caso de un médico legista que trabajó durante siete años, estoy hablado del doctor Uriel Mendoza. Él falleció por COVID, tenía contrataciones en la Secretaría de Salud en la Ciudad de México y, sin embargo, a la hora de morir, por este tipo de contrataciones eventuales, su familia quedó totalmente desprotegida.
 Quiero saber exactamente qué van a hacer con este personal que es contratado eventualmente y que puede morir en esta batalla que tenemos contra el COVID para que su familia no quede desamparada. ¿Hay una estrategia o la ley no les permite dar ese tipo de apoyos? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Me parece un tema muy importante. Lamento la muerte de este doctor, no sabía de este caso en concreto, pero el tema que el caso ilustra creo que es muy importante de atender.
 Habíamos comentado antes de COVID que en el Sistema Nacional de Salud en su conjunto había cerca de 98 mil trabajadores y trabajadoras de la salud en condiciones de contratación precarias, esto quiere decir que estaban contratados por honorarios, por un año, por dos, por tres, por cinco, por siete, había gente que estaba por más de 18 años contratada por honorarios, 98 mil personas y algunos hasta 18 años en todo el Sistema Nacional de Salud, esto quiere decir, las 32 secretarías estatales de salud, los 32 servicios estatales de salud, que es donde mayormente existe ese régimen de contratación.
 Esto, como lo mencionamos en su momento y lo vuelvo a decir, claramente es contrario a la ley, contrario a la Ley Federal del Trabajo y es, además, contrario a principios fundamentales de la justicia laboral y social porque obviamente, se está llevando a una situación de gran desventaja a las personas que están contratadas de esa manera.
 Y por esa razón una de las cuatro encomiendas del Instituto de Salud para el Bienestar, Insabi, es precisamente la regularización de todas estas plazas, y esta regularización, independientemente de la existencia de la epidemia de COVID, no se ha detenido, el proceso administrativo está coordinado por el Insabi y continuará.
 Ahora, el caso que usted me menciona…
 ---
+INTERLOCUTORA
+Uriel Elías Guzmán se llama la persona.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El caso del doctor Elías Guzmán me hace pensar que tenemos que, de manera dirigida, considerar precisamente todos los listados de personal de salud, que los temas, los presentamos cada semana, la estadística general, pero hay que ver de manera nominal cada caso y cuál es la circunstancia en términos legales y laborales en las que se encuentra, y buscar que los mecanismos de ley no sean un obstáculo para conseguir el amparo financiero, económico y social, en general, de las personas que son familiares de quienes pierden la vida en el cumplimiento heroico de su deber.
 Entonces, dejemos este tema pendiente porque no le tengo una respuesta concreta, no conocía yo el caso, pero gracias por mencionar y en el curso de la semana lo abordamos. Muchas gracias, Blanca.
 Por favor, Alfonso, usted, usted, usted, Alejandro, bienvenido, de regreso. Ah, pero estaba antes usted, antes de todos ustedes, ella, por favor, ella fue la segunda en levantar la mano. Adelante.
 ---
 PREGUNTA
+Olinka Valdez, de Eje Central.
 Para recordarle que ayer también quedó pendiente la información sobre la situación que guarda la pandemia en los centros penitenciarios.
 ¿Cuántos de los contagios que aquí se muestran corresponden a personas privadas de la libertad? ¿Cuál es la situación que guarda el personal de custodia, los familiares que acuden a verlo? ¿Cuántos ellos han fallecido?
 Y el protocolo que presentaron sólo corresponde a los centros federales, ¿qué hay con las autoridades estatales?, ¿será un tema que puedan tocar con los gobernadores en la reunión que van a tener el martes, si no mal recuerdo?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es un tema que se ha tratado desde el inicio en la fase de preparación.
 La manera en lo trabajamos fue: desde el mes de enero identificamos que las poblaciones privadas de la libertad en los distintos tipos de centros de reclusión, ya sea preventiva, ya sea posterior a la sentencia, representan desde el punto de vista epidemiológico una población con un mayor riesgo de propagación de enfermedades infecciosas, no solamente COVID, esto ocurre con muchas otras: tuberculosis, meningococo, neumococo, muchas, muchas otras.
 Sabíamos que era muy importante tener un protocolo técnico que especificara los mecanismos de prevención y los mecanismos de respuesta en la eventualidad de que se presentara un caso o un brote en un centro de reclusión.
 El lineamiento lo conocen ustedes, está disponible en la página desde que se publicó hace ya varias semanas. Aquí quiero reconocer el trabajo muy dedicado de la Dirección Federal de Centro de Reclusión federales, que nos ayudó mucho a identificar cuáles eran las condiciones en las que operan los Ceferesos y los Ceresos.
@@ -64,6 +75,7 @@ En algunas circunstancias se ha tenido que suspender de manera temporal las vist
 Entonces, tenemos información sobre lo que está ocurriendo o ha ocurrido, pero en general yo diría que dentro de lo que se esperaba podría ocurrir o, por ejemplo, comparado con lo que ocurrió en la pandemia de influenza 2009 hemos tenido una respuesta muy positiva por parte de las áreas respectivas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Complementar con la información en relación a que las intervenciones precisamente las realizan las entidades federativas en donde se encuentran ubicados, ya sean este tipo de instalaciones, tanto de nivel federal como de nivel estatal, la coordinación siempre es con la entidad federativa.
 Es importante mencionar que no existe una variable como tal que identifique a una persona privada de la libertad, la variable que se tiene en el sistema es la de profesión, entonces, a través de profesión se trata de identificar diferentes áreas, tanto de profesionales como de ocupación, pero no existe una variable como tal que, digamos, identifique o ponga una etiqueta sobre una persona que diga que está recluida o que está privada de su libertad.
 Sin embargo, esta estadística en función de la intervención forma parte precisamente de las actividades propias de cada entidad federativa; por ejemplo, la Ciudad de México, que sí solicitó el apoyo directo del Indre, el Instituto de Diagnóstico y Referencia Epidemiológico, para apoyar con la toma de muestra de su intervención o de las actividades que diseñó para atender a sus centros penitenciarios, son 11 centros, son 11 unidades las que está apoyando el Indre con el muestreo y hasta el corte del día viernes se habían tomado un total de mil 578 muestras.
 Estas muestras incluyen no solamente a personas privadas de su libertad, también incluyen a aquellos que están por ingresar al reclusorio e incluye también al personal que labora en el mismo, todo el personal que en su momento labora.
@@ -72,19 +84,26 @@ Todos estos centros penitenciarios tienen una unidad médica, es parte de su reg
 Entonces, cuando detecta casos sospechosos, ya sea de su personal de las personas al interior que están recluidas se clasifican como tal, se hace todo el proceso de atención y cuando se detecta se toman las medidas precisamente para poder en su momento evitar la dispersión y los brotes.
 Entonces, una actividad que está en el nivel local es muy activa, hay mucha coordinación y en el día a día ellos lo están realizando.
 ---
+INTERLOCUTORA
+Pero de las mil 578, ¿cuáles son los resultados?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Precisamente, como es una actividad de la Ciudad de México, nosotros somos un laboratorio que estamos apoyando con la actividad y ellos en su momento son los que definieron qué tipo de acciones van a tomar en función del muestreo y a quiénes van a muestrear.
 A lo mejor tendría que ser una información que tendríamos que pedir directamente a la Ciudad de México, ya que son sus datos, es su información y es la que ellos llevan a cabo. Yo considero que las áreas correspondientes de salud en la Ciudad de México podrían platicar o entregar más información al respecto.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+También quiero comentar que José Ángel Ávila, el licenciado José Ángel Ávila Pérez, quien es el titular del órgano administrativo desconcentrado de Prevención y Readaptación Social, es justamente nuestro colega que articuló todos los protocolos y que da la asistencia directa a este órgano administrativo desconcentrado para las prisiones estatales.
 Pero con gusto podemos pedirle que nos acompañe aquí en la conferencia o que nos dé un informe sobre los hallazgos que ha tenido a lo largo de estos meses y se lo compartimos a usted y a todo mundo.
 Usted, Alfonso, ya estaba Alfonso, allá tiene un micrófono.
 ---
 PREGUNTA
+Gracias. Poncho Gutiérrez.
 La primera opinión que tenga usted acerca del documento que acaba de anunciar el presidente López Obrador acerca de esta postulación de usted de la Organización Mundial de la Salud, de la OMS, para que usted forme parte del grupo de expertos del Reglamento Sanitario Internacional. ¿Aceptaría, no aceptaría?, ¿nos estamos adelantando mucho?
 La segunda, algunas personas tienen esta impresión acerca de que falló la estrategia fallaron los cálculos y que por eso el 1º de junio no se va a hacer este regreso a la nueva normalidad a nivel nacional, incluso algunos medios están manejando esa versión. ¿Qué aclaración nos puede dar?
 Y la tercera pregunta, para el doctor Alomía. Estas medidas de salud que hemos tenido de la sana distancia, del aislamiento, sabemos que el objetivo es para reducir los casos de COVID-19, pero ¿ha tenido algún impacto positivo en otras enfermedades respiratorias o enfermedades incluso virales de cualquier otro tipo?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por las preguntas.
 Sobre la primera, explico de qué se trata y agradezco públicamente al presidente por hacer mención de distinción al país, realmente la tomo más como una distinción al país que la persona. Se trata de lo siguiente.
 El Reglamento Sanitario Internacional es el documento jurídico vinculante para todos los Estados miembros de la Organización Mundial de la Salud y en su versión 2005, que es la que está vigente hasta el momento, se establecieron cambios muy sustanciales en las prácticas de vigilancia, de prevención, de control, de respuesta, de preparación, de recuperación, en fin, todo el armamentario de la salud pública global, particularmente la referida a eventos de interés internacional agudos, como pueden ser las epidemias, las pandemias.
 Y entre sus consideraciones este reglamento considera que se debe establecer un grupo de personas expertas, y se llama así, la lista de personas expertas, que representen a las distintas comunidades profesionales del mundo y que participen en los distintos procesos de reflexión, de análisis, en su momento también de examen de las respuestas que tienen tanto los países como la propia organización ante este tipo de fenómenos.
@@ -97,7 +116,11 @@ La encomienda es una gran responsabilidad porque obviamente tiene que ver en el 
 Para mí es un enorme privilegio, es una distinción, tengo un absoluto respeto por la salud por la Organización Mundial de la Salud y desde luego aceptaría con gusto, una vez que sea formalizada la anuencia del Gobierno de México, que tendrá que ser turnada a través de la cancillería y en cuanto me contacte la organización pues estaré presto para cumplir con esa encomienda.
 Sobre…
 ---
+INTERLOCUTOR
+La impresión de que ha fallado la estrategia al 1º de junio.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Este tema del 1º de junio, conforme nos aceramos al fin de la Jornada Nacional de Sana Distancia hemos estado aclarando una y otra vez, y lo haremos con mayor énfasis, en la última semana que resta de la jornada, que no se trata de volver a la normalidad, que al expirar el periodo de la Jornada Nacional de Sana Distancia no se quitan las restricciones de movilidad o de funcionamiento en el espacio laboral, educativo y en general el espacio público en todos los lugares del país y en una forma uniforme. Esto debe de quedar extraordinariamente claro.
 El 1º de junio no es que salgamos a hacer todo lo que solíamos hacer. En una parte importante de ciudades, principalmente ciudades, desde luego incluye la Ciudad de México, no se puede hacer eso porque en caso de hacerlo pondríamos en grave riesgo el manejo de la epidemia, el control de la epidemia. El riesgo grande es que haya un repunte de la epidemia, que empezaran a acelerarse los contagios, por lo tanto los casos y eventualmente las defunciones.
 Esto naturalmente causa desconcierto a quien tenía la expectativa de que el 1º de junio eso iba a ocurrir; por el contrario, y lo hemos explicado en los últimos días, hay personas que, todo lo contrario, quisieran ver una Jornada Nacional de Sana Distancia que se prolongue por mucho mayor tiempo.
 Pero el punto es que una vez quitada o expirada la jornada nacional, las autoridades estatales, que son por ley autoridades sanitarias, tendrán que tomar decisiones sobre cómo instrumentar las disposiciones generales de la autoridad sanitaria federal; es decir, las autoridades estatales podrán poner restricciones adicionales, pero no podrán poner condiciones que disminuyan la efectividad de las disposiciones federales.
@@ -106,6 +129,7 @@ Entonces, mi respeto desde luego a cualquiera que tenga opiniones en un sentido 
 Muchas gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Definitivamente sí, de las cinco vías o mecanismos de transmisión que normalmente se conocen en epidemiologia para la transmisión de enfermedades, precisamente el grupo de infecciones respiratorias en general utilizan principalmente dos, que son la vía área, la vía de gotas, muy poco el contacto, pero que también se presenta cuando en un momento lógicamente las personas interactúan, no porque se contagie a través de la piel, sino porque se contagian o, digamos, en este caso, se contaminan con las cargas virales.
 Y si a su vez eso no se previene con el lavado de manos o no se previene con llevarse las manos a la boca, la nariz, a los ojos, puede sobrevenir un contagio, pero digamos que es el mecanismo menos eficiente, aunque sí sucede.
 Pero volviendo al de gotas y al área, que es normalmente por el cual se trasmiten estas enfermedades, precisamente la Jornada Nacional de Sana Distancia tenía como objetivo incidir en limitar este tipo de interacciones, hablando de este 1.5 metros, precisamente, que se refiere el mensaje de Susana Distancia es justo para evitar que una persona que tose o que estornuda pueda en su momento contagiar de manera directa a las vías respiratorias, a las mucosas respiratorias el virus. El hecho de disminuir la interacción social quedándose en casa y no saliendo a la escuela, no saliendo al trabajo, no saliendo a actividades sociales, definitivamente limita esta actividad.
 Y lo hemos visto registrado, precisamente en los canales endémicos. En muchas ocasiones hemos presentado los canales endémicos, no solamente en este caso o no específico de COVID, sino de todas las infecciones respiratorias agudas que en su momento se vigilan a través del Suive, que es el mecanismo a través del cual se notifican los casos nuevos de enfermedades sujetas a vigilancia epidemiológica.
@@ -115,33 +139,39 @@ Otro indicador es precisamente el porcentaje de positividad de influenza. El per
 Sin embargo, este año prácticamente desde la semana 14, 15 que es donde todavía se esperaba un poco de circulación de influenza, el porcentaje de positividad cayó hasta menos del uno por ciento, lo que habla que también hubo una disminución en la transmisión y es en la misma lógica ¿no, si disminuimos el mecanismo, la vía de transmisión de una enfermedad lógicamente todas aquellas que utilizan esa misma vía, ese mismo mecanismo también se van a ver disminuidas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Por favor y luego nos seguimos con ustedes dos.
 ---
 PREGUNTA
+Gracias, buenas noches. Juan Hernández, del periódico Basta y de Grupo Cantón.
 Este es un caso que le estamos dando seguimiento en el periódico y es del día viernes, que se dio a conocer que en la clínica 8 del IMSS el cuerpo del señor Pedro Hernández Ávila, quien al parecer falleció por COVID, no es encontrado por su familia. Esto también da como resultado que otra familia estaba velando unas cenizas que no correspondían a la de su familiar, que es de nombre, Fermín.
 Al final, el cuerpo de esta persona del difunto Fermín, Victoria Rosas, seguía en el hospital y esas cenizas fueron recogidas, pero el señor Hernández aún se encuentra desaparecido.
 Entonces queremos saber en este caso… Aquí la funeraria dio a conocer que las fotos de los cuerpos que presentó tampoco correspondían al del señor Pedro.
 Entonces, aquí hay un problema en el que queremos saber cuáles serían las consecuencias, precisamente de este caso, qué fallas se tendrían que corregir y sobre todo pues la aparición de este cuerpo. No sé si ustedes tengan conocimiento de esto caso o qué es lo que se tendría que hacer ahorita.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta. Es semejante a lo que comentábamos hace rato, es un caso muy particular y desde luego lamentable. Si los hechos son como los relata, estoy seguro que las familias estarán sufriendo una importante tribulación, un estado de desconcierto y de tristeza. Mi solidaridad con ellas y ojalá que esto se pueda resolver de manera pronta.
 Los mecanismos para esto no ocurra están contemplados en las leyes, hay una ley reglamentaria de la Ley General de Salud específicamente sobre la disposición de restos finales, existen desde luego procedimientos administrativos establecidos en todas las instituciones sobre el reconocimiento de personas fallecidas y desde luego existe también la Ley General de Víctimas, que tiene una condición muy peculiar, porque el tema es muy distinto al de una epidemia de enfermedades infecciosas, pero la hemos tomado en cuenta cuando hicimos el lineamiento precisamente sobre el manejo y disposición de restos finales.
 Entonces, no tenía conocimiento de este asunto, pero gracias por hacerlo de conocimiento de todas y todos, y estoy seguro que el Instituto Mexicano del Seguro Social, a través de su área de vinculación está trabajando de manera muy afanosa para solucionarlo, ojalá que se solucione pronto.
 Gracias.
 La compañera y después Alejandro, por favor, y nos seguimos aquí con Andrea. Sí, usted, por favor.
 ---
 PREGUNTA
+Gracias. Buenas noches. Paola Betancourt, de Multimedios Televisión.
 Quisiera preguntarle, bueno, hay un caso de más de 20 mexicanos que se encuentran varados en China, ellos refieren que ya tuvieron comunicación, incluso a través de Twitter con la cancillería, con el canciller Marcelo Ebrard, pero que no han recibido una respuesta concreta acerca de si podrán ser repatriados.
 Su propuesta es si quizás podrían enviar un vuelo humanitario o qué plan podría existir para que ellos pudieran ser repatriados, ya que les fue extendida la visa de manera humanitaria, pero está a punto de expirar esta visa y podrían ser acreedores a sanciones.
 ¿Existe algún plan para este grupo de más de 20 mexicanos varados allá en China?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. La cancillería, la Secretaría de Relaciones Exteriores, ha mantenido una enorme atención a todas las personas mexicanas de las que tiene conocimiento que se encuentran varadas por cualquier circunstancia esto también antes de COVID, durante COVID y desde luego es un proceso que continuará después de COVID. Ante cualquier circunstancia, a veces es una circunstancia política, a veces una de seguridad, a veces una económica, pero hay los mecanismos, en todos los consulados de México en el exterior tienen entrenamiento formal y los procedimientos administrativos y técnicos para tomar cartas en el asunto.
 En el caso de China sería cosa de actualizarnos sobre el caso que usted relata, le agradecería si nos deja la información puntual y precisa, pero desde luego recordarles a los familiares, las personas familiares de nuestros connacionales que están en el exterior que en todo momento pueden acudir a la cancillería, a la Secretaría de Relaciones Exteriores a través de la página de internet, a través de las cuentas de redes sociales los puntos focales que son ampliamente divulgados para establecer contacto con sus seres queridos que estén en otras partes del mundo; y en otras partes del mundo precisamente es a través de las embajadas, de los consulados con los que se establece esta coordinación.
 Al inicio de la epidemia, cuando estaba Wuhan como el punto focal de la epidemia, precisamente en un trabajo muy coordinado entre la Secretaría de Relaciones Exteriores y la Secretaría de Salud logramos articular la reintegración de a la patria de todas estas personas en condiciones de seguridad sanitaria.
 Si esto aplicara ahora, indudablemente seguiremos trabajando juntos. Gracias.
 Alejandro, por favor.
 ---
 PREGUNTA
+Sí, buenas noches. Alejandro Alemán, de Medicina Digital.
 Tengo tres planteamientos en relación a la base de datos abierta que se ha ido… bueno, que es la base para la información que se publica tanto por la UNAM como por el sitio de coronavirus, en fin, se utiliza muchísimo esa base de datos y aquí se ha visto.
 El primero es en relación a los casos positivos antes del 28 de abril, son 18 casos, están… digo, les hemos estado dando seguimiento y día tras día aparecen, o sea, y como ustedes han mencionado es una base de datos nominal, es decir, hay nombre y apellido y los casos han sido detectados en Baja California, en Aguascalientes, en la Ciudad de México, en fin, son 18 casos en total positivos a COVID a partir de enero.
 Entonces ya esta pregunta se la han hecho, se la hizo Reforma, se la hizo La Jornada, habló usted inclusive de una auditoría a la base de datos.
@@ -150,6 +180,7 @@ Y, por otro lado, preguntarle, las implicaciones políticas, que esas son muy cl
 Y si me permite, tengo dos cosas que las iría planteando.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias, Alejandro, por traer esto una vez más.
 Ahorita el doctor Alomía nos va a comentar sobre la mecánica de integración de esta base de datos y cómo se integra por parte de las distintas instituciones, cuáles son los sistemas de información, cómo se integra en una sola base central y cómo se pone a disposición del público y lo seguiremos haciendo, desde luego es muy importante que el público lo tenga a la mano para que quien tiene las habilidades y conocimientos para hacer estos análisis lo siga haciendo.
 No tiene implicaciones, ni sanitarias, las políticas ya dirán quienes sean agentes políticos, porque no son casos que hayan sido presentes en el territorio antes del 28 de febrero, es justo lo que hemos explicado.
 Lo sabemos perfectamente porque la fecha de inicio de los síntomas de estos casos y la auditoría se hizo y consiste precisamente en verificar la existencia de los casos y que estos casos, el estudio epidemiológico documenta cuándo presentaron los síntomas y cuándo fueron atendidos.
@@ -158,9 +189,14 @@ Y, en segundo lugar, porque en las fechas que usted refiere no existía el proce
 Entonces, ahorita el doctor Alomía nos va a explicar la parte tecnológica de esta base de datos.
 ---
 INTERLOCUTOR
+Nada más permítame hacer una precisión al respecto, es que eso fue lo mismo que usted planteó y, vamos, los casos los hemos estado revisando a lo largo de todos estos días y todos tienen una fecha de inicio de síntomas y posteriormente una fecha de registro por unidad médica, en ningún caso es al revés.
 En algunos casos sí se da que hayan pasado 15 o 20 días para el otro registro, que a lo mejor pudiera generar algún tipo de situación, pero son casos con nombre y apellido, son personas que existen, son unidades médicas de la Secretaría de Salud, del Issste, hay un caso privado, hay un caso de una persona que falleció, es decir, están identificados.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sé de lo que me habla, vamos a darle la palabra a…
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Complementando precisamente la respuesta, estos casos fueron ya notificados a sus unidades como tal, tanto a la institución como a la unidad precisamente en este proceso de revisión, ninguno inició con sintomatología en estas fechas, eso es lo que ya está verificado directamente con las unidades; de hecho, la fecha de la toma de la muestra para cada una de estas personas es en el mes de abril.
 Esto responde a un error en la parte de la notificación del dato, recordemos que la plataforma Sisver recibe la información directamente de todas las unidades en el país que notifican casos tanto unidades Sisver como unidades no Sisver que son todas las unidades del segundo y tercer nivel.
 La notificación seda por una persona que captura la información directamente en el sistema, en algunos casos puede ser directamente el médico epidemiólogo o el médico tratante, o en algunos casos puede ser una persona que ante precisamente la gran cantidad de casos sospechosos que se han dado se captura a través de un capturista y las unidades contratan capturistas, personas que se dedican solamente a capturar la información.
 En este proceso definitivamente puede haber fallas, puede haber errores al momento de capturar la información.
@@ -170,31 +206,46 @@ Con esa evidencia, ellos van a realizar en su momento el cambio, este cambio ló
 Esperamos que en su momento las modificaciones correspondientes de las unidades queden implementadas, pero sí es muy importante decir que nosotros no podemos directamente entrar y cambiar los datos solamente por voluntad.
 ---
 INTERLOCUTOR
+Claro, claro, no hay ningún problema, ahí está la base de datos y que en la consulta del banco aclarar los casos y no hay más.
 El segundo tema respecto a esta base de datos es la cifra de sospechosos. Entiendo que la carga es brutal de trabajo y no siempre da posibilidad de poderlos procesar. Estábamos hablando ayer de 31 mil, no sé ahorita cuántos vayan, y aquí el retraso detectado es en el IMSS de Querétaro el 7 de febrero, o sea, ha pasado mucho tiempo, es un masculino de 55 años, ambulatorio, ese es de los vivos.
 Y en el caso de los fallecidos el caso más atrasado de resultado pendiente corresponde al 9 de abril, a un hombre de 34 años, atendido en la Ciudad de México y originario del Estado de México.
 Aquí, igual que la anterior, ¿qué es lo que se pudiera hacer para agilizar?, porque yo creo que beneficia a todos el que haya menos casos sospechosos, entre más rápido sea esto se pueden tener mejores herramientas una vez que estemos en otra etapa.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Respondiendo también esta pregunta, efectivamente, recordemos que para poder emitir un resultado de una persona que el sistema notifica que se le tomó muestra, esta muestra debe de llegar precisamente a un laboratorio de la red, ya sea un laboratorio estatal, un laboratorio regional o el mismo Indre.
 Del seguimiento que se ha dado, lo ideal y lo esperado es que el 100 por ciento de las muestras llegara a destino o que llegando a destino estas fueran adecuadas, es decir, que el proceso de envío, que debe de ser en red de frío, el embalaje y las condiciones de la muestra siempre sean las adecuadas.
 Esto se mide, son controles de calidad que se están realizando, de hecho, en todas las redes y el control de calidad ha arrojado un buen porcentaje, de hecho, está por encima de lo esperado, que es un 95 por ciento; sin embargo, por procesos que están en la fase preanalítica, es decir, antes de que la muestra ingrese al procesamiento en el laboratorio, una muestra puede no llegar o lamentablemente una muestra puede llegar en malas condiciones y el laboratorio la rechaza.
 Si hay la posibilidad, porque la persona continúa hospitalizada o porque se le puede ubicar en su domicilio, la muestra se repite y se vuelve a enviar; lamentablemente en personas que fallecen una segunda muestra muchas veces ya no es posible.
 Sin embargo, no es que esta persona sea va a quedar sin una clasificación final, podrá quedarse, sí, sin un resultado de laboratorio, pero no sin una clasificación final, porque desde el momento en que fue notificada como sospechosa, o sea, de tener la enfermedad, entonces hay una clasificación que no necesita un resultado de laboratorio que es la clasificación clínica y epidemiológica que también llevan a cabo las unidades hospitalarias y las jurisdicciones sanitarias a través de la cual tienen ellos que dictaminar todos los casos que fueron clasificados como sospechosos y que lamentablemente fallecieron, independientemente de lo que haya pasado con la muestra o con su resultado.
 Entonces. en su momento se tendrá también la clasificación y esa persona podrá ser clasificada como un caso de COVID-19 si así el comité dictaminador lo define ¿verdad?
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
+---
 INTERLOCUTOR
+Nada más para concluir, el último comentario sobre la base de datos, del día 15 a la fecha lo que se está observando es que no están coincidiendo los números de lo que se da a conocer aquí a las 7:00 de la noche y el corte de la base de datos, no es algo que realmente sea muy grave, estamos hablando de decenas de casos, cientos casos.
 Entonces, me hace pensar que a lo mejor están haciendo otro corte después a las 8:00 de la noche y entonces ya no corresponde con el corte de la base de datos; y por la trascendencia que tiene tanto esta conferencia como la distribución de la base de datos, es simplemente una observación a que se busque que coincidan esos dos datos para que la información que tengamos tenga una sola fuente.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, vamos a procurar que sea el mismo horario de corte.
 Andrea, por favor. Nos quedan tres minutos.
 ---
 PREGUNTA
+Daniela.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Daniela, ya le estoy cambiando el nombre, a él le decía Mauricio y ahora le digo Alejandro. Daniela.
+---
+PREGUNTA
+Para cerrar, que es domingo, que estamos a punto de entrar también a esta nueva etapa de los semáforos.
 Siguiendo las preguntas de Poncho y de Alejandro, en esta semana vimos un debate muy fuerte en la OMS entre China, Estados Unidos por todos estos mismos temas, estamos todos los países, están en esta discusión sobre cuál es la mejor forma de monitorear y de atender la enfermedad y de atender la pandemia, y de pronto uno escucha estas discusiones muy puntuales sobre los números en todos lados.
 Entonces, más bien, quería ver si tienen una reflexión, si esto, o sea, si en esto que hemos pasado en estos meses desde el punto de vista de las políticas públicas hay algo que crean que nos ha faltado
 o que tendríamos que revisar o corregir, o si hay algo que cambiaría el hecho de que también en Brasil y en Uruguay estaban hablando de que hay casos antes de los que se detectaron y demás, o sea, si esto modificaría o habría modificado alguna de las decisiones que se han tomado.
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Daniela.
 Efectivamente, las lecciones que se pueden aprender de cualquier evento, de cualquier acontecimiento de interés público son innumerables y muy característicamente ante las crisis sanitarias hay un periodo formal o un ejercicio formal de aprendizaje que se llama así, lecciones aprendidas.
 En términos de la Organización Mundial de la Salud precisamente está contemplado en el Reglamento Sanitario Internacional del que hablábamos hace unos minutos, que exista un comité de examen y este comité de examen lo tiene que establecer, por indicación del director general de la organización, y se junta un grupo de personas expertas que surgen precisamente de estas listas de expertos, que se dedica a hacer la recopilación de la evidencia de cómo actuaron cada uno de los Estados miembros, cómo posiblemente hubieran podido actuar con las condiciones existentes y cómo se ilustra por la evidencia científica y técnica cuáles son las oportunidades de actuación en materia de preparación, de vigilancia, de respuesta, de recuperación, etcétera.
 Esto es un proceso largo, no muy largo, pero digamos que suele llevar… la referencia más cercana que tengo es la pandemia de influenza 2009, llevó más de 12 meses el proceso, incluye entrevistas a los Estados miembros. En aquella ocasión tuve la oportunidad de ser entrevistado precisamente por el hecho de que México, junto con Estados Unidos y Canadá fueron de los países iniciadores de la pandemia de influenza 2009.
@@ -207,3 +258,12 @@ Y desde mi punto de vista esta es una lección importantísima de tomar porque p
 Son varios elementos, un día si me lo permiten, con mucho gusto puedo comentarlo, esto es parte de uno de mis cursos de inteligencia epidemiológica y manejo de riesgos, pero el que quiero destacar ahorita es el hecho de que el manejo de las epidemias es mucho más efectivo cuando se hace un ejercicio de solidaridad global y se busca tener contención en la fuente de origen, en contraste con lo que históricamente han sido más común que es el que cada país se encierre en sus propios recursos, cierre fronteras, cierre vuelos y se fragmente la solidaridad global, eso está demostrado que hace menos efectivo el manejo de la epidemia.
 Entonces, manejo científico con una perspectiva de solidaridad global son elementos que desde mi punto de vista en su momento quedarán plasmados como lecciones aprendidas de lo que si debe hacerse en una pandemia.
 Muchas gracias. Aquí terminamos, son las 20 horas con un minuto. Muchas gracias por su atención. Nos vemos en la semana.
+---
+PREGUNTA
+Sobre el costo de las pruebas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El costo de las pruebas.
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+Si, fueron 60 millones 435 mil pesos.

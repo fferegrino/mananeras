@@ -1,0 +1,264 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+05 de noviembre de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches tengan todas y todos ustedes. Son las 19:00 de este jueves 5 de noviembre de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
+Hoy tenemos tres elementos de información.
+El primero es nuestro informe técnico diario para conocer la situación que guarda la epidemia de COVID-19 en México.
+El segundo es un elemento muy concreto, que tiene que ver con las pruebas diagnósticas. Hoy lo que queremos es explicar de nueva cuenta, lo hemos comentado en varias ocasiones, pero vamos a utilizar una diapositiva para hacer una síntesis de las pruebas diagnósticas útiles para COVID-19, en qué consisten, qué es lo que identifican, cómo se interpretan y cuál es el uso que le vamos a seguir dando en la conducción de la pandemia.
+En particular nos interesa destacar la prueba antigénica de funcionamiento rápido y esto es para que no haya confusión, como percibimos que está ocurriendo entre las llamadas tradicionalmente pruebas rápidas que detectan anticuerpos con respecto a la prueba rápida antigénica, que esta mañana en algunas notas de prensa veíamos que el gobierno de la Ciudad de México ya había comentado al respecto.
+Recordarán que la segunda semana de octubre ya habíamos anunciado aquí que es propósito del Gobierno de México para la Ciudad de México y para el resto de las entidades federativas utilizar estas pruebas rápidas antigénicas, muy distintas a las otras, ya lo explicará el doctor Alomía.
+Y hablamos también de que tenemos el privilegio de que la Organización Panamericana de la Salud/Organización Mundial de la Salud nos ha propuesto para recibir un donativo inicial de algunas de estas pruebas rápidas antigénicas.
+Finalmente, tenemos a un invitado muy especial con quien tuvimos la oportunidad de compartir la conferencia matutina del presidente esta mañana, que es nuestro querido amigo y colega, el doctor Alejandro Svarch Pérez. Muy bienvenido, mi estimado Alex. Es el coordinador general médico del Instituto de Salud para el Bienestar y quien está al frente, junto con su jefe, el maestro Juan Ferrer, nuestro también querido amigo, de un proyecto muy importante para acelerar la formación de profesionales de la salud en las especialidades médicas, que es un proyecto que fue explicado esta mañana, hubo algunas preguntas adicionales.
+Qué bueno que nos acompaña Daniel Blancas, que hizo algunos de los cuestionamientos y hoy venimos a completar la información al respecto; por cierto, si más adelante hubiera más preguntas, siempre será un gusto poder participar.
+Le agradecemos a Alex que nos acompañe esta noche.
+Le pido al doctor Alomía si es tan amable de empezar y posterior a las presentaciones abrimos a preguntas y respuestas.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
+Muy buenas noches a todas y a todos. Bienvenidos a la conferencia vespertina número 246, en este día también número 159 de la Nueva Normalidad, en donde a través del semáforo de riesgo COVID se pueden realizar actividades regionalizadas que contribuyen, lógicamente, por un lado, prevenir, mitigar los contagios, la transmisión de la enfermedad, pero del otro lado también favorece el inicio o la manutención de ciertas actividades en lo social y en lo público para poder también contribuir al bienestar de la población que es importante dentro del componente de salud.
+Si vemos la siguiente diapositiva, es precisamente el semáforo de riesgo COVID. Recordar a la población que estos niveles de riesgo y para cada entidad federativa están y estará vigentes todavía hasta el día domingo.
+El día de mañana estaremos presentando el nuevo análisis de riesgo que iniciará a partir del lunes, pero este está vigente hasta el domingo y en base a esos niveles de riesgo por favor atendamos y apliquemos las instrucciones y recomendaciones de las diferentes autoridades sanitarias.
+Veamos la siguiente diapositiva. Actualizamos hoy día las cifras. Tenemos nuestra curva epidémica en forma de barras con los diferentes grupos de personas que hasta el momento han sido estudiadas.
+Las que están en color verde ya salieron negativas, hoy día suman un millón 152 mil 767; para efectos de las barras de color café, que son las personas que ya fueron clasificadas como casos confirmados de COVID, el día de hoy 949 mil 197 acumulados desde que inició la epidemia en México.
+Treinta y nueve por ciento continúa nuestro indicador de positividad, de porcentaje de positividad desde que iniciamos con el domingo. Se ha mantenido toda la semana, veremos si todavía puede haber algún cambio en los siguientes dos días.
+Veamos la siguiente diapositiva, donde tenemos nuestra curva de casos estimados. Es la curva azul claro en la parte superior. Para el día de hoy tuvimos sólo el incremento de un punto porcentual, de tres por ciento que era el día de ayer de incremento entre la 42 y 43, hoy día es del cuatro por ciento y esperamos todavía algún incremento antes de cerrar la semana.
+Continúa en cuatro por ciento la actividad epidémica, es decir, los casos que en los últimos 14 días iniciaron con signos y síntomas. Este indicador también se ha mantenido prácticamente en este cuatro por ciento toda la semana.
+Y ya son más de 701 mil las personas que felizmente se han recuperado de la enfermedad hasta el momento en lo que va de la epidemia en México.
+Veamos la siguiente diapositiva. Es precisamente la mortalidad. Continuamos con este incremento entre las dos últimas semanas graficas de un más 13 por ciento, que para efectos de números representa una diferencia de 320 defunciones.
+Nuestras defunciones confirmadas, que están en las barras de color azul, para el día de hoy, lamentables todas ellas, son personas que han perdido la vida a consecuencia de las complicaciones de la enfermedad, son 93 mil 772.
+La disminución desde el punto más alto, desde la semana con mayores defunciones registradas continúa siendo para la semana 43 de un menos 48 por ciento.
+Veamos la siguiente diapositiva, que es precisamente la ocupación y disponibilidad hospitalaria. En el campo de las camas generales ya veníamos al estado de Chihuahua, una pequeña disminución, muy pequeña todavía, pero esperamos que a través de la reconversión y expansión que se está realizando en dicho estado esto continúe mejorando; 86 es su ocupación de camas generales para el día de hoy, y otras entidades que estarían entre el 50 y el 70 por ciento son precisamente, y en orden de ocupación, Durango, Coahuila, Nuevo León, Ciudad de México y Aguascalientes; después, todas las demás entidades tienen 42 por ciento o menos de ocupación de este tipo de camas.
+Si vemos la siguiente diapositiva. Nos enfocamos ahora en las camas con ventilador para los pacientes más críticos. Aquí al menos sí hay una mayor disponibilidad en Chihuahua, 37 por ciento; y solamente tenemos tres entidades por encima o entre el 50 y el 70, que son Aguascalientes, Durango y Nuevo León, y todas las demás con bastante porcentaje de disponibilidad de este tipo de camas, que son para los pacientes más críticos de la enfermedad.
+El día de hoy vamos a revisar la siguiente diapositiva. Esta información en el marco de que el Instituto de Diagnóstico y Referencia Epidemiológica está terminado, de hecho entre el día de hoy y mañana se publicarán de manera oficial los resultados de las evaluaciones de este grupo de pruebas que se han denominado pruebas antigénicas, que vienen a sumarse de alguna manera a las pruebas o tipo de pruebas que para identificar el virus SARS-CoV-2 o a las personas que padecieron de la enfermedad de COVID-19 han estado siendo utilizadas en México, ahorita recalcaremos, no todas ellas, recomendadas por la Secretaría de Salud para efectos de la vigilancia epidemiológica o el diagnóstico clínico.
+Pero empecemos con la primera, que es la más conocida, fue la prueba que en su momento es el estándar de oro, es la prueba que se recomienda por la Secretaría de Salud para confirmar casos de COVID-19 en el país, precisamente porque cuando vemos su desempeño tiene la sensibilidad y la especificidad más altas, ambas, tanto sensibilidad como especificidad son altas, por lo tanto, este desempeño nos permite contribuir a que los casos que están siendo confirmados son realmente COVID-19, tienen la presencia del virus SARS-CoV-2 y la posibilidad de falsos negativos o falsos positivos, es muy, muy reducida.
+Para poder en su momento tener un resultado por este tipo de prueba PCR, reacción en cadena de la polimerasa en tiempo real, necesitamos un exudado faríngeo o nasofaríngeo.
+Por eso, las personas que han sido muestreadas de esta manera lo hacen a través de un hisopo, este hisopo entra directamente por la boca hasta la faringe, ese sería el exudado faríngeo, o a través de cualquiera de las dos fosas nasales, también llegando hasta la zona de la faringe y ese es el nasofaríngeo.
+Precisamente por el tipo de prueba, que es este exudado, el tipo de muestra ahora en este caso, lo que estamos tratando de recolectar son células que en su momento contengan el virus o virus que estén, lógicamente, en las secreciones de este exudado.
+Y al tratar de tener estos virus en la muestra, entonces, lo que esta prueba identifica es precisamente el material genético del virus, y cuando la tenemos positiva lo que la prueba nos está diciendo es que en el momento en que se tomó la prueba, en el momento en que se tomaron los hisopos había presencia de virus SARS-CoV-2 en las vías respiratorias.
+Si esto va a de la mano con la sintomatología, y por eso el periodo para la toma de muestra de esta prueba, puede ir de menos dos a siete días en relación al inicio de síntomas, entonces estaríamos ante un caso de COVID-19.
+Ahorita que veamos los diferentes días en los cuales se recomienda la toma de la muestra, vemos que es la única que en su momento pudiera identificarnos la presencia del virus en personas asintomáticas, porque tiene de menos dos hasta siete, es decir, antes de que inicien los síntomas, dos días antes de que inicien los síntomas, esta prueba podría tener la capacidad de detectar la presencia de virus.
+Vemos ahora la prueba antigénica, que es precisamente la nueva prueba que está por liberarse, por emitirse ya sus documentos de validación. También es un exudado, un nasofaríngeo. Ojo, esta es una diferencia importante con lo que vendrían a ser las pruebas rápidas serológicas, porque estas el tipo de muestra es sangre.
+Dado que es un exudado faríngeo, también lo que identifica o lo que va a buscar, tratar de confirmar, son proteínas virales de virus SARS-CoV-2 que estuvieran presentes en este exudado nasofaríngeo.
+Importante comentar que esta prueba no tiene utilidad en pacientes asintomáticos, es decir, esta prueba antigénica no nos va a ayudar a detectar portadores. Si esa prueba se toma en una persona que no tiene síntomas, la posibilidad de tener un falso negativo, es decir, que salga negativo y que realmente esté el virus presente todavía en un periodo de replicación es alta; entonces, no se debe de utilizar en personas asintomáticas, deben de tener un máximo de siete días o al menos un día de haber iniciado con la sintomatología.
+Tiene una sensibilidad que todavía es variable, estamos esperando los resultados finales de las pruebas aplicadas aquí en México en pacientes o en personas mexicanas, pero la expectativa es que está entre medio y alto, dependiendo del ambiente o del escenario en el cual se tome la prueba; pero su especificidad sí es alta, entonces nos ayuda de una muy buena manera a confirmar casos de la enfermedad.
+Si nos vamos a las serológicas, tenemos la serológica en sí como tal que se toma en suero, recordando que el suero es un componente de la sangre. Una vez que se toma la muestra, esta se manda a centrifugar y lo que se obtiene es el suero.
+Este suero o lo que se va a buscar en este suero con esta prueba ya no son ni material genético del virus ni proteínas virales, ahora lo que va a tratar de verificar son anticuerpos, ya sea IGG o IGM. Los anticuerpos de producen como parte de la respuesta inmunológica de la persona a la exposición del virus.
+Pero entonces esto nos lleva a este punto que es importante para estos tipos de pruebas, en donde vamos a poder detectar anticuerpos si la prueba la tomamos 10 días después de haber iniciado los síntomas.
+Hay bibliografía que dice que los anticuerpos pueden empezar a elevarse a partir del día ocho, pero para tener la seguridad de identificarlos la recomendación es que se realicen después del día 19, cuando apenas podamos empezar a ver, por ejemplo, la elevación de los IGM.
+Los IGM a partir del día 10 se van a elevar, van a caer más rápido, por lo tanto, en los siguientes días podemos ya no encontrarlos, y los IGG sí los vamos a tener más tiempo presentes y estos podrían inclusive durar meses y la prueba podría seguir saliendo positiva.
+Si bien es cierto tienen una alta sensibilidad, tienen una especificidad media, es decir, nos puede en su momento dar falsos positivos, podría estar identificado otras variantes de coronavirus y no necesaria o específicamente al SARS-CoV-2 que está circulando este año.
+Y, finalmente, la prueba rápida, serológica, que es que la definitivamente no recomendamos por estas características, tiene elementos similares, va a buscar anticuerpos, normalmente es una gota, una muestra de sangre la que se coloca en estas pruebas rápidas. Tampoco nos sirven en la fase aguda, en los primeros días, tenemos que dejar pasar esta ventana para que en su momento haya elevación de anticuerpos.
+Pero aquí lo que es importante considerar es que tanto la sensibilidad como la especificidad son bajas, son muy bajas, lo que quiere decir que vamos a tener resultados falsos positivos, resultados falsos negativos, por muchas de las consideraciones y a la razón por las cuales no se recomienda para efectos, ni de la vigilancia epidemiológica ni del diagnóstico clínico de un paciente.
+Y terminamos solamente diciendo que precisamente estas dos primeras pruebas, dado que lo que van a identificar es la presencia en el momento de la toma del virus en las vías respiratorias son las que nos ayudan a identificar de manera más oportuna la presencia del mismo, que asociado a síntomas, por eso su recomendación es que se tomen en pacientes sintomáticos, nos dan casos confirmados de COVID y no lo dan, digamos, lo más cercano posible al inicio de la sintomatología, por lo tanto nos permiten generar las mejores medidas de respuesta y contención.
+No así las pruebas serológicas, ni las que se toma en suero ni las pruebas rápidas, porque ya pasaron 10 días y además dependen de que la persona haya tenido una respuesta inmunológica, porque si la persona no desarrolla la suficiente respuesta inmunológica o no produce estos anticuerpos IGG y M, la prueba también puede salir negativa.
+Entonces, durante, decíamos el fin de semana, se van a estar publicando ya las recomendaciones oficiales y la utilidad de la prueba antihigiénica, la cual más adelante será incorporada también a los diferentes modelos de confirmación de casos y de vigilancia en el país.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
+Si quieren, ahorita en las preguntas podemos abundar sobre esto, pero ha dado una explicación muy puntual, muy completa y precisa sobre esto de las pruebas que nos interesa mucho que no haya confusión con el término ‘prueba rápida’.
+Como ya ha mostrado el doctor Alomía y lo mostramos gráficamente, por favor auxíliense del material gráfico si fuera necesario para precisar en sus notas y estamos abiertos a cualquier aclaración que haya lugar, para no confundir, específicamente no confundir prueba rápida antigénica con las tradicionalmente llamadas pruebas rápidas, que se detectan anticuerpos.
+Cofepris había autorizado hasta el momento 10 pruebas rápidas de anticuerpos, pero hemos destacado que la Secretaría de Salud, no obstante la autorización de Cofepris, que es parte de la Secretaría de Salud, autorizó su uso para entidades privadas, la Secretaría de Salud no recomienda, no recomienda, uso de pruebas rápidas de anticuerpos; en cambio, la Secretaría de Salud sí recomienda las pruebas rápidas de antígenos, que serán próximamente utilizadas para la vigilancia epidemiológica de la epidemia de COVID en las distintas entidades federativas.
+Tenemos ya una clara disposición al respecto, un entusiasmo por utilizarlas por parte del gobierno de la Ciudad de México, pero nosotros mismos desde octubre habíamos destacado que este es un nuevo elemento tecnológico que, de acuerdo a la información disponible hasta el momento, sugiere que puede ser de ayuda para el seguimiento de la epidemia de COVID-19. Prueba rápida antigénica.
+No hay todavía en el territorio nacional estas pruebas, no tiene todavía registro sanitario y el proceso que se seguirá es que el Indre entre hoy por la noche o mañana tendrá ya un informe técnico sobre el desempeño, diagnóstico de las pruebas rápidas antigénicas para que en su momento los fabricantes o sus representantes legales de estas pruebas soliciten la autorización sanitaria de Cofepris.
+Le damos la palabra al doctor Alejandro Svarch, cambiamos de tema. Esto es formación de profesionales de la salud en especialidades médicas.
+---
+ALEJANDRO SVARCH PÉREZ, TITULAR DE LA COORDINACIÓN NACIONAL MÉDICA DEL INSTITUTO DE SALUD PARA EL BIENESTAR (INSABI)
+Muchas gracias, señor subsecretario; gracias, doctor Alomía. Es un placer poderlos acompañar esta noche.
+Estimados periodistas, el día de hoy vamos a enfatizar algunos mensajes que iniciamos en la mañana. Vamos a proyectar un video y luego una pequeña presentación en la cual se han enfatizado los aspectos de interés de nuestros médicos generales aplicarán este examen a partir del sábado. Muchas gracias.
+Por favor.
+---
+VOZ MUJER
+El Gobierno de México informa buenas noticias para las nuevas generaciones de médicas y médicos.
+A pesar de que el sistema de salud de México se enfrenta a un déficit estructural de recursos humanos especializados para la salud, lo que ocasiona una inadecuada calidad en la atención médica y que la lista de espera para recibir consultas o servicios especializados sea cada vez más larga, el Gobierno de México trabaja para tener personal de salud mejor preparado.
+La pandemia por COVID-19 nos mostró que faltaban más de 70 mil especialistas en salud para hacer frente a la atención pública. En casi 20 años México ha permanecido en la lista de los países con el promedio más bajo de personal médico especialista por cada mil habitantes.
+Ante esta situación y por iniciativa presidencial, a partir del 27 de mayo de 2020 se crea una mesa técnica en la Secretaría de Salud para reunir esfuerzos intersectoriales y lanzar un plan estratégico que permita fortalecer las sedes clínicas de formación existentes y crear nuevas, garantizando la educación tutorial del personal médico en formación.
+En promedio, en los últimos 20 años, de 43 mil aspirantes que presentaron el examen para ingresar a una especialidad médica sólo se aceptó a nueve mil 300, dejando fuera al 80 por ciento.
+En el 2020, con la ejecución del plan estratégico para aumentar el número de médicas y médicos especialistas en el país, el Gobierno de la Cuarta Transformación otorgará 18 mil 929 lugares. Esto se convierte en un hecho histórico para todos los aspirantes, teniendo el doble de posibilidades de ingresar a una especialidad médica.
+A estos logros se acumulan las mil 600 becas al extranjero que se han destinado para que las y los profesionales en salud puedan realizar su especialidad en países como Argentina, Cuba, Estados Unidos, Canadá y Australia, con el compromiso de volver a México y trabajar en hospitales del sector público.
+Con el aumento del número de becas y de aspirantes aceptados en el Examen Nacional de Residencias Médicas habrá más especialistas en el país, lo que mejorará los servicios de salud y la calidad de la atención a la población.
+Adicionalmente, el plan estratégico consideró un replanteamiento del Examen Nacional de Residencias Médicas con el objetivo de eliminar los problemas de desconfianza de años anteriores sobre el proceso del examen.
+Profesionales del más alto nivel en el área educativa, médica y de ingeniería informática del sector salud y de la Secretaría de la Defensa Nacional aportaron su experiencia para la realización de un examen científico pedagógico que cumple los estándares internacionales de evaluación médica.
+También colaboraron con el resguardo de los exámenes en las instalaciones del Centro Militar de Evaluación y el traslado de los dispositivos electrónicos a las sedes hasta el día en que se realizará el examen.
+Este gran esfuerzo sectorial brindará un examen con preguntas nuevas, contenido actualizado y sobre todo con garantía de ser un proceso pedagógico transparente, justo y equitativo.
+Así, avanzamos en la transformación del sistema de salud a uno que a partir de este año será beneficiado con el doble de talento, calidad y humanismo de quienes aspiran a seguir preparándose con el compromiso de servir y mejorar la salud de las y los mexicanos.
+Es momento de creer en las nuevas generaciones de profesionales de la salud.
+---
+ALEJANDRO SVARCH PÉREZ
+Bueno, como comentábamos el día de hoy, a partir de una instrucción del señor presidente, el 27 de mayo se instauró una mesa técnica intersecretarial que tuvo como objetivo diseñar e implementar un plan estratégico que permita aumentar el número de médicos especialistas en nuestro país.
+El objetivo que se planteó en la mesa era identificar elementos estratégicos que nos pudieran avanzar en el camino del acceso para que los médicos pudieran formarse en una especialidad médica.
+La problemática que enfrentamos no es menor. Como ustedes reconocen en esta diapositiva, nuestro país desafortunadamente tiene un déficit de médicos especialistas. Como podemos observar, la razón por cada mil habitantes es 0.9 médicos, eso significa que hay menos de un médico especialista para cada mil personas. Esto es muy inferior al promedio de los países de la OCDE, que identifican 3.5, 3.4 médicos por cada mil habitantes.
+De seguir con la tasa conservadora de médicos que se aceptaban en el Examen Nacional de Residencias, los próximos 10 años pasaríamos de 0.9 a 1; o sea, serían 10 años nuevamente perdidos para nuestra población.
+Una de las razones de este déficit de acceso a la formación de médicos especialistas es el Examen Nacional de Residencias. Este examen, hemos observado este comportamiento, en los últimos años se rechaza cerca del 80 por ciento de los sustentantes, siendo que, de seguir con esta capacidad, no lográbamos atender el déficit de miles de médicos que tenemos en nuestro país.
+Este sería el abordaje previo. Como pueden ver, la curva no permite el crecimiento de razón de médicos por cada mil habitantes; en cambio, con este paso estratégico que el Gobierno de México ejecuta a partir de este sábado podremos alcanzar con mayor rapidez nuestra razón de médicos por cada mil habitantes y de esta forma garantizar mejores tratamientos de calidad para nuestra población.
+Aquí observamos que en el abordaje nuevo con la transformación que este crecimiento que empezamos a partir de esta edición del examen podemos alcanzar, al 2030, 1.5 médicos por cada mil habitantes, siendo que el abordaje anterior nos quedaríamos en uno.
+El ejercicio consistió en consultarle a todas las unidades formadoras de recursos humanos en salud cuánto podían crecer, garantizando la calidad del recurso humano.
+Hubo diferentes mesas de trabajo y estas mesas identificaron que podían crecer en este sentido.
+Observamos la tasa de crecimiento por cada institución, en algunos es particularmente relevante, como el caso del Issste, que en los últimos 20 años no había crecido, ni tan sólo un lugar en la formación de residentes. Los que conocemos, por ejemplo, el Hospital 20 de Noviembre, sabemos que puede ser un gran centro formador regional de recursos humanos en salud y lamentablemente no lo ha sido por esta escases estructural de médicos especialistas y permite que el Issste sea el que más crezca, superando el mil por ciento las capacidades de crecimiento sin afectar la calidad.
+También identificaron crecimiento de nuevas sedes, todas estas sedes tienen el aval universitario necesario. Recordemos que el médico residente es un médico en formación, por lo tanto, el aval universitario es indispensable para garantizar este proceso.
+El resultado fue que el sector salud crece nueve mil 449 becas, plazas, adicionales. Como ustedes observan, en el 2019 tenemos nueve mil 480 y en el 2020 tenemos el doble, prácticamente 18 mil 929, esto significa que lo sustentantes tendrán el doble de posibilidades de poder ingresar a este examen.
+Esto es una importante inversión, son más de dos mil 500 millones de pesos que el gobierno de México está destinando, invirtiendo en la formación de recursos humanos en salud, es un gasto histórico que identificamos con esta inversión.
+Adicionalmente, como la capacidad de formación de recursos humanos con calidad en el territorio nacional es limitada porque no tenemos suficientes campos clínicos para formar el número de médicos especialistas que necesitamos, se exploró y se ha encontrado un muy bien resultado con Conacyt en conjunto el sector salud con Conacyt de la creación de un programa con ejecución por parte de Conacyt que permite a los médicos que pasen el ENARM irse a una opción al extranjero para hacer alguna de las especialidades troncales de mayor necesidad en nuestro país con el compromiso de que este médico tenga un contrato laboral que cuando termine su formación en el extranjero pueda regresar a su lugar de origen para trabajar en alguna institución del sector público.
+Este esfuerzo del ENARM en este año es inédito porque se realizó un comando para garantizar la mayor transparencia y equidad en la elaboración y los resultados de este examen.
+Como ustedes saben, había problemas de desconfianza en este examen, desde la elaboración de los reactivos hasta los resultados y nos interesaba atender estructuralmente de fondo, con sustancia, con mucha fuerza que no exista corrupción en este examen.
+Lo hemos logrado, para ello hemos hecho un comando entre el sector salud con nuestras Fuerzas Armadas para eficientar los procesos de transparencia característicos de nuestras Fuerzas Armadas, particularmente con el Centro de Evaluación Militar de las Fuerzas Armadas para garantizar que el examen cumpla los mayores criterios de transparencia.
+Ha sido un importante esfuerzo, se han hecho en total siete mil 937 nuevos reactivos, esto significa que este examen es un examen totalmente nuevo.
+En años anteriores la mecánica era separar un grupo de preguntas que se repetían año con año y, por lo tanto, el contenido del examen era muchas veces poco actualizado porque eran preguntas repetidas de años o de generaciones anteriores.
+Este año son preguntas actualizadas, examen totalmente revisado y totalmente confiable.
+Hay 95 médicos especialistas entre el sector salud y las Fuerzas Armadas trabajando en la elaboración de este examen.
+Asimismo, trabajan en este momento en el terreno más de 300 personas conformadas en ocho equipos que garantizan la distribución plena de los recursos para hacer el examen.
+Este año, el examen lo sustentan 50 mil 448 sustentantes aplicantes, es una cifra récord, el año pasado fueron 42 mil, serán seis sedes: dos en la Ciudad de México, dos en Guadalajara, una en Monterrey y una en Villahermosa y la aplicación es desde el día 7, hasta el día 12 en los horarios que vemos en la pantalla.
+El examen este año ha percibido transformaciones para garantizar que sea un ambiente limpio, de posible contaminación por dengue, influenza, por COVID. Para ellos se han desplegado una serie de medidas estratégicas, se ha hecho un lineamiento técnico para la bioseguridad y las sedes del examen, este lineamiento está en la página de coronavirus.gob y nos permite enfrentar de forma integral en conjunto con este recurso humano tan preciado nuestros médicos generales que van a hacer el examen, que pueden hacerlo en condiciones de seguridad y de bioseguridad.
+Se han desplegado una serie de medidas para garantizar la sana distancia en la elaboración del examen.
+Al ingreso los sustentantes tendrán que pasar un filtro que nos permitirá identificar que no exista posibilidad de riesgo dentro de la sede, también habrá un área de triaje y al egreso también se harán estas medidas tomando en cuenta siempre evitar la aglomeración en las salidas, se están haciendo operativos para garantizar el despliegue por filas en las sedes donde están haciendo el examen y evitar las aglomeraciones.
+Sería todo. Solamente recordar que el día jueves 12 de noviembre cumplimos 200 sesiones de Coviduti, este esfuerzo realizado entre el Insabi y el Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’ y ya sobrepasamos los 100 mil capacitados.
+Muchas gracias, señor subsecretario.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alejandro Svarch, por esta ampliación de la información sobre esta estrategia nacional de ampliación de las capacidades médicas de especialidad, proyecto que estará ya en curso ahora con la convocatoria y próxima realización del Examen Nacional de Residencias Médicas, la edición número 34 y en los años que estará en curso este proyecto.
+Vamos a darle la palabra a Daniel Blancas, que tenía este tema en la mañana; enseguida Demian Duarte, que no pudo preguntar ya en la mañana; luego seguimos con los demás.
+---
+PREGUNTA
+Buenas noches a todos. Daniel Blancas, de Crónica.
+Creo que es un tema muy importante lo de las pruebas. Como usted sabe, hace algunas unas semanas yo puse aquí el tema del contrabando de pruebas, de la venta masiva, sin el manejo idóneo y ya usted adelantaba esta respuesta de que la secretaría no, digamos, no respalda al 100 por ciento el uso de estas pruebas rápidas, que es una de las que nos explicaron.
+Yo seguí el rastro de algunas de estas pruebas que entraron de manera ilegal al país y pude corroborar que están siendo mal usadas, pero ahora en otra vertiente.
+Hay grupos, fundaciones, voy a citar algunas fundaciones, Adopta un médico, Fundación Andrade, Fundación Cura y Fundación Corazón de México, algunas de las que pude identificar, que están promoviendo en pueblos, en municipios, digamos, ciudades pequeñas el uso de estas pruebas rápidas de sangre.
+No sólo está la intervención de estas fundaciones, sino también la intervención de políticos que en esos municipios, que en esas ciudades buscan un cargo político, es decir, se está usando estas pruebas, la promoción de estas pruebas con fines electorales.
+Adicionalmente, esto parece irrisorio, pero así ha sucedido, lo presentan como ayuda a la población, principalmente con esta vertiente de la promoción electoral. Promoción de 699 pesos la prueba rápida, cuando nosotros pudimos documentar que estas pruebas cuestan 399, es decir, ni siquiera en el renglón de la ayuda económica a la población se cumple.
+Hay otra arista, se está usando el logotipo de la Secretaría de Salud y de la Cofepris en estas promociones.
+Entonces, mi pregunta en este sentido, doctor, es: ¿qué mecanismo tiene a la mano la Secretaría de Salud para que el logotipo de esta dependencia como de la Cofepris no sea usado de mala manera para la promoción de estas pruebas rápidas?
+Y la otra es: ¿por qué, si ya hay evidencia de que no sirven, ya la secretaría ha dicho que no son recomendables, usted hace un par de días hizo nombramientos en la Cofepris y bajo el tema de la no corrupción, por qué si se prestan para todas estas farsas e irregularidades, la Cofepris sigue permitiendo o sigue autorizando estas pruebas rápidas?
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Daniel Blancas, de Crónica, por esta información adicional, que es parte de un esfuerzo de periodismo de investigación que, le ha felicito, ha venido haciendo y nos ha ayudado mucho a identificar alertas sobre situaciones anómalas, situaciones irregulares, inconvenientes y posiblemente en algunos casos delictivas.
+Sobre lo que me pregunta lo responderé de manera clara y directa. Bueno, preciso, los nombramientos de las nuevas comisionadas en Cofepris no los hice yo, los hizo el señor secretario de Salud, quien es el que tiene la atribución para hacerlos, pero me encomendó, lo cual considero un privilegio, presentar públicamente a las nuevas comisionadas.
+¿Por qué me lo encomendó?
+Porque la Cofepris desde el 19 de septiembre de este año está adscrita a la subsecretaría por una instrucción del señor secretario y desde luego también por una indicación de nuestro presidente de seguir en el camino de sanear nuestras instituciones.
+Al momento de presentar a las dos nuevas comisionadas, la comisionada de Autorización Sanitaria, la doctora América Orellana, y a la comisionada de Operación Sanitaria, la maestra Olga Piña, me referí a varios temas, que ahora comento, con la comunidad de Cofepris, fundamentalmente con sus mandos, pero también varias de las trabajadoras y trabajadoras que estuvieron presentes, incluyendo a las personas que encabezan las secciones sindicales.
+Y abordé sin ambages la preocupación que tenemos sobre Cofepris que consiste en que a lo largo de muchos años, décadas o tres lustros, cuando menos, ha tenido prácticas muy sospechosas de corrupción y en algunas ocasiones incluso demostradas de corrupción, a lo largo de estos años.
+Y también identificamos que esto no es un accidente o una circunstancia casual o algo que pueda ser atribuible a una persona en forma aislada.
+Destaco aquí y para enfatizarlo que sabemos que la gran mayoría de las trabajadoras y trabajadores de Cofepris, el personal de base, son personas íntegras, personas competentes, personas comprometidas; pero en la estructura de mando hemos detectado quienes son partícipes de perpetuar estas conductas, inducir estas conductas o ser permisivas con este tipo de conductas irregulares.
+Dos comisiones que son las fundamentales, sin menospreciar a las otras cuatro, pero fundamentales en Cofepris son, precisamente, estas dos:
+La Comisión de Autorización Sanitaria que, como el nombre indica, es la responsable de evaluar solicitudes de autorización de múltiples productos, no solo farmacéuticos y diagnósticos, sino agroquímicos y de muchas otras cosas, también es quien puede evaluar y en su caso conferir permisos de funcionamiento o avisos de funcionamiento para distintos establecimientos mercantiles, comerciales, industriales, etcétera, etcétera. Es fundamental la Comisión de Autorización.
+Y la Comisión de Operación Sanitaria tiene entre sus atribuciones la inspección, verificación y en su caso sanción si se incumplen con los lineamientos de ley respecto a justamente lo que autoriza la Comisión de Autorización Sanitaria.
+Por eso nos da un gusto enorme que hoy hemos reemplazado, me refiero en plural, es la institución, a las personas que voluntariamente renunciaron el fin de semana y entran dos personas que gozan de prestigio, gozan de experiencia, son personas íntegras, muy competentes, que están comprometidas con una acción recta de la autoridad sanitaria.
+No les podemos achacar a ellas, quiero dejar muy en claro, entiendo el sentido de la pregunta, pero cuando usted dice que sigue ocurriendo, ellas tienen 36 horas en su encargo, no son responsables de lo que pudiera ocurrir.
+Pero ciertamente, a lo largo de años, pero destacadamente a lo largo de la epidemia hemos visto omisiones importantes en el sistema federal sanitario, además no solamente la Cofepris como entidad federal, hay algunas atribuciones que están descentralizadas a las respectivas comisiones o direcciones estatales de protección contra riesgos sanitarios.
+Entonces, hay un segmento en que recae la responsabilidad sobre la autoridad sanitaria estatal; hay otras, como la propia autorización sanitaria, que son privativas de la autoridad federal.
+Y, sí, tenemos que seguir trabajando para lograr garantizar que no se cometan actos que son indebidos, ya sea porque son contrarios a la ética del uso de productos y servicios, o son directamente violatorios de disposiciones legales reglamentarias y normativas respecto al uso de tales productos.
+Sin establecer un juicio de valor, basado exclusivamente en la información que amablemente nos confiere, lo dejo en claro, no estoy estableciendo un juicio de valor, puesto que no tengo la evidencia documental en la mano, pero aprecio mucho que usted lo mencione, producto de su investigación periodística y vamos a dar seguimiento, y le pedimos si nos ayuda.
+Y también pedimos ayuda a la ciudadanía, como lo dijo el presidente esta misma mañana y lo ha dicho muchas veces. En la medida en que la ciudadanía denuncie actos sospechosos nos ayudan mucho a poder hacer las verificaciones correspondientes y, en su caso, sancionar conforme a la ley donde haya estas actividades anormales.
+---
+INTERLOCUTOR
+Solamente, para darle oportunidad a otro compañero, el tema que estaba pendiente lo solvento posterior a la conferencia con el doctor Alejandro, solamente porque están preguntando algunos aspirantes al examen del sábado.
+¿Qué va a pasar con los aspirantes que tienen COVID en este momento o los que viven en ciudades como Villahermosa, por ejemplo, que es una de las sedes que está inundada, están sufriendo inundaciones o en Guadalajara, que otra de las sedes donde hay suspensión de movilidad en ciertos periodos de tiempo? Si se está contemplando alguna posibilidad para que ellos puedan hacerla posteriormente.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Correcto. Muchas gracias.
+---
+ALEJANDRO SVARCH PÉREZ
+Cómo comentábamos, hemos hecho un lineamiento en el cual se específica que la entrada de cada sede para aplicar el examen habrá un filtro. Si se detecta a alguna persona sospechosa de COVID -se va a realizar una prueba- se le invita a retirar; si la persona no tiene síntomas graves, se invita a resguardo domiciliario. Una vez que se apruebe el resultado se le llamará a su casa y podrá regresar a hacer el examen el día siguiente…
+---
+INTERLOCUTOR
+Solamente un día de plazo. ¿No puede ser más?
+---
+ALEJANDRO SVARCH PÉREZ
+Sí, un día, el protocolo lo tenemos contemplado en un día.
+---
+INTERLOCUTOR
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Me alertan aquí mis colegas que dije que la adscripción de Cofepris a la subsecretaría fue el 19 de septiembre, me alertan que fue un lapsus, fue el 19 de agosto, desde el 19 de agosto quedó adscrita la Cofepris a la Subsecretaría de Prevención y Promoción.
+Vamos a darle la palabra a Demian Duarte.
+---
+PREGUNTA
+Sí, gracias, doctor López-Gatell. Demian Duarte, de Sonora Power, Política y Rock and Roll Radio, Pasión por los negocios.
+En la mañana tenía la siguiente inquietud y se relacionaba con el tema de salud muy en particular, Sonora, pero muchas regiones del país comparten esa característica. Tenemos muchas carencias de personal médico, incluso me han estado contactando de distintas regiones ya que por intermediación mía asistió precisamente el Insabi a un lugar que es muy lejano, alejado de todas partes que es Sonoyta, en particular, en busca de atender la situación ahí.
+Me contactaron de otro municipio que está en la serranía, en este caso no es el desierto, San Felipe de Jesús se llama este municipio, hay una asociación de mineros que extraen carbón antracítico y ellos pusieron una clínica. El problema que ellos tienen es que no tienen personal médico y no encuentran la manera de cómo hacer que el personal médico vaya a trabajar ahí.
+La pregunta en específico es en general para todo el país es: ¿qué clase de incentivos están ustedes previendo ofrecerle a los médicos que puedan integrarse, válgame, al Sistema Nacional de Salud para que vayan a este tipo de lugares?, ya que es muy atractivo quizá trabajar aquí en la Ciudad de México, probablemente en Guadalajara, Monterrey, en Hermosillo seguramente lo es, pero ir a la sierra, ir al desierto, ir a lugares así que son remotos cientos y ciento de kilómetros es complejo.
+Ahí en ese caso, por ejemplo, los mineros dicen: ‘Nosotros ponemos la clínica, ponemos las instalaciones, quisiéramos ver la manera de que ya fuera el Insabi o el IMSS aportaran, precisamente, la parte que toca al personal médico que atiende a 40 mil personas de esa región, por ejemplo, hay un solo doctor.
+La otra es ¿qué pasa con los insumos? Ahí, por ejemplo, en esta misma comunidad hay una ambulancia que la donó hace algunos años la gobernadora del estado; sin embargo, no tienen equipo médico suficiente.
+Hay una situación muy similar en Ures, en donde la senadora de Sonora prometió que iba a dotar de una ambulancia, nunca llegó la ambulancia, se quedó a nivel de promesas; estuvo el presidente en campaña también ahí en Ures, le hicieron el mismo planteamiento, me han pedido que también plantee este tema en específico.
+Y, doctor, ahorita antes de la rueda de prensa los compañeros, yo me ofrecí a mediar en este asunto, quieren plantearle una idea: que cambie el horario de la vespertina o ‘la gatelleana’, como le llamamos, porque ya está en invierno encima y los horarios han cambiado mucho, oscurece mucho más temprano, obviamente, todos los medios tenemos la presión de cerrar, entregar la nota, etcétera, etcétera, etcétera. Entonces, ver si es posible que se considere el tema.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo vemos con mucho gusto.
+Estimado Alex, ¿quieres comentar?
+---
+INTERVENCIÓN
+Muchas gracias por la pregunta. Efectivamente, en nuestro país el déficit de recursos humanos es aún más intenso en algunas zonas. Cuando reflexionamos al respecto identificábamos que las Margaritas, Chiapas, por ejemplo, tiene 14 veces menos médicos en la Ciudad de México, y así lo encontramos en nuestra amplia y profunda geografía.
+Ante ello, el Insabi ha desarrollado una estrategia que son los médicos del bienestar, es un pool de médicos comprometidos con la causa nacional, así funciona, no es una bolsa de trabajo.
+Identificamos médicos que tienen ganas de realizar acciones por su país, médicos que enaltecen la condición humanista de la formación y que deciden dedicar algún tiempo de su formación, de su carrera, en hacer labor comunitaria.
+Estos médicos se inscriben por uno o dos años y acceden a una de estas comunidades donde ya están trabajando, los tenemos en la Sierra de Zongolica, en diferentes regiones.
+La forma para reclutarlos es claramente identificar el motivo de la agrupación, que es un motivo, no es una bolsa de trabajo, es un motivo de rescate hacia nuestro país desde la salud. Eso nos jala muchas personas que tienen esa motivación.
+Después hay un sobresueldo de un 25 por ciento, el médico del bienestar especialista en una situación, que trabaja en un lugar rural o de marginación gana 25 por ciento más que el médico que hace el mismo trabajo en la ciudad.
+La otra condicionante es facilidades para que se puedan seguir preparando. El Insabi financia a los médicos especialistas que trabajan en zonas rurales, acceso a maestrías de salud pública que duren dos años y que el proyecto sea justamente en la comunidad donde trabajan y con eso reactivamos el trabajo comunitario.
+Y el tercero es que si el médico decide quedarse más de dos años ingresa al programa de regularización del recurso humano en alguna de las unidades del sector público cercana a la entidad.
+Entonces, serían los tres incentivos que hemos creado para poder atraer y sostener el recurso humano en el territorio.
+Es un tema complejo no solamente de nuestro país, es un tema que existe en todos los países donde existe el libre mercado, porque el médico que va… En el libre mercado, el polo privado genera muchas atracciones, entonces desde el reto que tenemos es hacer del polo público mucho más atractivo para este recurso humano con esta cartera de incentivos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, estimado Alex.
+Liliana Noble, de Pulso Saludable.
+---
+PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
+Doctor Svarch, ¿qué pasa con estos aspirantes que por sus ideologías religiosas los sábados no pueden hacer ningún tipo de actividad?, ¿estarían descartados de la posibilidad de realizar el examen?, ¿han pensado en este evento que se podría suscitar?
+Y doctor Gatell, ayer recibió un reconocimiento. Cuéntenos un poquito al respecto.
+Y bueno, mañana le hago una pregunta al doctor Alomía para darle oportunidad a más compañeros.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto, muchas gracias, porque nos quedan ya muy poquitos minutos.
+Doctor Svarch.
+---
+ALEJANDRO SVARCH PÉREZ
+El examen empieza el sábado, pero es del 7 al 12, si hay alguien que le tocó el 12 y por alguna razón como la que usted refiere no puede acudir, le solicitaría que se pusiera en contacto con CIFRHS y haríamos el esfuerzo para poder moverlo a algún otro día de aplicación.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, estimado, Alex.
+El reconocimiento no es dirigido a mí, quiero destacarlo, pero sí tuve el honor de ser el mensajero, el intermediario. Así como ejerzo aquí una función donde como vocero designado conduzco la experiencia de trabajo de múltiples compañeras y compañeros del sector y las disposiciones que nuestro secretario el doctor Alcocer va estableciendo para la conducción de la epidemia, en este caso tuve el privilegio de ser el revés, un canal de conducción de lo siguiente:
+El cabildo y el presidente municipal, es decir, el gobierno municipal de Pátzcuaro, Michoacán, tiene una presea, una condecoración que es la condecoración ‘Vasco de Quiroga’.
+Esta condecoración tiene ya 38 emisiones, esta es la número 38, la vigente y en este caso fue conferida al sector salud, específicamente a la Secretaría de Salud, en su conjunto al Sector Salud y es un reconocimiento y por eso aprecio la pregunta para poderlo decir en público, a todas y todos los trabajadores de la salud, no solamente médicas y médicos, enfermeros y enfermeras, sino también todo el personal de apoyo, personal de laboratorio, sicólogas y sicólogos, camilleros, personal auxiliar, inhaloterapetuas, no podría enunciar el vasto mundo de las y los trabajadores de la salud, es todas y todos de todas las instituciones de salud, tanto federales, la Secretaría de Salud, el IMSS, el Issste, los servicios médicos de Pemex y las direcciones de sanidad de las Fuerzas Armadas, tanto Sedena, como Semar, sino también las secretarías de salud estatales y los servicios estatales de salud, todas y todos.
+Este fue el reconocimiento que nos hizo a todas y todos los trabajadores de la salud el gobierno municipal de Pátzcuaro al condecorarnos con la Condecoración ‘Vasco de Quiroga’.
+Esta condecoración se ha conferido a otros múltiples personajes e instituciones que han tenido una participación social relevante, y en este caso según tuve el privilegio de recibir de manos del presidente constitucional de este municipio, el licenciado Víctor Manuel… ay, se me olvidó en este momento el nombre.
+---
+INTERLOCUTOR
+Báez.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Báez, exactamente, iba a invertir sus apellidos, perdón, presidente municipal. Báez Ceja, licenciado Víctor Manuel Bárez Ceja, es presidente municipal constitucional para el periodo 2018-2021 de Pátzcuaro, Michoacán, y él y el cabildo nos confirieron esta condecoración.
+Ayer tuve el gusto de recibirlo en mi oficina, lo cual le agradezco. El protocolo normal es ir a recibir el premio a Pátzcuaro. Por distintas circunstancias, obviamente derivadas de la pandemia de COVID, esto no fue posible y agradezco la amabilidad del señor presidente municipal Báez Ceja, de haber otorgado el premio en nuestras oficinas.
+Pero, insisto, es un privilegio que, en mi caso, tan sólo fui el medio para recibirlo, pero va dirigido a todo el sector salud, a todos sus trabajadores y trabajadoras, directivos, operativos, administrativos y demás.
+Muchas gracias.
+Nos queda medio minuto, creo que a Fernanda hoy no le vamos a dar la palabra, porque la tomó en la mañana, y a usted.
+---
+PREGUNTA
+Gracias. Buenas noches a todos. Gerardo Suárez, reportero en El Heraldo de México.
+Sobre el tema de los residentes tengo dos dudas, porque otra de las demandas que ha habido en este grupo es la remuneración. ¿Se subirá la remuneración de los residentes?
+Y el segundo tema es respecto a cuál es el plan o cómo están pensando captar o emplear a este nuevo aumento de los residentes, si habría espacios laborales en el sector público o cómo sería el plan una vez que ya terminen su formación.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
+---
+ALEJANDRO SVARCH PÉREZ
+Sí, respecto a la remuneración es un tema muy importante, una queja histórica de los compañeros residentes. Ahí señalar dos aspectos:
+El primero es que cada estado tiene diferentes tipos de residentes, de recursos para contratar residentes, mejor dicho.
+La que tiene becas federales, que son las becas que estamos hablando ahorita son los residentes mejor pagados de todo el país, estas son las becas que estamos incrementando.
+De esa forma estamos tratando de subir el estándar de lo que se le paga a los residentes desde el primer año hasta el último año con este estímulo que se identifica.
+Por supuesto que no es suficiente, pero consideramos que es un muy buen paso para poder garantizar un sueldo cada más justo para nuestras compañeras y compañeros.
+Respecto a cómo garantizar que este recurso humano una vez egresado pueda quedarse en las instituciones que lo formaron, instituciones públicas, hay toda otra estrategia que estamos en planeación en este momento.
+Este recurso humano que empieza a egresar en cuatro años, tenemos que garantizar la estrategia desde este momento para asegurar la debida adhesión de este recurso humano que egresa a las unidades formadoras de los propios residentes.
+El elemento fundamental es armar las plazas de médicos especialistas en las unidades. Muchas de las unidades ya tienen las plazas existentes, pero no existen los médicos que las ocupen, esto ocurre en los estados que, por ejemplo, en los hospitales comunitarios solamente hay pediatra en la mañana, existe el turno de pediatra en la tarde, de pediatra en la noche, pero no existe el recurso humano que lo ocupe.
+Estos residentes que se empiezan a formar nuevamente serán invitados a colaborar dentro de su propio estado en estas entidades, en estos espacios que ya están disponibles.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alejandro Svarch.
+Son las 20 horas con un minuto. Vamos a terminar aquí, hay muchos temas que tratar desde luego de la epidemia.
+Insisto, por favor, tomen nota de que pruebas rápidas antigénicas son distintas a pruebas rápidas de anticuerpos. Las pruebas rápidas antigénicas parecen muy prometedoras y existe el empeño de que sean utilizadas por las razones que explicó el doctor Alomía, detectan la infección activa en 15 minutos, está sujeto a una evaluación técnica que conduce el Indre, que es el Laboratorio Nacional de Referencia, mañana daremos los resultados, distintas pruebas de anticuerpos que la Secretaría de Salud no las recomienda.
+Muchas gracias y muy buenas noches.

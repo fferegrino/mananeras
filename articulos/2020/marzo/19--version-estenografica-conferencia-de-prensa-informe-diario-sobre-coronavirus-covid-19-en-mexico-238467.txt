@@ -3,6 +3,7 @@ Presidencia de la República
 19 de marzo de 2020
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas noches a todas y a todos.
 En un momento más se nos van a unir a esta conferencia de prensa el subsecretario de Prevención y Promoción de la Salud, el doctor Hugo López-Gatell, quien en este momento, de hecho aquí en un salón adjunto, en este mismo recinto, se encuentra participando de la sesión extraordinaria a la convicó el día de hoy el Consejo de Salubridad General. Precisamente en estos momentos están por presentar los acuerdos y compromisos, se llevarán a cabo las votaciones correspondientes.
 Y bueno, parte del tiempo que tenemos destinado para la conferencia de esta noche está el poderles la información de lo que se llevó a cabo en la sesión correspondiente y en un momento más precisamente el doctor Hugo López-Gatell nos podrá comentar en relación a los acuerdos y compromisos a los que llegó este consejo el día de hoy.
 Vamos a iniciar, entonces, con el panorama nacional sobre todo, porque de hecho permítanme comentarles que hoy día tenemos una novedad, que no había ocurrido en ocasiones anteriores. Como ustedes ya saben, porque de hecho el doctor Hugo López-Gatell lo ha comentado en varias ocasiones, este mapa internacional se realiza con base en la información oficial que día con día publica la Organización Mundial de la Salud.
@@ -38,17 +39,23 @@ Entonces, hasta este punto es la parte del panorama. Ya decía el doctor Hugo L�
 Bienvenido, doctor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor Alomía.
 Efectivamente, ahorita quizás podríamos abrir a preguntas y respuestas, seguramente una de ellas va a ser la sesión del Consejo de Salubridad General.
 Vamos a empezar aquí con Ángeles Cruz, Blanca Valadez, ustedes dos y así nos vamos.
 ---
 PREGUNTA
+Gracias, buenas noches.
 Yo le quiero preguntar sobre el fallecimiento de la persona de ayer. Hubo mucha confusión y a la fecha todavía no está claro. Si usted nos pudiera ayudar y precisar si esta persona tenía o no antecedentes de viaje al extranjero o contacto con alguien que hubiera… o sea, si calificaba para ser de este grupo de casos o definitivamente, como nos dijeron, se trata de un caso comunitario que no estaba registrado y por lo tanto quisiera yo entender cuál es la razón de que no supiéramos o e que en su registro no estuviera incluido como no asociado a importación.
 Y si ustedes han considerado modificar la hora del cierre del reporte, porque cerrarlo a la 1:00 y darnos un reporte a las 7:00 hay una ventana muy grande que no me parece… Usted digamos por favor si es viable, confiable o conveniente en términos de la claridad y la transparencia que haya esta ventana y que tengamos que esperar al otro día a las 7:00 de la noche para tener una información más certera.
 Y sobre las pruebas, ya le hemos preguntado, yo misma le he preguntado, pero quiero insistir, en lo que ocurrió mismo ayer.
 Y lo que nos ha dicho también de que cuántas personas acudieron al Vive Latino con síntomas o enfermedad del coronavirus o siendo portadores simplemente. ¿No habla de una necesidad de hacer una búsqueda intencionada de personas para evitar que haya una mayor dispersión comunitaria y anticiparnos de esa manera a la prevención y una menor afectación de personas?
 Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, le pido al doctor Alomía que tiene la información más fresca de todo esto.
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Claro que sí, doctor López-Gatell.
 En relación a la primera pregunta, de hecho, el día de ayer ustedes no iban a encontrar todavía la lamentable defunción, porque cuando precisamente hicimos el corte no formaba parte de la tabla resumen de casos confirmados.
 El día de hoy están a 14 minutos de publicar la tabla, el día de hoy sí se va a encontrar la defunción como un caso un caso confirmado; y de hecho van a notar que en el antecedente de epidemiológico, de viaje o como tal, lo que dice es ‘en investigación´.
 Dice ‘en investigación’, porque de la información que tenemos hasta el momento que se recabó del estudio de caso el cual fue levantado por el personal epidemiológico del Instituto Nacional de Enfermedades Respiratorias, identificaron que esta persona había tenido contacto en un periodo de incubación, es decir, con la posibilidad de un contagio a dos personas que habían desarrollado sintomatología.
@@ -59,14 +66,26 @@ Lógicamente cuando hay un lamentable deceso, uno de los sesgos que tenemos es q
 Yo creo que esto va a terminar cerrado en las siguientes 24 horas en el sentido de que ya se terminan de realizar todas las entrevistas y todos los seguimientos posibles. Lo que pasa, mucho tiene que ver esto en la investigación epidemiológica es justo eso, es poder rastrear, preguntar, buscar, hasta poder en su momento tener agotada toda la información.
 Entonces, todavía está clasificado como en investigación, pero en su momento si no se logra identificar el rastro, claro que tendrá esa clasificación como tal.
 ---
+PREGUNTA
+¿No estuvo en ninguno de los conciertos?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+No estuvo en ninguno de los conciertos. Esta persona tiene el antecedente… Y de hecho lo podemos ver también con la fecha de inicio de síntomas, la fecha de inicio de síntomas es muy anterior, casi una semana antes de los conciertos que se llevaron el fin de semana-
 Su ingreso al Instituto Nacional de Enfermedades Respiratorias fue el domingo, el domingo él ya estaba presentando una enfermedad limitante y, como decía, tenía el antecedente de ya haber estado demandando atención en otra unidad.
 Entonces, esta persona no fue definitivamente a los eventos el fin de semana, además que la sintomatología, más allá de este tiempo, inició todavía casi cinco o seis días antes de ese fin de semana.
 ---
-JOSÉ LUIS ALOMÍA ZEGARRA
-Si son casos recientes, realmente la posibilidad es muy poca porque estamos hablando que necesitamos al menos seis días hacia atrás de la fecha de inicio de síntomas, no del día que se hace el diagnostico, sino de la fecha en que los signos y síntomas inician para entonces poder generar un supuesto de dónde pudiera haberse dado el contagio. Es parte de hecho en la investigación que se lleva a cabo en un momento determinado.
+INTERLOCUTORA
+Pero sí hay otros dos que sí estuvieron en conciertos, en eventos masivos.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, pudiera haber un antecedente, se tendría que verificar puntualmente los periodos de incubación como para ver si la posibilidad entre el inicio de síntomas y los periodos de incubación, que sabemos que la media está entre los cinco y los seis días, permitirían suponer que el contagio se pudo haber dado en un día determinado.
+Si son casos recientes, realmente la posibilidad es muy poca porque estamos hablando que necesitamos al menos seis días hacia atrás de la fecha de inicio de síntomas, no del día que se hace el diagnostico, sino de la fecha en que los signos y síntomas inician para entonces poder generar un supuesto de dónde pudiera haberse dado el contagio. Es parte de hecho en la investigación que se lleva a cabo en un momento determinado.
+---
+PREGUNTA
+Sobre el cierre del corte.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Ah, sobre el corte. De hecho, la razón por la que se corta a esa hora es porque la integración de todos los productos sale de diferentes áreas de la Dirección General de Epidemiologia.
 La Unidad de Inteligencia Epidemiológica y Sanitaria prepara el panorama internacional, dado que es quien tiene las fuentes oficiales con la Organización Mundial de la Salud y es la entidad que además hace el monitoreo de diferentes eventos.
 La Dirección de Investigación Operativa es la que realiza el corte de la base de datos y la pasa a los técnicos correspondientes para que hagan todo el trabajo de mapeo, de integración, de generación de gráficos en función de la recarga que significa.
 Porque no solamente es el trabajo de tomar la base y preparar los productos, sino que se requiere de mucho trabajo previo, técnico de comunicación con todas las entidades federativas, sobre todo aquellas que han notificado casos confirmados en las últimas 24 horas después del último corte.
@@ -75,9 +94,14 @@ El poder saber los contactos, cómo han sido abordados, qué seguimientos se les
 Pudiéramos en su momento, basados un poco ya en la práctica diaria tratar de reducir, pero a lo mejor no podríamos bajar ese periodo de media hora o una hora más, porque es realmente lo que se define, recordando que no es que poquitito antes de las 7:00 tenemos productos, sino que los productos tienen que estar elaborados entre 5:30 y 6:00 para una revisión final, una validación y entonces poderlos pasar a los equipos para podérselos presentar. Pero nos llevamos en todo caso la posibilidad de revisar, si podemos acortar, aunque sea un poquito.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Vamos con Blanca Valadez, los dos compañeros de aquí.
 ---
+INTERLOCUTORA
+Sobre las pruebas, me faltó que me digan si no han considerado o reconsiderado hacer pruebas masivas a más personas, ir a buscar a los que pudieran estar afectados.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No es una estrategia de vigilancia epidemiológica que se considere útil o eficiente.
 Como hemos explicado, las medidas de control epidémico que todos los países iniciaron aplicando con una base técnica se centran en el aspecto de la contención en torno a los casos sospechosos y se compone de tres elementos: detectar a los casos sospechosos y ponerlos en aislamiento. y estudiar a sus contactos y en ese proceso está involucrado el diagnóstico o laboratorio del caso sospechoso que en un momento dado pasa a ser clasificado como confirmado o no confirmado.
 Esta medida, como explicó el doctor Alomía y lo hemos comentado en otras ocasiones, tiene la posibilidad de aplicarse cuando hay pocos casos, por eso esta medida se recomienda utilizarla en la primera etapa de importación viral donde hay decenas de casos.
 En un momento dado este número de casos empieza a aumentar y la utilidad de estar detectando o intentando detectar a cada caso sospechoso para ponerlo en aislamiento, empieza a ser impráctico, pero además inconveniente, porque empieza a distraer los distintos mecanismos de la salud pública hacia un esfuerzo que desde el principio se sabe tiene límites.
@@ -94,6 +118,7 @@ Lo hemos también comentado, lo retomo. Uno siempre quisiera tener las intervenc
 Entonces, este es un delicado balance que depende precisamente del análisis del que habla el doctor Alomía. El boletín o el comunicado técnico es la síntesis para propósitos de comunicación de un proceso de análisis que se realiza todos los días, y ahí es donde uno va identificando la necesidad, la oportunidad y la factibilidad de que se hagan las intervenciones.
 ---
 PREGUNTA
+Buenas noches, Blanca Valadez, de Grupo Milenio.
 A mí me gustaría, yo sé que ya nos comentaron que en 24 horas tendrían la situación de la persona que murió, pero ¿qué pasa con la esposa o la pareja que estuvo en contacto con él y estuvo también en el hospital y estuvo incluso con compañeros de los medios de comunicación?
 ¿Qué es lo que ahí va a proceder o están procediendo? No sé si ya le hicieron a la señora la prueba o está en un proceso de aislamiento.
 También preguntarles, ahorita ya hay una serie de protestas, no solamente en el INER, sino también en el Issste y en diferentes hospitales, de que se quejan de que no hay insumos, la gente también se está quejando de que están pagando los servicios de salud cuando se supone que no tendrían que pagarlos.
@@ -106,6 +131,7 @@ Es decir, usted nos ha dicho constantemente que esto no es una emergencia, pero 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Centrémonos en lo que es más relevante para la información pública de una epidemia, centrarnos en casos específicos que no son representativos de un fenómeno de la dinámica de la epidemia, pues es un poco menos informativo.
 Le voy a contestar lo del Consejo de Salubridad General, y el significado de sus decisiones. En algunos países, es el caso de Estados Unidos, es el caso de Argentina, es el caso de algunos países europeos, desde tiempo atrás, cuando ellos vivieron etapas de intensa transmisión, que ya hemos dicho que en general están un mes más afectados que nosotros, porque México entró a la epidemia gruesamente un mes detrás, decidieron tomar algunas disposiciones respecto a sus órganos que gobiernan la salubridad general, que podrían ser hasta cierto punto los equivalentes de nuestro Consejo de Salubridad General.
 En cada país la palabra emergencia tiene un significado diferente, ¿por qué razón?, porque obviamente los marcos legales son diferentes y el fundamento técnico de las declaraciones de emergencia o las declaratorias de emergencia es diferente.
@@ -127,11 +153,13 @@ Hoy, sin embargo, hemos participado en la sesión del consejo. Está terminando 
 Allá atrás. Ah, no perdón, estaban ustedes. Ya hay que dar la palabra a otros, porque si no, nos atascamos.
 ---
 PREGUNTA
+Alejandro Arcos, Plenilunia.
 Yo tengo tres preguntas. Si se implanta… va a ser una sesión permanente el Consejo de Salubridad o se cerró, y si ellos darían la línea si es que se queda abierta.
 Existe una enorme confusión todavía con respecto a los laboratorios, siguen preguntando si pueden o no hacerlo, si nos puede aclarar algo al respecto.
 Y, finalmente, yo creo que no he hecho bien mi trabajo o no hemos hecho bien nuestro trabajo, porque un juez está pidiéndole mayor información acerca de las medidas preventivas y de las acciones, y desean más información y presentar más acciones con respecto a la detección, también, su comentario al respecto.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Déjeme empezar por la última pregunta. Efectivamente, nos llama la atención que amplios sectores de la sociedad han estado informados por distintos mecanismos que tiene el gobierno federal. Por ejemplo, en toda la estructura de los programas sociales de bienestar tenemos la posibilidad de tener comunicación literalmente en tiempo real con cerca de 21 millones de personas; y esto ha sido muy benéfico porque desde hace varias semanas, la Secretaría de Bienestar, quien coordina todo este aspecto, ha permeado ya de tiempo atrás distintos mensajes, que sobre todo en las comunidades prioritarias en términos del gasto social y los programas sociales están familiarizadas con este fenómeno.
 En ciertos ámbitos de la sociedad, particularmente algunos ámbitos urbanos, pareciera que existe un impacto muy negativo de la desinformación. Y la desinformación posiblemente sólo podría atribuirse a un efecto intencional de circular noticias falsas, como lo hemos visto en varias ocasiones, incluyendo cuando se anunció sin una verificación apropiada que había muerto la primera persona con coronavirus. Afortunadamente no fue el caso.
 O, por ejemplo, lo que ocurrió hoy que circularon dos laboratorios privados, y voy a decir sus nombres, los laboratorios Chopo y los laboratorios Biomédica de Referencia, circularon en redes sociales una pequeña ficha informativa con los logotipos de estas compañías diciendo que por disposición de la Secretaría de Salud no podían realizar la prueba del coronavirus.
@@ -154,11 +182,13 @@ Por supuesto, la otra preocupación es que pudiera ser una estafa en términos e
 Vámonos más rapidito. Entonces, usted y por allá nos vamos a tres mujeres, por allá, Melina y ustedes dos.
 ---
 PREGUNTA
+Gracias. Patricia Rodríguez Calva, de Grupo Imagen.
 Primero, una precisión para el doctor Alomía. Cuando usted habla de que la persona que falleció ayer no estuvo en festivales me lo precisa, ¿se refería al Vive Latino? Porque tenemos el reporte, si es falso dígame, que esta persona acudió a un festival en el Palacio de los Deportes el 3 de marzo, un festival de un grupo que se llama Ghost y ahí hubo algún otro tipo de contagio.
 No sé si eso lo están considerando, porque entiendo que fue el 9 de marzo cuando presentó los síntomas, pero el festival fue el día 3 de marzo. Eso, por una parte.
 Por la otra, si se reunió el Consejo General de Salubridad quiero decir que ya estamos a nada de entrar a la fase dos, que esto se podría anunciar entre hoy, mañana o antes del fin de semana.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Déjeme contestar y ahorita vemos el punto de la curiosidad sobre un caso específico.
 No, simple y llanamente no. El órgano de autoridad sanitaria colegiado, llamado Consejo de Salubridad General, se reúne o se puede reunir con distintos propósitos, y no se necesita que haya una sesión ordinaria o extraordinaria de este consejo para ir implementando los distintos elementos del protocolo técnico de respuesta a esta epidemia.
 Entonces, no tengan esa expectativa, esta es una expectativa también un tanto desconectada de la realidad en el sentido de que se necesitara una sesión especial para que entremos a la siguiente fase. Como hemos dicho, el identificar de manera fragmentada, de manera discreta las distintas fases es sólo para ayudar a la comunicación social.
 Este es un cambio continuo del día a día, de horas, de semanas, este un cambio progresivo. No es de que a partir del caso número 102 ya estamos en la siguiente fase, no es que a partir de haber perdido la trazabilidad de seis casos ya estamos en siguiente fase. Los criterios se van evaluando.
@@ -171,18 +201,49 @@ Si te quedas en casa, si se quedan en casa tus familiares, si nos quedamos en ca
 Quédate en casa, siempre que sea posible quédate en casa hasta que pase el momento de esta epidemia.
 Vamos a dar, creo que nos queda tiempo para dos. Melina, ah, perdón.
 ---
+INTERLOCUTORA
+… el 3 de marzo, porque hubo…
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Definitivamente no. En el Vive Latino, y lo comentamos porque eso circuló mucho en redes, ser claros. No.
 Y tiene un antecedente de haber visitado, no un evento masivo, sino más bien un evento público en un restaurant privado, ese es el único evento de contactos que tiene, no un evento masivo, ese de la investigación de hoy.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Dos últimas preguntas, Melina e Itzel, por favor.
+---
 PREGUNTA
+Muy buenas tardes, Melina Ochoa, de Uno Tv.
 Preguntarle, subsecretario: ¿cuál sería la respuesta entonces para justamente este juez, el Poder Judicial que está exigiendo y que en 24 horas informe sobre cuáles son las medidas que han tomado ahora con el COVID-19?
 ¿Y qué otras cosas acordaron en este consejo?, ¿qué otras cosas acordaron?, y esto, bueno ya nos queda claro, no significa entonces una emergencia nacional.
 Y por último, en la mañana ya el presidente López Obrador hablaba de este Plan DN-III. Yo hace dos semanas había preguntado si iban a utilizar justamente este plan para la mitigación o contención. ¿De qué va este plan?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias por sus preguntas, muy útiles.
 Empiezo por la última. Efectivamente recuerdo bien cuando me preguntó eso y ocurrió esa pregunta justo en el día que Estados Unidos anunció que utilizaría su Guardia Nacional, Estados Unidos de América, su Guardia Nacional para reforzar con cuerpos armados las medidas de salud pública.
 Esto es improcedente para los criterios de un país como México y asumo que también de muchos otros países donde reina la paz pública y hay colaboración de la ciudadanía.
 La Guardia Nacional no tiene como propósito combatir los virus, porque los virus no se combaten con armas, se combaten con medidas de distanciamiento social lavándonos las manos, protegiendo el estornudo, quedándonos en casa si es posible.
 Y lo que sí, como todos sabemos, nuestras Fuerzas Armadas, tanto el Ejército como la Marina tienen una larga historia muy noble y muy heroica de asistencia a la población cuando ocurren fenómenos masivos que afectan lo normal de la vida pública.
 Entonces, en el caso del Ejército es el Plan DN-III, en el caso de Marina es el Plan Marina y básicamente lo que ellos han puesto a disposición, no quiere decir que se necesiten en forma inmediata, pero que consideremos todo el repertorio de los recursos que tiene el gobierno para, si fuera necesario, poder utilizar los distintos mecanismos, la logística, las comunicaciones, etcétera, etcétera.
 Ahora, lo otro que me preguntaba…
+---
+INTERLOCUTORA
+Los acuerdos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Le leo los acuerdos.
+Del juez, muy rápidamente le digo, no conozco el escrito formal del juez o lo que haya dispuesto. Si lo que pide es información, con gusto le vamos a contestar.
+Como se puede mostrar en múltiples evidencias, incluida la vivencial de todas estas conferencias de prensa, aquí está la información, está el micrositio, están las comunicaciones que tenemos en los estados, están las minutas de los comités, subcomités y ahora el consejo.
+Entonces, hay evidencia profusa de que existen las medidas, en México empezaron con el monitoreo y alertamiento temprano el 31 de diciembre de 2019.
+Justamente en el consejo y el consejo tomó nota formal de todas estas medidas en la sesión el primer punto de agenda después de declarar válida el orden del día fue que se le pidió a la secretaría de Salud relatar todo el inventario de las intervenciones de preparación y ya ahora de respuesta.
+Es una lista larga, nos llevó varios minutos describirla, entonces los miembros, las miembras del consejo tomaron nota de esto.
+Y, finalmente, los acuerdos consistieron en los siguientes cinco elementos.
+El primero es que el pleno del Consejo de Salubridad General reconoce la epidemia de enfermedad por el virus SARS-CoV-2, conocida como COVID, en México como una enfermedad grave de atención prioritaria.
+Esto atiende exactamente al texto constitucional que dispone que en caso de enfermedad grave la Secretaría de Salud está facultada para tomar acciones inmediatas, tal como ocurrió y que estas acciones inmediatas posteriormente y nos específica en qué momento serán convalidadas por el presidente de la república. Entonces, el Consejo de Salubridad General tomó nota de ella y reconoció estas características.
+Segundo, el pleno del Consejo de Salubridad General sanciona, esto quiere decir positivamente revisa y aprueba las medidas de preparación, prevención y control de la epidemia de COVID que han sido diseñadas, coordinadas y supervisadas por la Secretaría de Salud e implementadas por los poderes Legislativo y Judicial, instituciones del Sistema Nacional de Salud, dependencias y entidades de la administración federal, los gobiernos de las entidades federativas y distintas organizaciones de sectores social y privado.
+Y aquí aprovecho para comentar muy puntualmente que esta distorsión de la información nuevamente en la que se decía cada quien hizo las acciones que quiso, pues no, porque todo el operativo fue diseñado en consenso con los distintos implementadores.
+El acuerdo tres fue que la Secretaría de Salud establecerá en los sucesivo las medidas necesarias para la prevención y control de la epidemia de COVID, en consenso con las dependencias y entidades involucradas en su aplicación, que con ellas se definirá las modalidades específicas, las fechas de inicio y término de las mismas y su alcance territorial.
+En el cuarto, el Consejo de Salubridad General exhorta a los gobiernos de las entidades federativas en su calidad de autoridades sanitarias, y en general a los integrantes del Sistema Nacional de Salud a definir a la brevedad los planes que han estado preparando de reconversión hospitalaria y expansión inmediata de la capacidad, que garanticen la atención oportuna de los casos de COVID que necesiten hospitalización.
+Esto, como habíamos comentado también, llevamos ya cuatro semanas de trabajo técnico en donde los 32 gobiernos estatales y todas las instituciones públicas del sector salud han estado preparándose sus planes, y lo que hoy les requiere el consejo es que los integren, ya donde hay convergencia territorial.
+Por ejemplo, en la Ciudad de México participa el IMSS, participa el Issste, participan los hospitales federales, participa la secretaría estatal, es decir, las secretarías de salud de la Ciudad de México, y ahora toca integrarlos.
+Y, por último, el Consejo de Salubridad General se constituye en sesión permanente hasta que se disponga lo contrario.
+Aquí terminamos, muchas gracias.

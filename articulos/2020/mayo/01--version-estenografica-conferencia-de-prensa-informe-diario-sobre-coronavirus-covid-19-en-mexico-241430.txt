@@ -3,6 +3,7 @@ Presidencia de la República
 01 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del viernes 1º de mayo de 2020, estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a comenzar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS-CoV-2. Hoy nos vamos a concentrar en tres temas:
 El primero es el informe técnico diario que presentará el doctor José Luis Alomía.
 Los temas dos y tres son seguimiento de lo que esta mañana el presidente anunció que comentaríamos en mayor detalle. Y para ese propósito tenemos a una invitada muy especial, que es la jefa de Gobierno de la Ciudad de México, la doctora Claudia Sheinbaum, quien nos tiene noticias muy importantes. Bienvenida, jefa de Gobierno.
 También está nuestro querido amigo y director del Instituto Mexicano del Seguro Social, el maestro Zoé Robledo, quien hablarán ellos en conjunto del mismo tema. Luego ya pasamos a preguntas y respuestas.
@@ -10,6 +11,7 @@ Les recuerdo que estamos en el día 40 de la Jornada Nacional de Sana Distancia,
 Le pido al doctor Alomía si es tan amable de presentar el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto. Con su permiso, señor subsecretario.
 Muy buenas noches todas y todos.
 Estamos nuevamente aquí para actualizar el panorama tanto internacional como nacional en relación a la pandemia. Aquí vemos las gráficas que ya estamos acostumbrados para la actualización internacional.
 Vemos cómo se sigue y continúa contrayéndose la pandemia a nivel mundial, ahora sólo es el 35 por ciento, nos estamos acercando cada vez más a que solamente ya un tercio de todos los casos que se han confirmado desde que inició la pandemia a fines de diciembre del año pasado sean los que iniciaron con síntomas en los últimos 14 días, es decir, la pandemia activa ya estamos en un 35 por ciento.
@@ -50,6 +52,7 @@ Aquí también vemos, la Ciudad de México está en el primer lugar de ocupació
 Sería la actualización del panorama y la ocupación para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Voy a introducir el segundo tema, que es continuidad de lo que esta mañana conversábamos en la presentación de la conferencia matutina del presidente.
 En la mañana lo que decíamos, quiero retomar sobre su atención, es una muy buena noticia de la que hemos estado hablando por semanas, pero es este asunto de que las epidemias o esta epidemia en particular pasa con otro tipo de epidemias semejantes, no se distribuyen en el territorio de una manera uniforme, esto quiere decir que no tenemos al mismo tiempo la misma intensidad de propagación de COVID o del virus causante de COVID, SARS-CoV-2 en el territorio nacional.
 Lo que tenemos es zonas, particularmente las zonas urbanas, las metrópolis donde existe mayor intensidad de transmisión y zonas menos pobladas, hay menor intensidad de transmisión.
@@ -99,6 +102,7 @@ Esta ya no me detengo, porque esto es lo que se va a explicar hoy y es precisame
 Jefa, por favor.
 ---
 CLAUDIA SHEIUNBAUM PARDO, JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO
+Muchas gracias, subsecretario doctor Hugo López-Gatell, muchas gracias por invitarnos el día de hoy a esta conferencia de prensa.
 Primero comentarles que, como han visto y se ha estado informando todos los días, la Ciudad de México es la entidad del país con más casos de COVID-19. Esto se debe a varias razones:
 Una de las más importantes es que fuimos de las primeras entidades que tuvimos el primer caso, hay otras entidades que inclusive el primer caso lo tuvieron un mes después de cuando fue el primer caso en la Ciudad de México, que fue el 25 de febrero, y las propias condiciones de la Ciudad de México de densidad poblacional, los nueve millones de habitantes y los 22 millones de habitantes que somos parte de la zona metropolitana del Valle de México, es decir, 16 alcaldías de la ciudad y 59 municipios conurbados que pertenecen al Estado de México, esto da la condición para que seamos la entidad con más casos.
 Pero hay que decir que, si no hubiéramos tomado las medidas de sana distancia, -nosotros iniciamos el 20 de marzo con diversas medidas que fuimos incrementando- ya estaríamos probablemente cuatro veces los casos que se presentan todos los días aquí por la Secretaría de Salud del Gobierno de México. Eso es lo primero que quería comentar.
@@ -130,9 +134,11 @@ Entonces sin importar si son derechohabientes o no, el IMSS abierto, pero lo imp
 Esto es lo que queríamos comentarles el día de hoy. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias jefa de Gobierno.
 Señor director.
 ---
 ZOÉ ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Muchas gracias, doctor Hugo López-Gatell. Muy buenas tardes a todas y todos; jefa de Gobierno, Claudia Sheinbaum; doctor Alomía.
 Durante los últimos 63 días aquí el doctor Hugo López-Gatell de manera muy diligente, muy paciente, ha ido contando la historia de este episodio tan importante de la vida nacional, de una pandemia que va creciendo, que se va comportando de diferentes maneras y atendiendo todas las aristas, todos los diferentes elementos de lo que va ocurriendo día con día. Creo que es un gran esfuerzo, yo lo quiero felicitar.
 Y hoy llegamos a un punto en donde el sistema de salud de nuestro país enfrenta una realidad que quizás sí es muy diferente a la del resto del mundo. Sólo para hablar de la ciudad, en esta gran Ciudad de México conviven por lo menos siete sistemas de salud diferentes, con siete diferentes modelos de aseguramiento, de ingreso, de alta, de costos, etcétera, eso significa la fragmentación del sistema de salud pública de México cuando hablamos de él.
 Entonces, de repente uno puede pensar: si hay tantas personas contagiadas y tantas que van a necesitar una atención hospitalaria y tienes tantas camas o tantos ventiladores, pues las cosas deberían de empatar de manera normal. Bueno, eso no es así.
@@ -163,21 +169,25 @@ El personal de salud está listo, preparado para lo que viene, que en el caso de
 Eso sería por mi parte en este momento. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, maestro Zoé Robledo.
 Aquí, nada más, para que no se confunda la audiencia, esto que explicó la jefa de Gobierno de la Ciudad de México y el maestro Zoé Robledo de momento aplica a la Ciudad de México, cierto, incluido el llamado a Locatel, que obviamente es un servicio del gobierno de la Ciudad de México.
 Nos da tiempo de dos preguntas. Usted y la compañera que nunca había participado.
 ---
 PREGUNTA
+Gracias. Buenas noches. Poncho Gutiérrez.
 Hay algunas denuncias en redes sociales por parte del personal médico, doctores, enfermeras, que a veces ya no son escuchadas, son opacadas por estas campañas de bots de denuncias falsas, que irresponsablemente esconden a veces las quejas, algunas irregularidades que quieren ellos externar.
 Algún… digo yo sé que lo han comentado, pero para que ellos escuchen, ¿alguna línea, alguna institución dónde puedan ellos acudir y que se le pueda dar un seguimiento?
 Y otra, también hay mucha gente, muchos mexicanos que quieren donar en especie o económicamente, no saben si recurrir a una ONG o algo. ¿Las autoridades qué recomiendan hacer para estos mexicanos que quieren da un extra, pero que no quieren salir de casa?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Sobre lo segundo, lo que puedo decir es: de donativos, son bienvenidos, todo donativo altruista y sin otra motivación más que la generosidad es muy bienvenido; tenemos distintos mecanismos, las propias instituciones tienen sus propios mecanismos.
 La Secretaría de Salud es la encargada del patrimonio de la beneficencia pública, esta es una institución muy antigua, que es una institución… es parte de la Secretaría de Salud, está sectorizada el patrimonio de la beneficencia pública, y es el mecanismo que nos ha ayudado también a centralizar las cosas.
 Vamos a poner, no tengo en este momento el teléfono, pero vamos a poner a disposición un teléfono de acceso, pero, por lo pronto, puede ser el del IMSS también, por favor.
 ---
 ZOÉ ROBLEDO ABURTO
+Yo les pediría y, de verdad, que es una gran idea esta que acaba de comentar porque nosotros queremos escuchar a nuestro personal, es lo más importante, y para evitar que se confunda con cualquier otra campaña de otra naturaleza yo daría dos datos:
 El primero es nuestro número tradicional de quejas, el 800 623 2323, ahí hay varias opciones y hay una que es específicamente para quejas.
 Pero quisiera abrir uno más para nuestro personal, que es uno muy simple: zoe.robledo@imss.gob.mx, es el correo electrónico mío de la Dirección General y ahí puedo estar recibiendo las quejas y que tengan la seguridad que mantendremos todo al anonimato.
 Nos sirve muchísimo cuando nos dicen: ‘Alguien no nos está dando el equipo de protección personal’ o que tengan alguna amenaza de cualquier tema, cualquier tema que les preocupe. Yo les pediría que lo hagan ahí, directamente a ese correo electrónico, zoe.robledo@imss.gob.mx.
@@ -186,9 +196,11 @@ Gracias.
 Zoe.robledo@imss.gob.mx.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, maestro Robledo.
 La última pregunta, por favor.
 ---
 PREGUNTA
+Muchas gracias. Meme Yamel, de La Neta Noticias para Acústik, televisión y radio.
 Doctor, en una entrevista radiofónica la jefa del Departamento de Nefrología del Instituto Nacional de Cardiología, la doctora Magdalena Madero, señaló que la situación de los hospitales de la Ciudad de México es crítica y debido a que ya están llegando al punto en el que van a tener que decidir a qué pacientes van a tener que darles un tratamiento paliativo, dado a que no tienen las herramientas necesarias para hacer lo posible para salvar las vidas.
 ¿Qué tan cierto es eso?, ¿sería una estrategia a tomar?, ¿lo determina el doctor, el hospital?, ¿cómo funcionaría?
 Y nada más brevemente también obviamente el tema de la adquisición de los ventiladores. Se hizo pública esta investigación de que se adquiere, se hace un contrato con el hijo del titular de la Comisión Federal de Electricidad y que está vendiendo o que vendió los ventiladores al precio más caro en el mercado.
@@ -196,12 +208,14 @@ Y nada más brevemente también obviamente el tema de la adquisición de los ven
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
 Nos dejan dos minutos para responderle. Escuché esta a la que se refiere la doctora Magdalena Madero Rovalo, quien es la jefa del departamento de Nefrología del Instituto de Cardiología, es una profesional muy competente, muy preparada, es investigadora nacional y la respeto muchísimo.
 Lo que ella relata es precisamente este fenómeno que estamos resolviendo con la redistribución. Efectivamente, como lo dijimos esta mañana, los tres Institutos Nacionales de Salud que fueron designados hospitales COVID, Nutrición, el INER y Cardiología se saturaron en la medida en que su prestigio, pero además su importancia, llevó a que una gran cantidad de personas en la ciudad que necesitaban atención para COVID acudieran a ellos.
 Entonces, efectivamente, llegaron a un punto crítico de saturación, mientras que tenemos otros espacios disponibles y que son igualmente buenos, también.
 Y lo que estamos haciendo precisamente con esta iniciativa que relatamos en la mañana y ahorita es lograr esta redistribución.
 ---
 ZOÉ ROBLEDO ABURTO
+Intento contestar así muy rápido. Mire, nosotros liberamos las compras locales de los ventiladores, esto es, tenemos 35 representaciones que ellos, los representantes, todos médicos, médicas, enfermeras, enfermos del Seguro Social con amplia trayectoria buscaran en lo local proveeduría.
 La doctora Claudia Díaz, que es la representante nuestra en Hidalgo, hizo eso, pero estableció tres criterios para decidir:
 El primero era la oportunidad, la entrega inmediata, eso es lo más importante hoy en el precio de un ventilador, cuál puede entregarse de manera inmediata.
 El segundo ¿cuál era el modelo? No todos los ventiladores son iguales, hay algunos que están certificados, que usan mucho en el Seguro Social y los conocemos, otros son más novedosos y demás en un mercado global saturado y complicado.
@@ -210,3 +224,7 @@ Y luego las mejores condiciones, pero justamente hablé con la doctora el día d
 Y por eso ella decidió, y me parece que fue una gran cosa, dar una conferencia de prensa mañana para explicar paso a paso.
 La clave en este momento es la transparencia para tener que hacer disposiciones que salvan vidas, pero hacerlas de manera transparente desde luego; entonces, ojalá puedan acompañarla mañana, va a ser allá en Pachuca en la delegación para esta conferencia con la doctora.
 Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Pues son las 20:01 horas. Muchas gracias, jefa de Gobierno, director, doctor Alomía, muchas gracias a ustedes. Muy buenas noches y nos vemos mañana.

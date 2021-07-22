@@ -3,10 +3,12 @@ Presidencia de la República
 19 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas tardes. Son las 19:00 horas en punto del viernes 19 de junio, Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2, que inició en China a inicios del año.
 Hoy vamos a tener el informe técnico y el semáforo, vamos a retomar sobre el semáforo y vamos a explicar parte de la metodología del semáforo, pero también vamos a dejar presentado cuál es el semáforo que empezará a surtir efecto a partir del próximo lunes 22 de junio.
 Le pido al doctor Alomía si es tan amable de presentar.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes todas y todos.
 Vamos a iniciar nuestra conferencia vespertina 112 en este día 19 de la Nueva Normalidad. Como todos ya sabemos y en casita también, la Nueva Normalidad se caracteriza por aquellas acciones que de manera regional, en este caso en el marco de una entidad federativa, llevamos a cabo para poder seguir previniendo los contagios, poder seguir disminuyendo la transmisión y mantener lo más posible controlada la carga de enfermedad en México que permita seguir teniendo disponibilidad de camas en los hospitales para atender a las personas que complican y se agravan a causa de la enfermedad.
 Esto es un objetivo muy importante que también se mantiene y se opera desde el semáforo de riesgo COVID, que además genera un balance que nos permite poder realizar ciertas actividades en esto que se ha denominado la Nueva Normalidad.
@@ -34,7 +36,7 @@ En la siguiente diapositiva tendríamos la distribución de estas defunciones po
 Veamos ahora la actualización del diagnóstico por laboratorio, 469 mil 715 son las pruebas que hasta el momento se han realizado en toda la Red Nacional de Laboratorios de Salud Pública.
 Vean ustedes cómo la tendencia y la cantidad de pruebas realizadas continúa incrementándose, porque esto va de la mano de la cantidad de casos sospechosos que día con día se van presentando.
 Si un caso sospechoso en base al lineamiento requiere una prueba para confirmarse, la prueba se oferta y se aplica y podemos ver cómo continua la misma tendencia que tiene en este momento la epidemia en México.
-Aun así, el total de pruebas realizadas hasta el momento también tenemos todavía disponibles en toda la red prácticamente un cuarto de millón de pruebas, 254 mil 368, la mitad de ellas prácticamente ya distribuidas y listas en los laboratorios del de la red nacional, tanto en los estatales regionales como en los apoyo a la vigilancia epidemiológica y un poco menos de la mitad de ese total en un resguardo en el Indre, Instituto de Diagnóstico y Referencia Epidemiológicos, desde donde se están enviando, se están surtiendo en la medida que la red y los laboratorios están utilizándolas, la idea es que siempre tengan pruebas listas para poder llevar a cabo su  procedimientos.
+Aun así, el total de pruebas realizadas hasta el momento también tenemos todavía disponibles en toda la red prácticamente un cuarto de millón de pruebas, 254 mil 368, la mitad de ellas prácticamente ya distribuidas y listas en los laboratorios del de la red nacional, tanto en los estatales regionales como en los apoyo a la vigilancia epidemiológica y un poco menos de la mitad de ese total en un resguardo en el Indre, Instituto de Diagnóstico y Referencia Epidemiológicos, desde donde se están enviando, se están surtiendo en la medida que la red y los laboratorios están utilizándolas, la idea es que siempre tengan pruebas listas para poder llevar a cabo su  procedimientos.
 Veamos la siguiente diapositiva. Estamos actualizando los porcentajes de positividad para cada una de las semanas epidemiológicas. Hace una semana veíamos que había llegado a un 47 por ciento, para las semanas 21 y 22 y ahora solamente hay un incremento ligero de un punto porcentual para la semana 23, es decir, 48 por ciento es el porcentaje de positividad, lo que quiere decir que de cada 10 personas que están desarrollando signos y síntomas respiratorios y que han sido muestreadas, la mitad de ellas, o sea, cinco son positivas a COVID-19 o tienen la enfermedad, las otras cinco personas pudieran tener otro tipo de virus respiratorio o no serían COVID.
 Y también seguimos llamando la atención que, como ustedes pueden ver cuando los agrupamos por semana epidemiológica, seguimos viendo la tendencia ascendente que tiene en el número de pruebas, es decir, cada semana se han realizado más pruebas.
 La 24 no quiere decir que se hayan hecho menos pruebas, sino que en la 24 están precisamente concentrados todos esos casos que son aún sospechosos, que vemos en los últimos 10, 12 días, esa semana 24 de seguro la próxima que las presentemos van a crecer; pero si vemos de la 23 hacia atrás la tendencia es completamente hacia arriba.
@@ -45,9 +47,11 @@ En mucha menor cantidad y proporción, pruebas que se han realizado también en 
 Sería la actualización al día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Doctor Ricardo Cortés, si nos presenta el semáforo, por favor.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias, doctor, con mucho gusto. Muy buenas tardes tengan todas y todos aquí en Palacio Nacional y en casa.
 Vamos a presentar los resultados de esta semana del semáforo de riesgo epidémico para COVID empezando por la metodología, un poco de la metodología.
 Tenemos cuatro indicadores:
 El primero es la ocupación hospitalaria y vale la mitad de la calificación final, la calificación que da el color del semáforo de cada estado.
@@ -78,14 +82,17 @@ Y, finalmente, conciertos, eventos masivos de más de 500 personas, bares y cent
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés.
 Vamos a empezar aquí con la ronda de preguntas y respuestas con Liliana, Pulso Saludable, usted, usted, usted, Juan, Daniela Pastrana, que quedó pendiente ayer.
 ---
 PREGUNTA
+Gracias. Buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Gatell, quisiera que nos platicara. Encontré por ahí una información, la voy a leer porque me parece como un trabalenguas, favipiravir, este medicamento ruso, ¿es cierto que está teniendo muy buenos resultados y que en México ya, incluso, se está produciendo?, ¿ya se está haciendo un tipo de convenio?, para saber si es verdad o no la información que circula.
 Y de la pregunta que le hacían ayer sobre las clínicas que tuvieron que suspender sus actividades normales y que tienen que ir los pacientes a otros lugares para poder recibir atención, ¿habrá posibilidades de que nos compartan una lista?, para que el paciente sepa, no sé, clínica A le corresponde ir a hospital H, no sé.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con todo gusto. Muchas gracias, siempre por sus preguntas que ayudan a esclarecer inquietudes ciudadanas.
 Sobre este medicamento antiviral ruso, no, la respuesta desafortunadamente también es no, todavía no existe evidencia científica consistente que permita justificar su uso en la práctica clínica.
 Hemos identificado a lo largo de toda la epidemia, cada vez que sale una noticia sobre un nuevo producto farmacéutico todos miramos con gran atención, con gran interés y con gran deseo de que tengamos al fin un medicamento útil y lo cierto es que no, tampoco este medicamento tiene todavía el estado de madurez de la evidencia científica que permita su uso.
 El gobierno mexicano no tiene ningún convenio, contrato o acuerdo con el gobierno ruso para la adquisición o procuración anticipada de este medicamento y este es el estado actual.
@@ -99,6 +106,7 @@ Entonces, yo creo que es importante reconciliar la información, pero ciertament
 Y aquí el doctor Ricardo Cortés nos tiene la solución que usted está pidiendo.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor López-Gatell.
 Ayer compartimos la forma de contacto ciudadano, una de ellas es a través de la aplicación, la aplicación COVID-19MX que, si ustedes la descargan, la abren: ‘Quédate en casa’, nuestros próceres separaditos también para la sana distancia y tiene cuatro íconos acá abajo es el menú principal.
 El de la derecha dice: ‘Centros de Salud’. Si yo lo toco identifica, porque yo le di permiso a esta aplicación de que me siguiera y de que cuando uso la aplicación detecte en qué delegación estoy, en dónde estoy y por aquí debe salir un puntito, pero bueno.
 Lo más importantes, los puntitos más importantes son los que se ven morados, son centros de salud de primer nivel, hospitales de segundo nivel y hospitales de tercer nivel, y tienen una diferencia muy particular.
@@ -109,9 +117,11 @@ Pero es muy interesante y muy importante cómo estas 757 mil personas que ya des
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Actualización. Me escriben en tiempo real mis queridos compañeros, el titular de Cofepris, doctor Novelo Baeza, y el titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales Federales, sobre el medicamento que usted pregunta, el favipiravir. Me dice que es japonés, que lo fabrica Rusia, pero es un producto japonés, que hubo un donativo de 10 tratamientos que se planean utilizar como parte de un protocolo de estudio científico en hospitales de la Ciudad de México y del Estado de México que efectivamente, como dije, no hay todavía evidencia de su eficacia. Este es el estado y el doctor Gustavo Reyes Terán, quien está a cargo de coordinar la creación de la guía, dice que ya próximamente estará lista. Gracias.
 Usted y usted de este lado.
 ---
 PREGUNTA
+Gracias, Héctor Tlatempa, de Puntos Suspensivos Radio, Puntos Suspensivos Comunicación.
 Buenas tardes a todos; buenas tardes, compañeras y compañeros.
 El día de ayer comentaba aquí con ustedes acerca de los aparatos del oxímetro, porque precisamente en las redes sociales nos habían hecho esa pregunta que no lo encontraban, pero ya no pudimos concluir.
 Comentan que no es que esté agotado, porque, aunque no se encuentra en farmacias sí está en Mercado Libre a precios muy altos, pero en ninguna farmacia y decían que los que han podido lo compran, pero no ha sido fácil se ha casi triplicado el precio.
@@ -119,27 +129,41 @@ Entonces, si se podría llegar a saber por qué este asunto de… digo pasa como
 En este sentido, también yo recuerdo que ya en alguna ocasión se tocó aquí el tema, pero nos dicen también usuarios que por qué no ya a estas alturas sería bueno dar a conocer también los casos en su tablita de resumen de casos confirmados, también de esos casos que ya han sanado, puesto que sí se escucha mucho acerca de la gente que ha fallecido y las pérdidas, pero también emocionalmente, mentalmente afecta mucho porque sí ya hay casos y casos muy positivos en los que afortunadamente los familiares se pueden llevar a su enfermo y ya son demasiados casos, también así como nos hemos enterado de defunciones ya a nuestro alrededor también ya de casos positivos, de casos de gente que ya ha sanado.
 Es todo.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, sobre los casos de recuperados, efectivamente son muchos, de hecho, son la gran mayoría y le pido al doctor Alomía si nos comenta sobre la perspectiva que tenemos del análisis de los casos recuperados.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En este momento, nosotros queremos… Digo para presentar un número, estamos precisamente terminando de validar la formulación correspondiente dado que se necesita realizar una estimación.
 Para poder decir que están recuperados tenemos que tener la certeza de que los casos, uno, no se encuentra en este momento hospitalizados, por lo tanto, no podemos sólo descontar los que tengan 15 o más días de haber iniciado síntomas porque los casos que están hospitalizados, precisamente por la gravedad, pueden durar más tiempo, 20, 25 días, hemos tenido casos que han durado hasta más de un mes hospitalizados.
 Lógicamente el número de personas que lamentablemente han fallecido sí se tiene y estos también es un número que hay que descontar de la estadística total, y entonces ahora sí enfocarnos en la totalidad de personas que podrían tener más de 15 días de que iniciaron síntomas, y por lo tanto se infiere están en este grupo de casos recuperados.
 Comento que es una estimación porque la plataforma en sí no registra el dato como tal; es decir, sí tenemos un resultado de una prueba, tenemos cuando un caso es sospechoso, tenemos cuando un caso está hospitalizado, pero como parte, por lo menos en este momento de un seguimiento, las unidades no registran directamente un dato de decir: ‘Esta persona está recuperada’.
 Sí podemos tener el alta por mejoría en los que están hospitalizados, pero no necesariamente en los ambulatorios. Entonces, los vamos a presentar, solamente que se está terminando como que de validar fehacientemente la formulación que nos va a permitir estimar lo más cercano posible a la realidad los casos recuperados y los empezamos a presentar rápidamente tempranamente.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Usted, Daniela y usted.
+---
 PREGUNTA
+Buenas noches, señor subsecretario Gatell; buenas noches directores.
 Mi pregunta es si cree prudente hacer una nueva invitación a las entidades federativas para usar las herramientas que existen del cuerpo científico que… Usted respeta mucho a las entidades con los centros de investigación; sin embargo, como científicos sabemos que en el laboratorio mientras más muestras haya es mejor el estudio, y es un estudio que se ha hecho con más población, con más tiempo, con más experiencia y estas herramientas cubren el rigor científico.
 Y esa es la pregunta, si valdría la pena hacer nuevamente esta invitación a las entidades federativas. Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Si entendí bien la pregunta es sobre que los gobiernos de las entidades federativas involucren a las comunidades científicas de sus estados, ¿es cierto?
+---
 INTERLOCUTOR
+Si pudieran hacer uso de las herramientas que ya tienen ustedes aquí, que cumplen con un rigor científico, que llevan más tiempo de experimentación.
 Sabemos que esas comunidades científicas en los estados tienen personas talentosas y todo, pero van a empezar con pocos experimentos, pocas muestras que a ustedes ahorita en estas investigaciones de sus equipos científicos sí las tienen.
 Entonces, hacer la invitación nuevamente a usarla.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, sobre los distintos recursos que tenemos, que son recursos públicos, todo esto es un bien público, son bienes públicos, la información, como hemos destacado en muchas otras ocasiones, no proviene del gobierno federal, proviene de las localidades, de las unidades de salud, del personal de salud que documenta la situación de la epidemia a través de la identificación de casos, la toma de muestras, el procesamiento de muestras, el registro de los resultados y las comunidades científicas locales, me refiero locales a las comunidades en las entidades federativas, tienen desde luego una gran cantidad de posibilidades de explotar esta información, la propia que produce cada entidad federativa y la que se agrupa en las plataformas nacionales.
 Por eso hemos decidido desde hace muchas semanas, prácticamente desde el mes de abril, poner a disposición toda la información que tenemos en forma de datos abiertos. Esto es inusual, esto no había ocurrido en los datos de salud pública de México, este es un hecho que se puede constatar. nunca en la historia de la salud pública gubernamental de México un gobierno había decidido poner completos los datos, por supuesto sin que se identifique a las personas para que toda comunidad, persona en México o en el mundo que quiera utilizar los datos, explorarlos, procesarlos, analizarlos, hacer inferencias, hacer estimaciones, lo pueda hacer.
 Eso es muy enriquecedor y eso ojalá que ayude también a cambiar las prácticas de acceso a la información. Siempre hemos considerado que la transparencia debe ser absoluta, no debe tener reservas y entre más personas estén involucradas en el proceso de análisis, más enriquecedor va a ser el conocimiento que se genere.
 Muchas gracias.
 Daniela Pastrana, Juan Hernández, Sandra Aguilera, me pareció que también.
 ---
 PREGUNTA
+Gracias. Buenas noches.
 Doctor, desde ayer causó mucha inquietud una información que surgió en Europa, sobre una investigación de que el tipo de sangre tipo A puede provocar, tiene un mayor riesgo, se puede un mayor riesgo de tener complicaciones que otro tipo de sangre. Esa es una información que ya también habían hecho algunos investigadores en China en marzo.
 Entonces, bueno un poco saber qué tanta validez científica puede tener ya este estudio o si hay alguna otra información que ustedes tengan.
 Y también sobre otro medicamento, la dexametasona, que se está usando mucho en el Reino Unido ahorita con pacientes intubados y que aquí el gobierno de la Ciudad de México está analizando usarlo, pero por otro lado el INER dice que puede generar reacciones y abrir la puerta a enfermedades oportunas.
@@ -147,6 +171,7 @@ Entonces, quería saber cuál es la posición oficial del Gobierno de México so
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por las preguntas, Daniela Pastrana, de Pie de Página.
 Antes de contestar, quiero hacer notar lo complejo, los difícil que es comunicar mensajes de interés público masivo de algo que es tan importante para toda la población cuando existen matices necesarios de la información.
 La expectativa pública suele operar de una manera más vamos a decir tajante. Lo que quisieran es un: Sí, esto es absolutamente útil y es la cura del COVID, lo cual es perfectamente entendible.
 Las personas que han sufrido la pérdida de un ser querido o que están en la preocupación de tener la enfermedad quisieran tener la solución; o al revés, que se les dijera tajantemente: Esto no sirve, pero desafortunadamente la realidad no es así.
@@ -172,14 +197,26 @@ Retorno a la ivermectina, me está pasando aquí el doctor Cortés, yo creo que 
 Grupos sanguíneos, como no me gusta hablar de lo que no he leído y no conozco, sólo he leído la noticia relativa a esta información que sugiere que las persona con grupo sanguíneo A tenemos 50 por ciento mayor probabilidad de complicaciones comparados con otros grupos sanguíneos y, en cambio, quienes tienen grupo sanguíneo O tendrían una menor probabilidad, pero la noticia refiere un estudio de una prestigiosa revista científica New England Journal of Medicine. Entonces, me lo voy leer y le contesto con certeza mañana.
 ---
 PREGUNTA
+¿usted es A?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, gracias. Es el grupo sanguíneo más común en México y en América Latina, el grupo sanguíneo A.
+---
+PREGUNTA
+Gracias, buenas noches. Juan Hernández, del periódico Basta y del Grupo Cantón.
 Estábamos viendo estos estados que acaban de mencionar en naranja y en rojo, solamente uno retrocedió, que fue el estado de Tabasco.
 Aquí ¿cómo se le puede interpretar, como una falla o a lo mejor un incremento? Si nos podría, digamos, aterrizar un poco más coloquialmente, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. No consideramos que técnicamente se justifique la identificación de fallas. Las epidemias son muy complejas, son fenómenos policausales, hay múltiples causas, múltiples dinámicas y los indicadores de semáforo que se acaban de ser presentados ya los hemos comentado incluyen la ocurrencia de la epidemia en la comunidad, la demanda de servicios hospitalarios, el estado que guarda la ocupación de los servicios hospitalarios, el estado que guarda la ocupación de los servicios hospitalarios y la positividad al virus.
 Prácticamente ninguno de estos fenómenos son directamente controlables por los seres humanos y la modulación que se hace para controlar la epidemia con la sana distancia, con la restricción del uso de espacios públicos, etcétera, tiene efectos que no necesariamente se manifiestan de un minuto al otro, de un día al otro.
 Es importante no visualizarlo como fallas porque en un momento dado vamos a estar teniendo cambios para arriba o para abajo en la dinámica epidémica en las distintas entidades federativas.
 ---
+INTERLOCUTOR
+¿Cuál sería el mensaje que le daría en este caso a Tabasco?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+A Tabasco y a todos los estados en rojo les doy el mismo mensaje que a los estados en naranja, la epidemia continua y hay que ser extremadamente prudentes en la reactivación de las actividades en la vía pública, en las actividades en las que congregamos.
 No hay duda que necesitamos empezar a recuperar como país, al igual que lo han hecho otros países, nuestra vida pública porque la vida pública de ella depende que la gente tenga su sustento diario y la mitad del país vive al día, no hay duda de eso.
 Pero no debemos entrar en una falsa dicotomía de que es o una o la otra. Por cierto, ayer Tom Frieden, quien fue un muy talentoso director de los centros de control de enfermedades de Estados Unidos por ocho años, un poquito más de ocho años, justamente hablaba de esta falsa dicotomía, de pensar que es o proteger la salud y proteger la economía y el bienestar.
 No, esto es mucho más complejo que esa visión simple. Tenemos que ir encontrando los equilibrios necesarios para recuperar la vida pública y con todo cuidado que la gente empiece a salir de una manera organizada, planeada, supervisada.
@@ -191,11 +228,13 @@ Entonces, si mantenemos esa conciencia, disminuimos importantemente el riesgo; y
 Última pregunta, Olinka.
 ---
 PREGUNTA
+Gracias. Olinka Valdés, de Eje Central.
 Respecto a los cambios que hubo en el semáforo, Tabasco pasa de naranja a rojo, Hidalgo pasa de rojo a naranja, Colima pasa de rojo a naranja.
 ¿Ayer en la reunión que hubo con los gobernadores se habló en específico, en el Estado de Tabasco, por ejemplo, de qué actividades van a tener que echar hacia atrás?
 Y si con los gobernadores o autoridades de Hidalgo y de Colima hubo algún acuerdo sobre qué actividades podían empezar a realizar ahora que están en semáforo naranja.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto. Con todas las entidades federativas, con todos los mandatarios y mandatarias estatales mantenemos un diálogo abierto y el diálogo abierto es en tiempo real, en tiempo real, yo les he dicho, nos pueden hablar a las 3:00 de la mañana, no ocurrido todavía, pero a veces sí a las 11 y media, y no les reprocho en absoluto, muchas gracias, por la confianza de solicita el apoyo y el diálogo.
 Insistimos, respaldamos, como gobierno federal respaldamos a todos nuestros -y hablamos en plural- nuestros y nuestras mandatarios y mandatarias estatales. Somos un solo país y atender una epidemia requiere una actitud, una disposición para tener una visión de Estado, de Estado nacional. Lo que ocurre en cada rincón del país es relevante para todo el país, entonces respaldamos y apoyamos, y estamos a disposición de nuestras y nuestros mandatarios estatales.
 Ha habido diálogo, el ejemplo concreto de Hidalgo, el gobernador Omar Fayad, su secretario de Salud, el doctor Benítez, la doctora Osorio, todo su equipo de salud y de gobierno estamos en continuo contacto.
 Platicaba creo que al inicio de esta semana, tuvimos una conversación muy productiva con ellos y ellas sobre los tianguis, los tianguis como una actividad consustancial a la actividad económica de Hidalgo y de muchos otros estados, pero también una actividad característicamente congrega a las personas.
@@ -205,3 +244,16 @@ Hay muchas maneras creativas de encontrar las soluciones y eso justamente es lo 
 Y les recuerdo, la epidemia todavía le falta mucho, es una epidemia larga, como dije desde febrero. Prepararnos para una epidemia larga es incorporar en nuestro control no solo individual, sino en una actitud de solidaridad comunitaria la protección de unos y otros.
 Próximamente voy a traer un ejemplo de cambios de prácticas que hay ahora en la Central de Abastos, que ilustran justamente esta conducta positiva en donde las comunidades se adueñan positivamente de su propio cuidado de la salud con un esquema solidario.
 Lo voy a platicar con la jefa de Gobierno y voy a pedirle que traigamos ese ejemplo aquí a la mesa.
+---
+INTERLOCUTORA
+¿En el caso de Tabasco alguna actividad en específico que se tenga que echar para atrás?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hay múltiples adaptaciones, no es de que se echan para atrás o se echan para adelante, se adaptan.
+---
+INTERLOCUTORA
+Pero es un hecho, regresó Tabasco en el semáforo, es un hecho, entonces ¿hay algún…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a apoyar al gobernador Adán Augusto Hernández, López Hernández, para que él disponga de las adaptaciones que considere necesarias y le daremos toda la asesoría técnica que él requiera. Tiene un excelente equipo de salud, la doctora Silvia Roldán, secretaria de Salud, es una muy talentosa experta en salud pública y estamos para servirle.
+Muchas gracias. Son las 20:03. Aquí acabamos la semana en viernes. Nos vemos mañana. Gracias.

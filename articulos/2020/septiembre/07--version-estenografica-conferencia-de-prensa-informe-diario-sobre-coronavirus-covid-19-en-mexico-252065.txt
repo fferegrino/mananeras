@@ -3,10 +3,12 @@ Presidencia de la República
 07 de septiembre de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del lunes 7 de septiembre de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el virus SARS-CoV-2.
 Estamos a punto de cumplir 200 conferencias mañana, pero hoy vamos a tener esta, la número 199, y vamos a tener el informe técnico que presentará el doctor Alomía, un detalle de comparación que hemos presentado en muchas otras ocasiones, sobre la situación en la región de nuestro continente, de América, y comentaremos sobre las diferencias de las distintas curvas epidémicas, su interpretación, su significado. Después abrimos a preguntas, que ayer quedaron pendientes varias de ellas.
 Doctor Alomía, si es tan amable.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas tardes todas y todos los que están, tanto de manera presencial como de manera virtual, nos siguen también a través de las diferentes redes sociales y medios de comunicación.
 Estamos en la conferencia vespertina número 192 y el día de hoy cumplimos 100 días de la nueva normalidad, normalidad que, ustedes saben, se caracteriza por las intervenciones comunitarias a actividades que son permitidas a través del semáforo de riesgo COVID, que desde hace 100 días se operan precisamente en cada una de las entidades federativas en base a la situación, al perfil epidemiológico que cada una de ellas tiene.
 La epidemia en México es una epidemia asincrónica, es decir, sucede en diferentes momentos, con diferentes magnitudes, en cada una de las 32 entidades federativas, por eso la importancia de que cada una pueda tener un modelo y una evaluación de su riesgo para, en la medida de este resultado, puedan entonces aplicar las acciones, las intervenciones para disminuir la circulación en el espacio público y favorecer la sana distancia entre las personas que residen en cada una de ellas y así poder modular de manera adecuada la presentación de la epidemia en cada una de ellas.
@@ -47,14 +49,17 @@ Esta gráfica -y con esto termino la presentación- también es una forma en la 
 Serían los datos para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía, por este repaso de conceptos que hemos estado comentando desde el inicio de la epidemia, pero siempre nos gusta que actualicemos como está la situación, que volvamos a ver la evidencia, que la podamos comparar juntas, juntos y revisar, y que esté sujeto a escrutinio. Así que les invitamos a hacer cualquier cuestionamiento que consideren pertinente.
 Vamos a empezar la sesión de preguntas, son las 19:22. Natalia Vitela, Liliana Noble, Juan Carlos Machorro.
 ---
 PREGUNTA
+Hola. Buenas noches, doctor.
 Quisiera preguntarle sobre algunas cuestiones que dijo ayer. Lo que quería saber es: ¿esperan un rebrote para, no sé, finales de año de COVID y de qué intensidades? Usted hablaba que, en países europeos ya se está presentando este rebrote y es de la misma intensidad que como inició.
 Y la otra pregunta es sobre las camas hospitalarias. ¿Se va a regresar a la normalidad y en qué porcentaje?
 Por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Natalia.
 Sobre el rebrote, hoy en la tarde me hicieron una entrevista en la radio, comenté esto, lo hemos comentado aquí, yo creo que en al menos unas 15 ocasiones y hemos dicho lo siguiente, lo volvemos a decir.
 La epidemia empezó el 28 de febrero o el 27, la noche del 27 cuando se detectó el primer caso, se confirmó en la madrugada del 28. Desde el inicio teníamos la expectativa de una epidemia larga, se acuerdan que hemos hablado de la epidemia larga, pusimos un video donde reprodujimos las 18 ocasiones en que hablamos de la epidemia larga, seguimos hablando de la epidemia larga.
 ¿Por qué hablamos de la epidemia larga?
@@ -119,17 +124,33 @@ En parte es por este fenómeno estacional de las infecciones respiratorias que o
 Entonces, a quién le esté inquietando en este momento, ‘si saben eso ¿por qué desconfinan?’, espero que a estas alturas quede claro, porque la sociedad tiene límites a tolerar y no es una tolerancia de actitud o personal solamente, sino es una tolerancia en la realidad social y económica, en el bienestar, no puede estar la sociedad confinada de manera perpetua.
 Esta es la situación, Natalia, y usted había hecho una segunda pregunta.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Ya hemos hecho una consulta a las autoridades sanitarias estatales y estamos esperando la respuesta respecto a cuál es su posibilidad de reorientar la ocupación hospitalaria hacia los padecimientos no COVID, teniendo presente en todo momento que las capacidades de recuperar la atención COVID tienen que estar en todo momento disponibles.
+INTERLOCUTORA
+Lo de las camas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Camas hospitalarias. Mañana en El Pulso de la Salud, probablemente, vamos a presentar avances de la guía de continuidad de operaciones y restitución de los servicios no COVID que se publicará en uno de los días de esta semana y vamos a presentar unas tablas comparativas con respecto al primer semestre de 2019 y comparadas con el primer semestre del 2020, cuántas atenciones ha habido en hospitalización, en consulta y en urgencias de algunos padecimientos, los agruparemos para presentar por las instituciones del sector y hablaremos, justamente, de eso.
+---
+INTERLOCUTORA
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Esto está en proceso, esta decisión depende mucho de las realidades epidemiológicas de COVID, en términos generales los estados que aún tienen la transmisión más activa deberán esperar, los estados que ya tienen una franca disminución, un ejemplo es Chiapas y otro es Campeche, posiblemente tienen un mayor margen de maniobra, pero todavía no hay una decisión numérica para cada estado.
+Ya hemos hecho una consulta a las autoridades sanitarias estatales y estamos esperando la respuesta respecto a cuál es su posibilidad de reorientar la ocupación hospitalaria hacia los padecimientos no COVID, teniendo presente en todo momento que las capacidades de recuperar la atención COVID tienen que estar en todo momento disponibles.
+---
+INTERLOCUTORA
+Entiendo que comentaba que espera este rebrote por la temporada de influenza y el confinamiento. Mi duda es: ¿será de la misma intensidad que este primer brote?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es muy difícil predecirlo, sería aventurado. Por cierto, otra de las persistentes ideas fijas de este pequeño segmento de la población es la expectativa de que cuando se dice un dato, una fecha, lo toman como que fuera una promesa, entonces hay cosas que dependen de muchas variables, mejor nos esperamos a ir precisamente esto. Muchas gracias.
 Liliana Noble, Pulso Saludable; Juan Carlos Machorro y Araceli Aranday, y usted.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Gatell, usted en la mañana en el webinar ‘El retorno de lo público’, hablaba algo que no entendí, no sé si… para no especular, mejor explíquenoslo bien. Usted hablaba de que lamenta que un sector de la sociedad no está preparado para recibir la verdad y que de pronto quieran enjuiciar a los servidores públicos y volverlos los responsables de muchas de las situaciones que hoy ocurren.
 ¿Exactamente cuando dice de la verdad de qué estamos hablando? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias.
 Lo comento. Esta mañana tuve el privilegio de participar en un foro, en un seminario transmitido por vía remota también, por vía electrónica, que organizó la secretaria de la Función Pública, nuestra muy querida y respetada doctora Irma Eréndira Sandoval Ballesteros y el privilegio incluyó el compartir la mesa de conversación con la doctora María Elena Álvarez-Buylla, directora general Conacyt, y el maestro Jenaro Villamil, director del Sistema Público de Radiodifusión.
 El tema del seminario fue ‘El retorno de lo público’, y fue para compartir reflexiones sobre las implicaciones de la agenda de la Cuarta Transformación del actual gobierno que tiene el intento deliberado, el empeño deliberado de hacer un cambio, no tanto -o no sólo- de gobierno, sino de régimen.
 Y nos referimos en varias ocasiones y coincidiendo todas y todos en la idea de que la integridad de las personas servidoras públicas es un requisito indispensable para poder impulsar una transformación de este nivel de profundidad.
@@ -149,14 +170,34 @@ Y cuando lo hemos dicho aquí la reacción que vemos en algunos medios de comuni
 Entonces, todo esto fue lo que hablamos en el seminario de hoy y le agradezco públicamente a la secretaria de la Función Pública por habernos invitado.
 ---
 INTERLOCUTORA
+Doctor, gracias.
 Una segunda pregunta. AstraZeneca recibió protección especial contra cualquier tipo de demanda, de responsabilidad sobre la vacuna. Esto me hizo pensar en que qué miedo. ¿Está en su derecho, así procede? Por cuatro años.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Quién le da esta protección?
+---
+INTERLOCUTORA
+No dice, no dice quién le ha otorgado esta protección, pero ¿esto es bueno?, ¿ya no nos debemos de poner la vacuna? Qué miedo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es un punto de reflexión que estamos trabajando. Aprovecho para comentarles, por instrucción del secretario de Salud y en concurrencia con la instrucción general que dio el presidente, bueno, instrucción también muy específica que le dio al secretario de Salud, le pidió que estableciera una persona responsable del seguimiento de la iniciativa de las vacunas COVID y que trabajara para asegurarse el que los trámites son expeditos, pero son rigurosos y son apegados a las distintas reglamentaciones de seguridad sanitaria o de protección contra riesgos sanitarios.
 El doctor Alcocer me designó, integramos el grupo, este un grupo de trabajo gubernamental para tener la estrategia general de vacunación contra COVID. En el grupo participa Conacyt, la doctora María Elena Álvarez-Buylla; el coordinador de los Institutos Nacionales de Salud, doctor Gustavo Reyes Terán; el secretario del Consejo de Salubridad General, doctor José Ignacio Santos Preciado; participa también Cofepris, aunque ahora está inscrito a la subsecretaría, de modo que de manera directa yo le represento; participa la Secretaría de Relaciones Exteriores, a través de la subsecretaria Martha Delgado; participa la Secretaría de Economía, a través del subsecretario de Industria, Comercio y Competitividad, Ernesto Acevedo; participa Birmex, la empresa pública de vacunas; participa el Insabi, Instituto de Salud para el Bienestar; participa el Instituto Mexicano del Seguro Social, este es el grupo de trabajo hasta ahorita. Se incorporará posteriormente la Secretaría de Hacienda y Crédito Público, a través de la subsecretaría de Egresos.
 La idea de este grupo es coordinar los distintos esfuerzos que tienen que ver desde la investigación y el desarrollo, el acceso, la adquisición, el uso, la regulación sanitaria, la farmacovigilancia y la evaluación y el monitoreo, y la comunicación social, participa también Jesús Ramírez, el vocero de Presidencia y coordinador general de Comunicación Social de Presidencia, esa es la amplitud del grupo.
 Y una de las condiciones de interés… Participa también la abogada general de la Secretaría de Salud, y en su momento el consejero jurídico de Presidencia, porque uno de los elementos a considerar es esto sobre la responsabilidad legal que en los países podría implicar si la vacuna, una dos, tres, cualquier vacuna, no sólo esta de este laboratorio, tuviera un efecto secundario grave, quién se hace responsable jurídicamente hablando si surgiera una demanda de responsabilidad legal.
 En casi ningún país existe un marco jurídico que permita establecer una excepción de esa responsabilidad, excepto en Estados Unidos que desde hace varios años, más de ocho tienen un mecanismos legal para exceptuar de responsabilidad legal a las compañías fabricantes de vacunas. En México no existe tal condición.
 Entonces, hay que estar expectantes a ver a qué se refiere esta información, en qué país se le he planteado esto, quizá es Estados Unidos, ciertamente en México no existe esa condición.
 ---
+INTERLOCUTOR
+(inaudible) pero yo creo que pasaría en México.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No hay una consecuencia sobre México, eso solo implicaría que en Estados Unidos nadie puede litigar en contra de esta vacuna en caso de que esta vacuna resultara, si es que se aprueba por la FDA, la agencia de fármacos y medicamentos, se aprobara para el uso en Estados Unidos y tuviera un efecto grave y se litigara en contra.
 Eso no tiene consecuencia alguna para México, pero estamos analizando en el marco jurídico de México qué implicaciones tendría sobre este tipo de responsabilidad civil o en su momento penal si fuera el caso de un daño causado por la vacuna.
+---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, son las 20 horas con dos minutos.
+Mañana queda pendiente Juan Carlos Machorro y Aracely Aranday, y usted también.
+Muchas gracias. Buenas noches.

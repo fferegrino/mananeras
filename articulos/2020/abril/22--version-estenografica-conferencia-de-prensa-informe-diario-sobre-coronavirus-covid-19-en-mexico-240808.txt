@@ -3,6 +3,7 @@ Presidencia de la República
 22 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 del miércoles 22 de abril de 2020. Estamos en el Palacio Nacional de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS CoV-2.
 Hoy vamos a atender tres temas:
 El informe técnico diario en primer lugar.
 En segundo lugar, la doctora Alethse de la Torre, quien es la directora general del Centro Nacional para la Prevención y el Control del VIH/Sida, nos va a hablar de un tema que ella coordinó en la esfera técnica, que es de extrema importancia no perder de vista y tomarlo en cuenta como parte de la preparación técnica y sobre el que se ha comentado aquí, ha habido preguntas, y por eso queremos presentarlo de manera explícita, y es el asunto de qué va a ocurrir si tenemos un número importante de decesos y las previsiones que se tienen que tomar desde el punto de vista técnico, pero también, independientemente del número, cuáles son las condiciones de bioseguridad necesarias para atender este tipo de situaciones todos los días.
@@ -47,13 +48,14 @@ La última es nuestra curva epidémica de todos los días, donde vemos la curva 
 Doctor Ricardo Cortés… No perdón, doctora Alethsa.
 ---
 ALETHSE DE LA TORRE ROSAS, DIRECTORA GENERAL DEL CENTRO NACIONAL PARA LA PREVENCIÓN Y EL CONTROL DEL VIH Y EL SIDA
+Bueno, pues el día de hoy creímos que era sumamente pertinente abordar un tema que sabemos puede generar desde un punto de vista bioético miedo, que también puede generar angustia en términos de no saber cómo manejar las personas que fallecen.
 Por tal motivo se ha desarrollado, se tiene una actualización de los lineamientos para el manejo de cadáveres. Lo más importante de estos lineamientos y el mensaje clave que queremos dejar es que estos lineamientos permiten establecer estrategias para garantizar la salud de la población.
 Estos lineamientos se basan en tres pilares fundamentales:
 El pilar número uno y es algo que todos debemos de estar luchando día a día para asegurarnos así suceda, es el trato digno de la persona que fallece y sus deudos.
 El fallecer durante un evento extraordinario, como es esta pandemia de SARS CoV-2 puede llevar a situaciones no solamente en términos de angustia y percepción social, pero también en términos de los cambios que se producen dentro de las mismas unidades hospitalarias.
 Dentro de esto, lo que tenemos que asegurarnos es el respeto y la compasión humana, que sean parte de las acciones que tenemos que tener durante el abordaje de los deudos, aquellos que han perdido a un ser querido, tener este arte en abordaje, tener el apoyo por parte de trabajo social, por parte del equipo de salud mental y, en aquellas instituciones donde así existiese, también de los equipos de tanatología.
 Debe de ser un enfoque que esté centrado en las personas, un enfoque centrado en las comunidades y no se debe de tolerar cualquier actitud de discriminación o estigma para la persona que fallece y tampoco para sus deudos, sus familiares, sus amigos. Esto es algo que debemos como sociedad estar día a día, dando este mensaje, que sea la parte de compasión, la parte de conocer que una persona está atravesando por el duelo de haber perdido a alguien durante esta emergencia.
-De forma adicional, el siguiente pilar son las medidas de bioseguridad.  Las medidas de bioseguridad se enfocan en poder garantizar la prevención de nuevas infecciones. Esta prevención de nuevas infecciones, son tanto para los familiares, para los deudos de la persona que ha fallecido, para los trabajadores de salud o cualquier persona que está en contacto durante este manejo del cuerpo, y también para la comunidad. Entre más eficientes seamos en cumplir con estos lineamientos, disminuimos cualquier riesgo que pudiese ocasionarse el manejo del cuerpo hasta su destino final.
+De forma adicional, el siguiente pilar son las medidas de bioseguridad.  Las medidas de bioseguridad se enfocan en poder garantizar la prevención de nuevas infecciones. Esta prevención de nuevas infecciones, son tanto para los familiares, para los deudos de la persona que ha fallecido, para los trabajadores de salud o cualquier persona que está en contacto durante este manejo del cuerpo, y también para la comunidad. Entre más eficientes seamos en cumplir con estos lineamientos, disminuimos cualquier riesgo que pudiese ocasionarse el manejo del cuerpo hasta su destino final.
 También tenemos que pensar en evitar la saturación de los sistemas. Y para este punto, cada unidad de atención está verificando la capacidad y el funcionamiento de sus morgues, está gestionado todo lo que debe de hacer para agilizar los procesos administrativos, la expedición de los certificados de defunciones y aquellas acciones que logren tener en el menor tiempo posible la disposición del cuerpo hasta su destino final.
 Todos estos pilares solamente cuando se engranan y se trabaja en conjunto vamos a poder entonces llegar a un manejo adecuado, teniendo de nuevo en el centro la solidaridad, el apoyo que debe de existir hacia los deudos.
 Y este es otro tema que genera también mucha angustia. A veces vemos imágenes en la televisión o en algún otro medio donde se observan equipos de protección personal durante el manejo de los cuerpos.
@@ -85,9 +87,11 @@ Y la tercera es que queremos seguirlos buscando y que por lo tanto se requiere r
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Alethse de la Torre Rosas.
 Le pido, entonces, al doctor Ricardo Cortés Alcalá si nos presenta la tercera parte de la información.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Con mucho gusto, doctor López-Gatell. Muchas gracias. Muy buenas tardes a todas y todos.
 Ayer comentaba uno de los compañeros colegas de ustedes, un reportero, sobre por qué hasta ahorita utilizamos a Susana Distancia en el chat bot. Creo que algo que es importante es que Susana Distancia ya nació hace un mes, nació hace un mes y ha tenido múltiples actividades, ha sido adoptada por la población en forma bastante positiva y ha generado empatía, tanto con niños y niñas como con personas adultas y adultas mayores.
 El chat bot es una nueva forma de comunicarnos, es una nueva forma de comunicarnos con las personas dado que, como lo explicó ayer el doctor López-Gatell, existe este síndrome de fatiga de información. Entonces, si nosotros aventamos toda la batería de información al mismo tiempo, la gente no va a saber qué es escoger, qué no escoger y qué es lo más útil.
 Entonces, estamos también viendo diferentes posibilidades, diferentes formas de comunicar la forma de que se contagia el SARS CoV-2, la forma en que nos debemos de proteger, las medidas básicas de prevención. Entonces, empezamos con materiales para fase 1 tranquilos, simples: lávate las manos, estornudo de etiqueta y quédate en casa si presentas enfermedad, cualquier enfermedad.
@@ -118,10 +122,12 @@ Vamos a seguir trabajando con Fundación Teletón, vamos a mejorar la forma en q
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias doctor Ricardo Cortés Alcalá.
 Vamos a empezar con preguntas y respuestas.
 Usted que quedó pendiente de ayer y también usted, y luego nos vamos con Natalia y con usted, Ángeles Cruz.
 ---
 PREGUNTA
+Doctor, qué tal, buenas noches, Carlos Guzmán, de Aba Noticias.
 Tres preguntas. La primera, ayer estaba muy caliente el tema de los gobernadores de toda esta discordancia que había ayer con la fase 3 que comenzaba. Cada uno tomaba sus decisiones, la jefa de gobierno después de la conferencia del día de ayer anunciaba medidas que van a aplicar a partir de mañana, el día de hoy nos llevan a conocer un hospital en Centro Banamex que va a estar bastante bien, pero en el contexto nacional, los gobernadores ¿qué tanto ya tienen ya la sincronía de trabajo con la federación, con la cabeza que es usted en este caso como subsecretario?
 Si ya hay, ya sincronía, ya no hay problemas con gobernadores como el del occidente del país, Jalisco y todos ellos, que tienen como una visión diferente.
 La segunda, el día de mañana, según redes sociales, queremos ver si nos puede desmentir o confirmar esta información, estarían por llegar alrededor de 300 enfermeras de Cuba, según mencionan en redes sociales, para apoyar la experiencia que tienen ellos en cuando a pandemias.
@@ -131,6 +137,7 @@ Es gente que a veces no puede hablar, no puede oír, tiene limitaciones incluso 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. La tercera pregunta se la dejo al doctor Cortés, porque precisamente lo que mencionó de la colaboración con fundación Teletón tiene que ver sobre esto.
 Todas las autoridades sanitarias tenemos el mismo propósito, quienes trabajamos para una autoridad sanitaria, nuestro caso es la Secretaría de Salud quienes son autoridades sanitarias, pero son titulares de los gobiernos de las entidades federativas como son los 30 gobernadores, la gobernadora de Sonora y la jefa de gobierno, todos y todas tenemos el mismo propósito que es proteger la salud de la población.
 Estamos trabajando coordinadamente, el marco que establece la Ley General de Salud y otras disposiciones es muy claro sobre este fenómeno de concurrencia. Esto quiere decir colaboración, unidad de propósito, repartirse el trabajo, cada quien tiene un ámbito de competencia.
 Entonces, no hay problema alguno en ese sentido, creo que vamos muy bien y que la actitud proactiva de los gobiernos estatales es muy favorable.
@@ -138,47 +145,82 @@ Ayer y en otras ocasiones hemos destacado que es muy importante que, dado que la
 Las personas con discapacidad.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchísimas gracias por la pregunta. Las personas que viven con discapacidad tienen una voz en este país, son de suma importancia para nosotros en la Subsecretaría de Prevención y Promoción de la Salud y la Dirección General de Promoción de la Salud, y hemos estado en contacto directo, estamos trabajando directamente ahorita en una guía para personas, para el cuidado de la salud de personas con discapacidad bajo el marco de la epidemia COVID-19, con organizaciones de la sociedad civil, con el Movimiento 312, que es un conglomerado de múltiples organizaciones, vamos con Conapred y con Conadis también para lanzar esta guía.
 Y a través de Fundación Teletón, el número telefónico, por ejemplo, 800 Teletón va a estar disposición de todas las personas con discapacidad o sin discapacidad que requieran de apoyo en materia de coronavirus, en materia de discapacidad para el manejo también.
 Y hay discapacidades específicas, hay condiciones de discapacidad específica que limitan la capacidad pulmonar de las personas que viven con este tipo de discapacidades. Y hay dos centros específicos que son expertos en la rehabilitación pulmonar en esta materia, uno de ellos es el Instituto Nacional de Enfermedades Respiratorias y el otro es Fundación Teletón.
 Entonces, con los expertos de Fundación Teletón se va a brindar telerehabilitación. Hay videos, hay materiales que ellos ya pusieron a disposición para que nosotros los usemos en nuestra página que estamos también haciendo accesible.
 Ejemplos tan burdos que de repente -yo no sé y las personas me lo tienen que hacer saber- es que para las personas tienen discapacidad visual se requiere que nosotros subamos los documentos en formato de texto, en Word o en Open Office para que a ellos se los pueda dictar su dispositivo.
 Muchas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés.
+---
+INTERLOCUTOR
+De VIH.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+De VIH, tenemos a la responsable de VIH en México.
+---
 ALETHSE DE LA TORRE ROSAS
+Sí y muchas gracias por esa pregunta. Creo que es fundamental mandar el mensaje y el mensaje es: número uno, necesitamos garantizar la continuidad del tratamiento de las personas que viven con VIH.
 Desde hace más de un mes se tiene en la página de Censida en colaboración con las instituciones los lineamientos específicos y las recomendaciones para las personas que viven con VIH.
 También en nuestras redes sociales hemos puesto un correo electrónico donde las personas nos pueden contactar en caso de que tuviesen cualquier duda, pregunta y donde tenemos a nuestra dirección de atención integral revisando toda esta serie de correos y pudiendo dar la parte de vinculación cuando así se requiere hacia otras instituciones y la parte también de información adecuada.
 Y en conjunto con los vocales y las organizaciones de la sociedad civil estamos generando información justamente dirigidas a las personas que viven con VIG, pero también mensajes muy importantes de salud sexual y cómo tenemos que cuidarnos durante esta emergencia sanitaria.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, vamos a darle la palabra a usted. Nos quedan cuatro minutos, usted ya tuvo las preguntas, en la próxima le toca, por favor.
+---
 PREGUNTA
+Buenas noches a todos. Lizbeth Álvarez, del diario Basta.
 Mi pregunta es para usted, doctor. ¿Qué tan viable es esta aplicación para las personas adultas mayores? ya que comúnmente son las que están teniendo este contagio y a veces no cuentan con un teléfono inteligente o a veces si lo tienen a veces necesitan ayuda de otra persona para que puedan acceder a las plataformas.
 Y mi segunda pregunta es ¿qué recomiendan cremar o inhumar los cadáveres?
 Gracias.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias.
 Yo creo que el propósito de tener múltiples plataformas de comunicación es esa, para que la persona adulta mayor que sí maneja el WhatsApp lo pueda hacer a través del chat o de Susana Distancia, el que sólo utiliza una computadora y se mete a internet puede hacerlo en coronavirus.gob.mx; quien dice: ‘Yo aquí me bajo mi aplicación y también la sé utilizar’, adelante. Mi padre es un hombre de 75 años que utiliza internet, ya bajó la aplicación y ya me dijo que le preguntó a Susana Distancia, algún par de cosas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Cortés.
 Doctora, por favor. Y luego Natalia y ella, y ella, y terminamos.
 ---
+ALETHSE DE LA TORRE ROSAS
+En términos de bioseguridad ambas estrategias, tanto como la cremación como la inhumación son seguras. Es importante considerar dónde estamos. Habrá lugares donde es más factible asegurar que se tiene una disposición más pronta de los cuerpos si esto se hace a través de la incineración y hay otras zonas donde es más fácil poderlo hacer a través de la inhumación.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
 Natalia Vitela, y ahorita, si da tiempo.
 ---
 PREGUNTA
+Gracias. Del número de personas que han sido intubadas, ¿tienen el porcentaje de cuántos se han recuperado? Esa es una pregunta.
 Y la segunda, los datos abiertos hablan que de enero hubo casos confirmados de COVID, ¿qué pasó con esos datos o esos casos?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+… dice que hay desde enero.
+---
+INTERLOCUTORA
+Sí, en Nayarit y Veracruz.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Yo creo que hay que revisar eso. No creo que sea cierto, pero si usted tiene esa evidencia compártamela porque no es creíble.
 Sobre cuántas personas se han recuperado, no tengo el dato, pero lo traemos. Han sido pocas, en parte, porque han sido pocos todavía afortunadamente, digamos, relativamente pocos, siempre una persona es mucho porque es inaceptable que una persona sufra, pero comparativamente con la cantidad de casos leves hemos tenido pocas personas que han tenido enfermedad de mayor importancia.
 Las hospitalizaciones en personas que están críticamente enfermas por COVID son largas, entonces, en personas que sobreviven el periodo crítico puede prologarse en promedio hasta por semana y media, en promedio; sin embargo, hay personas que pueden estar hasta dos meses hospitalizadas.
 Y sí, sí hemos tenido, afortunadamente, personas que, a pesar de estar durante varias semanas en una etapa crítica, logran recuperarse satisfactoriamente y pueden llegar a ser una vida normal.
 ---
+INTERLOCUTORA
+¿Algún dato que tenga doctor, más o menos, cuántos casos?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Se lo traigo para tenerle el dato exacto, sí.
 Ángeles Cruz, de La Jornada, la última pregunta.
 ---
 PREGUNTA
+Buenas noches.
 Quiero preguntarle, si los modelos matemáticos de los que tanto nos ha comentado, también, ¿hoy nos puede dar una actualización de la cantidad de personas que pudieran contraer la enfermedad, de la cantidad de personas que pudieran morir a causa de una complicación muy grave?
 Como dice, pensando un poco en lo que presentó la doctora de los lineamientos para la disposición de cadáveres, o sea, realmente, todavía hasta esta altura y dada el impacto que ha tenido las medidas de distanciamiento social, hay que estar muy preocupados sobre un incremento súbito e inmanejable de cadáveres.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Qué bueno que lo menciona, Ángeles.
 Quiero volverme a referir hacia la población y lo haré todos los días y todo el tiempo que sea necesario.
 No debemos minimizar, no debemos considerar menor esta epidemia, en todo momento nos ha sido muy importante que la población de México sepa que estamos ante un fenómeno históricamente importante, en un riesgo de la salud, en un daño a la salud que no se había visto en el mundo entero en 100 años, literalmente en 100 años.
 La última epidemia de este tamaño, de esta importancia, ocurrió en 1918 y 19 y fue la influenza, la pandemia de influenza de 1918, 1919 que causó millones de personas enfermas y centenas de personas que perdieron la vida.
@@ -193,3 +235,9 @@ No olvidemos que no existe hasta la fecha un tratamiento específico que elimine
 Entonces, sí, definitivamente, si tuviéramos un exceso de casos que saturaran al Sistema Nacional de Salud, en proporción tendríamos una cantidad muy importante de pérdidas de vidas que pudieran rebasar también las capacidades de los sistemas convencionales de los servicios funerarios, en su mayoría privados y los que existen en el sistema público.
 Y es por esto -y con esto termino, porque ya nos queda solamente medio minuto- que esta guía la tenemos que enfrentar con todo realismo los escenarios de lo que puede ocurrir. Tenemos que estar preparados en todos y cada uno de los aspectos y por eso llevamos semanas trabajando en esta guía. Se presentó ya hace varias semanas, dos o tres, lo que correspondía a fase 1 y 2, y ahora que hemos entrado en fase 3, la guía ha sido enmendada para incorporar las previsiones de fase tres.
 Muchas gracias.
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Las iremos actualizando también conforme vayamos avanzando de acuerdo al progreso. Si tenemos un mejor control porque las medidas estén funcionando, se actualizarán a la baja, y si no, se actualizarán al alza, por ahora están iguales. Gracias. Mañana empezamos, mañana empezamos.

@@ -3,6 +3,7 @@ Presidencia de la República
 18 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Hoy lunes 18 de mayo de 2020 hasta el momento, ahorita les cuento, lunes 18 de mayo de 2020, son las 19:01 y estamos en el Palacio Nacional de la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la nueva epidemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy en principio me voy a enfocar yo al informe técnico, como lo hacemos todos los días, y estamos viendo ahorita, sólo que tuvieron un pequeño contratiempo, si nos pueden acompañar colegas del Instituto Mexicano del Seguro Social y de la Secretaría del Trabajo para darles comentarios iniciales sobre lo que presentaremos más formalmente mañana del protocolo de seguridad sanitaria en el trabajo, lo que esta mañana comentó el presidente, que le preguntaron a él y justamente tenemos algunos avances del procedimiento, principalmente con el propósito de que las empresas que están involucradas en el proceso de los sectores productivos, específicamente de construcción de autotransportes, minería y construcción continúen el trabajo que ya están haciendo y resolver cualquier inquietud que pudiera haber al respecto por parte de ustedes. Les cuento más en un momento.
 Si no nos acompañaran los colegas del IMSS y de la Secretaría del Trabajo, no hay problema, yo con mucho gusto lo comento también.
 Miren ustedes, estamos en el día 57 de la Jornada Nacional de Sana Distancia, jornada nacional que fue establecida el 23 de marzo. Y abrimos con el recordatorio atento, respetuoso, pero enfático a la ciudadanía de México en todos los rincones del país, en todo el territorio, todas las entidades federativas y todos los municipios, excepto los Municipios de la Esperanza, de que la Jornada Nacional de Sana Distancia no ha terminado, todavía faltan 13 días más lo que resta del día de hoy para que esta jornada concluya.
@@ -67,6 +68,7 @@ Tener un mecanismo que garantice el registro oportuno de estos protocolos y la c
 Y, segundo, que esto se haga de manera expedita, sin burocracia, sino con el mejor ánimo de lograr que las actividades empiecen en funcionamiento, pero lo hagan de manera ordenada y segura, y esto es lo que nos va a presentar el doctor Hernández, quien ha sido, precisamente, designado como punto focal de todo este grupo de trabajo para coordinar la operación.
 ---
 MAURICIO HERNÁNDEZ ÁVILA, DIRECTOR DE PRESTACIONES ECONÓMICAS Y SOCIALES DEL IMSS
+Muchas gracias, doctor López-Gatell. Una disculpa, no puede decir que me agarró el tráfico, pero una disculpa por llegar tarde.
 Muy buenas tardes a todas y todos.
 Me da mucho gusto estar con ustedes, sobre todo tocando este tema de la reactivación, porque si pensamos en la reactivación quiere decir que estamos pensando que ya estamos avanzando en el control de la epidemia y que podemos empezar a pensar cómo reactivamos la economía.
 ¿Por qué el Instituto Mexicano del Seguro Social está muy interesado en este balance?
@@ -145,11 +147,13 @@ Esto es fundamental, porque esto es lo que nos va a proteger de que no haya un r
 Muchas gracias y quedo atento a sus comentarios.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Mauricio Hernández, director de Prestaciones Sociales y Económicas del Seguro Social.
 Nos acompaña también el maestro Alejandro Salafranca, quien es el titular de la Unidad de Trabajo Digno de la Secretaría del Trabajo y Previsión Social que, como ya se ha comentado, es parte del grupo de trabajo técnico que hemos estado configurando esta situación también con los colegas de la Secretaría de Economía y esto es.
 Mañana vamos a hacer una presentación más formal de todas las implicaciones que esto tiene, pero como lo pidió el presidente y nos da mucho gusto, este es un foro técnico en el que presentamos detalles técnicos, y por eso quisimos adelantarlo desde ahora.
 Está abierto a preguntas y respuestas. Usted por favor. Usted que quedó pendiente el otro día y usted, y Carlos.
 ---
 PREGUNTA
+Gracias, doctor Gatell. Muy buenas noches. Saturnino Reyes, de Diario Locutor.
 Muy interesante lo que nos acaban de presentar ahorita y sobre todo para las personas y las empresas. Me gustaría saber en el sentido del informe que usted acaba de dar, doctor Gatell, en cuanto a las defunciones, ahorita sabemos que desafortunadamente todo México es territorio COVID.
 Y sí me gustaría saber en una medida de olimpiadas. Sabemos que la medalla de oro se la está llevando el COVID. Me gustaría que nos presentara -sé que a lo mejor ahorita en este momento no lo tiene y si tuviese una idea que no los dijera- quién se está llevando la medalla de plata en enfermedades aparte del COVID y quién la de bronce, porque se habla mucho de muertes por COVID, inclusive hasta hacen memes en las redes sociales de: ‘Mata a tu esposo y le van a poner ahí que fue por COVID.’ Entonces, si me gustaría saber que nos dijera, porque hoy las personas en su casa únicamente conocen la muerte del COVID y se están olvidando de las otras que hay.
 Y sí me gustaría saber también en este lapso que de las personas que están falleciendo aparte de COVID, de qué otras enfermedades están padeciendo.
@@ -157,6 +161,7 @@ Y la segunda y última. Por lo regular los reportes de muertes de personas, a lo
 Sí me gustaría saber un poco de eso, porque esas personas por lo regular en su mayoría son inmunes a muchas enfermedades por su falta de higiene, por las situaciones en el ambiente. Si nos habla un poquito sobre eso hacia la ciudadanía, y si algún estado ha reportado alguna muerte de esas personas. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Comprendo con mucho gusto las preguntas, me parecen importantes de atender.
 Respecto a las causas de mortalidad en México han variado relativamente poco en los últimos cinco años o muy poco en los últimos cinco años, son prácticamente las mismas, quizá han variado un poquito más en los últimos 10 o 15 años.
 Y desde hace cerca de 18 años tenemos un claro predominio de las enfermedades crónicas no trasmisibles. Me centro en el dato de 2018, que es donde existe la estadística oficial más reciente de mortalidad, a cargo del Inegi, del Instituto Nacional de Geografía y Estadística, quien es la autoridad nacional independiente del gobierno, autónoma que emite estas estadísticas.
 En 2018 murieron un poco más de 733 mil personas que fueron registradas y las primeras cinco causas de muerte son esté orden: las enfermedades cardiovasculares, después de la diabetes mellitus, después están las lecciones de causa externa, que incluyen también la violencia, están también las enfermedades del aparato digestivo, particularmente la insuficiencia hepática y después están… me estoy confundiendo, la tercera es neoplasias malignas, cáncer, la quinta son lesiones de causa externa y de ahí ya hay otras, por ejemplo, la octava causa general de muerte fue la influenza, de influenza murieron 28 mil, un poco más de 28 mil personas, 28 mil 166, si no me acuerdo mal.
@@ -167,11 +172,13 @@ Y son personas que son biológicas, social y yo diría culturalmente vulnerables
 Usted y usted, si nos da tiempo, quedan tres minutos.
 ---
 PREGUNTA
+Rápidamente, es chiquita la pregunta. Estaba revisando las estadísticas y se reporta que en la Ciudad de México hay una ocupación del 77 por ciento de camas y un 23 por ciento de camas disponibles y en el caso de las camas con ventilador también se reporta una ocupación del 66 por ciento. En este caso estaríamos hablando de una eventual… poco a poco se empieza a acercar a la saturación del sistema hospitalario.
 ¿Cuál sería aquí el siguiente paso a seguir? sobre todo porque apenas en la mañana la jefa de gobierno señala que se van a incrementar más las medidas.
 Todavía los mexicanos siguen sin entender, se realizan torneos de futbol clandestinos, se anuncia una marcha, en este caso de comerciantes informales en el Bosque de Chapultepec; o sea, realmente no están respetando las medidas y nos acercamos precisamente a un eventual incremento de enfermedades, bueno, al parecer.
 ¿Cuál sería el siguiente paso?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Efectivamente, es de extraordinaria importancia que la sociedad, como lo dije al inicio y lo hemos dicho prácticamente todos los días, tenga claro y les pido atentamente a todas las personas que escuchan este mensaje que lo difundan con al menos cinco personas, cada quien difunda el mensaje a cinco más, porque no todo mundo ve esta sesión y no todo mundo se entera de manera directa.
 Afortunadamente hay comunicadoras y comunicadores responsables, como ustedes, que nos ayudan a propagar el mensaje, pero si cada ciudadana notifica a cinco más que la Jornada Nacional de Sana Distancia no ha acabado, que es una medida fundamental por su carácter masivo, más de 70 millones de personas fuera del espacio público y que este es el mecanismo fundamental para reducir los contagios.
 El resumen es quedarse en casa y esto es lo que hace que no seamos partícipes de un contagio, ni para recibir la enfermedad ni para transmitirla en su momento.
 Cuando en su momento se han ido alcanzando niveles difíciles de atención, que afortunadamente hemos estado siempre muy lejos, ni siquiera hemos llegado al 80 por ciento de ocupación aún en la Ciudad de México, que es la zona más de intensa transmisión, nos vamos anticipando, así lo hemos hecho a lo largo de todas estas semanas, quizá no todo mundo lo visualiza porque cuando nos estamos acercando cerca del 70 por ciento aumentamos la capacidad y cuando otra vez nos acercamos aumentamos la capacidad.
@@ -180,3 +187,4 @@ Con mecanismos de reconversión hospitalaria, que tiene que ver con el uso ópti
 Y también con el aprovisionamiento de materiales de difícil procuración, incluyendo los ventiladores mecánicos que han sido surtidos en los tiempos adecuados, afortunadamente, hasta el momento.
 Son las 20:00 horas, no quisiera inhibir la participación de nadie, pero el tiempo es el tiempo y aquí acabamos. Muchas gracias, doctor Hernández, maestro Salafranca y aquí terminamos, nos vemos mañana en el Pulso de la Salud, en la conferencia matutina del presidente.
 Muchas gracias.
+- - - 00 - - -

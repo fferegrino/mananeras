@@ -3,6 +3,7 @@ Presidencia de la República
 05 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches tengan ustedes aquí y allá en casa también, en el trabajo, en el camino, donde nos estén escuchando.
 Son las 19:00 horas en punto del miércoles 5 de agosto de 2020 y desde el Palacio Nacional de México en la Ciudad de México vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico, vamos a estar solamente el doctor José Luis Alomía y yo, y vamos a presentar el informe técnico y una nueva modalidad de presentación de la situación estatal.
 El propósito que hemos tenido en las semanas recientes, como lo comentamos en su momento, es tener información local que les sirva a usted para identificar el sitio donde vive, en qué situación se encuentra.
@@ -32,6 +33,7 @@ Ahorita en la sesión de preguntas y respuestas me dará gusto compartirles dos 
 Pero le pido al doctor Alomía si es tan amable de presentar el informe técnico.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGIA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes también todas y todos, así como con la población que nos hace el favor de escucharnos en esta hora.
 Estamos en la conferencia vespertina 159 en el día 67 de la Nueva Normalidad, prácticamente ya cuatro meses y medio desde que en México se iniciaron las intervenciones comunitarias precisamente para contrarrestar y para disminuir la transmisión de esta nueva enfermedad que ha producido, como ya se sabemos, una pandemia a nivel mundial.
 Veamos la actualización del escenario nacional, aquí tenemos nuestro gráfico ya acostumbrado y conocido de todos los días. El día de hoy son un millón 41 mil 860 personas las que ingresaron a un protocolo de estudio por ser casos sospechosos de COVID-19, el 48 por ciento de estas personas ya dio un resultado o tuvo un resultado negativo, están graficadas precisamente en las barras de color lila oscuro.
@@ -100,9 +102,11 @@ Y ahora sí, creo que Zacatecas es precisamente la última entidad.
 Sería la presentación del escenario para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía.
 Vamos a abrir a preguntas y respuestas. Estaban por este lado aquí Arturo que hace tiempo que… adelante, Juan Carlos y nos vamos uno y uno por acá y la colega no le veo, ahí está, perfecto.
 ---
 PREGUNTA
+Buenas noches, Arturo Contreras, de Pie de Página.
 Tenemos una pregunta desde las redes sociales de nuestros lectores en la que nos preguntan sobre los expedientes médicos de los hospitales, que luego al momento de querer trasladar un caso con COVID se presenta esta dificultad que presentan muchas personas al querer mover su tratamiento de un hospital a otro, que es que nos les permiten cambiar los expedientes médicos. Uno pensaría que con la pandemia este tipo de dificultades se fueron afinando. ¿Qué se puede hacer en el sistema médico?
 Y ahora que nos presentan estas gráficas y con estos estados, ¿qué es lo que causa que un estado no mantenga o que dispare su transmisión?
 Al principio de la pandemia vimos el ejemplo de Tabasco, no sé si es por las actividades económicas, en Tabasco son muchas actividades esenciales relacionadas a la extracción de hidrocarburos, si eso permite que la gente no se pueda quedar en casa, más bien, eso impide que la gente se pueda quedar en casa.
@@ -110,6 +114,7 @@ Entonces, además la explicación técnica de cómo se incluye, no sé pudieran 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Arturo, de Pie de Página.
 Qué bueno que hace esa pregunta, primero, para que nadie se vaya a quedar con la idea -lo hemos dicho muchas veces, pero lo vuelvo a enfatizar- de que un estado que tenga una curva ascendente significa que hizo el mal trabajo y un estado que tenga una curva descendente hizo el bien trabajo, no.
 Tomar esa interpretación sería una distorsión de la realidad, sería sobresimplificar lo que está ocurriendo. Hay muchos factores, muchas situaciones, muchas variables que determinan el acontecer epidémico, lo que técnicamente llamamos la dinámica, espacio temporal de la propagación o de la transmisión.
 Algunos que puedo mencionar son la geografía, no es lo mismo estados que son llanos a estados que son montañosos, eso a su vez determina la densidad o la proximidad antes que hablar de densidad, la proximidad de los asentamientos humanos; no es lo mismo un estado que tiene a pocos kilómetros de distancia el siguiente poblado a un estado que es un amplio en su territorio y tiene poblaciones muy distantes.
@@ -132,11 +137,13 @@ Entonces, para que la población lo sepa no es que invitemos a que todo mundo re
 Estaba por aquí Juan Carlos, la colega allá de vestido rojo, usted y usted por acá, nos vamos con Nuria y Saturnino Reyes, también todos. Nos quedan 18 minutos.
 ---
 PREGUNTA
+Buenas noches, doctor. Juan Carlos Machorro, de AM, de Querétaro.
 Doctor, ahorita que comentó esta cuestión de que el calor no acaba influyendo, esta cuestión de que cuando llega aquí el invierno y se empiezan a presentar influenzas y las gripes, ¿no va a haber ahora sí que un poco también de influenza o no con el COVID y que la gente salga disparada a buscar querer hacerse una prueba cuando tal vez sólo sea una gripe estacional?, ¿el frío y el invierno aquí en México ahora sí que cómo va a recibir a esta pandemia?
 Y una segunda si permite rapidísimo, el sistema hospitalario de este país ¿qué tan desgastado, estima usted que puede quedar al paso de la pandemia cuando al rato a muchas personas que lamentablemente se han enfermado sus terapias de recuperación por los problemas cuando quedan afectados de los pulmones, o sea, tienen que estarse buscando terapias de recuperación.
 ¿El sistema hospitalario y médico no estará muy desgastado para cuando llegue, llamémosle, esta segunda oleada de personas a buscar procesos de recuperación?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, desafortunadamente sí, la respuesta es sí. El sistema de salud de México, como lo hemos comentado también, y lo debe saber toda la población, es a lo largo de 30 o 35 años no creció a la velocidad que tenía que crecer, no creció, no se invirtió suficiente en el Sistema Nacional de Salud, no se priorizaron las áreas con baja cobertura, no se renovaron equipos diagnósticos y terapéuticos, no se dio mantenimiento suficiente a la infraestructura física, no se contrataron y formaron suficientes profesionales de la salud.
 Organismos internacionales como la OCDE, el Banco Mundial, el Banco Interamericano de Desarrollo, la Organización Mundial de la Salud y muchos otros han documentado que teníamos una carencia de 240 mil profesionales de la salud. Entonces, esa es la realidad de nuestro sistema de salud, independientemente del COVID.
 El COVID desde luego ha representado una carga importantísima para el sistema. Se ha tenido un esfuerzo muy grande para ampliar la capacidad hospitalaria. Como lo hemos señalado aquí, empezamos en abril con 645 hospitales destinados a COVID, ahorita tenemos más de mil 100 destinados a COVID, el número de camas se triplicó, pero esto ha sido a expensas de la infraestructura existente y también de algunas adaptaciones temporales, no se puede quedar permanentemente ahí.
 La meta que tenemos, ayer comentábamos sobre ese proceso de continuidad de operaciones, es no dar marcha atrás a lo ya ganado, dejar instalado lo que se puede mantener fijo, convertir en fijo lo que ahora es temporal y por supuesto tener la capacidad de seguir atendiendo la epidemia mientras persiste el periodo de la temporada de influenza, que es de octubre hasta abril del próximo año, y todos los demás padecimientos que se necesitan.
@@ -144,10 +151,18 @@ Y como bien señala Juan Carlos, uno de ellos es la recuperación pulmonar y en 
 Estaba la compañera del vestido rojo. Por favor, perdóneme que no me sé su nombre, pero…
 ---
 PREGUNTA
+Hola, buenas tardes.
 Quería empezar, primero, con el tema de Oaxaca. Sabemos que hoy es el primer estado en México que prohíbe la venta de papas y refrescos a menores de edad. ¿Qué nos puede decir usted al respecto?, ¿cree que esto sea necesario hacerlo a nivel nacional?
 Y si sabe si en alguna otra entidad ya se está planteando esto.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Pero no nos dijo su nombre.
+---
+INTERLOCUTORA
+Erika Barón, de Expok.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Perfecto. Gracias, Erika.
 Efectivamente, la iniciativa de reforma a la ley de los derechos de niñas, niños y adolescentes que presentó la diputada Magaly López Domínguez, de Oaxaca, que fue respaldada por su coordinador de grupo parlamentario y al final por la mayoría parlamentaria en el Congreso de Oaxaca, nos parece sumamente positiva porque la autorregulación ha sido un modelo que se ha buscado en otros países. Autorregulación se refiere a la idea de depositar la confianza en distintos agentes de la sociedad, en particular de quienes producen y comercializan estos productos que son desfavorables a la salud y ellos mismos han dicho que ese es el modelo a seguir.
 En algunos países se hace eso; por ejemplo, en el Reino Unido se estableció una especie de acuerdo con lo equivalente a las cámaras industriales de la industria alimentaria y el gobierno dijo: ‘Bueno, vamos a poner metas de reducción de oferta en ciertos espacios’, y destacan los escolares y se ha seguido cierto progreso, no conozco los detalles ni viene al caso comentarlos ahora.
 En México desde el sexenio antepasado se planteó por parte de la industria alimentaria que no se hacía falta regularles, que ellos eran capaces de regularse y que querían ser parte de la solución y no del problema, y que estaban por el avance del país, en fin.
@@ -157,6 +172,7 @@ Celebro, por lo tanto, que se plantee como un elemento de ley. Es todo un reto, 
 Colega, por favor, y luego Saturnino.
 ---
 PREGUNTA
+Buenas noches, doctores. Gerardo Suárez, reportero en El Heraldo de México.
 Mi primera pregunta es ¿qué nos puede comentar o cómo se va a hacer esta prueba?
 Hace unos días el canciller Marcelo Ebrard dijo que un laboratorio que está desarrollando una vacuna haría pruebas en México o que México participaría en las pruebas.
 ¿Ya hay datos sobre cómo sería este proceso?, ¿el número de voluntarios?, ¿cuándo?
@@ -164,6 +180,7 @@ Y mi segunda pregunta es respecto a todas las personas que han sido estudiadas p
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Gerardo, de El Heraldo.
 Sobre la primera pregunta, no es inusual que México participe en los distintos estudios clínicos de distintos temas, lo ha hecho siempre, lo hace en pandemia, fuera de pandemias.
 Tenemos una comunidad científica muy robusta, digna de orgullo en nuestras personas especializadas en investigación clínica, generalmente son profesionistas de la salud, tanto médicos como enfermeras, enfermeros y otras profesiones que tienen una formación académica específica en ciencias de la salud.
 Los institutos de salud, nacionales de salud, tienen direcciones de investigación y una proporción importante de personas que están en el Sistema Nacional de Investigadores y tenemos por lo tanto esa capacidad.
@@ -173,13 +190,24 @@ Esto se explora y lo está explorando el canciller, pero la idea es que los meca
 Entonces, es el planteamiento que nos ha hecho el presidente. Obviamente, el secretario de Salud, el doctor Jorge Alcocer, es el representante legal de México en la Organización Panamericana y en la Organización Mundial de la Salud, entonces en su momento él tendrá que ser el punto de entrada para el acceso a vacunas COVID a México.
 Respecto a la investigación clínica, insisto, no tengo conocimiento. Hay varias empresas farmacéuticas que tienen residencia legal en México, que producen en México o comercializan y pueden tener acercamientos con las distintas instituciones públicas.
 ---
+INTERLOCUTOR
+(inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No que yo conozca.
+---
+INTERLOCUTOR
+Dice el canciller de Sanofi.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Supe, porque vi las noticias, el canciller trabaja de cerca con estas empresas privadas o digamos platica de cerca, los ha traído aquí a la conferencia matutina, también a fundaciones privadas, pero vamos a preguntarle y a ver qué nos dice al respecto.
 Y sobre contrataciones. Sí, definitivamente, para la atención del COVID se han contratado casi 50 mil profesionales de la salud, no son solamente médicas y médicos, o enfermeras y enfermeros, son distintos tipos de profesionista del campo clínico de la salud. Hoy precisamente íbamos a tener a los colegas de Insabi comentando esto, pero están en la gira con el presidente en Sonora, pero los vamos a volver a traer.
 Para realizar las pruebas, nuestro Instituto de Diagnóstico y Referencia Epidemiológicos, que es una institución muy noble que nos causa un gran orgullo, la dirige el doctor Alomía, tiene más de 500 trabajadoras, trabajadores de primera, comprometidas y comprometidas, muy dedicadas y están fatigadas. Les externo mi reconocimiento y mi agradecimiento público porque no han dejado de trabajar un minuto.
 Todas, este millón 100 mil pruebas se han hecho en los laboratorios estatales de salud pública también, pero toda la coordinación en el diagnóstico también se hace desde el Indre. Entonces, hemos tenido que hacer contrataciones temporales para ayudar en algunos procesos, no masivas, pero sí de algunas decenas de personas. Gracias.
 Estaba Saturnino Reyes, el colega y, si nos da tiempo, Nuria Fernández, quedan cinco minutos.
 ---
 PREGUNTA
+Hola, doctor. Muy buenas tardes. Saturnino Reyes, del Diario Locutor.
 Tengo varias preguntas, voy a tratar de ser breve en ellas porque sé que hay varios compañeros que quieren la palabra.
 La primera es, ¿a qué instancias…?, y esta pregunta la hago porque nos escriben mucho a nuestra redacción, a Diario Locutor, nos preguntan a qué instancias se deben de dar las quejas o las denuncias de diferentes, tanto empresas como líneas de autobuses que no están llevando a cabo las reglas sanitarias de Susana Distancia, la venta en sobrecupo de los autobuses.
 Esto del sobrecupo yo se lo comento porque fue una experiencia personal que tuve, viajé por el interior de la República haciendo un análisis de cómo están las cuestiones del COVID y que realmente se respeten las reglas de salud que el gobierno federal está poniendo, pero estamos en el país que a todos nos vale, estamos en el país que no me importa si contagio al de al lado o lo que sea, yo hago lo que es.
@@ -191,3 +219,14 @@ Ayer usted comentaba y preguntaba Juan Carlos Machorro sobre las unidades de tra
 Entonces, creo que lo que estoy explicando, lo que estoy tratando de decir está muy entendible. Las personas no respetan las cuestiones sanitarias, porque desde la cabeza, quien lo debe de poner no respeta las reglas. Entonces aquí la pregunta es esa.
 La última pregunta que voy a hacer, porque hay más cosas que tratar es: nos preguntan por qué si ya la curva o ya en varios estados está descendiendo, por qué sigue aumentando la cifra de defunciones y por qué ya no presentan el número de defunciones que va pasando día con día.
 Hay mucho más, pero no quiero abundar más, sé que algunos compañeros algunos se incomodan por el tipo de preguntas que se hacen.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Queda medio minuto. Si quiere que le responda, ya no siga preguntando.
+La última, es una falsedad, todos los días se presenta la información de todos los días, nuevos casos, nuevas muertes, casos estimados y en el portal coronavirus está toda la información, en tres plataformas que son tableros de acceso a la información se muestran mapas, gráficas y toda la información.
+Si alguien piensa que la información que se presentaba ya no se presenta, por favor averigüe, coronavirus.gob.mx, todo está ahí y todo está aquí.
+Sobre lo que dice, ya no me da tiempo de explicarle a dónde haga su denuncia, sugiero que lo hagan a Profeco, es un punto de entrada, seguramente no se resuelve todo, pero de ahí pueden derivarle.
+Y lo que sí le puedo decir es respeto y coincido en parte con su preocupación, pero me hace pensar en los siguiente:
+Cuando en España se empezó el confinamiento, y uso el ejemplo español sólo porque es una anécdota real sobre mi experiencia de ver las noticas, no viajé a España, vi las noticias, cuando se hizo el primer esfuerzo de desconfinamiento, se abrió en Madrid, hay un parque público, que se llama el Parque del Retiro, un parque muy bonito, un parque público, lo equivalente a Chapultepec nuestro, más chiquito por supuesto, y había una gran inquietud social porque ¿cómo era posible que la gente en desbandada llenó el Parque del Retiro?, al grado que lo tuvieron que cerrar 48 horas después y durante varias semanas.
+Pero la experiencia es: se entrevistaba a una señora que estaba verdaderamente indignada de ver tanta gente en el Parque del Retiro, paseando, corriendo, con la carriola, furiosa la señora, y quien le entrevistaba le dijo: ‘Bueno, ¿qué opina usted?’ y externaba ideas semejantes. ‘Es que la gente no entiende, mire, son necios, y es que salen y tal’. Y al final de la entrevista, el entrevistador le dijo: ‘Bueno, ¿usted qué hace aquí?’ ‘Bueno, yo salí a pasear’.
+Bueno, creo que es importante no perder de vista el colectivo, lo que somos, somos parte de un colectivo. Si sólo vemos al ‘ustedes’ y al ‘nosotros’, perdemos de vista que podemos ser parte de la solución. Creo que es mucho más efectivo tener una conciencia de que sólo existe el ‘nosotros’, sólo existe la pluralidad, somos parte de ella, y según nuestra actitud podemos ser parte de una solución o parte de un problema.
+Muchas gracias, son las 20 horas con dos minutos, aquí terminamos, mañana seguimos.

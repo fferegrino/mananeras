@@ -3,11 +3,13 @@ Presidencia de la República
 27 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 en punto de este miércoles 27 de mayo de 2020, vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2. Estamos en México, en el Palacio Nacional, en la Ciudad de México.
 Hoy vamos a centrarnos en el informe técnico y vamos a elaborar un poco sobre un tema que parece seguir necesitado de comentarios adicionales en la medida de que algunos medios de comunicación y algunos segmentos de la sociedad han planteado la necesidad de mayor información.
 Es el tema de la mortalidad, en general la mortalidad, cuándo se registran los eventos fatales, la fecha de ocurrencia, la fecha de registro, cómo esto cambia la percepción que se puede tener en un momento dado sobre qué tan intensa está la epidemia.
 Le pido al doctor José Luis Alomía, director general de Epidemiología, si nos presenta el informe técnico.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas noches todas y todos.
 Vamos a iniciar nuestra conferencia vespertina, su componente de actualización de los datos epidemiológicos. Estamos en el día número 66 de la Jornada Nacional de Sana Distancia, recordando que fue, como su nombre lo dice, fue una intervención comunitaria nacional, es decir, en todo México, cuyo objetivo se centró principalmente en poder disminuir la transmisión de persona a persona, por lo tanto, disminuir la cantidad de casos y por ende también disminuir la presentación de casos graves que en su momento podían saturar la atención médica hospitalaria.
 Objetivo que en múltiples conferencias se ha comunicado que fue un logro precisamente de esta Jornada Nacional de Sana Distancia y no en sí solamente de las intervenciones propuestas, sino de la respuesta de la población, es decir, la población en México que acató y que hizo caso de estas indicaciones y que a través de ellas se pudo lograr estos beneficios para todos en lo comunitario.
@@ -48,6 +50,7 @@ Como tal, 35 por ciento la ocupación nacional, es un porcentaje también que se
 Sería la actualización para el día de hoy. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía.
 Yo voy a abordar un par de temas que están relacionadas con, definitivamente, la situación más lamentable de una enfermedad grave como puede ser COVID y es la mortalidad, la pérdida de vidas humanas.
 Aunque aquí me deja en claro unos temas de interpretación de los números de tal suerte que ustedes como sociedad y ustedes como comunicadores y comunicadoras tengan una idea clara de lo que significan estos números en términos de estadística, en términos de la ocurrencia de la enfermedad en la población, nunca perdamos de vista que detrás de esto son personas, a cada persona que se pierde es una pérdida irreparable para la familia, para la sociedad. Entonces, a veces en los informes técnicos que son de carácter masivo por la población nos centramos en los números, pero atrás de esos números siempre hay personas.
 Lo que quiero explicar, porque hoy fue motivo de atención de algunos de los diarios nacionales, es la cantidad de personas que ayer informamos, 501, han perdido la vida en forma aparentemente reciente, según las propias notas que destacaba, aquí algunas de ustedes me lo comentaron, el día de la mayor ocurrencia de mortalidad, lo cual es una visión entendible, legítima respecto a de pronto recibir la noticia de 501 muertes.
@@ -101,6 +104,7 @@ Eso es importante incorporarlo al conocimiento de cómo es el proceso de vigilan
 Y por supuesto, bienvenida siempre cualquier pregunta. Vamos a empezar con Saturnino y con usted, con Aracely y luego seguimos por acá, y con usted Olinka.
 ---
 PREGUNTA
+Gracias, doctor. Buenas noches. Saturnino Reyes, de Diario Locutor.
 Esta es una pregunta obligada en el sentido de que anunció el presidente de la República que es muy probable que el día 2 de junio él comience sus giras de trabajo.
 La pregunta es: ¿está en condiciones el presidente de hacer este tipo de giras y por qué? ¿y cuál sería la urgencia de estas giras de trabajo que él quiere hacer?
 Él es, por decirlo así, la cabeza de este país y el ejemplo para todos los mexicanos. Entonces, sí él sale, empresarios, generadores de empleos van a querer salir también, porque si a él le urge trabajar, a todos los demás también les urge trabajar. Entonces, sí me gustaría saber bajo qué conceptos estaría restringido el presidente en estas giras.
@@ -111,6 +115,7 @@ Y una segunda, y última, que nos platique un poquito cómo le fue en la compare
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto voy a responder la primera pregunta y antes de entrar en la comparecencia me quedaron dos diapositivas adicionales sobre el tema de letalidad, versus mortalidad, que ahorita que mencionó al presidente recordé que en la mañana se lo preguntaron y me encomendó compartir información adicional.
 Pero le contesto la primera, que me parece una pregunta muy importante, estoy seguro que varias de ustedes, varios de ustedes se hacen esta pregunta y una porción importante de la ciudadanía.
 La idea general: ¿por qué el presidente de la República debe salir a trabajar? Le voy a explicar con toda claridad a todo mundo las consideraciones que hemos estado teniendo en tiempo real en las reuniones de gabinete que él convoca.
 Mañana jueves nos volvió a citar a las 8:00 de la noche, de manera análoga a la que tuvimos ayer a las 8:00 de la noche, y es una reunión rutinaria de seguimiento de COVID, pero él lo que dijo es: ‘Vamos a darle un tiempo muy específico a esta reflexión para que -como él dice- los médicos me digan cuáles sus consideraciones respecto a si debo salir o no’.
@@ -169,17 +174,47 @@ Aquí, 5.6, con las mismas siete mil 169 muertes que ayer teníamos registradas 
 No, no es el primero en el continente cuando usamos una medida que sí permite una comparación más apropiada entre países. Entonces, esa es la otra parte de la explicación que ustedes se merecían.
 ¿Cuál era la segunda?, perdón.
 ---
+INTERLOCUTOR
+De su comparecencia.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, demos paso a una pregunta y ahorita estoy seguro que este tema va a salir y lo resumo, fueron seis horas de comparecencia, pero las resumo con gusto.
+---
 PREGUNTA
+Buenas noches. Soy Carolina Aguilera de Análisis Informativo, vengo de Querétaro.
 Mi pregunta va más enfocada al tratamiento que se les da a los pacientes de forma hospitalaria. La fisioterapia intensiva entre sus funciones se encarga de que la actividad respiratoria del paciente sea lo más estable posible, busca prevenir complicaciones de cúbito prolongado, prevenir la disminución de la capacidad pulmonar y brinda apoyo a la ventilación mecánica procurando evitar una disfunción diafragmática, que esta se va a resultar en una mayor estancia en ventilación mecánica, esto generando mayores complicaciones en el paciente y aumenta la probabilidad de que el paciente fallezca.
 También, la fisioterapia respiratoria trabaja en un seguimiento a los pacientes que se les ha dado de alta de las unidades de cuidados intensivos por la debilidad muscular, respiratoria, por la disfunción también pulmonar, etcétera.
 Mi duda concretamente es: ¿por qué no se ha tomado en cuenta a los fisioterapeutas intensivistas para brindarle atención a estos pacientes?, ¿y cómo están trabajando esta parte de la rehabilitación pulmonar?, ya que por lo que estamos viendo y todas las consecuencias que puede generar las secuelas un paciente con COVID van a necesitar terapia respiratoria.
 Entonces, en alguna ocasión me metí a la página de la secretaría para decir vamos a buscar fisioterapia intensivista o respiratoria, y ni siquiera figura la fisioterapia en la secretaría, entonces, quisiera saber por qué y si se ha planeado cómo trabajar.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Usted es fisioterapeuta pulmonar?
+---
+INTERLOCUTORA
+Fui a fisioterapeutas intensivistas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, que si usted es.
+---
+INTERLOCUTORA
+Sí conozco de fisioterapia pulmonar.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Bienvenidas y bienvenidos, los estamos buscando.
+---
+INTERLOCUTORA
+Aquí estamos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Eso, por supuesto, lo que usted explica y es claro es persona experta en la materia, es fundamental, tenemos una escasez de personal de salud en general por una larga historia que ya conocen de subinversión en el Sistema Nacional de Salud y les estamos buscando.
 El doctor Alejandro Svarch, coordinador médico del Insabi que dirige el maestro Juan Ferrer, está, precisamente reclutando a personal de salud en ciertos campos especializados, no logramos tener suficientes, y uno de ellos es la fisioterapia pulmonar, la inhaloterapia que son esenciales para esto.
 Le suplico si nos deja los datos y enseguida le damos seguimiento, y todo fisioterapeuta pulmonar que haya en el país quiera trabajar y no tenga trabajo, por favor acuda a la convocatoria de médicos y médicas del bienestar que está indicado para ello. Gracias.
 ---
+INTERLOCUTORA
+A usted.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En medio minuto resumo la comparecencia. Olinka, la dejaremos para mañana, son las 8:01.
 Hoy tuve el privilegio de la Junta de Coordinación Política del Senado y la Mesa Directiva me convocaran a una sesión conjunta, participaron 64 senadores y senadores, según me dijeron, todo fue por vía virtual, me cuestionaron de una manera muy estructurada, muy respetuosa, lo cual aprecio, con cuestionamientos importantes sobre el manejo de la epidemia de COVID.
 Expresé lo que he expresado aquí todos los días, usé diapositivas que he presentado aquí, otras nuevas que con gusto van a estar públicas y fue un diálogo muy constructivo.
 Es enormemente importante que tengamos tres poderes en la unión, que tengamos separación de poderes, que tengamos la oportunidad de ser cuestionadas y cuestionados por el Poder Legislativo.
@@ -187,3 +222,10 @@ La próxima semana he sido invitado también por la Junta Directiva del Congreso
 Y me vuelve a dar tentación de venir a explicar una vez más cuáles pruebas existen, cuáles sí están demostradas.
 Noticia, por cierto, hoy los centros de control de enfermedades de Estados Unidos hicieron una guía técnica que publicaron hoy que dice que la mitad de las pruebas serológicas dan un resultado erróneo, la mitad, es decir, es como si sacamos una moneda, la tiramos al aire, águila o sol y queremos saber si es positivo o negativo, es el estado actual de las pruebas serológicas con mayor razón las pruebas rápidas, pero lo retomamos en eso.
 Gracias por la pregunta.
+---
+PREGUNTA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, las serológicas es lo que no es PCR, es lo que es sangre y es detección de anticuerpos.
+Muchas gracias, 20 horas con tres minutos. Gracias.

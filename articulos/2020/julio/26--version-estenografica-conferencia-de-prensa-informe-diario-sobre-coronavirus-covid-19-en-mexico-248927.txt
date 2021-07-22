@@ -3,6 +3,7 @@ Presidencia de la República
 26 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches. Son las 19:00 horas de este domingo 26 de julio de 2020. Estamos en el Palacio Nacional de México, vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico, que será relativamente breve y vamos a dar espacio a las preguntas que quizá ayer quedaron pendientes de la exposición que hizo el doctor López Ridaura aquí presente y la doctora Oliva López Arellano, secretaria de Salud de la Ciudad de México; y el doctor Jean Marc Gabastou, asesor regional de la Organización Panamericana de la Salud sobre emergencia; también el doctor Arturo Galindo Fraga, subdirector de Epidemiología Hospitalaria del Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’.
 Vamos a iniciar. Me voy a permitir ponerme de pie, después abrimos a preguntas y respuestas.
 El informe técnico tiene la misma estructura. Como lo hemos venido comentando, vamos a hablar dela situación epidemiológica actualizada en tres entidades federativas y vamos a mostrar ejemplos de algunas realidades.
@@ -90,12 +91,14 @@ Vamos entonces a abrir a preguntar y respuesta. Si hubiera preguntas sobre el te
 Por favor.
 ---
 PREGUNTA
+Buenas noches. Héctor García, de Diario Basta y Grupo Cantón.
 Subsecretario, precisamente usted estaba hablando del desconfinamiento, primero fue la Ciudad de México y luego el Estado de México que pasaron del color rojo al color naranja.
 Y precisamente la jefa de Gobierno señala que hay riesgo en la Ciudad de México de retornar al color rojo, porque no está segura de que pueda haber sido por la apertura de las áreas económicas. En este sentido, le quiero preguntar ¿cuál es su diagnóstico?
 Y si es sugerible, recomendable, que se restrinjan más las… o sea, que haya más restricciones a la ciudadanía, porque pues mucha gente, aunque es trabajo, otras de plano no tienen nada que hacer y eso ya ha incrementado el número de contagios.
 ¿Y qué pasa con las entidades?, algunas que han señalado que van a seguir sus propios proyectos, sus propios programas de trabajo haciendo a un lado a la federación. Me gustaría saber su opinión, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, Víctor, gracias por la pregunta.
 Respecto a la Ciudad de México en particular, nuestro diagnóstico es idéntico al de la doctora Sheinbaum, porque además lo hacemos junto, y no sólo con ella, sino con los otros 31 mandatarios y mandatarias del resto del país a nivel estatal.
 Este diálogo ha sido muy fructífero. La semana pasada lo relatamos, tuvimos una conversación específica con el nuevo presidente de la Conferencia Nacional de Gobernadores, el gobernador Juan Manuel Carreras, de San Luis Potosí; y el gobernador Mauricio Vila, de Yucatán, quien además es el presidente de la Comisión de la Salud de la Conago.
 Cada vez que tenemos estas conversaciones salimos muy reconfortados de constatar el gran sentido de responsabilidad que tienen los mandatarios estatales y la mandataria de Sonora y la jefa de Gobierno de la Ciudad de México.
@@ -107,13 +110,18 @@ Y está muy bien establecido en la Ley General de Salud qué le corresponde a ca
 Daniela Pastrana, Pie de Página.
 ---
 PREGUNTA
+Gracias. Buenas noches.
 Tengo tres preguntas. Una, hace unos días publicamos una entrevista con un neuropsicólogo, neuropsiquiatra, Jesús Ramírez Bermúdez, que tiene un libro sobre depresión y lo que nos decía es que el siguiente momento de la pandemia es una de las grandes afecciones va a ser la depresión, trastornos mentales y que generalmente eso es invisible para los gobiernos y en general para la sociedad.
 Esta entrevista tuvo mucho eco, porque mucha gente se sintió identificada, entonces yo le quiero preguntar si dentro de esta ampliación, aunque ya sé que seguimos en la pandemia y que todavía no entramos a la post ni a la siguiente etapa, dentro esta previsión que están haciendo de lo que viene para las siguientes enfermedades, están considerando ampliar la infraestructura y el equipo y los médicos que atienden salud mental. Eso es por una parte.
 Luego, el viernes mencionó en Tabasco que ya había pasado la transmisión a las ciudades, bueno, de las ciudades a las periferias y de ahí a los espacios rurales, por eso estaban entregando ese, bueno, aplicando ese programa. Y quería preguntarle eso, ¿exactamente qué riesgos tienen las poblaciones rurales en estos momentos, sobre todo en las que están más alejadas y que están alejadas de centros de salud?
 Y yo sí tengo una pregunta, porque no me quedó totalmente claro ayer. ¿Cómo pueden determinar que enfermedades…?, ayer, por ejemplo, hablaban de Estados Unidos, que Estados Unidos que el 50 por ciento de estas muertes en exceso no fueron por COVID, ¿eso exactamente cómo lo pueden determinar?, por ejemplo, si alguien COVID y tiene diabetes, ¿en qué categoría entra o cómo determinan esas categorías?
 Muchas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a empezar con el doctor López Ridaura, atender esta pregunta.
+---
 RUY LÓPEZ RIDAURA, DIRECTOR GENERAL DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Sí, muchas gracias, por la pregunta.
 Y sí, en efecto, este es un análisis mucho más complejo y es difícil, por eso nosotros también insistimos en que el primer objetivo fue, y eso es lo que presentamos el día de ayer, fue el exceso total, el exceso total de muertes totales sin clasificar las causas, y es muy importante que se entienda.
 El análisis que presentó el doctor Jean Marc Gabastou, es una publicación reciente, en una revista muy importante, es de un estudio que se hizo con el exceso de mortalidad. Son dos publicaciones que se hicieron a nivel nacional en Estados Unidos, una solamente hablando sobre el exceso de mortalidad total, que es poco similar a lo que presentamos ayer tanto de la Ciudad de México como de algunos estados y de los 20 estados que tenemos información.
 Pero también en el segundo fue un poco más allá y lo que trató de identificar es la causa básica, la causa básica de la defunción o de todo este número de excesos de muerte. La clasificación de la causa básica, hay una serie de algoritmo estandarizados en la que, comenté ayer, el certificado de defunción por lo general tiene cinco o seis diagnósticos, y depende un poco del tiempo que se pone, cuántos días o cuántos meses de cada uno de los diagnósticos se describe ahí en los certificados, o sea, que depende mucho de la información que tiene el certificado y hay una serie de algoritmos para decir que si una de las causas puede ser secundaria a la causa de abajo, entonces al final se decide cuál es la causa básica de la defunción.
@@ -124,6 +132,7 @@ Entonces, al final la causa de directa de muerte es el infarto, pero ¿qué ocas
 Un poco lo que hemos sugerido y también se ha sugerido en toda la literatura internacional es poder hacer esta dictaminación con mucha más cautela, por eso los comités, tenemos los comités estatales que van a estar revisando expedientes, hay un comité nacional de adjudicación dentro del sistema de vigilancia y yo creo que una vez cerrando el año, posteriormente vamos a poder ir definiendo las causas básicas de cada una de las defunciones que sucedieron en el 2020.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor López Ridaura.
 Sobre las otras dos preguntas, salud mental, sí, efectivamente, no es sorpresa, no conozco a este doctor que menciona, pero qué bueno que se suma al llamado que hemos hecho desde el gobierno.
 No sé si otros gobiernos, como él lo menciona, se les olvida el tema de la salud mental; a nosotros no y no se nos ha olvidado, porque es una de nuestras prioridades antes de COVID.
 Arrancamos esta administración en el sector Salud, en la Secretaría de Salud dejando muy claro la conciencia del abandono en el que estuvo la capacidad institucional para atender tanto prevenir, como atender, como rehabilitar a personas con trastornos de salud mental.
@@ -146,16 +155,30 @@ Y estamos promoviendo el establecimiento de comités comunitarios de salud, agua
 Por favor, la compañera.
 ---
 PREGUNTA
+Buenas noches, Otilia Carbajal, de La Razón.
 En el informe del exceso de mortalidad que se presentó ayer no se incluyeron dos entidades federativas y mencionaron que hay evidencia de que hay un subregistro, aunque no necesariamente en este momento de la epidemia. Si pudieran ampliarnos por qué no se contemplaron y si se van a incorporar en los siguientes reportes.
 Y también quiero saber si con este nuevo esquema de la presentación de datos que han manejado estas últimas semanas se van a volver a actualizar otros datos como los contagios y defunciones del personal de salud. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Le contesto rápido la segundo, lo hemos dicho muchas veces, pero con mucho gusto lo vuelvo a comentar. Todos los datos que hemos presentado aquí y que han sido de interés público lo seguimos presentando.
 Les suplico revisen el portal coronavirus.gob.mx, hay una sección específica de información, hay una de datos donde están las bases de datos completas de datos abiertos, pero también tenemos los informes técnicos de todas las distintas cosas que hemos presentado aquí.
 Entonces sí, por supuesto que lo seguiremos presentando y hay temas que periódicamente hay que actualizar y los presentaremos aquí.
 Sobre lo otro, le pido al experto que lo comente.
 ---
 RUY LÓPEZ RIDAURA
+Sí, muchas gracias.
 En efecto, el reporte que presentamos ayer solamente incluyó de 20 estados y hay dos estados que aún estamos trabajando.
 Cuando hablamos de subregistros y lo que tratamos de explicar ayer es que esta es una información que viene de las actas de defunción, de los registros civiles y estos registros civiles dependen de las entidades federativas.
 Lo que ha hecho Renapo antes de… desde que empezó en esta administración es un esfuerzo que era muy importante y que ha avanzado mucho el tratar de centralizar un registro de estas actas de defunción y ha ido tratando de incorporar a cada estado a un sistema de información para que automáticamente se cargue la información que viene de cada uno de los registros, que son muchísimos en cada uno de los estados, para que se junten en este sistema de información y que al final el Renapo pueda tener el acceso al número de todas las actas de defunción que se van presentando día con día.
 Esto es un proceso que lleva tiempo, entonces cuando hablábamos de subregistro no necesariamente es un subregistro de ahora, sino que también estuvimos comparando el potencial subregistro que se tenía desde el 2019, porque está en el proceso, también comparamos con el primer trimestre del 2020 y Renapo ha estado trabajando con cada una de las entidades federativas para tratar de incorporarlos lo antes posible y yo espero que también, porque también ha habido mucho interés de las entidades de poder acompañar en este esfuerzo, yo creo que poco a poco se van a ir incorporando a este análisis.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+¿Alguien más?, ¿usted no quería preguntar? No. Muy bien, hoy es el primer día que terminamos sin preguntas al final.
+Sólo, entonces, aprovecho para comentar aspectos panorámicos del manejo de la epidemia. La epidemia no ha acabado, la epidemia requiere para su manejo, su control, de la colaboración de las personas, de todas las personas que viven en el país.
+Hay que atender la situación de acuerdo al nivel de riesgo que se tiene localmente. Es una atribución legal de los gobiernos estatales tomar decisiones sobre lo que se ejecuta en sus territorios. Estas decisiones deben en estar, y lo han estado, alineadas con las disposiciones federales.
+Seguiremos viendo estados que tienen más casos en un día que en el día previo, seguiremos viendo algunos estados que crecen rápidamente sus epidemias, seguiremos teniendo los peligros de que se saturen las unidades hospitalarias, seguiremos trabajando en la reconversión hospitalaria apoyando a los estados.
+Los estados tienen la obligación de hacer reconversiones hospitalarias, que quede también muy claro, eso fue establecido en el acuerdo secretaria el Diario Oficial de la Federación desde el 31 de mayo. Entonces, es una responsabilidad, es una obligación de los estados en sus sistemas locales de salud hacer reconversiones hospitalarias, pero desde luego no hemos dejado a nadie sin el apoyo que nos ha solicitado en los 32 estados, los 32, de acuerdo a la necesidad.
+Tenemos también desde luego la mortalidad. Es siempre muy lamentable que cualquier fenómeno natural como es una epidemia causada por un agente biológico, que es un virus, termine en la perdida de la vida en la medida en que el virus es capaz de causar una destrucción importante de los pulmones y de otros órganos, y causar la muerte; sin embargo, es muy importante que la muerte no esté contribuida por una atención tardía.
+Y este es el último mensaje que quiero recordar, las personas se pueden recuperar con mayor probabilidad si acuden tempranamente a los hospitales, tempranamente a atención, a valoración médica, no a que se les hagan las pruebas, sino a que se les evalúe medicamente y cuando aplica se queden hospitalizadas y se den todos los cuidados necesarios para su atención. Entonces, por favor acudan tempranamente a los hospitales, sobre todo las personas que tienen mayor peligro, mayores de 60 años con enfermedades crónicas.
+Muchas gracias, son las 20:00 horas, aquí terminamos y nos vemos mañana. Gracias.

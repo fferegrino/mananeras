@@ -1,0 +1,286 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+14 de enero de 2021
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches tengan todas y todos ustedes. Son las 19:00 del jueves 14 de enero de 2021. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
+Continuamos como siempre, con el informe periódico, el informe diario sobre el estado que guarda la epidemia en México y algunos señalamientos puntuales que son relevantes, y también el informe del progreso del Programa Nacional de Vacunación contra el virus SARS-CoV-2 para prevenir COVID-19 en México. Veremos que seguimos ya a una velocidad continua de vacunación masiva, que nos está llevando al camino que habíamos trazado.
+Le pido al doctor Alomía, director general de Epidemiología, si es tan amable de presentar el primer segmento.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
+Muy buenas noches también todas y todos.
+Vamos a iniciar actualizando el panorama epidémico en el país en relación al comportamiento de la epidemia de COVID-19. Iniciamos como todas las noches, actualizando los números que conforman la línea de color azul, que es precisamente la que evidencia este comportamiento a través de la gráfica, en donde representamos el transcurso de las diferentes semanas epidemiológicas.
+Aquí estamos todavía con todo el 2020, hasta la última semana de este año, que es la semana 53; la próxima semana empezaremos a graficar la semana 1 del año 2021.
+Para efectos de este corte, vemos que continúa nuevamente incrementándose la carga de enfermedad para efectos de la semana 53, que si la comparamos con la 52, pues bueno, tenemos un incremento de más 12 por ciento, regresando un poco al nivel que en su momento veíamos en la semana 51.
+Estamos a jueves, todavía tenemos viernes y sábado para que tengamos algunos incrementos más y entonces podamos ver cómo finalmente cierra semana y cómo abre la semana 1, 2021, en función del comportamiento.
+Son un millón 780 mil 649 los casos que en este momento se estiman con base en la plataforma informática, que serían ya casos clasificados como confirmados de COVID-19 para efecto de este grupo.
+Así también, siempre hemos destacado que como existe COVID grave también hay COVID leve, y el COVID leve es en la mayoría de las personas que padecen esta enfermedad. Para estos efectos un millón 185 mil 621 personas son las que ya también hasta el momento han recuperado, han curado de la enfermedad de COVID-19, lo cual también, digo, es positivo para efectos de la evolución y de lo que está sucediendo con la epidemia en México.
+Seis por ciento es para el día de hoy nuestro indicador, incremento de un punto porcentual para lo que representa los casos estimados. De hecho, vemos el incremento también en el número de estos; precisamente siguiendo la congruencia de la curva azul, son 103 mil 528 los que conformarían la epidemia activa, es decir, estas personas iniciaron con signos y con síntomas en las últimas dos semanas.
+Si vemos la siguiente diapositiva, enfocamos el comportamiento de la curva de positividad, que es precisamente el número de personas que dan un resultado o son clasificadas como casos confirmados de COVID en relación a todas aquellas que en su momento se clasificaron como sospechosas, porque presentaban los signos y los síntomas de la enfermedad, que para el día de hoy prácticamente ya representaría un poquito menos de cuatro millones de personas las que el Sistema Nacional de Salud ha tenido la oportunidad de atender, de dar seguimiento y en su momento, a través de una prueba, la gran mayoría de ellas haberse confirmado o en su momento descartado, como es este grupo también de casi dos millones, un millón 993 mil que han dado negativo a la prueba correspondiente.
+El comportamiento de la curva epidémica ya lo referíamos, prácticamente en los últimos tres meses ha tenido un comportamiento ondulante que ha fluctuado entre el 40 y el 46 por ciento para la semana epidemiológica 53, que es la última graficada, es precisamente del 45 por ciento.
+Veamos la siguiente diapositiva. Aquí vemos el comportamiento de la letalidad desde que abrió éste en la semana actual, la 53 graficada. Es un ocho por ciento, ya veíamos este incremento de dos puntos porcentuales en relación al seis por ciento que teníamos. Lógicamente es un indicador también de importancia, ya que nos revela cuál es la proporción de personas que para cada una de las semanas epidemiológicas lamentablemente está perdiendo la vida o falleciendo a consecuencia de las complicaciones que ahora sí COVID grave produce en este tipo de personas, sobre todo en aquellas que tienen asociado un factor de riesgo o una comorbilidad, que sabemos facilitan la evolución a una enfermedad grave y por lo tanto esta lamentable resultado, 137 mil 916 son las personas que conforman este grupo.
+Veamos la siguiente diapositiva. Enfocamos ahora en la capacidad hospitalaria para efecto de la disponibilidad de camas en la hospitalización general. A nivel nacional el 60 por ciento de las mismas está ocupada, es decir, 19 mil 457, pero el 40 por ciento representa todavía 13 mil 226 disponibles; esto varía lógicamente dependiendo de la entidad federativa.
+Para el corte que presentamos hoy, son seis las entidades que están con un nivel de ocupación importante, que ya superó el 70 por ciento de esta ocupación y que por lo tanto los trabajos de reconversión y expansión deben de mantenerse, deben de hecho incrementarse y deben de estar con un monitoreo hora con hora prácticamente en función de cuál es la disponibilidad ya local, municipal, de cada una de estas camas para, en coordinación con los centros reguladores de urgencias médicas y otras dependencias diarias que coadyuvan en la atención médica prehospitalaria, las personas que requieran un servicio como este, que es de especialidad, pues puedan en su momento encontrar la disponibilidad correspondiente.
+Identificamos a Ciudad de México con la mayor ocupación, esto ha ocurrido desde prácticamente el mes pasado con un 91 por ciento y en un orden descendente seguiría el Estado de México, Nuevo León, Hidalgo, Guanajuato y Puebla.
+Otro número que vemos que también se incrementa en este corte sería el grupo de entidades, que son 11, que están entre el 50 y el 69 por ciento de ocupación. Aquí todavía no se ha rebasado un nivel de seguridad, pero al haber pasado que más de la mitad de sus camas ya está ocupada, entonces es momento de identificar todos los recursos que son necesarios para poder reconvertir e iniciar ya con los primeros pasos de la reconversión de camas y no necesariamente esperar a que llegue un nivel del 70 por ciento más para empezar a hacerlo.
+Y, bueno, ahí están las 11 entidades en la laminilla, esto ustedes lógicamente la tienen todas las noches para poder verlas puntualmente una por una y está disponible siempre la información en los diferentes medios de comunicación y sobre todo en las redes sociales, en donde se pueden repasar cada vez que uno las desee.
+Y son 15 entidades federativas las que tendrían todavía más de la mitad de sus camas disponibles, es decir, no han superado el 50 por ciento de ocupación.
+Veamos rápidamente esta misma información, pero ahora enfocada a las camas con ventilador, que se reservan precisamente para los pacientes más graves o con evolución, en su momento, más tórpida en relación a la enfermedad.
+Tres entidades, este es un número que se ha mantenido prácticamente en las últimas semanas, superando este 70 por ciento, son las mismas tres prácticamente que hemos tenido durante estos últimos días: Ciudad de México, Estado de México y Nuevo León.
+También cuatro entidades entre el 50 y el 69 por ciento: Baja California, Tlaxcala, Hidalgo y Aguascalientes apenas alcanzando este 50 por ciento.
+Y aquí sí todavía tenemos una gran mayoría de entidades federativas que tienen camas disponibles para efectos de los pacientes más críticos, 25 de ellas que no han rebasado el 50 por ciento de ocupación, a nivel nacional son cinco mil 141 las camas con ventilador que están disponibles para poder recibir a las personas que así lo requieren.
+Es la actualización para esta noche.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
+Vamos a continuar ahora con el informe de vacunación de hoy. Hoy se pusieron hasta las 16:00 horas, las 4:00 de la tarde, hora del centro de México, 95 mil 95 vacunas.
+Noten ustedes que ayer dimos una cifra semejante para la vacunación del 13 de enero, hoy es 14, y esta aumentó porque el corte de información para esta conferencia de prensa son las 16 horas, pero la vacunación continua hasta casi las 21:00 horas en algunos lugares y esa información desde luego se recopila y se incorporar al día siguiente.
+Hoy tenemos ya actualización de lo que se puso ayer al cierre del día, 136 mil 716 dosis, hoy hasta las 16 horas 95 mil 95. Siguen abiertos los puestos de vacunación, mañana seguramente esta cifra estará actualizada hasta el cierre de la vacunación de hoy.
+Esto desde luego nos mantiene en este nuevo ritmo de trabajo para la vacunación COVID, lo que hemos llamado la fase de expansión, después de que estuvimos en la fase de calibración, en donde estuvimos ajustando las condiciones de operación, en este momento estamos en esta fase de expansión donde a través de mil brigadas de personal de vacunación se está trabajando en todos los hospitales COVID.
+Estamos vacunando al personal de salud de las unidades COVID y seguiremos todavía durante enero vacunando al personal de salud de las unidades COVID. Recordar que no se trata solamente de médicas y médicos, enfermeras y enfermeros, sino 11 categorías laborales que están en las unidades clínicas COVID.
+Asimismo, recordar, nos lo han preguntado repetidas ocasiones, inclusive esta mañana en la conferencia del presidente, también personal de salud de unidades hospitalarias y de atención privados, también en esas unidades se vacunará al personal COVID, al personal que está en la atención COVID.
+Vamos a ver la siguiente. Bueno, aquí la cifra acumulada del total de personas vacunadas desde el 24 de diciembre de 2020, fecha en que empezó la vacunación en México, 329 mil 983.
+Aquí está la distribución por entidad federativa. Pueden ver ustedes el porcentaje de utilización de estas vacunas, con un total de dosis recibidas, 439 mil 725.
+Y este es el avance porcentual con respecto a lo que se ha entregado en cada entidad federativa. Hay entidades como Colima que ya tienen 50 por ciento de uso, Durango con 70 por ciento de uso, Coahuila con 93 por ciento de uso y así respectivamente con los paquetes de esta semana.
+Estamos a mitad del periodo considerado para el uso del más reciente paquete de 439 mil 725 dosis y vamos justamente a la mitad de su uso, es decir, vamos en perfecto ritmo de acuerdo a lo programado, lo esperado es que si no existe ninguna eventualidad en las siguientes 48 horas habremos completado el uso de este paquete.
+Con esto reiteramos, conforme llegan los paquetes de vacunas se utilizan, no hay necesidad hasta el momento de resguardarlos, no queremos que estén ociosos, no queremos que estén esperando, a menos que haya una condición técnica que así lo exija; pero mientras no sea el caso, tan pronto, pisan, tocan, llegan, arriban, se acercan a territorio nacional, son utilizados para vacunar a nuestras compañeras y compañeros del sector salud, de las unidades clínicas COVID.
+Y este informe que lo comentábamos ayer a pregunta expresa, lo estaremos informando en tiempo real, conforme vaya ocurriendo, conforme se pongan más vacunas, indudablemente pueden ocurrir más eventos adversos.
+Destacamos, para conocimiento de toda la población, que los eventos adversos son una lista muy amplia de molestias, de afecciones que pueden tener las personas. En su mayoría, por el momento 97 por ciento, son afecciones menores, pongamos algunos ejemplos: fiebre, que es uno de los más comunes, dolor en el sitio de inyección, enrojecimiento en el sitio de inyección, mareo, nausea y algunos síntomas de esta naturaleza.
+Estos síntomas generalmente resuelven en periodos cortos, uno, dos, tres días, desaparecen por completo sin necesidad alguna de tratamiento y desde luego lo importante es que no ponen en peligro ni la vida, ni la funcionalidad de las personas; sin embargo, vigilamos estos eventos adversos principalmente para tener atención a aquellos que pudieran ser de importancia, los Esavi graves.
+¿Qué quiere Esavi?
+Eventos Supuestamente Atribuibles a la Vacunación y a la Inmunización, este es el término técnico para referirse a aquellas situaciones que afectan a las personas vacunadas y que pueden ser de importancia, no solamente para proteger a la persona que ha sido vacunada y pudiera tener una de estas situaciones, sino para informar a la comunidad nacional y global de salud en seguimiento de cómo está funcionando los distintos productos de vacunación. En México hasta el momento exclusivamente la vacuna de Pfizer-BioNTech contra el SARS-CoV-2.
+Cuatrocientos 68 son eventos no graves, 15 son graves, de estos 15 en su momento estuvieron hospitalizados por periodos variables desde algunas pocas horas hasta algunos días. Permanecen, de los 15 hospitalizados, solamente cinco personas, y estas cinco personas han tenido distintos tipos de afección, mayormente han sido reacciones alérgicas y en otros casos han sido reacciones de manifestaciones convulsivas.
+En particular, el primer caso informado es el que hasta el momento ha sido más trascendente y se trata de una compañera médica trabajadora del Seguro Social en Coahuila que sufrió una encefalitis y que esto pudo estar asociado con un fenómeno alérgico.
+El diagnóstico final de esta condición no ha sido establecido, se realizan diversos estudios moleculares y de imagen, y en su momento, cuando tengamos una conclusión diagnostica por parte del personal médico experto, entonces desde luego lo comentaremos por ser un asunto de interés público.
+La buena noticia, sin embargo, es que nuestra compañera se recupera muy satisfactoriamente. Se le hizo un tratamiento de plasmaféresis desde las primeras 24 horas de su afección y respondió muy satisfactoriamente. La afección original que tenía, que le impedía movilizar las extremidades se ha recuperado prácticamente por completo y estimamos que en pocos días será dada de alta definitiva del hospital de donde ha sido atendida.
+Vamos a abrir a preguntas y comentarios. Ayer quedó pendiente Ignacio de Alba, de Pie de Página, y Juan habló, usted no había hablado, nos seguimos por acá y con Juan Carlos Machorro.
+---
+PREGUNTA
+Gracias. Buenas noches. Ignacio de Alba, de Pie de Página.
+El procurador del Consumidor, Ricardo Sheffield, explicó en la semana que en la semana que no hay motivos para el desabasto de oxígeno; y efectivamente no lo hay, lo que nos hemos encontrado nosotros es que hay un desabasto de tanques y de concentradores. No sé si ustedes lo tienen monitoreado y si van a hacer algo al respecto, y tengo otra pregunta.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Ignacio. Efectivamente, lo tenemos monitoreado y además le agradecemos al procurador del consumidor, Ricardo Sheffield por la información valiosísima que él nos proporciona.
+Hace unos días, me parece que la semana pasada aquí en esta conferencia me preguntaban, pero no sólo me preguntaban, sino me solicitaban, creo que fue Daniela Pastrana, precisamente fue Daniela, verdad, de Pie de Página, y me comentaba esta inquietud y quedé en que contactaría al procurador Sheffield precisamente para el seguimiento.
+Me dio esta información, me dio un informe muy detallado que elabora la Procuraduría del Consumidor en donde muestra que se han investigado posibles prácticas sospechosas de abusos comerciales.
+Y no se ha identificado esta condición, sí hay un sobreprecio que corresponde 20 por ciento de aumento, pero está dentro de los marcos contemplados por la ley porque ha aumentado la demanda y se permite, en términos legales, tener un ajuste de los precios cuando aumenta la demanda; sin embargo, con límites que impone la propia regulación y que vigila la Procuraduría del Consumidor.
+Lo que efectivamente se ha identificado es que hay una escasez de tanques. Los tanques son desde luego el medio físico donde se almacena el oxígeno y al ser utilizados por distintas personas, mayormente en el tránsito hacia la casa después de una hospitalización y por algunos días en casa esto ha afectado la posibilidad de tenerlos.
+Lo que también se ha detectado es abusos, eso sí, en algunos proveedores locales, personas que reutilizan los tanques, los acaparan y son personas particulares, no son entidades comerciales que rentan tanques y a su vez los subarriendan a otras personas.
+Esta desafortunadamente es una práctica desde luego muy inconveniente, pero que no puede ser regulada en la medida en que los particulares son entidades autónomas, exactamente, en ese sentido, no son entidades comerciales registradas.
+Aquí hacemos un exhorto respetuoso a toda la población: si tiene la situación de que ha conseguido tanques de oxígeno, que no los use en forma especulativa, que no los retenga para después rentarlos a personas conocidas o desconocidas porque hay personas en grave necesidad urgente de suplementación de oxígeno.
+Entonces, tenerlo o abusar de la condición de emergencia para lucrar lo consideramos una práctica desde luego muy inadecuada.
+---
+INTERLOCUTOR
+También preguntarle, doctor. Además de… Yo sé que son 11 categorías prioritarias a las que se les van a vacunar, pero hay otras profesiones, preguntarle si hay otras profesiones que también están incluidas como prioritarias.
+Por ejemplo, uno de nuestros lectores arregla aparatos de Rayos X dentro de instalaciones COVID y él nos preguntaba si él en algún momento sería vacunado como profesión prioritaria.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Están, están los técnicos radiólogos, están considerados.
+---
+INTERLOCUTOR
+Okey, gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a pasar con usted y nos vamos con Juan Carlos, y nos seguimos.
+---
+PREGUNTA
+Buenas noches, doctor Alomía, doctor López-Gatell.
+Tengo una pregunta. ¿En cuánto tiempo la vacuna ya aplicada empieza a generar proteínas para protegernos?, ¿en cuánto tiempo? Esa sería la primera pregunta.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Es una pregunta muy importante, gracias por hacerla. Las vacunas en general, cualquier vacuna, en este caso estamos hablando de la vacuna de SARS-CoV-2, hace efecto en promedio 15 días después de que ha sido administrada, y en 15 días ya se considera que se alcanzan los niveles estables de proteínas protectoras, que son los anticuerpos, fabricados por los glóbulos blancos, y en 15 días después de la aplicación.
+---
+INTERLOCUTOR
+Bueno, es que como estaba checando el tiempo de que las vacunas hacen efecto como la de Johnson & Johnson y la de CanSino, la vacuna Pfizer parece que es más efectiva porque las otras tardan 29 días. De hecho, por eso le hice ahorita, le formulé la pregunta porque venía con otra pregunta, esperan nada más algunos resultados.
+Mi siguiente pregunta, doctor, sería: en base, en marzo que ya se alcance la vacuna completa para la gente de la tercera edad, ¿en cuánto tiempo ya empezaríamos en los estados, en los seis estados a salir a bajar el semáforo naranja?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No depende de la cobertura vacunal. Digamos, desde luego, entre más amplia sea la cobertura, el porcentaje de personas que ya son inmunes ya sea porque recibieron la vacuna o porque tienen anticuerpos por hacer sido infectadas, entre más amplio sea ese porcentaje es más probable que empiece a cambiar la velocidad y la extensión de los contagios, pero no hay una relación directa predecible sobre los indicadores del semáforo asociados con el porcentaje de inmunidad.
+Gracias.
+Juan Carlos Machorro, AM Noticias, de Querétaro; Juan Hernández, Liliana Noble, Natalia Vitela.
+---
+PREGUNTA
+Buenas noches. Juan Carlos Machorro, de AM, de Querétaro.
+Doctor, salió una información que el secretario de Hacienda habla que está y, literal, está citado así, se está a días de que aquí en México tal vez se apruebe la vacuna del Sputnik V, la rusa.
+Desde el punto de vista de usted y siendo el encargado de Cofepris ¿cómo van? Si Rusia sí ya presentó todo este papeleo oficial, en este caso en materia sanitaria aquí en el país.
+Y siendo esa una vacuna que no necesita ultracongelación puede ser como que la gran, no queremos decir panacea, la gran solución para una vacunación todavía más masiva porque se puede manejar como una vacuna, llamémosle, común o tradicional.
+Y una segunda, si me permite: la Organización Internacional Human Rights criticó, pues ahora sí creo que a todos nos tocó parejo, que la sociedad, el gobierno, que todos lo hemos hecho mal en México.
+Desde el punto de vista de usted, ¿cuál es su opinión al respecto?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sobre lo primero, la vacuna Sputnik V, la vacuna rusa, efectivamente, tenemos la expectativa de poder utilizarla en nuestro país, es precisamente esta la razón por la que la semana pasada viajé a Argentina en esta encomienda que nos hizo el presidente y en mi caso directamente también el secretario de Salud para explorar las posibilidades de tenerla.
+Uno de los elementos de esa exploración fue el identificar la ruta crítica que había seguido el gobierno de Argentina para tener el mejor acercamiento directo con las personas responsables de esta vacuna en Rusia.
+Nos pudieron compartir, tanto el propio presidente Alberto Fernández, a quien le estamos muy agradecidos, como a los miembros de su equipo. La doctora Carla Vizzotti, la secretaría de Acceso a la Salud, y la asesora presidencial Cecilia Nicolini, nos compartieron la experiencia de un trabajo muy estrecho que estuvieron haciendo con el gobierno ruso, con el instituto Gamaleya, que es este muy prestigioso instituto científico que tiene casi 100 años de existencia, que son los creadores de la vacuna, y también con el Fondo Ruso de Inversión Directa, que la entidad que el gobierno ruso ha asignado como responsable del proyecto.
+En este trabajo que estuvieron haciendo estrechamente con todas estas entidades implicó algunos viajes que hicieron las funcionarias argentinas a Rusia para compenetrarse con todos los detalles que tienen que ver desde el desarrollo científico.
+La doctora Visotti es una experta en vacunas muy conocida en la región, fue asesora sobre la materia de la Organización Panamericana de la Salud. Fue muy importante su presencia en Rusia porque ella pudo constatar toda la fundamentación científica de la creación de la vacuna Sputnik V.
+Pero también pudieron ellas visitar las plantas, las cuatro plantas que tiene Rusia para la fabricación de esta vacuna, y desde luego asistidas por la Agencia Nacional de Medicamentos, Alimentos y Tecnología de Argentina, que es el análogo de la Cofepris de México, pudieron también constatar lo que técnicamente se conocer como las buenas prácticas de manufactura.
+Estas buenas prácticas de manufactura son los estándares de calidad respecto a cómo se fabrican los productos que van a ser usados como medicamentos o insumos para la salud en los seres humanos. Este es un elemento fundamental.
+Y aquí quiero precisamente abundar en ese sentido. Nosotros aquí en México habíamos tenido inquietudes respecto a la dificultad de acceder a información sobre esta materia técnica. Y nos fue de gran ayuda la misión en Argentina y la asistencia del presidente Fernández y su equipo porque la agencia de regulación sanitaria de Argentina, la Anmat, es una agencia considerada en la región como de las de mejor capacidad y desempeño.
+Entonces, en un momento dado para una agencia regional que tiene ese reconocimiento ante la Organización Mundial de la Salud, nos da mucha confianza el poder conocer los dictámenes que en su momento hiciera la Agencia Argentina de Regulación Sanitaria, Anmat, no solamente y respecto a las condiciones o las características científico-tecnológicas de la vacuna Sputnik V, sino además sobre las condiciones de su fabricación.
+Y también el gobierno argentino, las colegas que estoy comentando nos facilitaron un intercambio directo con los funcionarios del Fondo Ruso de Inversión Directa en el que pudimos entablar conversaciones para acordar la provisión de un número significativo de vacunas.
+Nuestra petición fue de 12 millones de tratamientos de esquemas de dos dosis, la vacuna Sputnik V, como otras, requiere dos dosis, e identificamos que ante ellos que necesitamos al menos 12 millones de estas dosis.
+Y estamos ahorita justamente en proceso de conversaciones a detalle para adquirirlas en proceso de adquisición, etcétera.
+En paralelo, la información que nos proveyeron estos colegas del Fondo Ruso de Inversión Directa, que fue el mismo expediente que utilizó Argentina para hacer su autorización de uso de emergencia, fue sometido a Cofepris.
+Desde el fin de semana estando yo todavía en Argentina mandamos estos documentos y Cofepris los ha estado revisando. Cofepris tiene un comité científico que se llama el Comité de Moléculas Nuevas que revisa todos estos expedientes y analiza también el contexto en el que se está presentando una solicitud, en este caso una solicitud de autorización de uso de emergencias.
+Y no conocemos aún los resolutivos del comité, cuando los conozcamos los haremos del conocimiento, pero hasta el momento no tenemos indicaciones de que haya sido desfavorable la opinión de este comité, ellos formalizarán con una recomendación hacia Cofepris y en su momento la Comisión de Autorización Sanitaria determinará si se le concede o no la autorización de uso de emergencia.
+Pero vamos en paralelo, lo que nos permite avanzar más rápidamente y mantenemos una comunicación muy estrecha y muy continúa ahorita con el equipo ruso.
+---
+INTERLOCUTOR
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Considero, tengo cierta familiaridad, no demasiada con esta Organización Internacional Humans Rights Watch, es un organismo, hasta donde entiendo, filantrópico, una organización civil, se podría decir, que generalmente se dedica a hacer observatorios sobre los derechos humanos en el mundo y opina sobre las condiciones de los derechos humanos en prácticamente todos los países del mundo.
+En general goza de un buen prestigio, no conozco si específicamente tiene asesoría técnica o en los miembros de su organización personas que sean expertas en la materia de epidemiología, salud pública, respuestas a emergencias, y además no conozco el informe, no me podría pronunciar al respecto.
+Me llama la atención, si es que es como usted lo relata, que a todo mundo le fue mal, pues hace pensar que tienen una opinión bastante intensa, vamos a llamarle, sobre todo el acontecer de la epidemia.
+Gracias.
+Juan Hernández, Grupo Cantón, periódico Basta.
+---
+PREGUNTA
+Gracias. Muy buenas noches, doctor; compañeros, muy buenas noches.
+Son dos preguntas. Una tiene que ver precisamente con la Organización Mundial de la Salud que hace en estos días un señalamiento, primero, de que el segundo año de la pandemia va a ser más difícil, sobre todo hablando de las variantes, hablando de… o todo el entorno que ha rodeado precisamente a la pandemia. ¿Cómo se está preparando precisamente México para este segundo año de la pandemia?
+Y bueno, también relativamente de la OMS, señala que 10 países están concentrando el 95 por ciento de las vacunas. Hay que recordar que con el presidente López Obrador, él estuvo impulsando precisamente que no hubiera acaparamiento de las vacunas.
+¿Cómo se está trabajando en este tenor?, ¿cómo están trabajando, por ejemplo, con el doctor Juan Ramón de la Fuente?, precisamente para que este esfuerzo que está haciendo López Obrador llegue no solamente a México, sino también a varios países del mundo.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Juan. Esto que menciona es importante. Efectivamente, la Organización Mundial de la Salud, que continuamente establece posicionamientos tanto técnicos como a veces de carácter político respecto al comportamiento de los gobiernos del mundo en lo que respecta a la preparación, a la respuesta y a la cooperación o falta de cooperación en el manejo de la epidemia, se ha pronunciado en días recientes sobre dos aspectos que me gustaría comentar:
+El primero es esta situación en donde ha anticipado que en el mundo entero todo 2021, muy probablemente todo 2021 estaremos los países en el empeño de vacunar. Esto es importante no perderlo de vista. Nosotros lo dijimos y lo seguimos diciendo: la epidemia no se acaba de un día para otro, la epidemia sigue activa, sigue activa en el mundo entero, sigue activa en México.
+En México se comporta en una forma heterogénea entre las entidades federativas, como ya todos ustedes lo conocen, y la expectativa que habrá estados, entidades federativas que de repente tendrán exacerbaciones de la epidemia, aumentos en el número de casos de hospitalizaciones, de muy lamentables defunciones, y otras que estarán en una tendencia a la baja. Esto lo vamos a seguir observando durante varios, varios meses en 2021.
+¿Cómo se prepara México para este escenario?
+Vacunando, vacunando.
+¿Cuál es el cambio más importante entre 2020 y 2021?
+Vacunas, vacunas, vacunas.
+Recordar que la respuesta que hemos tenido prácticamente en todos los países es muy semejante y se compone de dos elementos fundamentales, que a su vez tienen diversas intervenciones:
+El elemento 1 son las medidas de salud pública, las medidas poblaciones, las medidas generales, cuyo propósito fundamental es la prevención, prevención, evitar contagios, evitar que si las personas se contagian tengan una afección grave y que si tienen una afección grave pudieran tener un desenlace fatal.
+Esta prevención se centra en algunas actividades que son propias de la vigilancia epidemiológica, por ejemplo, la detección oportuna de personas enfermas.
+Y recordar que tenemos, esto lo pueden constatar por los diversos manuales y lineamientos técnicos que están publicados en el portal: coronavirus.gob.mx, que contemplan elementos tales como brigadas comunitarias y se trata de personas profesionales de la salud que visitan casa por casa las distintas colonias, barrios, pueblos, identificando personas que tengan vulnerabilidad, sobre todo la que está relacionada con padecer enfermedades crónicas: diabetes, hipertensión, inmunosupresión, cáncer, etcétera.
+Una vez que se identifican las personas vulnerables también interesa detectar a las personas que presenten síntomas y estas personas que presenten síntomas también diagnosticarlas por laboratorio o por otros mecanismos más flexibles y más sensibles, como la asociación epidemiológica.
+Si en una casa hay una persona que tiene COVID y este COVID ha sido demostrado con una prueba de laboratorio, que es la definición estricta, pero sus familiares presentan fiebre, tos, dolor de cabeza, dolor de garganta, pérdida del olfato, pérdida del gusto, dificultad respiratoria, se debe considerar y se considera, para fines de vigilancia epidemiológica, que las personas que tengan esto y convivan con alguien que tiene COVID, diagnosticado por laboratorio, esas personas también tienen COVID.
+Esto es muy importante no perderlo de vista: las personas que conviven con alguien que tiene COVID y se sabe que tiene COVID o tuvo COVID recientemente y tienen los síntomas de COVID deben asumir ellas mismas, las personas, que tienen COVID.
+El personal de salud, el personal médico que les atienda debe asumir que tienen COVID y desde luego la vigilancia epidemiológica, los números que presentamos aquí parten de la identificación de que esas personas tienen COVID, aunque no haya sido demostrado por laboratorio.
+Esto, tenemos meses trabajando con ese modelo, en su momento lo mencionamos aquí, cuando se amplió la definición de caso de COVID.
+Esto que acabo de describir, la identificación de personas enfermas, su diagnóstico, ya sea por asociación epidemiológica o por laboratorio y proceder a que esas personas permanezcan en aislamiento preventivo, reguardo preventivo durante 14 días forman parte de un paquete que se llama contención centrada en las personas, que se hace en México y se hace en muchos países desde que empezó la epidemia y seguimos haciéndolo y seguiremos haciéndolo mientras la epidemia esté activa.
+El segundo bloque de las intervenciones de salud pública es la mitigación comunitaria y estas son las actividades que reducen la velocidad, la eficiencia de los contagios. Son medidas de carácter general, no van dirigidas a quien tenga COVID, sino van a dirigidas a todas las personas y tienen que ver con la movilidad de las personas en el espacio público: salen de un lugar, se juntan con otras personas y entonces hay contagios.
+Y recordar que el Gobierno de México deliberadamente decidió a partir de un razonamiento técnico que además es congruente con la postura de este gobierno consciente y también respetuoso de los derechos humanos, decidimos que no ejerceríamos acciones coercitivas, no forzaríamos a las personas a que cumplan determinadas actividades, ponerse el cubrebocas, lavarse las manos, quedarse en su casa, estar a sana distancia, etcétera.
+Lo decidimos conscientemente y ahorita en 2021 seguimos ratificando que esta es nuestra convicción, lo seguiremos ejerciendo de esta manera.
+Y es muy alentador, muy, muy alentador que la evidencia objetiva muestra que en México los índices de movilidad son semejantes a los que han alcanzado múltiples países que sí ejercieron acciones de coerción, lo que nos lleva a pensar que no es indispensable hacer acciones de coerción, toques de queda, sanciones administrativas o, peor aún, el uso de la fuerza pública, arrestos, por ejemplo, no es necesario para lograr la persuasión que las personas tomen una actitud solidaria para disminuir los contagios.
+Lo seguiremos haciendo sin medidas de coerción.
+También recordar que para evitar el estigma, la tensión social que implica el identificar como culpables a las personas contagiantes, y esto es un problema histórico de los problemas de salud pública que se ha identificado prácticamente en toda la historia de la humanidad, para evitar eso también técnicamente definimos que la entidad responsable de reducir la congregación de personas en el espacio público no son las personas mismas y por eso no son sujetas las personas mismas de actos de coerción, son las actividades que facilitan o estimulan que las personas se congreguen en el espacio público.
+Hay tres razones fundamentales por las que las personas salen de casa y se congregan: trabajo, educación y recreación.
+La recreación desde luego es un conjunto muy amplio, desde actividades de formación cultural, esparcimiento, formación espiritual, etcétera. Entonces, de estos tres grupos, la educación se controló por el cierre temporal de todo el sistema educativo mediante una disposición administrativa de la propia Secretaría de Educación Pública, y permanecen cerrada las escuelas.
+Los trabajos, el sujeto obligado de los trabajos del cierre temporal de las actividades no esenciales, que son las empresas, pequeñas, medianas, grandes, esto es una disposición legal que fue publicada con el acuerdo de la Jornada Nacional de Sana Distancia; posteriormente pasó a la modalidad estatal, y los sujetos obligados, insisto, no son personas físicas, sino personas morales, las empresas.
+Y finalmente los espacios recreativos también se regulan su uso por acciones administrativas de diversa naturaleza; por ejemplo, los parques son responsabilidad municipal, entonces, los municipios tienen que establecer disposiciones administrativas para que los parques permanezcan cerrados.
+Las Iglesias, por su parte, son administradas por la autoridad eclesiástica, por la jerarquía eclesiástica, y a través del diálogo, hemos tenido una excelente colaboración de las Iglesias, no solamente la Iglesia católica, sino muchas otras iglesias.
+Entonces, esto es lo que hemos hecho, en síntesis, en la parte de salud pública durante 2020.
+El segundo componente mayor es la reconversión hospitalaria. El objetivo ahí es tener siempre disponible un espacio para atender a las personas enfermas.
+Y recordar que el espacio no es solamente el espacio físico, el cuarto y la cama, sino médicas, médicos, enfermeras, enfermeras, y todo el demás personal de salud, equipos, ventiladores mecánicos, bombas de infusión, monitores, insumos, los relajantes musculares, los sedantes, los anestésicos, etcétera.
+Todo esto se ha logrado gracias a no tener limitaciones en el uso de los recursos financieros, se han utilizado en este momento casi 40 mil millones de pesos para este propósito, para toda la reconversión hospitalaria que se estuvo haciendo durante 2020, y un esfuerzo muy coordinado de todas las instituciones del sector salud y también las secretarías de salud estatales, y en todo momento hemos logrado tener disponibilidad hospitalaria.
+Por momentos es un gran reto, como lo estamos viendo ahora mismo con la Ciudad de México, porque llegamos a puntos cercanos a la saturación completa, pero hemos logrado que no se saturen.
+Hoy mismo anunció el gobierno de la Ciudad de México nuevas disposiciones. Una, por ejemplo, fue firmar un contrato con proveedores privados de servicios de salud para lograr tener consultas por personas especialistas a domicilio, le visitarán en su casa profesionales de la salud, especialistas que son privados, pero quien los paga es el gobierno de la Ciudad de México, es una nueva modalidad que implantó la doctora Sheinbaum y su equipo, la doctora López Arellano, etcétera.
+Entonces, todas estas son las intervenciones que ha hecho el Gobierno de México. Y viene 2021, esas intervenciones seguirán vigentes, y cualquier otra modalidad novedosa, creativa, pero además hay vacuna. Entonces, 2021, la diferencia fundamental es la vacuna.
+---
+INTERLOCUTOR
+El acaparamiento de vacunas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El acaparamiento de vacunas. Efectivamente, se conoce que el presidente Andrés Manuel López Obrador fue quien tomó la iniciativa en el mundo y presentó una propuesta de resolución ante la Organización de las Naciones Unidas, ante la Asamblea de Naciones Unidas, que fue llevada por nuestro embajador ahí, el doctor Juan Ramón de la Fuente Ramírez y fue presentado con un enfoque de solicitar que el Sistema de Naciones Unida, la propia organización y sus demás organizaciones afiliadas tomarán las acciones que fueran procedentes para evitar el acaparamiento de los insumos para la salud, en particular de las vacunas.
+Esta resolución se hizo en abril del año pasado, en abril de 2020, cuando no existían las vacunas, pero el presidente López Obrador se anticipó al momento en que existían las vacunas y sospechoso que pasaría lo que desafortunadamente ha ocurrido: los países que tienen recursos financieros, políticos y de otro tipo se anticipan a conseguir vacunas, y obviamente cuando se trata de un bien escaso pues le ganan a países que tienen menos recursos.
+Afortunadamente en buena medida, con base en la resolución que se aceptó casi de manera unánime por la Asamblea de Naciones Unidas, resolución propuesta por el gobierno de México, se establecieron mecanismos solidarios de acceso y distribución de vacunas.
+Uno de estos mecanismos es el mecanismo Covax, la plataforma Covax, en la que la Organización Mundial de la Salud organiza la demanda de vacunas contra el SARS-CoV-2 para prevenir COVID-19 y se organiza también con los laboratorios fabricantes y dueños de las patentes de estas vacunas.
+Y existen reglas de operación de equilibrio de las capacidades y las necesidades de los países. Concretamente los países que tienen mayor ingreso pagan más, pagan prácticamente los costos reales de las vacunas; los países de menor ingreso, México, por ejemplo, está clasificado como un país de ingresos medios altos, pagamos menos; los países de ingresos bajos pagan aún menos y los países de ingresos muy bajos prácticamente no pagan.
+¿Por qué no pagan?
+Porque los demás países subsidiamos el costo de las vacunas para esos países. Un principio básico de solidaridad.
+Y es importantísimo porque -y por esa fue así la visión del presidente López Obrador- en momentos de crisis lo que nos hace más fuertes es estar unidos y ser generosos unos con otros. Es como en un naufragio o en un incendio o en un huracán, si cada quien ve por sí mismo, lo que va a hacer es que los otros pueden estar en un gran riesgo, pero esa persona depende también de los otros.
+Cuando lo vemos en términos de una enfermedad infecciosa, nuestro riesgo de contagiarnos depende de que otros hayan sido contagiados. Entonces, nos conviene que otros no se contagien, nos conviene, a cada quien le hace un bien que otra persona, un prójimo no se contagie.
+Hay quien no lo percibe de esa manera, no se da cuenta que nos conviene que los demás estén bien. Ahorita mismo con el uso de vacunas en el propio país en México, pero está pasando en todos los países empieza esta ansiedad de: ‘Yo quiero mi vacuna, yo quiero, yo, yo’, y las personas tienen esta pulsión, que a veces es desafortunadamente muy humana de quererse proteger a sí mismos, pero la supervivencia depende también de la protección de los demás, porque si a los demás les va mal a uno le va mal, a uno le va mal, entonces hay que atemperar el egoísmo con una buena dotación de generosidad, de solidaridad.
+Si lo vemos a nivel de individuos, teniendo claro que las prioridades de vacunación, el orden en que se va vacunando ha sido analizado con todo cuidado y con toda base científica, y por eso se estableció proteger primero a quienes nos protegen, el personal de salud de primera línea; y también proteger a las personas adultas mayores y después ir protegiendo a todos los demás.
+Regresando al tema de los países, desafortunadamente no siempre se da esta visión solidaria en los gobernantes, este planteamiento que hizo el presidente López Obrador no necesariamente lo compartieron otros o lo compartieron en términos formales, pero en la práctica no lo compartieron.
+---
+INTERLOCUTOR
+(inaudible).
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ya lo tocó en el G20, yo lo pude ver porque tuve el privilegio, le acompañé junto con otros funcionarios en la primera reunión del G20 en abril precisamente, antes de que se presentara la resolución a Naciones Unidas, la primera vez que lo dijo fue en esa reunión del G20.
+El G20, este grupo de los países de ingresos medios y altos, más otros organismos internacionales, y él fue, diría no sólo el primero, sino el único que explícitamente dijo: ‘Necesitamos un mecanismo solidario para que no haya acaparamiento’, desde luego otros gobernantes se pronunciaron con total simpatía al respecto, el presidente Alberto Fernández, por ejemplo, también se pronunció en ese sentido.
+---
+INTERLOCUTOR
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, yo considero que sí, sería muy deseable que la diplomacia internacional retome una y otra vez porque esta es una lección que debería ser aprendida, pero no se aprende con facilidad.
+Recuerdo yo mismo por haberlo vivido desde una responsabilidad técnica, la pandemia de influenza 2009, ocurrió exactamente lo mismo: hubo un acaparamiento de vacunas, los países adinerados tuvieron vacuna, los países de ingresos medios la tuvieron después, y muchos otros, por ejemplo, el continente africano, particularmente la región al sur del Sahara o varios países asiáticos nunca tuvieron el mecanismo de protección.
+Muchas gracias.
+Liliana Noble, de Pulso Saludable, y a ver si nos da tiempo de Natalia y Otilia.
+---
+PREGUNTA
+Gracias. Buenas noches. Liliana Noble, de Pulso Saludable.
+Doctor Alomía, quisiera saber si ya tienen los resultados de estos dos sospechosos de esta nueva variante.
+Y en una segunda pregunta, doctor Gatell, ¿qué pasa con estos individuos que resultaron después de la vacunación, que tienen o, bueno, tuvieron una reacción grave?, ¿le van a completar el esquema de vacunación o ya se perdieron y van a tener que ser protegidos con la inmunidad de rebaño?, ¿qué pasa en esos casos?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto ahorita le contesto.
+Adelante, doctor.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Asumo que se refiere a los casos sospechosos con la nueva variante, ¿verdad? Muy bien.
+Tenemos dos en estudio que habían ya resultado positivos por la vía de prueba COVID-19, es decir, por PCR y que lógicamente el siguiente paso era realizar la secuenciación.
+En el caso de la persona que además lamentablemente perdió la vida en Nuevo León ya tenemos el resultado preliminar de la secuenciación; de hecho, en el trascurso de hace unas horas terminaron de analizar toda la parte del spike, que es donde se presentan las principales mutaciones, se buscó específicamente la mutación más característica de esta nueva variante que es la 1501Y y no se encontró, se volvió a hacer la revisión correspondiente, se buscaron otras mutaciones más, las cuales no fueron encontradas, por lo tanto se descarta.
+Ya podemos fehacientemente decir que a través de la secuenciación de este grupo no se confirma, se descarta que este resultado o este virus pertenezca, haya pertenecido a la nueva variante.
+El caso que salió positivo en Tamaulipas todavía se encuentra en proceso de secuenciación, es una muestra que llegó después, esperemos para ver si el día de mañana podemos tener ya también un resultado.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre quién ha recibido una vacuna, en este caso la vacuna de Pfizer contra el SARS-CoV-2, pero aplica un principio general médico para cualquier otra condición en la que alguien se encuentra alérgico, mayormente de estas 15 personas la manifestación importante fue la alergia. Quien ya se conoce alérgico a un producto y la manifestación de la alergia ha sido grave no debe recibir más ese producto.
+Afortunadamente, en el esquema de la vacuna de Pfizer la primera dosis confiere una protección cercana al 80 por ciento, lo cual es una protección muy buena, la mayoría de las vacunas que usamos en el esquema convencional de la infancia tienen protección o eficacias estimadas entre 75, 78 por ciento; entonces, tener ya protección de 80 por ciento es muy bueno.
+Y dado el balance entre el beneficio de una segunda dosis que posiblemente les llevaría una protección 10 puntos porcentuales arriba, 90 por ciento, respecto al riesgo de que tengan una nueva reacción alérgica, lo cual es altamente probable, desde luego pesa más el riesgo que el beneficio y no deben recibir el resto del esquema.
+---
+INTERLOCUTORA
+Ni de otra.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, no necesariamente, es decir, aquí es muy importante eso, los productos farmacéuticos no son generalizables solamente porque sirvan para el mismo propósito, vacuna versus vacuna, son las generalizaciones que se hacen respecto al riesgo de una alergia, tienen que ver con la molécula, con la composición química del producto.
+En el caso de la vacuna Pfizer-BioNTech como el propio Pfizer lo explicó cuando se presentaron las primeras reacciones alérgicas en el Reino Unido, no es el principio activo, el RNA mensajero del virus el que hace la alergia, esta es una molécula muy poco potencial con muy poco potencial de causar alergia, sino son los componentes que mantienen estable al producto, en particular hay una sustancia que se llama Polietilenglicol que está sí tiene mayor probabilidad de causar alergias.
+---
+INTERLOCUTORA
+¿Cómo se llama?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Polietilenglicol, PEG.
+Nos da tiempo de la última pregunta con Natalia Saldaña y dejamos pendiente a Otilia Carbajal del diario La Razón para mañana.
+---
+PREGUNTA
+Doctor, de estos 40 mil millones de pesos quisiera saber de dónde salen, de dónde se tomaron.
+Y también si tienen contemplado ya un presupuesto para este año por el repunte que estamos viviendo.
+También le quiero preguntar, los efectos de las fiestas decembrinas los estamos viviendo ahorita, vamos a seguir viviendo estos efectos, no sé si tiene ya más o menos estimado hasta cuándo.
+Y rapidísimo, ¿usted había dicho que son 300 mil trabajadores del sector salud en área COVID?, tengo esa duda y quisiera saberlo, porque hay 11 categorías, quería saber si entraban esas 11 categorías.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, bueno, vamos en orden. Sobre el dinero, este se ha anunciado, se ha comentado varias veces, nuestro mecanismo de transferencia de financiamiento para la salud, incluso a lo que se ha invertido en las entidades federativas de remodelaciones, de contrataciones, de insumos lo que están usando los estados, los diversos estados, Tamaulipas, Nuevo León, Jalisco, Chiapas, Oaxaca, en fin, todas las entidades federativas Sonora, Yucatán, Guanajuato, tiene una importante dotación de recursos que provienen de lo que hoy es el Fondo de Salud para el Bienestar, el Fonsabi.
+Administrativamente, este Fonsabi se fue constituyendo formalmente a lo largo del año, pero de origen era lo que se llamaba el Fondo de Protección contra Gastos Catastróficos, es decir, lo que antiguamente el Seguro Popular y que tiene un esquema sumamente restrictivo de uso y un manejo muy poco transparente de los recursos, hoy es el Fonsabi, que tienen un manejo claro y transparente y una capacidad mucho mayor de uso en este tipo de condiciones. El Insabi, el Instituto de Salud para el Bienestar es quien ha estado haciendo estos financiamientos.
+¿Que si seguimos teniendo dinero?
+Sí, se contemplaron las reservas apropiadas, la propia Secretaría de Hacienda tiene varios otros fondos, por ejemplo, los que se están usando para las vacunas. Ya se ha hablado aquí que se estima que la dotación de vacunas que hasta ahorita ha sido mencionado podría estar costando 32 mil millones de pesos.
+Y lo que sea necesario lo ha dicho el presidente López Obrador, también múltiples veces, lo que sea necesario para contender con esta epidemia será invertido, no consideramos que sea un gasto, consideramos que es una inversión importante.
+La segunda y última pregunta.
+---
+INTERLOCUTORA
+Le preguntaba si estamos viendo ya el efecto, continuaremos viendo el efecto de la…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No es tan fácil determinar las relaciones causa-efecto entre conductas sociales y el comportamiento epidémico, porque hay muchas variables que lo determinan, hay mucha heterogeneidad, mucha variabilidad entre locaciones, entre asentamientos humanos o municipios o estados.
+En general, toda esta tendencia al alza que están enfrentando los países, sobre todo del hemisferio norte, es parte de lo que ya habíamos predicho desde el inicio de la epidemia, espero que todavía lo recuerden, cuando dijimos preparemos para una epidemia larga, ¿se acuerdan que lo dijimos muchas veces? Ahorita, al inicio de 2021 retomamos sobre esa idea, nos teníamos que haber preparado, como lo hicimos, para una epidemia larga.
+Y lo otro que dijimos fue: La epidemia se proyectará desde febrero, cuando empezó, hasta al menos octubre y llegado octubre empezaremos a ver un repunte. ¿Se acuerda que lo mencionamos?
+¿Por qué razón sabíamos que iba a comportarse así?
+Por la experiencia de la influenza, la influenza tiene este comportamiento estacional, todos los años para el hemisferio norte entre octubre y marzo, para el hemisferio sur entre abril y septiembre, aumenta la cantidad de casos, junto con la influenza, de múltiples otras infecciones respiratorias, que se transmiten por la misma manera que el COVID a través de las secreciones respiratorias.
+El comportamiento diverso, calendarios diversos, tiempos diversos entre las entidades federativas es propio de los países geográficamente extensos, y sabemos que las zonas urbanas grandes y altamente densas son las que son de más difícil control.
+En este momento la Ciudad de México, pero ya está también el reto en Guadalajara, en la zona metropolitana, en Nuevo León y la zona metropolitana, y en varias otras ciudades de tamaños no tan grandes, pero que también, por tener concentraciones poblacionales, tienen eficiencia en la transmisión.
+---
+INTERLOCUTORA
+Le preguntaba si dentro de las 11 categorías…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, entran en las 11 categorías, exactamente.
+Pues muchas gracias, son las 20:00 horas. Mañana empezamos con Otilia Carbajal, si nos acompaña, y seguimos al pendiente, seguimos vacunando.
+Muchas gracias.

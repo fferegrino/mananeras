@@ -3,12 +3,14 @@ Presidencia de la República
 13 de marzo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Hoy es viernes 13 de marzo de 2020, son las 19:01 horas y vamos a iniciar la conferencia de prensa diaria sobre la situación epidemiológica del nuevo coronavirus 2019, COVID-2019.
 Como siempre, vamos a iniciar con el informe diario de la situación epidemiológica en el mundo y la situación específica de México. Hoy daremos algunos detalles que son relevantes sobre entender qué es lo que está pasando en términos de la dinámica de transmisión.
 En segundo lugar vamos a comentar los hallazgos, las situaciones que nos llevan a tomar ya los pasos siguientes que habíamos programado y que anunciamos esta misma mañana respecto a estas medidas de sana distancia que hemos venido explicando desde hace varios días y que estaba programado que en su momento, de acuerdo a las distintas señales epidemiológicas, se iban a tomar decisiones en este escalamiento planeado para que sea un escalamiento ordenado de las medidas preventivas, algunas las comentamos esta misma mañana y ahorita las detallaré.
 Y después pasaremos a preguntas y respuestas, por supuesto para aclarar cualquier inquietud que haya al respecto.
 Le pido al doctor Alomía si comienza.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Claro que sí. Con su permiso, señor subsecretario.
 El panorama internacional el día de hoy, como ustedes pueden ver, ya estamos superando los 132 mil, casi acercándonos a los 133 mil casos confirmados. Lo importante en todo caso a resaltar sería que, de los siete mil 499 casos nuevos que se confirmaron en las últimas 24 horas, el 80 por ciento de los casos nuevos son en el continente europeo, lo cual nos sigue demostrando, nos sigue evidenciando que es en el continente europeo y en los principales países que conocemos, España, Italia, Francia, en donde se está llevando en este momento la mayor actividad de transmisión y, por lo tanto, la mayor carga de enfermedad.
 En nuestra región, en las Américas, en las últimas 24 horas, la carga de enfermedad es sólo del cinco por ciento, es decir, el cinco por ciento de todos los casos nuevos confirmados está distribuido en toda la región de las Américas y, como también ya sabemos, la mayor carga de la región se la lleva Estados Unidos de América.
 En estas últimas 24 horas se han sumado cinco nuevos países, entre ellos destacamos el que está en nuestra región, que sería precisamente Cuba, con lo que entonces a la actualidad tenemos 123 países con al menos un caso confirmado y muchos de ellos, como ustedes lo han visto en los panoramas, ya en fase tres o en fase epidémica, que ya es una alta dispersión y transmisión de la enfermedad.
@@ -21,6 +23,7 @@ Por lo tanto, de esos 10 tienen que pasar a protocolo de estudio. Ya sabemos que
 Esa es la información de ambos panoramas hasta el momento.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Muy bien, pues esta es la situación.
 Y quisiera comentar el análisis o la reflexión que hacemos de la situación epidemiológica de hoy, lo que revela nuestro informe diario de esta vigilancia activa que hemos mantenido desde enero, cuando a mitad de enero adquirimos o desarrollamos, de hecho, la prueba de diagnóstico y pocos días después incorporamos la prueba que posteriormente presentó la Organización Mundial de la Salud.
 A lo largo de todo este tiempo hemos estado considerando… Quiero retomar aquí un poco sobre la lógica para que veamos en secuencia los momentos que hemos explicado todos los días, pero para explicar los siguientes elementos de escalamiento.
 A lo largo de todo este tiempo, hemos identificado que, de acuerdo a las distintas recomendaciones internacionales y que hacía el Comité de Emergencia de la Organización Mundial de la Salud aun antes del momento en que declaró el estado de emergencia de salud pública de interés internacional, se había enfatizado todo este primer elemento de contención que México adquirió también desde el inicio, que consiste en la identificación de casos sospechosos, su diagnóstico por laboratorio, su aislamiento y el estudio de los contactos.
@@ -98,6 +101,7 @@ Aquí cierro y vamos a pasar a preguntas y respuestas. Vamos a ir con tres mujer
 Por favor, Aracely, si quieren empezamos de allá, Itzel.
 ---
 PREGUNTA
+Gracias, subsecretario.
 Preguntarle: ¿Entonces se aplican las medidas de la fase dos sin que estemos en la fase dos?
 Preguntarle también, a la luz de lo que anunció el presidente de Estados Unidos de emergencia nacional ¿qué características tendrían que darse aquí en este país para que se decretará una emergencia nacional?
 Preguntarle también ¿cuál es el método de reporte que están utilizando los hospitales privados? ¿de qué manera ellos reportan?, porque si mal no recuerdo en una conferencia sólo invitaban a los hospitales privados a realizar sus reportes de COVID-19. ¿De qué manera ellos están reportando?
@@ -105,6 +109,7 @@ Y preguntarle sobre… En la tabla se manejan los de Querétaro, uno de ellos es
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por las preguntas sumamente útiles para entender la situación. Me voy de atrás para delante.
 Efectivamente, el caso más recientemente anunciando que está en Querétaro es un contacto directo del caso que ya se había anunciado en el propio Querétaro.
 No es ya un caso, o sea, sí es, estrictamente es un caso que no se infectó fuera del país, esto se conoce técnicamente como caso asociado a importación, pero sigue correspondiendo al escenario uno.
 Como se puede ver en la tabla… Si me pudieran poner la tabla, por favor. Perdón eso no está en la tabla, está en donde describimos los escenarios.
@@ -115,7 +120,23 @@ La respuesta es sí, aunque no todas en bloque ni tampoco, y esto quiero enfatiz
 Esa sí es generalizada en todo el país, pero otras consideraciones como los eventos de concentración masiva tal como lo hemos programado se deben adecuar a la dinámica de transmisión de cada territorio, en este caso cada estado.
 Otra.
 ---
+INTERLOCUTORA
+Emergencia nacional y hospitales privados.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En hospitales privados están obligados todos los proveedores de servicio de salud, tanto de atención como de diagnóstico, el uso, el término de la Ley General de Salud, todos los establecimientos de salud que son hospitales, enfermerías, consultorios, laboratorios de diagnóstico, están obligados por la Ley General de Salud a cumplir con la notificación de las enfermedades de interés epidemiológico; y la Norma Oficial Mexicana 017 para la vigilancia epidemiológica específica los detalles de cómo son los procedimientos de notificación.
+---
+INTERLOCUTOR
+A la Cofepris.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A la Dirección General de Epidemiología, que es la cabeza del Sistema Nacional de Vigilancia Epidemiológica, y su director, que es el doctor Alomía.
+---
+INTERLOCUTORA
+¿Tienen las pruebas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ahora voy a eso.
 Entonces, hemos tenido una muy buena colaboración de varios grupos hospitalarios y varios grupos de laboratorio, es decir, compañías de laboratorios, corporaciones de diagnóstico por laboratorio. El doctor Gustavo Reyes Terán, coordinador de los Institutos Nacionales de Salud, aquí a mi derecha, hemos tenido el privilegio de que él ha coordinado precisamente la relación con todas estas entidades de laboratorios privados, y hemos logrado de manera organizada transferir las capacidades diagnósticas, incluyendo a los laboratorios privados.
 Es decir, específico lo que hemos venido señalando, desde el principio hemos tenido la intención y el plan de transferir las capacidades de diagnóstico conforme vayan apareciendo servicios que son competentes técnicamente.
 Entonces, el criterio para autorizar o liberar o técnicamente reconocer la competencia técnica de un laboratorio público, social o privado para el diagnóstico del nuevo coronavirus, depende de que, quien lo desee hacer, cumpla con los criterios técnicos que establece el Indre, el Instituto de Diagnóstico y Referencia Epidemiológicos.
@@ -128,13 +149,21 @@ En México no tiene repercusión alguna, otros países, libres y soberanos en su
 Entonces, tengamos muy claro que cada país evalúa su situación y evalúa las formas más efectivas de responder a la epidemia.
 ¿La última?
 ---
+INTERLOCUTORA
+Eran todas. Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Eran todas. Ahora sí, Melina e Itzel. Vámonos más rapidito.
+---
 PREGUNTA
+Hoy la Organización Mundial de la Salud pide a los países adoptar un enfoque integral frente al coronavirus, no sólo las pruebas de detección, rastreo de contactos, cuarentena, distanciamiento social, dice: ‘háganlo todo’.
 ¿México está cumpliendo con este enfoque que pide justamente la OMS?
 Y, por otro lado, dudas sobre los que ya fueron dados de alta. ¿Ellos llevaron algún procedimiento o forma de curación, aunque no hay un tratamiento como tal? ¿cómo fueron tratados estas personas, estas primeras personas que fueron dadas de alta?
 ¿Y hay algún escenario en el que prevé el apoyo de los militares, como el Plan DN-III en momentos de desastre, pero en este caso para una probable emergencia de salud?
 Por último, ¿ustedes tienen registro de casos confirmados en el hospital ABC de Observatorio, el hospital privado? Hablan de nueve personas positivas a COVID-19.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, respondo la uno y la tres, y la última del ABC se la dejamos al doctor Alomía y la del proceso de curación se la dejamos al doctor Reyes Terán.
 La situación que enfrenta México la contemplamos desde el inicio, lo hemos dicho muchas veces.
 En el momento en que había 44 casos de infección por un agente bilógico desconocido en Wuhan, China, y que esos 44 casos estaban asociados con un mercado, desde ese temprano momento para nosotros significó una alerta temprana de salud pública y eso es lo que nos llevó a, desde el 3 de enero, empezar a reflexionar sobre este asunto.
 Hemos sido muy afortunados de no ser el sitio de inicio de la epidemia, como sí lo fuimos en 2009 con influenza H1N1. Eso hace mucha diferencia porque nos ha permitido prepararnos, activar los distintos mecanismos institucionales, no sólo del sector salud, sino fuera del sector salud en las demás entidades; nos ha permitido coordinarnos en los tres órdenes de gobierno y nos ha permitido establecer un plan técnico cuidadosamente calculado para cubrir todos los elementos que requiere el manejo de una epidemia en una forma integral.
@@ -143,34 +172,78 @@ Gruesamente estos tres documentos cubren de manera integral todo el conjunto de 
 Vámonos más rapidito y les pido si pueden comentar sobre los ABC y sobre los egresos.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Rápidamente, del hospital ABC, tenemos un caso confirmado ya ratificado por el Indre.
 Es importante confirmar que en la máscara de captura entran todos los casos desde que son sospechosos. Entonces, otros casos más del ABC pudieran estar entre el grupo de sospechosos que está aún pendiente de resultados.
 ---
 GUSTAVO REYES TERÁN, TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
+Sobre el alta y el tratamiento, no hay un tratamiento específico para este virus nuevo, no existe un tratamiento farmacológico, hay intervenciones no farmacológicas, que son las de salud pública y que son las fundamentales para poder controlar, no solamente a una infección en una persona, sino a toda la comunidad.
 Pero el tiempo de habitual o promedio de la duración de un cuadro clínico, recordemos también que la gran mayoría de los pacientes que hemos tenido, excepto uno, yo diría el 100 por ciento ha sido pacientes ambulatorios, con enfermedad leve o moderada, el de enfermedad moderada se quedó solamente un par de días, un poco más, tres días, en el instituto que lo hospitalizó.
 Y los que han cumplido el tiempo de cuarentena, que es de 14 días, pueden hacer su vida cotidiana. En concreto, la infección se resuelve por el propio sistema inmune que actúa contra el virus, generalmente actúa muy prontamente, los anticuerpos dirigidos contra el virus se elevan de entre los días seis a 10, y coincide con el tiempo de resolución en la gran mayoría de los casos que es como del 80 por ciento, más o menos.
 ---
+INTERLOCUTORA
+¿No hay más casos, entonces?
+---
 GUSTAVO REYES TERÁN
+No, hasta este momento no hay.
+---
+PREGUNTA
+Lo del Ejército mexicano.
+---
+INTERLOCUTORA
+¿Pero no se les ha dado tratamiento para que los que ya se dieron de alta, perdón?
+---
+GUSTAVO REYES TERÁN
+¿Perdón?
+---
+INTERLOCUTORA
+¿Se les dado algún tratamiento?, ¿algún antiviral?
+---
+GUSTAVO REYES TERÁN
+No, no existe tratamiento antiviral. Hay medicamentos que lo dije en alguna sesión que se asume que podrían tener una acción antiviral, porque se ha estudiado a nivel de laboratorio, pero no se ha estudiado a nivel del experimento en humanos, que es el proceso, el estudio, se llama ensayos clínicos controlados que determina si un medicamento eficaz o no.
 Se ha dado empíricamente en algunos países, pero la verdad hasta este momento no se sabe si son eficaces o no son eficaces.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Sobre la Guardia Nacional o el Ejército o las Fuerzas Armadas, la respuesta es no.
 Y volvemos a lo que hemos dicho también todos los días, y acabo de decir, cada país acude a los mecanismos que consideran necesarios. En México está previsto en forma, por las leyes, cuál es el ámbito de competencia de la autoridad sanitaria, la autoridad sanitaria se compone del presidente de la República en primer lugar, el Consejo de Salubridad General, el secretario de Salud y los gobiernos estatales. Entonces, esas son las autoridades que toman las decisiones de lo que se hace.
 Operativamente para una emergencia sanitaria en su gran mayoría de retos, de elementos a atender no se requiere la participación de las Fuerza Armadas. Esa es la respuesta.
 Vamos a dar la última, nos quedan tres minutos, me dicen ahí, una pregunta corta.
 ---
 PREGUNTA
+Doctor, si nos puede explicar, por favor, cuántos casos hay confirmados en otros hospitales privados.
 Y quiero preguntar, aunque están diciendo que van a ir anunciando las medidas en los próximos días, de las medidas que tenemos en el escenario dos, ¿cuáles sí se pueden poner?, por ejemplo, ¿los filtros escolares?, ¿ya no podemos hacer ahora sí saludos ni abrazos?
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Para no perder precisión, lo que anuncié detalladamente ahorita son las medidas que se implantan ahorita, no entremos en deliberación sobre los filtros escolares y demás, expliqué que mañana se reúne el Consejo Nacional Educativo y ahí se comentará, se deliberará, se resolverá y se anunciarán las medidas pertinentes.
+---
+INTERLOCUTORA
+Sobre los hospitales privados.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hospitales privados.
+---
+PREGUNTA
+Sólo para concluir el tema de los hospitales privados, usted decía que ya algunos estaban cumpliendo con las competencias y yo tenía entendido que se iba a dar una certificación de Cofepris.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, entendió mal, entendió mal, no se trata de certificación y no se trata de Cofepris, se trata de reconocimiento de competencia técnica y esto lo hace el Instituto de Diagnóstico y Referencia Epidemiológicos, Indre, que depende de la Dirección General de Epidemiología, y le pido al doctor Alomía que nos comente cuántas son las entidades privadas que pudieran estar ya en esa condición.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Precisamente el día de hoy se llevó a cabo una actualización con las entidades privadas, tanto hospitales que manejan laboratorios, así también como empresas que manejan servicios de diagnósticos, algunas de ellas inclusive a nivel nacional.
 Fueron 16 los participantes el día de hoy, en una segunda reunión ya -hubo una primera, una segunda- y precisamente en esta segunda reunión se les planteó ya a todos los criterios específicos que en su momento tendrán que ir cumpliendo para que la liberación o el reconocimiento a su calidad técnica pueda, en su momento liberar ya la muestra.
 Sin embargo, hay que comentar que el Indre como rector del tema diagnóstico está en permanente comunicación con todos estos hospitales y empresas que se dedican al diagnóstico y entonces ellos comparten, por las vías digitales los resultados, estos marcos analíticos especializados generan imágenes computarizadas que en su momento se pueden compartir directamente vía correo electrónico y el personal técnico del Indre ya no necesita o necesariamente solicitar que la muestra vaya hasta el Indre, sino que a través de la revisión de estos resultados computarizados pueden inmediatamente decir y validar el resultado.
 Lógicamente si al ver este resultado, esta imagen ellos detectan que pudiera haber alguna variación o algún dato que pone en duda el resultado, entonces sí mandarán pedir la muestra para volverla a procesar, ahora sí, en el Indre, 16.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+última pregunta, la compañera allá atrás, última pregunta. Nos quedan dos minutos.
+---
 PREGUNTA
+La cuestión de la telemedicina, como son muchos pacientes y la mayoría, ustedes mencionan que tienen síntomas leves, si aquí pudiera entrar esta parte de las consultas a través de la telemedicina, si es que la mayoría tiene síntomas leves. Uno.
 Dos, si se está analizando esta parte en otros países, ya hay en reportes en revistas científicas el cómo se está documentando el transcurso de la enfermedad, el curso de la enfermedad en los pacientes por nacionalidad.
 Entonces, si habría esto, también en algún reporte médico en el perfil mexicano, en el genoma mexicano cómo está funcionando este virus y si esto se podría trasladar a un big data.
 Y la siguiente pregunta, ya la última es si los hospitales privados, si uno puede ir a un hospital privado y pagar una prueba diagnóstica y ahí se podría hacer.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Abordemos la última la otra se la respondo de manera muy rápida.
 Tenemos desde el principio un grupo de investigación científica que coordina el doctor Reyes Terán y que participa activamente el Conacyt, todos los distintos que sean relevantes se irán anunciando.
 Le respondo la última, porque es muy importante -a la misma compañera- en este momento en que se está liberando el diagnóstico hacia entidades privadas, eso lo dijimos hace semanas, es de especial interés que no ocurra una situación en la que se abuse de la actividad comercial que representa el diagnóstico.
 Una prueba de esta naturaleza en promedio cuesta dos mil 300 pesos su costo de producción, ese es su costo de producción. Es entendible que una corporación privada haya un margen de ganancia; sin embargo, obviamente con respecto al precio real habría que considerar cuanto es un precio razonable.
@@ -178,20 +251,66 @@ Cada entidad privada tiene derecho de hacerlo, existen también los mecanismos, 
 Aquí la dejamos, se acabó, se acabó el tiempo ¿verdad?
 Muchas gracias.
 ---
+PREGUNTA
+El tema de los hospitales me parece que es gravísimo, porque hoy el ABC está confirmando nueve casos.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ya se anunciaron.
+---
+INTERLOCUTOR
+Pero ellos están diciendo que tienen los casos. ¿Cuáles son los protocolos realmente?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Ya no tenemos transmisión o sí?
+---
+INTERLOCUTOR
+Por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Fuera de transmisión, ya no hay.
+---
+PREGUNTA
+Es que es internet.
+---
+PREGUNTA
+Doctor, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con calma, con calma.
 No hay nada gravísimo, no use esas palabras porque exalta la atención pública. Por favor, sensatez, responsabilidad. Diga.
 ---
 INTERLOCUTOR
+Gracias, gracias. Qué amable.
 Sí insistir en el tema de los hospitales públicos porque el ABC, el doctor Francisco Moreno, el responsable de epidemiología del ABC, confirmó ya en entrevista a medios de comunicación nueve casos solamente en su hospital.
 Quiero saber entonces: ¿cuáles son los protocolos?, ¿les está informando realmente al Indre?, ¿por qué un hospital privado dice: ‘sí, sí tengo casos de COVID-19’, y ustedes lo reportan como sospechosos?
 Me queda claro que la autoridad son ustedes, pero ¿por qué está ocurriendo este vacío de información ya con los hospitales privados?
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo acaba de explicar el doctor Alomía, pero con gusto se vuelve a explicar.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+De hecho, es un tema que hemos estado comentando en muchas de las conferencias previas. Nosotros tenemos una hora de corte para producir el comunicado técnico diario, lo que está sucediendo con este hospital privado en particular es lo que está sucediendo con todos los estados, con todos los laboratorios estatales.
 Todos los estados pueden confirmar casos después de la hora de corte, inclusive hay estados que han salido a la par de esta conferencia, o que han salido en la tarde o en la mañana a declarar sus casos. Entonces, no hay ningún problema que los casos que se van confirmando puedan ser en su momento declarados, cuando vayamos al siguiente corte 24 horas después, todos estos casos nuevamente actualizados.
 ---
+PREGUNTA
+Preguntarle que, en el caso específico de este repunte, como usted bien mencionaba, ¿no se está minimizando?, porque estamos hablando más de doble de lo que repunta, del 11 a 26.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Así es.
+---
+INTERLOCUTOR
+Por eso, ¿no se está minimizando la preocupación?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A ver, no entremos en especulaciones, los números son los números. Si yo estoy diciendo que hay tres veces más de la circunstancia anterior donde teníamos el mayor acumulo de casos… Y si usted me dice: ¿están minimizando porque es una duplicación?, yo le digo: no, no son dos veces más, son tres veces más, ¿sí?
 Y es lo que hemos estado esperando desde enero, es el comportamiento natural de una epidemia. Entonces, en todo momento es importante no perder de vista lo que llevamos semanas explicando diariamente.
 Les pido con todo respeto, con absoluto respeto a su actividad periodística, que mantengan atención de lo que va ocurriendo día con día, esto ayuda mucho, porque la ciudadanía depende de ustedes, la información proviene de ustedes. Tenemos la oportunidad de verla de manera directa, pero es muy importante que ustedes mantengan la historia día con día.
 Y, por favor, es un favor, absténganse de usar calificativos que no corresponden a una situación de salud y que de usarlos pueden confundir la interpretación del evento de salud, por favor.
 Última pregunta ahora sí. ¿Ya no nos da tiempo? Ya se acabó la transmisión.
 Gracias.
+---
+PREGUNTA
+Sólo quería saber si estos nueve casos serían adicionales a…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana estarán en el reporte aquellos que sean verificados por el Indre.

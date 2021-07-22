@@ -1,0 +1,270 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+28 de abril de 2021
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Son las 19 horas con un minuto de este miércoles 28 de abril del 2021. Desde el Palacio Nacional de México, en la Ciudad de México, vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
+Hoy tenemos como información general el curso que guarda la pandemia, recordando, como lo comentamos esta mañana, que llevamos 14 semanas de reducción de los distintos indicadores de actividad de la epidemia, es decir, la epidemia va a la baja ya desde hace más de tres meses, prácticamente en todo el país.
+En algunas entidades federativas, como lo hemos estado comentando, de repente hay aumentos en la cantidad de casos, en la cantidad de personas enfermas, personas que se hospitalizan y afortunadamente hemos visto una repuesta muy oportuna de las autoridades estatales, como fue el caso de Chihuahua, que cuando tuvo un repunte hizo algunos ajustes en las intervenciones de salud pública que corresponden a la autoridad sanitaria estatal y vimos en poco tiempo un cambio de tendencia, una reducción de los casos de enfermedad.
+Y esto es muy alentador, pero, como hemos dicho una y otra vez, no debemos asumir que se acabó la epidemia, todavía no se acaba, en el mundo entero sigue existiendo la epidemia y en tanto exista en otras partes del mundo cada uno de los países tiene una condición de susceptibilidad para que pudiera reactivarse la epidemia.
+Lo que podemos decir es que hasta el momento llevamos 14 semanas, tres meses y medio en reducción de la epidemia.
+Y, por el otro lado, que seguimos avanzando con la vacunación, ya tenemos prácticamente el 10 por ciento de la población mexicana cubierta, vacunada y eso también es un elemento que contribuye a que reduzca la epidemia.
+Esa es la idea general, vamos a presentar el informe técnico a cargo del doctor Alomía, yo presentaré el informe del avance de la vacunación.
+Hoy tenemos a un invitado que apreciamos mucho, le llamaremos especial, como siempre la llamamos, pero es parte de nuestro grupo del sector Salud, fue por varios años el director de Prestaciones Médicas del Instituto Mexicano del Seguro Social, fue el coordinador de Vigilancia Epidemiológica y Respuesta a Contingencias, fue el creador de la Red de Laboratorios de Vigilancia Epidemiológica del Instituto Mexicano del Seguro Social, fue director de Salud Ocupacional en ese instituto y es un brillante epidemiólogo, médico cirujano y un colega excepcional, y hoy tenemos el privilegio de que es el coordinador médico general del Instituto de Salud para el Bienestar y hoy nos acompaña el doctor Víctor Hugo Borja Aburto para comentarnos sobre los resultados de un trabajo muy importante que realizó él y su equipo en el Seguro Social, que es una estimación de la seroprevalencia de COVID-19 o de SARS-CoV-2.
+¿Qué quiere decir seroprevalencia?
+Cuántas personas o qué proporción de las personas que se detectan en México tienen ya anticuerpos contra el virus SARS-CoV-2 y esta es información clave; desde luego, complementa otros esfuerzos semejantes como el de la Encuesta Nacional de Salud y Nutrición, pero el doctor Borja nos explicará los detalles del estudio que condujo con su equipo. Bienvenido, Víctor Hugo, qué gusto que estás aquí.
+Vamos entonces a pasar en ese orden. Le pido al doctor Alomía si presenta, después presento la vacunación, escuchamos al doctor Borja y abrimos a preguntas y comentarios.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto. Con su permiso, señor subsecretario. Doctor Víctor Hugo Borja, bienvenido.
+Muy buenas noches también a todas y todos los presentes y a todas las personas que nos hacen el favor de sintonizarnos en esta conferencia de prensa.
+Como pueden ustedes ver en nuestra curva epidémica, la de color azul, en la parte superior están distribuidas más de 2.5 millones de personas que hasta el momento han sido clasificadas como casos ya estimados de COVID-19.
+Esta curva precisamente lo que nos permite es ver el comportamiento de la epidemia desde su inicio, pero, más importante, lo que ha ocurrido en últimas semanas.
+Como podemos ver, la reducción que se presenta entre la semana 14 y 15 con la que abrimos el gráfico semanal se mantiene, para el día de hoy es de un menos 19 por ciento y con ese número sigue siendo, para ser ombligo de semana hoy día miércoles, una reducción importante, que de seguro mantendrá la misma cuando cerremos la semana número 15.
+Menos del uno por ciento los casos activos y obviamente eso se explica por la reducción importante que hemos tenido de la carga de enfermedad de personas con COVID-19 en las últimas semanas, lo cual ratifica también que estamos teniendo obviamente una intensidad epidémica baja concordante con esta disminución de 14 semanas que previamente ya se mencionaba.
+Es importante recordarle a la población que la COVID-19 puede producir complicaciones importantes en la evolución clínica de las personas, sobre todo cuando éstas tienen alguna comorbilidad o un factor de riesgo que facilita este tipo de complicaciones y lamentablemente, a consecuencia de las mismas, las personas pueden fallecer de COVID-19.
+Y esta ocurrencia o este impacto en la población es precisamente el que se quiere evitar y ahora controlar con la vacuna. Por un lado, lamentablemente tenemos 215 mil 918 personas que han fallecido a consecuencia de estas complicaciones, pero, sin embargo, por otro lado, tenemos ya más de seis millones 390 mil personas que, al tener esquemas completos de vacunación, pues obviamente tenemos toda la expectativa que ya no tengan que pasar por un cuadro grave de COVID y por lo tanto tampoco tengan que fallecer a consecuencia de la enfermedad.
+Si vemos la siguiente diapositiva, vemos nuevamente la actualización del comportamiento hospitalario diario. Podemos ver esta reducción importante que se mantiene en los últimos días y que se ha presentado desde inicios de este año con la reducción de la carga de enfermedad; menos 78 por ciento la reducción acumulada desde que esta inició prácticamente a mediados de enero. Y como vemos, la tendencia descendente se mantiene aún en últimos días.
+Vamos a ver cómo está distribuida por camas generales y camas con ventilador. En la siguiente diapositiva vemos el primer grupo de ellos, que son las camas generales, 13 por ciento de ocupación nacional, es de las ocupaciones más bajas, se ha mantenido esta por varios días en la última semana y esto a su vez permite que todas las entidades federativas tengan menos del 30 por ciento de ocupación de este tipo de camas, lo cual nos deja más de 27 mil camas disponibles de este tipo en todo el territorio nacional.
+Si vemos la siguiente diapositiva, tenemos una disminución de un punto porcentual para efectos de la ocupación nacional de camas con ventilador, está en 18 por ciento, esta también es una reducción importante para este tipo de camas, encontrándose sólo dos entidades federativas, que además han sido las mismas entidades en las últimas semanas que han mantenido esta condición en un rango entre un 30 y un 49 por ciento de ocupación; de hecho, están más pegadas al rango del 30 por ciento en sí.
+Y 30 entidades, la gran mayoría en México tienen menos del 30 por ciento de ocupación de sus camas con ventilador, lo cual el día de hoy, por ejemplo, deja más de nueve mil camas con ventilador que están disponibles y listas para atender a las personas que presentan justo las mayores complicaciones y que a través de esta atención especializada se contribuye obviamente también a combatir y disminuir la letalidad y la mortalidad que la COVID-19 produce en el país.
+Vemos una siguiente diapositiva, hoy día es miércoles, toca actualizar precisamente el informe de la vigilancia genómica a través del cual se está monitoreando e identificando la circulación de nuevas mutaciones y sobre todo nuevas variantes enfocadas sobre todo aquellas que son de preocupación o de interés, una clasificación que emite y otorga la Organización Mundial de la Salud en función precisamente de la vigilancia y la expectativa que se tiene de las mismas en el nivel internacional, es decir, en el contexto de la pandemia.
+El cuadro es similar al que hemos ya presentado en ocasiones anteriores, es solamente su actualización, pero rápidamente lo repasamos.
+En las primeras columnas vamos a encontrar las tres variantes de preocupación, así se han denominado a nivel internacional.
+Primero, la B.1.1.7, que fue esta variante que en su momento fue identificada de manera importante en el Reino Unido, específicamente en Inglaterra.
+La B.1.351, que es esta variante que en su momento se identificó también de manera importante en Sudáfrica.
+Y, finalmente, la variante P.1, que es una variante que en su momento también se identificó primeramente en el país de Brasil.
+Podemos ver las mutaciones que caracterizan a cada una de ellas y un dato importante, el número de países donde hasta este momento se han identificado la presencia y, por lo tanto, la circulación ya de estas variantes, es decir, más allá que en un momento se identificaron asociadas a una circulación importante en un país, para el día de hoy, por ejemplo, para la primera variante ya son 132 los países que en su momento la han identificado; en el caso de la segunda, 82; en el caso de la tercera, 52 países.
+Podemos ver entonces que la distribución obviamente de estas variantes, circulación e importación de las mismas continúa también a nivel mundial.
+Para efectos ya de las detecciones que se han realizado en México tenemos 74 identificaciones de la primera, tres de la segunda y 16 de la tercera. Y me detengo rápidamente en la del medio, que es precisamente esta variante en su momento, decíamos, fue identificada en Sudáfrica, en donde el día de ayer precisamente se realizan las primeras identificaciones de esta variante en el territorio mexicano con tres aislamientos correspondientes.
+¿Dónde se encuentran?
+Dos en el estado de Campeche, es de ahí donde surgió la notificación y donde se encuentran también las personas, se encontraron las personas que tenían esta variante y una que fue notificada por el estado de Sonora, pero por una persona que residía en el estado de Baja California.
+Entonces, es la primera identificación de esta variante ya en México, las otras dos ya las teníamos identificadas en el país, pero obviamente también actualizamos para cada una de las entidades federativas, ustedes van a encontrar la información donde se encuentran obviamente estos aislamientos.
+Tenemos también la tabla de las variantes de interés, les dejamos la información para que ustedes las puedan revisar, son variantes que básicamente se han encontrado circulando primeramente en alguna entidad de los Estados Unidos, las primeras en la Costa Este, en California, las segundas en la Costa Oeste en Nueva York, no están asociadas específicamente a ese lugar, sino que ahí se identificaron por primera vez y pues bueno, también vemos obviamente una circulación como tal en México.
+Entonces, esa sería la actualización hasta este momento.
+---
+HUGO LÓPEZ-GATELL
+Gracias, doctor Alomía.
+Hablemos ahora de vacunación, seguimos vacunando, sigue el programa nacional, sigue la Estrategia Nacional de Vacunación contra el virus SAR-COV 2 para prevenir COVID-19 que empezó el pasado 8 de diciembre de 2020.
+Recordar que este plan ha sido diseñado con el interés de atender un problema de salud pública, esto es sumamente importante tenerlo claro.
+No es lo mismo, una intervención médica, en donde lo que se pretende es prevenir o atender o rehabilitar de la enfermedad a una persona a la vez, que pensar en millones a la vez. Son muy diferentes la medicina y la salud pública, por supuesto son parte de un mismo sistema de ciencias de la salud, del Sistema Nacional de Salud, cuando se habla de la práctica, pero no son lo mismo.
+El objetivo de la estrategia, de la política y de la estrategia operativa de vacunación contra el virus SARS-CoV-2 es un objetivo colectivo, poblacional, de salud pública, se está pensando en la población en su conjunto.
+¿Por qué lo menciono?
+Porque ha habido alguna confusión, considero que de importancia, entre el propósito de esta intervención colectiva y las necesidades de cada una de las personas.
+Es obvio que las poblaciones están hechas de personas en lo individual, también es obvio que el derecho de protección de salud tiene una connotación individual, pero existe jurisprudencia en las resoluciones de la Suprema Corte de Justicia para reconocer de manera explícita dos dimensiones del derecho de protección a la salud: la dimensión individual y la dimensión colectiva.
+El plan o estrategia o política de vacunación contra el virus SARS-CoV-2 para prevenir COVID se enmarca en la noción colectiva del derecho a la protección de la salud.
+En un momento dado cuando estamos vacunando a una población lo que interesa es un beneficio colectivo a través de un mecanismo que es beneficiar con la protección que brinda la vacuna a una persona y a otra y a otra y a otra, pero no son reemplazables, no son sustitutos y es muy importante tener claro que el interés superior es el interés colectivo, es el interés poblacional del conjunto de la población mexicana, del Estado mexicano.
+Y en un momento dado también es importante ver que la priorización que se ha hecho del orden en que se van vacunando a las poblaciones está determinado por ese interés colectivo.
+Si una persona pertenece a una de estas poblaciones explícitamente identificadas, pero no le corresponde vacunarse en un tiempo y lugar dados porque en ese tiempo, en ese momento está en curso una aplicación prioritaria para una población por los objetivos colectivos, entonces la persona tiene que esperar.
+Desde luego es completamente entendible y desde mi punto de vista legítimo que esa persona sienta insatisfacción, pero en todo momento debemos tener claro que el objetivo de vacunar en México contra el virus SARS-CoV-2 que produce un fenómeno colectivo que es la epidemia de COVID el objetivo de prevención es también colectivo.
+Vacunamos ayer hasta las 21:00 horas durante ese día 27 de abril, que es ayer martes, 292 mil 988 personas. Estos datos ya los expusimos públicamente esta mañana cuando tuve la oportunidad de que el presidente López Obrador me convocó para hacer algunas aclaraciones sobre esto.
+Entonces, son los datos que ya vieron parte de la población esta mañana, son los del corte de información hasta ayer.
+Dieciséis millones 985 mil 391, casi 17 millones es la suma de personas que hasta el momento han sido vacunadas con al menos una dosis, son la suma de dosis que han sido utilizadas.
+Y la suma de personas que han recibido una dosis es 12 millones 133 mil 560.
+¿Por qué la discrepancia?
+Porque hay una de las cuatro vacunas que sólo requiere una dosis, por lo tanto, no se puede sólo multiplicar el número de vacunas, el número de personas por dos para llegar al número de vacunas.
+Aquí está desglose, noten ustedes que cada uno de los conjuntos sigue cambiando, los tres están cambiando en la medida en que los tres están activos en el proceso de vacunación.
+Personal de salud de primera línea 970 mil 412, personal educativo 512 mil 138, ya estamos en cinco nuevas entidades federativas a las iniciales, y 10 millones 645 mil 10 personas adultas mayores.
+Aquí también es importante visualizar que la estrategia operativa de la política de vacunación es incluyente.
+¿A qué nos referimos?
+Vacunamos, primero, personas de 60 y más años de edad, pero cuando empezamos a vacunar a personas de 60 y más año de edad siguió activa y sigue activa la vacunación del personal de salud de primera línea.
+Estamos próximos a arrancar la vacunación al personal… A las personas, perdón, a las personas que tienen o tenemos 50 y más años de edad, pero sigue activa la vacunación de personas de 60 y más años de edad, es decir, no se interrumpe, no se les acabó la oportunidad a las personas adultas mayores de 60 años de ser vacunadas.
+Si usted tiene o un familiar suyo tiene 60 o más años de edad y no fue vacunada por la razón que sea, no se atrevió, no quiso, en ese momento no tuvo confianza en la vacuna, no se enteró de que en su localidad se estaba vacunando, no se preocupe, sigue activa la vacunación, sigue activa la vacunación, no ha sido decretada o declarada ya terminada para las personas adultas mayores de 60.
+Lo que sí dijimos el martes y lo decimos con claridad es: conocíamos con antelación cuál era la expectativa de personas o del porcentaje de personas que posiblemente no querrían ser vacunadas, para ese propósito se hicieron encuestas, la Encuesta Nacional de Salud y Nutrición 2020 incluyó la exploración de este fenómeno, cuál era la disposición a ser vacunada, vacunado cuando viniera la vacuna COVID.
+La encuesta se empezó a levantar en agosto de 2020 en antelación al inicio de la vacunación, en antelación a la llegada de las vacunas, ¿por qué?, porque interesaba saber qué expectativas teníamos sobre cuántas personas o qué porcentaje no querrían ser vacunadas en su momento.
+Esto es lo que nos ha permitido trabajar con tranquilidad de decir: sabemos cuántas personas hay en el censo, pero también sabemos cuántas personas posiblemente no van a aceptar la vacuna. Lo deseable es que se aumente hasta el 100 por ciento la cantidad de personas que desean ser vacunadas y que logran ser vacunadas, por eso es que no se cierra la puerta, sigue abierta. Si usted tiene 60 y más años de edad, durante el periodo en que vacunen las personas de 50 en adelante también usted puede ser vacunado.
+Los Esavis, eventos supuestamente asociados a vacunación e inmunización, los presentamos todos los días para que se vaya identificando cómo cambia este número, éstos están actualizados a la fecha vigente de la presentación.
+La buena noticia es: no han cambiado.
+¿En qué sentido no han cambiado?
+Siguen siendo muy infrecuentes, 0.1 por ciento, y más importante que eso, más de 98 o 99 por ciento son casos leves. Leves quiere decir: reacciones que duran uno o pocas horas, desde pocas horas hasta un día, dos días, a veces tres días como la fiebre que es uno de los síntomas que aparece con mayor frecuencia sobre todo en personas en la segunda dosis, pero se resuelve espontáneamente, no deja daño alguno y eso es muy alentador, demuestra ya en la operación que se trata de vacunas seguras además de ser eficaces.
+Hoy recibimos dotación de vacunas. Como decíamos en la mañana esta es una semana de especial interés por la gran cantidad de vacunas que recibimos.
+Ya lo habíamos explicado, Pfizer ha cambiado su ruta de distribución, ya no vendrán de Europa, ahora vendrán de Estados Unidos las vacunas Pfizer-BioNTech que estaremos recibiendo.
+En anticipación a ese cambio que nos podría dejar durante una semana sin abastecimiento, Pfizer tuvo a bien y se lo agradecemos de anticiparnos el envío de las dosis de la próxima semana y esta semana estaremos recibiendo dos millones 10 mil dosis de vacuna Pfizer-BioNTech.
+Hoy fue el primer cargamento, como suele ocurrir los martes, 487 mil 500 dosis. El doctor Pedro Zenteno desde el aeropuerto las recibió esta mañana.
+Aquí está cómo queda la distribución, ya creció el número: 22 millones 598 mil 385 dosis que hemos recibido desde el 23 diciembre de 2020.
+Pfizer, nueve millones 136 mil 725, las demás sin cambios esta semana: cuatro millones 664 500 la de AstraZeneca, cinco millones de la SinoVac, un millón 100 mil la de Sputnik V y dos millones 697 mil 160 la de CanSino. Vemos cómo queda el calendario anticipado para esta semana en recepción de vacunas.
+La siguiente, por favor. Aquí está, lo que aparece en amarillo los embarques ya entregados, mañana recibiremos 585 mil y el viernes 30 de abril, Día del Niño, 938 mil 340 dosis, casi un millón para sumar dos millones 10 mil 840.
+También CanSino, que se fabrica en China, pero se envasa en México, se hará una liberación. Hasta el momento parece muy viable, dado los avances en los estudios que se le hacen a cada uno de los lotes por parte de Cofepris, 488 mil 470 dosis.
+Y, finalmente, para esta semana Sputnik V, la vacuna rusa, recibiremos 300 mil segundas dosis y 500 mil primeras dosis de un nuevo embarque el próximo jueves 29, mañana.
+Y hemos cambiado aquí en este calendario porque por el tiempo de viaje llegarán hasta el lunes 3 de mayo otras 500 mil, que representan un nuevo embarque también de primeras dosis, es decir, un millón de primeras dosis de Sputnik V y 300 mil de segundas dosis, para un total de casi tres millones 300 mil que estaremos recibiendo esta semana.
+Me parece que esta es la última. Y como decíamos en la mañana, esto va a empezar a acelerarse en la medida en que, de acuerdo con los contratos y de acuerdo con las capacidades de producción, empezaremos a incorporar vacunas que están pendientes de ser entregadas.
+Ahora sí, le damos la palabra al doctor Víctor Hugo Borja Aburto, coordinador médico del Instituto de Salud para el Bienestar, adelante, Víctor.
+---
+VÍCTOR HUGO BORJA ABURTO, COORDINADOR MÉDICO DEL INSTITUTO DE SALUD PARA EL BIENESTAR
+Muy buenas tardes a todos. Muchas gracias, doctor Gatell.
+Vamos a presentar un estudio que realizó el Instituto Mexicano del Seguro Social, más específicamente el Laboratorio de Vigilancia Epidemiológica de la Dirección de Prestaciones Médicas, que complementa el Sistema de Vigilancia Epidemiológica del país.
+Las encuestas epidemiológicas realizadas en México complementan este sistema de información, y las decisiones se toman tomando el conjunto de evidencias que se tienen, además de los casos confirmados.
+Este estudio se realizó en el Instituto Mexicano del Seguro Social, fue publicado recientemente la semana pasada, el número especial de COVID-19 en la revista Microorganismos. El doctor Esteban Muñoz Medina y la doctora Concepción Grajales participaron de manera importante en este estudio, junto con el equipo de laboratorio en su conjunto.
+Fue una evaluación de la seroprevalencia, es decir, la proporción de anticuerpos que había circulantes en esos momentos entre el 10 de febrero y el 31 de diciembre del 2020, es decir, hasta la mitad del segundo brote o de la segunda ola; no considera la segunda mitad, que fue a partir del mes de enero, de la segunda ola.
+Es un muestreo no relacionado y anónimo, fue a partir de sueros sobrantes en los bancos de sangre y en laboratorios clínicos de pacientes no relacionados con COVID.
+Se realizó en 34 bancos de sangre y 34 laboratorios clínicos.
+En total fueron 24 mil 273 muestras procesadas de todos los grupos de edad.
+Buscamos dos maneras de investigar los anticuerpos a través de dos pruebas:
+Una fue esta prueba de anticuerpos común, que son IGG a través de una prueba de quimioluminiscencia, es una prueba aprobada por FDA y tiene registro de Cofepris también para la detección de anticuerpos IGG.
+Y otra prueba, que es una prueba subrogada o busca evaluar los anticuerpos neutralizantes. Aunque nosotros generemos anticuerpos, no necesariamente son efectivos en neutralizar el virus si este penetra al organismo. Estos anticuerpos neutralizantes son los que efectivamente podrían neutralizar al virus, para ello, para evaluarlos de manera directa es una prueba compleja, porque se tiene que cultivar el virus y se tiene que poner en contacto con los anticuerpos.
+Sin embargo, hay una manera indirecta y se utilizó esta otra prueba de CLIA aprobada por la FDA para la búsqueda de anticuerpos neutralizantes, es decir, anticuerpos que protegen de la reinfección.
+Entonces, en resumen, nada más para mostrar cuáles son los anticuerpos que buscamos aquí, si nos exponemos al virus después de un tiempo, hay una manera de detectar el virus con un hisopado faríngeo con PCR y también se puede aislar el virus de la tractorespiratorio.
+También hay unos anticuerpos, que son los IGM, que se aumentan en la etapa aguda de la enfermedad, pero hay otros anticuerpos que después de adquirimos la infección aumentan y permanecen en el organismo, que son estos. Esos son los anticuerpos IGG que en la población. Si una habitante del país se infectó durante este periodo y si los anticuerpos duraron al menos seis meses, que es lo que se ha estudiado, los podemos detectar, de tal manera que una prueba de estas ve la probabilidad o la infección acumulada a través del tiempo. No es en ese momento, sino es a través del tiempo.
+La que sigue por favor. ¿Qué es lo que hicimos?
+Bueno, encontramos una seroprevalencia muy baja al principio, en la semana en el mes de febrero, era difícil que estas fueran positivas.
+Las barras verdes son el número de muestras que recibimos y las barras… Perdón, las barras grises son el número de muestras, las barras verdes son los anticuerpos IGG y los… Para cada uno de los IGG neutralizantes que investigamos.
+Como nosotros creímos, y este fue un proyecto aprobado por el Conacyt, los proyectos de investigación tienen una fecha de inicio y de término, la fecha de término que autorizó Conacyt, había sido en este mes, en el mes de septiembre, nosotros redujimos el número de muestras; sin embargo, al ver que comenzó nuevamente la nueva ola pedimos más muestras y estas son las seroprevalencias que encontramos.
+La siguiente por favor. ¿Qué encontramos?
+Encontramos complementando al sistema de vigilancia que hace las pruebas moleculares de los casos sintomáticos, encontramos cuatro casos IGG positivos de antes del 29 de febrero, esto es lo esperado. Cuando encontramos un caso positivo en enfermedades que pueden ser asintomáticas, se espera que previo a eso empiece la circulación del virus.
+Entonces, encontramos estos 54 casos adicionales antes de la declaración de la transmisión comunitaria. Si ustedes recuerdan, hubo una fase en que se declaró la transmisión comunitaria y una diseminación a todo el territorio nacional en cinco semanas por las muestras que fuimos recibiendo a través del tiempo.
+La que sigue por favor. ¿Cuál fue la seroprevalencia acumulada durante todo el periodo al mes de diciembre?
+Encontramos que en el noroeste el 40.7 por ciento de la población ya tenía anticuerpos, es decir, ya había estado en contacto con el virus y desarrollado anticuerpos.
+En el noreste del país el 37 por ciento, el en sureste el 35 por ciento, en el centro el 30 por ciento y en el occidente encontramos la seroprevalencia más baja del 26.6 por ciento.
+Con esos intervalos de confianza, obviamente cuando se hacen muestreos se tienen que calcular los intervalos de confianza.
+¿Esto qué quiere decir?
+Que de la región con mayor número de individuos con IGG positivos a SARS-CoV-2 fue el noroeste del país, identificamos unos casos previos al reporte oficial en México con prueba confirmatoria molecular. Entre las personas con presencia de IGG se encontró una positividad de anticuerpos protectores del 86 por ciento. Esto quiere decir: lo que les decía de los anticuerpos neutralizantes, de los casos que fueron positivos con IGG, el 86 por ciento protegían efectivamente contra el virus, quiere decir que el 13.9 por ciento de los IGG positivos podrían volver a infectarse, y es el caso de las reinfecciones que hemos estado viendo, que son bajas, pero todavía, aunque se tengan algunos anticuerpos generados por la enfermedad, no es una protección completa.
+Esta información complementa, decíamos, el Sistema de Vigilancia Epidemiológica regular. Si ustedes recuerdan, el doctor López-Gatell mencionaba que la Ensanut reportó el 25 por ciento de seroprevalencia, aquí se reporta cerca del 35 por ciento, es el crecimiento entre agosto y diciembre de 10 puntos porcentuales, posiblemente hubiera un crecimiento adicional de 10 puntos porcentuales después de transcurrido diciembre, enero y febrero y hasta marzo, que es cuando disminuyó la segunda ola, pero es la mitad de los casos presentados en esa segunda ola.
+Es importante mencionar que, aunque tenemos este número importante de mexicanos que tienen anticuerpos, nos encontramos todavía lejos de alcanzar la inmunidad de grupo o de rebaño; sin embargo, la podremos alcanzar complementado con el programa de vacunación.
+No necesariamente todos los vacunados son aquellos que no tienen anticuerpos, hay una intersección, no hacemos una prueba anticuerpos para vacunar.
+Sí creemos que muchos de los adultos mayores que hemos vacunado no tienen anticuerpos porque son la población que se encuentra en mayor resguardo o que hemos como sociedad protegido más.
+La medida más importante entonces es continuar con la vacunación para poder alcanzar esa inmunidad de rebaño y no debemos relajar las medidas de higiene. Aunque tengamos una proporción importante de la población con anticuerpos neutralizantes o IGG, el uso de cubrebocas, la higiene de manos y la sana distancia, además de las medidas generales de control de distanciamiento social se debe de mantener hasta que baje el riesgo de una tercera ola, aunque muy posiblemente estos resultados muestren que haya una probabilidad baja, no es que sea imposible, pero una probabilidad baja de esa tercera ola.
+Eso es todo, doctor Gatell.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Víctor Hugo Borja.
+Un comentario previo a que abramos a preguntas y respuestas. Esta información que ha presentado el doctor Víctor Hugo Borja consideramos que es relevante y es de interés público general, lo trajimos por eso aquí a la conferencia.
+Tenemos el gusto de que el doctor nos lo haya explicado porque a veces este tipo de información o más bien habitualmente este tipo de información queda en los círculos científicos, se publicó en una muy buena revista internacional, desde luego académicas y académicos de México y el mundo leerán los resultados, pero se conoce poco en el público en general, entre personas no especializadas en el campo.
+Y es justo contrario a lo que suele ocurrir con algunas noticas, esto lo hemos comentado varias veces, en donde entran a los circuitos de noticias temas sobre tratamientos, sobre el curso de la enfermedad, sobre secuelas, sobre duraciones de la enfermedad, sobre reinfecciones y luego se propagan las noticias sin que tengan un sustento científico sólido.
+Entonces, en este caso tenemos un estudio hecho en México, hecho por científicas y científicos mexicanos que trabajan en instituciones públicas, en este caso el Instituto Mexicano del Seguro Social, y que producen un conocimiento que es sumamente valioso para tomar decisiones de salud pública en tiempo real.
+Aquí la conclusión, como ha señalado el doctor Borja, es muy clara sobre cuáles son las expectativas de protección por anticuerpos que podemos tener en México y de manera concreta, como ya lo señala él, no estamos todavía cerca de la inmunidad de rebaño, aunque estos datos colectados cerca del acmé, del pico epidémico muestran ya un aumento de la inmunidad poblacional con respecto a los datos de agosto, que son los que colectó la Encuesta Nacional de Salud y Nutrición.
+Y seguramente en adelante será de interés en algún momento adicional volver a medir cuál es la frecuencia de anticuerpos que existen en la poblacional mexicana.
+Muchas gracias, Víctor Hugo.
+Vamos a abrir a preguntas, por favor. Juan Hernández, Grupo Cantón, periódico Basta.
+---
+PREGUNTA
+Gracias. Referente a ese estudio, ahorita que lo está exponiendo ¿cuánto faltaría o qué estimación ustedes tendrían para que México podría llegar a esta inmunidad de rebaño?
+Y ahora las cifras que estaba dando precisamente por, digamos que zonas, ¿qué ha influido para que en algunas partes haya más…-cómo llamarle- anticuerpos y precisamente contra el COVID?, ¿es clima, alimentación? o sea, ¿qué es lo que ustedes descubrieron ahí? Si nos pueden compartir. Esa es la primera.
+---
+VÍCTOR HUGO BORJA ABURTO
+Las distintas seroprevalencias reflejan que la circulación del virus fue distinta, no fue homogéneo en todo el país.
+¿Por qué fue este?
+Por distintas razones. Primero, la cercanía con los Estados Unidos reflejó en algunos casos el intercambio de la población mucho más frecuente. Si usted recuerda, en Tijuana tuvimos desde el principio una casuística muy importante, la circulación del virus fue muy importante.
+Si vemos Quintana Roo cuando analizamos los flujos también de Quintana Roo que tienen un intercambio muy importante con otros países, la circulación ha sido mayor.
+Y las curvas que ha presentado el doctor López-Gatell y el doctor Alomía por regiones o por estados, si ustedes recuerdan, Jalisco tuvo en esos momentos previos a diciembre una circulación muy baja y es un componente muy importante de esa región en donde encontramos una seroprevalencia cercana al 27 por ciento, si no mal recuerdo, 26.6 por ciento.
+Las epidemias no son un pico homogéneo, al interior hay condiciones distintas para la circulación. Esto no toma en cuenta la gravedad de la enfermedad, esto sólo mide la infección. La gravedad la podemos ver a través de las hospitalizaciones o de las defunciones.
+Algo importante también que olvidé mencionar es que con estos datos se pueden recalcular los indicadores epidemiológicos.
+Por ejemplo, la tasa de letalidad, que si asumiéramos que todo el exceso de mortalidad que se ha reportado y que se reportó en diciembre pudiera asociarse a COVID-19, si eso lo dividimos entre los casi 45 millones de mexicanos que tuvieron contacto con el virus, la letalidad es menor al uno por ciento entonces, esto redimensiona también las consecuencias de la enfermedad.
+No recuerdo la primera parte de la pregunta.
+---
+INTERLOCUTOR
+¿Cuánto o qué elementos se deberían de tener precisamente para llegar a esta inmunidad de rebaño?, porque comentaron que estábamos lejos, pero si nos pueden un poquito abundar sobre esta parte que… Bueno, es la que mucha gente ha querido…
+---
+VÍCTOR HUGO BORJA ABURTO
+Sí, el doctor Gatell hace como cuatro semanas (falla en la transmisión) anticuerpos entre las dos olas importantes que tuvimos en el país; sin embargo, esto no llega la inmunidad de rebaño, necesitaríamos al menos el 75 por ciento, eso lo podemos alcanzar con la vacunación, y lo podemos alcanzar protegiendo a los vulnerables.
+No necesariamente queremos proteger a los que se infectan más, porque son los jóvenes que salen más y se infectan más, queremos proteger a quienes pueden tener consecuencias mayores cuando llegan a infectarse, y eso fueron los adultos mayores, por eso, la vacunación de los adultos mayores seguramente contribuirá a disminuir la mortalidad; aunque no en el principio, no disminuya los contagios, sí disminuye de manera importante la mortalidad y, sobre todo, porque el Gobierno de México priorizó a aquellas que son más vulnerables.
+---
+INTERLOCUTOR
+Perfecto.
+Bueno, una segunda pregunta. Hoy estuvo circulando en redes y en varios chats, por todos lados, estuvo circulando este mensaje, se los leo a continuación:
+‘Para las personas que se registraron para la vacuna, hay que volver a meterse para que se les actualice el folio porque estuvieron saliendo con AM, que es adulto mayor y tiene que venir como A50 y el número. Si te metes hoy con tu CURP, lo actualiza automáticamente’.
+Me dicen que también es importante que en la pantalla, que les muestra del folio picar el botón ‘Expediente de vacunación’ para que se descargue en tu compu el formatito que hay que llevar el día de las vacunas. ¿Qué hay de cierto en esto?, creo que lo habían…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Falso, falso. Gracias, Juan, por recordarnos desmentir esto.
+Comenta Juan Hernández, de Grupo Cantón, periódico Basta, que circuló en las redes sociales una noticia, una idea de que quien se registró en la plataforma mivacuna.salud.gob.mx y lo hizo ayer 27 de abril, dice este comentario que deben volver a registrarse y explica algo que no tiene ningún sentido. Esto es falso.
+Hoy por la tarde, un poquito antes del mediodía, lo comenté yo en mi cuenta de Twitter @HLGatell dije: Esto es completamente falso. Es parte de una campaña de sabotaje, quién sabe quién la perpetra, seguramente una mente muy perversa y mal intencionada que está atentando contra el interés superior de esta nación.
+Es falso, igual que una falsa información que había circulado antes de que abriéramos la página de que se registrara.
+Si usted se registró ayer, tiene 50 y más años de edad, siga, no se preocupe, ha quedado registrado en la página mivacuna.salud.gob.mx, el registro es sumamente fácil, solamente tiene que tener claros sus datos de domicilio y nada más.
+Si conoce su cédula única del registro poblacional, CURP, qué bueno; si no la conoce, ahí mismo, en el portal mivacuna.salud.gob.mx encontrará la manera de recuperar ese dato. Es más, le pido si es tan amable… Excelente, aquí para mostrarlo de manera gráfica, aprovechando que tenemos hoy más tiempo.
+Esta es la página mivacuna.salud.gob.mx, ahí está, ustedes entran aquí. Si se saben su cédula única del registro poblacional, CURP, lo anotan, aquí la pregunta es ’Tengo 50
+años cumplidos y me quiero vacunar’, adelante, ponerlo, 50 o más, por supuesto, ponen aquí que no son un robot, confirman su CURP.
+¿No se sabe usted su CURP?
+No se preocupe, pica aquí, de aquí le va a llevar a la página del Renapo, del Registro Nacional de Población de la Secretaría de Gobernación, usted va a poner sus datos generales, cuándo nació, dónde nació y cómo se llama y le va a decir cuál es su CURP.
+Copia eso lo pega aquí, entra, se abre una fichita muy simple, muy fácil de llenar donde le piden precisamente ese CURP. Si ya lo puso, ya está precargado su nombre y demás, y solo tienen que poner su dirección y el sitio, el código postal, etcétera, y ya, y le genera un documento en formato PDF, que es su comprobante de que ha sido registrado.
+Víctor.
+---
+VÍCTOR HUGO BORJA ABURTO
+Como coordinador Correcaminos en la Ciudad de México me gustaría mencionar que ha sido mejorado este sitio en relación al registro de 60 y más, de 50 en adelante. Ya se puede obtener lo que se llama Expediente de Vacunación. Después de quedar registrados, sale un formato PDF con los datos de su nombre, su CURP y el folio del registro de vacunación que pueden, que deben llevar cuando vayan a vacunarse. Esto nos va a facilitar mucho la logística.
+Los adultos mayores que fueron a vacunarse o quienes los acompañaron vieron que llenábamos en el sitio este mismo formato Expediente de Vacunación en ese momento. Esta versión les permite bajar ese Expediente de Vacunación donde, además de la edad, les preguntan algunos de los antecedentes de comorbilidades que nos va a facilitar mucho cuando lo lleven.
+¿Por qué lo hicimos así?
+Porque creemos que también a menor edad, también es más fácil el llenado de todas estas de manera digital.
+Entonces, sí lo pueden bajar y llevarlos el día que les toque su vacuna.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Excelente. Muchas gracias.
+---
+INTERLOCUTOR
+Bueno, no quiero acaparar tiempo, pero de repente empiezan a llegar preguntas, todo, por ejemplo, de las variantes de Sonora, de Campeche, otros, bueno, retomo lo que hace unos días le había preguntado de la industria farmacéutica, que cuándo va a venir el doctor Alejandro Svarch porque quieren hacerle algunas preguntas referentes al área de la Cofepris, pero se lo voy a hacer otro día para no acaparar, pero sí esta de las variantes que han estado saliendo, a ver si nos pueden comentar algo rápidamente.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Doctor Alomía.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Claro, con mucho gusto. Precisamente este es el resultado de la vigilancia genómica que se ha implementado ya desde varias semanas, meses inclusive, siguiendo las recomendaciones que inclusive en su momento hizo la Organización Mundial de la Salud y que se empezaron obviamente a identificar y a escalar las capacidades a nivel nacional.
+Como ustedes saben para poder llevar a cabo esta vigilancia se necesitan de sistemas especializados y obviamente de capital humano técnicamente especializado que no necesariamente se encuentra disponible o en abundancia dado el equipamiento que se requiere, que es costoso, los reactivos que se requieren para llevar a cabo una secuenciación genómica y todo el personal involucrado.
+Es por eso que en últimas fechas se llevó a cabo la conformación -lo comentábamos- de un consorcio, un consorcio que principalmente está integrado obviamente por actores importantes de la Secretaría de Salud, como son la CCINSHAE, como es el mismo Indre, la misma Dirección General de Epidemiología, pero también está participando la UNAM, está participando el Conacyt y está participando el Instituto Mexicano del Seguro Social que por cierto es de las instituciones que tiene desarrolladas muy bien este tipo de capacidades.
+Comento todo esto porque gracias al incremento de esta capacidad de secuenciación genética es que se puede incrementar la cantidad de muestras positivas a virus SARS-CoV-2 por PCR. Esto es importante comentarlo, porque las pruebas antigénicas, las pruebas rápidas no permiten realizar este tipo de vigilancia, tiene que ser el PCR.
+Por eso el modelo de vigilancia asegura a través de las unidades de salud monitoras de la enfermedad respiratoria, que son las Usmer, la obtención de este tipo de muestras.
+Y bueno, el resultado creo que es evidente en función de que se han estado ya desde hace varias semanas, de hecho fines del año pasado, identificando la presencia y circulación de estas variantes.
+Las mismas van a ser identificadas en la medida, uno, que estas sean importadas, es decir que lleguen al país en un momento determinado, o también van a ser identificadas dado que la transmisión comunitaria se mantiene, pues los primeros casos, así como en su momento lo fue el COVID-19 en febrero, marzo del año pasado estas nuevas variantes también van a empezar a distribuirse durante la población.
+Lo que podemos identificar hasta el momento es que obviamente las variantes internacionales, específicamente las de preocupación, la VOC, estas tres primeras que mencionábamos, todavía en este momento no representan una carga importante o una prevalencia, una predominancia sobre las variables ya identificadas previamente en México durante el año pasado o inclusive los linajes y los clados mexicanos que hemos tenido en un momento determinado circulando.
+Pero la importancia de esto es obviamente cuando éstas son identificadas, se realizan la notificación correspondiente en la entidad federativa para asegurar la implementación de las medidas de contención que están encaminadas a limitar o, como su nombre lo dice, contener, controlar, que no existan contagios a consecuencia de esta identificación y por lo tanto tratar de limitar lo más que se pueda la transmisión.
+Esto obviamente lo puede lentificar, pero no necesariamente en su momento va a pararla. Como lo hemos visto en el transcurso de todo el año pasado, tarde que temprano estas variantes empiezan a circular y pueden empezar a tomar nichos.
+La importancia de identificarlas es justo que el sistema de vigilancia y la atención médica se enfoquen en estas áreas en donde potencialmente ya tenemos la presencia y la circulación e intensifique y aseguren las acciones para la mitigación y el control de la enfermedad.
+---
+HUGO LÓPEZ-GATELL
+Gracias.
+Vamos a Ignacio de Alba, Pie de Página; y ahorita, si da tiempo, Gerardo.
+---
+PREGUNTA
+Gracias. Me gustaría preguntarles si hay diferencia entre los anticuerpos que se producen naturalmente por la enfermedad y el que se genera a través de las vacunas.
+---
+HUGO LÓPEZ-GATELL
+En principio sí por dos razones, bueno, por muchas razones, pero para explicarlo de manera sencilla: un virus es una partícula biológica, desde luego microscópica, muy microscópica, mide pocas milésimas de milésima, pocas millonésimas de milímetro y tiene muchas sustancias, proteínas mayormente y grasa.
+Y esas sustancias, esas moléculas que tiene cada partícula ultramicroscópica de los virus puede o no ser reconocida por el sistema inmune. El sistema inmune es el sistema de defensas y produce sustancias que se llaman anticuerpos que pueden adherirse, pegarse a los virus y en algunos casos neutralizarlo.
+El virus completo, como digo, tiene varias de estas proteínas y aquellas que pueden hacer que el sistema inmune genere las defensas, genere los anticuerpos, le llamamos antígenos.
+En cambio, las vacunas están hechas de muy pocos de estos antígenos, casi siempre uno de ellos. En el caso de las vacunas contra el SARS-COV 2 es una de ellas, es la proteína de espiga, la proteína S, por su nombre en inglés y esa proteína de espiga es la que se ha encontrado que tiene la mayor capacidad de generar anticuerpos.
+Entonces, podemos distinguir, si le medimos anticuerpos a una persona, si los anticuerpos son producto de la infección o producto de la vacunación, porque en la persona que tuvo infección va a tener anticuerpos contra varias proteínas del virus.
+La persona que no tuvo infección y fue vacunada va a tener solamente anticuerpos contra la proteína de espiga; por supuesto, quien tiene la enfermedad y luego es vacunada va a tener todo el repertorio de anticuerpos, posiblemente con una mayor concentración de los anticuerpos en contra de la proteína de espiga.
+---
+INTERLOCUTOR
+Entonces, ¿las inmunizaciones son diferentes dependiendo las variantes o no es…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Las qué?, perdón.
+---
+INTERLOCUTOR
+¿La inmunización es diferente dependiendo de las variantes?, es decir, si una persona tiene inmunidad contra una variante ¿puede no tenerla en otra?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Esa es la gran inquietud que existe en la comunidad mundial de salud pública y en general es una preocupación general, que el virus, conforme va variando, conforme ocurren estas mutaciones, no cambie tanto la composición química del virus de tal manera que los anticuerpos que se fabricaron para una variante de virus de meses atrás ya no sean útiles para un virus que evolucionó posteriormente.
+Un ejemplo clásico lo tenemos con la influenza. La influenza es un virus que evoluciona a tal velocidad o muta a tal velocidad que si en un año dado ponemos vacuna con cierta composición química que genera anticuerpos, al año siguiente el virus es suficientemente diferente como para ya no ser afectado por los anticuerpos que produjo la vacuna del año pasado.
+Por eso es que hay que revacunar cada año contra los virus de la influenza, porque en cada temporada anual de influenza que para el caso de México y todo el hemisferio norte empieza en octubre y termina en marzo del siguiente año, ya los virus de influenza, aunque siguen siendo virus de influenza, son en su composición química suficientemente diferentes.
+Y la gran pregunta que todavía no se puede responder, porque no hay suficiente tiempo de experiencia de convivir con el virus SARS-CoV-2, es si el virus SARS-CoV-2, causante de COVID, va a evolucionar, mutar, transformarse químicamente y desde luego genéticamente tan rápido que se requiera revacunar una y otra y otra vez, todavía no se sabe eso hasta el momento.
+---
+INTERLOCUTOR
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Gerardo Suárez, Heraldo.
+---
+PREGUNTA
+Gracias, buenas noches a todos.
+Sobre el estudio de seroprevalencia, quiero preguntar si aquí se ha estimado que aproximadamente el 70 por ciento de las personas o de los distintos grupos de edad que se están vacunando están dispuestos a hacerlo y si la inmunidad de rebaño se alcanza el 75 por ciento, entonces ¿no estamos en un riesgo de no alcanzar esa protección?
+La otra pregunta es si este estudio va a continuar o continuó después de diciembre.
+Y sobre, doctor Gatell, si nos puede dar un corte más reciente de los registros de vacunación de 50 a 59 años, si es que lo tienen.
+Y, por último, de la variante sudafricana del COVID, varias instituciones e investigadores han comentado que es más contagiosa, que puede ser… Bueno, que las vacunas pueden ser menos efectivas contra esta variante de SARS-CoV-2 e, incluso, reinfecciones. Entonces, ¿hay una vigilancia más específica ya que encontraron estos tres casos?, ¿o qué otras cosas adicionales van a hacer?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Súper. Yo muy rápido. Esta mañana anuncié que teníamos 2.3 millones, dos millones 300 a sólo menos de medio día, en este momento no tengo una actualización, pero con mucho gusto mañana la presentamos.
+Adelante.
+---
+VÍCTOR HUGO BORJA ABURTO
+En el caso de las vacunas esperamos que la aceptación de la población cambie conforme se disminuyan los grupos de edad, los más jóvenes esperamos que acepten más la vacuna.
+También la seroprevalencia es distinta de acuerdo a los grupos de edad. No los presenté, pero los menciono ahora, de cero a 20 años encontramos el 33 por ciento de seroprevalencia; de 21 a 48 años el 38 por ciento en total; de 41 a 60, 34; disminuyó a 28 de 61 a 80 años; y más de 80 años al 23 por ciento.
+Es decir, igual que el Sistema de Vigilancia Epidemiológica que lo reporta por PCR, es una curva donde los grupos de adultos jóvenes son los que muestran mayor contagio. Nosotros esperamos que entre la inmunidad que ya se ha obtenido de manera natural más la población que se logre vacunar, que estará por arriba del 75 por ciento, se podrá lograr la inmunidad de rebaño
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+El tiempo se nos acabó, desafortunadamente, porque es una pregunta muy interesante sobre las variantes. Lo vamos a seguir tratando esto, prácticamente cada 15 días lo presentamos y déjenme tomarle la palabra aquí la palabra al doctor Alomía para decir: hasta el momento no hay evidencia científica sólida, consistente, de que cualquiera de las variantes representa un riesgo adicional a la propia epidemia, es decir, no son más transmisibles necesariamente o más virulentas o más agresivas.
+Y sobre lo que me preguntaba, ya me pasaron la información, aquí el propio doctor Alomía 3.8 millones de personas de 50 años y más se han registrado hasta ahorita en mivacuna.
+Le invitamos a usted, si tiene 50 años de edad o más, que se registre si es que no ha sido vacunado; y si usted tiene 60 y más, sigue abierta la oportunidad de que lo haga.
+Nuestro interés, el interés del Gobierno de México es que se cubra a toda la población con la vacuna contra COVID-19 de manera que colectivamente estemos todas y todos protegidos.
+Muchas gracias. Nos vemos mañana. Gracias, doctor Borja.

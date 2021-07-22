@@ -3,10 +3,12 @@ Presidencia de la República
 03 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 de este viernes 3 de julio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico y es viernes de semáforo, entonces vamos a presentar el semáforo que corresponde a aplicar la próxima semana y vamos a comentar un poco sobre la mecánica del semáforo, cuál es evaluación que tenemos de él a lo largo de la semana, un poco de lo que conversamos con los gobernadores, la gobernadora y la jefa de Gobierno de la Ciudad de México en la reunión de ayer jueves.
 Le pido al doctor Alomía si es tan amable de presentar el informe técnico.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario. Semana, inicio del mes de julio, a su vez estamos en el día 33 de la Nueva Normalidad. Como lo acaba de decir el subsecretario, el día de hoy actualizaremos el semáforo en función a los riesgos que se han proyecto para la siguiente semana en cada una de las entidades federativas.
 No olvidemos que el semáforo que actualmente está vigente lo seguirá hasta el día domingo, el semáforo que se presentará hoy estará vigente hasta el día lunes; por lo tanto, también las actividades relacionadas a cada uno de los niveles de riesgo se van a presentar hasta el final con el nuevo semáforo.
 Pasemos directamente a la estadística internacional. El día de hoy, si vemos los porcentajes, prácticamente se mantienen iguales y se han mantenido así en el último mes; sin embargo, esto también revela que la pandemia continúa activa y continua activa focalizada en la región de las Américas, en donde los incrementos de casos o disminuciones son muy ligeros, pero continúan representando prácticamente el 58 por ciento de la totalidad de los casos que se han confirmado a nivel mundial.
 Veamos la siguiente diapositiva. Son los números actualizados para la República mexicana. El día de hoy se acumulan 245 mil 251 resultados positivos, que lógicamente corresponden a personas que se confirman como casos de COVID-19; así también tenemos 301 mil 986 personas que han dado negativo a la prueba, por lo tanto se han descartado y son 624 mil 987 las personas que hasta el momento han sido estudiadas, es decir, han ingresado al protocolo correspondiente, no solamente para efectos de una toma de muestra, sino también para una atención médica, en el caso de que hayan requerido hospitalización, el ingreso a una unidad de segundo o tercer nivel y su atención hasta el egreso.
@@ -48,9 +50,11 @@ Y aquí también podemos ver porcentajes de positividad diferentes para cada uno
 Sería la actualización para esta noche. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Le pido enseguida al doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, si nos presenta el semáforo de riesgo COVID para la semana próxima.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE SALUD
+Con mucho gusto, doctor López-Gatell. Muchas gracias.
 Muy buenas tardes a todas y todos en Palacio Nacional y en casa.
 Tenemos, antes de comentar para que vayan revisándola, tenemos 17 estados en color naranja y 15 estados en color rojo.
 Recordemos que los indicadores que evaluamos cada semana y que compartimos con todos los estados, sus autoridades sanitarias, son la ocupación hospitalaria que ha comentado y presentado el doctor José Luis Alomía apenas hace unos minutos, la tendencia de personas que requieren hospitalización, la tendencia del síndrome COVID, que es este conjunto de personas que tuvieron signos y síntomas parecidos a coronavirus independientemente de su resultado positivo o negativo; y finalmente la positividad que hay en cada uno de los estados, también presentada a nivel nacional por el doctor Alomía hace unos minutos.
@@ -61,6 +65,7 @@ Entonces, invito a todas las personas de todo el país a revisar en qué color d
 Muchas gracias
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés.
 Antes de pasar a preguntas y respuestas, comentar sobre el semáforo. Esta semana, ayer concretamente, tuvimos la sesión que tenemos todas las semanas con la jefa de Gobierno, la gobernadora de Sonora y los gobernadores. Sesión que coordina y convoca conjuntamente la secretaria de Gobernación y el sector salud a través del doctor Alcocer, secretario de Salud.
 Participaron también nuestra respetada secretaria del Trabajo Luisa María Alcalde Luján y Graciela Márquez, secretaria de Economía, más el secretario de Turismo, el director del IMSS, el director del Issste y varios otros funcionarios federales; del lado de los gobernadores lo convoca la Conferencia Nacional de Gobernadores.
 Y es muy productiva, eso es lo que quiero decir, es muy productiva la conversación porque se tocan distintos temas. En esta ocasión, con motivo de la importante noticia de la aprobación o la entrada en vigor del T-MEC, se comentó también sobre las perspectivas de reactivación económica que implica este importante acuerdo. La secretaria Luján y la secretaria Márquez dieron detalle de lo que implica en el ámbito tanto laboral como económico.
@@ -84,11 +89,13 @@ Entonces, recordar esta situación. Cuando presentamos cada viernes el mapa del 
 Vamos a abrir a preguntas y respuestas. Juan Hernández, usted también, Juan, Daniel, acá, bueno, nos vamos unos y unos, además hay mujeres acá, hombres allá.
 ---
 PREGUNTA
+Muy buenas noches. Juan Hernández, del periódico Basta y del Grupo Cantón.
 Dos preguntas. La primera ¿cómo afecta la infodemia al trabajo que vienen ustedes realizando del combate al COVID-19?, y me refiero a esto porque el día de ayer estuvo circulando en redes sociales, todavía hoy estuvo circulando, una versión en la que una figura pública afirmaba que la Ciudad de México iba a estar en semáforo verde, cuando realmente los que estamos cubriendo diariamente sabemos que las cifras señalan todo lo contrario. ¿Esto qué da como resultado?, ¿cómo los ha afectado?
 Y la segunda, un temita que quedó pendiente fue lo de la deserción hospitalaria, a ver si nos puede compartir ese dadito que tenemos ahí pendiente.
 Sería todo. gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 La infodemia es el término que se le ha dado a lo equivalente a una epidemia, pero de información o, más propiamente, de desinformación.
 Este es un término que, a lo largo de los últimos años, posiblemente de manera particular los últimos 15 o 20 años se ha estudiado por parte de distintas profesiones, los sociólogos y sociólogas, sicólogas y sicólogas, incluso antropólogos especialistas en informáticas, en redes de cómputo, en fin, muchos profesionales han estudiado este fenómeno, periodistas por supuesto también.
 Y es un fenómeno en el que se propagan como olas, como grandes olas, se difunde, las noticias que no necesariamente son veraces. Hay estudios científicos, hoy no traje, pero un día de pronto les traigo un estudio científico publicado en la revista Science, una revista muy prestigiosa hace, si no recuerdo mal, hace uno siete u ocho años, que analiza cómo las malas noticias y las noticias falsas se transmiten a una velocidad mayor y a mayores distancias que las noticias verdaderas y las buenas noticias. Y esto tiene que ver con un fenómeno sicosocial en el que aparentemente los seres humanos somos procesos a que nos llame la atención lo negativo. Lo negativo llama más la atención que lo positivo, que lo alentador, por alguna razón que desde luego es interesante de entender.
@@ -109,20 +116,30 @@ Con el ejemplo concreto que nos presenta usted, Juan, hoy mismo nos parece que f
 No sé cuál fue la intención ni es mi papel juzgarla, relato los hechos y evidentemente -estamos presentando el semáforo- no hay ningún verde, no hay ningún verde, estamos todavía a varias semanas, si acaso del amarillo; y la Ciudad de México, que quede muy claro, la Ciudad de México, a partir de la siguiente semana está en color naranja, de su segunda semana en color naranja.
 Y la jefa de Gobierno de la Ciudad de México ha sido extremadamente cuidadosa en proporcionar toda la información y garantizar que esta sea útil, pero además en planear los elementos del semáforo y las actividades que se pueden ejecutar. Es uno de los planes de desconfinamiento mejor cuidados en el país, posiblemente el mejor, el más completo, el más detallado, el más orientador y si nos parece, yo diría que, hasta cierto punto una falta de respeto para la población.
 ---
+INTERLOCUTOR
+La infodemia mata.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La infodemia puede matar, definitivamente, porque, concretamente en el caso de COVID, uno de los elementos que ha sido un reto importante es que hay un segmento de la población a quien no fácilmente se convence de la situación que estamos viviendo, del riesgo, el riesgo que implica tener un virus, hay segmentos de la población que no creen todavía que exista una epidemia en este momento o que exista el virus.
 Si ante ellos y ellas se les presenta este tipo de desinformación deliberada, pues entonces podría tener consecuencias muy graves, podría tenerlas.
 Pensemos optimistamente, siempre es bueno apelar al optimismo, que no fue deliberado, que fue, no sé si confusión, ustedes son expertas y expertos, no yo, en comunicación, pero hasta donde entiendo el oficio profesional y ético del periodismo incluye el documentar las notas, el tener fuentes de información complementarias que contrasten hasta formarse un juicio o acudir a la fuente primaria de quién produce la información, en este caso, ya sea el gobierno de la Ciudad de México o el gobierno federal, que es quien elabora el semáforo.
 ---
+INTERLOCUTOR
+La deserción.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La deserción, lo que preguntaba Daniel ayer. Aquí no lo tengo todavía, lo que estoy arreglando es que nuestros compañeros de Insabi pudieran dares una entrevista específica sobre el tema y entren a todos los detalles, hay varias cosas más que vale la pena compartir.
 Ayer con motivo de su pregunta Daniel - gracias- ya no me dio tiempo de comentar del plan de desarrollo de los profesionales de la salud y uno de los elementos que el maestro Ferrer y el doctor Alejandro Svarch junto con varias otras instituciones y colaboradores están impulsando, un plan inmediato de ampliar al 100 por ciento la formación de especialistas.
 Entonces, cada año gruesamente, no les adelanto vísperas, hay cerca de 10 mil plazas para formación de médicos y médicas especialistas en las distintas ramas de las especialidades médicas y ahora se está considerando que haya el doble, un aumento súbito de 10 mil más y es un plan muy interesante que va en muy avance. Entonces, les propongo mejor una entrevista específica con estos colegas. Gracias.
 Por favor usted y nos vamos con Araceli Aranday, usted también.
 ---
 PREGUNTA
+Buenas noches, subsecretario, doctor, directores.
 Vimos en días pasados que la capacidad instalada de los hospitales se ha incrementado. ¿Esa capacidad instalada -seguramente es un éxito- y bueno, la alta competencia de los doctores, los médicos y los especialistas de salud se puede mantener después de que termine esta pandemia y empezar a hacer una transformación como lo ha comentado en el sector salud, doctor?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta. Hoy precisamente a las 11:00 de la mañana tuvimos una sesión del Gabinete de Salud, el gabinete sectorial, nos convocó el secretario, el doctor Alcocer. Por cierto, el doctor Alcocer hoy no vino, estaba contemplada su participación, pero consideramos que la agenda iba a estar muy apretada, queremos dar todo el espacio y la siguiente semana va a venir a hablar de la inmunología de COVID-19.
 Hoy nos convocó el secretario de salud al director del IMSS, al director del Issste, al director del Insabi, a los distintos colegas que trabajamos con él y precisamente estamos articulando ya toda la ruta crítica para conservar los servicios producto de la reconversión, pero asegurar que durante todo este periodo pueda continuar la operación de los servicios no COVID.
 Entonces, la respuesta corta a este planteamiento que le agradezco es: sí, sí puede y debe conservarse la capacidad ampliada.
 Recordar, como lo acabamos de ver en la diapositiva, teníamos 645 hospitales posibles para COVID de dos mil 800 en números redondos que existen en el país, se designaron 645 y hoy tenemos 903, porque hemos hecho todo un proceso de reconversión.
@@ -130,9 +147,23 @@ Este lo vamos a mantener, pero estamos organizando para que no se interrumpa la 
 Araceli Aranday, usted compañera.
 ---
 PREGUNTA
+Gracias doctor. Preguntarle, cuando usted dice: ‘Tenemos un impacto que parece que llegó al límite’, exactamente ¿qué significa?, ¿cómo podemos interpretarlo? Me suena a buenas noticias. Lo acaba de comentar.
 Y preguntarle, en el tuit del gobernador del Estado de México mencionó que el estado, esta entidad, pasa a naranja y ahorita lo acabamos de ver que continúa en rojo. ¿Qué opinión le merece? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Oriénteme sobre lo primero porque no…
+---
+INTERLOCUTORA
+Sí, dijo, exactamente usted dijo: ‘Tenemos un impacto que parece que llegó al límite’, y eso es buenas noticias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, caray, corre videotape, regréselo, no sé exactamente…
+---
+INTERLOCUTORA
+Usted hablando de las cifras y comentó esto, que al parecer el impacto llegó al límite.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Suena muy enigmática esa frase, puedo reconstruir lo que he estado diciendo. Notamos una desaceleración en el incremento diario de casos, esto quiere decir, y también para que no haya ninguna confusión, sigue habiendo más casos hoy que ayer, sigue aumentando el número de casos, pero la cantidad o la proporción más exactamente de cambio es cada vez menor.
 En marzo teníamos aumentos de un día para el otro de 15, 18 por ciento, en abril estábamos en 12 o 10 por ciento, y luego progresivamente durante mayo y junio se ha ido reduciendo ese porcentaje de incremento y hoy es 2.8 por ciento, de acuerdo a lo que presentó el doctor Alomía.
 ¿Qué significa que tengamos un porcentaje de cambio menor?
 Que la velocidad de cambio, la velocidad de aumento que en este momento es de aumento de la epidemia, es cada vez menor.
@@ -140,7 +171,11 @@ Llegaremos a un punto en las próximas pocas semanas en donde podremos llegar ha
 ¿Eso quiere decir que se acabó la epidemia?
 De ninguna manera, eso lo que quiere decir es: llegamos al punto en donde tenemos estabilidad muy alta, de una gran cantidad de casos y posteriormente pasáramos a menos 0.1, menos 0.3, menos 0.6, menos 2, menos 5, menos 7, menos 20, y se va a ir disminuyendo la epidemia, porque esta es una epidemia larga, más o menos a eso me refería.
 ---
+INTERLOCUTORA
+Sobre el tuit.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre el tuit del gobernador, hemos estado siempre con todos los gobernadores y la gobernadora de Sonora, la jefa de Gobierno, en mucha comunicación, con el gobernador del Mazo tenemos conversaciones muy seguido, insisto en reconocer que es un gobernador que ha estado muy atento, tanto a la evaluación de riesgo nacional como a su propia información y coordinando a su propio equipo de salud.
 Por la cercanía, es prácticamente una sola ciudad que existe en el Valle de México, lo que ocurre en la Ciudad de México se coordina o repercute, ya sea para bien o para bien lo que ocurre en el Estado de México y viceversa.
 En muchos de los casos de personas enfermas con COVID que se atienden en la Ciudad de México tienen una residencia permanente en el Estado de México, una proporción muy grande, 60 por ciento, y es menos frecuente, pero también pudiera existir que alguien reside permanentemente en la Ciudad de México y se hospitaliza en el Estado de México.
 Y esto a lo que lleva es a que coordinar los esfuerzos es muy importante. Entonces, platicando con el gobernador Alfredo del Mazo identificamos que los puntos de valoración de riesgo, aunque tienen un significado cuantitativo, el semáforo proviene del análisis numérico de la epidemia en los cuatro indicadores ya comentados anteriormente, tendencia de hospitalización, tendencia de ocurrencia de los casos, porcentaje de personas que son positivas al virus SARS-CoV-2 y porcentaje de ocupación neta.
@@ -152,10 +187,15 @@ Usted, por favor y luego Carlos, si nos da tiempo.
 Sólo, perdón me está aquí el doctor Alomía ayudando a identificar para que no haya ninguna confusión, lo que plantea el gobernador Alfredo del Mazo en su tuit, es: ‘Estamos rumbo al naranja’, no está diciendo que estén en naranja en este momento.
 ---
 PREGUNTA
+Gracias. Buenas noches, subsecretario. Iris Velázquez, del periódico Reforma.
 Aprovechando que me da la palabra, permítame hacerle cuatro preguntas.
 La primera…
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Queda poco tiempo nada más para considerarlo.
+---
 INTERLOCUTORA
+Okey. La primera es más una petición. ¿En el portal de datos abiertos de COVID se podría…? Ojalá se pudiera especificar las fechas de recuperación de los pacientes COVID.
 La segunda, ¿los registros de salud tienen los porcentajes de la tasa de natalidad y de embarazos que se han registrado durante esta pandemia? Nos gustaría saberlos.
 La tercera, la Universidad Autónoma Metropolitana, la UAM, hace una estimación basada en cálculos matemáticos que dice que se llegará al número cero de contagios y cero de defunciones para abril de 2021. ¿Cómo ve esta predicción?, ¿es acertada o va más menos con lo que ustedes están estimando?
 Y la última pregunta sería: ayer hablaba usted, cuando se le cuestionó sobre que México había rebasado el número de muertes con respecto a España, usted decía o llamaba a considerar las características propias de la población mexicana, entre éstas, pues que hay una mala alimentación basada en productos industrializados, altos en azúcares, etcétera.
@@ -163,6 +203,7 @@ Y bueno, en las redes sociales, funcionarios de distintos niveles de gobierno pr
 Especialistas piden que haya lineamientos claros de parte de autoridades federales para que esto se regule, se regulen las donaciones durante las pandemias, contingencias, etcétera. ¿De la Secretaría de Salud se está haciendo algo?, ¿se prevé hacer algo para estos lineamientos? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Qué amable por sus preguntas, creo que son muy útiles, lástima que queda poco tiempo, pero las vamos a atender.
 Sobre el portal de datos abiertos y la fecha de recuperación, le comento lo siguiente, que lo había explicado el doctor Alomía. La estimación de la recuperación se basa en la duración esperada de la enfermedad a partir de la fecha de inicio de los síntomas. Para las personas que están hospitalizadas estamos considerando tiempos más largos, para las personas que no están hospitalizadas estamos considerando los 14 días. Esto, lo hemos dicho, es una consideración hasta cierto arbitraria o esquemática porque hay gran variabilidad entre las personas, pero es el tiempo promedio de recuperación.
 Los datos de la vigilancia epidemiológica no son un expediente clínico electrónico, no pretenden serlo, ni en México ni en ninguna parte del mundo, entonces en realidad no tenemos individuo por individuo una fecha de recuperación.
 Y además la variabilidad depende también del estado de salud de cada uno de los individuos y ellas y ellos algunos pueden haber tenido condiciones más graves que requieran periodos de recuperación más graves en términos de su recuperación física y emocional, por supuesto.
@@ -170,10 +211,18 @@ Entonces, el interés de la recuperación, de llamarle recuperación a la recupe
 Sobre partos y demás, vamos a invitar a nuestra directora general del Centro Nacional de Salud Reproductiva y Equidad de Género o Equidad de Género y Salud Reproductiva, la doctora Karla Berdichevsky Feldman, ha venido en otras ocasiones, y efectivamente tenemos estadísticas sobre el proceso reproductivo u obstétrico en México, y hay datos muy interesantes.
 ¿La tercera?
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Esta no la conozco en particular, cuando la conozca pues la comentamos.
+INTERLOCUTORA
+La tercera es sobre las estimaciones de…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Estimaciones de la UAM. Vi una nota periodística al respecto, no conozco el documento, ha habido muchas estimaciones. Por cierto, gracias a todas las comunidades académicas que han hecho distintos ejercicios de modelación matemática, de estimación, de predicciones, gracias. Todas estas comunidades, algunas parecen pronunciarse con una perspectiva como discrepante de lo que aquí se menciona. No nos ofendemos, qué bien, todo conocimiento construido ayuda.
+Esta no la conozco en particular, cuando la conozca pues la comentamos.
+---
+INTERLOCUTORA
+¿(Inaudible) corresponde a las estimaciones que ustedes tienen?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es que así no funciona, y no nos da ya tiempo. O sea, no es una bola de cristal o es una ouija o una… no se trata de adivinar cuándo va a ser el día que se acaban las cosas o suban o bajen y demás, esto ha causado mucha confusión.
 Por cierto, su diario, con todo respeto, ha sido el que mucho ha contribuido a esto cuando genera expectativas de qué día, a qué hora, en qué minuto va a ocurrir el famoso pico epidémico, pero así no funciona, es un poquito más complicado que eso.
 Ahora, respecto a lo último, y le diré que hasta gusto me da que sea usted, el periódico Reforma, quien lo comenta. Efectivamente, ha habido donaciones de productos ultraprocesados que no son benéficos para la salud, productos industrializados que tienen gran cantidad de azúcar, de sal o azúcares diversos, ya dijimos la fructuosa, entre otros, de sales o sal en general, sal de mesa y otras sales de sodio o grasas y que no son benéficos para la salud, como se ha demostrado a lo largo de muchos años.
 Y hoy están haciendo donaciones y estas donaciones además las publicitan de manera muy amplia, lo cual llama la atención. Esto también está descrito por sociólogas y sociólogos como un fenómeno -y mercadólogas y mercadólogos- como un fenómeno de cambiar el discurso público, cambiar la imagen, un poco para decirlo de manera simple distraer la atención, distraer la atención de elementos que pudieran ser amenazantes, quizá, a cierto tipo de preferencias o intereses.
@@ -181,5 +230,20 @@ Nos parece desafortunado, particularmente cuando se liga con una emergencia sani
 Si fueran productos benéficos para la salud, pues qué bien, y la generosidad de las donaciones qué bien; pero si son productos que no son benéficos para la salud, pues qué mal que se donen productos que no son benéficos para la salud.
 Ese es mi comentario y le agradezco la pregunta.
 ---
+INTERLOCUTORA
+Y si tiene planeado o de parte de la secretaría existe este plan para generar los lineamientos para que esto se regule
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Habría que analizarlo con detalle, qué implica regular, qué implican las donaciones, en qué contextos ocurren. Me quedo con la inquietud que formula en su pregunta. Gracias.
 Son las 20:00 horas, ya no dio tiempo de que otros intervinieran, pero mañana es sábado y nos podemos ver aquí a las 19:00 horas.
+---
+PREGUNTA
+Mañana no habrá agua en 11 alcaldías. ¿Algún mensaje?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana no hay agua en 11 alcaldías de la Ciudad de México, esto es por un proceso de mantenimiento mayor en el Sistema Cutzamala, como se ha advertido por parte de la Comisión Nacional del Agua.
+Lo que se tiene planeado es que la interrupción dure 24 horas, posiblemente el domingo estaría reactivado el servicio. Para las personas que están padeciendo COVID es posible que la consecuencia sea que no se puedan lavar las manos.
+Dos recomendaciones generales:
+Aprovisiónense de agua, cubetas, botes, envases, etcétera. Es un periodo corto, pero traten de tenerlas y hagan cálculos de cómo podrían estar 24 horas.
+Y mantener la higiene básica que pudiera contribuir a disminuir el peligro de transmisión de COVID, y definitivamente quédese en casa.
+Muchas gracias.

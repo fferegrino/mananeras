@@ -1,0 +1,312 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+04 de febrero de 2021
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 en punto de hoy 4 de febrero, jueves 4 de febrero de 2021. Estamos en el Palacio Nacional de México, en la Ciudad de México, en el Salón Tesorería y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
+Hoy vamos a tener información de interés. Primero, el informe técnico general, que presentará el doctor José Luis Alomía, director general de Epidemiología; después comentaré sobre el avance del programa de vacunación o la estrategia de vacunación contra el virus SARS-CoV-2 para prevenir COVID-19; enseguida tenemos otra vez el gusto de que esté con nosotros el doctor Ernesto Ramírez, quien es el jefe de la Unidad de Investigación y Desarrollo Molecular de nuestro muy querido Instituto de Diagnóstico y Referencia Epidemiológicos, Indre. Bienvenido, Ernesto, es un gusto.
+Como lo ha hecho en otras ocasiones, va a venir a actualizarnos sobre variantes, mutantes y diferentes elementos que tienen que ver con los cambios genéticos que tiene el virus SARS-CoV-2, cómo se han encontrado, cómo se clasifican, qué importancia tienen estos cambios y salir ya de dudas y de especulaciones sobre si existen o no cepas mexicanas, variantes mexicanas, si estas realmente tienen un significado clínico, epidemiológico, si las vacunas pueden perder potencia o no. De todo esto y más nos hablará el doctor Ernesto Ramírez. Bienvenido.
+Vamos entonces a iniciar. Le pido al doctor Alomía si presenta el primer segmento y continuamos.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
+Muy buenas noches también tengan todas y todos ustedes. Vamos a iniciar con la actualización del comportamiento epidémico de COVID-19 en México.
+Para el día de hoy continuamos todavía manteniendo este ya descenso de dos semanas consecutivas de menos 16 por ciento para efectos del cambio entre la semana 2 y 3. Como comentábamos, es uno de los descensos más importantes que hemos tenido en los últimos meses y esto además genera también una tendencia que se ha mantenido, no solamente en lo que va de la semana, estamos prácticamente ya a dos días más de cerrar esta semana y consideramos que de seguro este descenso, en la magnitud en la que está presentando, de seguro va no solamente a cerrar hacia esta semana, sino que podría extenderse para cuando abramos la semana siguiente, que será la número 4.
+Son dos millones 96 mil 374 las personas que están distribuidas en esta curva que, como podemos ver, inicia desde el año pasado y desde el mes de febrero cuando confirmamos los primeros casos de COVID-19 en México, pero solamente el cuatro por ciento, es decir, 81 mil 538, son realmente las personas que representan la epidemia activa, ya que son las que iniciaron con signos y síntomas en las últimas dos semanas, las demás personas están más en el comportamiento ya histórico de la epidemia y sólo el cuatro por ciento es ese comportamiento y esa carga actual que mantiene obviamente la epidemia activa en México.
+Forman parte también de ese histórico las personas que hasta el momento ya se han recuperado, han sanado de la COVID-19 que para el día de hoy son un millón 461 mil 11 personas.
+Y continúa también el incremento entre la semana dos y tres de las mismas de un más 26 por ciento.
+En ese histórico lamentablemente también desde que inició la pandemia en México las personas han perdido la vida a consecuencia de las complicaciones que, sabemos, produce el virus SARS-CoV-2 en los órganos que afecta, sobre todo obviamente los pulmones y para el día de hoy son 162 mil 922 las personas que durante toda la epidemia en México han tenido esta condición.
+Si vemos la siguiente diapositiva, actualizamos rápidamente la ocupación hospitalaria en este caso de las camas IRAG general que se reservan o se destinan a pacientes graves que presentan ya signos y síntomas de alarma, que requieren oxigenación y por lo tanto de un cuidado más especializado, sobre todo al interior de una unidad de atención médica de segundo o tercer nivel, es decir, de un hospital.
+Podemos ver rápidamente para el grupo de más de 70 por ciento. No ha habido prácticamente cambios, todas las entidades que estaban estas siete entidades que estaban en el grupo se mantienen con la misma ocupación.
+Sin embargo, destacamos que para los estados que mayor ocupación tienen, Ciudad de México y Estado de México con 82 por ciento, este 82 por ciento sí ha representado una disminución de prácticamente de ocho a nueve puntos porcentuales de, por ejemplo, lo que venían presentando hace 10 días o la semana pasada.
+Donde sí tenemos cambios es precisamente en el grupo entre los 69 y 50 por ciento de ocupación. Nuevo León y Nayarit vienen continúan a la baja 66, 60 por ciento, y solamente el estado de Baja California Sur ha presentado un incremento dentro de este grupo, aunque dentro de ese incremento vemos que apenas está cruzando el 50 por ciento de ocupación con un 52 por ciento.
+Y a nivel general son 18 entidades las que tienen más de la mitad de sus camas disponibles para atender a estos pacientes siendo nivel nacional el total de camas disponibles de este tipo, 16 mil 61.
+Veamos la siguiente diapositiva. Enfocamos en camas con ventilador para los pacientes más críticos. Aquí también tenemos cambios, podemos ver que en el grupo de más de 70 por ciento ya solamente tenemos una entidad que tiene más del 70 por ciento de ocupación, pero que además siendo la Ciudad de México, con un 79 por ciento actual, también ha tenido a disminución en los últimos días y desde la semana anterior para efectos de esta ocupación.
+Y en el siguiente rango, entre 69 y 50, vemos precisamente al Estado de México incorporándose ya con una ocupación por debajo del 70 por ciento, al igual que Nuevo León hace unos días también se incorporaba a este grupo y es el que tiene la disminución; y tenemos a Tlaxcala y a Oaxaca apenas también superando el 50 por ciento, pero, por lo tanto, integrándose a este grupo.
+La mayoría de las entidades federativas, 24 de ellas tienen más de la mitad de sus camas disponibles e inclusive tenemos a Veracruz y a Morelos incorporándose a este grupo de más del 50 por ciento de disponibilidad para efectos de las camas con ventilador, que para todo el país son cinco mil 597 las que estarían disponibles para recibir a este tipo de pacientes.
+Es la actualización de estos números.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
+Pasamos ahora con la vacunación, la vacunación contra el virus SARS-CoV-2 para prevenir COVID-19 en el contexto del Plan Nacional de Vacunación Contra COVID o contra SARS-CoV-2 que presentamos el pasado 8 de diciembre que tiene como primera etapa el vacunar al personal de salud de primer contacto, de primera línea, de mayor exposición al virus SARS-CoV-2.
+Hasta el momento hemos tenido un ritmo constante, razonablemente pegado a lo planeado para cada día de vacunas. En este momento mayormente se trata de las segundas dosis, aunque todavía hay aplicación de muy poquitas pendientes primeras dosis. Cinco mil 89 vacunas se pusieron el día de hoy.
+La siguiente nos muestra el número acumulado y cómo ha ido progresando a lo largo del tiempo, lo que se ve en esta gráfica donde se acumulan 695 mil 88 dosis de vacunas.
+Y en la siguiente lo que podemos ver, como cada noche, es el avance en las segundas dosis con respecto a primeras dosis. Hoy tenemos ya 60 mil 742 personas, personal de salud de primera línea que han sido vacunadas con su segunda dosis, esto representa ya el nueve por ciento de los esquemas, son esquemas completos.
+Estamos usando, recuérdenlo, la vacuna de Pfizer BioNTech hasta el momento, mientras no han llegado todavía otras vacunas ya contratadas.
+En el campo del personal educativo, recordamos cada vez que mencionamos esto que desde la fase de planeación hicimos público cuál es el propósito, el tercer eje de priorización que es la oportunidad de activar elementos de la vida pública que son estratégicos como la educación pública cuando las condiciones así lo permiten. En este caso en el estado de Campeche cuatro meses consecutivos de una transmisión mínima del virus SARS-CoV-2, de un muy buen control epidémico nos permiten esa oportunidad, por eso se ha vacunado a personal educativo con el propósito de empezar a preparar el posible retorno a las clases, cosa que deberá ocurrir cuando el estado de Campeche retorne al semáforo verde.
+81 por ciento de avance general en el uso del paquete más reciente que llegó el 19 de enero con 219 mil 375 dosis.
+Pueden ver que prácticamente estamos terminando de cubrir todo el país y tenemos tres entidades federativas que las hemos estado comentando toda la semana que están en este momento terminando con las segundas dosis.
+El ritmo de aplicación es dependiente de cómo se aplicaron las primeras dosis que en su mayoría ocurrieron en la fase de calibración desde que empezó la vacunación el 24 de diciembre de 2020 hasta el 12 de enero y hoy las segundas dosis se ponen precisamente al ritmo de esas primeras dosis.
+Sesenta y ocho por ciento del paquete ya ha sido utilizado y son 766 mil 350 dosis de vacuna que llegaron al territorio. Este número no ha variado, como lo pueden notar, a lo largo de toda la semana, porque no tenemos ningún embarque nuevo.
+Recordamos que por diversas razones mundiales que tienen que ver con la capacidad de producción, ahora también con algunas restricciones que han impuesto varios de los países o regiones en los que están situados los laboratorios productores de las vacunas, se han atrasado las entregas.
+En el caso específico de Pfizer, las entregas del 15 de febrero serán donde empecemos a recuperar ya el ritmo de llegada de las vacunas y, desde luego Pfizer nos reestablecerá lo que no pudimos recibir en la última semana de enero y las dos primeras semanas de febrero.
+Los eventos supuestamente asociados a vacunación e inmunización, sin grandes variaciones: 0.8 por ciento, cinco mil 856, sólo 47 por ciento, 47 de ellos han sido graves, esto representa menos del uno por ciento y con esta cifra que varía cada día con personas que están por algunas horas, en su mayoría, en algunos pocos casos por más de un día hospitalizadas con algunos eventos de importancia.
+En la siguiente tenemos una información general, me parece. Aislamiento ante síntomas de COVID. ¿Este es video? Sí.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Esta es información de promoción de la salud que difundimos a través de las redes sociales, no solamente aquí, pero también consideramos que es útil que esté presente en esta conferencia de prensa.
+Ahora sí, le pedimos al doctor Ernesto Ramírez si nos plática sobre la genética de los virus y su vigilancia.
+---
+ERNESTO RAMÍREZ GONZÁLEZ, TITULAR DE LA UNIDAD DE DESARROLLO TECNOLÓGICO E INVESTIGACIÓN MOLECULAR DEL INSTITUTO DE DIAGNÓSTICO Y REFERENCIA EPIDEMIOLÓGICOS (INDRE)
+Gracias. Buenas noches. Muchas gracias por la atención y la invitación para esta pequeña charla, serán unos cuantos minutos.
+Justamente de lo que queremos platicar con ustedes es sobre la caracterización genómica y genética de este virus SARS-CoV-2. Y, bueno, para poder entrar un poquito en contexto me gustaría platicarles muy breve que este es un virus que su material genético es RNA, seguramente todos ya lo sabemos y está compuesto por cerca de 30 mil nucleótidos, estos nucleótidos es la información genética del virus que hace que se codifiquen las diferentes proteínas por las cuales el virus está compuesto.
+Entonces, el virus codifica estas proteínas, entre ellas está la envoltura del virus, la espícula del virus, la nucleocápside del virus, todas estas proteínas que tenemos de este virus están formadas por aminoácidos, por estructuras llamadas aminoácidos. Cuando cambia un aminoácido es cuando estamos hablando de una sustitución y es cuando estamos hablando de una mutación.
+Esto ocurre con frecuencia en virus que tienen características como esta, que es un virus RNA. Justamente quiero comentar esto porque, que a lo largo de esos 30 mil nucleótidos, pueden ocurrir estos eventos que les llamaremos cambios o les llamaremos mutaciones.
+Con esta caracterización genética, o sea, descifrar cuál es el orden de estos nucleótidos y de esos aminoácidos se les llama secuenciación. Entonces, con esta caracterización genética obtenida por medio de secuenciación se han realizado diferentes clasificaciones de este virus. Actualmente se ocupan principalmente dos que son las que tengo aquí que les llaman grupos genéticos.
+La gente de la plataforma Gisaid, que es una plataforma donde se depositan estas secuencias, les denomina clados y se han determinado al menos siete clados importantes en todo el mundo que son estos que están aquí: S,L,V,G,GH,GR,GV.
+Esto es de acuerdo a las características que tiene este virus genéticamente hablando, o sea, cuando va cambiando, cuando va mutando se va agrupando en estos diferentes clados y también se puede llevar a cabo la determinación de linajes, de linaje A, B, B.2, B.1.
+Si ustedes recuerdan, en las semanas pasada el doctor Alomía les presentó aquí el primer caso de una variante detectada en el estado de Tamaulipas y se denominaba variante o linaje B.1.1.7 y así hay tantas variantes y tantos linajes como ustedes pueden conocer de acuerdo a como este virus ha ido cambiando.
+Y bueno, cada clado, cada grupo genético tiene mutaciones características que lo definen y que hace que se agrupe.
+¿Cómo se agrupa?
+Por medio de unas herramientas bioinformáticas que se llaman árboles filogenéticos. Estos árboles filogenéticos nos van a agrupar estos clados, estos linajes y de acuerdo a esa asociación que tienen filogenética esa asociación que hay entre los nucleótidos. Entre más se parezcan, se agrupan entre sí, por eso tenemos diferencias tanto en nucleótidos como en aminoácidos y podemos clasificar a nuestro virus SARS-CoV-2 en diferentes grupos y clados.
+Esto es el contexto para poderles hablar un poquito de lo que hemos hecho en cuestión de la vigilancia de las diferentes variantes que se han detectado.
+Empezamos por ahí del 20 de diciembre, recibimos un comunicado por parte de la OMS donde nos explican que existe una variante que le denominaron en ese momento la variante inglesa, porque tenía ciertos cambios, ciertas mutaciones a lo largo de su genoma que la hacían característica.
+Una de las principales características de esta variante es que se empezó a dispersar con mayor velocidad en el Reino Unido y por eso llamó mucho la atención.
+Entonces, cuando se empiezan a caracterizar nos damos cuenta y nos emiten en el comunicado que esta variante tiene 23 mutaciones a lo largo de su genoma que son de características importantes. Principalmente las variaciones estaban en esta proteína que se llama espícula.
+Estas variaciones están en el gen S, le llamamos gen S por espícula, y tiene principalmente ahí al menos cinco mutaciones que subrayó ahí en azul.
+¿Qué fue lo que hicimos?
+Para poder detectar que este virus tenga todas estas mutaciones tenemos que hacer la secuencia del genoma completo, que es un procedimiento ciertamente largo e incluso costoso.
+Entonces, lo que hicimos primero es únicamente secuenciar el fragmento en la espícula y observar si estas muestras pueden o no tener estas mutaciones.
+Entonces, definimos esta estrategia y en el caso de que tengamos estas mutaciones, que son características, tenemos la obligación de secuenciar todo el genoma para ver todas las mutaciones las 23 que conforman esta variante.
+El día 10 de enero terminamos de secuenciar la primera muestra de una persona que ya les platicaron haces unas semanas, que era un paciente proveniente, una persona inglesa que venía de un viaje. Hicimos la secuenciación, encontramos estas mutaciones, hicimos la secuencia de genoma completo y detectamos que esta persona tenía las 23 variantes del genoma de esta variante inglesa. Esto fue el primer resultado que dimos el 10 de enero.
+Para el día 13 de enero, como ya empezamos a trabajar con nuestra Red Nacional de Laboratorios de Salud Pública y empezamos a emitir comunicados en donde nos alertaran si había personas que estuvieran regresando de algún viaje, porque puede estar esta variante importada, nos hicieran favor de que si fueran los casos positivos los remitieran a la institución y empezar a hacer una búsqueda dirigida hacia esta variante con estas herramientas.
+Y, bueno, fue el 13 de enero que nos mandaron algunas muestras de Tampico. Encontramos una segunda variante, en automático avisamos a la parte de epidemiología, hacen su trazabilidad epidemiológica y nos empiezan a remitir los contactos de esta persona que resultó variante; dos días después, detectamos que sí es una variante, porque secuenciamos el genoma completo y a los ocho días nos mandan las muestras de los contactos de los familiares, y ya podemos decir que esta mutación, que puede ser importada, ahora se transmitió lateralmente entre los contactos, ya la transmisión fue aquí y presentan específicamente las 23 mutaciones de la variante inglesa.
+Estos fueron los dos primeros casos que tenemos, los denominamos caso Tampico y caso Nuevo León, porque las muestras provenían de estos lugares.
+Sin embargo, la Organización Mundial de la Salud y la Organización Panamericana de la Salud empezaron a detectar algunas otras variantes, entre ellas hay dos: es la variante que le han denominado inglesa, la otra variante que le han denominado la variante Sudáfrica y últimamente ha estado sonando mucho la famosa variante también brasileña o variante Japón.
+Aquí les presento solamente un cuadro de la espícula, la proteína de la espícula donde están las mutaciones características de estas tres variantes.
+¿Por qué ponemos este cuadro?
+Porque quiero enfatizar aquí que para que puedan existir o determinar o clasificar esta variante tienen que estar todas las mutaciones que son características de la misma; de hecho, hemos no es una definición concreta, pero hemos acordado por medio la OPS, de la OMS definir un poco lo que es variante y variante es la acumulación de cambios o de mutaciones en un genoma de un virus que lo hace diferente al original, en este caso a Wuhan, que es el original, pero que estas variantes, que estas mutaciones, estos cambios tengan características que la hagan diferente, que tengan algún tipo de impacto.
+¿Cuál es este impacto?
+Impacto en salud pública, por ejemplo, mayor transmisibilidad que las mutaciones estén asociadas a mayor transmisibilidad o que tenga una asociación, algunos estudios que han hecho investigadores nacionales e internacionales con evasión a respuesta inmune, por ejemplo, o que puedan tener alguna característica que hayan determinado en algunos estudios que puede presentar alguna mayor atracción sobre la célula que va a infectar etcétera, etcétera.
+Estas variantes, estas mutaciones de impacto son las que tenemos que trabajar y estudiar, y esto lo hacemos para hacer una aclaratoria específica sobre esta mutación 484K, es una mutación.
+El hecho de que encontremos un cambio no nos va a indicar que tenemos una variante, tenemos que tener las mutaciones características de la variante, todas las mutaciones características de esta variante.
+En este caso les enfatizo porque, por ejemplo, para que la variante pueda ser brasileña tiene que tener al menos las mutaciones que tenemos en la espícula, que son todas las que están aquí abajo y una de esas es la 484, pero es sólo una.
+Entonces, ya hemos hablado con el caso de las personas que han detectado el hallazgo muy importante, porque encontrar una mutación es un hallazgo muy importante, pero hemos hablado con ellos para que nos envíen las muestras acá, al instituto, para poder llevar a cabo la caracterización genética del genoma completo para poder lucidar si esto es una variante o no, de entrada no podemos decir que esto es una variante.
+Y para que podamos decir incluso que esta es una variante o que fuera una variante mexicana necesitamos caracterizarla bien, genéticamente, clínicamente, epidemiológicamente, cómo se distribuye, cuál pudiera ser su impacto a nivel salud pública.
+Entonces, este es el caso de Jalisco, que queríamos también presentarles aquí esta aclaratoria.
+Y, finalmente, cómo vamos a poder determinar si están habiendo variantes o no están habiendo variantes y cómo podríamos saberlo. Pues tenemos que hacer una vigilancia genómica, tenemos que empezar, de hecho, lo hemos estado haciendo durante todo el año pasado, empezar a observar cómo se comporta este virus genómicamente, o sea, secuenciar un número importante de muestras y ver qué es lo que está ocurriendo, qué es lo que está pasando, qué clados estamos encontrando, qué variedades podemos tener de linajes, etcétera, etcétera.
+Y por eso empezamos a hacer un trabajo ya con un tiempo atrás que tiene que ver un poco con un término que hemos llamado vigilancia genómica del SARS-CoV-2.
+Y aquí quiero comentarles que son ya varios institutos, varios sitios donde han estado haciendo esta caracterización genética y hay una plataforma que se llama Gisaid, que es donde se depositan las secuencias genómicas que cada instituto, cada escuela, universidad, laboratorio empieza a generar, es un repositorio de todas las secuencias donde se analizan, donde se comparten, compartimos nuestras secuencias con las secuencias de Sudamérica, de Norteamérica, de Europa, de Asia y así es como se van realizando esos estudios filogenómicos para poder determinar si existen, si no existen variantes, a quién se parece, a quién no se parece.
+Solamente para comentarles que hemos hasta el momento llevado a cabo en el país ya casi cerca de 750 secuencias de genomas completos. Estos son los institutos donde se han realizado, en el Indre por supuesto en el INER, en el IMG, en la Universidad Autónoma de Nuevo León, en Nutrición, en el IMSS, todas estas secuencias se han depositado.
+Y quisiera comentar acá que como país aportamos esta información y sólo para mostrarles unos números de cómo estamos posicionados en la cantidad de secuencias que estamos realizando a nivel internacional, secuencias de México, solamente estamos por debajo de Brasil y de Chile, que ellos tienen redes de secuencias, redes de laboratorios que hacen secuencia genómica.
+Y quiero comentarles que nosotros estamos tratando ya de empezar a hacer una red de secuencia genómica para incrementar nuestro volumen de datos y tener mayor capacidad y mayor número de secuencias que nos permitan hacer esta vigilancia activa y que, en algún momento, podamos definir qué es lo que está ocurriendo y qué genotipo, qué clado, qué linaje pudiera estar afectando a nuestro país.
+Solamente un agradecimiento a toda la institución, a la unidad que yo tengo el gusto de dirigir y a todos mis compañeros del Indre.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, muchas gracias, doctor Ernesto Ramírez, titular de la Unidad de Investigación y Desarrollo Tecnológico Molecular del Indre, el Instituto de Diagnóstico y Referencia Epidemiológicos, que es la cabeza normativa de la Red Nacional de Laboratorios de Salud Pública.
+Efectivamente, mandamos un saludo y un agradecimiento a todos los nuestros colegas y colegos que trabajan en la Red Nacional de Laboratorios de Salud Pública que es la que sostiene la vigilancia por laboratorio de nuestro país.
+Vamos a avanzar en preguntas y respuestas, estaremos yendo de un lado y del otro. Empecemos aquí con Juan Hernández y liego nos vamos por acá de este lado. Adelante, Juan, por favor.
+---
+PREGUNTA
+Qué tal, muy buenas noches. Juan Hernández, del periódico Basta y del Grupo Cantón.
+Ahora sí la pregunta obligada del día de hoy: ¿cómo está la salud del presidente?, ¿cómo va evolucionando?, porque hoy difundieron un video donde lo ven caminar aquí precisamente por los jardines de Palacio Nacional.
+¿Cómo va?, ¿cree que ya se vaya a presentar el lunes precisamente a su conferencia de prensa o incluso aventurarse de estar mañana en la promulgación de la Constitución, allá en Querétaro?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Va muy bien el presidente. Como hemos dicho toda la semana, prácticamente no ha habido variaciones, puesto que desde el inicio estaba prácticamente asintomático, solamente con febrícula día uno y dos, el domingo y el lunes; el resto, a insistencia de los médicos, cuando le preguntaban si tenía dolor de cabeza, pues dijo: ‘Pues ya, si ustedes quieren, tengo dolor de cabeza’, prácticamente.
+No ha tenido ningún síntoma. En los siguientes días ya cumple -hoy es jueves- prácticamente las dos semanas o una semana y media desde que inició con los síntomas.
+El alta médica será valorada, respecto a sus actividades en el espacio público hay dos perspectivas:
+La primera es que él esté con todos los parámetros de control, por ejemplo, de la presión, que él ha mantenido buen control, pero que pudiera haber ajustes en su tratamiento y que se pueda ya estar tranquilos de que está recuperado.
+Y lo segundo es el alta epidemiológica, y depende también de que él ya no sea emisor de virus. Hoy se le tomaron nuevas muestras y esperaremos el resultado. A esta cantidad de días que han transcurrido, lo más probable es que ya pase a ser negativo, pero vamos a ver el resultado de laboratorio.
+Entonces, está el alta médica, el alta epidemiológica y en su momento pues ya se anunciará, pero ha sido una evolución muy, muy favorable.
+Como les decía ayer, un tanto de broma, un tanto en serio, nos consta a quienes somos sus subalternos, que no ha parado, porque está todo el tiempo al pendiente, particularmente del tema de las vacunas en lo que respecta para COVID.
+Hoy por la mañana tuvimos videoconferencia con él, los que formamos parte del sector Salud y él directamente estaba dándonos instrucciones.
+---
+INTERLOCUTORA
+¿El domingo podríamos saber si el presidente va a estar ya en la mañanera?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Yo calculo que sí, no anticipemos vísperas, quien tendrá que dar el alta médica es el doctor Alcocer y el alta epidemiológica también la tendrá que autorizar él, pero lo anunciaremos, sin duda alguna.
+Muy bien, vámonos con Natalia Vitela, con un compañero acá y con Judith, de aquel lado.
+---
+PREGUNTA
+Gracias. Buenas noches, doctor. Le quiero preguntar:
+Ayer comentó usted de unas enmiendas respecto a la vacuna de Sputnik, la vacuna rusa. Quería saber en qué consisten estas enmiendas y cuándo ya sería posible que empezaran a llegar las vacunas. No sé si va a llegar antes la vacuna rusa, que la propia vacuna de Pfizer. Esa sería una pregunta.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es una buena… Hay que hacer una quiniela, no lo sabemos.
+Respecto a las enmiendas, como le comentaba ayer en la posconferencia, fueron realmente enmiendas menores, se encontró que faltaba un punto y coma, se encontró que un inciso estaba mal calificado, en fin, nada relevante, nada sustantivo, no ha habido cambios sustantivos en el convenio o contrato, y hemos estado justo en el envío y el retorno, el envío y el retorno. La versión más reciente firmada ya por el doctor Alcocer, y para nosotros final, está ya en Rusia y esperamos que mañana, al amanecer mexicano, ya tengamos ahora sí la versión final que ellos hayan no sólo autorizado, sino firmado.
+Respecto a los tiempos de entrega, tenemos en este momento la noción. Lo acordado con ellos es que una vez que nos manden firmado el contrato, nos mandarán en 48 horas la tabla de tiempos de entrega con detalle.
+Respecto a la pregunta que también usted hacía ayer o anteayer, estamos también en el proceso de contratación de la empresa de paquetería que transportará el producto de Rusia hacia México.
+---
+INTERLOCUTORA
+Y también le quiero preguntar sobre la plataforma para vacunación de adultos mayores. Quiero saber cuántos registros llevan hasta el momento.
+Y también ¿están o se continúan haciendo estas llamadas telefónicas a adultos mayores? Hay como una confusión entre si es personal de salud, ¿o quién les está marcando?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, muchas gracias. Aquí le doy… Casi medio millón de registros nos informa Emiliano Calderón, nuestro colega de Política Digital Nacional.
+Las llamadas telefónicas, sí, efectivamente, sobre todo en el área rural, que es donde sabemos que hay menos acceso al internet, se siguen haciendo las llamadas.
+Las llamadas tienen múltiples propósitos, uno de los principales es identificar la vigencia de los datos de residencia de las personas. Hay personas que se mudan, hay personas que desafortunadamente fallecen, insisto, no necesariamente por COVID, se han hecho ya varias llamadas y se ha identificado hasta un siete por ciento de personas que fallecieron desde la última vez que fueron registradas y no parece ser que la mayoría haya sido resultado de COVID, sino de causas varias, en sobre todo las personas de edad más avanzada. Entonces, estas llamadas seguirán en paralelo.
+Y como decíamos en la infografía que se presentó y que está en la propia plataforma, el ciclo tiene los dos elementos: la llamada y el registro en plataforma.
+Para las personas que logran registrarse, tengan la tranquilidad de que ya no tienen que hacer algo adicional, simplemente esperar. Se les contactará si así hace falta; si no hace falta, no se les contactará de momento y cuando ya lleguen las vacunas y ya se hayan establecido los puntos específicos de arranque de la vacunación, entonces se les llamará para corroborar que han recibido información de la cita que tendrán al punto exacto de vacunación.
+---
+INTERLOCUTORA
+Otra duda, con respecto a las pruebas del presidente, ¿cuándo se hizo la última prueba?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hoy.
+---
+INTERLOCUTORA
+¿Y qué resultado?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estamos esperando el resultado.
+---
+INTERLOCUTORA
+Okey, gracias. Si sale positivo ¿todavía tendría que volverse a hacer otra prueba?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Desde el punto de vista epidemiológico sí, desde el punto de vista médico o clínico, en realidad ya no, no hay necesidad, una vez que se sabe que es positivo una persona ya se maneja la vigilancia médica.
+---
+INTERLOCUTORA
+¿Mañana tendrán los resultados?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Yo creo que sí, yo creo que sí.
+---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien, vamos a pasar con Juan Carlos Machorro, AM Noticias, de Querétaro.
+---
+PREGUNTA
+Buenas noches, Juan Carlos Machorro, de AM, de Querétaro.
+Doctor Ernesto, esta cuestión que usted comentó que se está todavía investigando esta mutación de Jalisco, ¿cómo van en esa investigación?, ¿cuándo se sabría si como usted expuso sería solo una mutación o si puede llegar a ser una variante?, ¿cuándo tendrían ustedes ese conocimiento?
+Y en dado caso que sí fuera una variante, ¿qué sucedería?, ¿qué es lo que se tendría que investigar en Jalisco para, si llegase a ser una variante, no se expanda más?, ¿o cómo estaría el tema?
+Y si me permite, doctor Gatell, nos han llegado diversas denuncias sobre falta de medicamentos para diversas enfermedades, no solo nosotros, sino diferentes medios de comunicación lo han documentado.
+¿Qué sabe usted al respecto?, ¿esto se puede solucionar con el instituto que el presidente ha anunciado para compras directas de medicamentos, todo esto?, o sea ¿la Secretaría de Salud participaría en ese instituto? que no sé si ya se haya conformado.
+Se hablaba que para compras directas de medicamentos a los diferentes laboratorios internacionales-
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita le contesto.
+Adelante, estimado Ernesto.
+---
+ERNESTO RAMIREZ GONZÁLEZ
+Gracias, muchas gracias por la pregunta. Mira, el día de hoy acabamos de recibir o estamos recibiendo en estos momentos las muestras de las cuatro muestras que nos informaron que presentan esta mutación que se encontró por medio de una diferenciación por espícula PCR, es una tecnología que nos permite saber si está ausente o presenta una mutación, pero no vemos la mutación.
+Entonces, el día de hoy y mañana estaremos haciendo las primeras pruebas con únicamente la espícula para secuenciar un pequeño fragmento y el día martes ya tenemos programado realizar la secuenciación de genoma completo.
+No podemos estar secuenciando diario porque tenemos que juntar bastantes muestras para hacer eficientes nuestras pruebas. Entonces, esto está programado para el día martes y estimamos unos ocho días en terminar la secuencia de genoma completo.
+En dado caso de que se confirmara alguna variante de interés o alguna secuencia genómica que pudiera ser de interés, en automático le informamos mediante una nota técnica a la Dirección General de Epidemiología, al doctor José Luis Alomía. Ellos realizan todo un cerco epidemiológico en el sitio, hacen rastreos, buscan si tiene antecedentes de viaje, si no tiene antecedentes de viaje, todos sus contactos, etcétera, para poder hacer un trabajo integral a nivel epidemiológico y empezar a ver características clínicas, características específicas de los pacientes, tomas de muestras, cuándo fueron, cuál fue su evolución, cuál es su estatus actual, todo eso se tendría que hacer en dado caso de que encontráramos alguna especie de variante; sin embargo, reitero, hasta que no tengamos la secuencia de genoma vamos a poder definir esto.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Sobre el otro tema de medicamentos, no identifico a qué se refiere con un instituto especial para comprar medicamentos, no conozco que haya tal cosa, quizá a lo que se está usted refiriendo es al Insabi, el Instituto de Salud para el Bienestar que fue establecido al inicio del año pasado.
+---
+INTERLOCUTOR
+(Inaudible) una oficina directa para la compra de medicamentos, para los ahorros y toda esta cuestión, que sean compras directas para los diferentes organismos de la federación, para los laboratorios internacionales, para evitar triangulaciones, intermediarios, etcétera. No sé si usted sepa algo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a investigar y le comento, no identifico a qué se refiere con eso, pero lo investigamos.
+Muy bien, Jude Webber, Financial Times.
+---
+PREGUNTA
+Muchas gracias, doctor.
+Tengo una pregunta para usted y una pregunta también para el doctor Ernesto. Para usted, el presidente en su video habló de adelantar la próxima entrega de la vacuna Pfizer al día 10, que es lunes; sin embargo, creo que usted en el Pulso de la Salud de esta semana hablaba del 15. ¿Qué hay de cierto?, ¿va a ser el 10 o el 15, o no se sabe todavía?
+Y para el doctor Ernesto, entiendo que es difícil secuenciar todas las muestras, muchas muestras todo el tiempo, pero ¿tienen una idea de que tan prevalentes están las variantes? En algunos países, por ejemplo, en el mío ya las variantes ya están… pues representan casi la mayoría de los casos de las infecciones. ¿Aquí cómo estamos?, ¿o no se sabe? ¿hay una estimación que se pueda hacer?
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. Adelante.
+---
+ERNESTO RAMÍREZ GONZÁLEZ
+Sí, gracias. Muchas gracias. Buenas noches. Mira, la factibilidad de llevar a cabo procesos como secuenciación genética o genómica en este caso del virus es compleja y se requiere de tecnologías especializadas.
+Actualmente, podemos contar con esas tecnologías en diferentes laboratorios, diferentes institutos, estamos formando una pequeña red para poder dar una respuesta con mayor cobertura, el proceso es un poco tardado; sin embargo, es muy importante que se hace.
+Hay otros lugares como el país vecino del norte que tienen una mayor capacidad instalada y tienen mayor número de muestras secuenciadas, entonces su vigilancia es un poco más activa, digamos.
+Y con relación a las variantes, te puedo comentar que en el caso de la variante británica, al momento se ha detectado en más de 50 países ya y cada uno de los países aporta esta información a través de estas plataformas de Gisaid.
+Te puedo comentar que, por ejemplo, de la variante de Sudáfrica hasta el momento había, bueno, hoy en la mañana que revisé la Plataforma de Gisaid, había ya 30 países que tienen esta variante y cerca de 300 o 350 secuencias depositadas que presentan esta variante.
+Entonces, esa es una dispersión de forma natural que se lleva a cabo en todos los países y cada país de acuerdo a su capacidad de llevar a cabo secuenciaciones es como podrá tener información. De hecho, por eso podemos tener mucha información de la variante brasileña, porque tiene una capacidad fuerte de llevar a cabo secuenciación.
+Esperemos nosotros como país también tener una respuesta fuerte para poder detectar cualquier cambio que pudiera ser relevante a nuestro país.
+Y sí, en las páginas públicas del Gisaid puedes conocer cómo es la situación de cada variante, cómo se distribuye a nivel mundial y cuáles son los países que las presentan.
+---
+INTERLOCUTORA
+(Inaudible) no tenemos una idea bien clara de cuántos de los nuevos casos cada día, cuántos son variantes, no sabemos aún.
+---
+ERNESTO RAMÍREZ GONZÁLEZ
+No, tenemos…. En el caso de México, hasta el momento hemos detectado cinco, no quiere decir que sean todas las que hay, conforme vayan llegando muestras y estemos haciendo esta vigilancia activa, vamos poder detectar más y vamos a poder definir cuál es el porcentaje de nuestras variantes con relación al resto de las muestras que estamos secuenciando.
+Es un proceso que tiene que hacerse activo semana con semana, mes con mes para poder determinar estos porcentajes, estas cantidades de muestras con relación a lo que circula.
+Por ejemplo, cuando reportamos la muestra el día 10 de enero y la subimos al Gisaid era la primera muestra que secuenciamos en el año, entonces decían que teníamos el 100 por ciento de la variante, obviamente eso no es cierto, porque era una secuencia y aún era variante.
+Pero ahorita que ya llevamos un buen número de muestras secuenciadas no estamos encontramos variante inglesa en todos los casos que estamos secuenciando en el país, ya cada país tiene sus datos y los datos están públicos en las plataformas depositarias de secuencias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Perfecto, muchas gracias, Ernesto.
+Sobre la entrega de la vacuna Pfizer, efectivamente, como lo hemos comentado, las entregas son semanales. Desde hace algunas semanas Pfizer anunció tanto públicamente como desde luego nos lo comunicó a nosotros oficialmente que ampliaba su planta productora de vacunas para el mercado internacional fuera de Estados Unidos.
+Hay una planta que está en Bruselas, Bélgica para el resto del mundo que no sea Estados Unidos, Pfizer es una empresa de Estados Unidos, y hay una planta en Estados Unidos para la fabricación de vacuna específicamente para Estados Unidos.
+Y dada la enorme demanda de vacuna que hay en varios países del mundo, se vio la necesidad de ampliar, por razones técnicas tienen que parar la planta para hacer las remodelaciones y después ya reiniciarla. Ese es un factor.
+El otro factor que también en su momento comentamos, incluso el propio presidente, es que Pfizer se comprometió con el mecanismo Covax, el mecanismo solidario multinacional organizado por la OMS para distribuir vacunas en forma equitativa, lo cual felicitamos y celebramos en el caso de Pfizer y eso a su vez hace que haya mayor presión de demanda para la compañía.
+Y en términos netos, a lo que llevó para México es que se suspendieran las entregas de la última semana de enero y las dos primeras semanas de febrero con un plan de restituir a partir del 15 de febrero.
+Hace unos pocos días, no recuerdo exactamente cuántos, me parece que hace una semana, sí, fue hace una semana, el 19 de enero, el presidente habló con… No, la semana previa al 19 de enero el presidente habló con el gerente general de Pfizer y le solicitó que explorara la posibilidad de que de lo que nosotros vamos a recibir el 15 de enero, que incluye lo originalmente programado más una compensación para reparar el faltante de abasto, nos pudieran adelantar al menos una semana, entre el 8 y el 10 de febrero.
+Pero el viernes reciente la Unión Europea -esto se ha comunicado- la Unión Europea tomó una serie de resoluciones que tienen que ver con los controles de salida, de exportación de los productos de las vacunas fuera del territorio europeo, el territorio de la Unión Europea.
+Y esto es una restricción externa a Pfizer, independiente del contrato, desde luego externa a las decisiones que puede tomar México y afecta a todos los países que tenemos contratos con Pfizer y por lo tanto recibimos producto desde la planta de Bélgica.
+Ante esa situación, Pfizer nos ha comunicado que está en imposibilidad de cumplir con la petición que ha hecho el presidente López Obrador; entonces, el siguiente embarque vendrá el 15 de febrero.
+Muchas gracias.
+Adelante, Arturo Contreras, Pie de Página.
+---
+PREGUNTA
+Muy buenas noches. Gracias. Arturo Contreras, Pie de Página.
+Un par de dudas sobre las variantes. Hay muchos expertos en Brasil que están preocupados por algo que llaman la evolución convergente, que varias mutaciones, varias combinaciones de mutaciones empiece a producir nuevas variantes. No sé si nos pudiera explicar un poco más al respecto.
+Y saber si se han hecho secuencias en personas reinfectadas para un poco descubrir cómo se da este fenómeno de reinfección y cómo podría funcionar un poco la inmunidad.
+Gracias.
+---
+ERNESTO RAMIREZ GONZÁLEZ
+Recordemos que este es un virus RNA y seguramente van a ocurrir fenómenos de cualquier tipo que tengan que ver con este tipo de cambios en su material genético.
+Brasil ha estado trabajando muy fuerte, tienen una gran cantidad de especialistas en esto, han encontrado mucha asociación en cuestiones de impacto de transmisibilidad, por ejemplo, de las muestras.
+Entonces, seguramente vamos a tener bastante, bastante información que en los próximos meses seguramente va a estar lista y útil para que los que estamos recibiendo toda esta información tracemos con nuestras propias secuencias lo que está ocurriendo en nuestro país.
+Con relación a las secuencias que me comentas de las reinfecciones, se ha determinado por parte de los CDC de Estados Unidos y de la Organización Mundial de la Salud lo que significa el término reinfección, que tiene que ocurrir un periodo entre una primera infección y una segunda infección con un resultado negativo en medio de las dos infecciones.
+Lo que hemos hecho nosotros en el laboratorio es: la primera muestra positiva y la segunda positiva la secuenciamos ambas y tiene que haber, para que pueda considerarse una reinfección confirmada, al menos o diferencias de clados, quiere decir que tengo un clado GH, y un clado GR, en automático estamos hablando que son dos grupos genéticos diferentes, se confirma una reinfección; o que al menos tenga dos o tres mutaciones por mes, esto es: si entre la primera infección y la segunda infección pasaron dos o tres meses que existan una cantidad importante de mutaciones entre las dos cepas para que las podamos considerar cepas… perdón, variantes distintas o clados distintos.
+En el caso de nosotros detectamos ya algunas, en algún momento se presentaron por acá, el caso de Guerrero, por ejemplo, la muestra de Guerrero, pasaron 120 días, se volvió a infectar y estaban agrupadas filogenéticamente en dos clados distintos, entonces estamos hablando de una reinfección confirmada por laboratorio.
+Así es como se hace el procedimiento.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Liliana Noble, Pulso Saludable; y Carlos Abaroa, UnomásUno.
+---
+PREGUNTA
+Gracias. Buenas noches. Liliana Noble, de Pulso Saludable. Hola, doctor Ernesto, me da gusto verlo.
+Quisiera saber ¿el virus se modifica por su estructura de RNA o el hospedero es quien a lo largo del tiempo va modificando al virus?, esa sería una primera pregunta.
+---
+ERNESTO RAMÍREZ GONZÁLEZ
+Generalmente son cuestiones adaptativas y principalmente el virus, al utilizar el proceso de replicación de la célula, el virus por sí solo entra y utiliza… A veces la maquinaria de la célula para poder llevar a cabo estas replicaciones, tiene sus propios elementos replicativos y entonces, al ser un material genético RNA, tiene la facilidad de tener una tasa de mutación mucha más rápida que los virus que son DNA.
+Entonces, las enzimas empiezan a cometer de alguna manera errores, puede ser eso; o puede ser que se vayan adaptando a su huésped, ¿qué digo con eso?, que es un proceso a lo largo del tiempo de adaptación del virus a su entorno ¿no?, eso es lo que ocurre generalmente con los virus tipo RNA.
+---
+INTERLOCUTORA
+Y, por ejemplo, una variante ¿qué características tendría que tener?, no sé si por la virulencia o por la fase transmisibilidad tendría que ocuparle mucha atención a los gobiernos y que pudiera poner en riesgo algunas de las actuales vacunas.
+---
+ERNESTO RAMÍREZ GONZÁLEZ
+Yo creo que tenemos que contextualizar bien lo que significa una variante.
+Cuando tenemos dos o tres mutaciones o cuatro que están en el mismo sitio, en la misma proteína y tienen actividad que puede coadyuvar entre ellas para poder ejercer una mayor transmisibilidad, lo que va a ocurrir es que vamos tener una velocidad de infección mucho más rápido.
+Eso pone en alerta para que tengamos una capacidad a lo mejor una mayor capacidad hospitalaria o tengamos mayor atención a esto.
+Hasta el momento no se ha encontrado que existan marcadores o mutaciones que estén asociados a virulencia, que sea más virulento este SARS-CoV-2.
+Se ha hablado de que tienen mayor afinidad con el recepto, con su célula donde va a atacar, se ha hablado que puede de repente el virus tener una evasión a una respuesta inmune, los anticuerpos no atacan al virus; se ha hablado de varios estudios, hay varios estudios, entonces todos estos estudios cuando convergen cuando están en el mismo sentido pueden ocurrir variantes que sean de interés en impacto en salud pública, por eso se tiene que informar, se tiene que compartir para que se hagan las acciones pertinentes.
+No nos tenemos que preocupar de estar buscando todos los linajes y todas las variantes, porque no todos son de ese interés, pero sí los que sí se hayan estudiado, los que estemos estudiando, los que tengan algún impacto específico, la respuesta es sí.
+Ejemplo, en los primeros meses del año 2020 lo que más tenemos circulando en el país era un linaje que se llamaba B1, B.1, de las 700 muestras 200, 250 eran linaje B1.
+En los últimos tres meses lo que más tenemos es linaje 1.1.222, es lo que estamos observando, ahora tenemos que ese linaje lo tenemos que observar, ver, caracterizar, encontrar si tiene mutaciones relevantes y si eso lo tenemos en automático lo informamos a nuestras autoridades para que tomen interés sobre lo que tengamos presente.
+---
+INTERLOCUTORA
+Y, finalmente, doctor Alomía, ¿cuándo considera usted que sería el momento o cuánto tiempo tendría que pasar la persona que ya tuvo COVID para poder acceder a la vacuna? días, semanas, etcétera.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, la recomendación es para vacunación, en este caso específico, que es la vacuna que actualmente se tiene en México, que es la de Pfizer, es específicamente que la persona no esté cursando, en el momento en que se va a colocar la primera dosis, que no esté cursando con los signos y los síntomas de la enfermedad y que efectivamente no haya padecido, es decir, que haya sido un caso sospechoso, inclusive confirmado de la enfermedad en las últimas dos o tres semanas.
+Eso es algo que se está, inclusive, preguntando al momento de que la persona llega al módulo correspondiente y se toma en cuenta obviamente para poder aplicar la vacuna. No quiere decir que no se la va a ya a aplicar, simplemente, a lo mejor en ese momento no se puede, pero entonces será reagendada para que más adelante pueda hacerlo, recordando que el hecho de haber padecido COVID no es una contraindicación o no es necesario demostrar haberla tenido o no haberla tenido para poder recibir la vacuna.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Muchas gracias.
+Finalmente, Carlos Abaroa, Unomásuno.
+---
+PREGUNTA
+Gracias, doctor. Buenas noches, doctores.
+Doctor, una pregunta respecto de la saturación de hospitales. El estado de San Luis Potosí se encuentra en semáforo rojo, lectores de esa zona nos reportan que el hospital general del municipio de Rioverde está completamente saturado, ya no hay disponibilidad de camas en este hospital. Si tuviera algún dato que nos pudiera brindar y qué alternativas se les podría brindar de parte de la Secretaría de Salud a la población de esa región.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. No tengo el dato específico de lo que está ocurriendo en San Luis Potosí a nivel de ese detalle, pero sí le comento a la población de San Luis Potosí lo mismo que le comento a toda la población del país: es muy importante llamar al 911.
+¿Qué es lo que está ocurriendo y ha venido ocurriendo por varios meses?
+Que las personas van a un hospital, lo encuentran ocupado y entonces tienen que buscar otro hospital, lo encuentran ocupado, tienen que buscar otro hospital, lo encuentran ocupado.
+Esto desde luego ocurre en los estados cuando se encuentran en mayor porcentaje de ocupación, muy distinto a lo que está ocurriendo en los estados que tienen mínima ocupación, Campeche, Chiapas, varios de los estados que están en el semáforo amarillo en este momento.
+Pero durante la etapa en que se encuentran en semáforo rojo, en este momento los principales siguen siendo la Ciudad de México, la zona conurbada del Valle de México en el Estado de México y Nuevo León encuentran esta situación.
+Entonces, para eso está el Centro Regulador de Urgencias Médicas, 911, 9-1-1, 9-1-1, es el número universal de atención de emergencias en México, y de hecho en muchos países es el mismo número. Este sistema es un centro telefónico que está regionalizado. Si yo tomo mi teléfono y marco 911 aquí en la Ciudad de México me va a tener información, me va a contestar una persona y me va a tener información sobre lo que ocurre en la Ciudad de México; si yo estoy en Rioverde, San Luis Potosí, y marco 9-1-1 tendrán información sobre lo que ocurre en San Luis Potosí. Y esta es la manera de tener información en tiempo real sobre la ocupación hospitalaria, y eso lo que facilita es que se le pueda orientar a la persona y decirle: ’No intente ir a ese hospital porque está lleno, en cambio intente ir a este otro hospital’.
+Recordar que, durante todo este tiempo, gracias a que desde abril se firmó un convenio interinstitucional, la derechohabiencia no es un límite y se puede atender a una persona, se debe de hecho atender una persona que se encuentre en una necesidad urgente aun cuando no tenga derechohabiencia de una institución en particular.
+Entonces, esta es la recomendación que le doy a quien viva en Rioverde, San Luis Potosí, tanto como cualquier persona que viva en otra entidad federativa.
+Muchas gracias.
+Aquí terminamos, ya no nos da tiempo, son 19:59, pero mañana continuamos y seguiremos informando tanto del estado que guarda la epidemia como de la vacunación contra COVID.
+Le agradecemos a Ernesto Ramírez, nuestro compañero de la Unidad de Investigación y Desarrollo Tecnológico Molecular del Indre, y seguimos. Muchas gracias.

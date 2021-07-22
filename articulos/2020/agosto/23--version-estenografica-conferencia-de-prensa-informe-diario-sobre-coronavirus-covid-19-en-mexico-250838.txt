@@ -3,6 +3,7 @@ Presidencia de la República
 23 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Hola, qué tal, muy buenas noches. Son las 19:00 en punto de este domingo 23 de agosto de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico que presentará el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud aquí presente.
 Tenemos un componente temático que es de gran interés y para ello nos acompaña el comisionado nacional contra las Adicciones, el doctor Gady Zabicky Sirot. Bienvenido, Gady.
 Como ustedes conocen, el doctor Gady es un conocido y respetado siquiatra, que nos ha venido a hablar, junto con los otros colegas del grupo de la Comisión Nacional de Salud Mental y Adicciones el proceso de creación sobre las distintas inquietudes que pueden existir a lo largo de un fenómeno tan complejo como una pandemia con respecto a la salud mental de la población.
@@ -10,6 +11,7 @@ Dentro de ese tema amplio, complejo de la salud mental están las adicciones. Ho
 Le pido al doctor Cortés si presenta el informe técnico y luego seguimos.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Con gusto, doctor López-Gatell. Muchísimas gracias. Muy buenas tardes tengan todas y todos aquí en Palacio Nacional y desde sus hogares, desde el dispositivo que nos sigan, teléfono celular, tableta o televisión. Muchas gracias.
 Hoy vamos a empezar con esta diapositiva ya conocida. Es el día 85 de la Nueva Normalidad y esta es la conferencia de prensa 177. Estamos iniciando la semana epidemiológica número 35, por lo que los datos que vamos a ver ahora incluirán la semana número 33, dado que ayer culminó la 34 y estamos presentando con dos semanas de retraso la información para estar seguros de que la información que se presenta es una información que va a tener un mínimo cambio que pudiera tener en la semana más actualizada.
 Este mapa es el escenario mundial, la clasificación de todos nuestros países de todo el mundo de cómo están clasificados de acuerdo a su tipo de transmisión. Como podrán ver, en color rosa estamos los países que tenemos transmisión comunitaria, en amarillo los que están catalogados como un conglomerado de casos, aun como es el caso de los países europeos, que ya disminuyeron su primera curva epidémica, su primera ola pandemia y que ahora están empezando a crecer de nuevo; en azul oscuro los casos esporádicos y pintadito de azul claro un país sin casos.
 Actualmente tenemos un total de casos confirmados en el mundo de 23 millones 57 mil 288 casos a los que se les ha realizado alguna prueba y que ha resultado con un resultado, valga la redundancia, positivo a SARS-Cov-2.
@@ -35,7 +37,11 @@ Tenemos un total de 10 mil 466 camas con ventilador, de las cuales están dispon
 Aún en el estado de Colima tienen por encima del 60 por ciento de ocupación, pero esto quiere decir que tienen un 39 por ciento de disponibilidad; asimismo, Nuevo León, con 43 por ciento; Aguascalientes y la Ciudad de México con 52 y 59 por ciento de camas con ventilador disponibles para todas las personas que así lo requieran en este momento.
 Muchísimas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés. Doctor Zabicky, si es tan amable
+---
 GADY ZABICKY SIROT, TITULAR DE LA COMISIÓN NACIONAL CONTRA LAS ADICCIONES (CONADIC)
+Muchas gracias, subsecretario. Con su permiso.
 Bien, yo empezaré, como siempre, con un muy cordial saludo a toda la población, con ciudadanos y ciudadanas de la toda la República, aquí en la sala de prensa, en sus viviendas, en sus centros de trabajo.
 En especial, como siempre, un saludo harto cálido a los médicos, médicas, enfermeros, enfermeras, paramédicos que están combatiendo la pandemia; a todos los trabajadores de los centros de atención para la prevención de adicciones de nuestras 336 unidades en toda la República. Un muy fuerte abrazo y un reconocimiento a su trabajo.
 A todos los hospitales de la red de salud mental, en donde tantos trabajadores y trabajadoras cumplen a diario con sus obligaciones para beneficiar a todos los mexicanos y mexicanas.
@@ -123,13 +129,16 @@ Hasta aquí voy a dejar mi intervención. Agradezco muchísimo su atención, esp
 Muchas gracias, subsecretario.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Gady Zabicky Sirot, comisionado nacional contra las Adicciones, siquiatra, adictólogo, especialista en este campo. Agradecemos mucho la participación del doctor Zabicky siempre, nos ilumina, nos orienta mucho y le seguiremos pidiendo que nos acompañe para tratar estos temas tan importantes.
 Vamos a abrir a preguntas y comentarios. Por favor.
 ---
 PREGUNTA
+Gracias, doctor. Muy buenas noches.
 Ya el día de ayer llegamos al escenario que algún momento usted había pronosticado como catastrófico, ya más de 60 mil fallecimientos.
 Respecto a esto yo quisiera preguntarle: ¿a qué factores atribuiría a que hayamos llegado a este escenario?, ¿y cómo han cambiado las proyecciones a partir de que ya nos encontramos justamente ya con más de 60 mil fallecidos por COVID-19?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con todo gusto. Llevamos 177 conferencias platicando sobre esto, pero sí aun quedas dudas, lo volvemos a comentar.
 Los factores son múltiples, uno de ellos importantísimo, hoy lo expone el doctor Zabicky con una de las cuatro condiciones de salud que más influyen en la letalidad de las personas con COVID, que es el tabaquismo, pero tenemos otras tres: obesidad, hipertensión, diabetes.
 En México tenemos una población que sufre desde hace varias décadas, dos al menos, de la más grande epidemia de obesidad, sobrepeso, diabetes, todo el conglomerado le llamamos enfermedades no transmisibles o enfermedades crónicas, también se conocen como enfermedades metabólicas o cardiometábolicas según se incluya o no las distintas alteraciones cardiovasculares, los trastornos de la circulación arterial, los infartos cardíacos, los infartos cerebrales o simplemente las alteraciones metabólicas.
 En todos los casos la mitad, la mitad de la mortalidad en México, todos los años, que estamos hablando de cerca de 350 mil muertes, todos los años desde hace cerca de 15 años o quizá un poco más se asocian con la mala nutrición.
@@ -153,11 +162,25 @@ Es muy importante entender el contexto. A veces, desde luego, respeto la liberta
 Y se nos olvida o quizá no sé si sea intencional o no por parte de estos medios de comunicación corporativos, pero la sociedad lo sabe, la sociedad sabe que llevamos 40 años con un grave deterioro de las condiciones de vida para las mayorías, y desde luego en consecuencia una gran concentración del ingreso en minorías muy privilegiadas.
 Gracias.
 ---
+INTERLOCUTORA
+(inaudible) las proyecciones.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Las proyecciones, hay muchos grupos académicos que hacen proyecciones, cada una tiene su metodología y, a diferencia de lo que a veces se ha querido identificar que las proyecciones son promesas, no funcionan así, esto también ya lo hemos comentado, las proyecciones son escenarios y nosotros apelamos al conocimiento científico de varias comunidades, algunas directamente vinculadas con nosotros.
 Y vuelvo a agradecer siempre que digo esto a Conacyt y a las instituciones públicas de investigación como el Cimat, Centro de Matemáticas, y también la Universidad Nacional Autónoma de México, trabajamos directamente junto con ellas y ellos, pero también hay otras, hay otras.
 Hoy veía yo en la prensa una que hablaba de las predicciones que hace el grupo de la Universidad Washington en Estados Unidos, es un grupo académico muy sólido, muy conocido que hace distintos escenarios de carga global de la enfermedad y también predicciones y hay otras, hay otras que continuamente se están revisando.
 ---
+INTERLOCUTORA
+¿Entonces podría decir que usted se siente satisfecho con el manejo que ha llevado el gobierno federal en la pandemia de COVID-19?, ¿se siente satisfecho?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Considero que la evidencia que hemos revisado a lo largo de 177 sesiones aquí hacia el público muestra consistentemente, bueno, hoy tuvimos una nueva visualización de la curva. Si pudiéramos ponerla para ayudar aquí a… ¿de qué medio es usted?, ya no nos dijo.
+---
+INTERLOCUTORA
+Multimedios.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Multimedios, para que Multimedios visualice otra vez esta perspectiva, para que lo vea con claridad. Vamos a poner la anterior, esta, para Multimedios y otros medios que quisieran volver a ver qué quiere decir aplanar la curva.
 Si vemos… Bueno, estas son curvas epidémicas, esto es el tiempo, esta es la cantidad de casos por millón de habitantes, importantísimo que las comparaciones consideren el tamaño de la población, de otra manera es una comparación incorrecta, técnicamente incorrecta.
 Tenemos algunos países de la región de América, es concretamente el continente americano, hemos hecho esta misma visualización considerando los países europeos que tuvieron las epidemias más aceleradas, más explosivas al inicio de la pandemia.
 Pero vean ustedes esta línea, esta línea azul es Estados Unidos. Enfoquen su atención solamente en esta parte. La inclinación de esta línea, la inclinación, es decir, así, así, así, está en esta inclinación, está más de 45 grados, esto está casi a 85 grados. Eso lo que quiere decir es la velocidad a la que va a aumentando la epidemia, porque esto es el tiempo y esto es la cantidad de casos por millón de habitante. Y es en el continente una de los cambios más rápidos de la aparición más rápida de casos nuevos ajustada por la población, por el tamaño poblacional.
@@ -181,11 +204,13 @@ Lo que sí le puedo decir es que las medidas que técnicamente son procedentes p
 Araceli Aranday, Canal 11.
 ---
 PREGUNTA
+Gracias. Esta tarde la Cofepris anunció que se había reunido con una empresa farmacéutica y unos laboratorios para iniciar lo que será el proceso de la creación de una vacuna.
 Yo quiero preguntarle. Ellos dicen que los resultados estarán entre octubre y noviembre si y sólo si son favorables las pruebas.
 Me gustaría que me dijera ¿en qué escenario no podrían ser favorables?, y de ser favorables, ¿cuántas piezas se podrían adquirir de la vacuna?
 Y si no es favorable, si también tienen otro plan B, muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias Araceli Aranday, de Canal 11.
 El tema de la vacuna es muy importante y lo seguiremos abordando en los siguientes días y semanas. Un resumen para toda la población, hoy que es 23 de agosto no tenemos ninguna vacuna en el mundo entero, no hay una vacuna que ya haya demostrado eficacia.
 Hay cerca de 10 vacunas, candidatos a vacuna, que están en la fase de investigación clínica final, que es la fase 3, en donde se hacen estudios comparativos que tienen como propósito estimar numéricamente la eficacia y también identificar parámetros de seguridad, además de calidad.
 Estos tres componentes son los fundamentales para solicitar los registros sanitarios, en otros lugares del mundo se les como licencias sanitarias, en México se conoce como autorización sanitaria de los productos de uso humano.
@@ -196,3 +221,22 @@ Sin embargo, hay otras vacunas, un ejemplo muy conocido es el de la influenza, q
 Entonces, son distintos los perfiles de utilidad que puede tener una vacuna de acuerdo a la magnitud de su eficacia y el perfil. Perfil le llamamos a en quién logra ese efecto, lo logra en personas sanas o lo logra en personas con enfermedades crónicas, lo logra en ciertas edades, lo logra en condiciones fisiológicas particulares como el embarazo, todo eso se debe conocer para definir los esquemas de vacunación.
 Definir el esquema de vacunación no le toca a Cofepris, pero el punto de partida para identificar las posibilidades de otorgar una autorización sanitaria sí dependen de Cofepris.
 Y este grupo de trabajo efectivamente es muy importante que se haya establecido para empezar a correr en paralelo los distintos procesos analíticos, no me refiero a análisis químicos de la vacuna, sino de análisis de la evidencia, y entonces que no haya ningún obstáculo de procedimiento, de burocracia que pudiera hacer lento el acceso a la vacuna., que lo único que pudiera limitar su uso fuera, que esperamos que no sea así, una situación en la que la vacuna no fiera tan competente como todos y todas quisiéramos.
+---
+INTERLOCUTORA
+¿Se tiene ya el número de piezas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No se puede definir por el momento el número de piezas, precisamente porque depende del perfil del uso y el perfil de uso de cuáles son las características del efecto de la vacuna, entonces por eso.
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No hay un a priori, una preferencia por esta vacuna versus otras, en esta se han hecho gestiones que ya fueron anunciadas para tener un acceso facilitado y las partes interesadas están dispuestas a hacer inversión y capacidad de llenado con empresas farmacéuticas mexicanas que harían el embotellado final del producto, eso facilita las cosas, pero el plan B es: todas las demás vacunas que pudieran ser competentes se consideran en el portafolio de posibilidades.
+---
+INTERLOCUTORA
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Araceli.
+Aquí terminamos, nos regalaron unos minutos más, gracias a Cepropie. Son 20 horas con seis minutos. Muchas gracias.

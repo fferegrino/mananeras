@@ -3,6 +3,7 @@ Presidencia de la República
 15 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Hoy empezamos cinco minutos más tarde, son las 19:05 del miércoles 15 de julio de 2020. Vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2 aquí en el Palacio Nacional de México, en la Ciudad de México.
 Hoy vamos a tener el informe técnico diario sobre la situación de la epidemia en México y vamos a comentar la situación de otros tres estados de la región oriente con el mismo mecanismo que hemos estado comentando a lo largo de esta semana. Vamos a ver su incidencia, vamos a ver su distribución municipal y las tendencias que tiene, tanto los casos estimados como la mortalidad y las recuperaciones.
 Vamos a dejar un segmento temático porque hoy nos acompaña el doctor Simón Kawa Karasik, quien es el director de Institutos Nacionales de Salud en la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad. Bienvenido, doctor.
 También nuestra colega, la doctora Alethse de la Torre Rosas, ya conocida por todos ustedes también, quien es la directora general de Censida y como infectóloga y especialista en control de infecciones, ha estado participando junto con el doctor Kawa al frente del liderazgo técnico del desarrollo de las guías de práctica médica o de manejo médico de COVID.
@@ -12,6 +13,7 @@ Llevamos varias semanas trabajando en ello y se ha hecho ya esta nueva guía que
 Le pido entonces al doctor Alomía si de manera sintética presenta el informe técnico y damos pie al aspecto temático, y abrimos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Con su permiso, señor subsecretario.
 Muy buenas tardes a todas y todos los que nos acompañan de manera presencial aquí en Palacio Nacional, pero también a todas las personas que nos están viendo a través de los diferentes medios de comunicación y las redes sociales que transmiten en vivo esta conferencia, la número 138.
 Veamos la siguiente diapositiva. El día de hoy, precisamente por la temática que traemos relación a la atención médica del paciente con COVID-19, el panorama internacional lo enfocamos un poco a cómo se ha estado dando esta proporción de atención o cómo se han estado presentando los casos graves en la región de las Américas.
 En toda la región de las Américas podemos ver que el 79 por ciento de los casos no ha requerido hospitalización, el 21 por ciento sí, y esto es un poco concordante con lo que desde un principio se estuvo observando que siempre había una tendencia que un 80 por ciento de los casos de COVID-19 fueran ambulatorios.
@@ -57,9 +59,11 @@ Y veamos la última diapositiva que es precisamente el mapa de Veracruz. Semana 
 Sería el reporte. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía.
 Le pedimos entonces ahora al doctor Simón Kawa Karasik y a la doctora Alethse de la Torre como gusten hacer uso de la palabra para comentarnos sobre la guía de manejo médico del COVID.
 ---
 SIMÓN KAWA KARASIK, DIRECTOR GENERAL DE COORDINACIÓN DE INSTITUTOS NACIONALES DE SALUD
+Buenas tardes a todos.
 El tema que vamos a abordar la tarde de hoy con ustedes tiene que ver sobre las recomendaciones de utilización de tratamientos farmacológicos para COVID-19, que es un tema que consideramos muy importante.
 Quisiera yo empezar abordando este punto desde una perspectiva ética, bioética. Tenemos un principio fundamental en la bioética, que es el principio de no hacer daño, de no dañar. Este principio básico de la medicina tiene ahora un papel central en la pandemia de COVID-19.
 ¿Por qué digo que tiene una parte central?
@@ -92,6 +96,7 @@ Tenemos medicamentos que tienen indicaciones muy claras para prescribirse para o
 Le pediría yo a Alethse que hablara ¿cuáles son las recomendaciones que le tenemos que dar a la sociedad?
 ---
 ALETHSE DE LA TORRE ROSAS, DIRECTORA DEL CENTRO NACIONAL PARA LA PREVENCIÓN Y CONTROL DEL VIH/SIDA​
+Muchísimas gracias. Buenas noches a todos y a todas.
 Tenemos un mensaje que es sumamente importante para la población y que queremos darlo de una manera clara porque es fundamental que cada uno de ustedes en casa nos ayude a replicarlo nos ayude a cuidar de su salud, y es la automedicación.
 Evidentemente todas estas guías de práctica que salen y que están públicas en la página de coronavirus tiene la información científica y esta información es algo que día a día cambia y que existe toda una serie de grupo de expertos a los cuales les agradecemos por su dedicación, por esta parte que tienen en términos de compromiso de estar revisando la literatura, tanto en CCINSHAE, en las diferentes instituciones, IMSS, Issste, que nos ayudan a coordinarnos y que nos ayudan a tener estos elementos de respuesta claros, para acciones, para lineamientos en términos de cuáles son estos medicamentos, estas intervenciones en salud que realmente le ayudan a la población en pacientes graves, aquellos que requieren hospitalización, pero también en aquellos pacientes ambulatorios.
 Recordemos que la gran mayoría de las personas cuando se infecten por SARS-CoV-2, cuando desarrollen COVID-19 estarían con síntomas leves o tendrán una sintomatología que no necesariamente significa que requerirán tratamiento hospitalario; sin embargo, aquí también tenemos el mensaje de evitar la automedicación.
@@ -128,15 +133,21 @@ Esto es fundamental, seguir estas recomendaciones que se encuentran pública, qu
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Alethse de la Torre; gracias doctor Simón Kawa; gracias, doctor Alomía.
 Vamos a abrir. A alguien dejamos pendiente ayer, Daniela Pastrana, Pie de Página; y luego usted.
 ---
 PREGUNTA
+Gracias. Buenas noches.
 Doctor, hace unos días un grupo de científicos en Estados Unidos envió una carta a la Organización de las Naciones Unidas para pedirle que cambie o que ajuste algunos de sus lineamientos porque tienen alguna evidencia de que esto, de que el virus pudiera tener una transmisión aerobia.
 La Organización Mundial de la Salud todavía no tiene una respuesta definitiva sobre eso, pero yo quería saber eso ¿qué implica exactamente?, ¿qué significa?, ¿y qué cosas tendría que cambiar si es que esto llegara a confirmarse?
 Y aprovechando el tema de los medicamentos, ha habido también mucha información en estas redes sociales sobre el uso, muchos médicos han dicho que les ha funcionado, usar antiinflamatorios, como uno que no viene en ninguna de las listas, que era ibuprofeno o algún otro tipo de desinflamatorios.
 Aprovechando que no estaban en ninguna lista, quería saber ese tiene algún sentido usarlo o es mejor descartarlo.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Vámonos con la segunda. Le pido a la doctora Alethse si puede comentar.
+---
 ALETHSE DE LA TORRE
+Sí, claro. Al final, el tratamiento que se identifica adecuado para pacientes ambulatorios son tratamientos sintomáticos.
 Número uno, para bajar la fiebre como sería el caso de paracetamol, pero hay personas que de repente pueden llegar a tener demasiada rinorrea o pueden llegar a tener mucho dolor de garganta y demás, y en este caso se pueden utilizar algunos otros medicamentos sintomáticos dirigidos como ha sido el caso de repente para estos síntomas, no es dirigido para SARS-Cov-2, esto es importante.
 Y creo que sí vale la pena volver a subrayar la relevancia de estar siempre atentos a los datos de alarma. Los datos de alarma y las complicaciones es frecuente que se presenten en grupos de riesgo para estas complicaciones, pero se pueden presentar en cualquier persona y por lo tanto todos, todas debemos de estar atentos sobre estos datos de alarma.
 Si empiezan a tener la falta de aire, si empiezan a respirar rápido, si empiezan a tener a pesar el tratamiento sintomático, estar desorientados o bien que no baje la fiebre, entonces es mejor que revisen.
@@ -146,6 +157,7 @@ inicial y de una manera oportuna para estos casos que se pueden complicar, sí v
 Entonces no despreciemos la importancia de recordar siempre los datos de alarma y al final parte de las grandes estrategias que se han implementado en las entidades federativas es esta visión de atención primaria en la salud.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora De la Torre.
 Respecto a lo que usted comenta, Daniela, efectivamente, la semana pasada más o menos un grupo de ciento veinte tantos, 29 me parece científicas y científicos principalmente de Estados Unidos, pero también de otros países, mandaron una carta a la Organización Mundial de la Salud, y además esta carta estaba acompañada de un comentario, un posicionamiento científico que se publicó en una revista muy prestigiada en el campo de las enfermedades infecciosas, una revista que se llama Clinical Infectious Diseases.
 El posicionamiento técnico no es un artículo científico, como lo divulgaron muchos medios de comunicación en México y en otras partes del mundo, no es un producto original de una investigación científica que aporte evidencia nueva, es un posicionamiento, es una reflexión sobre los posibles mecanismos de transmisión de COVID o del virus que lo causa, el virus SARS-CoV-2, a través de aerosoles respiratorios.
 La Organización Mundial de la Salud recibió la carta y se pronunció el mismo día que la recibió y publicó un posicionamiento en su página de internet, que en términos generales retoma la conclusión de la propia carta, que consiste en que hay que considerar la necesidad de evidencia científica adicional sobre cuáles pueden ser los mecanismos más eficientes de transmisión del virus SARS-CoV-2.
@@ -155,12 +167,14 @@ En resumen, es una pieza importante, una aportación desde la perspectiva de cie
 Pasemos con su pregunta.
 ---
 PREGUNTA
+Muchas gracias, doctor. Buenas tardes. Shaila Rosagel, corresponsal de Grupo Healy, El Imparcial, de Sonora; la Crónica, de Mexicali; y Frontera, de Tijuana.
 Doctor, me gustaría preguntarle: ¿cuáles son las razones de que Sonora sea el estado del norte que está presentando más contagios?
 Todavía en los datos de ayer Sonora tenía 12 mil 347 contagios, todavía arriba de Baja California y, bueno tiene menos de tres millones de habitantes, entonces, ¿cuáles serían estas razones por las que se está disparando o está este número de contagios en Sonora?
 Y sobre Baja California, ya habido reapertura en algunos restoranes, parques y unidades deportivas a pesar de que está semáforo rojo; entonces, preguntarle si han tenido un balance de qué ha pasado a partir de esta reapertura en Baja California, si no hay aumentado los contagios o es un buen camino, ¿qué nos puede decir?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, con mucho gusto.
 La razón principal de la diferencia de la intensidad de la transmisión de SARS-CoV-2, el virus que causa COVID-19, en la comparación Sonora respecto a otros estados de la República o en particular su vecina Baja California es el tiempo nada más.
 Están en etapas diferentes de la epidemia. Por razones múltiples que es a veces de atribuir o menor peso a ciertas causas, Baja California fue de uno de los estados que inició con la epidemia, igual que lo hizo la Ciudad de México, igual que lo hizo Quintana Roo.
 Entre otros factores puede estar la afluencia de personas provenientes de otras regiones del mundo en donde en su momento había transmisión. En el caso particular de Baja California desde luego es que la frontera, Tijuana, en La Joya o Tijuana-San Isidro es una de las fronteras más concurridas del mundo, y este paso continuo de personas puede haber contribuido a el inicio de la epidemia un poco, unas semanas más temprano en Baja California.
@@ -171,14 +185,36 @@ Cerca del 90 por ciento de los pasos diarios que se cuentan por centenas de mile
 Pero regresando a su inquietud sobre Sonora, le diría: no tenga preocupación de que esta realidad epidémica que en este momento vive Sonora pudiera ser algo inusual o que pudiera representar un estado de pérdida del control.
 El gobierno de Sonora ha hecho un trabajo muy adecuado, muy responsable enfocándose a las medidas de prevención que pueden ser pertinentes y lo presentamos hace unos días, han logrado tener un RT, número promedio de contagios que está por debajo de uno con lo cual se espera que en las próximas pocas semanas empiece a disminuir la intensidad de transmisión en Sonora.
 ---
+INTERLOCUTORA
+¿Más o menos cuántas semanas o para qué mes vamos a ver esta disminución?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Depende mucho de qué tanto la población sonorense o bajacaliforniana, o hidrocálida o de la Ciudad de México, o quintanarroense o de cualquier parte del país y para fines prácticos del mundo colabore con las medidas de prevención y control.
 Hacer predicciones… Esto ha sido motivo de extensa inquietud social cada vez que se habla de una fecha precisa, esto no es una bola de cristal, no se puede dar una promesa específica.
 Recuerden la frase que he usado, vuelvo a usar, si y solo si se cumplen las condiciones que dieron lugar a la predicción, entonces la predicción tiene realidad.
 ¿Cuáles son esas condiciones?
 Que la población se mantenga a sana distancia, se lave continuamente las manos, proteja su estornudo, se abstenga de salir de la casa cuando tiene síntomas, no salga cuando es innecesario, que las empresas que no son esenciales no abran anticipadamente, etcétera, etcétera, etcétera.
 ---
+INTERLOCUTORA
+Digamos, doctor, que ahorita en Sonora es importante que la gente atienda las medidas.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En Sonora y en todo el país.
+---
+INTERLOCUTORA
+Sí, pero entiendo que Sonora ahorita está en una etapa de contagios elevados, como a lo mejor estuvimos en la Ciudad de México meses atrás, es importante ahorita que la gente entienda las medidas de sana distancia y todo esto.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Me parece que me está invitando a dar un mensaje a las sonorenses y los sonorenses, y lo doy.
 Queridos habitantes del bello estado de Sonora, por favor, igual que todos los estados de la República, por favor, atiendan a las indicaciones que hace su gobierno estatal encabezado por la gobernadora Claudia Pavlovich y cumplan con las medidas de seguridad sanitaria consistentes en cambios importantes en su práctica diaria, manténganse en sana distancia, lávense continuamente las manos con agua y jabón, si no lo hay, con alcohol gel, protejan su estornudo o su tos con el ángulo del codo, no con las manos, no salgan si no es indispensable.
 Y aquellos comercios o establecimientos mercantiles que han empezado a abrir, háganlo solamente cuando existen las indicaciones apropiadas para hacerlo en las condiciones necesarias para hacerlo.
 Si usted tiene más de 60 años o enfermedades crónicas, no se espere para que acudir a atención médica en caso de que presente tos, fiebre, dolor de garganta, dolor de cabeza, que son los síntomas característicos de COVID-19.
 Desafortunadamente, son las 20:04, aquí se acaba la conferencia de prensa. Gracias por sus preguntas. Mañana nos vemos. Muchas gracias.
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+(Inaudible) coronavirus.gob.mx, y por favor revísenla, ya cobra vigencia a partir de ahorita.
+Especial énfasis: no utilizar los productos que se ha recomendado, no utilizar, porque no hay evidencia científica de su eficacia y posiblemente tampoco de su seguridad.
+Muchas gracias.

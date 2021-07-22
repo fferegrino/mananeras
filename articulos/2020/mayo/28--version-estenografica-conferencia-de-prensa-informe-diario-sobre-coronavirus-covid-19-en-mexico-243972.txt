@@ -3,6 +3,7 @@ Presidencia de la República
 28 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 en punto del jueves 28 de mayo de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la epidemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a enfocar a dos elementos:
 El primero es el informe técnico.
 Y el segundo, la parte temática, tenemos el privilegio de que nos acompañe la directora general del Consejo Nacional de Ciencia y Tecnología, la doctora María Elena Álvarez-Buylla Roces, bienvenida, María Elena; asimismo, Paola Villarreal, quien colabora directamente con la doctora Álvarez-Buylla.
@@ -76,6 +77,7 @@ Otros estados tuvieron este éxito parecido y ha habido fluctuaciones, pero esto
 Doctora María Elena Álvarez Buylla, por favor.
 ---
 MARÍA ELENA ÁLVAREZ BUYLLA, DIRECTORA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA (CONACYT)
+Muchas gracias, doctor Hugo López-Gatell, muchas gracias por invitarnos.
 Desde enero que se anunció la posibilidad que llegara esta pandemia a México, el Conacyt bajo el liderazgo y el mandato del presidente de la República quien desde un inicio mandató el tener un enfoque científico frente a este gran reto, tanto al interior de la Secretaría de Salud como en todas las entidades que pudiésemos sumar nuestras capacidades a esta lucha en contra de esta pandemia, pues el Conacyt hizo lo propio.
 Integramos un proyecto nacional de investigación e incidencia COVID-19, dentro del cual se han organizado una serie de acciones, básicamente articulando las capacidades científicas, tecnológicas y de innovación del país que están presentes en todas y cada una de las universidades públicas, también privadas y también de los centros públicos de investigación que coordina el propio Conacyt.
 El día de hoy les vamos a presentar uno de estos esfuerzos, que es: Ecosistema Nacional Informático COVID-19. Desde el inicio de la gestión en Conacyt planteamos el integrar estos ecosistemas naciones informáticos como herramientas de tecnologías inteligencias y cómputo para apoyar diferentes aspectos de la gestión pública y de los problemas que enfrenta este país, no solamente en áreas de salud.
@@ -101,6 +103,7 @@ En el sitio -y por eso es que no quise ser exhaustiva aquí en la alineación de
 Ese es el sitio, esa es la entrada, coronavirus.conacyt.mx y le voy a pedir a Paola que le dé algunos ejemplos del sitio, que navegue con ayuda de los compañeros, muchas gracias.
 ---
 PAOLA VILLARREAL RODRÍGUEZ, COORDINADORA DE REPOSITORIOS, INVESTIGACIÓN Y PROSPECTIVA DE CONACYT
+Muchas gracias doctora Álvarez Buylla, con su permiso señor subsecretario.
 Para mí es un verdadero honor estar aquí con ustedes en este recinto tan importante como lo es el Palacio Nacional, representando también a un equipazo, la verdad, de científicos, que somos 35 activos, que digamos sintetizamos o cuyo trabajo sintetizamos en este micrositio, cuya dirección es coronavirus.conacyt.mx.
 Así que si quieren ir todos los que nos están escuchando a esta dirección para que vayamos navegándolo juntos. Me parece muy importante que en el inicio lean un poquito acerca de lo que el Conacyt tiene del trabajo de articulación que se ha hecho.
 Pero digamos, que algo muy, muy importante son estas proyecciones con las que decidimos ponerlas en la portada del sitio, que son las proyecciones que han sido publicadas o de las que hemos hablado durante ya casi un mes y medio, que es el tiempo en el que las hemos ido generando periódicamente, que es parte del modelo AMA.
@@ -120,21 +123,28 @@ Estos, digamos, son los trabajos formales de los grupos de investigación, aquí
 Hacia abajo vemos también el modelo AMA, en el que vemos los autores y los reportes que se han publicado, que se han realizado y que hoy se publican; el modelo Gompertz también tiene sus propios reportes y poco a poco iremos actualizando este repositorio en el que ya está toda la información que se ha generado en este grupo de investigación que tiene 35 investigadores ahorita, pero que invitamos a que más gente se una, más investigadores.
 Eso sería todo de mi parte. Muchísimas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Hoy vamos a empezar con Olinka la sesión de preguntas y respuestas, también ustedes.
+---
 PREGUNTA
+¿El semáforo que van a presentar mañana es una medida aprobada por el Consejo de Salubridad?
 Segundo, el presidente dijo… bueno, usted dijo ayer que las giras del presidente no estaban definidas todavía, pero él dijo por la mañana: ‘Ya tomé la decisión de salir’. Le pregunto si la logística de la agenda del presidente se tendrá que adecuar al semáforo epidemiológico, ¿podrá visitar sólo entidades que estén en naranja o algo así?
 Y, por último, en la comparecencia ante legisladores ayer mencionó usted que habían hecho varios modelos de rebrote de la epidemia. ¿Nos puede explicar los escenarios, por favor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Muchas gracias, Olinka, por estas preguntas.
 Respecto a las actividades de trabajo del presidente, estas visitas de supervisión que él ha comentado, es importante destacar que no son, como lo platicamos creo que ayer o anteayer o él mismo lo ha platicado, no son visitas masivas, no son concentraciones masivas, no son mítines, plazas llenas, de ninguna manera son… él no tiene intención alguna de que sean así; son visitas de supervisión, de proyectos estratégicos sumamente relevantes para el desarrollo y el bienestar social.
 Y en todo caso, si estas ocurren, efectivamente, como comentábamos ayer a pregunta de Saturnino, que hoy no está aquí, es de manera muy controlada, 40 personas de aforo, él mismo va a estar apartado de la gente, él ha pedido al pueblo de México que comprendan que en este momento no se pueden acercar a él, pero muy importante, no se pueden acercar entre sí, pedimos eso, por favor, que si así se decide hoy por la noche, no acudan a concentrarse a las actividades de las visitas. Entonces, sí, efectivamente.
 Si corresponde o no con el semáforo, por supuesto, el semáforo es de aplicación general, pero el semáforo no contempla prohibiciones de visitas, es muy importante tener presente. A lo largo de la propia Jornada Nacional de Sana Distancia han continuado operando las actividades esenciales, y ustedes conocen que en el acuerdo secretarial de la Secretaría de Salud del 30 de mayo se estipularon… perdón, de mayo no, 30 de marzo se estipularon las actividades esenciales y una de ellas es la actividad de gobierno, yo mismo vengo aquí todas las tardes, otra es la comunicación, ustedes mismos vienen aquí todas las tardes, y otras muchas.
 Entonces, la actividad persiste, ha persistido, pero si se hace tiene que ser de una forma controlada. Gracias.
 ---
 INTERLOCUTORA
+(inaudible)… los estados que estén en naranja o no.
 Y le preguntaba si el semáforo fue aprobado por el Consejo de Salubridad.
 Y los escenarios que le presentó, dijo que habían hecho varios modelos de rebrote de la epidemia en la comparecencia a los senadores, ¿puede explicarlos, por favor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto y qué bueno que lo pregunta, porque esto es muy importante, y precisamente aquí están la doctora Álvarez Buylla, Paola, que han traído a todos estos académicos.
 Primero déjeme abordar las otras dos para que no se queden sueltas. El semáforo no necesita aprobarlo el Consejo de Salubridad. Aquí a veces se ha causado confusión sobre la competencia legal de las distintas autoridades sanitarias, las autoridades sanitarias federales a saber son tres: el presidente de la República, el secretario de Salud y el Consejo de Salubridad General, pero cada uno tiene las facultades legales que les corresponden.
 El Consejo de Salubridad General tiene como facultades, entre varias otras, el declarar, por ejemplo, el estado de emergencia, cosa que ocurrió anteriormente; y la Secretaría de Salud tiene como facultad legal que procede en primera instancia de los artículos constitucionales, en particular el 4º y el 73, fracción 16, cuando existe invasión por enfermedad exótica, de carácter grave, ta, tat, ta, así se estipula de ejercer o disponer el ejercicio de la acción extraordinaria, eso quiere decir las acciones inmediatas que se tienen que emprender.
 Y todas estas han sido en sucesivos acuerdos de la Secretaría de Salud y próximamente se publicará un acuerdo que estipula detalles adicionales del semáforo, pero ya hubo un acuerdo del 15 de marzo… no, 15 de mayo sobre el semáforo.
@@ -146,6 +156,7 @@ Y hay distintos modelos, son precisamente los modelos que aquí se muestran del 
 Vamos a darle la palabra, estaba Araceli primero.
 ---
 PREGUNTA
+Gracias. Si me permite la doctora, es referente a la reducción del 75 por ciento del presupuesto operativo que impacta a centros públicos de investigación.
 Mi pregunta es: ¿esta reducción presupuestal es generalizada e irrevocable desde su punto de vista o se podrán revisar los requerimientos operativos específicos de cada centro para definir montos particulares?
 ¿Tiene Conacyt un plan B para que no se dañen programas o investigaciones científicas que pudieran erosionar el desarrollo del país?
 Preguntarle también sobre los modelos de ventiladores que quedaron de entregar el 15 de mayo.
@@ -154,7 +165,11 @@ Preguntarle también si se contará con personal promotor de la salud para monit
 Por último, si me lo permite también para usted, doctor. En septiembre hay también temporada de influenza y en septiembre vendríamos saliendo de este COVID, ¿esto ya lo visualizaron y cuál sería el plan para esto?
 Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Araceli. Le doy la palabra a la doctora.
+---
 MARÍA ELENA ÁLVAREZ-BUYLLA
+Gracias, muchas gracias por esas preguntas.
 A ver, para el presidente de la República es fundamental el desarrollo científico, tecnológico, la formación. Y no solamente no se va a reducir, sino va a haber un aumento en los apoyos para, bueno, en particular para la formación de especialistas, pero siempre se ha privilegiado el mantener y el aumentar los apoyos a las becas.
 Y estos ahorros justificados en dependencias del gobierno están tomando en cuenta las particularidades de las dependencias que están involucradas en acciones sustantivas para atender esta pandemia, pero también en acciones que no deben de afectarse, como son las de los centros públicos de investigación, como las delas instituciones de educación superior.
 Entonces, todo esto está claro desde el gobierno federal, entonces no debe de haber preocupación alguna, puesto que no solamente se ha mermado la capacidad de financiamiento y de ejecución de proyectos por parte de Conacyt, sino que va en aumento.
@@ -166,9 +181,20 @@ Pero lo que es muy importante es que se está haciendo una demostración de conc
 Entonces, lo que estamos viendo y en ello también estamos empeñadas y empeñados desde Conacyt es el nacimiento de un ecosistema y de una serie de industrias nacionales que van salvar vidas, porque de acá se van a poder derivar otro tipo de desarrollos útiles en el campo de la salud.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Álvarez-Buylla.
 Trataré de contestar de manera breve, porque quedan dos minutos, me enfocaré a… ¿cuál prefiere que nos enfoquemos?
 ---
+INTERLOCUTORA
+Pruebas serológicas.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Pruebas serológicas, lo que les propongo es ya dije, sé que se las debo, una explicación amplia sobre para qué se usa cada prueba, en qué momento se usan, etcétera, solo para que no quede…
+---
+INTERLOCUTORA
+Los promotores de la salud que iban a estar viendo por casa en casa y lo de septiembre, viene la influenza.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Correcto, bueno, sí da tiempo de las dos.
 Efectivamente, la temporada de influenza en el hemisferio norte, en todo el hemisferio norte, México, Estados Unidos, Canadá, los países de Europa, Rusia, un segmento de China, casi la mayoría de ese territorio y Japón, etcétera, todo el hemisferio norte tiene la temporada de influenza entre octubre o fines de septiembre hay variabilidad, pero entre fines de septiembre, principalmente en octubre y hasta abril del año siguiente, en este caso 2021.
 Esto es un fenómeno que ocurre todos los años y ha ocurrido desde hace posiblemente siglos, no sé si milenios, pero por lo menos siglos y va ocurrir, podemos garantizar que va a ocurrir. Es un fenómeno indeseable hasta cierto punto, si lo vemos desde la perspectiva humana, porque obviamente va a implicar enfermedad y desafortunadamente va a implicar muerte.
 La influenza, por cierto, es una de las causas principales de muerte por causas respiratorias en el mundo entero, por eso tiene una importancia crucial la preparación y respuesta, no solamente ante pandemias de influenza, sino ante estaciones anuales de influenza.
@@ -183,3 +209,10 @@ Termino con el tema de promotores y promotoras de salud. La promoción de la sal
 Y el monitoreo implica un monitoreo médico, por ejemplo, del control de las enfermedades crónicas: hipertensión, diabetes que les hacen susceptibles, y también el monitoreo de la función pulmonar o de la oxigenación de la sangre.
 Además de las personas dedicadas a la promoción de la salud, recuerden que el Instituto de Salud para el Bienestar, Insabi, reorientó el trabajo de más de seis mil 300 gestores que antiguamente en el modelo del Seguro Popular lo que se dedicaban era al reclutamiento, a la afiliación de personas al Seguro Popular. Como hoy ese modelo cambió, y hoy no necesitamos afiliar a nadie, porque todas las personas que viven en México tienen derecho a la atención de la salud, ya no se necesita tener credencial de nada, ya no existe el Seguro Popular, pero lo que existe es que todas y todos los que estén en México tienen derecho a acudir a una unidad de salud y recibir atención.
 Entonces, estas seis mil 300 personas, son un poco más, se recanalizaron para incorporarse a las actividades de promoción de la salud, y con ello logramos impulsar las capacidades del sistema de salud para el trabajo comunitario en el modelo que estamos desarrollando, implantando de atención primaria de la salud.
+---
+INTERLOCUTORA
+¿Esto a partir de cuándo?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Esto ya lo hemos estado impulsando, ya ha habido en varias conversaciones con las entidades federativas, ya lo hacían varios de los estados por su propia disposición, pero estamos tratando de articularlo como una intervención de carácter nacional.
+Son las 20:04, nos pasamos cuatro minutos. Muchas gracias, ya no da tiempo, gracias. Muchas gracias doctora; muchas gracias, Paola.

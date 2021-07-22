@@ -3,12 +3,14 @@ Presidencia de la República
 08 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 de este viernes 8 de mayo de 2020. Estamos en el Palacio Nacional de la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a enfocar en dos elementos:
 El primero, el informe técnico diario.
 El segundo, tenemos el privilegio de tener a nuestra muy querida jefa de Gobierno de la Ciudad de México, la doctora Claudia Sheinbaum Pardo, quien comentará junto con nosotros sobre la mortalidad, la mortalidad asociada con COVID, los registros, la vigilancia epidemiológica, la dictaminación y varios aspectos técnicos que consideramos útiles, habida cuenta que existen algunas inquietudes en algunos segmentos de la población al respecto y a pesar de que hemos comentado algunos distintos aspectos técnicos muchas veces, siempre es bienvenida una nueva pregunta y hoy los vamos a comentar. Jefa, muchas gracias por estar con nosotros.
 Le pido entonces al doctor José Luis Alomía si nos presenta el informe técnico y después pasamos a comentar lo siguiente.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso.
 Muy buenas tardes todas y todos.
 Iniciamos el informe técnico diario. Estamos con la conferencia vespertina 70, el día 47 de esta Jornada Nacional de Sana Distancia.
 En la siguiente diapositiva vemos la actualización del panorama internacional, continúa por encima del 50 por ciento, 51.5 exactamente los casos en las Américas confirmados en los últimos 14 días, la pandemia activa en nuestra región.
@@ -31,9 +33,11 @@ Veinticinco por ciento es la ocupación nacional y pueden ustedes también ver c
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Le damos la palabra a nuestra jefa de Gobierno.
 ---
 CLAUDIA SHEINBAUM PARDO, JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO
+Gracias.
 Tenemos por ahí una presentación. Esto es lo que hemos venido trabajando desde la Ciudad de México en coordinación con el Estado de México, porque hemos estado analizando permanentemente la zona metropolitana del Valle de México.
 Como ustedes saben, la zona metropolitana tiene 22 millones de habitantes, es una de las zonas más pobladas del planeta. Es difícil analizar de manera aislada la Ciudad de México de todos los municipios que la rodean, 59 municipios en el caso del Estado de México, porque finalmente hay un continuo urbano en todas partes y eso nos obliga a tener realmente una coordinación permanente con el gobierno del Estado de México y evidentemente con el gobierno de México a través de la Secretaría de Salud.
 Nosotros evaluamos permanentemente el número de pacientes intubados y no intubados, tanto por la red negativa que tiene la Secretaría de Salud como por la información que recibimos de manera coordinada del Instituto Mexicano del Seguro Social, del Issste, de los hospitales de la Secretaría de Salud del gobierno de la Ciudad de México, del gobierno del Estado de México.
@@ -56,6 +60,7 @@ Esta información está disponible en la página del gobierno de la ciudad, una 
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Sheinbaum, jefa de Gobierno de la Ciudad de México.
 Para terminar este segmento quisiera comentar con ustedes un poco de la metodología -me voy a permitir pararme- de la metodología de la vigilancia epidemiológica de las defunciones y la vigilancia epidemiológica de las enfermedades respiratorias.
 De manera panorámica, para que ubiquemos de qué estamos hablando, ya hemos dicho que la vigilancia epidemiológica es el proceso por el cual distintas partes de la sociedad más comúnmente en los gobiernos tanto nacionales como subnacionales, como incluso locales en todo el mundo o en la mayoría de los países del mundo reconocen o identifican los fenómenos de enfermedad de salud y sus determinantes en la población.
 Y el proceso de manera simplificada consiste en recolectar información, integrar la información, analizar la información, producir conocimiento que es la parte más importante de la vigilancia epidemiológica y divulgar ese conocimiento en forma de recomendaciones, de política pública, de programas, de acciones, de intervenciones, al público en general para que la conozca de manera abierta y también para monitorear o evaluar las intervenciones de salud y de políticas públicas. Es gruesamente el propósito fundamental y la mecánica de la vigilancia epidemiológica.
@@ -125,37 +130,54 @@ Porque están en espera del proceso de certificación o de revisión de la certi
 Muy bien, vamos a dar espacio a preguntas y respuestas, sin son tan amables. Ahora sí Bianca y usted que ayer quedó pendiente.
 ---
 PREGUNTA
+Muchas gracias, buenas noches a todos. Bianca Aguirre, de Notimex Tv.
 Preguntarle, doctor, ya hace dos días platicaba de esta situación pues que no es nada grata, la administración anterior heredó, ya lo decía usted, 307 hospitales.
 ¿Qué opinión le merece?, ya que obviamente si estos hospitales no hubiesen sido abandonados o incluso no hubieran quedado a medias pues ahorita no estuvieran realizándose estos hospitales provisionales. Eso por un lado.
 Y a la jefa de Gobierno, preguntarle: ¿se implementarán otras acciones en la Central de Abasto?, y es que, bueno, pues ya lo sabemos están cerrando muchísimos locales, hay contagios, ¿van a implementar otras medidas ahí? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Bueno, yo digo de manera breve. Lo que creo que a toda la ciudadanía le resulta bastante claro, la salud no es un privilegio, no es una mercancía, la salud es un derecho, está consagrado en la Constitución en el artículo 4º desde 1984; y para que sea un derecho real, que se cumpla, que se garantice, lo que se requiere es una acción de gobierno que consistentemente garantice personal, infraestructura, sistemas de información, insumos para la salud, proceso, rectoría, que son los componentes fundamentales de un sistema de salud.
 Si tuviéramos ese tipo de sistema con una cobertura universal y que fuera de acceso gratuito como lo es en innumerables países en el mundo, particularmente, en la región europea, pues la salud de México seguramente sería mucho más afortunada. Esa es mi opinión.
 ---
 CLAUDIA SHEINBAUM PARDO
+Sí, sobre la Central de Abasto, como ustedes saben es la central que provee de abasto a todo el centro del país, no solamente a la Ciudad de México, ahí en condiciones normales ingresan 500 mil personas diarias y trabajan 90 mil personas.
 Al principio fue difícil generar condiciones de sana distancia. En primer lugar, porque no se puede cerrar porque cerraría el abasto; y en segundo lugar pues por la condición en que la propia Central de Abasto opera.
 Cuando nos dimos cuenta que había una serie de contagios, se tomaron se tomaron una serie de medidas, hoy se limita la entada solamente a dos personas por vehículo, de la información que tenemos, se ha reducido en alrededor del 35 por ciento el ingreso a la central no porque no haya gente que no esté yendo, sino porque ya no van en familia, van personas de manera individual, o en el caso del mayoreo solamente dos personas y ahí sí se instrumentan medidas de mayor protección a las personas de cubrebocas, de caretas, etcétera, sobre todo a quien está suministrando.
 Y desde hace cerca de semana y media, dos semanas se instalaron o se pusieron carpas y 450 promotores de la salud, médicos y enfermeras del área de salud del gobierno de la Ciudad de México que están haciendo una revisión epidemiológica para ver los casos confirmados, los contactos, etcétera.
 Se han tomado varias medidas en la central, de esta manera sabemos que no va a haber desabasto en la ciudad, pero al mismo tiempo se están tomando controles.
 ---
+INTERLOCUTORA
+Gracias.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, jefa de Gobierno.
 Por favor, adelante y luego Fernanda.
 ---
 PREGUNTA
+Gracias, Lizbeth Álvarez, reportera del diario Basta del Grupo Cantón.
 Para la jefa de Gobierno. A partir de mañana se va a tener esta comunicación entre los familiares de pacientes COVID. Saber en qué hospitales va a iniciar esta dinámica y cómo va a ser la misma.
 Y mi otra pregunta o inquietud, en el pueblo de San Andrés Totoltepec, en la alcaldía de Tlalpan, se ha estado mencionando de manera constante que hay varias personas infectadas por COVID y que no están recibiendo esta atención.
 Entonces saber qué informes se tiene ante el caso, por favor y gracias.
 ---
 CLAUDIA SHEINBAUM PARDO
+Sí, cómo no. En el caso de la comunicación con pacientes instalamos hasta ahora 11 módulos, por lo pronto están solo en los hospitales de la ciudad, algunos que están determinados como COVID y otros que son generales, pero no están en este momento como COVID, porque se están tomando una serie de medidas para el ingreso de los familiares.
 Estas se instalaron hace tres días y los familiares pueden llegar y preguntar.
 Y estamos colaborando para que se instalen también en los hospitales del IMSSS, del Issste y los Institutos Nacionales de Salud y los hospitales generales que dependen de Secretaría de Salud.
 Y a partir de mañana en estos mismos hospitales ha habido realmente donaciones muy importantes de muchas empresas, así como hay otras que no se han comportado de la mejor manera, la gran mayoría lo ha hecho así, y ha habido muchas donaciones y tuvimos donaciones de teléfonos y tiempo aire, eso nos va a permitir que pueda haber comunicación entre el paciente y la familia.
 A partir de mañana va a comenzar y se va a ir perfeccionando este proceso. Y hay comunicación entre los promotores del gobierno de la ciudad que están fuera de los hospitales y obviamente el personal de salud, trabajadores sociales y enfermeras que están trabajando en esta dinámica para poder atender a los familiares que tienen personas en hospitales de la ciudad.
 ---
+INTERLOCUTORA
+Y lo de San Andrés.
+---
+CLAUDIA SHEINBAUM PARDO
+Ah, sí, conozco bien San Andrés, viví ahí 30 años. Vamos a ver exactamente qué es lo que está pasando, conozco de algunos casos de fallecimientos recientes y estamos ahí en contacto con las alcaldías, hay una muy buena coordinación con las 16 alcaldías de la ciudad, pero vamos a ver en particular algún tema que no se haya contemplado en San Andrés.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Shainbaum.
 Fernanda, Carlos Aracely y usted.
 ---
 PREGUNTA
+Buenas tardes. Para Glucosa Atómica.
 Diversas figuras públicas del país, no conformes con demeritar el trabajo que hacen ustedes, han tratado de descalificarlo también, aquí mismo en este recinto incluso, ahora recurren a medidas internacionales. Usted explica que es libertad de expresión, aunque son claramente ataques.
 Mencionaba también que hay compañías farmacéuticas e intereses políticos involucrados en todo esto.
 ¿Qué intereses hay en todo esto?, ¿hay algo que los ciudadanos no sepamos y debamos saber?
@@ -164,6 +186,7 @@ Y añadiendo a esto, usted dijo que nos iba a dar otra explicación sobre las pr
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Sobre los medios internacionales y los intereses, debo dejar muy en claro, los tres o cuatro periódicos que hoy publicaron notas relacionadas temáticamente con este tema, no tengo prejuicio alguno, son un medio más, en este caso internacionales y siempre es bienvenido leer reportajes, entrevistas, noticias.
 Uno de ellos me llamó la atención la ausencia de rigor, siendo un periódico que en general aprecio, estoy suscrito a este periódico y me llamó la atención ver una noticia que un poco desentona con los estándares periodísticos de este medio, el que habla de mortalidad.
 Y cuando me refería a los intereses, en un video que presentamos esta tarde, es que lo que me llama la atención, pero no creo que está articulado con los medios, es cómo hay un segmento de la población que identificó relacionado con la actividad política, partidos que están por quererse registrar, que quieren posicionarse, que toman cada cosa que sale para orientarlo políticamente.
 Aquí hemos dicho una y otra vez, lo volvemos a decir, este es un foro técnico, este es un espacio para compartir información hacia la sociedad, a través de ustedes y de manera directa, para recibir de la sociedad también inquietudes, comentarios, dudas y poder trabajar juntos por algo que es del interés común.
@@ -174,12 +197,14 @@ Y yo creo que voy a dejar pendiente lo de las pruebas para poderlo explicar con 
 Carlos, Araceli y usted, por favor, y después usted.
 ---
 PREGUNTA
+Qué tal doctor, doctora, el doctor Alomía también, buenas noches.
 Tres preguntas, dos rápidas para la jefa de Gobierno. ¿Qué opinión le merece en relación a este artículo, estos tres artículos que salen a nivel internacional? Mencionan una discordancia entre los datos que presentan o en el caso de la Ciudad de México y a nivel federal, salvo una ocasión que por ahí un error de dedo.
 En los que seguimos las conferencias también de la fuente capitalina, que estamos ahí a través de Mauro y de Iván pendientes de las conferencias que a diario da usted, no vemos ninguna discordancia. ¿Qué opinión le merece esto?
 Y la segunda para usted. ¿Cuáles serían las alcaldías que saldrían primera de esta desescalada, que tomarían esta desescalada, siendo que el presidente de México en la mañana comentaba que incluso se podría prolongar este periodo de mayor contagio hasta el día 20?
 Y una más para el doctor Gatell.
 ---
 CLAUDIA SHEINBAUM PARDO
+Sí, yo creo que bienvenido el debate, el debate científico y el debate político, eso siempre es bienvenido y estamos en una democracia; y en la ciencia pues también es fundamental el debate sino no crecería la investigación científica.
 El tema aquí es cuando ya lleva algún otro objetivo, ahí cada quien la opinión que tenga, no creo que en este caso y que cada quien haga su revisión de acuerdo con lo que se escribe en los medios de comunicación. Bienvenida también la libertad de prensa, además es fundamental en nuestro país.
 En el caso de la desescalada y la otra, hemos estado en coordinación permanente, con no solamente con el doctor López-Gatell, de la Secretaría de Salud, estamos en coordinación con la Secretaría de Economía por los créditos que se están dando en la Ciudad de México.
 Hay una coordinación permanente. Además de una afinidad política, hay una coordinación permanente y si tiene que haber coordinación en algún momento es precisamente en este.
@@ -191,10 +216,12 @@ Por lo pronto, es quedarnos en casa, la sana distancia y mantener esta condició
 Eso es todo mi comentario.
 ---
 INTERLOCUTOR
+La última, para el doctor Alomía. Doctor Alomía, que manejan las cifras del diario de este coronavirus, a nivel nacional esta fecha que da el presidente López Obrador para el Valle de México que es el 20 de este mes, que pueda concluir al pico de contagios, ¿a nivel nacional cómo está?, siendo que ambos nos decían que Cancún, otras ciudades están a punto de salir de este punto rojo que le podemos llamar o yo le llamo el día ‘D’, salir de este día ‘D’ de los contagios.
 Se planea que también se pueda recorrer este tipo de fechas para la desescalada, como dicen en España o la apertura o el regreso a la normalidad, como decimos en México.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Carlos por la pregunta. Efectivamente, es importante.
 La epidemia de COVID y lo mismo pasa con la influenza y lo mismo pasa con varias otras enfermedades de interés epidemiológico, no es una sola curva epidémica. En los países pequeños, donde hay, además, mucha densidad poblacional o proximidad física entre las ciudades, por ejemplo, puede sincronizarse la epidemia en todo un territorio, pero en países extensos como México, como Estados Unidos, como Brasil, como Rusia, como China, es como si fueran, o la India, es como si fueran múltiples países en el sentido de que cada ciudad, a veces cada estado, sincroniza una epidemia por sí misma, pero es diferente las fechas de ocurrencia respecto a otras.
 Entonces, por eso hemos comentado, de hecho, como una muy buena noticia, esta dinámica, porque nos permite enfocar esfuerzos ahorita a las cinco ciudades con mayor intensidad de transmisión, la Ciudad de México, Villahermosa, Tabasco, Cancún, Culiacán, Sinaloa y Tijuana, y en la medida en que estas cinco ciudades, muy próximamente también la Ciudad de México van a empezar a tener menos y menos casos.
 Cuando lleguen a un momento, que precisamente es al que se refirió el presidente, alrededor del 20, ya vamos a poder, los recursos que utilizaron aquí, también ponerlos a disposición de otras ciudades y regiones que pudieran tener necesidad.
@@ -204,17 +231,20 @@ Cuando vayan disminuyendo las ocupaciones hospitalarias, terapias intensivas, pu
 Aracely, por favor, creo que va a ser la penúltima, y usted la última.
 ---
 PREGUNTA
+Gracias, doctor. Preguntarle primero a la jefa de Gobierno si en vísperas del 10 de mayo habrá un operativo para persuadir a las personas que no salgan de sus casas, que no acudan a pastelerías a los mercados de flores, habrá algo para persuadirlos de que permanezcan en sus casas.
 Preguntarle, doctor Gatell, usted hablaba ya de la inmunidad de rebaño ¿qué importancia tendrá esto precisamente para la apertura escalonada de los municipios?
 Doctor Alomía, si me puede hacer el favor de decirme cuáles son los municipios con menos casos de COVID en el país.
 Gracias.
 ---
 CLAUDIA SHEINBAUM PARDO
+Sí, sobre el caso del 10 de mayo, en la ciudad hemos optado en todas las ocasiones y además por la vocación democrática de nuestra ciudad es que no hemos optado por una opción en donde se multe a las personas que están caminando en la calle.
 Al revés, es concientizar, informar, y la verdad es que ha habido una cooperación muy grande en la ciudad, y esperamos la misma cooperación el 10 de mayo. La ciudadanía sabe que la mejor manera de festejar a las mamás, a las abuelas, a nuestras mamás es la sana distancia, en esta ocasión 10 de mayo podemos celebrar, pero a sana distancia.
 Vamos a tener un festival especial todo el día, además buscamos mariachis que hoy no tienen trabajo, los contratamos en el gobierno de la ciudad, se hizo una filmación con sana distancia, con todo adecuado para que puedan brindar serenata durante todo el día a las mamás.
 Y ya habrá tiempo para celebrar, nosotros propusimos la fecha del 10 de julio con los restauranteros de la ciudad para que en esa fecha podamos de nuevo volver a celebrar a las mamás.
 Entonces, es un llamado a toda la ciudadanía a que seamos responsables, como lo hemos hecho. Siempre lo he dicho en esta los gobiernos tenemos una gran responsabilidad y no se elude, tampoco se elude la información, por cierto, dar la información en su momento y como debe ser, pero la ciudadanía también tiene una gran responsabilidad. Así que confiamos que todos seamos responsables este 10 de mayo.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre la inmunidad de rebaño, y también podríamos dedicar una sesión específica en inmunidad de rebaño. Es un fenómeno que ocurre en las poblaciones en las que resistencia a la infección que proviene de la inmunidad, la respuesta del sistema de defensas del organismo, en un conjunto de personas que no tiene que ser el 100 por ciento, no tiene que ser el todo, es suficiente para que ya no haya transmisión.
 Y básicamente por eso se llama de rebaño, esto es como las manadas o ciertas especies. Por ejemplo, los pingüinos que se protegen entre sí, de la adversidad, agregándose y haciendo una barrera protectora, en este caso el mecanismo es que si yo tengo personas que ya son inmunes y mi relación principalmente es con personas inmunes, si yo llegara a infectar, yo ya no voy a infectar a nadie más, porque estoy rodeado de personas inmunes. Entonces, los contactos de esas personas que sin inmunes ya no van a llevar la infección a otros lados.
 De acuerdo a qué tan transmisible es una enfermedad es la cantidad o la proporción de la población que necesita ser inmune para que el efecto rebaño ocurra.
 En un virus como SARS-Cov-2, el causante de COVID, estamos seguramente identificando que necesitaríamos 60, 70, algunas estimaciones consideran hasta 80 por ciento de la población que sea inmune.
@@ -223,9 +253,20 @@ Otro de los periódicos en español que hoy publicaba sobre este tema de los cas
 Entonces sabemos perfectamente, lo hemos venido diciendo desde el inicio que hay un conjunto muy grande de la población que ojalá se quede en casa, que si no es una persona con factores de riesgo, edad, embarazo, enfermedades crónicas, no vaya, no vaya a las consultas, no vaya a las salas de urgencias, porque puede contagiar.
 En forma individual se puede quedar con la duda, tuve o no COVID, lo único que tuve es fiebre, tos, dolor de cabeza, dolor de garganta, pero no va a pasar a mayores y ya vendrá el momento, es otro de los componentes metodológicos de la inteligencia en salud que son las encuestas serológicas y la encuesta serológica el día que hablemos de inmunidad de rebaño lo podemos abordar, básicamente consiste en documentar qué proporción de la población mexicana tiene anticuerpos contra COVID, contra SARS-Cov-2 y por lo tanto si hemos alcanzado o no el punto crítico de la inmunidad de rebaño.
 ---
+INTERLOCUTORA
+¿Tendrá algún porcentaje para la inmunidad de rebaño para abrir los municipios?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No necesariamente, aunque ya estamos considerando distintos escenarios donde las pruebas serológicas misma que todavía no están validadas y todavía en el caso mexicano no están autorizadas por Cofepris precisamente porque existe incertidumbre científica en todo el mundo sobre cómo interpretar los títulos, las concentraciones de anticuerpos, pero cuando esto ya se valide en algún momento habrá mayor conocimiento en el mundo, entonces podemos tener pruebas serológicas, las podremos usar para documentar qué porcentaje de inmunes existen y contribuirás a las decisiones, pero no es un elemento indispensable para tomar la decisión de abrir o no abrir los municipios.
 Gracias, Araceli.
 ---
+JOSÉ LUIS ALOMIA ZEGARRA
+Rápidamente nada más en relación a la pregunta de los municipios con menos casos. Gracias, Araceli.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Rápidamente, nada más en relación a la pregunta de los municipios con menos casos, municipios con menos de tres casos confirmados o detectados son más de 100, entonces, no podría dar ahorita el listado completo, pero no hay problema porque, miren, los invito en el micrositio de la página de la Secretaría de Salud, ustedes entran al micrositio, en la pestaña de arriba hay un enlace que dice ‘Datos’, seleccionan ‘Datos’, e inmediatamente los va a mandar a la página que se está trabajando de manera conjunta y coordinada con Conacyt.
 Ahí en las opciones de la izquierda dice ‘mapas’, selecciona en el que dice ‘Mapa HD’, que es de alta definición, y les va a aparecer este mapa en donde pueden ustedes encontrar todos los municipios del país, y en ellos están marcados y con un color para los municipios con un caso, con dos casos, con tres a nueve casos, con la ventaja que es interactivo.
 En el momento en que ustedes le dan un click al municipio, les dice cuántos casos hay, y esta es una manera más como ustedes pueden notar como la información en México se da de manera transparente, clara, abierta y todos pueden entrar y consultar los datos sin ningún problema.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Son las 20:00 horas. Muchas gracias, doctora Sheinbaum, doctor Alomía. Seguimos pendientes, nos vemos mañana. Gracias, muchas gracias.

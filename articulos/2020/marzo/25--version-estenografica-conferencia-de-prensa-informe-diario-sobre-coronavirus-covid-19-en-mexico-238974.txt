@@ -3,6 +3,7 @@ Presidencia de la República
 25 de marzo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Son las 19:00 horas del miércoles 25 de marzo de 2020 y estamos en la Ciudad de México, en el Palacio Nacional. Vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la enfermedad causada por el nuevo coronavirus, SARS-CoV2.
 Como es costumbre, vamos a empezar con el informe epidemiológico y vamos a hacer algunos comentarios sobre el comportamiento de la enfermedad en el país. Posteriormente, vamos a entrar en un tema muy importante de considerar, que es especificar y aclarar qué quiere decir la acción de sana distancia, que no depende de los individuos, de las personas, sino de las acciones colectivas, de las disposiciones gubernamentales.
 Hoy nos acompaña el doctor Mauricio Hernández Ávila, quien es director Prestaciones Económicas y Sociales del Instituto Mexicano del Seguro Social, bienvenido, doctor Hernández; y el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud.
 Procedamos. Si me pasan la primera diapositiva. En el informe mundial tenemos un comportamiento que sigue en ascenso, tenemos 413 mil 4467 casos que se han acumulado desde el inicio de la epidemia en Wuhan, China, en enero de 2020.
@@ -16,7 +17,7 @@ Muy lamentablemente se suma una nueva persona que falleció como consecuencia de
 Esta persona padecía hipertensión, tenía una edad de 70 años y además tenía obesidad. Estos son sus tres factores de riesgo, sus tres elementos que lo hicieron propenso a complicarse y muy lamentablemente a fallecer.
 Por lo demás, la distribución geográfica, como cada noche, la mostramos en el mapa donde vemos que persisten las zonas metropolitanas principales como los centros de mayor contagio, de mayor frecuencia de contagios, empezando por la zona metropolitana del Valle de México, seguida de Guadalajara y también en el caso de Monterrey la zona metropolitana de Monterrey.
 Aclaro ahí que cuando aparece todo un estado en color rojo no quiere decir que todo el estado tiene la misma intensidad de transmisión, claramente en estos tres estados o considerando conjuntamente el Estado de México y la Ciudad de México como una primera es solamente en la zona metropolitana, en la zona más dispersa del Estado de México hay una transmisión muy baja; y de la misma manera en Jalisco, es la zona metropolitana de Guadalajara; y en el caso de Nuevo León es la zona metropolitana de Monterrey.
-En la siguiente diapositiva lo que vemos es esta información sobre qué proporción de las personas tienen enfermedad leve o tienen enfermedad que requiere de atención médica hospitalaria.  Sigue guardando un patrón semejante al de todos estos días donde nueve de cada 10 tienen una enfermedad que no requiere hospitalización y una vez detectados los casos se han indicado aislamiento domiciliario.
+En la siguiente diapositiva lo que vemos es esta información sobre qué proporción de las personas tienen enfermedad leve o tienen enfermedad que requiere de atención médica hospitalaria.  Sigue guardando un patrón semejante al de todos estos días donde nueve de cada 10 tienen una enfermedad que no requiere hospitalización y una vez detectados los casos se han indicado aislamiento domiciliario.
 Asimismo, 88 por ciento de quienes han recibido atención, está atención la reciben de forma ambulatoria, es decir, en sus domicilios con una serie de instrucciones generales y del seis por ciento que están hospitalizados son en una condición estable, solamente el tres por ciento tiene una condición grave y algunos han tenido la necesidad de intubación mecánica.
 Hasta el momento dos por ciento, solamente dos por ciento de estos 475 han pasado ya a un estado de recuperación, esto desde luego irá aumentando día con día.
 En la siguiente diapositiva mostramos el resumen de las personas que lamentablemente perdieron la vida por las consecuencias de esta enfermedad. Tenemos un predominio del sexo masculino donde cinco de los seis fueron hombres y también las instituciones en donde ocurrieron los fallecimientos: es el Seguro Social, hospitales de los servicios estatales de salud y una proporción importante, el 33 por ciento, en hospitales privados.
@@ -84,6 +85,7 @@ Le voy a dar la palabra al doctor Mauricio Hernández Ávila, director de Presta
 Doctor Mauricio Hernández.
 ---
 MAURICIO HERNÁNDEZ ÁVILA, DIRECTOR DEL PRESTACIONES ECONÓMICAS Y SOCIALES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Gracias. Si me permiten, me voy aponer también de pie para mantenernos activos un poco.
 Muy buenas noches a todos y a todas. Me da mucho gusto estar en esta conferencia tan importante.
 Antes de iniciar, quisiera saber de ustedes quiénes tienen seguridad social, si pudieran levantar la mano. Casi 30 por cierto nada más.
 El anuncio que voy a hacer ahora es para todas las personas que están afiliadas al Instituto Mexicano del Seguro Social en el régimen ordinario. Realmente es un esfuerzo que hace el instituto por sumarnos a las recomendaciones que nos hace la Secretaría de Salud de disminuir las cadenas de transmisión, quedándonos en casa.
@@ -121,6 +123,7 @@ Me da mucho gusto que la difundan, los que tienen seguridad social. Úsenla cuan
 Muchas gracias, doctor López-Gatell, gracias por prestarnos el espacio.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Hernández.
 Dos avisos antes de que pasemos a las preguntas.
 Uno que me interesa que todos y todas tengamos claro es que la Jornada Nacional de Sana Distancia, reiteramos, es para quedarnos en casa, no para irnos de vacaciones, no son vacaciones, reitero, no son vacaciones; aunque aprovechamos otra de las oportunidades que tuvo México, que fue que sólo con agregar dos semanas de suspensión de las escuelas, ganamos un mes completo de sana distancia porque incorporamos lo que originalmente fue planteado como vacaciones de Semana Santa, ahorita ya no son vacaciones.
 Lo que estaba estipulado como vacaciones ya no son vacaciones, ni en el trabajo ni en la escuela. Debemos quedarnos en casa. Y esto lo digo para que usted, que nos escucha, lo identifique bien, porque en Italia precisamente antes de entrar a la fase de transmisión rápida hubo gran movilidad de personas por actividades de vacación.
@@ -132,10 +135,18 @@ Ahora sí, preguntas y respuestas.
 Vamos a empezar en la primera fila, Ángeles, Blanca, usted, y usted Araceli y usted.
 ---
 PREGUNTA
+Subsecretario, creo que lo que faltó decir es qué le hace pensar que la gente no ha entendido, qué es lo que le da esa percepción de que no se ha comprendido.
 Y esto que dice del gobierno federal, que cierra a partir de mañana, ¿aplica para todos?, o sea, ¿ya no solamente se va a limitar a los grupos que ayer se había publicado en el Diario Oficial?
 ¿Y cómo va a hacer el gobierno para que realmente en el sector privado las personas que puedan se queden en su casa, como usted dice?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no.
+---
+INTERLOCUTORA
+Una cosa más, es sobre la inmunidad, esto ya es más de la parte técnica. ¿Ya hay más datos sobre de que si las personas que son eventualmente portadoras del virus enfermas o no adquieran inmunidad frente a este virus?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Ángeles. Preguntas muy, muy oportunas.
 Sobre la segunda es relativamente fácil, sí hay evidencia todavía en varias piezas sueltas de que la infección causa inmunidad. Todavía no existe una prueba serológica, como se conoce técnicamente, que es una prueba en la que mediante una muestra de sangre se aísla una porción de la sangre que es el suero y se detectan los anticuerpos, pero por estudios de inferencia epidemiológica, estudios que han descrito el comportamiento de los brotes es que se ha podido identificar que es muy raro que haya alguien que se vuelva a infectar; entonces, en general se asume que hay inmunidad permanente.
 Sobre lo que dice del sector público y mi preocupación de que no se hubiera entendido completamente en qué consiste la medida de mitigación ‘Quédate en casa’.
 El acuerdo por el que se establecen las medidas preventivas que se deberán implementar para la mitigación y el control de los riesgos que implica la enfermedad y por el virus SARS-CoV2, COVID que tengo aquí en mi mano precisamente dispone en el artículo 2º, el inciso A, habla de evitar la asistencia a los centros de trabajo, los espacios públicos y otros lugares concurridos, y esta indicación está dirigida a las personas de alto riesgo de complicarse, adultos mayores, grupos de personas con riesgo de desarrollar enfermedad grave, mujeres embarazadas, etcétera.
@@ -149,25 +160,48 @@ El presidente hablaba esta mañana del sentido de solidaridad y responsabilidad 
 Vamos a dar la palabra a Blanca y a Melina, creo que sólo nos va a dar tiempo de estas por lo que me está marcando el reloj. Sean breves.
 ---
 PREGUNTA
+En mi caso serían precisiones. ¿Mañana cuántas personas dejarían de estar, digamos, en la calle propiciando que se circule el virus de acuerdo a los números que nos están diciendo?
 Si nos puede comentar. Estas 13 personas… ¿son 13 o 17?, ya no… 13 personas ¿de dónde son?, es decir, ¿de qué estados son?, y si estas personas a su vez tienen contactos.
 Y aprovechando la presencia del doctor Mauricio, preguntarle si las personas que van a recibir pues este permiso, esta incapacidad, será al 100 por ciento de su salario. ¿Cómo se va a hacer?, ¿será al 100 por ciento de salario, será al 60 por ciento de su salario?, ¿cómo se va a dar?, porque no están enfermos, pero están en una situación de excepción, entonces, ¿cómo se va a dar? Gracias.
 Y si nos puede, aprovechar, un comentario de su experiencia de 2009 a esta experiencia, si ve un cambio radical.
 ---
-MAURICIO HERNÁNDEZ
-El permiso sigue la lógica de una enfermedad general como tal. Esto quiere decir que de los 14 días el subsidio es por 11 días es lo que va y es el 60 por ciento del salario, esto es, digamos, lo que manda la ley en términos de enfermedad general como tal.
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Doctor Hernández.
 ---
 MAURICIO HERNÁNDEZ
+Bueno, muchas gracias por la pregunta.
+El permiso sigue la lógica de una enfermedad general como tal. Esto quiere decir que de los 14 días el subsidio es por 11 días es lo que va y es el 60 por ciento del salario, esto es, digamos, lo que manda la ley en términos de enfermedad general como tal.
+---
+INTERLOCUTORA
+Y si el trabajador se contagia trabajando.
+---
+MAURICIO HERNÁNDEZ
+Si el trabajar se contagia trabajando… No, no es redundancia porque así es, ¿verdad?
 Un médico se contagia trabajando, entonces, es un riesgo de trabajo. Si es un riesgo de trabajo se cubre desde el día uno hasta los 14 días y el salario es completo; ahora bien, eso es si se contagia trabajando, pero acuérdense que esto es una medida para incentivar que nos quedemos en casa.
 Si yo soy responsable y digo: Tengo síntomas de COVID y contesto yo mi cuestionario me está habilitando a mí para ser responsable, socialmente responsable, y el IMSS participa, dice: ‘Quédate tus 14 días, sé responsable, rompe el ciclo de cadena y quiere decir no vayas al médico, no salgas a hacerte una prueba, guárdate’, porque todas esas actividades tienen que ver con transporte público, tienen que ver con contacto con gente, vamos hacerse una prueba implica usar un cubrebocas, un filtro de 91, una bata y es algo que estamos quitando también a los médicos. Entonces también en ese sentido cumplimos.
 Entonces, es una acción solidaria, tanto de la persona como del Instituto Mexicano del Seguro Social, y por eso así lo vemos. Claro que si alguien se contagia por su actividad laboral, por eso les preguntaba yo quiénes de ustedes tienen seguridad social, el instituto lo clasificara como una enfermedad del trabajo y se aplicará la ley que es salario completo desde el día uno.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Hernández.
 Sobre los 13 casos les anuncio, también lo había pedido Alejandro, en la página, en el portal de la Dirección General de Epidemiología hemos puesto ya el mapa interactivo que anunció el doctor Alomía hace unos días y varia otra información, y estaremos poniendo más información, todo lo que ustedes consideren que falta, pídanlo y con mucho gusto lo vamos a ir subiendo.
 Gruesamente se distribuyen, igual que el resto de los casos tanto en términos de sus características graves, no graves, sexos, sitios dónde ocurren, pero ahí lo pueden ver todo esto en detalle
 Melina, la última pregunta.
 ---
 PREGUNTA
+Buenas tardes, subsecretario.
 Preguntarle respecto a que a partir del día de mañana parará el gobierno federal, respecto a este anuncio del gobierno federal ¿incluye las conferencias matutinas con el presidente Andrés Manuel López Obrador?
 Y también, las personas que tienen que salir, policías, trabajadores, digo, que es esencial que salgan ¿se les recomienda utilizar cubrebocas a estas personas que van a estar al exterior?
 Y, por último, ¿qué hay de cierto que en Cofepris está detenido un cargamento con supuesto medicamento para COVID-19.
 Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+La de Cofepris es de rápida resolución, porque no existe medicamento alguno específico para COVID-2019. Entonces, si alguien dice que hay un cargamento en Cofepris o en cualquier otro sitio, pues se lo está inventando; desafortunadamente no existe un medicamento específico para COVID o para combatir al virus.
+Respecto a lo que me pregunta de las conferencias matutinas, me lo pregunta aquí también el colega. Estamos haciendo una evaluación porque consideramos a la actividad de ustedes una actividad esencial ¿no es cierto?; sin embargo, podría haber modalidades en donde disminuiremos el tránsito y la concentración de personas, próximamente Jesús Ramírez y el grupo de Comunicación Social de la Presidencia les comentarán algunos elementos, pero por el momento es muy poquita la gente que se reúne aquí, son poquitos los que se desplazan. Entonces, la contribución que hace respecto a la epidemia es considerablemente menor.
+Respecto a cubrebocas, qué bueno que lo vuelven a comentar. No es necesario que las personas utilicen cubrebocas en la vía pública, no es necesario; pero no sólo no es necesario, sino que no es útil, tampoco guantes y mucho menos cubre bocas N95 de alta eficiencia que son sólo necesarios para el personal de salud que directamente está en contacto con pacientes con COVID, directamente es literal, directamente.
+La persona que le toma la muestra, el médico que entuba al paciente, esas personas definitivamente tienen que usar cubre bocas N95, el de alta eficiencia.
+El resto del personal de salud, el que va pasando, que está atendiendo el cuarto de junto, el paciente de junto, la enfermera que está en la estación de enfermería y va distribuyendo medicamentos en el pasillo no necesita, a menos que vaya a estar en una situación de proximidad directa con los pacientes.
+Y les pongo un caso para ilustrarlo. Si a alguien no se le ha ocurrido hacer un reportaje escandalizante en la Secretaría de Salud, en el edificio de Lieja, pues ya se los frustré porque, les anuncio, hoy me sorprendo de ver al personal de vigilancia con cubrebocas y con guantes quirúrgicos.
+Esto es un despropósito, esto no tiene sentido, y vamos a emitir una directiva a nivel de todo el gobierno volviendo a decir:
+No desperdiciemos los recursos que, en este momento en el mundo, no en México, en el mundo, son escasos, en posiciones donde no se necesitan, dejémoslo para quien sí lo necesita.
+Aquí terminamos, muchas gracias. Mañana, mañana platicamos.

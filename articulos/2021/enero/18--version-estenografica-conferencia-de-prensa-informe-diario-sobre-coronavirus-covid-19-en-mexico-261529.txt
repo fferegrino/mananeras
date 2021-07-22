@@ -1,0 +1,343 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+18 de enero de 2021
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Hoy es lunes 18 de enero, son las 19:04. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación, la pandemia causada por el coronavirus SARS-CoV-2.
+Vamos a comentar sobre la situación de la epidemia, como lo hacemos todos los días de manera breve y puntual, y enseguida comentaremos sobre el progreso de la vacunación, sobre lo que sigue en materia de vacunación y sobre cualquier otro tema que consideren que hay que tratar.
+Le pido al doctor Alomía si es tan amable de presentar el primer segmento.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
+Muy buenas noches a todas y todos.
+Vamos a iniciar actualizando nuestra curva epidémica de casos estimados, que es la azul. Como ustedes pueden ver, mantenemos una tendencia ascendente en las últimas semanas, aunque sí es destacable que esta tendencia ascendente digamos que ha disminuido en relación a la velocidad con la que se presenta.
+Si vemos la curva ascendente que tuvimos precisamente durante el mes de noviembre, fines de octubre, pues teníamos una aceleración importante, prácticamente la curva era de tipo vertical completamente, me estoy refiriendo a esta curva que tenemos aquí.
+Y aunque continuamos con la tendencia ascendente, sobre todo si continuáramos la presentación de la curva como tal, pues vemos que hay una desaceleración en este punto, aunque la tendencia se mantiene todavía incrementándose.
+Es un punto porcentual precisamente el incremento con el que estamos aquí en la semana 1, 2021, que se empezó a graficar el día de ayer. Y pues bueno, como sabemos, esto de seguro va a todavía a tener cambios de incremento durante toda la presente semana.
+Casos activos, nuevamente regresamos al cinco por ciento de la totalidad de casos estimados, esto es 98 mil 554, que precisamente es el cinco por ciento de un millón 839 mil 876, que son las personas que en este momento estimamos son casos ya confirmados de COVID-19, en base a la información que tenemos en el sistema de información que es el Sisver.
+Si vemos la siguiente diapositiva, vamos a ver la evolución del porcentaje de positividad, que igualmente está representada en esta curva que vemos en la gráfica y en donde vemos cómo se ha estado comportando en las últimas semanas, prácticamente desde el mes de septiembre del año pasado tenemos este comportamiento que ya lo habíamos comentado en conferencias previas.
+Y continúa, como podemos ver, para la semana 1, nuevamente empieza a presentar un ligero descenso, abre con un 44 por ciento de positividad, esto quiere decir que de cada 100 personas que en su momento se estudian porque presentan signos y síntomas que son compatibles con COVID-19, de esas 100 personas, en 44 se está identificando y confirmando la presencia del virus SARS-CoV-2, y por eso decimos que son casos confirmados, que para el día de hoy precisamente suman un millón 649 mil 502 de un universo de más de cuatro millones 139 mil personas que hasta el momento se han estudiado y han sido clasificadas como casos sospechosos en su momento.
+Si vemos la siguiente diapositiva, también vemos el comportamiento de la letalidad. Para efectos de la semana 1 empezamos a abrir con un ligero descenso también, habíamos cerrado en ocho por ciento la letalidad la semana pasada, abrimos ahora con un siete por ciento.
+¿Qué significa este siete por ciento?
+Quiere decir que de cada 100 personas en las cuales se confirma la presencia del virus SARS-CoV-2, es decir, de cada 100 casos de COVID, siete son las personas que para efectos de la semana uno, fallecen a consecuencia de las complicaciones de la enfermedad. Si vemos el número acumulado serían 141 mil 248.
+Veamos la siguiente diapositiva, donde tenemos la información de la ocupación, específicamente aquí para lo que son camas generales. Los tres rangos en los cuales hemos dividido a estos grupos en donde están las 32 entidades:
+El primero de ellos, que son los que han superado ya este 70 por ciento de ocupación, inclusive algunos el 80 por ciento, como son Ciudad de México, Guanajuato, Estado de México, Hidalgo y Nuevo León con los porcentajes que están representados en la gráfica, y superando el 70 tenemos a Puebla, a Morelos y Nayarit.
+Aquí la importancia de haber superado el 70 por ciento es que estas entidades tendrían estar trabajando intensamente en los procesos de reconversión y de expansión hospitalaria ya que están enfrentando un nivel de ocupación que pone en riesgo de saturación.
+La importancia es que hasta el momento todavía hay disponibilidad, al menos en estas ocho entidades, de camas generales. Lógicamente que para poder encontrar y llegar a una es muy importante se mantenga la coordinación intersectorial que en la mayoría de ellas se hace a través de los Centros Reguladores de Urgencias Médicas, a los cuales se accede a través de 911 y en donde tienen la información de qué hospitales son los que tienen ese porcentaje de camas disponibles y por lo tanto pueden hacer una referencia más oportuna de los pacientes que así lo necesitan.
+En el siguiente rango, es decir, entre 69 y 50 por ciento, recordando que en este rango entonces hay que empezar a identificar ya todos los recursos necesarios para poder empezar con la reconversión, dado que estamos acercándonos a este nivel de seguridad del 70.
+Y aquí tenemos a nueve entidades que las podemos encontrar identificadas precisamente en la tabla. Veracruz, Jalisco, prácticamente apenas superando, digamos, el 50 por ciento, pero, por lo tanto, ingresan ya a este grupo.
+Y 15 entidades que al corte de esta mañana tienen menos del 50 por ciento de ocupación, lo que significa que tienen más de la mitad de sus camas IRAG general disponibles. A nivel nacional esta totalidad representan 13 mil 596, que también para efectos de la media nacional representaría entonces un 60 por ciento de ocupación y por lo tanto un 40 por ciento de disponibilidad.
+Y, finalmente, en la siguiente diapositiva tenemos información similar, pero ahora enfocada a las camas con ventilador. Sabemos que estas camas son destinadas para los pacientes críticos, los pacientes que presentan las mayores complicaciones, sobre todo aquellas que están asociadas a falla respiratoria y por lo tanto requieren de este tipo de equipamiento para poder continuar con su tratamiento.
+Aquí vemos que son menos las entidades que tienen saturación u ocupación de estas camas, sólo tres entidades con más del 70 por ciento, siguen siendo las mismas tres entidades que veíamos la semana pasada, nos referimos a Ciudad de México, Estado de México y Nuevo León, son ahora siete las que están en el siguiente rango, entre 69 y 50, Tlaxcala, Colima, Baja California Hidalgo y Puebla, Aguascalientes y Jalisco, prácticamente, apenas superando esa mitad de camas ocupadas, la gran mayoría todavía de entidades, 22, tienen menos del 50 por ciento de ocupación, lo que quiere decir que tienen muchas camas con ventilador que todavía están disponibles para su uso.
+A nivel nacional, esta disponibilidad representa cuatro mil 881 camas con ventilador, por lo tanto, la ocupación nacional para este tipo de camas es el día de hoy el 52 por ciento.
+Sería la actualización de esta noche.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
+Vámonos con la vacuna, seguimos vacunando, seguimos en esta etapa 1, que es la vacunación del personal de salud de primera línea, es decir, quienes están en contacto directo con las personas enfermas de COVID-19 de acuerdo al Plan Nacional de Vacunación.
+Aquí vemos la estadística distribuida por días de aplicación y conforme el paquete grande de 439 mil 725 dosis se ha ido utilizando, cada vez son unidades de salud con menor cantidad de personal, por lo tanto son pequeños paquetes que se van usando en cada unidad de salud, y la suma total es muy pequeña, verán ahora que prácticamente ya se acabó el paquete.
+Quiero hacer notar, para que todo mundo identifique claramente el porqué, que los números de días previos, particularmente de los días de enero ha sido ajustando al alza. Esto porque conforme se han ido capturando las capturas manuales que fueron incorporadas a la plataforma, ya se ha podido corroborar todos y cada uno de los datos, quedan ya en esta contabilidad adecuadamente por día.
+Entonces, esto ya llegará a un punto igual que ocurre con los datos de los casos que ya en días previos no se incorporan nuevos elementos porque no hay ningún rezago en la contabilización.
+Hoy se aplicaron tres mil 781 dosis hasta las 16:00 horas de hoy y todavía seguirán abiertas algunas de las unidades de vacunación, más tarde a las 21:00 horas tendremos un siguiente corte, es posible que mañana por la mañana en el Pulso de Salud ya tengamos información las más actualizada. Ahí está, 492 mil 529 dosis y es ya prácticamente todo el paquete que había llegado.
+Y aquí tenemos también el esquema que es importante darle seguimiento, primeras dosis y segundas dosis. Recordar que la vacuna de Pfizer-BioNTech requiere dos aplicaciones separadas por 21 días y estas ya son las personas que han recibido dos dosis.
+En esta gráfica aquí abajo se va a ir identificando conforme se pinte de rojo cuál es el porcentaje de personas que recibieron la primera dosis y ya recibieron también la segunda. Ahorita son muy poquitas porque son las personas desde luego para las que han transcurrido 21 días, en algún momento a partir del 24 de diciembre, que es cuando inició la vacunación, 1.3 por ciento.
+Y aquí están 27 entidades federativas, ya completaron el 100 por ciento de la dotación que tuvieron para el embarque más reciente; y hay algunas pocas, son seis, las que aún están terminando de utilizarlo.
+Aquí dos elementos que me gustaría identifiquen:
+Uno es: existe un pequeño número de dosis que no se logran, esto es normal, se conoce en la técnica, en los elementos técnicos de la vacunación en todo el mundo, la extracción de los frasquitos no necesariamente termina siendo completa.
+Esto es porque las condiciones de operación clínicas no son desde luego aparatos de precisión, son manuales, es una jeringa manual y puede ser que no se recupere la totalidad de las dosis.
+Como pueden ver, es una proporción minúscula respecto a la cantidad. Eso está considerado desde luego en las proyecciones de abastecimiento, dosis que se desperdicien, un momento de informarlo y lo estaremos actualizando continuamente.
+Aquí tenemos el uso de los paquetes, 439 mil 725 dosis en el embarque del 12 de enero y ya han sido utilizadas el 88 por ciento; este ocho por ciento, lo comentamos, fue intencionalmente reservado para proteger las segundas dosis.
+Es importante que las personas que recibieron la primera dosis la reciban en el tiempo adecuado.
+Ahora, aquí aprovecho para comentar. El pasado 8 de enero la Organización Mundial de la Salud publicó la más reciente guía interina sobre vacunación COVID, específicamente dedicada a la vacuna de Pfizer-BioNTech, son diversas consideraciones de lo que se conoce hasta el momento del uso de la vacuna.
+Una de las consideraciones es una recomendación de la Organización Mundial de la Salud que ya fue formulada en las conferencias de prensa de la organización que consiste en que en la medida en que la producción mundial de vacunas es desde luego más lenta de lo que se desearía, se considere el expandir la cobertura retrasando la aplicación de la segunda dosis.
+La recomendación se basa en la evidencia científica que proviene de los propios ensayos clínicos que demuestra que no existe una diferencia significativa respecto a ponerla exactamente a los 21 días o diferirla hasta 28 días. Esta ha sido la recomendación de la Organización Mundial de la Salud, insisto, basada en la evidencia científica que procede de los propios ensayos clínicos.
+Ahora, también en esta recomendación se formula la idea de que incluso podría diferirse hasta 42 días, hasta 42 días. Esta es una recomendación de la Organización Mundial de la Salud que está en una guía interina sobre la vacuna de Pfizer-BioNTech.
+Nosotros en México tendremos dos líneas de trabajo al respecto. Mañana martes, como todos los martes, se reúne nuestro grupo técnico asesor de vacunación y uno de los temas que analizará es precisamente la evidencia científica y las recomendaciones de la Organización Mundial de la Salud, Vamos a ver qué dice el grupo técnico asesor de vacunación.
+Lo segundo es: por su parte, Pfizer tendrá que hacer un pronunciamiento respecto a lo que la propia organización recomienda, la Organización Mundial de la Salud, y lo que Pfizer considera que sería conveniente de acuerdo a lo que ha formulado en su propuesta de aprobación para la FDA en Estados Unidos y los otros países que la han autorizado, y desde luego también en México en Cofepris.
+Entonces, estén pendientes de este elemento porque será comentado mañana. Insisto, mañana no será comentado a menos que tengamos ya por la tarde las recomendaciones de nuestro grupo técnico asesor de vacunación.
+La siguiente. Y finalmente, las Esavi o los Esavi, eventos supuestamente asociados a vacunación e inmunización, tenemos mil 564 casos notificados. Como pueden ver, hay 25 que fueron considerados graves y mil 440 que fueron considerados no graves.
+Esto en conjunto es 0.31 por ciento de las dosis que fueron aplicadas. Tengamos muy presente: este número va a ir creciendo, creciendo, no significa que haya una situación acumulativa de casos, que quede muy claro, esperemos que a nadie se le ocurra empezar a poner una cuenta de Esavi y que vayan aumentando y ‘Cifra récord de Esavi’. En México y en el mundo esto va a estar ocurriendo en la medida en que se pongan vacunas.
+Como hemos dicho muchas veces, lo volvemos a decir, eventos supuestamente atribuibles a vacunación e inmunización incluye todos aquellos síntomas que presentan las personas al momento de recibir la vacuna o en los siguientes días.
+Los más comunes son dolor en el sitio de inyección, a veces enrojecimiento, a veces fiebre, a veces nausea, a veces mareo y otros síntomas que se van presentando, la enorme mayoría son síntomas aislados, síntomas leves que se quitan espontáneamente en los primeros uno, dos o tres días.
+Hay algunos que este dos por ciento, esos 25 eventos que merecen mayor atención porque incluyen a personas que se requieren hospitalizar porque han presentado alguna afectación de mayor importancia. Aquí iremos presentando la estadística actualizada de acuerdo a estos eventos, y es fundamentalmente la edad, el sexo y el estado actual de las personas, 23 de las 25 ya fueron egresadas del hospital, se han dado de alta, están en su casa, no presentan secuela alguna.
+Dos están en este momento, son más recientes y están aún hospitalizados y estarán en el periodo de observación o de atención según corresponda.
+Esto es todo. Perfecto. Entonces, así es el asunto.
+Antes de entrar a preguntas y respuestas, como estoy seguro que esta será una pregunta es: ¿qué va a pasar ahora que Pfizer anunció que se modifica el calendario de entregas? Esto es algo importante.
+Primero, esto es una situación mundial, Pfizer es hasta el momento la compañía que más ha producido dosis de vacunas y la que más ha distribuido a más países, y Pfizer es ahora la primera vacuna del esquema Covax que ha sido puesta a disposición, entró la ronda de abastecimiento, la primera ronda de abastecimiento de Covax.
+Recordemos qué es Covax. Covax es el mecanismo de colaboración entre países, entre Estados miembros de la Organización de las Naciones Unidas, la mayoría de ellos miembros también de la Organización Mundial de la Salud, que a su vez es la agencia especializada en salud de la Organización de Naciones Unidas.
+El mecanismo fue diseñado y establecido para evitar especulación comercial entre los distintos países y facilitar que exista una distribución hasta cierto punto equitativa de vacunas en la medida en que sean necesitadas por los distintos países.
+Esta mañana el director general de Organización Mundial de la Salud hizo un enérgico, muy enérgico llamado a los países del mundo, a los estados miembros de la ONU y de la OMS a tener una visión solidaria, generosa, colaborativa, dejó muy en claro que es un asunto que aquí hemos comentado múltiples veces: la importancia de tener una actitud de colaboración cuando existe una epidemia de esta magnitud.
+En la medida en que se facilite que múltiples países tengan acceso a la vacuna, eso nos beneficia absolutamente a todas y todos. Sirve desde luego que un país, dos, tres, cinco o una veintena, tengan acceso a las vacunas, pero mientras no exista acceso a las vacunas en otras partes del mundo eso hace que se mantenga activa la epidemia.
+Entonces, a todos, a todas, nos conviene que haya una distribución más equitativa de las vacunas.
+Para eso se creó Covax.
+Recordar, además, algo que es motivo de celebración: el Gobierno de México, el presidente López Obrador, formuló en abril pasado, en abril de 2020 una propuesta de resolución a la Asamblea de Naciones Unidas que fue aprobada por prácticamente unanimidad, llamando al Sistema de Naciones Unidas a establecer todos los mecanismos necesarios que ayudaran a evitar la especulación comercial de los insumos para la salud, particularmente las vacunas, y Covax empata exactamente con este tipo de mecanismos.
+Entonces, se abrió la primera ronda de abastecimiento con Covax, por supuesto México que es parte de los países adheridos a Covax ya solicitó que también se incluya el abastecimiento para México.
+¿Cuál es la vacuna con la que se abre esta ronda de abastecimiento?
+La de Pfizer. Esto lo que lleva es a que la necesidad de Pfizer por distribuir vacunas tiene un mayor grado de presión, tiene que cumplir con los compromisos contractuales que haya hecho con los distintos países, pero también ahora tiene que hacerlo para el mecanismo solidario que, por las razones aquí comentadas, es de altísima prioridad, y esto es justo a lo que se refería el presidente López Obrador desde el fin de semana y lo explicó hoy en la conferencia matutina cuando habla de la importancia de que los países tengan esta actitud solidaria, generosa hacia otras naciones, en este caso a través el mecanismo Covax, esto es a lo que se refiere.
+La consecuencia sobre el embarque que estaba programado para mañana y que sigue programado, iba a ser un embarque semejante al de la semana pasada de 439 mil 725 dosis, ha sido adaptado 50 por ciento menos y vamos a tener la mitad, 219 mil 350 dosis, gruesamente la mitad. Estas llegarán, como ocurrió la semana pasada, al Aeropuerto Internacional de la Ciudad de México un embarque principal y al aeropuerto de Monterrey, Nuevo León.
+El embarque de Nuevo León, el embarque que llega al aeropuerto de Monterrey se conservará en Monterrey mil 950 dosis y tres mil 900 serán enviadas por vía terrestre a cargo de la Secretaría de la Defensa Nacional hacia Saltillo, Coahuila, y ambos paquetes serán para cubrir las segundas dosis. Entonces, está garantizada la aplicación de las segundad dosis.
+Y en la Ciudad de México permanecerán 190 mil 125 dosis en el depósito central y 23 mil 400 serán enviadas al Estado de México para que de ahí sean distribuidas hacia la región y nos facilitan la logística. Eso es lo que se tiene para mañana.
+Y hemos estado trabajando desde luego durante el fin de semana, desde que tuvimos conocimiento de esta reducción, en adaptar el plan de distribución. Hace unos minutos terminamos la segunda de las reuniones que hoy tuvimos con el grupo Correcaminos. En ambas nos acompañó el presidente, en la mañana algunos minutos, ahorita en la tarde es la que él directamente había convocado y estamos trabajando todos y todas muy coordinados para hacer los distintos ajustes en la distribución logística, pero el plan continúa.
+Y mañana, no lo voy a hacer ahora, aunque ya tengo la información, pero mañana en el Pulso de la Salud les comentáremos de manera más amplia lo que implica el tener próximamente otras vacunas en los calendarios que hemos conseguido de la vacuna AstraZeneca, ahorita comentaré una noticia al respecto, lo segundo la de CanSino y lo tercero la de Sputnik V que, como recordarán, fue precisamente lo que motivo la misión argentina para conseguir esta vacuna.
+Entonces, mañana presentaré el calendario entre enero y marzo, y lo que implica el conjunto de dosis que tendremos y cómo con esto no solamente logramos subsanar este retraso o reducción y retraso de la vacuna de Pfizer, sino ya seguir amplificando el programa.
+Respecto a la de Pfizer, para terminar, en este momento tenemos esta reducción al 50 por ciento y tendremos un diferimiento hasta el 15 de febrero; o sea, los embarques que estaban programados el 25 de enero, el 2 de enero y el 9 de enero no llegarán y llegarán el 15 de enero.
+Pero hay una reposición, no perdemos… Febrero, febrero, 15 de febrero, o sea, llega mañana y el próxima 15 de febrero, los tres embarques que no ocurrirán, como estaba programado, 25 de enero, 2 de febrero y 9 de febrero, entrarán en un abastecimiento aún mayor el 15 de febrero, es decir, no perdemos vacuna, simplemente se retrasa.
+Ahora, el otro elemento que olvidaba comentar, pero ya se conocía en la esfera pública, porque Pfizer mismo lo comentó, es: Pfizer está haciendo una adaptación tecnológica a su principal planta en Bélgica, entonces esto lo que implica es que tiene que parar máquinas para hacer las adaptaciones físicas a esa infraestructura y va a tener, una vez que abra, una capacidad, según el propio Pfizer informa, cuatro veces mayor de producción. Entonces, es necesario de momento parar, pero después tendrá cuatro veces la capacidad de producción, y es por esto que después podrá reponernos a nosotros, y suponemos que también a Covax y a otros países.
+Esa es la situación.
+Vamos a entrar a preguntas y comentarios. Por favor, adelante, adelante, vámonos así, primero con ella y nos vamos aquí, una acá, ustedes, acá, hoy las chicas de amarillo.
+---
+PREGUNTA
+Gracias, doctor. Buenas noches. Karina Aguilar, del Diario 24 Horas.
+Preguntarle, con este nuevo panorama que pinta la vacuna Pfizer, entonces, primero saber si la ONU les hizo a ustedes llegar de manera oficial algún comunicado haciendo una solicitud formal, oficial para dejar de recibir menos vacunas.
+De ser así, ¿a través de qué mecanismo fue?, ¿a través de qué dependencia?
+Y en ese mismo sentido, si usted sabe a qué países van a ser destinadas las dosis que dejen de llegar a México por esta petición de la ONU.
+¿Y podríamos entrar entre estos países más pobres?, sobre todo contemplando el momento de la pandemia que está viviendo México en estos momentos, que es uno de los más momentos más fuertes de la misma, esa es la primera pregunta, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. No funciona así, o sea, no es de que la ONU le manda una carta a cada país y le dice: ‘Dámelas porque me las voy a llevar a este otro país’. No funciona así. La manera en que funciona es: la Organización de las Naciones Unidas y también en este caso desde luego la Organización Mundial de la Salud han hecho un exhorto público.
+En este momento, por cierto, está en curso la reunión del comité directivo de la Organización Mundial de la Salud, que siempre se celebra en enero, en las últimas dos semanas de enero, y ahí precisamente también se dirimen este tipo de temas, y se hacen estos exhortos a los Estados miembros a que faciliten a través de no tener una exigencia extrema o a hacer un pronunciamiento de disposición que se puedan organizar convenientemente los mecanismos de colaboración.
+Covax es el mecanismo de colaboración al que todos los Estados miembros podemos acudir, no todos los Estados miembros de la Organización Mundial de la Salud se inscribieron, México sí lo hizo y esto lo que permite es dar por conocimiento la buena disposición de México y muchos otros países a que se haga este mecanismo facilitado para que Covax tenga la manera de arrancar y distribuir a quienes le han solicitado vacunas.
+---
+INTERLOCUTORA
+(inaudible) y con el esquema que nos planteó, no se va a cumplir la meta de vacunar a todo el personal de salud con segundas dosis al 31 de enero.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es posible que se logre; de todos modos, no hay…
+---
+INTERLOCUTORA
+¿Pero dan las cifras?, porque mañana llegan 200 mil y van apenas…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, con segunda dosis, dice usted.
+---
+INTERLOCUTORA
+Ajá.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, justo es por eso lo que decía. Es muy importante considerar el tema del diferimiento de las dosis. Ya sabíamos, porque esto fue anunciado mucho antes, desde el año pasado, este planteamiento de que se podía diferir hasta 28 días, con sólo ganar esos 28 días en vez de tener los 21 días ya tenemos un número sustancial de los miembros del personal que no puede no tocarles en el día 21, sino en el día 28.
+Y mañana sabremos la resolución de las negociaciones que hoy emprendió el secretario de Hacienda, Arturo Herrera, con el gerente general, el CEO de Pfizer, al respecto de la posibilidad de que no sean tres semanas de desabastecimiento, sino que pudiéramos tener un poco anticipado el abastecimiento.
+Esto lo pidió el presidente López Obrador durante el fin de semana y el interlocutor designado fue el secretario de Hacienda, Arturo Herrera. Hoy no fue posible concretar la plática que incluso iba a tener el propio presidente López Obrador, porque en Estados Unidos es un día festivo por el aniversario del nacimiento de Martin Luther King, es un día festivo, pero ya saben en Pfizer cuál es el planteamiento y mañana tendremos respuesta.
+Entonces, esos son los escenarios hasta el momento.
+---
+INTERLOCUTORA
+¿Y cuántos días se estaría retrasando la vacunación para los adultos mayores que ya estaban…? Creo que eran de los sectores más esperanzados en esta vacuna.
+¿Y cómo nos va a afectar -ya por último- cómo nos va a afectar epidemiológicamente esta reducción de Pfizer, doctor?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es muy probable que no tenga ninguna consecuencia epidemiológica. Recuerden ustedes que los calendarios de vacunación dependen mucho de la manera de utilizarlos, el efecto que tienen. Recordar que la cobertura de personas adultas mayores como prioridad tiene como objetivo reducir la mortalidad y precisamente lo que voy a explicar mañana es cómo incorporaremos las otras vacunas para cubrir estas semanas de insuficiencia y cómo recuperaremos ese calendario con exceso, incluso con las distintas vacunas que irán llegando.
+---
+INTERLOCUTORA
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No va a tener mayor consecuencia.
+Blanca Valadez, Milenio; luego acá, luego Natalia y aquí nos seguimos.
+---
+PREGUNTA
+Muy buenas noches, doctores. Blanca Valadez, de Milenio.
+Preguntarle, entonces ¿el día 15 de febrero exactamente cuántas vacunas llegarían?, considerando que para esa fecha se tenía considerado más de tres millones.
+Y si no vienen, sería… es que de acuerdo a su calendario, es el que yo estoy checando. Y si no viene el 25 de enero, ni el 2 de febrero, entonces, ¿serían cuatro millones de vacunas? ¿cuántas vacunas serían el acumulado que vendrían en esa ocasión?
+Preguntarle, hay un grupo de personas que dijeron que van a hacer una carta de profunda preocupación contra Pfizer, justamente por estos ajustes que está haciendo en su planta, porque para ellos sí les resulta preocupante que estén haciendo estos ajustes justo en el momento de la distribución. ¿México haría algo así?
+Y si nos puede comentar sobre AstraZeneca, ¿ya llegó el líquido, el producto?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Les comparto con mucho gusto.
+---
+INTERLOCUTORA
+Y lo de CanSino.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. No hay ninguna cifra de tres millones que se haya hablado el 15 de febrero, lo que…
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Durante febrero, el esquema original era embarques de 439 mil, lo voy a redondear, casi 440 mil dosis en las dos últimas semanas de enero, es decir, esta es de 439 mil, la que iba a llegar mañana, en vez de esos son las 219 mil, y la del 25 de enero iba a ser un abastecimiento semejante.
+En febrero se iban a tener durante cada una de las cuatro semanas de febrero un poco más de 550 mil dosis, y eso es de donde salía justamente esta cifra cercana, hay que hacer la multiplicación a lo que usted identifica como tres millones, entonces es el cambio.
+---
+INTERLOCUTORA
+Sería entonces… El 15 de febrero llegarían ¿cuántas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana, insisto, mañana tendremos respuesta de la solicitud que hizo el Gobierno de México a través del secretario Arturo Herrera sobre si logran Pfizer todavía hacer un reacomodo; entonces, si yo ahorita les doy una cifra y mañana cambia, pues no tendría sentido.
+---
+INTERLOCUTORA
+En el contrato, este tipo de cosas ¿estaban previstas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+En todos los países. Es un muy buen punto, en todos los países y para todas las compañías, para todas las compañías y todos los países existe una cláusula estándar que indica que las condiciones de producción pueden cambiar y que las empresas pueden no lograr cumplir los calendarios estipulados, todos los países, todos.
+---
+INTERLOCUTORA
+Pero ¿qué implicación?, ¿qué impacto?, es decir, si Pfizer incumple se bajaría el precio, ¿cuál es?, ¿a qué está sujeto?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ninguna, por lo que le estoy diciendo. Todos los países, es todos los países que han contratado vacunas; todas las compañías es todas las compañías que producen vacunas contra COVID, estamos hablando solamente de COVID.
+Hay una cláusula estándar que dice: ‘Las condiciones de producción podrían variar’, y esto podría resultar en que no se entregue el calendario, de acuerdo al calendario estipulado, tan, tan.
+---
+INTERLOCUTORA
+Bueno, ya nada más sería lo de AstraZeneca, ¿cómo va? De CanSino supongo que ya también tiene una noticia.
+Y cómo van evolucionando las personas. Dice que hay dos personas hospitalizadas, supongo que es la doctora y existe otra persona. ¿Qué les pasó?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, ahorita el doctor Alomía nos actualiza al respecto.
+Lo de Astra va muy bien, recordarán que cuando estuvimos en Argentina pudimos visitar la planta de la compañía mAbxience, que es una compañía de biotecnología que fue subcontratada por AstraZeneca y la Universidad de Oxford para producir la vacuna respectiva.
+Esta vacuna se produce en esa planta a granel, en embarques de varios miles de litros y se exporta, en este caso a México, porque hay un convenio, un contrato entre dos particulares, que son esta compañía y Liomont, una empresa farmacéutica mexicana, para que Liomont haga el llenado y terminado, es decir, los frasquitos específicamente que se usarán ya para la aplicación de la vacuna, esos van a ser llenados con ese granel en Liomont.
+Este miércoles tenemos el gusto de recibir el primero de estos embarques a granel, es un granel para aproximadamente un millón de dosis. Ojo que digo el aproximadamente porque por las condiciones de operación en planta puede ser que se obtenga menor cantidad o a veces raramente también mayor.
+Y este llegará mañana. Perdón, no mañana martes, el miércoles en la madrugada y es de acuerdo al plan de producción y acá, en el caso de Liomont, de acuerdo al calendario de recepción.
+Les puedo también comentar que Liomont va en muy buen curso instalando los equipos adicionales que tuvo que poner en su planta, una planta muy moderna, muy de alto nivel de tecnología y de los más altos estándares de seguridad que está en Ocoyoacac, Estado de México, y de acuerdo al calendario de reconfiguración, de instalaciones, van en muy buen curso. Ahí vamos.
+Y CanSino, no hay ninguna novedad, seguimos en el mismo plan, se contrataron 35 millones, China las tendrá que enviar y mañana en la tabla que les mostraré verán ustedes cuántas son las que se tendrán entre enero y marzo.
+---
+INTERLOCUTORA
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Todavía no, CanSino todavía no tiene autorización de uso de emergencia porque falta completar el expediente por parte de CanSino. Se espera que este viernes 22 de enero presenten la información del ensayo clínico fase 3, que es uno de los pendientes, hay otros, pero es el principal del expediente.
+Muchas gracias.
+De los eventos secundarios y ahorita seguimos con Juan.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+(Inaudible) atribuibles a vacunación o a inmunización que se han catalogado o clasificado al momento de su presentación como graves
+¿Cuándo un evento se clasifica grave o cuándo se clasifica como no grave?
+Grave, como su nombre lo dice, es porque las manifestaciones o los signos y los síntomas que desarrolla la persona posteriores a la aplicación de la vacuna podrían poner en riesgo su salud, su vida y por lo tanto entonces requieren en la mayoría de los casos de hospitalización y un seguimiento puntual.
+De estas 25 personas que presentaron alguna de estas manifestaciones, signos o síntomas, solamente dos se encuentran actualmente hospitalizadas, es decir, 23 ya egresaron felizmente tuvieron una muy buena evolución, resolvieron su problema signo, síntoma o manifestación que tuvieron y ya están felizmente en sus domicilios recuperados y solo tenemos dos personas en este momento que se mantienen en seguimientos.
+Estas dos personas lo que presentaron fue un choque anafiláctico cada una de ellas.
+Recordemos que choque anafiláctico es una reacción que puede tener una persona no solamente por exposición a la vacuna, sino ante cualquier elemento que en su momento le produzca una reacción alérgica exacerbada. Sobre todo, se produce en aquellas personas que en su momento han tenido exposiciones previas o reacciones alérgicas previas a ciertas sustancias, ciertos alimentos o ciertos químicos que en su momento pueden introducirse.
+Recordemos que para en su momento decir que este choque o reacción anafiláctica estuvo relacionado con la vacuna hay todo un proceso de investigación, de revisión del caso que lo lleva a cabo un grupo de expertos quienes son que finalmente emiten la clasificación final.
+La clasificación inicial siempre será que es un evento supuestamente atribuible hasta que el grupo de expertos termine de hacer la revisión, nos dirá si efectivamente este evento estuvo asociado a alguno de los elementos que compone la vacuna o a la vacuna en sí o puede haber estado asociado a algún otro tipo de reacción.
+Felizmente todas han evolucionado, esto se sabe y han evolucionado bien, inclusive estas dos personas están estables y estaríamos a lo mejor esperando que en los siguientes días pudieran egresar.
+Y podemos ver cómo, si se incrementa el número de Esavis no graves y cuando hablamos de Esavis no graves, es que basta que una persona reporte dolor de cabeza que de hecho es el mayor signo o síntoma dependiendo de cómo lo veamos que se han expresado en los Esavis, basta con que tenga un dolor de cabeza, se clasifica como un Esavi no grave y eso ha sucedido en el 57 por ciento de los Esavis no de las personas vacunadas, sino de estos Esavis que se han presentado, ese es el síntoma predominante. Y el que le sigue: dolor y malestar en la zona local de la aplicación de la vacuna.
+---
+INTERLOCUTORA
+(inaudible)
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+No, la doctora ya está de alta, estos dos casos, ya, estos dos casos que estamos hablando son casos nuevos, ahora del mes de enero; de hecho, se los puedo precisar, uno sucedió el 7 de enero y otro el 13 de enero, también son personas del sexo femenino de 33-36 años. Pero la doctora, que en su momento fue de los primeros casos, ella ya egresó satisfactoriamente.
+---
+INTERLOCUTORA
+La entidad.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Coahuila.
+---
+INTERLOCUTORA
+Los cuatro.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+No, la doctora. Los casos que están hospitalizados son: uno de Coahuila y uno de Oaxaca.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Juan Hernández, periódico Basta, Grupo Cantón.
+---
+PREGUNTA
+Gracias. Buenas noches.
+Doctor, el día de ayer, buen, en esta semana han estado circulando videos en donde se pueden ver a personas saliendo de fiestas, ya no clandestinas, ya abiertamente. Estamos hablando, por ejemplo, del caso de Chimalhuacán en donde había más de 100 personas en un terreno en una fiesta, y aquí hay algo que llama mucho la atención: la participación de la policía.
+¿Y por qué me refiero a eso?
+Ayer le hacía una pregunta precisamente al doctor Cortés referente a ellos, que han estado levantado la voz, estamos hablando de policías, estamos hablando de inspectores, que dicen: ‘Nosotros también estamos en la primera línea de lucha contra el COVID, a nosotros nos toca la parte más complicada y más incluso hasta humillante, que es enfrentar a la gente, que no quiere entender, que no quiere hacer casos a los llamados de sana distancia, que no quiere hacer caso a precisamente a no reunirse’.
+Sin embargo, ellos tienen que soportar que los agredan no solamente físicamente, sino que también les escupan en la cara, les tosen. Y son muchos testimonios de hombres y mujeres que tienen que enfrentar precisamente esta serie de situaciones, y dicen: ‘¿Cuándo vamos a hacer nosotros contemplados precisamente para esta vacunación?, también nosotros estamos en la primera línea, también nosotros estamos en riesgo y, peor aún, también podemos nosotros ser portadores del COVID sin que no nosotros nos lo propongamos’.
+Esa es la pregunta: ¿cuándo se van a poder contemplar a estas personas?, porque también ya han estado brincando, por ejemplo, paramédicos, también de consultorios particulares, también en este caso de los que están anexo a las farmacias, que dicen: ‘Nosotros también vemos a mucha gente con COVID, a pacientes y no sé si nos han también contemplado también para esta vacunación.’
+O sea, realmente, es una esfera que se empieza a ampliar y, bueno, de alguna manera ver cuándo se pueden tocar estos puntos, que realmente son importantes.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Juan, queda claro el punto. La idea es: existen múltiples ocupaciones en las que las personas podrían estar en riesgo de exposición al virus SARS-CoV-2, no hay duda alguna, no hay duda alguna, en muchísimas ocupaciones hay una razón por la que las personas, dada su ocupación, pudieran tener el evento de exposición al virus SARS-CoV-2.
+Lo que usted nos relata es el caso de policías, las personas mensajeras también hay comentado esta perspectiva, evidentemente los transportistas, de transporte público, hay muchas profesiones que implican un contacto con la población y en la medida en que en la población circula el virus SARS-CoV-2 pueden tener exposición.
+En estos casos les tocará, tenemos que tener claro, a todo mundo le va a tocar la oportunidad de ser vacunado, en el plan, como lo hemos comentado desde el 8 de diciembre y lo hemos repetido todos los días, se señala explícitamente al personal de salud de primer contacto, de primera línea en las unidades COVID.
+Y, como lo comentamos también ya, hay tres compartimentos: es el personal de hospitalización COVID, es el personal de primer nivel de atención COVID y es el personal de la atención prehospitalaria COVID, estos son las ambulancias, los centros reguladores de urgencias médicas, etcétera.
+De cualquier manera, todas las demás personas serán consideradas, pero no se ha establecido un calendario específico por ocupación, son muchísimas, son un conjunto de miles de ocupaciones y en una u otra existe alguna experiencia que ilustra que se pueden contagiar del virus SARS-CoV-2, todos y todas, ustedes mismos como reporteras y reporteros podían comentar ustedes estar en una actividad que les puede exponer a tener la exposición, sí, también.
+---
+INTERLOCUTOR
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Paramédicos, es lo que le digo, es la atención prehospitalaria. Policías, es un grupo profesional amplio, muy amplio y hay policía federal, hay policía estatal, hay policía local, hay distintos cuerpos de seguridad no clasificados como policía, existe la policía bancaria, industrial, etcétera.
+Entonces, son los distintos cuerpos de seguridad públicos y privados, tienen una exposición, por la naturaleza de su trabajo, con personas que podrían ser portadoras del virus SARS-CoV-2, sí, definitivamente al igual que múltiples otras ocupaciones.
+Entonces no está considerado en el plan individualizado por ocupación, pero todos y todas serán sujetos de vacunación contra el COVID.
+Muchas gracias.
+Ahora de este lado, Natalia Vitela. Nos quedan nueve minutos.
+---
+PREGUNTA
+Gracias, doctor. Buenas noches.
+Le quiero preguntar sobre la vacuna de AstraZeneca. Este millón de dosis ¿serían para México solamente o para América Latina también?
+Y hoy llegó la sustancia entiendo y habla usted…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El miércoles a las 4:00 de la mañana.
+---
+INTERLOCUTORA
+¿Como cuándo creen o ya tiene estimación de que estarían envasadas ya para…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A finales de marzo. Gracias por las preguntas. Para conocimiento de todos, este millón de dosis son para las distintas operaciones de la propia establecimiento de la planta, no necesariamente están predestinados o preetiquetados a alguna parte del abastecimiento.
+En general, la producción de Liomont, que es del convenio que hizo con Astra, incluye el abastecimiento de la compra en México que es para un total de 77.4 millones de dosis en conjunto durante todo el contrato y para América Latina se han considerado 200 millones de dosis que serán producidas en la planta de Liomont, distintos países, desconozco cuáles en América Latina.
+---
+INTERLOCUTORA
+Y a través del mecanismo de Covax ¿cuándo llegarían las vacunas México.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Todavía no se establece eso, pero ya hicimos el planteamiento y vamos a ver qué nos responde la Organización Mundial de la Salud.
+---
+INTERLOCUTORA
+Y entiendo entonces que mañana habría una resolución de estos 42 días de poder poner la segunda dosis de la vacuna.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana sesionará el grupo técnico asesor de vacunación, este grupo técnico que les he comentado, yo creo que mañana me voy a acordar de traer la lista de quienes lo integran para que todo mundo lo conozca.
+El grupo lo preside la doctora Celia Alpuche Aranda, directora del Centro de Investigación sobre Enfermedades Infecciosas del Instituto Nacional de Salud Pública y participan distintas personas muy destacadas.
+Hemos comentado el caso del doctor Cravioto, quien es el presidente del grupo asesor de la OMS, y también el caso del doctor José Ignacio Santos, quien además de ser el creador del Programa de Vacunación en México y actualmente nuestro secretario del Consejo de Salubridad General, ha sido miembro del grupo asesor de la OMS y es todavía miembro del grupo técnico asesor y es todavía miembro del grupo técnico asesor de vacunación de la OPS.
+Y mañana sesionarán, ellos sesionan, ellas y ellos, todos los martes para tratar los distintos temas de actualidad, y mañana entre los distintos temas está este asunto de sí se puede o no soportar en la evidencia científica el diferimiento hasta 42 días.
+Emitirán una recomendación al Gobierno de México, y cuando la emitan lo comentaremos.
+---
+INTERLOCUTORA
+Doctor, y ya, por último, si ya tienen pensado quién va a llegar al Censia?.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A Censia en reemplazo de la doctora Veras, no, todavía no, es muy pronto.
+Pero aprovecho para comentar, su periódico le dio una gran notoriedad, el periódico Reforma puso ahí: ‘Descabezan el programa de vacunación’. No es un descabezamiento.
+Nuestra doctora Miriam Veras Godoy es una amiga y colega muy querida, muy, muy querida. Ella, yo tuve el gusto de invitarla a participar como directora de Censia, desde antes de que empezara el periodo de gobierno, cuando estábamos en el grupo de transición, en su momento formulé la propuesta al doctor Alcocer, la entrevistó, le pareció una excelente candidata.
+La doctora Veras tiene una gran experiencia en el tema de vacunación. Cuando el doctor Santos estableció el programa de vacunación, ella empezó a trabajar en el programa y fue subdirectora y luego directora en Hidalgo, que es su estado natal, ella ha sido jefa del programa de vacunación en múltiples ocasiones, también fue en algún momento directora de Políticas y Estrategias de Salud en el estado de Hidalgo, la segunda al mando después de la subsecretaria de Salud pública, y es una colega muy, muy querida.
+Por razones personales, como ella misma lo hizo de conocimiento, prefirió en este momento ya no continuar, pero tiene siempre, se lo hemos dicho, las puertas abiertas para colaborar con nosotros en donde estime que puede ser compatible con sus aspectos de vida.
+Entonces, aprovecho para comentarle, si usted me hace favor de llevarle el mensaje a su editor, el editor de Reforma, que no hay ningún de descabezar a ningún programa, ni este ni ningún otro. Lástima que por razones personles la doctora tuvo que apartarse en este momento de su encargo.
+Obviamente, quedarán al frente de Censia de manera inmediata los siguientes niveles de mando, direcciones de área, y el doctor Alcocer estará analizando propuestas para ver quién queda al frente del Censia.
+Y, por su parte, el operativo, como lo explicó el doctor Ricardo Cortés el domingo, el operativo Correcaminos no es un operativo propiamente del programa de vacunación universal, esto lo explicamos también a las secretarias y secretarios de salud en la más recientes sesión del Consejo Nacional de Salud, y también lo comentamos con los gobernadores, la gobernadora de Sonora y los representantes de la jefa de gobierno en la reunión que. les comenté, tuvimos el viernes pasado.
+No es un operativo propio del programa de vacunación universal, porque no es vacunación rutinaria. La vacuna COVID no ha sido incorporada al programa de vacunación universal por múltiples razones técnicas, entre las que se incluye el hecho de que no tenemos un abastecimiento estable en el mundo entero, en el mundo entero, no hay un abastecimiento estable.
+¿Por qué razón?
+Porque las vacunas se están fabricando a un ritmo que es menor a la necesidad, la necesidad en todo el mundo y las vacunas desde luego no se pueden fabricar de un momento a otro.
+Por cierto, ahí aprovecho para recordarle a todos los que insisten en que la vacunación debería ser más rápida, pues todos quisiéramos que la vacunación se resolviera en 24 horas, por ejemplo, esto no es posible, no es factible.
+¿Cuál es el factor limitante?
+Que las vacunas no se han fabricado, se estarán fabricando y cuando se fabriquen entrarán a nuestro país y a otros países y serán aplicadas.
+La buena noticia es el operativo Correcaminos, es un operativo del Gobierno de México en su conjunto, participan múltiples instituciones: la Secretaría de Defensa, la Secretaría de Marina, la Secretaría de Relaciones Exteriores, la Secretaría de Hacienda, la Secretaría de Bienestar, la Secretaría de Educación Pública, el Conacyt, múltiples instituciones, por supuesto incluidas las de salud.
+Por lo tanto, el programa es muy estable, es muy robusto y aunque lamentamos mucho que la doctora Veras haya presentado unilateralmente su renuncia, pues el programa continúa sin ninguna merma.
+Muchas gracias.
+Por favor, la última pregunta. Nos quedan dos minutos.
+---
+PREGUNTA
+Doctor, rápidamente.
+Soy Omar Niño, desde San Luis Potosí. San Luis Potosí está viviendo un panorama muy complicado, ayer la Unidad Centinela se quedó saturada, hospitales se están saturando; sin embargo, el día de ayer la doctora Mónica Liliana Rangel, encargada de la pandemia, se separa del cargo y hoy se apunta como precandidata a la gubernatura por Morena para San Luis Potosí.
+Le pregunto que sí se va tranquila y me responde que sí porque dejó menos muertos de los que ella estimaba dejar.
+La pregunta concreta para usted es: ¿cuál es su opinión que por lo menos en el caso de San Luis Potosí la pandemia se utilizó para politizar esta situación y para un fin personal?
+Hace un año a la doctora nadie la conocía ni en San Luis Potosí, ha salido todos los días a dar los reportes COVID en la mañana y se aprovechó de la pandemia y dejó tirados a los potosinos en el peor momento de la epidemia.
+Me gustaría saber su opinión.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No tengo opinión alguna, sobre política no opino y menos de política electoral, y menos en un periodo electoral. Si así lo hiciera estorbaríamos al propósito de esta conferencia que es brindar información técnica y científica sobre la pandemia de COVID-19 en México.
+---
+INTERLOCUTOR
+Sin embargo, doctor, es muy importante. Los potosinos se quedan sin la cabeza de esta lucha por la pandemia y estamos en el peor momento que se está viviendo en San Luis Potosí.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, supongo que el gobernador del estado, el gobierno del estado tendría a bien designar a una persona encargada y seguramente, como suele ocurrir en las instituciones, las instituciones mantienen la continuidad de operaciones con la participación de los distintos miembros de los equipos y yo confío, espero que así será también en el caso de San Luis y en el caso de cualquier otra institución y de cualquier otra entidad federativa.
+---
+INTERLOCUTOR
+¿Ni un llamado de atención para los secretarios de Salud?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No me corresponde, insisto, yo no me pronuncio sobre política y menos sobre tiempos electorales.
+---
+INTERLOCUTOR
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+Vamos a… Ya no dio tiempo de usted ni de Juan Carlos Machorro. Son las 20:00 horas, aquí terminamos.
+Mañana es martes, martes de la salud, martes del Pulso de la Salud, estaremos acompañando al presidente López Obrador aquí en la sala del Salón Tesorería el secretario de la Defensa, el secretario de la Marina y un servidor, subsecretario de Salud.
+En Monterrey, Nuevo León en el aeropuerto estará el maestro Zoé Robledo, director general del Instituto Mexicano del Seguro Social, y en el aeropuerto de la Ciudad de México estará el doctor Alcocer, secretario de Salud; el doctor Herrera o maestro Herrera, Arturo Herrera, secretario de Hacienda; el canciller Marcelo Ebrard y el maestro Juan Ferrer, director del Insabi junto con nuestro compañero también Horacio Duarte, administrador general de Aduanas, y haremos lo mismo que hemos hecho en otras ocasiones, veremos la llegada de los embarques y se hablará sobre la significación de estos embarques.
+Seguimos vacunando, estamos todavía en la etapa de vacunación del personal de salud y con los ajustes necesarios este programa de vacunación continúa. Muchas gracias.

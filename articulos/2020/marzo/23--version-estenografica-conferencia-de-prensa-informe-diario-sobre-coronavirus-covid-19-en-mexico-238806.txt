@@ -3,6 +3,7 @@ Presidencia de la República
 23 de marzo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 horas del lunes 23 de marzo de 2020. Estamos en la Ciudad de México y hoy iniciamos la conferencia de prensa diaria sobre la situación del nuevo coronavirus, COVID-19. Hoy ejercemos una distancia tan sana que hoy voy a estar solito.
 Nos vamos a centrar en dos cosas. Hoy vamos a aprovechar para recapitular sobre algunas dudas, entonces será más breve en presentar el informe diario de la situación en el mundo, de la situación en México.
 Recordaré un poco el concepto básico de la sana distancia y las medidas de distanciamiento, tanto generalizadas como las individuales que puede ejercer cada persona en el seno de su familia o en su vida diaria y después abrimos a preguntas y respuestas.
 Entonces, si me pasan la primera imagen, por favor. Aquí tenemos el informe mundial, me voy a permitir pararme para poderlo ver de manera más clara. Hasta el momento en el mundo, desde que inició la epidemia en Wuhan, China, en los primeros días de enero hasta hoy 23 de marzo de 2020 se han acumulado 332 mil 930 casos y, como hemos comentado en varias ocasiones, sólo una proporción, en este caso 67 por ciento son casos que se estima permanecen activos, es decir, han ocurrido en los últimos 14 días y por lo tanto son personas que, teniendo el padecimiento, pueden contagiar el virus.
@@ -44,6 +45,7 @@ Esta es una señal muy temprana, pero esta es una señal característica de la t
 Creo que es la última. Vamos a abrir entonces a preguntas y respuestas, el compañero levantó la mano, luego Aracely, luego usted y luego tres de esta fila hasta llegar a Mauricio. Adelante, por favor.
 ---
 PREGUNTA
+Gracias, doctor López-Gatell. Carlos Padilla, de la revista Zócalo.
 Doctor, por las proyecciones que nos comentó usted inicialmente la epidemia que se convirtió en pandemia surgió, creció y se expandió de China, del oriente al occidente, después pasó a Europa, donde se está desarrollando; ahora usted nos dice que el 49 por ciento de los casos está en Europa, pero el 42 por ciento está en América ya.
 ¿Cuál sería su proyección para las próximas semanas si dentro de algunas semanas Europa dejara de ser el foco principal y tal vez América se convierta en nuevo foco importante de expansión y de crecimiento?
 Le pregunto primero eso.
@@ -52,6 +54,19 @@ Y también le preguntaría: ¿cuántos casos graves tienen registrando actualmen
 Y, por último, ayer nos dijeron que habían aumentado más de 60 casos, pero hoy nada más aumentaron 16, la comparación de ayer a hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+51.
+---
+INTERLOCUTOR
+51 más.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí.
+---
+INTERLOCUTOR
+Si me comenta eso, por favor. Primero lo de la expansión, si el virus va a crecer de manera desproporcionada en América en las próximas semanas y, segundo, los números casos graves y lo último que le pregunté.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto. Carlos, su pregunta y su observación son muy atinadas.
 Lo que este virus, como puede ocurrir u ocurre frecuentemente con los virus emergentes, van afectando distintas partes del mundo y también al interior de cada país, de cada estado nacional en distintas subregiones o provincias o estados en nuestro caso.
 Esto ocurre porque el virus no se propaga de una manera uniforme, dada que la mecánica de transmisión no es por un medio físico, como pudiera ser el aire abierto o el agua, etcétera, sino es de persona a persona. Los patrones de transmisión, por lo tanto, están gobernados por los elementos de la densidad de población, es decir, en un área física dada, si hay muchas personas o hay pocas personas, y también por los elementos de movilidad.
 ¿Por qué Europa específicamente?
@@ -60,7 +75,11 @@ América indudablemente, como lo fue en su momento China y posteriormente el sur
 Respecto a la cantidad de personas o la proporción de personas que se encuentran graves, es precisamente lo que señalé -si me pasa dos diapositivas atrás, donde está el mapa de México- es lo que señalé y señalamos todos los días, lo que se ve en círculo que está en la esquina inferior izquierda de la gráfica, ahí está la distribución de acuerdo al estado de salud.
 Lo que está en verde con un 84 por ciento son las personas que tienen enfermedad leve, los que están en azul clarito son personas que están hospitalizadas, pero estables, es decir, en una cama de hospitalización general, y lo que está en uno por ciento, en un color que me parece que es magenta, son las personas que están en una terapia intensiva. Entonces, este sería el uno por ciento de los 367, entonces, estamos hablando de cuatro casos.
 ---
+INTERLOCUTOR
+Perdón, un paréntesis. A pesar de las recomendaciones de Claudia Sheinbaum algunos restaurantes de aquí del Centro Histórico continúan abiertos. Su exhorto, por favor.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Exhortamos, y aprovecho ahora sí, si me ponen a Susana Distancia para recordarles que Susana Distancia es la mejor herramienta, la mejor fuerza que podemos tener para controlar esta epidemia.
 ¿Por qué razón?
 Porque es una epidemia causada por un virus que se transmite por la vía respiratoria. Cada vez que hablamos, tosemos, estornudamos, gritamos o cantamos, todos, absolutamente todos los seres vivientes o todos los animales, pero en este caso los humanos, que somos también parte del reino animal, despedimos vapores o aerosoles de secreciones respiratorias y también gotas, pequeñas gotas de saliva, a veces son visibles, a veces son demasiado pequeñas para ser visibles.
 Ese material líquido, proveniente de una persona infectada tiene una concentración importante de virus; esos virus, si llegan a los ojos, la nariz o la boca de una persona susceptible, le van a causar la infección.
@@ -71,10 +90,12 @@ Eso va a ayudar a cada una y uno de ustedes, a cada uno y una de nosotros, a que
 Vámonos aquí en filita. Habíamos dicho Aracely, el colega de allá tras y luego esta filita hasta Mauricio.
 ---
 PREGUNTA
+Preguntarle, si en este nuevo material que nos está ofreciendo sobre los conteos hay cinco de los 367, lo que había comentado, el nuevo material que nos ofrece sobre las características de la fase dos, ¿a qué número tendríamos que llegar para declarar una fase dos?, porque esta lámina se incluye en toda la información que nos habían estado dando a lo largo de estas conferencias, ¿qué número tendría que aparecer ahí para que declarara fase dos?
 Porque si bien no recuerdo seguimos en fase uno, ¿cuándo ocurriría la fase dos?
 Y preguntarle si el 01 800 ya está restablecido, gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, gracias por las preguntas, son interesantes. A todos nos gusta tener blanco o negro, lloviendo, secas, arriba, abajo, uno se siente más cómodo cuando las cosas se clasifican en sí o no, y eso nos lleva a pensar que las fases de una epidemia se pueden definir en un punto preciso, porque se alcanza una proporción de casos no rastreables, porque si llega a un número de casos, pero en realidad no funciona así.
 En realidad, sabemos que esto es un proceso continuo, que inicia, tiene una evolución, llega a una fase donde hay una importante acumulo de casos, hay punto de máxima transmisión y eso sí, después de ese punto de máxima transmisión empieza a descender, pero también progresivamente.
 Hemos dicho: preparémonos para una epidemia larga porque si tenemos éxito en retardar la transmisión, vamos a tener una epidemia larga. Eso no agrada mucho, pero se compensa con el hecho de que vamos a tener pocos casos en general, pocos casos al mismo tiempo, y vamos a poder prolongar el momento en donde no tengamos demasiados casos. Son los tres objetivos de la mitigación.
 Entonces, atendiendo a la pregunta, no hay una cifra preespecificada, un umbral, un punto de referencia, más bien lo que hacemos es que todos los días en nuestra Unidad de Inteligencia Epidemiológica y Sanitaria revisamos la información, y entonces esa información nos permite tener señales que nos orientan sobre las cuáles son las intervenciones que debemos aplicar en cada momento.
@@ -84,28 +105,48 @@ El escalamiento acelerado lo vamos a tener, que no haya duda, va a haber un mome
 Entonces, lo que hicimos fue adelantarnos, es indistinto si le llamamos uno, dos, de momento eso no es informativo, lo que dijimos es: tenemos que actuar.
 Lo que va a ocurrir es que vamos a lograr retardar la transmisión y de todos modos vamos a estar apreciando, no sé si día con día, pero por lo menos cada algunos pocos días que perdemos la trazabilidad de los contagios, lo cual ya será irrelevante porque ya tendremos en práctica las medidas comunitarias.
 ---
+PREGUNTA
+Perdón, pero la OMS había dicho que ya estábamos en fase dos, es por eso mi pregunta.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, porque la OMS no usa este tipo de clasificación, usa el mismo modelo de algunas características que ocurren en cada etapa de la epidemia, pero la idea precisa de decir uno, dos y tres, por ejemplo, la OMS, de hecho, usa cuatro fases, es muy variable.
+---
+INTERLOCUTORA
+(Inaudible) pero ya pasó a transmisión comunitaria, ya pasó de casos importados únicamente, ¿eso en México qué implica?, ¿ya estamos en fase dos, sí o no?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A ver, lo retomamos. Esto que hoy se hizo notorio en el informe de la OMS, en el informe diario, atiende a que la OMS sólo tiene en ese informe dos puntos, que son los que aparecen en el mapa. Si nos regresamos, vamos a guardar un momentito a Susana Distancia y vámonos al mapa de la OMS, el mapa global.
 La OMS sólo clasifica de dos maneras, sólo hay casos importados, es el tipo uno o además de casos importados hay casos comunitarios y de esa manera ha ido coloreando el mapa, la importancia de eso para la OMS, que vela por la salud global es que le da una mejor noción de la dispersión comunitaria en los países.
 Nosotros tenemos casos de transmisión en la primera generación comunitaria, como los tenemos ahí documentados, tenemos 20 por ciento de ellos, casi 20 por ciento, y para la OMS estos ya son casos comunitarios, no hay ningún problema, efectivamente, son contagios que ocurrieron en el interior del país.
 Eso no es algo que por el número nos lleve a que un día fijo ya hay una fase dos o en su momento una fase tres. He dicho: es un proceso gradual y vamos a ir viendo cómo progresivamente aumenta la proporción de aquellos contagios que ocurrieron en el país y se mantiene fija o cambia muy poco aquellos contagios que provienen del exterior.
 Seguía ahí el compañero, y luego nos vamos aquí por la filita.
 ---
+INTERLOCUTORA
+El 01 800.
+---
 PREGUNTA
+01 800, bueno, ya no es 1, el 800 00 44 800 ya sirve desde la semana pasada, nunca dejó de servir, pero lo que sí tuvo es una gran saturación, y ahora tenemos, hicimos una expansión. Mi agradecimiento al equipo de política digital nacional, aquí en Presidencia, y también al ingeniero César Vélez, el director de Tecnologías de Información en la Secretaría de Salud, que trabajaron muy afanosamente para profesionalizar y expandir nuestra capacidad del número de atención a los ciudadanos.
 Está usted y luego la filita, por favor.
 ---
 PREGUNTA
+Qué tal, Pancho Parra, para el Mañanews, de La Octava.
 Dos preguntas. La primera tiene que ver con la parte de la transición de fase uno-fase dos. La encuesta del doctor Alejandro Moreno en El Financiero revela que al menos en la Ciudad de México hay una gran aceptación a las medidas de Susana Distancia, básicamente rondando de 82 por ciento que dicen que sí es necesario no acudir a… más bien cerrar negocios como bares y restoranes, hasta 94 por ciento que dicen no a los conciertos masivos.
 En ese mismo contexto y para ir mitigando, bajando la curva, diversos gobiernos y disposiciones en la Ciudad de México, en el Estado de México y otros gobiernos locales han empezado a ser llamamientos casi obligatorios a que la gente no salga, incluso ciertos gobiernos locales utilizan la palabra toque de queda.
 Eso es muy preocupante en términos jurídicos y quería ver si de parte de la Secretaría de Salud cuando lleguemos a la fase dos, porque vamos a llegar, ya nos dijo, se van a tomar estas disposiciones legales serias.
 Y la segunda pregunta es respecto a la capacidad del sistema de salud, que ya se ha estado comentando aquí en las conferencias. Hay una proyección del maestro Jorge Galván, donde con un modelo que ha estado circulando, proyecta que en el pico máximo podríamos llegar a utilizar 86 mil camas.
-¿Tenemos esa capacidad?, ¿sí?, ¿no?  Sé que se van a adaptar algunas.
+¿Tenemos esa capacidad?, ¿sí?, ¿no?  Sé que se van a adaptar algunas.
 Y en esta misma medida quisiera comentar, más bien, preguntarle: ¿qué consideraciones se está tomando con el personal de salud?, porque en los chats y grupos en redes sociales de doctoras, residentas, médicos internos de pregrado, etcétera, se comenta mucho esto, se sienten bastante abandonados, abandonadas, las encargadas de instrucción les dicen: ‘pues tráete tus ochos cambios, consigue tus máscaras y demás’, están los screen shots, circulan, de buena fuente los conozco. Y sé que ustedes no los quieren dejar abandonados y que también navegan con un presupuesto raquítico, que ojalá cambie dada esta circunstancia.
 Esas sería mis dos preguntas, grosso modo. Disculpe.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Muchas gracias por sus preguntas.
 Empecemos por la última y primero aclarando lo que usted afirma, ‘navegan con un presupuesto raquítico’. Pues algo que no es verídico así de simple, es decir, esta idea que suele ser especulativa, no basada en datos de la inexistencia de financiamiento no la hay, ya lo hemos explicado, mañana precisamente vamos a comentar un poco más aprovechando El Pulso de la Salud.
 ---
+INTERLOCUTOR
+(Inaudible) comparado con otros países.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Si quiere, nos centramos en los aspectos que le son trascendentes.
 El presupuesto de salud en general en México históricamente ha sido un presupuesto menor a lo que podría ser deseable; es decir, si consideramos una referencia, por ejemplo, los países miembros de la Organización para la Cooperación y el Desarrollo Económicos a los que México pertenece, en general México está en las partes bajas del financiamiento de salud, con un presupuesto que ha rondado alrededor del tres por ciento como proporción del Producto Interno Bruto cuando en 50 por ciento se utiliza siete por ciento del Producto Interno Bruto.
 En ese sentido, consideramos que el presupuesto de salud históricamente en México a lo largo, particularmente de los últimos 30 años ha sido bajo, estoy de acuerdo, lo hemos comentado, ha sido bajo.
 Ahora, lo que sí me parece que es muy importante es que usted no meta en una discusión sobre COVID, donde acaba de señalar que hay preocupación del personal de salud sobre los recursos con los que cuenta un señalamiento como presupuesto raquítico, porque lo que va usted a contribuir es a que estas respetables y queridas médicas que nos están oyendo piensen que usted está diciendo que la carencia que están identificando en su realidad inmediata es por un presupuesto raquítico.
@@ -122,11 +163,13 @@ Conservar la sana distancia, cada uno conservando su sana distancia y contribuye
 Vamos por la siguiente fila, por favor.
 ---
 PREGUNTA
+Gracias. Buenas noches, subsecretario. Hoy el director de la OMS señaló que las medidas de distanciamiento social son defensivas y son insuficientes, y de hecho dijo que para ganar hay que atacar con tácticas agresivas y bien dirigidas, hacer pruebas a todos los casos sospechosos, aislar y cuidar de todos los casos confirmados, y poner en cuarentena a los contactos cercanos.
 Esa es mi primera pregunta, ¿qué va a hacer México frente a esa aclaración de la OMS?
 Y, por el otro lado, ya entendimos que se adelantaron las medidas de fase dos, que hay cinco casos que ya no son de importación, pero ¿cómo le explicamos a la población para que nos entienda y sobre todo que nos crea que vamos a entrar a la fase dos?, o sea, ¿cuál es el indicador que le va a decir a usted, que nos venga a decir que ya estamos en fase dos?
 Ya entendimos que no es el número de casos, que no es de un día para otro, pero ¿cuáles serían esos indicadores que usted le harían anunciar fase de la contingencia?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Respecto a las declaraciones del doctor Tedros Ghebreyesus, director general Organización Mundial de la Salud, es interesante porque cada día según quien interprete lo que él dijo mira más hacia el tema de las pruebas, mira más hacia las intervenciones de contención, mira más hacia las intervenciones de mitigación o mira más a las intervenciones de preparación de escalamiento hospitalario o mira más hacia las medidas de mitigación en el aspecto socioeconómico, etcétera.
 La preparación y respuesta ante un fenómeno complejo como es una epidemia requiere enfocar todos los aspectos. Algunos que también aquí hemos comentado es, por ejemplo, el miedo, el miedo social, la ansiedad. Esta es una reacción humana, natural, que hemos evolucionada con ella, no sólo los humanos, sino también las distintas especies animales, como un mecanismo de protección.
 Sin embargo, cuando el miedo se exacerba, aumenta y nos ofusca la razón, empezamos a tomar… a tener percepciones desmesuradas, percepciones ya sea exageradas o distorsionadas de la realidad, que a su vez nos llevan a no enfocarnos, no atender lo que es importante es atender, sino distraernos con detalles.
 Sobre esto que comenta de las pruebas dirigidas a los casos sospechosos, es exactamente lo que hemos hecho casi todos los países desde el inicio de la epidemia.
@@ -139,14 +182,25 @@ Y precisamente hay una fase mixta de las medidas de prevención y control, en do
 ¿Cuál es más efectivo?
 Es una pregunta muy legítima. Hay quien prefiere tener una sola variante de las cosas en la vida y en este tema técnico en realidad no es así, en realidad cada una tiene su momento, cada una tiene sus ventajas y cada una tiene sus grandes limitaciones, y la combinación apropiada de los distintos mecanismos de contención y de mitigación, así como de vigilancia, es lo que nos lleva a un resultado final que puede ser exitoso.
 ---
+PREGUNTA
+¿Pero qué indicador dentro de esa fase, qué variables tendría que considerar usted?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto le contesto. Esto es lo que hemos dicho casi cada día cuando ponemos esa tabla de colores, la podemos volver a traer, que explica, define o describe las características fundamentales de la fase uno, la fase dos y la fase tres.
 En la fase uno, escenario uno, la mayoría o prácticamente todos en el primer día y progresivamente menos de los casos son de importación.
 Puede haber casos de transmisión comunitaria, pero solamente en una primera generación de contacto: yo estoy infectante, contagio a mi familiar directo, pero ya no contagio a nadie más, esa familia ya no contagia a nadie más. Eso es la situación uno y en general existen algunas decenas de casos.
 Posteriormente y de manera continua, de manera progresiva empiezan a perderse la trazabilidad de los casos, aquí lo acabamos de mostrar, tenemos hasta ahorita uno por ciento, irá creciendo, dos, tres, cinco, siete, 20, llegará un momento en que los casos no son trazables, esa es una de las características de la fase dos.
 Hay transmisión más allá de la primera generación y el número de casos se cuenta por centenas, además los casos se agregan geográficamente y empezamos a tener brotes comunitarios, brote en una escuela, brote en una colonia, brote en un sitio de trabajo.
 Finalmente este mismo proceso que no ocurre en fases arbitrariamente segmentada, sino en forma continua empieza a conglomerar esos brotes comunitarios, porque a lo mejor ya no se ocurrió en una sola escuela, sino en dos o tres y empezamos a contar millares de casos y ya hay una absoluta imposibilidad pero, además, inutilidad de intentar trazar cada uno de los casos y ahí sí el mecanismo de contención ya no tiene sentido alguno, porque son… lo mejor es privilegiar la mitigación y la preparación de los ambientes hospitalarios.
 ---
+INTERLOCUTORA
+Doctor, pero la OMS ya…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos por turnos, por favor. La siguiente.
+---
 PREGUNTA
+Buenas noches, doctor Gatell, Armando Jefferson, diario 24 Horas.
 Son tres preguntas muy breves.
 Primera, ¿por qué varios estados de la República, incluyendo la Ciudad de México y Estado de México, han decretado sus propias medidas de higiene y sanidad?, ¿no sería mejor que el gobierno federal tomara una medida en general y que los demás estados confluyeran sobre esa misma?
 Dos, hace rato tomaba, no recuerdo qué diapositiva era, si la tres o la cuatro, donde ponía los casos de México, las muertes que ha habido, los casos que están presentes, pero me surge un poco la inquietud si ya se tiene registro de algunos casos que ya estén aliviados, no sé si ya se cuente con esa información o que vaya ya de salida.
@@ -156,6 +210,7 @@ Y bueno, anteriormente yo estaba haciendo algunos testimonios en el aeropuerto y
 Entonces, ¿ahí qué medidas se deberían de tomar?, ¿o qué prevención? Eso sería de mi parte.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Vámonos a esa tercera pregunta que hace referencia a algo que también hemos explicado aquí en varias ocasiones. El control de temperatura o el registro de temperatura puede ser un mecanismo parcialmente útil para identificar a aquellas personas que, por tener fiebre, por tener temperatura elevada, pudieran ser personas con la infección, dado que algunas de las personas con la infección o con la enfermedad COVID tienen temperatura.
 La lógica: si yo detecto que la tienen, puedo obtener la oportunidad de ponerlas en aislamientos, reconocerlas como un caso sospechoso, hacerles la prueba, estudiar sus contactos; sin embargo, no todas las personas tienen temperatura durante el curso de su enfermedad COVID, es decir, temperatura elevada, más de 38 grados, pero no sólo eso, la duración de la temperatura es variable, y también si una persona toma medicamentos que disminuyen la temperatura, por ejemplo, el paracetamol, que es uno de uso muy común, puede ocurrir que en el momento en que se presenta al punto de inspección no tenga temperatura.
 Y precisamente por estas razones, los filtros basados en la medición de temperatura tienen una utilidad limitada, considerablemente limitada, y esto es lo que nos ha llevado a decir ya en varias ocasiones que si uno tiene que hacer un operativo de alcance nacional o de alcance local para prevenir y controlar una enfermedad como esta, uno debería privilegiar utilizar otros mecanismos más útiles y dejar sólo estos como un recurso secundario, complementario quizá, pero no el principal.
 Ahora, el otro fenómeno es sobre las personas que pudieran ser contagiantes aún sin síntomas. Esto ha sido identificado en algunos casos esporádicos, hay algunas series de casos de contagio en el mundo que ocurrieron por una persona que posteriormente se detectó como contagiante no habiendo identificado que tuvo síntomas.
@@ -164,17 +219,23 @@ Precisamente estamos planeando un estudio que ha propuesto el Instituto Nacional
 Muchas gracias.
 ---
 PREGUNTA
+Alejandro Alemán, de Medicina Digital.
 Mire, yo seré muy concreto, quisiera preguntarle por qué no nos liberan los datos del Sistema Centinela. El Sistema Centinela está desde el 94, tiene una Norma Oficial Mexicana, tenemos unidades de monitoreo, se establece claramente los objetivos que son buscar el virus.
 Entonces, ahí también hay pruebas, nos ha estado pasando un mapita verde que se actualiza cada semana, que nos están diciendo cuáles son las pruebas que se han hecho. ¿Pero por qué no nos liberan los datos?
 Yo creo que esto ayudaría mucho a esta gran inquietud que tenemos todos de decir cuántos casos hay y esto se lo digo porque, no me dejará mentir si le digo que la epidemiología no es una ciencia exacta.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 La epidemiología es la ciencia básica de la salud pública y tiene distintos métodos, algunos se basan en constatación directa o documentación que puede ser cualitativa o cuantitativa y muchos de los métodos de la epidemiología se basan en la inferencia estadística y la estimación, que son distintas materias, que son exactas en la medida en que aluden o acuden a los números, pero que reconocen la incertidumbre de fenómenos complejos.
 Ahora, sobre lo que usted pregunta. Por supuesto, no es cosa de liberarlos o no liberarlos, es cosa de, con mucho gusto, ilustrarles dónde está en el portal web, la dirección de epidemiología, los distintos, no sólo datos, sino inferencias y estimaciones que llevamos haciendo por muchos años por este sistema.
 Están ahorita en el componente del Sistema de Vigilancia de Influenza, que es donde nacieron, pero con mucho gusto los podemos transportar al micrositio para que ustedes los puedan ver de manera clara.
 ---
+INTERLOCUTOR
+¿En este sistema que está funcionando, que está haciendo pruebas, han detectado COVID-19?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Hasta el momento, no; y lo que le platico es lo siguiente. Esta exploración, este barrido, tamizaje, este reconocimiento territorial en búsqueda del virus SARS-CoV2 lo iniciamos desde la segunda quincena de enero en rondas deliberadamente exploratorias del territorio nacional semanales; sin embargo, la prueba diagnóstica para coronavirus SARS-2 o SARS Coronavirus2, que es el virus causante de COVID lo incorporamos al Sistema de Vigilancia Epidemiológica de influenza; en todos los casos de enfermedad tipo influenza de característica grave se hacen pruebas de laboratorio y en esas pruebas de laboratorio se hacían pruebas para 13 virus respiratorios, influenza A, influenza B, metapneumovirus, rinovirus, otros coronavirus, etcétera.
 Y desde la primera semana de febrero incorporamos también a ese mecanismo la detección del nuevo coronavirus 2019.
 Ahora, de manera ya formal, ya no como un elemento exploratorio del territorio, sino ya como el mecanismo central del seguimiento de esta epidemia, a partir del viernes se aprobó la quinta modificación de los lineamientos de vigilancia epidemiológica, que naturalmente tienen que cambiar de acuerdo a la situación y las preguntas que tenemos que resolver para enfrentar apropiadamente la epidemia en cada una de sus etapas y en cada uno de los aspectos.
 Este nuevo elemento es que a partir de esta semana, concretamente esta semana, hoy lunes 23, dado que los lineamientos se aprobaron el viernes pasado, van a coexistir dos mecanismos principales de vigilancia: La identificación de casos sospechosos, su confirmación por laboratorio, el estudio de sus contactos, que como mecanismo de vigilancia además corresponde con la iniciativa de contención o la mecánica de contención que preguntaba la compañera que estaba aquí sentada, eso va a seguir durante toda la fase dos, pero se suma ya a eso también todas las capacidades del sistema de vigilancia Centinela de la influenza.
@@ -184,5 +245,11 @@ Igual funciona la vigilancia de influenza, generalmente tenemos algunos casos, p
 Gracias. Un minuto, la última pregunta.
 ---
 PREGUNTA
+Nada más para saber el estado de salud de los tres bebés que fueron diagnosticados, uno en Jalisco, el de Jalisco justamente venía de España; los otros dos no tenían referencia de viaje, Yucatán y la Ciudad de México.
 Y bueno el Ejército va a tomar 10 hospitales. ¿Cuáles son?, sobre todo porque al parecer iba a haber 20 hospitales COVID y ya se están, digamos, reprogramando las citas que tenían los pacientes comúnmente.
 ¿Cómo está el tema?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Mañana, aprovechando el Pulso de la Salud, vamos a dar detalles precisamente sobre esto, que llevamos una semana y media comentando, desde que el presidente lo instruyó, que consiste en cuál es la colaboración que vamos a tener por parte del plan DN-III-E, que es el plan de apoyo a la población civil por parte del Ejército y del Plan Marina, y ahí vamos a detallar precisamente esta organización de los distintos hospitales para ser más eficiente la atención.
+Respecto a los bebés, no llevamos un seguimiento clínico, llevamos un seguimiento poblacional, y conforme van evolucionando satisfactoriamente serán dados de alta. Si tuvieran un desenlace desfavorable, que esperamos que no sea el caso, dado que han estado razonablemente estables, pues entonces ya informaremos si hubiera un desenlace desfavorable.
+Muchas gracias.

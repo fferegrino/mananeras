@@ -3,6 +3,7 @@ Presidencia de la República
 21 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches. Hoy es martes 21 de julio, son las 19:00 y aquí en el Palacio Nacional de México vamos a iniciar la conferencia de prensa vespertina sobre COVID-19, la pandemia causada por el ya no tan nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a enfocar en el informe técnico, tenemos algunos elementos complementarios, como una información que había estado pendiente, la solemos presentar cada semana, que es sobre las pruebas, cuántas pruebas se hacen, y la actualizamos, simplemente de las que llevamos hechas, cuántas nos quedan en reserva y por supuesto, cuando esta reserva se va agotando, adquiriremos nuevas y se seguirán haciendo pruebas.
 Aprovecho para recordar uno de los mitos recurrentes que han aparecido, que no queremos hacer pruebas, lo cual ya hemos dicho hasta el cansancio, es absurdo que se piense así, pero no nos cansamos y con mucho gusto lo volvemos a explicar.
 Entonces, no hay ningún límite para hacer pruebas, se hacen tantas pruebas como sean necesarias. Las pruebas en México se hacen con una política muy bien definida por los lineamientos de vigilancia epidemiológica cuando se tiene una persona con síntomas que son compatibles con la definición de caso sospechoso de enfermedad de COVID.
@@ -20,6 +21,7 @@ Entonces, dato importante de tener en mente. Gracias, licenciado Enrique Rivera 
 Le pido al doctor Alomía si es tan amable de presentar el informe y abrimos a preguntas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas tardes todas, todos.
 Vamos a ver la primera diapositiva. Es prácticamente el marco del tiempo en el cual nos encontramos, conferencia vespertina número 144, día 51 ya de esta Nueva Normalidad en donde opera a partir desde que inició esta nueva intervención en la comunidad el semáforo de riesgo COVID que, como ustedes, saben se actualiza de manera semanal y tiene como objetivo, uno, prevenir a la población en relación al riesgo que tienen en su estado de contagiarse de la enfermedad y en su momento también en relación a la ocupación hospitalaria, el riesgo que habría de no poder encontrar o sí una cama disponible.
 Pero entonces también esto es o el semáforo de riesgo alertamiento para la entidad federativa para que con esta guía puedan implementar acciones específicas al interior de su territorio, sobre todo también en el marco municipal, llevando a cabo acciones específicas que aseguren el distanciamiento social, la sana distancia, despendiendo del nivel de riesgo en el que se encuentran, no tanto hacia la población o hacia la persona, sino más bien en poder llevar a cabo consensos y actividades en el medio empresarial, en el espacio público, en las mismas dependencias de gobierno que en su momento son las que pueden regular este tipo de actividades.
@@ -78,9 +80,11 @@ Actualmente todavía contamos con 171 mil 930 pruebas disponibles en toda la Red
 Sería todo por esta noche. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía, director general de Epidemiología.
 Adelante, por favor, y Daniela Pastrana, Pie de Página; y allá, por favor.
 ---
 PREGUNTA
+Hola, buenas noches, doctor Hugo López-Gatell, doctor Alomía, gusto saludarles. Demian Duarte, de Pasión por los Negocios, Lobos FM, Política y Rock and Roll Radio, de Sonora.
 Doctor, yo le tengo dos cuestiones, doctor López-Gatell. Una en particular y que inquieta, porque esta semana hubo un cambio en algunos estados y en particular en el mío de color del semáforo es si puede hacernos el favor de volver a explicar qué significa estar en naranja.
 Se lo pongo de esta manera. Hay algunas autoridades entre ellas la autoridad de Salud de mi estado, encabezada por Enrique Clausen Iberri, y también algunos sectores de la sociedad que se sienten incómodos al haber pasado de rojo a naranja.
 Yo entendí, ahorita lo dijo el doctor Alomía, que se trata de una situación de alerta alta, verdad, estar en naranja no significa estar en verde; sin embargo, pareciera ser que molesta haber hecho la transición hacia el color naranja, en particular en Sonora.
@@ -89,6 +93,7 @@ Y precisamente en este tópico me interesa mucho que nos explique cómo es que u
 Ese asunto me importa mucho y, si me permite, hacerle una segunda pregunta.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, Demian. Gracias por la pregunta, porque nos ayuda a aclarar un tema que es de interés público, de interés de todas y todos, de interés también de las autoridades estatales de salud y desde luego de la ciudadanía y de todo mundo, que ha sido sujeto a una distorsión de información, otro tema más, porque aparecen… Por eso decíamos hace unos días, nos parece un distractor innecesario esta idea de que la noticia sea que si ser confrontan con los estados, que si rompen el diálogo, que si ya se enojaron unos gobernadores, que ahora están tristes. No va por ahí.
 Hay que tomarnos seriamente las cosas, esto es una pandemia y es una situación muy delicada, muy delicada.
 Considero, lo hemos dicho y lo digo no sólo a título personal, en voz propia, sino consideramos, el Gobierno de México que las entidades federativas tienen gobernadores, gobernadora en el caso de Sonora, jefa de Gobierno en el caso de la Ciudad de México, que son gente muy responsable, talentosos, talentosas, dedicadas, comprometidas y comprometidos con la salud y el bienestar de la ciudadanía. No nos queda duda al respecto.
 Pero desafortunadamente en algunos casos, no es el caso de Sonora, en algunos casos la difícil decisión de balancear el bienestar social que depende de la continuidad de las actividades en el espacio público y de las actividades económicas que es muy importante, balancearlo respecto al mecanismo directo de protección de la salud y la vida de las personas que depende de la inmovilidad, porque es lo que logra reducir la proximidad entre personas y, por lo tanto, el contagio, estos dos elementos a veces no son fáciles de conciliar en ningún estado de México o en la Ciudad de México, en el país en su conjunto y en ningún país del mundo, están contrapuestos hasta cierto punto y es la realidad con la que hay que vivir, es parte de la complejidad de un fenómeno tan importante como una epidemia, duradera además.
@@ -116,6 +121,7 @@ Así es, en resumen, es una operación técnica, es una operación trazable, es 
 Recuerden eso muy bien, lo hemos dicho también muchas veces, los datos no se producen en el gobierno federal, los datos se producen en cada una de las unidades de salud de los estados. Si los datos están incompletos, pueden perturbar la calidad de la calificación. Esa es la idea.
 ---
 INTERLOCUTOR
+Muchas gracias por la aclaración. Lo que pareciera es que hay una… por lo que usted dice, quien pasa a naranja no está conforme, porque quiere estar en rojo, quien está en rojo quisiera estar en naranja, entonces parece que hay una bipolaridad cromática ahí al respecto.
 Ahora mi otra pregunta. Seguí con atención una entrevista que tuvo usted con Jenaro Villamil donde ofreció algunos datos que me parecen importantes, sobre todo sobre las otras pandemias, el asunto de cuántos muertos hay al año en nuestro país que, si mal no recuerdo, la estadística normal es de 730 mil fallecimientos, quizás ahora que tenemos que asunto del coronavirus y con el concepto que usted expresaba hoy en la mañana, el exceso de mortalidad, está cifra tiende a dispararse, habría que verlo.
 La pregunta en particular, hoy se observa que por primera vez se rebasa la barrera de los 40 mil, por desgracia, personas que han fallecido.
 En específico me llamó la atención una estadística que usted mencionaba, que el 80, 81 por ciento tienen que ver con comorbilidades, esto significaría que 32 mil de estos 40 mil tuvieron alguna o varias de las distintas comorbilidades.
@@ -123,6 +129,7 @@ Y usted está ahorita en medio de una polémica, incluso con la industria refres
 La pregunta en particular es, bueno, ¿cómo se va a abordar el tema de las otras pandemias o de las verdaderas pandemias, como usted lo calificó, que es la obesidad, la hipertensión, la diabetes, entre otras, enfermedades crónico-degenerativas que están muy presentes, y que bueno han tendido a exacerbar el efecto de esta epidemia de coronavirus que llega como efecto adicional? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Esto también es interesante y las polémicas, qué bueno que haya polémicas porque eso despierta la conciencia de las personas. Y volvemos a lo mismo, no se trata de sentirse triste, ofendido, tomárselo personal. La realidad es la realidad, la realidad se puede documentar, la evidencia es consistente.
 Hay productos que son nocivos para la salud, el tabaco, por ejemplo, los productos del tabaco, y aquí remonto brevemente a uno de los elementos emblemáticos de la salud pública. El tabaco, los cigarrillos, pipas, puros, etcétera, tabaco masticado y demás. Antes de los años 50 del siglo XX se tenía una amplia aceptación social, hubo épocas en las que se consideraba un producto medicinal, benéfico y se anunciaba incluso con médicos y médicas… Bueno, en ese tiempo había una perspectiva de género muy limitada, y con médicos, señores fumando y demás.
 Por cierto, después la epidemia del tabaquismo se trasladó a las mujeres y tuvo un enorme impacto después de haber sido una epidemia mayormente masculina por razones culturales. Pero bueno, el punto es que más o menos desde los años 50 del siglo XX se construyó un elemento de evidencia a partir de múltiples estudios, uno muy emblemático fue un estudio británico en donde se siguió la salud de médicos precisamente británicos a lo largo de muchos años, y se encontró una clara asociación entre el cáncer pulmonar y otros múltiples cánceres el de garganta, el de lengua, el de páncreas, el de estómago y el hecho de fumar.
 Desde 1950 y tantos, estamos en 2020. La evidencia es abrumadora, consistente, uno de los riesgos más grandes para la salud está asociado con el consumo de productos del tabaco. No se necesita dosis alguna del tabaco, no hay la dosis aceptable poquito o de sabores o de colores, no hay dosis saludable de tabaco, el tabaco mata. Lo que pasa es que pocas veces se habla con claridad y se usan eufemismos y entonces se dice que bueno, poquito y tal.
@@ -157,12 +164,14 @@ Perdón que me extendí, pero es un tema extraordinariamente relevante.
 Vamos a darla palabra a Olinka, ya le habíamos dicho a Daniela, pero Olinka hace mucho que no venía y nos queda medio minuto.
 ---
 PREGUNTA
+Olinka Valdez, de Eje Central. Gracias.
 A propósito de la elaboración del semáforo epidemiológico y de la ocasión en la que por inconsistencias de los gobiernos estatales no se pudo presentar, me gustaría saber cuántos estados presentaron información inconsistente, idealmente cuáles.
 Alguna vez escuché que no tendría caso mencionarlo, lo escuché en esta conferencia. Yo creo que, por el contrario, siendo un instrumento transparente es importante mencionar qué estados, si no por omisión, por dolo, aunque usted dijo que eso no es el caso, presentar una información inconsistente.
 Y tercero ¿cuándo se dieron cuenta si la información que ustedes presentan aquí se genera a partir de la información que ellos proporcionan?, ¿cuándo y cómo se dieron cuenta?
 Y, finalmente, si tendrán alguna garantía de que esto no vuelva a ocurrir.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Yo lo dije, no lo oyó de nadie más, yo lo dije y sostengo mis dichos siempre.
 En el medio segundo que me queda lo que digo es: cuando decimos que no tiene caso es porque nos interesa que la infomedia no nos distraiga del elemento fundamental, que es que la población sepa que la epidemia sigue activa, que hay que cuidarse, que hay que mantener la sana distancia, etcétera.
 Y lamentablemente cuando estos temas particulares se comentan, entra un nivel de detalle que al final termina en una nota con un encabezado que dice: ‘Se pelean con los estados’, ‘culpan a no sé quién’’.
 El otro día sobre esto mismo que dije, alguien decía: ‘Culpan a la capturista’. No, yo ilustré con uno de los elementos pragmáticos, técnicos, no sé si es capturista o capturisto, hay una persona que mete los datos, no le voy a echar la culpa a esa persona.
@@ -170,7 +179,36 @@ Lo que estoy diciendo es: el sistema tiene sus fallas cuando en la operación lo
 Por cierto, mi agradecimiento a la doctora Mirna Beltrán, subsecretaria de Salud Pública del estado de Chihuahua, quien propuso esta mejora para el semáforo, que hagamos mucho más explícito que el registro tiene que incluir el personal y es posible que en una de las variables, que es la ocupación hospitalaria pongamos una restricción específica que debe ser si solo si, como hemos dicho en otras veces, la cama está asociada con el personal adecuado.
 Entonces, no le veo caso entrar en quién, cuándo, cómo. Esto ha pasado varias veces, no es que hubo una fecha fatal en donde se echó a perder las cosas y el sistema va evolucionando en la medida en que hay un compromiso de todas y todos.
 ---
+INTERLOCUTORA
+(inaudible) información inconsistente ¿y cómo se dieron cuenta?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ha sido variante.
 ¿Cómo nos dimos cuenta?
 Porque hay muchos mecanismos de análisis de la información que nos permiten ver. Por ejemplo, curvas epidémicas le doy un tip epidemiológico. Cuando vemos una curva epidémica que deja de crecer misteriosamente, cuando la teoría de epidemiología matemática predice, los modelos matemáticos famoso, predice que va a seguir creciendo y no hay una explicación clara, se hizo una intervención clara, se redujo la movilidad, hay un mejor rastreo de los contactos, hay un aislamiento más efectivo de las personas contagiantes, si no hay eso y la curva epidemiológica deja de crecer…
 Ya verán un ejemplo, vamos a poner un día y lo van a reconocer, es una curva epidémica que en lugar de tener estos picos, espículas con variantes de día a día, hay una variación aleatoria de los datos, de repente está muy parejita, o de repente es como si lo hubieran hecho así con un cuchillo y ya no tiene un crecimiento normal, ahí hay una alta sospecha de que hay datos incompletos.
+---
+INTERLOCUTORA
+¿Hay una garantía de que…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Pues la garantía es el compromiso, la responsabilidad, que obviamente no es solamente moral de las autoridades sanitarias y de todo el personal, y que todo mundo cumpla con su deber. Gracias.
+---
+INTERLOCUTORA
+Quiero decir que si tienen algún mecanismo de…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hay muchos mecanismos de supervisión, sí.
+---
+INTERLOCUTORA
+Sanciones.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Usted lo que quiere es que haya una nota que diga: ‘Culpa a alguien más’.
+---
+INTERLOCUTORA
+No, no, quisiera saber.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, el sistema, si quiere, lea la Norma Oficial Mexicana 017 para Vigilancia Epidemiológica. Gracias.
+Aquí vamos a tener que acabar porque son las 20 horas con cuatro minutos y tenemos reunión con el presidente sobre COVID. Muchas gracias.

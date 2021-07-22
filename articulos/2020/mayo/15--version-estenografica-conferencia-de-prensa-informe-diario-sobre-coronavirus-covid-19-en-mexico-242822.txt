@@ -3,6 +3,7 @@ Presidencia de la República
 15 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del viernes 15 de mayo de 2020, Día del Maestro. Expresamos nuestro respeto, reconocimiento y agradecimiento a todas y todos quienes han sido maestra y maestros a lo largo de la vida, quienes lo son ahora y que siguen enseñándonos lo que hay que aprender.
 Estamos en la Ciudad de México, en el Palacio Nacional de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la pandemia de COVID, la enfermedad causada por el virus SARS-CoV-2, el nuevo coronavirus.
 Hoy nos vamos a centrar en varias cosas:
 El informe técnico.
@@ -11,6 +12,7 @@ Y algunos detalles y preguntas y respuestas.
 Le pido al doctor Alomía si es tan amable de presentar el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Claro que sí. Con su permiso, señor subsecretario.
 Muy buenas tardes a todas las personas que nos acompañan aquí en este recinto, así como a todas las personas que nos sintonizan por los diferentes medios de comunicación. Estamos en el día 54 de la Jornada Nacional de Sana Distancia y esta es la conferencia vespertina número 77 en la que procedemos a actualizar los datos.
 Primeramente, en el tema del panorama internacional, que sería la primera diapositiva, pues bueno, no vemos realmente muchos cambios en las proporciones, se ha mantenido bastante estable en los últimos días, más allá de lo que seguimos viendo cómo se contrae la pandemia en general, 27 por ciento los casos que han iniciado con signos y síntomas en los últimos 14 días, es decir, nos estamos acercando ya a que sólo la cuarta parte de los casos activos conformen la pandemia en general.
 Lógicamente la región de las Américas sigue concentrando la gran mayoría, aunque las proporciones, ya lo decíamos, no han variado tanto en la última semana.
@@ -73,6 +75,7 @@ Y, bueno, a partir de ahora vamos a estar actualizando esta información con las
 Sería lo de la parte.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía, director general de Epidemiología de la Secretaría de Salud.
 Vamos a comentar de manera muy breve dos elementos que fueron preguntas esta mañana y ayer, me parece, al presidente en la conferencia matutina.
 El primero es este. ¿Cuántas personas de origen mexicano han padecido o se han identificado con COVID fuera de México?, ¿y cuántas también han fallecido??
 Dejo claro mi agradecimiento al canciller Marcelo Ebrard y a la Secretaría de Relaciones Exteriores, además como siempre del enorme orgullo que sentimos por el Servicio Exterior Mexicano que contribuye también a generar estas estadísticas como un mecanismo de protección, de vigilancia a los connacionales más allá de nuestras fronteras.
@@ -85,7 +88,11 @@ Este es el caso de las personas que lamentablemente han perdido la vida y que so
 Estarán incluidas las personas mexicanas pero, como ocurre también en cualquier parte del mundo, hay una proporción de muertes que no son directamente registradas en su momento en algunos países, de hecho en Estados Unidos hay un procesamiento semejante al que hace México con base en el estudio posterior de los certificados de defunción y su análisis, cosa que se hace generalmente uno o dos años después de que han ocurrido las muertes por parte de la autoridad que oficialmente registra las estadísticas mortales.
 ¿Usted tiene una alerta para mí?
 ---
+PREGUNTA
+¿(Inaudible) 827 contagiados y 300 fallecidos?, ¿o hay muertes que contagiados?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Qué bueno que tiene ese señalamiento, precisamente porque al igual            que en México en Estados Unidos y en prácticamente todos los países no se sigue la misma lógica para el registro de casos que para el registro de muertes.
 Y no es infrecuente que sea de mejor capacidad el registro de muertes y de casos graves que el registro de casos leves.
 Qué bueno que encontró, precisamente es lo que hemos venido diciendo desde hace tiempo para las estadísticas en México, no es infrecuente que sea más robusta la estadística de mortalidad, dado que se requiere una certificación y un trámite que el registro de casos.
 Entonces, son 827 personas, no necesariamente corresponden uno a uno. Si me regresan tantito a la diapositiva. No quiere decir que estas 337 personas son necesariamente de las que hayan fallecido las mismas que están en el registro de personas fallecidas, puede ser que algunas de estas 337 es la misma persona que lamentablemente perdió la vida.
@@ -109,12 +116,14 @@ Entonces, ahí está la respuesta, este es el procedimiento estándar que se deb
 Muy bien, pues vamos a abrir a preguntas y respuestas. Usted quedó pendiente ayer y luego nos vamos por acá, Dulce, Araceli y seguimos con usted.
 ---
 PREGUNTA
+Gracias. Buenas tardes. Liliana Noble, de Pulso Saludable.
 Tengo dos preguntas y una petición, si me lo permite, doctor Gatell. Quisiera saber cuáles serían estas cinco acciones que no deberíamos de perder de vista a partir del 1º de junio con la intención de evitar el contagio y hacer un rebrote. Si nos pudiera ejemplificar de forma rápida, pensando en que se vuelvan estilos de vida, modos de vida de aquí a que no haya una vacuna.
-Mi segunda pregunta es para el doctor Alomía. Doctor Alomía, ¿cómo diagnosticamos a un paciente asintomático?  Y si este paciente que no tiene paciente…. que no tiene síntomas pudiera contaminar a alguien más que estuviera cerca de él.
+Mi segunda pregunta es para el doctor Alomía. Doctor Alomía, ¿cómo diagnosticamos a un paciente asintomático?  Y si este paciente que no tiene paciente…. que no tiene síntomas pudiera contaminar a alguien más que estuviera cerca de él.
 Y mi tercera, más bien una petición. Quisiera saber si hay probabilidades de que más adelante nos traigan a un experto para que nos platique sobre todos estos efectos pos-COVID de las personas que después ya van a requerir de terapia pulmonar o cardiopulmonar tan importante.
 Y no sé si están pensando en hacer algún tipo de centro especializado para darle atención a todos estos pacientes, gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por las preguntas, son muy pertinentes y particularmente en estos momentos.
 La nueva normalidad, cuando transitemos hacia la nueva normalidad cuando transitemos hacia la nueva normalidad vamos a incorporar o debemos incorporar las lecciones aprendidas de una experiencia intensa en términos de las amenazas hacia la salud que representa una epidemia como esta, una pandemia que ha representado una amenaza para la salud en todos los países.
 Entonces, consideramos que es muy pertinente que incorporemos en esa nueva normalidad una serie de conductas, de actitudes respecto a la prevención en múltiples aspectos. Ya tendremos oportunidad, creo que será más pertinente señalarlo conforme se vaya disminuyendo la intensidad de transmisión, los cambios en el estilo de vida relacionados con la prevención de las enfermedades crónicas, la diabetes, la obesidad, la hipertensión que tienen que ver, como lo hemos dicho en innumerables ocasiones, con los hábitos de vida en particular, los malos hábitos de alimentación, pero ya hablaremos de eso en su momento.
 Ahorita los referidos directamente a la prevención de infección de una enfermedad que se transmite por vía respiratoria incluyen precisamente los que hemos recomendado desde el inicio de la epidemia, no solo durante la Jornada Nacional de Sana Distancia, sino desde el inicio.
@@ -132,24 +141,34 @@ Si tenemos síntomas, que nos hace sospechar que tenemos una infección respirat
 Yo diría que son las mayormente útiles y puede haber otras auxiliares. Voy a plantear el uso de cubrebocas como una medida auxiliar. Como lo he dicho en innumerables ocasiones, yo no soy enemigo de los cubrebocas como se me ha querido ver, lo único que digo es: es una medida auxiliar complementaria, su efectividad en el uso ya real en comunidad no está totalmente demostrado como un mecanismo de gran utilidad, aunque es potencialmente útil.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En relación a la otra pregunta, comentar que sí, efectivamente, poder diagnosticar a una persona asintomática es todo un reto, de hecho, podríamos decir que más bien el poder identificar la presencia de SARS-CoV-2, el nuevo virus en una persona se considera más bien un hallazgo, porque precisamente si partimos del hecho de que la persona es asintomática y nos vamos al procedimiento de la atención médica y del diagnóstico, tanto clínico como por laboratorio, normalmente una persona demanda atención médica porque tiene algún signo o síntoma, la presencia de fiebre, la presencia de malestar, y si estos síntomas se incrementan o molestan a la persona, esto lo lleva precisamente a demandar.
 Entonces, una persona asintomática normalmente no va a tener esa necesidad de ir y demandar atención médica y por lo tanto iniciar un protocolo de estudio como tal. Por eso, también comentábamos que muchas de las personas que han sido confirmadas a SARS-CoV-2 y que no han tenido síntomas han sido o vienen en su gran mayoría de aquellas personas que han demandado la prueba de manera personal y lo han hecho en un laboratorio privado.
 Nosotros sí hemos identificado algunas personas asintomáticas, a las cuales hemos denominado igual portadores, es decir, tienen la presencia del virus, está colonizado el virus en sus vías respiratorias, pero no han desarrollado la enfermedad, están infectados, pero no enfermos. Y de esto sabemos en base a la bibliografía mundial y lo que se ha evidenciado en muchos otros países, que hay una buena cantidad de estas personas que están presentes especialmente durante esta pandemia.
 Pero ahora si esto lo relacionamos con la segunda parte de la pregunta que es precisamente: Y bueno, ¿y esas personas pueden contagiar?, realmente, el riesgo de contagio de estas personas es menor, es escaso en comparación con las personas sintomáticas.
 Recordemos que estamos ante una enfermedad que se transmite a través de gotas que una persona enferma precisamente expide a través de toser o de estornudar, que son los principales síntomas. La tos y el estornudo, como se ha presentado también en conferencias anteriores, tiene la fuerza necesaria que emite o emana desde los pulmones para expulsar estas gotitas que tienen al interior los virus, pues a una distancia que excede el espacio íntimo de la persona, hablando y juntando con los espacios que acaba de mencionar el doctor López-Gatell.
 Entonces, digamos que para que una persona se pudiera contagiar de un portador o de una persona asintomática tendría que prácticamente entrar en ese espacio íntimo o ser un contacto más íntimo de la persona para que, entonces, la posibilidad de un contagio como tal se pudiera dar, por eso, es mucho menor la posibilidad de ese contagio en relación a las personas que sí están sintomáticas y que están tosiendo y estornudando las gotas con mayor distancia.
 ---
+INTERLOCUTORA
+¿Sería viable realizarnos la prueba los que tengamos el poder adquisitivo?
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Bueno, realmente la utilidad de realizar la prueba como tal precisamente tiene que ver con las acciones que uno va a llevar a cabo para el cuidado de la salud.
 Entonces, si yo me encuentro asintomático, si yo no tengo signos, síntomas de enfermedad realmente no tendría por qué invertir o gastar una cantidad de dinero como lo son las pruebas privadas, son pruebas bastante caras, si no estoy teniendo sintomatología y por lo tanto, la acción a la que eso me va a llevar no va a representar ninguna opción.
 Además, el hecho de yo me haga una prueba estando sintomático, si esta sale negativa, no me asegura que me voy a mantener en ese estado por los siguientes días o semanas, porque en cualquier momento me puedo contagiar.
 Entonces, ya con eso realmente sería un gasto no necesario.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Araceli, Dulce, Bianca, Angélica, nos quedan 10 minutos.
+---
 PREGUNTA
+Gracias. Preguntarle sobre las pruebas, la suma que habían comentado de las tres, las realizadas, los laboratorios estatales y las pruebas realizas. Si yo sumo todas esas ¿me tiene que dar la cantidad de las pruebas que se han realizado de qué fecha a qué fecha?
 La misma pregunta para las defunciones que mostraron las gráficas ¿de qué fecha a qué fecha estos 337 mexicanos con COVID?, ¿qué fechas abarcan?, ¿abarcan desde que nosotros iniciamos, que sería el 28 de febrero o desde qué fecha está anunciando el gobierno estadounidense que se registra este número de fechas?,
 ¿Cuánto dura el virus en una persona sintomática?, ¿puede durar más que una persona que tiene síntomas?
 Y, por último, doctor, recordarle que nos prometió una sesión que hablara sobre la inmunidad de rebaño. Esto es como muy importante por este rumor que se ha estado generando de las fiestas para que la gente se contagie. Siento que es un tema toral, ojalá pueda hacer un espacio en su agenda para que nos explique ese tema.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Mañana mismo, para no perder la ocasión de dejarlo claro sobre este tema de los audios y los rumores, pero mañana que es sábado dediquemos el tiempo hablar de inmunidad rebaño para la ciudadanía.
 Quizá se han encontrado con un audio en donde se escucha una voz femenina aparentemente de una persona joven con cierto acento, posiblemente de la Ciudad de México, que pareciera invitar a una fiesta en un predio en la zona occidental de la Ciudad de México, concretamente en la colonia Las Águilas, alcaldía de Álvaro Obregón, y está citando para el día 23 de mayo en la idea de que ahí ocurrirá una fiesta COVID, cuyo propósito es buscar contagiarse, además de quizá el ánimo de diversión y el consumo de bebidas alcohólicas.
 Que quede muy claro. No tenemos o yo no tengo documentación de dónde puede ser el origen de este audio, si es genuino o no, si realmente se está pretendiendo hacer esta fiesta o no, pero esto nos parece un despropósito.
 No es un mecanismo adecuado para conducir a inmunidad, tiene importantísimos riesgos, a pesar de que pudiera ser que sólo personas jóvenes concurrieran a esta hipotética fiesta. Entonces, reprobamos completamente este tipo de llamados, si es que son verídicos, si es que son falsos.
@@ -161,22 +180,36 @@ Rápidamente contesto las fechas. De acuerdo al informe que nos comparte la Secr
 Y las otras se las dejo al doctor Alomía.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En relación, a las fechas de los resultados por laboratorio, estas son variables porque recordemos que el Indre estuvo realizando un proceso precisamente de valoración y en su momento emitiendo los reconocimientos a los laboratorios que podían llevar a cabo.
 Entonces, estas fechas fueron incrementándose, más o menos este proceso inició ya hace un mes y medio; sin embargo, fueron primeros los laboratorios, y esto también tenía que ver con la disponibilidad de kits comerciales que los laboratorios pueden adquirir directamente en el mercado nacional o internacional.
 Estos kits fueron aumentando prácticamente en las últimas, dos, tres semanas, ahora hay mucha disponibilidad de estos kits, de hecho, el mismo Indre ha evaluado prácticamente ya más de 30 de estos kits de diferentes marcas, de diferentes formulaciones.
 Entonces, ahora que incrementó también la disponibilidad de este tipo de insumos y haber avanzado con la valoración y el reconocimiento de estos laboratorios, ya desde hace 12 días más o menos, son 41 los laboratorios que han tenido este reconocimiento y que además varios de ellos son redes o cadenas nacionales que en su momento operan en diferentes estados.
 Entonces, digamos, que ha sido un aumento gradual. La mayor cantidad de estos resultados definitivamente se concentran en los últimos 15, 20 días, previos a esa información realmente eran todavía pocos porque eran menos los laboratorios reconocidos y era menos la disponibilidad de insumos en el mercado nacional.
 ---
+INTERLOCUTORA
+(inaudible) en las personas asintomáticas.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, no hay en sí un estudio, por lo menos a su servidor no le ha tocado verlo, dado que no es un grupo que haya sido ampliamente estudiado, a diferencia de los casos confirmados. De hecho, todavía hay mucha incertidumbre aun en los países en los que ya han pasado la epidemia, de poder estimar la cantidad, por ejemplo, de personas portadoras o asintomáticas que dieron positivo al virus, y que nunca desarrollaron sintomatología.
 Todavía no hay inclusive, por ejemplo, un estudio grande o importante de ceroprevalencia que pudiera llevar, inclusive, a estimar esta cantidad de personas, es seguro en las siguientes semanas o meses, en la medida que los países empiecen ya a destinar sus recursos humanos, científicos y financieros a este tipo de procedimientos de ensayos, de investigaciones, empezaremos, de seguro, a tener más información al respecto.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Dulce Soto, por favor, y después Bianca Aguirre.
+---
 PREGUNTA
+Buenas noches, gracias.
 Doctor Gatell, sé que ya nos presentó las cifras sobre las muertes de neumonías no especificadas y también de enfermedades respiratorias agudas graves, pero los datos de las enfermedades respiratorias estaban hasta 2019.
 Sé que también nos indicó que el Inegi sigue evaluando esas cifras para poder hacer el reporte; sin embargo, pudo adelantarnos datos de las muertes por neumonías no especificadas hasta abril del 2020. En ese sentido, quiero preguntarle si sería posible que nos presente las cifras de las muertes por enfermedades respiratorias agudas graves en lo que va de 2020 también, si nos las podría presentar en esta conferencia, por favor.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias, Dulce.
+---
 INTERLOCUTORA
+Si podría tener esos datos.
 Y la siguiente pregunta es que el Conacyt informó que para el 15 de mayo iban a tener listos unos ventiladores que estaban reparando y en los que estaban trabajando. Quiero preguntarle si tienen información de cómo va el avance de estos ventiladores y a qué instituciones se distribuirían. Por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Dulce, por sus preguntas.
 De la primera, con mucho gusto traemos, preparamos la información. De hecho, lo que presentamos el sábado pasado precisamente incluye el primer trimestre o cuatrimestre hasta el corte de abril de la información preliminar sobre las muertes, en este caso sobre este tema o este síndrome aun por codificar que es Infección Respiración Aguda Grave o neumonías no especificadas concretamente.
 Y esto tenemos cortes mensuales de información, es decir, cada mes tenemos un bloque nuevo de información que proviene de los certificados de defunción.
 Entonces, un mecanismo considerablemente veloz de concentración de los certificados de defunción y de información a un sistema de vigilancia epidemiológica que se estableció desde 1995 que se llama Sistema Epidemiológico Estadístico de Defunciones.
@@ -184,3 +217,31 @@ Y, por el otro lado, tenemos información sobre las muertes que también deseabl
 El certificado de defunción es un documento oficial -por algunos conocido- que tiene cuatro copias y que tiene una sola página en tamaño oficio, pero después hay anexos que tienen un propósito que establece el Inegi como autoridad nacional en materia de estadísticas vitales.
 Y el anexo 8 es para rectificar o ratificar los elementos de juicio sobre la sospecha diagnóstica de lo que la persona certificante, habitualmente una persona profesionista de salud pone como causas de muerte.
 Lo que presenté, de hecho, es…
+---
+INTERLOCUTORA
+… por enfermedades respiratorias agudas graves hasta mayo de 2020.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cuando llegue el bloque de mayo. El que presentamos fue hasta abril, cuando llegue el bloque de mayo…
+---
+INTERLOCUTORA
+Hasta abril.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es el que presenté, pero lo volvemos a traer sin problema.
+---
+INTERLOCUTORA
+Sólo enfermedades respiratorias, es que ese bloque era de neumonías no especificadas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, de las demás…
+---
+INTERLOCUTORA
+Sí, de todas las enfermedades respiratorias, las graves, por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo preparamos con mucho gusto.
+Y sobre los ventiladores, no tengo en este momento la información actualizada, pero a las 8:00 tenemos la reunión de seguimiento con el presidente, con todo el grupo de trabajo, tenemos esto dos o tres veces a la semana y aprovecho y lo pregunto, mañana se los comento.
+¿Nos da tiempo de algo más?
+No, son las 19:59 minutos, quedan pendientes para mañana, igual usted y nos vemos mañana.
+Muchas gracias. Buenas noches.

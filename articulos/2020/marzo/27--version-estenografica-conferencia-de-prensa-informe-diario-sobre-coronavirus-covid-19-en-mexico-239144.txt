@@ -3,9 +3,11 @@ Presidencia de la República
 27 de marzo de 2020
 ---
 VÍCTOR HUGO BORJA ABURTO, DIRECTOR DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Muy buenas tardes. Vamos a dar inicio a la conferencia del día de hoy para informar el comportamiento del COVID-19 en el país. Mi nombre es Víctor Hugo Borja Aburto, soy epidemiólogo y director de Prestaciones Médicas del IMSS.
 Presentaremos el panorama junto con el doctor Christian Arturo Zaragoza Jiménez, quien es especialista en epidemiología y en promoción de la salud en la Dirección General de Epidemiología de la Secretaría de Salud. Empezamos, doctor, con el panorama de cómo se encuentra al día de hoy la epidemia de COVID-19 en México. Adelante, por favor.
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ, DIRECTOR DE INFORMACIÓN EPIDEMIOLÓGICA
+Gracias. Buenas tardes a todos. Iniciaremos, como lo hemos hecho siempre, con la parte del panorama internacional.
 El día de hoy en este panorama internacional, ustedes lo han seguido desde que hemos iniciado el seguimiento de esta enfermedad surgida en China desde diciembre, que surgieron los primeros casos en la ciudad de Wuhan y la provincia de Hubei, al día de hoy tenemos un total de casos confirmados a nivel mundial de 509 mil 164 casos. De los casos confirmados, en los últimos 14 días tenemos 377 mil 205 y una tasa de letalidad global de 4.6.
 Como ustedes han visto, las regiones de la OMS en su totalidad, las seis regiones, se han visto afectadas en esta parte. También pueden observar claramente cómo ya muchos de los países de todo el mundo están en esta parte, con la transmisión y con la presencia de casos.
 Todavía podemos observar que en la región del continente africano todavía están algunos países los cuales aún no se han iluminado todavía como debe ser en el tenor con otros países.
@@ -33,6 +35,7 @@ Antes de finalizar esta parte para dar paso al doctor Víctor Hugo Borja, quisie
 Muchas gracias.
 ---
 VÍCTOR HUGO BORJA ABURTO
+Gracias, doctor Zaragoza.
 Como ustedes pueden ver en este cuadro, todavía predominantemente son casos importados con el 68 por ciento, estos 486 casos confirmados son asociados a viaje y se asocian a estos viajeros que han llegado aquí o a estos casos importados, 177 casos que son el 25 por ciento.
 Estos casos son casos que no podríamos evitar en su mayoría y lo importante que mencionaba el doctor Hugo López-Gatell es para pasar de la fase 1 a la fase 2 es la actividad comunitaria, que es la que estamos vigilando, son estas medidas de aislamiento social de quédate en casa, de higiene de manos y de las capacidades como sociedad para responder que pueden disminuir estos casos que se llaman sin antecedentes que son la transmisión comunitaria.
 En la gráfica que les mostramos no se muestran cuando identificamos los casos, esa sería por la fecha de registro, la fecha de identificación.
@@ -47,55 +50,79 @@ Hemos anunciado que cerca del 18 de abril tendremos una actividad más intensa, 
 Hay varios factores. Las tasas de ataque, que es la proporción de la población que se va a infectar, depende primero de las características del virus, eso ya conocemos el R0, que es el número de personas que contagia a una persona infectada, pero esa puede disminuir con las medidas que se hagan, con las intervenciones que hagamos; pero también depende la gravedad de los casos y la carga que van a tener los servicios de salud, depende de la edad de las poblaciones.
 En España y en Italia son poblaciones más viejas que en México, es una ventaja que nosotros seamos una población más joven. Los casos, pueden ser que tengamos una proporción mayor en los más jóvenes y, por tanto, menos grave. Esto es algo que tiene una ventaja, pero también tenemos una desventaja que por familia es un número mayor.
 El número de habitantes en cada hogar es un número grande, tenemos muchas familias extendidas, de tal manera que lo más importante que podemos hacer son estas medidas de distanciamiento social, de Susana Distancia para continuar y achatar la curva.
-Estamos listos para las preguntas.  Allá, por favor.
+Estamos listos para las preguntas.  Allá, por favor.
 ---
 PREGUNTA
+Buenos días. David Pérez Tejada, de Audiorama. Tres preguntas básicas.
 Una, ¿cuál sería la explicación para toda esa gente que pone en duda los números que nos presentan?, sobre todo cuando hacen la comparación de los infectados en la frontera y en el lado mexicano hay pocos.
 ¿Cuál sería una explicación que le pudiera dar a la gente?, claro, porque en redes sociales distribuyen una serie de fakes que causan ruido a esta información que nos brindan.
 La otra es que estas también en redes sociales que se están transmitiendo sobre: ‘Llega a tu casa, quítate la ropa, los zapatos’, ¿funciona?, ¿no funciona?, ¿son medidas que se podrían adoptar para prevenir esta infección?
 Y la otra es para el doctor Víctor. Hay empresas que están despidiendo gente, quitándoles el seguro. ¿Habría un llamado del sector salud a esas empresas para que no dejen desamparada a la gente que está mandando a sus casas? Hay gente que la están mandando, pero sin goce de sueldo.
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+En nuestro país una de las grandes fortalezas que tenemos es el Sistema Nacional de Vigilancia Epidemiológica que no descansa y que vigila muchísimas, muchísimas enfermedades.
 La fortaleza del Sistema Nacional de Vigilancia Epidemiológica, que se aplica en las más de 25 mil unidades de atención en nuestro país, nos da la certeza de que todo el trabajo que se está haciendo desde lo local por los médicos de las unidades, por las jurisdicciones sanitarias, por las entidades federativas con el apoyo también de la federación del sector, porque estamos unidos, es que estamos trabajando fuertemente para poder tener todos los datos visibles, transparentes.
 Motivo por el cual yo los invito a ustedes que son nuestros grandes aliados del personal de la prensa a difundir los comunicados técnicos y la información que a través de las páginas oficiales de la Secretaría de Salud federal salen todos los días con este comunicado donde se da un pequeño panorama de lo que está sucediendo en esta parte.
 Las medidas de promoción de la salud, las medidas de educación para la salud son medidas básicas de bajo costo, muy fáciles de aplicar y que en este momento, con la aplicación de Susana Distancia y la aplicación de este resguardo que estamos teniendo de quédate en su casa, es un momento para fortalecer desde la célula principal que es la familia en el cual tenemos que fortalecer el lavado de manos con agua y jabón, la limpieza de superficies y sobre todo esta comunicación efectiva para promover desde los más pequeños de la familia hasta los más grandes la importancia de las acciones de salud pública para poder contribuir, para poder achatar, para poder aplanar esta curva y trabajar fuertemente por nuestro país.
 ---
-VÍCTOR HUGO BORJA
+VÍCTOR HUGO BORJA ABURTO
+A mí gustaría decir por qué sí creo en estas cifras y más ahora que tenemos el cambio en la definición técnica de lo que es un caso.
 Al principio teníamos una definición que decía: ‘Si tienes estos síntomas y además has viajado en los últimos 14 días de estos países, te vamos a considerar un caso sospechoso’.
 Esta definición se cambió, ya no se requiere haber viajado, porque ya tenemos la demostración de la transmisión comunitaria y la cifra, y si además está muestreando a un número de aquellos casos leves, pero los casos leves no son los importantes, los importantes son los casos graves y estos casos graves se están mostrando al 100 por ciento, al 100 por ciento de las neumonías atípicas y la proporción de casos confirmados entre estas neumonías atípicas no ha subido mucho en los últimos días. Por eso sí creo todavía en las cifras.
 No quiere decir que no va a subir mucho más, todavía estamos en esta fase de una gran transmisión comunitaria y por eso decimos que estamos a tiempo, todavía podemos intervenir.
 Las medidas de las empresas, la Secretaría de Economía ha tomado algunas medidas, el IMSS, está dando este apoyo para facilitar las incapacidades y pronto el director general anunciará algunos apoyos que junto con el resto del sector darán para las empresas.
 ---
 PREGUNTA
+Buenas noches, doctores.
 Preguntarles, ha circulado el día de hoy en redes sociales versiones sobre una supuesta modificación por parte del sector salud con el incremento de neumonías sobre 2018, 2019, con respecto al 2020. ¿Nos pudieran aclarar esta situación, por favor?
 Gracias.
 ---
 VÍCTOR HUGO BORJA ABURTO
+En el IMSS muestreamos todas las neumonías, no tenemos un incremento.
 Muy importante, ¿qué hemos notado?
 Tenemos más incapacidades por infecciones respiratorias agudas. Sí, porque la gente está acudiendo más a los servicios de salud, porque además quiere saber que no tenga el COVID-19. Eso se ha incrementado en muchos de los estados, pero no tenemos una ocupación hospitalaria mayor a la observada por problemas respiratorios todavía.
 Todavía no termina la temporada de influenza, todavía estamos con casos de influenza, muchas de las hospitalizaciones todavía se deben a influenza, estos disminuirán en los siguientes días y tendremos una mayor proporción de COVID-19.
 ---
 INTERLOCUTORA
+Es que hubo una modificación de las cifras, de las cifras que se hubiesen registrado en 2018 y 2019 con respecto a las de esta ocasión, de este 2020.
 Gracias.
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Las neumonías es un padecimiento que siempre se registra, que cada año se vigila, que pueden ser de diversa etiología viral, bacteriana y que justo en este momento este padecimiento forma parte de los que se están vigilando con mayor énfasis.
 En los comparativos que hemos tenido no hemos revisado… no se han identificado, perdón un incremento en las últimas dos semanas.
 ---
 PREGUNTA
+Muchas gracias, doctor, Raúl Rodríguez, de Multimedios.
 Para que sea bien enfático y muy claro ¿qué es una neumonía atípica en diferencia al COVID-19?
 Y una segunda, en estas cifras de los 717 casos ¿hay personal médico del instituto infectado?
 ---
+VÍCTOR HUGO BORJA ABURTO
+¿Personal médico del instituto? Sí, tenemos cinco casos asociados a muchos de ellos a viaje y tenemos otro personal de salud que también se infectó cuidando un paciente confirmado en su práctica privada.
+---
+INTERLOCUTOR
+La diferencia de las neumonías
+---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Las neumonías atípicas. Las típicas son aquellas neumonías bacterianas donde hacemos un cultivo y descubrimos bacterias, no virus, hay otros también virus que típicamente se obtienen en la comunidad, le llamamos ‘adquiridas en la comunidad’, otras que se adquieren durante el proceso de atención médica o asociada a la atención médicas son las que adquieren dentro del hospital.
 La gente puede llegar sin la neumonía y durante el proceso de atención adquirirla y estas son las que llamamos asociadas a la atención a la salud. Esas son las típicas.
 Y estas otras son las que no tienen un agente etiológico definido, cuando se tiene el agente etiológico definido no es considerada atípica.
 ---
 PREGUNTA
+¿Desde que detectaron el primer caso de transmisión comunitaria han incrementado el número de pruebas?
 Y, segundo, si ya no es necesario tener al antecedente del viaje al extranjero, ¿esto significa que la gente que acuda a los servicios de salud puede tener la posibilidad de que le van a aplicar la prueba?, porque había muchas denuncias que no se estaba aplicando, al menos que se demostrara que hubiera viajado al extranjero.
 ---
 VÍCTOR HUGO BORJA ABURTO
+Le van a aplicar la prueban a todos los casos graves, todos los casos que estén hospitalizados se les aplica la prueba y aquellos que sean defunciones, que por definición también sean casos sospechosos también se les toma la prueba, a los casos ambulatorios se le toma sólo al 10 por ciento.
 El manejo clínico y la decisión de quedarse en casa no depende del resultado de la prueba, a todos los casos sospechosos se les envía a aislamiento domiciliario.
 ---
+INTERLOCUTORA
+¿Van a hacer más pruebas? Esa fue la otra pregunta, si van a aumentar el número de pruebas.
+---
+VÍCTOR HUGO BORJA ABURTO
+Si aumentan los casos graves va a aumentar el número de pruebas y el aumento también de casos leves va a ir aumentando con el tiempo, pero sólo se tomará al 10 por ciento de estos casos, es innecesario hacer más muestras, lo importante en esta vigilancia son los casos graves y a esos se les seguirá tomando al 100 por ciento.
+---
 PREGUNTA
+Gracias, doctor. Muy buenas tardes. Julio Omar Gómez, de Baja California Sur.
 Ayer a usted creo que le llegó una carta haciendo referencia sobre las manifestaciones de los profesionales de la salud en donde también son solidarios a la falta de equipo de protección personal; sin embargo, esta carta no es suficiente para ellos, ellos quieren tener los datos duros de cuándo es elevarse entrega de este equipo para dar la atención a los pacientes, sobre todo para no correr riesgos los que ya mencionó, las personas profesionales de la salud que han estado contagiados.
 Los Cabos, como cualquier otro estado turístico, Baja California Sur, tuvo un alza exponencial bastante fuerte con el caso de sospechosos y sobre todo los casos de importación y que obviamente, ha ido al alza muy rápido. En este sentido, es solamente Los Cabos, los demás municipios Comondú, Loreto, Mulegé y los demás no han tenido mayor problema, solamente Los Cabos.
 En ese sentido, ¿se va a hacer algo para los estados que son altamente turísticos y no tener casos importados?
@@ -107,6 +134,7 @@ Son los tres puntos que sí es importante dar una directriz en caso de estas tre
 Gracias.
 ---
 VÍCTOR HUGO BORJA ABURTO
+Nosotros reconocimos ayer que al principio de la epidemia habíamos tenido problemas con el equipo de protección personal y con la capacitación del personal nuestro del IMSS.
 Llevamos cerca del 90 por ciento del personal capacitado y el equipo de protección personal llegará esta semana, hay algunos lugares que todavía no llega. Estamos asegurándonos que el equipo de protección personal llega a los lugares donde tenemos pacientes internados, es decir, donde están los graves y los 70 hospitales que nombramos como lugares de referencia, más otros 10 que son unidades médicas de alta especialidad.
 Estas ya están muchas de ellas preparadas, se han liberado camas, algunas de ellas que normalmente están con 90 por ciento de ocupación ya se encuentra en el 50 por ciento de ocupación.
 Debo reconocer que también hemos tenido problemas en la oportunidad del surtimiento de algunas recetas, no de desabasto. Esto quiere decir que no se lo entregamos el mismo día que se le receta y se entregan unos días posteriores porque tuvimos problemas de logística conocidos por ustedes en la distribución de algunos estos medicamentos durante este año.
@@ -114,9 +142,20 @@ Esto hay que reconocerlo, tuvimos en el pasado casi todo el año anterior un sur
 Si hay derechohabientes del IMSS que no se le haya entregado la receta pueden avisarme, claro que sí, y vemos que no pasen muchos días. Es algo que no debemos menospreciar, no debemos pensar que no es un problema, pero estamos dedicados a que los pacientes lo tengan.
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Y si me lo permite, para la Baja California Sur hemos tenido comunicación permanente con las autoridades estatales y la vigilancia se epidemiológica se realiza de forma activa desde Guerrero Negro, Loreto, Mulegé, Comondú, La Paz, obviamente Los Cabos. Y también, bajo un enfoque de riesgo y un análisis del mismo, sabemos de la importancia y las acciones han sido focalizadas, incrementadas y supervisadas en aeropuertos y puertos de entrada.
+---
+PREGUNTA
+¿Cuáles son esas medidas, esas fortalezas?
+---
+CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Las fortalezas son, uno, un sistema de vigilancia epidemiológica activo, que nos permite tener una notificación en 24 horas a partir del cumplimiento de las definiciones operacionales de todas las unidades médicas en este momento desde que iniciamos con la Baja California Sur y la comunicación permanente ante cualquier situación ha sido y ha sido muy estrecha.
+---
+CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Me gustaría aclarar esto de la neumonía atípica, por si no quedó claro. Una neumonía por algo desconocido o no clasificado es una neumonía atípica y no es incorrecto clasificarlo como neumonía atípica mientras no se tenga la confirmación de laboratorio.
 Entonces, si dicen que alguien tiene una neumonía atípica, como sucedió cuando empezamos con la influenza, ustedes recuerdan eran neumonías atípicas, son las no identificadas el agente etiológico, no identificamos el agente causal, mientras no tengamos la confirmación esta es una neumonía atípica.
 ---
 PREGUNTA
+Gracias.
 También, para poder concluir con los temas que preguntaron mis compañeros. Evidentemente hay mucho nerviosismo con los doctores y ellos me preguntan para poderle preguntar directamente a ustedes si en el caso de los médicos que estén enfermos por atender a los pacientes se les va a dar prioridad para poderlos atender a ellos también en las clínicas que están dando la batalla.
 Y también después, evidentemente de que se dio a conocer en España que hasta un 10 por ciento de personal médico resultó contagiado después de estar atendiendo a tantos pacientes, ellos también quieren saber cómo le van a hacer ustedes para disminuir el riesgo, porque me comentan que aunque ya les empiezan a llegar algunos uniformes, por ejemplo, me comentan que los cubrebocas son los normales, que no son de N95 y que también ellos han tenido que comprar overoles directamente en estas tiendas de construcción.
 Y no solo eso, sino que cada vez son más el personal, por ejemplo, camilleros o enfermeros de hospitales privados que están llegando a las instituciones públicas a llevar a los enfermos y están viendo la disparidad entre los trajes y eso los tiene muy nerviosos.
@@ -124,7 +163,14 @@ Y la otra cosa que reclaman es que también han llegado ya pacientes, esto suced
 Ahí también quisiera preguntar si ya en los casos de personas que mueren y si no se les hizo la prueba antes ¿se les va a hacer autopsia y se va a mandar el cultivo como se hizo en la influenza en 2009 o cuál va a ser el procedimiento para poder contabilizar estas muertes?
 Gracias.
 ---
-VÍCTOR HUGO BORJA
+VÍCTOR HUGO BORJA ABURTO
+Fueron como 10 preguntas ¿no?
+---
+INTERLOCUTORA
+Perdón.
+---
+VÍCTOR HUGO BORJA ABURTO
+Vamos hacia atrás. No se les hace autopsia, no está indicado.
 En el caso del paciente que llegue muerto y no se le haga la toma de muestras, si reúne los criterios, porque hay que… no todos los pacientes que lleguen sin vida a las unidades reúnen los criterios, tiene que haber tenido previamente la sintomatología que sabemos que se asocia con COVID se le tiene que tomar a todos.
 Y en el caso de sí, le vamos a dar prioridad a los médicos. Tenemos que atender bien a todos, tenemos que atender bien también a nuestros médicos. Ellos van a dar… ellos se arriesgan y algunos de ellos, de nuestros médicos mayores, porque hay unos médicos mayores de 60 años como algunos compañeros míos y como yo, digo yo tengo un poquito más, pero no tantos, pero hay algunos compañeros que están en los hospitales que tienen 70, 75 años y que quieren seguir ahí, porque es para lo que están, decidieron dedicar su vida y aunque tengan mayores riesgos se están cuidando.
 Permítame decirle que la tasa de ataque secundario, que le llamamos así, en los contactos es cerca del 20 por ciento, entre el 20 y el 25 por ciento si estudió en Japón, de los pacientes confirmados que dieron sus contactos, después se les siguieron durante un mes y se vio cuántos de estos se enfermaron. Entre el 20 y el 25 por ciento enfermaron.
@@ -138,69 +184,145 @@ Si tienen un paciente en casa, que el paciente se ponga cubrebocas, y cuando pas
 Cubrirnos con un cubrebocas, pero que el paciente se quede en su cuarto. Por eso, en el IMSS estamos buscando para aquellas familias que viven todos en un solo cuarto, buscar en dónde podemos aislar al paciente, mientras no tengamos una gran concentración, podríamos buscar ubicaciones alternas para usar a los… quiero decir para aislar a los pacientes, y por eso la labor que hace Trabajo Social en el IMSS es importante para ver toda la cuestión socioeconómica y social del paciente.
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Es precisamente para la compañera reportera que hizo, que por eso insistimos quédate en casa, sana distancia, no queremos que los hospitales se saturen de los pacientes respiratorios.
 Por eso la importancia de si tú tienes la sintomatología leve, resguardo en casa, medidas básicas de promoción sana distancia, lavado de manos.
 No queremos ver hospitales saturados, por eso insistimos tanto y pedimos el apoyo de ustedes para que nos ayuden con esa difusión, quédate en casa, sana distancia.
 Protejamos también a nuestros médicos, que ellos han, y dedican… No sólo los médicos, sino todo el personal de salud que está en los hospitales de cualquier sector para que ellos son las personas que atiendan a estos pacientes cuando lleguen y no tengamos una sobresaturación de los servicios.
 ---
 PREGUNTA
+Gracias. Hasta la semana pasada había tres bebés menores de un año que habían sido infectados con COVID-19, uno en la Ciudad de México y otros dos en diferentes estados de la república mexicana.
 Mi primera pregunta es si tienen alguna actualización en el número de casos de bebés menores de un año que estén infectados con COVID-19
 Y la segunda es en este mismo sentido, si el Gobierno de México tiene algún plan para apoyar a las mujeres que entran en aislamiento por estar infectadas con este virus y no pueden tener contacto con el bebé justamente para evitar infectarlo, si hay algún plan para apoyar de alguna manera que entren en aislamiento y en cuarentena y evitar que este grupo de bebés específicamente menores puedan ser infectados.
 Eso sucedió con el caso de la Ciudad de México que la madre infectó al bebé y el bebé tuvo que estar hospitalizado por tres días por caso de neumonía.
 Esas serían mis dos preguntas. La actualización en el número de casos en este grupo y la segunda si el gobierno tiene algún plan en este sentido.
 ---
+CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Hasta este momento solo tenemos un caso en un menor de un año que es de aquí de la Ciudad de México y existen varios planes de ayuda y varios programas que se han activado, precisamente, de otras dependencias.
+---
+INTERLOCUTORA
+¿Como cuáles planes?, ¿nos puede explicar?, ¿cómo cuáles son los planes que se tienen considerados?
+---
+CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Por ejemplo, el día de ayer en esta misma mesa se hablaron de algunos números en los cuales se puede pedir apoyo para específicamente para muchas mujeres, para madres adolescentes que tengan alguna y que requieran alguna orientación pueden comentarse. Yo en este momento desconozco a detalle cuáles serían, pero sí existen.
+---
 PREGUNTA
+Buenas noches, doctor, gracias. Fanny Miranda, de Milenio.
 La jornada de sana distancia concluye el 19 de abril, pero usted nos comenta que el pico más alto se va a ver el 18 de abril.
 ¿Está entre los planes prolongar esta jornada de sana distancia?, ¿prolongar que nos quedemos aislados en casa o incluso activar una cuarentena total?
 Y, por otro lado, hoy la FDA de Estados Unidos autorizó el uso de plasma sanguíneo de pacientes recuperados, ¿esto podría usarse como tratamiento en nuestro país también?
 ---
 VÍCTOR HUGO BORJA ABURTO
+La jornada de sana distancia está en un inicio planteada en estas fechas, pero se evaluará dependiendo del comportamiento de la epidemia si se continúa.
 Esto es algo que se inició en la etapa dos, va a coincidir con el inicio de la etapa tres, entonces, tenemos que hacer una evaluación completa de cómo se encuentra la epidemia en el país.
 Recordemos que no esperamos que suceda al mismo tiempo en todo el país, primero sucederá en las grandes urbes, en las áreas metropolitanas, como lo hemos estado viendo, y después en otros lugares.
 ---
+INTERLOCUTORA
+Es decir que no se extendería para todo México al mismo tiempo.
+---
 VÍCTOR HUGO BORJA ABURTO
+No, si ustedes recuerdan la influencia en el 2009, que fue lo más típico, tuvimos un pico grande en la Ciudad de México, eso no sucedió en Yucatán, después hubo un pico en Yucatán y después en el resto del país, ya al final del año.
 No se espera que en todo el país prenda, como en los continentes, igual en Europa no ha prendido igual o al mismo tiempo en todos los países, esto depende de la movilidad de la población y qué tanto de un lugar a otro se puede transmitir o se movilizan las personas infectadas.
 ---
+INTERLOCUTORA
+Lo del plasma
+---
+VÍCTOR HUGO BORJA ABURTO
+Lo estamos evaluando. Nosotros en el IMSS se probará como un proyecto de investigación y para lo cual pediremos la cooperación de aquellos sujetos que han tenido una enfermedad leve, que ya se recuperaron, demostraremos que ya no circula el virus en su cuerpo y les pediremos plasma.
+---
+INTERLOCUTORA
+¿Cuántos sujetos de investigación necesitan para probarlo?
+---
+VÍCTOR HUGO BORJA ABURTO
+Todavía no lo hemos determinado.
+---
 PREGUNTA
+Buenas noches, doctores. Blanca Aguirre, de Notimex.
 Quisiera saber por qué hay tanto contraste en la zona fronteriza Estados Unidos-México en cuanto a los contagios y es que, por ejemplo, se ve un mapa circulando en el que en California, por ejemplo, hay tres mil 944 contagios, mientras en Tijuana solamente hay 10 y en Baja California hay 200.
 Otro ejemplo es Arizona, 508, y Sonora son siete.
 Quisiera saber si esto se debe a la falta de pruebas del COVID por realizar, ¿qué está pasando?
 ---
+VÍCTOR HUGO BORJA ABURTO
+Hay un muro que los divide.
+---
+INTERLOCUTORA
+Pero entonces…
+---
+VÍCTOR HUGO BORJA ABURTO
+La movilidad no es lo misma al interior de la ciudad de San Diego que entre San Diego y Tijuana.
+---
+INTERLOCUTORA
+Pero están muy juntos.
+---
+VÍCTOR HUGO BORJA ABURTO
+No se puede comparar, pero esto no quiere decir que después no tengamos un brote en estos lugares, que el porcentaje de población lo vayamos a tener. Hasta el momento no se ha presentado, pero el muro está haciendo esos efectos.
+---
+INTERLOCUTORA
+Gracias.
+---
 PREGUNTA
+Gracias, doctor. Luis Francisco Soto, del Sistema Público de Radiodifusión, Canal 14.
 Doctor, para precisar dudas y disiparlas en la población, en este caso de los casos graves que requieren atención médica hospitalaria ¿qué pasa en el caso de las personas, digamos que no cuenten con esquemas de seguridad social?, ¿a dónde pudieran acercarse para recibir o solicitar esta atención médica si llegan a presentar complicaciones en salud o posibles casos de COVID-19?
 ---
 VÍCTOR HUGO BORJA ABURTO
+Los servicios estatales de salud que integran, están integrados en la red del Insabi actualmente y aquellos estados que no están integrados en el Insabi tienen hospitales de segundo y de tercer nivel.
 Aquí en la Ciudad de México hay una red hospitalaria también que ya la jefa de gobierno ha anunciado y están los Institutos Nacionales de Salud.
 La seguridad social la atiende un poquito más entre el Issste y el IMSS un poquito más de la mitad de la población, pero el resto tiene estos otros servicios que serán gratuitos en todos estos hospitales públicos.
 Gracias. Aquí atrás.
 ---
-VÍCTOR HUGO BORJA ABURTO
-Sí, lo que hemos visto en las curvas que monitoreamos diariamente ha sido el incremento desde hace dos semanas.
+PREGUNTA
+Doctor, Borja quiero preguntarle: ¿cuántas incapacidades -ya que lo comentó- ha otorgado el IMSS por coronavirus? ¿Cuántas por influenza y cuántas por infecciones respiratorias agudas graves?
 ---
 VÍCTOR HUGO BORJA ABURTO
+El total de estas sería difícil decírselos, sólo tenemos un número pequeño, le debo el dato.
+Sí, lo que hemos visto en las curvas que monitoreamos diariamente ha sido el incremento desde hace dos semanas.
+---
+INTERLOCUTORA
+¿Cuáles son los requisitos para que las personas tengan acceso a esta incapacidad?
+---
+VÍCTOR HUGO BORJA ABURTO
+Tener los síntomas relacionados con coronavirus. Toda persona que tenga fiebre, cefalea -¿cuáles son las otras?- y tos y algunos de los otros síntomas, le damos la incapacidad, todas.
 Adelante.
 ---
 PREGUNTA
+Doctor, buenas tardes. Carlos Domínguez, de Nación 14.
 Ustedes han comentado que para el 18 de abril estaríamos hablado de que sería el máximo, se vería al máximo de personas contagiadas de COVID-19.
 ¿Tiene la Secretaría de Salud ya un número aproximado?
 ---
 VÍCTOR HUGO BORJA ABURTO
+No dijimos eso, dijimos que empieza como la fase tres y que tendrían… inicia la fase tres y todavía se incrementa, el pico puede venir dos semanas después.
+---
+INTERLOCUTOR
+Bueno, ¿cuánto considera la Secretaría de Salud que podríamos estar hablando de contagios en el mejor o en el peor de los escenarios en caso de que la sana distancia funcione o no funcione, doctor?, para determinar si es posible o si es factible pasar de la segunda fase a la tercera.
+---
+VÍCTOR HUGO BORJA ABURTO
+No es con un número, es una cuestión continua. Si ustedes ven los datos de China, que es el único país donde ya terminó la epidemia, duró 12 semanas. Hubei como provincia tuvo una tasa de ataque de 0.11. Si ustedes dividen la cantidad de casos que oficialmente se reportaron entre la población de Hubei, que tiene como 60 millones, como el número de derechohabientes IMSS y aplican esta proporción es como del 0.11 por ciento de toda la población que se detectó con las medidas de detección y como se reportaron oficialmente.
 Si usted piensa que posiblemente la mitad no fueron detectados, porque al principio hubo una transmisión comunitaria que no tenía las pruebas, no tenían identificada la enfermedad y la lleva a 0.22, esperaríamos un número de casos.
 Pero nosotros como gobierno federal estamos planeando cuatro veces más allá de eso para tener todos los insumos para atender a la población mexicana, preferimos protegernos y guardar los insumos para utilizarlos en influenza el siguiente año y garantizar que vamos a poder tener para toda la población. Esa es la proporción con la que el gobierno federal está trabajando, para todas las instituciones, los cálculos y las compras se están haciendo para todas las instituciones y haciendo los cálculos de la carga de enfermedad de una manera conjunta.
 Hasta allá atrás.
 ---
 PREGUNTA
+Yo le quería preguntar, doctor, el método de conteo de los fallecimientos. Ya nos han explicado que el corte se hace a las 13:00 horas, quería preguntarle ¿no se presta a la desconfianza el hecho de que no se incluyan algunos casos y haya cierta confusión sobre el gobierno federal dice unos, los gobiernos estatales dicen otros?, ¿se puede prestar o no la confusión o a la desconfianza? Por un lado.
 Y, por el otro, el tema de los ventiladores, ¿ya saben si se van a adquirir más, han avanzado en ese punto?
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Si me permite. La importancia de tener un corte a nivel epidemiológico nos permite a nosotros precisamente dar esa certeza del análisis de información y que ustedes puedan observar todos los días que se hace en esta conferencia, donde ustedes tienen ese análisis y pueden identificar como se ha ido comportando.
 Les explicaba el tema de cómo migra la información desde un nivel local, un nivel jurisdiccional, un nivel estatal, una información validada, una información certera. Después de las 13:00 horas, que es el corte que todo el país conoce y que todos los secretarios de Salud conocen y que todas las autoridades del sector conocen, que es el horario establecido, han sucedido algunos de los casos donde algunas autoridades locales en salud han salido a dar un número, un confirmado, incluso una defunción, pero siempre han hecho la acotación que esa información que están teniendo es después del corte.
 Entonces, ese corte a nosotros nos da la certeza de tener una armonización con las 32 entidades federativas, una información homogénea y que nos permite a nosotros realizar la parte del análisis para que ustedes tengan la certeza de ese corte, por eso es importante mencionar el horario.
 ---
+VÍCTOR HUGO BORJA ABURTO
+Sí, lo podríamos hacer a las 6:00 de la mañana, a las 12:00 del día o en la noche, pero tenemos que tomar una decisión sobre un punto de corte y ponernos todos de acuerdo.
+---
 PREGUNTA
+Sí, buenas noches señores directores. Jaime Hernández, del periódico digital Bajo Palabra.
 Tal parece que el mensaje de quedarse en casa, en el que se ha insistido últimamente no lo está respetando un gran número de mexicanos, lo cual podría culminar en tragedia.
 ¿Creen ustedes que vale la pena insistir de manera más enfática en este llamado y de ser posible ampliarlo?
 Y también en este mismo sentido, me gustaría saber la opinión de ustedes respecto a las críticas que ha recibido el presidente por parte de organismos internacionales que lo tachan de ser un ejemplo sumamente peligroso, que amenaza la salud de los mexicanos por no acatar las recomendaciones de salud.
 Y si su llamado a que todos acatemos las medidas de prevención también incluyen al señor presidente.
 ---
 CHRISTIAN ARTURO ZARAGOZA JIMÉNEZ
+Las medidas deben de ser señaladas, deben de ser difundidas, deben de ser acatadas, sobre todo porque lo que queremos lograr es lo que hemos explicado ampliamente a lo largo de este tiempo.
 Lo que queremos es no ver rebasados nuestros servicios de atención, va para toda la población, son aplicables para todo el pueblo de México y sobre todo lo más importante es que todas las estimaciones, todas las proyecciones dependemos de esa aplicación de esas medidas.
 Muchas gracias.
+---
+VÍCTOR HUGO BORJA ABURTO
+Se nos terminó el tiempo, vamos a terminar aquí. Mañana continuará esta sesión. Muchas gracias.

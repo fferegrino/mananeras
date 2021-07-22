@@ -3,6 +3,7 @@ Presidencia de la República
 02 de agosto de 2020
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas tardes con todas y todos los aquí presentes, así también como con todas las personas que nos hacen el favor de tomarse un tiempo para actualizarse, ponerse al día de la situación del COVID-19 en México.
 Son las siete de la noche, hora de la Ciudad de México, estamos aquí en Palacio Nacional y el día de hoy nos acompaña en esta conferencia vespertina el doctor Simón Kawa, a quien agradecemos su presencia, ya es conocido de todos ustedes y de todas las personas también que nos ven por los diferentes medios de comunicación.
 Como ustedes saben, el doctor Kawa es un prestigioso investigador aquí en la República Mexicana, actualmente es el director general de la Coordinación de Institutos Nacionales de Salud y, precisamente, el día de hoy en lo que se refiere al componente temático nos viene a presentar en relación a la investigación clínica que se ha hecho, principalmente en México, cuáles son los resultados que hasta el momento se han tenido de diferentes ensayos clínicos que se han estado haciendo en nuestro país y lógicamente también algo de información internacional.
 Antes de pesar al componente temático vamos entonces a iniciar el día de hoy con la actualización de los escenarios epidemiológicos, tanto nacionales, como a nivel estatal.
@@ -78,6 +79,7 @@ Y entonces luego vemos que empieza a bajar un poco la intensidad, aunque algunos
 Entonces, bien, sería la actualización de los dos escenarios para esta noche y ahora le damos el tiempo necesario al doctor Simón Kawa para que nos presente la investigación clínica que se ha hecho en México.
 ---
 SIMÓN KAWA KARASIK, DIRECTOR GENERAL DE COORDINACIÓN DE LOS INSTITUTOS NACIONALES DE SALUD (CINS)
+Muchas gracias. Buenas tardes. Un gusto poder estar aquí con ustedes nuevamente.
 Quisiera yo empezar haciendo una breve explicación, cuando se habla de investigación científica es un tema muy complejo que involucra muchísimas cosas, desde la parte de la ciencia, pero también hay un componente ético muy importante.
 Y, entonces, para abordar el tema de investigación científica en algo tan complejo como COVID, pues venimos trabajando con un grupo de expertos, con una coordinación de trabajo que se ha dedicado desde la revisión de la evidencia científica que se publica día a día y que es cambiante, así como de los componentes éticos involucrados en la investigación científica.
 Este grupo está conformado por especialistas en metodología a la investigación, neumólogos, médicos en medicina crítica, infectólogos, bioeticistas.
@@ -154,6 +156,7 @@ Eso sería todo por esta noche.
 Muchas gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias Simón Kawa.
 Definitivamente información muy importante, no solamente para para el personal profesional de la salud que está en México y que debe atender de manera puntual estas recomendaciones, sino también para la población que es la que finalmente cuando enferma puede tener este tipo de prescripciones.
 Entonces, estar muy atentos a las recomendaciones oficiales que, por cierto, todas están publicadas en la página de coronavirus.gob.mx y se pueden consultar ahí de esa manera.
 Tenemos cinco minutos para poder responder preguntas.
@@ -161,6 +164,7 @@ Ayer habíamos dejado pendiente al compañero, luego pasamos aquí y pasamos aqu
 Por favor.
 ---
 PREGUNTA
+Gracias, doctores. Buenas tardes. Alejandro Alemán, de Medicina Digital.
 Una pregunta para respecto al número de pruebas, nos quedan 11 mil, 12 mil pruebas, después de que pasamos el millón.
 ¿Ya se compraron, a quién se compraron, cuántas se compraron?
 Y otra pregunta así muy precisa, el presidente de la República recorrió 70 hospitales de IMSS-Bienestar, sin embargo, la base datos no reporta ningún caso que hayan atendido de COVID y respecto a la atención a nivel estatal apenas llega al dos por ciento.
@@ -168,6 +172,7 @@ Y otra pregunta así muy precisa, el presidente de la República recorrió 70 ho
 Gracias.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Claro, con mucho gusto.
 Sí, de hecho, la adquisición de pruebas para confirmar a los pacientes con COVID-19 ha continuado, recordemos que la última, digamos, adquisición grande fue esta compra que se realizó en su momento de 300 mil pruebas de origen chino, de las cuales todavía quedan muchas, pero además de estas se tenía ya una solicitud de toda una serie de pruebas también de reacción en cadena de la polimerasa, sobre todo de la metodología que se conoce como metodología o procedimiento cerrado, que es el que se utiliza precisamente en estos, digamos, equipos grandes que pueden procesar gran cantidad de pruebas y que, sobre todo, se llevan a cabo en el Instituto de Diagnóstico y Referencia Epidemiológico.
 Ya se está programando, de hecho, ya tenemos una semana que se realizó una nueva solicitud de compra, precisamente basado en la programación de aquí hasta el mes de marzo de 2021, es decir, teniendo en cuenta lo que consideramos faltaría todavía de la epidemia en México de COVID-19, sabiendo que llega la temporada invernal y que esta inicia en el mes de octubre y se prolonga hasta el mes de marzo, entonces se hizo ya un estudio para saber cuántas pruebas íbamos a necesitar aproximadamente de aquí hasta que termine toda esta primera temporada epidémica de COVID-19.
 Y entonces se está realizando, se va a llevar a cabo una nueva compra, que con este periodo de tiempo se estima de más o menos 700 mil pruebas, estas son las que se han estimado que se van a requerir, además de las que se tienen ya actualmente.
@@ -178,15 +183,21 @@ No tengo en este momento el número total de casos acumulados que IMSS-Bienestar
 Muy bien. Por favor.
 ---
 PREGUNTA
+Gracias, doctores. Muy buenas noches. Paola Betancourt, de Multimedios Televisión.
 Mi primera pregunta es para el doctor Simón Kawa, quisiera preguntarle: ¿A qué se debe que el 40 por ciento del plasma convaleciente no sirva para neutralizar el virus?
 Y mi segunda pregunta para usted doctor Alomía, bueno, respecto a las mascarillas N95, sabemos que su uso es exclusivo del personal médico, sin embargo, es común ver a personas en la calle que traen justamente estas mascarillas y que incluso también se pueden adquirir a través de redes sociales o en establecimientos irregulares por 30, 40 pesos.
 Entonces, sobre esto, quisiera preguntarle: ¿Cómo saber que una mascarilla N95 es original y si el uso de mascarillas que posiblemente podrían ser piratas podrían contribuir a la propagación de contagios de COVID-19?
 ---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Doctor.
+---
 SIMÓN KAWA KARASIK
+Bueno, lo que sucede es todavía tenemos mucho que estudiar y aprender del virus, cuando un virus, un organismo externo a nuestro cuerpo se pone en contacto con nuestro sistema inmunológico se despierta una respuesta por parte del sistema inmunológico, esta respuesta forma los anticuerpos que nos ayudan a defender a nuestro organismo en contra de estos agentes externos.
 Con el COVID-19 todavía estamos estudiando al momento del contacto en cuánto tiempo se producen los anticuerpos, durante cuánto tiempo se mantienen produciéndose y siguen en nuestro cuerpo a través de la respuesta inmunológica que se despierta y si los anticuerpos que formamos, y en diferentes etapas del tiempo que estuvimos en contacto con el virus, hayamos desarrollado la enfermedad o no hayamos desarrollado la enfermedad en muchos casos, si estos anticuerpos tienen la capacidad de neutralizar el virus o de neutralizar virus a futuro, y eso todavía lo estamos estudiando y lo estamos estudiando y lo estamos aprendiendo.
 No es únicamente un fenómeno que ocurra con el COVID-19, sino puede y ocurre con otras infecciones virales y entonces estamos en el estudio para poder determinar todas estas cosas todavía.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Rápidamente, como bien lo comenta, las mascarillas N95 deben de reservarse para el uso médico y no cualquier uso médico, porque no es de que toda atención médica a un paciente sospechoso confirmado de COVID requiera una N95.
 De hecho, la N95 está solamente indicada en aquellos procedimientos en donde se van a generar aerosoles.
 ¿Cuáles son los que más comúnmente suceden?
 Precisamente al momento de tomar la muestra, entonces esto es para las personas que toman la muestra de un paciente deben de usar el N95 y para aquellas personas que se responsabilizan o que proceden a intubar precisamente a los pacientes, es decir, cuando estamos con un contacto estrecho con la vía aérea de un caso sospechoso o confirmado de COVID es ahí donde se debe de usar el N95.
@@ -195,10 +206,24 @@ Saber si una mascarilla cumple con las características de ser N95, esto está r
 A lo mejor una prueba sencilla que cualquier persona podría realizar es que precisamente por la alta eficiencia que tienen esas mascarillas cuando nos las colocamos es muy poco el tiempo que podemos pasar con ellas, porque realmente la alta eficiencia hace que el intercambio que hay de oxígeno y de aire entre la mascarilla y las vías respiratorias disminuye.
 Por eso se usa solamente durante procedimientos muy cortos, si uno quiere estar usando una mascarilla N95 por un tiempo prolongado, digamos, más de 30 minutos o una hora, realmente va a sentir que le falta el aire, y ese podría ser un dato de que realmente la mascarilla esté teniendo la eficiencia que produce, más allá que podemos buscar en la información de Cofepris cuáles son aquellas marcas y modelos que en su momento aprobados con esa eficiencia.
 ---
+INTERLOCUTORA
+(Inaudible) podría propagar los contagios?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Definitivamente sí, porque si no están dando esta eficiencia, lógicamente no están entonces cubriendo lo que deben o dice que deben de filtrar, sin embargo, recordemos que la mejor manera de evitar los contagios es la sana distancia, el lavado constante de manos y el estornudo o el toser de etiqueta, eso es realmente lo que aporta mucha mayor eficiencia a disminuir la transmisión y, claro, el uso de la mascarilla precisamente cuando estemos en lugares concurridos en donde no puedo llevar a cabo estas tres actividades de una manera eficiente.
 Bueno, pues mucha gracias a todos, se nos acabó el tiempo por el día de hoy, pero mañana volveremos nuevamente a esta conferencia.
 Muchas gracias.
 ---
+INTERLOCUTORA
+¿Doctor Alomía, nos puede precisar de estas 300 mil pruebas cuántas quedan actualmente y cuándo llegan las otras 700 mil?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Si gustan les actualizo el dato mañana.
 En la última presentación quedaban 230 mil, si mal no recuerdo, y las que se van a comprar todavía es una adquisición que será para los siguientes meses, es decir, estarán llegando por lo menos en un mes o mes y medio más, dado que en este momento tenemos suficiencia de pruebas.
 Entonces, no estamos urgidos a que lleguen, más bien es para cubrir lo que falta del año y hasta el mes marzo del próximo.
+---
+INTERLOCUTORA
+Gracias.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Gracias a todos.

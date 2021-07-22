@@ -3,11 +3,13 @@ Presidencia de la República
 26 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Hola, muy buenas noches. Son las 19:00 en punto del miércoles 26 de agosto de 2020. Estamos en el Palacio Nacional de México y vamos a iniciar la conferencia de prensa diaria sobre el virus SARS-CoV-2.
 Hoy tenemos el informe técnico y un componente temático especial que nos comparte el Instituto Mexicano del Seguro Social; para ese propósito viene nuestro compañero y amigo, el doctor Mauricio Hernández Ávila, director de Prestaciones Económicas y Sociales de este instituto. Bienvenido, doctor.
 No les adelanto más que el tema. Nos va a hablar de la extensa plataforma y recursos de capacitación que tiene el IMSS, conocida como CLIMSS, Cursos en Línea del IMSS, sino en el aspecto también de la reactivación económica para entrenar a los miembros de distintas empresas privadas sobre los protocolos de seguridad sanitaria que se han establecido desde el inicio de la Nueva Normalidad, del proceso de Nueva Normalidad. Van a ver que está interesante. Gracias, Mauricio.
 Le pido entonces al doctor Alomía si presenta el informe técnico, enseguida la presentación temática y después abrimos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Vamos a iniciar la conferencia vespertina de esta noche con la actualización del escenario nacional. Estamos precisamente con la conferencia de hoy, han sido 180 las conferencias vespertinas que se han presentado para precisamente actualizar la evolución de la epidemia y el comportamiento de la misma a toda la población en México.
 Así también, nos encontramos en el día 88 de esta Nueva Normalidad, en la cual opera el semáforo de riesgo COVID y que hasta el momento ha permitido que las 32 entidades federativas puedan tener una apertura y un regreso de su población al espacio público de manera paulatina, de manera ordenada y privilegiando siempre la protección a la salud de la población.
@@ -28,17 +30,22 @@ Es un indicador que también vamos a estar dando seguimiento puntual porque cont
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Doctor Mauricio Hernández, si es tan amable de presentarnos.
----
-MAURICIO HERNÁNDEZ ÁVILA, DIRECTOR DE PRESTACIONES ECONÓMICAS Y SOCIALES del IMSS
+MAURICIO HERNÁNDEZ ÁVILA, DIRECTOR DE PRESTACIONES ECONÓMICAS Y SOCIALES del IMSS: Muchas gracias, subsecretario, muchas gracias por la invitación.
 Hay un pequeño video, si lo pueden presentar, por favor.
 ---
 VOZ HOMBRE
+Hola, te presentamos CLIMSS la plataforma de cursos en línea masivos del IMSS.
 CLIMSS es gratuita y está disponible para ti las 24 horas del día, los siete días de la semana, los 365 días del año, esto es porque los cursos son completamente automatizados y tú decides el tiempo que inviertes en ellos para concluirlos.
 Encontrarás cursos relacionados con el COVID-19, la salud a lo largo de la vida, promoción de la salud, enfermedades crónicas como diabetes e hipertensión, además de cursos de capacitación para el trabajo.
 Para acceder sólo debes registrarte e inscribirte en los cursos que sean de tú interés. Estamos seguros que en CLIMSS encontrará opciones que te ayudarán a mejorar tu bienestar.
 ---
+VOZ MUJER
+Gobierno de México.
+---
 MAURICIO HERNÁNDEZ ÁVILA
+Bueno, CLIMSS es la plataforma que hemos puesto en el Instituto Mexicano del Seguro Social al servicio de la plataforma de la Nueva Normalidad. En esta plataforma, verán ustedes un poquito más adelante, tenemos 100 mil empresas registradas y estamos, a través de estas 100 mil empresas estamos vigilando cerca de 10 millones de trabajadores.
 Esto es increíble porque representa casi el 50 por ciento de los trabajadores inscritos en el Instituto Mexicano del Seguro Social. Entonces, es un gran logro, creemos que es un gran logro porque está diseñada específicamente para estos cursos cortos en los que se requiere obtener información.
 Entonces, permítanme un poco presentarles los resultados. En relación a CLIMSS y COVID tenemos tres cursos que fueron para apoyar a los profesionales de la salud. Hay un curso, digamos, muy complicado, que es referente a cómo intubar y cómo manejar un paciente con un respirador; hay hasta alguno menos, digamos, técnico que es cómo prevenir el desgaste que se da; hay 13 cursos que están dirigidos a la población general.
 Entonces, ustedes pueden ver, a partir del 6 de abril pusimos en marcha todo sobre la prevención de COVID, ese curso lleva más de cinco millones de visitas y cerca de cuatro millones de graduados, ha sido fundamental.
@@ -80,15 +87,18 @@ Esto creo que es una de las lecciones aprendidas que nos deja COVID, nos ha deja
 Entonces, muchas gracias por su atención; subsecretario, muchas gracias por la invitación.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Mauricio Hernández Ávila, director de Prestaciones Económicas y Sociales del Instituto Mexicano del Seguro Social.
 Vamos a abrir entonces a preguntas y respuestas. Liliana Noble, de Pulso Saludable; Héctor, de Grupo Cantón; y Juan Carlos Machorro.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Gatell, tengo una pregunta para usted y una para el doctor Alomía, si me ayudan, por favor. Mi primera pregunta, doctor, quisiera saber en el tema de la vacuna, cuando ya haya una vacuna, hay muchos expertos que hablan de que no se tiene hasta el momento un plan de acción, el ABC puntual a seguir en materia de vacunación cuando ya se tenga, y ya se debería de estar trabajando en ello.
 Pero yo recuerdo que usted en alguna ocasión, si mal no recuerdo creo que fue el domingo, que habló de las restricciones de uso, dependiendo del uso que se le tenga que dar a la vacuna ahí se va a decidir.
 Entonces, mi lógica me hace entender que por eso no se tiene todavía un ABC y no se puede saber exactamente a quién se va a vacunar hasta que no se decida en los estudios finales para quien va dirigida la vacuna, si es así, y si estoy mal corríjame.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Sí, lo que usted dice es muy cierto.
 Aprovecho para retomar más ampliamente el tema de vacuna COVID. México está desde hace muchas semanas trabajando por tener un acceso temprano a las vacunas contra el COVID, esto es lo que están haciendo muchos países del mundo, en el caso mexicano tenemos la fortuna de tener muchos instrumentos institucionales que nos permiten procesar la información y hacer planes precisamente en ese sentido.
 Pero también tenemos la voluntad, voluntad política del gobierno de México, expresada ya por el propio presidente López Obrador de que todas las mexicanas y mexicanos que necesiten la vacuna la van a tener de manera gratuita.
 En ese sentido, se ha enfatizado el carácter universal de esta medida de acceso. El presidente ha comprometido que podemos tener hasta 25 mil millones de pesos, si es que se necesitaran, lo más probable es que el costo sería considerablemente menor, pero aún en un escenario de cobertura literalmente universal, en el sentido de que todas y cada una de las personas en México necesitaran la vacuna se podría tener los recursos financieros suficientes para acceder.
@@ -120,7 +130,11 @@ Para lograrlo, además de lo que ya comenté de este grupo especializado en pol�
 Está también el doctor José Ignacio Santos, nuestro secretario del Consejo de Salubridad, quien ha sido miembro de ese grupo asesor de la OMS en varias ocasiones y hoy es miembro del grupo asesor técnico de inmunizaciones para OPS para la región de América.
 Entonces, tenemos como mexicanas y mexicanos mucha solides institucional y toda la oportunidad de tener decisiones muy bien cuidadas, muy razonadas para beneficiar a la población.
 ---
+INTERLOCUTORA
+Una aclaración para que no haya confusiones. Cuando usted dice universalización no es sinónimo de que todos en todo el mundo, por lo menos los 128 millones de mexicanos que somos vamos a quedar vacunados, no es así, porque pudiera la gente tener esta creencia de esta falsa expectativa y después pudieran venir los reclamos de que no hay dinero, que no alcanzó, nos dijeron que nos íbamos a vacunar todos, pero no es así, ¿o sí?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, por decirlo, y espero que esta conferencia, después, cuando haya reclamos la podamos proyectar y decir que el 26 de agosto justamente dijimos eso.
 Efectivamente, la intención del gobierno mexicano y la decisión, y la capacidad, la instrucción que dio el presidente López Obrador es: ninguna persona que médicamente necesite la vacuna se va a quedar sin ella, en ese sentido es que se ha hablado de universal.
 El gobierno mexicano tiene el dinero, lo ha destinado ya, lo ha preidentificado para que ninguna persona en México que tenga una indicación médica de vacunación contra el COVID se quede sin ella, todas y todos van a tener acceso gratuito a la vacuna, en ese sentido es universal.
 Desde el punto de vista técnico nadie, ningún país en el mundo, ni tampoco la Organización Mundial de la Salud o la Organización Panamericana de la Salud han definido cuál es el esquema de vacunación necesario, podría no ser dirigido a todas las personas y todo depende de las calidades de las vacunas.
@@ -135,22 +149,29 @@ Pero en su momento se definirá si se hace todo con COVAX, parcialmente con COVA
 Gracias.
 ---
 INTERLOCUTORA
+Mi segunda pregunta. Doctor Alomía, tuve la oportunidad de platicar con una marca de laboratorios que ustedes de alguna manera han dado esta palomita, este check para hacer pruebas de PCR y ahora ya están incursionando en las pruebas de estos anticuerpos y justamente tienen un robot como el que ustedes tienen, el Cobas seis mil, algo así, no quiero inventar el número.
 Entonces, yo le quisiera preguntar, vale 150 pesos la prueba, pero, por ejemplo, a mí me que ya me hicieron esta PCR y seguramente a muchos que salimos negativos, hasta hoy, porque mañana podría cambiar el escenario si yo me pongo en alguna circunstancia que me pueda ser vulnerable al contagio, ¿vale la pena o cuál es la utilidad real de hacerse este tipo de pruebas?
 No sé si pudiera darnos una falsa seguridad y después pensar que no tenemos nada y andar por la vida, incluso ya sin cubrebocas y eso pudiera volverse un riesgo comunitario.
 Gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, con mucho gusto. De hecho, primeramente, digamos, hacer la aclaración. Las pruebas que hasta el momento el Indre ha validado y en su momento emitido, lógicamente una valoración comparativa de las mismas, solamente han estado en el marco de la reacción en cadena de la polimerasa, es decir, las pruebas PCR y son las únicas que hasta el momento tanto el Indre como la Secretaría de Salud recomiendan para la vigilancia epidemiológica y para el diagnóstico clínico; de hecho, este equipo que usted menciona, precisamente, hace este tipo de pruebas.
 Hasta el momento ninguna prueba serológica o basada, en su momento, en anticuerpos todavía ha sido revisada o validada por el Indre.
 Se han comentado en diferentes conferencias cuáles son todavía algunos de los limitantes de las pruebas serológicas, sobre todo por el tiempo que requieren las mismas para poder contribuir con alguna utilidad a través de su resultado, por eso no se recomienda ni para vigilancia epidemiológica, ni diagnóstico clínico porque sabemos que la elevación de los anticuerpos producto de la enfermedad tiende a ocurrir después o alrededor de los 10 días en adelante, lo cual lógicamente ya no es útil para los dos efectos que comentábamos.
 Se han valorado, sí, pruebas serológicas en el Indre, pero solamente en el marco de la intervención comunitaria que son los estudios de seroprevalencia, dado que en los estudios de seroprevalencia sí han demostrado tener una utilidad y lógicamente para poder utilizar kits para realizar este tipo de estudios se llevaron a valorar prácticamente cuatro kits diferentes, y se emitió una recomendación para las pruebas de seroprevalencia, pero estas se hacen precisamente en un ambiente controlado, digamos, porque es a través de un estudio, es a través de un protocolo de investigación básicamente, que de hecho está operando ya a partir desde hace dos semana el Instituto Nacional de Salud Pública, quien es el que está aplicando y llevando estas pruebas de seroprevalencia.
 Por lo mismo que el Indre realizó la validación y por la sinergia que hay entre estas instituciones, el Indre va a realizar en su momento, va a cruzar con los resultados, con los procesos de estas pruebas, pero solamente son en este marco.
 Entonces, en este momento todavía no hay una recomendación de realizarse pruebas serológicas. En la medida que se vayan teniendo más información, que nuevas metodologías estén disponibles y puedan ser evaluadas, se verá si producto de dicha evaluación se pudiera, sí, emitir alguna recomendación al respecto, pero hasta el momento todavía no hay ninguna.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Seguía Héctor García, Grupo Cantón, periódico Basta.
+---
 PREGUNTA
+Si subsecretario, Héctor García, de Diario Basta y Grupo Cantón.
 Entonces, quiero entender que el cambio de parecer del gobierno mexicano para realizar o aceptar pruebas, más bien, de las vacunas rusas es precisamente por este plan de estar en todos lados del mundo de aquél país que está produciendo esta vacuna. Esa sería una pregunta.
 Y la otra es nada más un comentario, ya platicó algo de eso, pero hay una información que está corriendo de que para el próximo año una empresa, una farmacéutica mexicana, Liomont, planea producir 250 millones de dosis de la potencial vacuna de COVID-19, pero que no saben cuánto que le correspondería a nuestro país. Coméntenos algo de eso, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias, Héctor. Esto complementa justo lo que platicábamos con Liliana.
 Sobre la vacuna rusa no hay un cambio de parecer, porque nunca hubo un parecer en contra o a favor, cuando salió la noticia en voz del propio premier ruso de que tenía la vacuna aquí me preguntaron que cuál era nuestra opinión. Lo único que expresé en el momento es que nos sorprendía, nos llamaba la atención, igual que en su momento a la Organización Mundial de la Salud, porque no había conocimiento público sobre las fases de desarrollo de esta vacuna, a diferencia de vacunas de otros países, pero no había prejuicio alguno sobre la calidad de la vacuna, simplemente la información no había estado a disposición pública.
 Hoy ya se conoce un poco más, precisamente el Conacyt ha estado en vinculación con sus contrapartes científicas en Rusia y tenemos una información bastante detallada sobre la tecnología involucrada en esta vacuna. No hay evidencia directa de los estudios clínicos, pero sí de los principios de composición de esta vacuna, entonces no hay prejuicio contra ninguna vacuna.
 Lo que se ha anunciado por parte del canciller, por parte de Relaciones Exteriores, que se ha hablado de dos mil dosis de vacuna que podrían estar disponibles para México para hacer ensayos clínicos es parte de este trabajo de exploración.
@@ -163,6 +184,7 @@ Y esta decisión no determina en modo alguno el esquema de vacunación de Méxic
 Gracias. Juan Carlos Machorro, AM Querétaro.
 ---
 PREGUNTA
+Sí, gracias, doctor. Buenas noches. Juan Carlos Machorro, de AM, de Querétaro.
 Doctor, el doctor Alomía ayer comentó una cuestión que también me gustaría tener su opinión sobre esta que se ha dado a conocer de las personas que están siendo… bueno, que se han reinfectado.
 Sin ahondar tanto en ese tema, pero si estos individuos siguen creciendo a nivel internacional y se presentan más casos, como comentaba el doctor Alomía, ¿esto modificaría esto, el esquema de vacunación? porque bueno, usted también lo ha dicho, puede ser una vacuna de un año, puede ser una de 10 años, pero si se está viendo que ahorita se está reinfectando la gente, esto puede detener estas factibles producciones de vacuna que todavía no están, son prevacunas no sé si se le pueda decir así, o sea, ¿esto lo puede modificar?
 Y rapidísimo, una segunda. Reiniciaron las clases on line y se tiene esta nueva asignatura de Vida Saludable, donde también se habla de COVID a los alumnos de nivel básico.
@@ -170,6 +192,7 @@ No estoy diciendo que esté mal, pero si ya están inmersos en un contexto que 2
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Juan Carlos, por ambas preguntas. Y qué bueno que estamos hablando en secuencia de vacunas y todos los aspectos.
 Esto que usted dice y que ayer explicó con cierto detalle el doctor Alomía, coincido con lo que dijo ayer el doctor Alomía completamente, él ya explicó ayer que hubo una noticia que circuló en medios internacionales y nacionales sobre un estudio de un caso, un caso, de un hombre de un hombre de 33 años que en Hong Kong primero tuvo COVID en el mes de mayo, tuvo una forma grave, estuvo hospitalizado y se dio de alta y posteriormente apareció reinfectado con COVID porque se identificaron síntomas compatibles y en la garganta tenía el virus SARS-CoV-2.
 Pero de manera específica se analizó con una metodología de secuenciación genética profunda la cepa o la variante que le había infectado en el caso uno y en la situación dos y se encontró que eran diferentes.
 Entonces, esto permitió disipar un misterio científico que permanecía sobre si realmente eran reinfecciones o se trataba de la persistencia de fragmentos del material genético RNA del virus en la garganta.
@@ -185,11 +208,13 @@ No vemos un peligro en que las personas infantes, niñas y niños pudiera hacerl
 Nos da tiempo de una última pegunta, Arturo, por favor, Pie de Página.
 ---
 PREGUNTA
+Gracias. Arturo Contreras, de Pie de Página. Buenas noches.
 Perdón por la insistencia en el tema sobre los trabajadores de la salud que fueron contratados temporalmente por estos seis meses para la pandemia, ya se van a acabar los seis meses y su contrato temporal pues no sabemos si va a continuar o va a seguir. ¿Qué va a pasar con ellos?
 Y sobre el proceso de basificación de todo el personal que se tenía en situación precaria ¿qué porcentaje se lleva?, ¿se ha avanzado o no se ha avanzado?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Nada qué perdonar; al contrario, insistan usted y todos siempre que sea necesario.
 Efectivamente, tenemos un conjunto de trabajadoras y trabajadores del sector salud, espero que mañana vamos a lograr presentar el informe que anunció el doctor Alcocer el martes con detalles de toda esta inversión que incluye la inversión en las contrataciones.
 Son un poco más de 50 mil en su conjunto, médicas y médicos son un segmento, una proporción que ya comentaremos mañana.
 La contratación que se hizo es una contratación temporal dado que necesitábamos responder de manera inmediata a COVID y había que tomar una decisión ágil, como se tomó, para quitar este déficit, esta carencia de personal de salud. Recuerden que históricamente México ha tenido en años recientes una carencia de más de 240 mil trabajadoras y trabajadores de salud, 50 mil fueron lo que se aportó ahorita.
@@ -198,3 +223,9 @@ Además, tenemos en el horizonte justamente este proceso de basificación que ya
 Precaria quiere decir que año con año se les recontrata, se les suspende un mes para que no generen derechos laborales, no tienen prestaciones económicas y sociales, no generan ahorro para el retiro, etcétera. Esto es directa y claramente violatorio de la Ley Federal de Trabajo, ahora ya me estoy metiendo en el campo de la secretaria Luisa María Alcalde, pero es violatorio del derecho al trabajo y de lo que está estipulado en el artículo 123 de la Constitución y de la justicia social.
 Y en nuestro gobierno estamos muy orgullosos de tener un empeño claro de justicia social y por esa razón, y además de que un sistema de salud es más robusto si tiene estabilidad en el empleo, está el proceso de basificación, mismo que se interrumpió temporalmente ahorita durante el COVID, precisamente para poder contratar a estos trabajadores personales temporales, pero que se reactivará el próximo año, en 2021, con el nuevo paquete fiscal, con el nuevo presupuesto de 2021, y el Insabi, Instituto de Salud para el Bienestar, estará avanzando en el plan de basificación. Muchas gracias.
 Carlos Hernández, de Unomásuno, son las 20:01, ya no nos da tiempo, pero si quiere, mañana empezamos con usted.
+---
+MAURICIO HERNÁNDEZ ÁVILA
+Sólo que sea para el doctor Hernández.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿No es para el doctor Hernández? Muchas gracias.

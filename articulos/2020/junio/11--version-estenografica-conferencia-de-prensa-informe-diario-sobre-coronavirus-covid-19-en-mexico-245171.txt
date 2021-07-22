@@ -3,10 +3,12 @@ Presidencia de la República
 11 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. 19:00 horas en punto del 11 de junio, jueves, de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México, vamos a iniciar la conferencia de prensa diaria sobre la pandemia de COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy sólo vamos a tener el informe técnico y vamos a abrir a preguntas y respuestas, que ayer quedaron varias pendientes. Carlos quedó pendiente, Daniela. Hoy va a haber tiempo para preguntas.
 Entonces, le pido al doctor Alomía si presenta, por favor, el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Bienvenidos nuevamente a la conferencia vespertina, la número 104 desde que iniciaron las mismas, estamos en el día 11 de la Nueva Normalidad, caracterizada precisamente por el semáforo de riesgo COVID, que es el que marca las acciones que se pueden llevar a cabo o aquellas que deben de estar suspendidas en función del riesgo que hay para cada una de las entidades federativas.
 Si vemos la siguiente diapositiva. Recordamos que durante esta semana las 32 entidades federativas están en el máximo nivel de riesgo, que es el rojo; sin embargo, recordemos que el día de mañana, viernes, estaremos presentando el nuevo mapa que en su momento tendrá vigencia para la siguiente semana.
@@ -20,7 +22,7 @@ Los juegos profesionales lo pueden hacer con estadios a puerta cerrada, es decir
 Son precisamente los gimnasios y spas, los cines, los teatros, los museos, todo tipo de evento cultural que pudiera tener más de 500 localidades, los centros… menos de 500, perdón, los centros comerciales, los lugares de culto, todo el tipo de congregación o reuniones masivas están lógicamente suspendidas y también los bares.
 Pasemos entonces ahora sí a la actualización de los números a nivel internacional. Continúa una estabilidad en el sentido de que se ha mantenido la pandemia activa en un 23 por ciento, suben un poco los números, pero siguen representando un 23 por ciento y la proporción de las Américas continúa cerca de ese 55 por ciento que hemos visto ya, prácticamente durante los últimos siete, ocho días.
 Entonces, mucha estabilidad, pero una estabilidad que tampoco ha representado una disminución en los casos, más allá de la región de Europa, que sí vemos que se ha venido contrayendo, de haber estado en un 25, un 20, un 17, ya se encuentra en un 15.7 por ciento.
-Veamos ahora la actualización de las cifras para la  República mexicana, 133 mil 974, son los casos confirmados de COVID-19, es decir, personas que presentaron signos y síntomas compatibles con la enfermedad, fueron muestreados y su prueba salió positiva al virus SARS-CoV-2.
+Veamos ahora la actualización de las cifras para la  República mexicana, 133 mil 974, son los casos confirmados de COVID-19, es decir, personas que presentaron signos y síntomas compatibles con la enfermedad, fueron muestreados y su prueba salió positiva al virus SARS-CoV-2.
 Pero así también, 191 mil 465 personas que pasaron por este mismo procedimiento salieron negativas a la prueba, quiere decir que sus síntomas respiratorios muy probablemente eran a consecuencia o a causa de algún otro tipo de virus o muy poca fracción de ellos también a lo mejor por alguna infección bacterial.
 En total, hasta el momento, se han estudiado, han ingresado a protocolo de estudio 381 mil 139 personas y también lamentablemente han fallecido hasta el momento 15 mil 944 personas a consecuencias de las complicaciones de COVID-19.
 Si bien es cierto, 133 mil 974 es la carga acumulada de personas que han dado hasta el momento positivos al virus, lo que se considera como la epidemia activa en México es sólo un 15 por ciento de estas personas, que son 20 mil 832, que son precisamente las que iniciaron con signos y síntomas en los últimos 14 días.
@@ -30,7 +32,7 @@ En la siguiente escala está Baja California, Tabasco, Veracruz y Sinaloa en can
 Veamos la siguiente diapositiva, que ahora sí nos muestra la epidemia activa en México. También una distribución geográfica por colores en función de los rangos, aquí vemos que estos colores se han mantenido prácticamente similares. Vemos a Chihuahua, que regresa nuevamente al color verde.
 Y decíamos, como es una ventana móvil, porque solamente estamos registrando en este caso los casos en los últimos 14 días, entonces los estados pueden ir cambiando de color a más oscuro o más claro, dependiendo si en esos últimos 14 días se incrementó o disminuyó la carga de casos que van acumulando para ese periodo.
 En la siguiente diapositiva podemos ver precisamente ese orden. Ciudad de México y México continúan aun en la epidemia más reciente quitando ya la carga acumulada y quedándonos solo con los últimos 14 días, continúan con esta mayor concentración de casos también en la epidemia reciente seguidos de ahora Jalisco, Tabasco y Guanajuato en esas posiciones.
-Veamos la siguiente diapositiva, en donde ahora vemos el mapa, pero con una distribución geográfica de la tasa de incidencia por 100 mil habitantes. Para efecto de estos últimos 14 días, 16.3 personas en la  República mexicana por cada 100 mil habitantes tienen COVID-19 y en el mapa las entidades federativas que tengan los colores más oscuros son los que en los últimos 14 días lógicamente tienen la tasa de incidencia acumulada más elevada, lo que significa la transmisión más reciente, la mayor afectación también que puede estar sucediendo entre la población en función de la transmisión.
+Veamos la siguiente diapositiva, en donde ahora vemos el mapa, pero con una distribución geográfica de la tasa de incidencia por 100 mil habitantes. Para efecto de estos últimos 14 días, 16.3 personas en la  República mexicana por cada 100 mil habitantes tienen COVID-19 y en el mapa las entidades federativas que tengan los colores más oscuros son los que en los últimos 14 días lógicamente tienen la tasa de incidencia acumulada más elevada, lo que significa la transmisión más reciente, la mayor afectación también que puede estar sucediendo entre la población en función de la transmisión.
 Si vemos la siguiente diapositiva, las barras verdes son, igualmente, esta tasa de incidencia acumulada de los últimos 14 días.
 Pero además, lo hemos venido comentando, ahora tenemos unas barras azules que día con día nos están ayudando a comparar esta tasa de incidencia de los últimos 14 días con la tasa de incidencia que había hace dos semanas para que entonces podamos ver si hay alguna diferencia.
 En la siguiente diapositiva podríamos notar un poco de manera más directa esa diferencia en proporción precisamente de la tasa de incidencia de los últimos 14 días comparada con la de hace dos semanas. Prácticamente podemos ver que en el rango de más 20, menos 20, estarían prácticamente representando una estabilidad, estabilidad que pudiera en su momento progresar hacia un incremento o también pudiera progresar hacia un descenso. Entonces, es importante estar dando un seguimiento.
@@ -55,15 +57,21 @@ El IMSS concentra un poco más de la mitad, la secretaría un 30 por ciento de l
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Gracias, doctor José Luis Alomía Zegarra, director general de Epidemiología.
 Vamos a empezar ahora por este lado con usted, Pulso Saludable, y ahorita nos vamos con Carlos.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Gatell, ayer decía la doctora Oliva sobre los asintomáticos. Perdón que insista tanto al respecto, pero no sé cómo van a identificar, cómo van a diagnosticas a alguien que no tiene un síntoma evidente.
 Y lo menciono también porque salió una nota que algunos del equipo del maestro Zoé son asintomáticos, pero son positivos. ¿Cómo los encontraron entre todos estos pacientes que sí muestran síntomas?
 Y una segunda pregunta, si me lo permite. Doctor Alomía, ¿estos 55 mil 700 sospechosos de cuántas semanas, meses, días de retraso estamos hablando en la entrega de estos resultados?, que entendería que de alguna manera van a alterar las cifras, es decir, siempre se presentan algunas prospecciones, pero no son las finales y esto lo sabríamos si algún día termina este patógeno, y no sé si está bien decirle patógeno a este virus que tanto odiamos todos.
 Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Si quieres, adelante, contesta esa y ahorita hablamos.
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Sí, claro, cómo no.
 De hecho, esta distribución de la pregunta específica precisamente la podemos ver en la gráfica de la curva epidémica, es decir, estos 55 mil 700 casos que todavía están pendientes de un resultado están prácticamente concentrados, el 85 por ciento de ellos, o sea, la gran mayoría en los últimos 10 días. Los últimos 10 días es más o menos el promedio que hemos estado teniendo e inclusive ha disminuido un poquito en las últimas semanas de lo que se demora en conocer un resultado.
 Ahora, es importante mencionar que el demorar conocer un resultado no solamente representa el periodo que demora una unidad y un laboratorio en poder detectar, notificar y confirmar el caso; dado que están registrados por fecha de inicio de síntomas, aquí también se incluye la demora o el tiempo que pasó para que la persona demandara la atención médica.
 Si la persona inició con síntomas hoy, pero demoró dos, tres o cuatro días para demandar atención médica, entonces aquí ya hay tres o cuatro días que están distribuidos en la gráfica que no había una oportunidad de emitir un resultado porque la persona todavía no había demandado atención médica.
@@ -76,13 +84,21 @@ El laboratorio por estándar se toma tres días, su estándar es emitir un resul
 Entonces, si sumamos el periodo en que la persona demandó la atención, si fue o no muestreada el mismo día que demandó la atención, que eso podría tener un retraso de uno o dos días más, el tiempo que demora la muestra en llegar al laboratorio y el procesamiento y la emisión del resultado, pues podemos, en algunos casos, llegar a esos 10 días y en otros casos pueden ser menos.
 Y de esto no hay un solo estándar, sino más bien es una dinámica que depende mucho de las entidades federativas, la distancia de las unidades y cómo se comporta también la demanda de atención de las personas.
 ---
+INTERLOCUTORA
+Y por ejemplo, si la prueba sí la tomaron bien, pero no la cuidaron, la transportaron adecuadamente, ustedes al momento de procesarla y que salen estas copias del ADN, del virus, ¿podría salir un falso positivo?, ¿eso puede pasar?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Falsos positivos no, porque la PCR tiene una especificidad muy alta, es prácticamente del 100 por ciento, es decir, si un PCR da un positivo.
 Lógicamente, las fases preanalíticas, así se le dice a este periodo que pasa entre que la muestra es… desde que la muestra es tomada hasta que llega al laboratorio hay toda una serie de lineamientos y estándares que deben de seguir las unidades, la muestra debe de ir siempre en red de frío desde que se toma, puede almacenarse en la unidad, pero debe de ser en red de frío, al enviarse debe de ser en red de frío y una vez que el laboratorio la recibe la procesa en ese mismo contexto.
 Entonces, lógicamente siempre el control de calidad que realizan los laboratorios de las muestras que se envían tienen que ver, precisamente, con verificar toda esta cadena.
 Si la muestra no está en buenas condiciones o ya sea porque no llegó en red de frío, la muestra es rechazada, la muestra no ingresa y eso también en un momento es parte de la dinámica del tema de los resultados.
 Si se está en oportunidad, entonces se pide que se tome otras muestras y esto inicia otra vez todo un proceso de tiempo.
 ---
+INTERLOCUTORA
+Gracias.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Ahora, sobre los portadores asintomáticos. Esto todavía permanece en el incómodo mundo de la incertidumbre, no existe una resolución científica de consenso sobre el significado de las personas en quienes se encuentra una prueba positiva y no tienen síntomas.
 Hace unos pocos días una de las voceras técnicas de la Organización Mundial de la Salud, la doctora María Van Kerkhove hizo un comentario que resonó en los medios mundiales, que dijo que era muy rara la transmisión por parte de personas asintomáticas y pocas horas después se retractó la propia organización y luego hubo señalamiento en otro sentido.
 Más allá de reprocharle a la doctora Van Kerkhove yo creo que lo que queda claro es la incertidumbre, no hay una resolución, ese es el estado del conocimiento, es todavía incompleto.
@@ -105,13 +121,18 @@ Si al final esto resulta en hacer una, dos, tres, 300, 300 mil, 800 mil, 10 mill
 Esta mañana pensaba en una analogía muy simple, no tiene relación alguna con la enfermedad, pero es como si en un indicador sobre educación, la educación pública, pensáramos que el número de lápices comprados por un sistema educativo es la meta. No puede ser, no tiene sentido. Si los 10 millones de lápices o 100 millones de lápices acaban en la basura o se mal utilizan, de nada me sirve contabilizar 100 millones de lápices, lo relevante es cuántos estudiantes niños, niñas, adolescentes, etcétera se van a beneficiar de tener un instrumento de trabajo que es un lápiz ¿no?
 Es un ejemplo muy simple, lo sé, casi fuera de lugar, pero para ilustrar cómo esta percepción de que la meta es hacer cosas cuando lo relevante es la consecuencia que tiene hacer las pruebas es importante no perderlo de vista.
 ---
+INTERLOCUTORA
+La cantidad no es calidad.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La cantidad se puede… No hay un límite, eso también quiero precisarlo, porque a lo largo de todos estos meses ha habido una idea completamente fabricada, falsa, falsa, totalmente falsa de que tenemos una decisión de no hacer pruebas por cualquier razón.
 Hay quien dice que porque queremos tapar el sol con un dedo y tener pocos números, hay quien dice que porque no tenemos dinero, hay quien dice que por cualquier otra razón. Todo eso es absurdo, es falso.
 Si acabamos haciendo más pruebas, que el país que en este momento tiene más pruebas, no pasa absolutamente nada, pero lo relevante es: ¿para qué se van a usar las pruebas?, ¿qué sentido tiene hacer las pruebas?
 Si no hay una acción que deriva de la práctica de la prueba, es un desperdicio. Y puedo decir además, eso ya saldrá poco a poco a la luz, que varios de los países que hoy se usan, por lo menos en México, como ejemplo de que hay que hacer ese número de pruebas, ya irá quedando claro que una proporción muy importante de esas pruebas no tuvieron una consecuencia de una decisión, ni para la persona de la que se tomó la prueba ni para la salud pública, y por lo tanto fueron un desperdicio.
 Olinka, todavía no; Daniela Pastrana que ayer quedó pendiente y Carlos.
 ---
 PREGUNTA
+Gracias. Buenas noches.
 Ayer hablaba de las curvas por estado, vimos unas que sorprendentemente estaban bien como Veracruz y Guerrero, que es donde pensamos que podía haber problemas, pero le quería preguntar de dos que no entiendo o más bien quisiera ver cuál es el diagnóstico que tienen.
 Uno es Sinaloa, que es uno de los primeros cuatro estados donde hubo los primeros brotes, Sinaloa de hecho es el primer contagio y que vemos que simplemente va para arriba otra vez. Entonces, quería saber cuál es el diagnóstico que ustedes tienen. ¿Qué pasó o qué ha pasado en Culiacán, en Mazatlán?
 Y el otro es el caso del Valle de México, con el programa que nos entregaron y ahí tengo dos dudas:
@@ -120,6 +141,7 @@ Y también ¿qué tanto…?, o sea, ¿cuál es el tiempo que se requiere para qu
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias, Daniela Pastrana, de Pie de Página.
 Qué útiles estas preguntas, porque son... tienen un sentido técnico, pero además son relevantes de identificar por parte de la población que será partícipe de la experiencia, finalmente, todas estas intervenciones de salud pública lo que hacen es modificar la epidemia, pero en la medida en que las personas, la ciudadanía se involucra.
 Lo decía ayer la doctora Oliva López Arellano, secretaria de Salud de la Ciudad de México, y coincidimos completamente con ella, que esto es un asunto de corresponsabilidad, de coparticipación porque, por ejemplo, la detección de síntomas depende de que la persona que esté atenta a los síntomas.
 Y a su vez por eso es importantísimo que las personas conozcan cuáles son los síntomas de COVID: fiebre, tos, dolor de garganta, dolor de cabeza, otros, como escurrimiento de la nariz, enrojecimiento de los ojos, fatiga, fatiga generalmente de inicio súbito, de un momento para otro, dolor muscular, dolor de articulaciones, somnolencia también puede ser.
@@ -130,7 +152,11 @@ Si es una persona que además tiene más de 60 años, bueno 60 y más, que tiene
 Ahora que empecemos o empiece la Ciudad de México con nuestro apoyo también este programa se va a requerir que las personas estén muy activas, por ejemplo, a través del 51 515 mandar un mensaje COVID-19 y es una plataforma interactiva a través de Locatel que permite que se le dé orientación a la persona; entonces, desde la comodidad del sitio donde se encuentre, si tiene un teléfono que transmita mensajes lo puede lograr.
 Pero bueno, regresando a su pregunta o sus preguntas, ahorita contesto lo de Culiacán, las curvas y demás, pero primero quisiera abordar este tema de la idea de la prevención que decía usted.
 ---
+INTERLOCUTORA
+Sí, lo del Estado de México.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Y el Estado de México.
 Entonces aquí necesitamos que la zona metropolitana del Valle de México funcione como una sola unidad. Decíamos ayer, aunque son dos estados libres y soberanos con unos claros límites territoriales, funcionalmente la movilidad poblacional es tan grande que no se reconoce frontera alguna, la dependencia económica es tan grande que no se reconoce frontera alguna.
 Pero afortunadamente la cooperación entre los dos gobiernos, el de la Ciudad de México a cargo de la doctora Claudia Sheinbaum y el del Estado de México a cargo del gobernador Alfredo del Mazo es tan buena que desde hace meses se instaló un comando metropolitano en donde están coordinados las dos personas titulares del Poder Ejecutivo, la doctora Sheinbaum y el gobernador del Mazo y también sus equipos de trabajo.
 Y vemos con mucho optimismo la oportunidad de que este programa que hoy presentó la Ciudad de México, bueno en estos días también involucre al Estado de México y yo confío, he hablado muchas veces con el gobernador del Mazo y mi apreciación siempre ha sido muy positiva sobre el involucramiento que él tiene, el conocimiento del tema y lo positiva que es su actitud respecto a actuar y anticiparse, innovar en la respuesta; lo mismo su secretario de Salud, el doctor Gabriel O´Shea, que por cierto hoy anunció que tiene COVID, le deseamos una pronta recuperación y también está muy involucrado.
@@ -142,21 +168,37 @@ Y me consta que en Sinaloa él ha actuado muy oportunamente hacia cada uno de lo
 Entonces, la expectativa ahí es que también el estado se podría beneficiar de reforzar algunas de las intervenciones. Justo el martes platiqué con el gobernador Ordaz y platicábamos sobre oportunidades, por ejemplo, en centros comerciales, en plazas públicas que podrían ayudar a reducir la movilidad y reducir los contagios.
 Y había una tercera.
 ---
+INTERLOCUTORA
+¿Cuánto tiempo es para considerar que ya es una tendencia sostenida?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Tiempo pertinente para evaluar las tendencias sostenidas. El criterio es relativamente arbitrario y procede de un tiempo referencial de la epidemiología aplicada, y es considerar dos periodos de incubación.
 Entonces, el periodo de evaluación sobre la tendencia considera, se considera para cada enfermedad en específico. En el caso de COVID, el periodo de incubación medio es de seis a siete días, que puede ir desde cuatro hasta 10 y luego ya mucho más raro que sea más corto o más largo.
 Entonces, considerando siete días, duplicamos el periodo de incubación dos veces, es 14 días, y entonces consideramos que una tendencia es reconocible cuando ya tenemos durante todo ese periodo la misma orientación de la ocurrencia, ya sea que esté en una meseta, como el caso del Valle de México que ya llevamos casi 22 días de meseta, habíamos considerado un periodo de 18, pero sumando unos cuatro que ya venían en esa tendencia, consideramos hoy que hay 22, y en otros casos ya hay 14 días continuos o más en descenso. Así es como lo evaluamos. Gracias.
 Carlos Guzmán.
 ---
 PREGUNTA
+Qué tal, doctor Alomía, doctor Gatell. Carlos Guzmán, de ABA Noticias.
 Tres preguntas. La primera relacionada con lo que mencionaba de las redes sociales y que describía hace muchísimos años Ikram Antaki en su libro El país que no quería crecer, esta cuestión de que la gente no lee y lee mucho menos ciencia.
 Desgraciadamente en redes sociales las cosas se viralizan demasiado. Ayer le consultábamos, después de la conferencia de medios, sobre un medicamento que supuestamente médicos piden a Cofepris que se libere en las aduanas, que se llama tocilizumab, que es de, si mal no recuerdo, de Roche.
 ¿Qué tan factible es este medicamento hoy de moda que supuestamente es el que es auxiliar para pacientes con COVID, con coronavirus?
 La segunda, si nos puede hablar el por qué en el caso de la Ciudad de México se incluyó a parte del acetaminofén, el paracetamol, se incluyó otro medicamento que estábamos viendo ayer con la doctora Oliva, si no mal recuerdo es el tipo Alka Seltzer o algo así.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ácido acetilsalicílico.
+---
 INTERLOCUTOR
+Ácido… Y la tercera si nos podía hablar un poco del por qué le comentó la doctora Oliva o alguna otra instancia en los centros de salud que se toman las muestra para pacientes COVID, a este personal médico, de enfermeras, de infectólogos que están en estos centros de salud, no se les incluye en el bono COVID.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿No se les incluye en qué?
+---
+INTERLOCUTOR
+No se les está incluyendo en el bono COVID.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Correcto.
 Vamos a la primera, la tocilizumab, hablemos de tocilizumab. Tocilizumab es un medicamento relativamente nuevo, todavía tiene vigente una patente, efectivamente de laboratorio Roche. Es un medicamento que, para decirlo en términos simples, interfiere con el proceso de inflamación, hay una sustancia que es parte del proceso de inflamación, se llama interleucina 6, y desde hace varios años que se descubrió o se inventó este medicamento, se identificó que, si se bloquea la acción de esta interleucina 6 al interferir con el receptor en las células, entonces la respuesta inflamatoria baja.
 Y se encontró desde el inicio, o esa fue la indicación médica con la que se diseñó este fármaco para la artritis reumatoide, después se extendió a la artritis reumatoide juvenil, que es una forma un poco más agresiva que, como el nombre indica, ocurre en los jóvenes, las jóvenes.
 Después la enfermedad de Castleman y varias otras enfermedades que tienen un componente de autoinmunidad. Ese es su uso actual, tiene un registro sanitario en varios países con esa naturaleza.
@@ -178,24 +220,36 @@ Y esto podría parecer una trivialidad, pero no lo es, es uno de los elementos e
 Y la nota de cautela es contundentemente podemos decir no existe el nivel de evidencia científica derivado de estudios comparativos como para considerar a tocilizumab ya como un estándar de tratamiento, por más de que haya descripción clínica no comparativas donde hay personas que lo han utilizado y han tenido una buena recuperación. Ese es el estado actual del producto.
 Y quien quiera que se haya quedado con la idea de que Cofepris lo está obstaculizando, sepa que no es el caso y si ha contribuido a propagar esta noticia, que es falsa, le suplicamos muy atentamente que haga lo propio, que sería seguramente asentado en una buena ética, que desmienta esta desinformación.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Y también hay observaciones clínicas de que el COVID puede tener un componente importante de trombosis, de coagulación en los pequeños vasos sanguíneos y se ha considerado que podría ser benéfico y no necesariamente es perjudicial, dado el margen de seguridad de este medicamento, que se usara en fase tempranas, sobre todo en personas adultas mayores.
+INTERLOCUTOR
+El ácido acetil salicílico.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ácido acetilsalicílico. Este es Aspirina, es un sinónimo de Aspira o es el nombre químico de la aspirina, hoy podemos decir la marca, porque ya no tiene patente, es un medicamento muy antiguo, tiene más de 120 años, se usó originalmente y se sigue usando para fiebre, el dolor, la inflamación, pero también se usa desde hace muchísimo tiempo como un medicamento que interfiere con la agregación de las plaquetas y por lo tanto con el proceso de coagulación.
+Y también hay observaciones clínicas de que el COVID puede tener un componente importante de trombosis, de coagulación en los pequeños vasos sanguíneos y se ha considerado que podría ser benéfico y no necesariamente es perjudicial, dado el margen de seguridad de este medicamento, que se usara en fase tempranas, sobre todo en personas adultas mayores.
+---
+INTERLOCUTOR
+Y sobre la cuestión del bono COVID.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Del bono COVID hoy hay que explorarlo, el bono COVID lo implantó el Instituto Mexicano del Seguro Social para el contexto administrativo del Seguro Social y los distintos sistemas estatales de salud, algunos han explorado alternativas análogas, pero creo que todavía falta por definirlo.
 Alfonso y luego Juan, si nos da tiempo.
 ---
 INTERLOCUTOR
+Buenas noches. Poncho Gutiérrez.
 Dos preguntas, a ver si alcanzamos. La primera, que me hace pensar justamente lo de la aspirina, ¿por eso es que no se recomienda en lugar de paracetamol para dolor de cabeza?, ¿por este efecto de que evita la coagulación de la sangre?
 Es una pregunta que me acaba de surgir, porque estuve escuchando que en lugar de paracetamol algunas personas querían aspirina y se les decía que no. No sé si por ahí va esa teoría.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, no tiene relación con eso, la Aspirina o el ácido acetilsalicílico, a pesar de sus enormes bondades que dio durante más de 100 años ciertamente tiene algunos efectos secundarios no despreciables, uno de ellos es el riesgo de sangrado del tubo digestivo, en particular sangrado del estómago, porque a su vez el mecanismo de acción de la Aspirina interfiere con la producción de una sustancia protectora de la mucosa del estómago, le llamamos mucosa a la cobertura interna de algunos órganos o de muchos órganos y en este caso eso aumenta el riesgo de sangrado, de gastritis hemorrágica y eso es peligroso, sobre todo en adultos mayores.
 Es la razón por la que preferimos recomendar en México y en el mundo para el dolor de cabeza y la fiebre y el dolor en general Paracetamol, un sinónimo es acetaminofén.
 ---
 INTERLOCUTOR
+Muchas gracias.
 Y la segunda pregunta, en redes sociales está circulando una inquietud que a veces más que pregunta es hasta en forma de meme, esta idea de que el doctor Gatell dijo que la siguiente semana es el pico de la epidemia por octava vez ¿no?, y digo el pico, sólo puede haber un pico, no puede haber ocho.
 Si nos puede aclarar a qué se refiere con esto para dejarlo bien explicado de una vez por todas. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto lo vuelvo a explicar. No sé si va a quedar completamente satisfechos quienes piensan esto, pero lo trataré de hacer muy breve.
 Aplanamiento de la curva. Aplanamiento de la curva identificamos que si comparamos lo que podría haber ocurrido y hay métodos matemáticos, sólidos, rigurosos, reconocidos y utilizados en muchísimos países del mundo desde hace más de 25 años de la epidemiología matemática para identificar escenarios, lo que habría ocurrido.
 Y sabemos lo que habría ocurrido sin intervenciones, sin la Jornada Nacional de San Distancia, si no se hubiera hecho en esa fecha específica, si se hubiera hecho con otras modalidades.
 Y eso nos permite saber que sin esas intervenciones o practicadas de otra manera incluyendo la fecha en la que se puso en práctica, hubiéramos tenido una curva epidémica muy alta, muy alta es que hubiera llegado a 40 mil personas enfermas en un día, el día máximo en el Valle de México. Parte de la confusión surgió que se omitió recibir este mensaje en el Valle de México.
@@ -209,3 +263,15 @@ Que el pico no ocurriera en abril, sino que ocurriera en el Valle de México el 
 Que la cantidad absoluta de casos probablemente va a ser semejante a la que habríamos tenido en esa megacurva epidémica, eso está descrito en la teoría de la mitigación comunitaria.
 La cantidad absoluta de casos puede ser parecida. A veces se ha planteado que es 10 por ciento menos, pero en general es la misma, pero en lugar de que ocurra en 12 semanas ocurre en muchas semanas. Y recordarán que hace mucho tiempo yo dije: Preparémonos para una epidemia larga, y hablé de septiembre, octubre, pues esto es lo que nos está ocurriendo.
 Si tomáramos el periodo completo desde el 28 de febrero, fecha del primer caso, al escenario predicho, todavía no llegamos ahí, no se puede constatar, pero esa es la predicción de octubre, un punto medio estaría en la primera quincena de julio, aquí ya no me estoy refiriendo a la Ciudad de México o el Valle de México, sino para todo el país, el conjunto de curvas epidémicas tomadas todas juntas nos llevaría a un punto medio, donde generalmente en el punto medio está la máxima carga diaria de casos y luego un descenso hasta llegar a octubre.
+---
+INTERLOCUTOR
+Entonces, es que el pico no es tanto como que en la misma curva haya redundantemente varios picos, sino diferentes curvas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Hay diferentes curvas, es correcto, pero también puede haber curvas con más de un pico, estas curvas se llaman multimodales; se le llama moda a justamente los puntos de alta frecuencia.
+Villahermosa, Tabasco, que la he mostrado aquí, teníamos una curva, empezó a bajar, pero luego hubo, seguramente, modificaciones de la conducta social, hubo contagios y apareció otra curva adicional sobre el mismo proceso epidémico.
+Por cierto, esa ilustra también a lo que nos hemos referido con el riesgo de rebrotes. Por ahí hay gente, justamente en redes sociales que se pone un poco nerviosa pensando: ‘¿Cómo hablan de rebrote si todavía no se acaba la epidemia?’
+Nos referimos a eso, nos referimos a que algo ya viene en descenso y de repente empieza a subir, antes de llegar al punto final.
+Son las 20 horas con un minuto, Olinka y Juan Hernández, pero mañana podemos retomar.
+Mañana presentaremos el semáforo.
+Muchas gracias. Muy buenas noches.

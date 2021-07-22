@@ -3,11 +3,13 @@ Presidencia de la República
 25 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy bien, son las 19:00 horas en punto de este lunes 25 de mayo, por cierto, que todos los días 25 de todos los meses no debemos olvidar que se ponga atención a la lucha contra la violencia hacia las mujeres. Hoy es 25 de mayo, hoy recordémoslo y recordémoslo siempre, aprovecho para decir eso.
 Son las 19:00 horas del lunes 25 de mayo, estamos en el Palacio Nacional de México, en la Ciudad de México, vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, enfermedad causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a centrarnos en el informe técnico, yo voy a comentar una sola gráfica y después abrimos a preguntas y respuestas de lo que es relevante para esta semana.
 Le pido al doctor Alomía si es tan amable de presentar el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas noches todas y todos. Vamos a iniciar con nuestra conferencia vespertina número 87, que a la vez se realiza en el día 64 de la Jornada Nacional de Sana Distancia. Pasemos, por favor a la primera diapositiva con la actualización del panorama internacional.
 Nuevamente vuelve a disminuir un punto porcentual la pandemia activa, está en 25, 24, prácticamente se ha estado moviendo en ese porcentaje o se ha mantenido estable en ese porcentaje en los últimos días.
 Lo que sí es perceptible es la disminución importante de la cantidad de casos en la región europea, cada vez se va contrayendo más la transmisión en esta región de la OMS; y la región de las Américas se mantiene todavía con la mayor cantidad, más del 50 por ciento de los casos confirmados en los últimos 14 días, es el componente activo de la pandemia a nivel mundial y está en las Américas.
@@ -50,6 +52,7 @@ Entonces, eso permite que al tomar una muestra se pueda con mayor, digamos, faci
 Y me parece que esa sería la actualización de lo que tenemos el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Yo quisiera hoy comentar con ustedes solamente una imagen, una gráfica, que es parte de algo que ya hemos comentado en varias ocasiones y que desde luego ha despertado mucho interés público, aunque a veces en algunas personas un estado de confusión respecto a la terminología cuando se usa la expresión ‘aplanar la curva epidémica’.
 Hoy hemos decidido presentarles otra visualización del mismo fenómeno, que es la ocurrencia de casos de COVID en el tiempo, pero con una representación de la curva de casos acumulados.
 Esta curva de casos acumulados es la curva que va sumando la cantidad de personas enfermas que se notifican y en este caso en particular, en esta visualización, se confirman día con día.
@@ -83,6 +86,7 @@ Entonces quería compartir con ustedes, es otra perspectiva visual de cómo se c
 Vamos a abrir para preguntas y comentarios. Vamos a empezar con usted, Bianca, usted, Liz y ahí nos vamos.
 ---
 PREGUNTA
+Muchas gracias, doctor. Saturnino Reyes, de Diario Locutor.
 Tengo tres preguntas muy directas, muy concretas. La primera es: ¿qué va a celebrar México el día sábado?, porque por ahí una televisora ahí anda aventando campanas al vuelo diciendo que va a haber un festejo y esto puede traer confusión a las personas, porque estamos en el semáforo y usted quedó que esta semana se va a hablar del semáforo. Entonces, sí me gustaría primero que me respondiera eso, ¿qué se va a celebrar?
 Número dos, ¿qué hacer para que la ciudadanía siga confiando en las instituciones de salud?, y le pregunto esto por lo siguiente, porque ha habido casos en estados como en Veracruz, en Estado de México, aquí mismo en la Ciudad de México donde hay personas con síntomas y prefieren no asistir a la clínica, porque dicen: ‘Si entro, ya no salgo’.
 ¿Y por qué dicen: ‘Si entro, ya no salgo?’
@@ -94,6 +98,7 @@ Hagamos de cuenta que ya todos estamos en verde, ya todo es bonito, México, el 
 Por favor, doctor. Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias, Saturnino. Comprendo sus preguntas y también las aprecio, que nos permita recordarles varias cosas a la población.
 Me voy primero a la segunda, el tema del miedo. El miedo ha hecho seguramente en más de un caso, aunque desde luego esto lo conocemos más por experiencia anecdóticas, específicamente casos que se conocen de manera cercana, como el que usted relata de Veracruz, pero indudablemente puede ocurrir en otras partes del país en donde las personas que tienen síntomas de COVID, recordando que los síntomas de COVID empiezan por fiebre, tos, dolor de garganta, puede agregarse dolor de cabeza, dolor muscular, fatiga, enrojecimiento de los ojos, escurrimiento nasal, en dadas ocasiones diarrea y puede haber otros accesorios como pérdida del olfato o pérdida del gusto.
 Pero como hemos dicho, y le agradezco nuevamente porque nos pie a recordarlo, esta es una enfermedad que puede cambiar rápidamente de ser una enfermedad leve a una enfermedad extraordinariamente grave, letal incluso, mortal, puede causar la muerte COVID.
 ¿En quién es más probable que ocurra esto?
@@ -112,7 +117,11 @@ Si usted no trabaja en una actividad esencial, no podría ir a trabajar si el se
 Entonces, no hay nada que festejar, lo que hay que simplemente es estar conscientes que hemos logrado un avance importante en el curso de esta enfermedad, que hemos logrado reducir 75 por ciento la intensidad de los contagios, pero que todavía nos falta mucho y que el éxito depende de todas y todos en la sociedad.
 Y tenía una tercera.
 ---
+INTERLOCUTOR
+¿En qué cuadro de enfermedades va a quedar el COVID?, ¿y qué enseñanza le ha dejado a usted toda esta pandemia?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Enseñanzas, en algún momento vamos a hablar largamente, esto amerita una o dos sesiones sobre las distintas lecciones aprendidas, ayer que me hacían esta pregunta, que me parece muy importante, la hacía Daniela, apenas tuve los últimos minutos para hablar de ello, preferiría en conjunto hablar de todas las lecciones aprendidas, hay muchísimas, que ya desde este momento se pueden tener y vendrán otras.
 Ahora ¿dónde queda COVID?
 COVID queda una de cientos de infecciones respiratorias agudas, causantes de enfermedad leve en la mayoría de los casos, de enfermedad grave en una proporción que para COVID se ha estimado a nivel mundial de 20 por ciento para personas con suficiente gravedad para ser hospitalizados, cinco por ciento para requerir terapias intensivas.
 Y desde luego en México desde el 1º de enero de 2020 nos hemos tomado muy en serio el principio del derecho constitucional, específicamente del artículo 4º, que desde 1984 indica que la protección de la salud es un derecho de todas las personas que viven en el territorio nacional.
@@ -120,6 +129,7 @@ Y el proceso de transformación del Sistema Nacional de Salud sigue en marcha, a
 Bianca Aguirre.
 ---
 PREGUNTA
+Gracias, qué amable. Gracias, buenas noches.
 Para empezar, felicitarlo acerca de esta invitación que la Organización Mundial de la Salud a unirse al grupo de expertos.
 Y después de esto, por favor, preguntarle sobre esta declaración que dio sobre el uso del cubrebocas, ya que dijo que será una medida auxiliar de higiene, obviamente en el tránsito hacia la nueva normalidad.
 Y también, por favor, comentarle que hoy, seguramente se enteró, que el personal médico del Instituto Nacional de Enfermedades Respiratorias se manifestó allá afuera del INER, en la zona sur de la ciudad. Ellos dicen que les están pidiendo que los cubrebocas N95 los reutilicen.
@@ -127,6 +137,7 @@ También lo que ellos nos comentaron es que el jueves pasado llegaron, llegó un
 Por favor. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias. Empecemos por esta última.
 Efectivamente, hoy por la mañana un grupo de trabajadoras y trabajadores, entiendo que la mayoría o todas, afiliadas al Instituto Nacional de Enfermedades Respiratorias expresó estas y otras inquietudes frente a las instalaciones de este instituto, lo cual, como siempre, nos parece loable que la gente se exprese y manifieste cualquier inquietud que tenga, y qué bueno que exista la libertad para que eso pueda ocurrir.
 Las inquietudes específicas son mixtas. Justamente, como usted lo relata, pareciera que algunas derivan de desinformación o información no completamente apegada a la realidad.
 Por ejemplo, esto de los celulares, el gobierno no ha hecho ninguna compra de celulares, por lo menos no la Secretaría de Salud, porque no es un instrumento que en este momento sea relevante para el manejo de la epidemia.
@@ -158,12 +169,14 @@ Entonces, estar en un microbús o en un autobús o en el Metro con una proximida
 Creo que nos va a dar tiempo de una última con Liz, quizá dos.
 ---
 PREGUNTA
+Buenas noches. Lizbeth Álvarez, del diario Basta y Grupo Cantón.
 Sobre el caso del INER, desde el 10 de mayo yo misma fui la que le leyó el comunicado que habían recibido los trabajadores por este equipo de protección que no tenían.
 La pregunta es: ¿por qué no hacer caso antes? y ahora que ellos se manifiestan ¿por qué poner atención si con anterioridad ya se había mencionado este tema precisamente aquí?
 Y en una segunda pregunta, nada más en la línea de los cubrebocas, saber sobre la hipoxia, es decir, las personas ya están saliendo de casa, una medida de protección es usar el cubrebocas, en el transporte público las personas refieren inclusive que les falta el aire al traer el cubrebocas y venir con varias personas e inclusive que se están mareando. Entonces, no sé si tenga que ver esto con lo que se le llama la hipoxia.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Primero, sobre el tema del INER.
 En todo momento hay que hacerles caso a las personas y en todo momento le hacemos caso a las personas que expresan una insatisfacción con la situación de la realidad en la que hay una responsabilidad del gobierno contribuir a resolverlo.
 Es importante no hacer generalizaciones. En primer lugar, por mucho que me merecen a mí y a todos los del equipo, respeto el conjunto de personas que hoy se manifestaron no necesariamente son los trabajadores del INER, no es todos los trabajadores del INER, no es su representación sindical actualmente registrada; es un conjunto absolutamente respetable de trabajadoras y trabajadores que tienen una demanda, no dudo que motivada legítimamente y que debe ser atendida, pero entonces no es el mismo fenómeno. A lo largo del tiempo puede haber alguien que tenga una inquietud sobre algo en particular, puede ser alguien que tenga una inquietud diferente en momentos diferentes.
 Sobre el cubrebocas, ya que estamos en esto. Difícilmente el cubrebocas o los cubrebocas de uso convencional, incluyendo los de N95, tienen una característica de impermeabilidad o de resistencia al flujo del aire y con el aire el oxígeno, en el aire ambiente hay 21 por ciento de oxígeno que impida la respiración, que impida realmente la respiración; es decir, nadie ha muerto de asfixia por utilizar un cubrebocas.
@@ -173,17 +186,51 @@ Ahora, cuando pasa eso y pasa lo contrario, que una persona empieza a concentrar
 El otro fenómeno puede ser meramente sicológico y puede ser una etapa de mucha ansiedad al sentirse enclaustrado por tener restricción de la vía respiratoria y luego restricción de la movilidad.
 Pero yo diría, no hay peligro alguno de usar un cubrebocas, nadie muere por asfixia con un cubrebocas.
 ---
+INTERLOCUTORA
+¿Lo uso un protocolo o por síntomas?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Este?
+---
+INTERLOCUTOR
+¿Por qué uso el cubrebocas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Afortunadamente, hasta el día de hoy 25 de mayo no tengo ningún síntoma compatible con COVID y lo usé por dos razones:
 Una, la que ya expliqué extensamente, para ir posicionando el uso de este dispositivo como un elemento auxiliar, auxiliar de la prevención, particularmente en espacios cerrados, una vez que concluye la Jornada Nacional de Sana Distancia.
 Y otro por respeto desde luego a las instituciones y a las disposiciones que en ese contexto local ha hecho el Comando Operativo COVID del Instituto Mexicano del Seguro Social, que dirige nuestro muy querido maestro Zoé Robledo.
 ---
+PREGUNTA
+¿Y cómo se pone?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Se pone, ¿quieren ver cómo se pone?, se utiliza, algunos de ellos, como es este modelo, no todos son iguales, tienen una barra de un material metálico maleable, que hace una especie de molde para la nariz, estos tienen unas cómodas orejeras, hay unos que se ponen por arriba… entonces, hay que cuidar que el borde esté arriba.
 Y se pone así, se articula en las orejas, hay quienes tenemos suficiente oreja y se mantiene así. Nótese que aquí entra el aire y aquí, si yo tuviera COVID, estaría en posibilidad de proyectar cierta cantidad de aire con también partículas, es decir, no es una protección absoluta del paso de estas partículas.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-¿Mande usted?
+PREGUNTA
+¿También caducan, doctor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Caducan. Estos generalmente pueden durar, en un uso continuo, una jornada de trabajo, y estos se deben desechar en un sitio seguro, en una bolsa roja de residuos peligrosos biológico infecciosos de los que hablamos el otro día.
+¿Mande usted?
+---
+PREGUNTA
+No en el saco.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Cómo?
+---
+INTERLOCUTOR
+Sin guardarse en el saco.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Claro, claro. Este yo lo voy a tirar, yo no tengo síntomas, como lo he dicho, y estoy asumiendo que no tengo transmisión y cuidaré que nadie en mi familia o en mis cercanos lo toque.
 Nos queda… ya no nos queda tiempo. Olinka, disculpe, son las 20:01, aquí se acaba la conferencia de prensa.
 Mañana seguimos y a partir de mañana, esto quería también que lo tengan presente, nadie me preguntó por el semáforo, bueno, usted sí, pero mañana tenemos reunión con los gobernadores y las dos gobernadoras, y queremos primero conversarlo con ellos, y una vez que hay consenso ya presentarlo públicamente.
 Muchas gracias.
+---
+PREGUNTA
+¿A qué horas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana a las 10 de la mañana.

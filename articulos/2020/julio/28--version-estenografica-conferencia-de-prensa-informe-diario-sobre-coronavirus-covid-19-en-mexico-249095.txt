@@ -3,12 +3,14 @@ Presidencia de la República
 28 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches. Son las 19:00 horas en punto del martes 28 de julio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria relacionada con la pandemia de COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy vamos a tener nuestro informe técnico diario que presentará el doctor José Luis Alomía, director general de Epidemiología del Gobierno de México y después vamos a tener un segmento temático especial, hoy 28 de julio, porque hoy es el Día Mundial de la Hepatitis y vamos a recordar la importancia de las hepatitis virales y cuáles son, cómo afectan a la población, qué alternativas de prevención o de tratamiento tenemos al respecto, y esto nos va a permitir identificar a la hepatitis como uno de los problemas importantes de daño a la salud en México, incluida su contribución a la mortalidad.
 Los trastornos crónicos del hígado, esta mañana hablábamos de las causas de mortalidad, mortalidad general, y la cuarta causa general de mortalidad en México son los trastornos crónicos del hígado, la enfermedad crónica del hígado.
 Se estima que una parte sustancial de esos trastornos, incluyendo los que quitan la vida, son hepatitis virales, en particular las hepatitis crónicas. Y la doctora Alethse de la Torre Rosas, directora general del Centro Nacional para la Prevención y Control del VIH/sida y otras infecciones de transmisión sexual, médica internista, infectóloga, especialista en este tipo de condiciones, hoy nos acompaña precisamente para hablar del Programa Nacional de Eliminación de la Hepatitis C, cómo surgió, por qué surgió y por qué significa un cambio muy importante de práctica que nos llevará a un avance importante en la prevención de esta materia. Doctora, bienvenida.
 Le pido entonces al doctor Alomía si es tan amable de presentar el informe técnico.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muy buenas tardes todas y todos los que nos acompañan aquí de manera presencial, pero también un saludo a toda la población que nos hace favor de sintonizarnos siempre a estas horas para enterarse y actualizarse en relación a COVID-19 en México.
 Estamos en la conferencia vespertina 151, es el día 58 de la Nueva Normalidad, ya a punto prácticamente de cumplir dos meses de esta estrategia, nueva estrategia que en su momento permitió regionalizar las acciones precisamente de sana distancia y actividades correspondientes que en su momento limitan o aperturan la actividad social, la actividad pública para poder siempre llegar al mejor balance entre lo que es primordial, que es siempre el resguardo de la salud, pero también empezar a facilitar un poco la reactivación económica que tiene como objetivo también llevar bienestar a la población en México.
 Veamos la primera diapositiva, que es precisamente el escenario nacional. Continuamos viendo en las barras acumuladas, todavía estas dos semanas de un ligero descenso en la totalidad de los casos sospechosos que hasta el momento se han presentado, el día de hoy es un poco más de 940 mil las personas que han sido clasificadas como casos sospechosos y han ingresado a un protocolo de estudio que lógicamente incluye la toma de una muestra de laboratorio para confirmar o descartar la enfermedad.
 Precisamente el 43 por ciento de estas personas se encuentran graficadas en las barras de color café claro y son las que han dado positivo a la prueba, se detectó el virus SARS-CoV-2, por lo tanto, son nuestros casos confirmados; pero también un 48 por ciento dio negativo a la prueba y son las personas que están representadas en las barras de color lila oscuro.
@@ -63,9 +65,11 @@ Esto puede cambiar tan rápido como en algunos días, por eso es importante pode
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Enseguida le pedimos a la doctora Alethse de la Torre Rosas, directora general de Censida, si nos comenta sobre la hepatitis.
 ---
 ALETHSE DE LA TORRE ROSAS, DIRECTORA GENERAL DEL CENTRO NACIONAL PARA LA PREVENCIÓN Y EL CONTROL DEL VIH Y EL SIDA (CENSIDA)
+Hola, muy buenas noches a todas y a todos.
 Realmente el día de hoy estamos sumamente emocionados de poder compartir con ustedes cuáles son los avances que tenemos como nación en términos de la lucha contra las hepatitis virales.
 El día de hoy, como bien lo señalaba el subsecretario Hugo López-Gatell, se conmemora el Día Mundial contra las Hepatitis. Las hepatitis son esta inflamación del hígado que generalmente se causa por infecciones, una buena proporción son asociadas a infecciones virales.
 Existen diferentes tipos de virus que pueden afectar al hígado, las principales se conocen como hepatitis A, B, C, D y E.
@@ -115,14 +119,20 @@ Necesitamos como población unirnos, trasmitir este mensaje, poder empezar a ten
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Alethse de la Torre por esta amplia y detallada explicación sobre el Programa Nacional de Eliminación Hepatitis C, enfermedad curable, enfermedad que debe ser atendida a tiempo antes de que haya causado estragos en el tejido hepático.
 Vamos a iniciar con Liliana Noble, de Pulso Saludable; Fernanda Mendoza y nos vamos yendo unos para otros.
 ---
 PREGUNTA
+Buenas noches, Liliana Noble, de Pulso Saludable.
 Doctor Gatell me gustaría que nos ayudara, perdón por la insistencia, pero otra vez con el tema del cubrebocas, si es bueno usarlo, si no, porque ya sabe que luego a mí eso me preguntan: ‘¿y por qué él no lo usa? Denos esta explicación que ya nos ha dicho muchas veces.
 Mi segunda pregunta, el decreto de estas personas adultas mayores ya regresan a trabajar y hay mucha gente que está temerosa. Si hay alguna novedad, si se va a suspender, se va a prolongar, etcétera.
 Y una pregunta para su invitada, cuando el paciente ya está dado de alta, ustedes le dicen ya está curado, el paciente les pregunta: ‘¿Ya estoy curado?’ y ustedes contestan: ’Sí es una cura viral’. ¿A qué se refieren exactamente con eso?
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Bien, empezamos con esta última.
+---
 ALETHSE DE LA TORRE
+Muchas gracias. Es excelente la pregunta.
 Parte del programa lo relevante también es que incluye toda esta serie de acciones, desde el tamizaje, es decir, ahora lo que estamos enfocándonos es tener una prueba rápida, un aprueba que en unos minutos nos dicen si tenemos anticuerpos para hepatitis C o no.
 Después de eso, también un cambio radical en términos de la estrategia es que se está buscando el tener un diagnóstico en un solo paso.
 Antes, cuando se hacía la prueba de tamizaje, se le decía a la persona: ‘Bueno, regresa para poderte hacer esta prueba confirmatoria’. Cuando tenemos una prueba positiva hay que confirmarlo con un elemento que se llama carga viral. La carga viral lo que mide, literal, son los virus que están circulando en nuestra sangre, este material genético y ahí nos indica que existe una infección activa, una infección crónica.
@@ -131,6 +141,7 @@ Si esa prueba… Nuevamente lo que se hace es tener una carga viral y esta carga
 Es fundamental también hacer hincapié que todas las personas deben de entrar en un programa de prevención de reinfecciones y que, de hecho, desde el principio, desde la primera consultoría se darán las indicaciones para que las personas eviten ciertos riesgos para que no se vuelvan a exponer al virus y así asegurarnos que las personas permanezcan sin la infección.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora.
 Antes de abandonar el tema de hepatitis C, aunque espero que haya interés y que sigamos en él, quisiera felicitar, felicitamos a nombre del doctor Alcocer y a nombre de todo el equipo, al doctor David Kershenobich, quien fue reconocido por la Coalición para la Eliminación Global de la Hepatitis, como el ganador del Premio a la Eliminación de la Hepatitis en 2020.
 El doctor Kershenobich es muy conocido en México, es un médico muy competente, muy prestigiado, un hombre muy sabio, es actualmente el director general del Instituto Nacional de Ciencias Médicas y Nutrición ‘Salvador Zubirán’, del que fue también su director médico y jefe del departamento de Gastroenterología, fue secretario del Consejo de Salubridad General y ha sido por muchos años uno de los principales impulsores de distintas políticas públicas para la atención, la prevención, de los trastornos hepáticos, él fue uno de los promotores de la introducción de la vacunación contra hepatitis B al nacimiento.
 Y sobre este tema de la hepatitis C nos acompañó muy cercanamente durante 2019 en varios aspectos clave, uno fue la preparación de las guías de práctica clínica en donde jugó un papel clave el doctor Kershenobich, junto con otros hepatólogos muy destacados.
@@ -156,7 +167,11 @@ Pero hemos dejado también muy en claro, y aquí cuando viene esta otra explicac
 El cubrebocas principalmente es una medida de protección de los otros, no de uno mismo, porque no es una barrera protectora, como también lo hemos explicado.
 Entonces, en suma, use su cubrebocas, particularmente en los espacios cerrados, como complemento a lo otro, pero no deje de conservar la sana distancia, quedarse en casa, lavarse 20 veces las manos al día.
 ---
+PREGUNTA
+Adultos mayores.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Adultos mayores, vamos a ir comentando, posiblemente a lo largo de esta semana, pero más enfáticamente la próxima que se acaba de publicar el Diario Oficial, ayer un acuerdo del secretario de Salud que indica dónde se publicará el lineamiento para el retorno seguro de las y los trabajadores al campo de trabajo, específicamente orientado a las personas que por condiciones de enfermedad o más bien de salud, o por edad, son vulnerables a las complicaciones de COVID.
 Hemos publicado una primera versión que tiene algunas indicaciones muy precisas sobre las categorías de riesgo para cada una de las distintas enfermedades, el control de la presión arterial, el control de la diabetes: el control o la reserva inmune de las personas que viven con VIH o las personas que están con otras fuentes de inmunosupresión, etcétera.
 Y estas son indicaciones muy puntuales que iremos refinando, sobre todo en el aspecto de cómo se puede hacer que estas condiciones permitan que las personas empleadoras tengan un reconocimiento de la condición de vulnerabilidad de las y los trabajadores, y enfáticamente -este es uno de nuestros propósitos, que quede muy claro esto- que no exista acto de discriminación alguno por condiciones de salud.
 Esto debe de quedar clarísimo, las leyes mexicanas, empezando por el artículo 1º de nuestra Constitución protegen de la discriminación en general, pero una de ellas podría ser que se discrimine a una trabajadora o un trabajador por tener una condición de salud que la hace vulnerable.
@@ -164,10 +179,12 @@ No vamos a permitir que exista esto, por eso trabajamos conjuntamente con la Sec
 Fernanda Mendoza, Glucosa Atómica, y luego usted.
 ---
 PREGUNTA
+Hola, buenas tardes. Fernanda Mendoza para Glucosa Atómica.
 Preguntarle a la doctora, primero, ¿cómo serán los esquemas de tratamiento para el programa? Y una vez que hayan concluido el periodo que mencionó usted de tres meses, si el paciente no se ha curado, ¿van a continuar con el mismo esquema?, ¿se les va a cambiar?
 Y también preguntarle si han considerado este programa implementarlo con la hepatitis B.
 ---
 ALETHSE DE LA TORRE ROSAS
+Muchísimas gracias. Sí, los tratamientos, y de hecho está ya publicado cuáles son estas características y cuáles son las personas que podrán ser tratados en atención primaria a la salud y cuáles requerirían tratamientos especializados.
 Una vez que terminan el tratamiento inicial, después de estos tres meses, lo que sigue es si la carga viral sigue presente, indica que la persona no alcanzó la curación con este primer esquema, pero tenemos tratamiento de rescate.
 Y entonces lo que nos va a permitir es que las personas puedan acceder a este tratamiento de rescate también, y que por lo tanto estamos prácticamente asegurando que las personas se puedan curar de esta infección.
 Es tan relevante que son pocos los países que tienen acceso universal a un programa de eliminación de hepatitis C. Creemos que son de esos momentos históricos para compartir de extraordinarias noticias para la salud pública y que lo que haremos paso a paso es mantener esta coordinación, esta información.
@@ -175,23 +192,37 @@ Por supuesto estamos abiertos a cualquier duda, pregunta, pues ayudar a las pers
 Es ahora prácticamente si lo queremos ver más fácil tratar y curar hepatitis C que el tratamiento de una persona con diabetes o hipertensión, así de sencillo es esto.
 Entonces no queremos perder esa oportunidad y estamos abiertos. Nuevamente agradecer a la colaboración de las instituciones, a los líderes comunitarios, a los líderes académicos que han dado y luchado todas estas décadas para lograr este programa que hoy podemos tener en nuestro país.
 ---
+INTERLOCUTORA
+¿Y han considerado implementarlo con la hepatitis B?
+---
 ALETHSE DE LA TORRE
+Para hepatitis B de hecho existe dentro de esta parte de optimización de tratamiento justo la parte de tratamiento para hepatitis B y lo que se va a hacer y lo interesante de este programa es que es un acelerador. Es un acelerador, porque nos permite identificar a las personas con hepatitis C, pero también nos permitirá identificar a las personas con virus de hepatitis B.
 Y ya tenemos identificados las unidades para la vacunación, cuáles unidades existen para que se puedan vincular a tratamiento también estas personas, porque recordemos estamos en lucha contra las hepatitis y también nos va a ayudar a identificar a las personas que viven con VIH, que recordemos, existe tratamiento y con un tratamiento adecuado las personas tienen una calidad de vida igual que las personas que viven sin VIH.
 Entonces el ser acelerador nos permite mover este primer nivel de atención, acercar los servicios a la población, pero también el poder vincular el resto de los programas.
 La otra cuestión, que es un cambio y un hito histórico para el país, es la coordinación y la plataforma estandarizada en términos de información, que nos permite ver desde el tamizaje hasta la curación de la persona, reinfecciones y que está centrada en las persona; quiere decir que si yo me hago mi tamizaje en Baja California, en una unidad, por ejemplo, del Seguro Social y yo tengo Issste en la Ciudad de México, cuando regrese ese resultado va a estar en dicha plataforma y pierdo así la oportunidad de tener la información adecuada.
 ---
 INTERLOCUTORA
+Gracias. Doctor preguntarle también ¿qué noticias tiene sobre el ENARM?, si será presencial o habrá cambios.
 Y también si pudiera decirnos si ya tienen información sobre las plazas que va a haber en el extranjero.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No tengo información en este momento, pero con gusto el doctor Alejandro Svarch, quien es el coordinador de médicos del Insabi, el Instituto de Salud para el Bienestar nos puede preparar una tarjeta informativa y la comentamos.
+---
+INTERLOCUTORA
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Igual, todo el aspecto de educación lo podemos compilar en una sola información y se lo comento.
 Vamos a darle la palabra al colega. Nos quedan dos minutos, tres.
 ---
 PREGUNTA
+Buenas noches. David Pérez de Tejada, de Informe 24, de Audiorama.
 Un par de dudas rápidas, doctor, que han llegado del público al medio al que represento. La primera es: ¿cómo van a diferenciar cuando…? Usted nos ha hablado que en octubre podría juntarse con la influenza COVID, ¿cómo se va a diferenciar COVID-19 de influenza?, ¿qué se va a hacer?, ¿van a hacer pruebas a esos enfermos?, ¿qué estrategia planea el sector salud en ese asunto?
 Y en la mañana nos hablaba de que el siete por ciento de las bebidas azucaradas intervienen en la mortalidad de pacientes con COVID.
 Estas cantidades ¿quién las regula de los refrescos?, ¿o a quién le correspondería la regulación? porque antes, por ejemplo, un refresco familiar era de 355, ahora hay hasta de tres litros, en los cines también se vendía, por ejemplo, cantidades menores de dulces, de palomitas, de refresco, sobre todo, que es de las bebidas azucaradas. ¿A quién le corresponde esta regulación? Y si el sector salud intervendría en ese aspecto, ¿cómo lo haría?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta. Sólo para aclarar, no es que siete por ciento de los refrescos contribuyan a la mortalidad. Del total de muertes que hay en México, 722 mil, tomando el dato de 2018, siete por ciento, que son 40 mil, en números redondos, se pueden atribuir al consumo de bebidas azucaradas, al consumo de refrescos.
 ¿Por qué razón?
 Porque el consumo de refrescos produce enfermedad cardiometabólica, produce diabetes, produce hipertensión arterial, produce obesidad y estas son las causas que llevan a la muerte gruesamente de una tercera parte de la población de México.
 Los tamaños de los productos atienden a una lógica comercial, meramente comercial, sale más económico para quien fabrica el producto y lo comercializa, hacer una presentación grande que hacer muchas presentaciones chiquitas, porque lo que induce es una sensación de avidez de parte del consumidor. Eso está estudiando, no crean que se me está ocurriendo en este momento, está documentado por distintos campos, la economía, la sociología, la sicología industrial, etcétera.
@@ -199,3 +230,27 @@ Y los tamaños grandes inducen la avidez de que las personas quieren más porque
 No existe un elemento legal directo para regular las porciones alimentarias hasta el momento. Dada la importancia, no sería de extrañar que esto esté en el debate público y buscar la posibilidad de que también se regulen las porciones.
 Les podemos comentar que cuando estuvimos elaborando la Norma 051 sobre el etiquetado frontal de alimentos, en las conversaciones que tuvimos con el sector industrial, cabe aclarar que las normas se hacen por conversación, por consenso con todos los actores sociales relacionados, y en la mesa estuvieron los representantes de las industrias alimentarias y sus cámaras, uno de los planteamientos que les hicimos es llegar a un acuerdo sobre regulación de porciones, autorregulación de porciones, pero no causó simpatía esta propuesta, quizá la perspectiva era que no se iban a poner los etiquetados, y al final esa idea fue desechada por quien tenía que autorregularse, decidió no autorregularse y entonces desde luego vamos a poner los etiquetados, pero son varias políticas que estarán ocurriendo y las vamos a ir comentando aquí.
 Muchas gracias. Se nos acaba el tiempo, son las 20:01. Usted empieza mañana, y aquí acaba la conferencia.
+---
+PREGUNTA
+¿Y lo de COVID e influenza?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ya no nos da tiempo, pero mañana empezamos, empezamos con eso, y luego nos pasamos con la compañera.
+---
+PREGUNTA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Sobre la qué?
+---
+INTERLOCUTORA
+… se dice que va a ser una medida obligatoria y usted nos dice que no va a ser obligatorio.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana hablamos de eso.
+---
+INTERLOCUTORA
+De una vez, cinco minutos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ya no hay transmisión, el próximo lunes va a venir el secretario de Educación y vamos a hablar sobre educación.

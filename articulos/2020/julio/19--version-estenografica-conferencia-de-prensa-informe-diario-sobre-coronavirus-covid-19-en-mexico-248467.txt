@@ -3,6 +3,7 @@ Presidencia de la República
 19 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 en punto de este domingo 19 de julio de 2020. Estamos en la Ciudad de México, en el Palacio Nacional y vamos a presentar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico con detalles de unas entidades federativas, como lo hemos estado presentando desde el domingo pasado.
 Vamos a comentarles sobre una nueva herramienta que vamos a poner en funcionamiento a partir de hoy en la tarde, bueno, a las 8:00 de la noche. Y es una herramienta que nos va a permitir que ustedes tengan acceso, todos las comunicadoras y comunicadores o cualquier persona en el país, en cualquier entidad federativa o en el mundo, en cualquier lugar, que puedan acceder a la información de México.
 Ya tenemos dos medios de información semejantes, que están a disposición pública desde el inicio de la epidemia:
@@ -16,6 +17,7 @@ Por supuesto sigue y seguirá el acceso a los datos públicos, cosa que no exist
 Le pido al doctor Alomía si presenta el informe técnico y yo luego presentaré el portal.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Bienvenidos a esta conferencia vespertina, la 142, si mal no recuerdo, día 49 de esta Nueva Normalidad. Veamos cómo están las estadísticas para el panorama, el escenario nacional, que es la siguiente diapositiva.
 Actualizamos el día de hoy. Ya la semana 28, si recuerdan, hasta ayer en la noche salíamos con la semana 27, ahora ya se integra la semana 28, y esto es también porque el día de hoy inicia la semana epidemiológica número 30, que durará desde el día de hoy hasta el día sábado; por lo tanto, ya las estadísticas que aparecen de la semana 28 son estadísticas bastante ya cercanas a la realidad y, por lo tanto, las podemos presentar, explorar y ver su comportamiento y sus tendencias.
@@ -69,6 +71,7 @@ Entonces, bueno, un llamado a todas las personas que están en estos tres estado
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía.
 Vamos a decir unos minutos a presentar este portal de exposición de datos o de acceso de síntesis, se podría decir, de la información.
 Si me pasan la última diapositiva sólo para que la audiencia y también aquí las comunicadoras y comunicadores vean de la presentación, la última diapositiva.
 Vean la liga, la liga directa es esta: https://covid19.sinave.gob.mx. Sin embargo, pondremos en el sitio coronavirus.gob.mx, una liga a este sitio, por si llegaran a olvidarlo, pero si lo quieren ver desde hoy en la noche, ahí en esta liga está.
@@ -105,11 +108,13 @@ En fin, me interesa mucho que todos los que quieran y puedan, y lo deseen se inv
 Muy bien, vamos a pasar a preguntas y respuestas. Vamos a darle la palabra aquí al compañero de Grupo Cantón, periódico Basta, luego Arturo y por acá.
 ---
 PREGUNTA
+Héctor García, de periódico Basta y Grupo Cantón.
 Subsecretario, dos preguntas. Una, ¿el portal sería propiedad de alguna dependencia del gobierno, del gobierno federal tomando en cuenta que las otras dos del Inegi y la otra del Conacyt?
 Y la segunda es: salió una información publicada de que cinco gobernadores se le revelaron, entre ellos el de Tabasco por información que, según ellos, no cuadra en cuanto a la información que se da a conocer.
 Y en ese sentido le preguntaría ¿cabría la posibilidad de que usted acudiera a diferentes puntos de la República mexicana en los estados para dar a conocer este tipo de información y de esa manera estar más en sincronía con los estados?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, qué bueno que pregunta esto.
 Sobre quién es propietario o propietaria de este portal, México, esto es un bien público, todas y todos lo pagamos con nuestros impuestos, es nuestra responsabilidad ejercer el recurso público destinado a nuestras áreas de competencia de manera eficiente, de manera proba y con absoluta transparencia.
 Esto pertenece a la Secretaría de Salud, específicamente a la Dirección General de Epidemiología y la administración de este portal depende del personal de la Dirección General de Epidemiología.
 Sobre esto que dice del semáforo, quisiera aprovechar para comentar un poco de la experiencia que tuvimos ahora en Chiapas con la presentación de la iniciativa de Acción Comunitaria por la Salud, específicamente para la prevención y control de COVID-19 que presentamos este viernes en la conferencia vespertina, pero antes tomo como referencia lo que me dice.
@@ -140,6 +145,7 @@ Ojalá que, para bien de la población, ojalá que suba el nivel de la actividad
 Vamos a darle la palabra, una persona de acá y una persona de acá, está usted, por favor.
 ---
 PREGUNTA
+Gracias. Carlos Padilla, de la revista Zócalo, doctor Gatell.
 Hace unos días, conversando con el presidente municipal de Nezahualcóyotl, Hugo De la Rosa me comentaba su preocupación, porque el gobierno del Estado de México no había instalado el hospital provisional que él requería o pensaba que era importante para evitar la saturación de los hospitales COVID, La Perla y otro allá en Nezahualcóyotl, y porque los enfermos que no son COVID también requieren, sobre todo la gente que tiene enfermedades graves requiere de una atención, continuar su atención.
 Y él me decía que estaba esperando la instalación de ese hospital provisional en Nezahualcóyotl.
 Quería saber si usted tiene noticias y está en curso o ya se está instalando o qué va a pasar con esa petición, dado que Nezahualcóyotl, como usted nos ha informado todos los días, aparece entre los municipios más afectados por el COVID.
@@ -147,6 +153,7 @@ Y también le preguntaría, a principios de semana nos dieron una buena noticia 
 Y yo preguntaría: ¿qué cálculos tienen ustedes?, ¿para cuándo estarían los primeros ventiladores de ese tipo, por favor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias.
 Sobre el caso particular del municipio de Nezahualcóyotl y este diálogo que tiene con el gobierno estatal con el Estado de México no tengo detalles. En general, y esto también retomando este tema de las autoridades sanitarias estatales, recodaran que en los acuerdos de la Secretaría de Salud, algunos de ellos están amparados en sesiones correspondientes del Consejo de Salubridad General, quedó explícito la responsabilidad de los gobiernos estatales de emprender sus procesos de reconversión hospitalaria, esto el 30 de o el 31 de marzo.
 Los estados tienen la responsabilidad de emprender sus reconversiones hospitalarias, eso lo planteamos el 31 de marzo, está publicado en el Diario Oficial.
 Entonces, la mayoría, casi todos diría yo, los estados de manera muy expedita empezaron a emprender actividades de reconversión hospitalaria, algunos… De hecho, Tabasco es un excelente ejemplo, por cierto, ya lo habían empezado a hacer antes de motu proprio y Veracruz también y demás. En un momento dado la reconversión específicamente cómo se diseña lo hace el gobierno del estado
@@ -155,21 +162,31 @@ Los apoyos han sido diversos, pero cuando se le requiere al gobierno federal, po
 Sobre los ventiladores, vamos más allá de lo que usted está planteando porque los ventiladores no son prototipos, ya se fabricaron, los primeros, más de 150 ya se fabricaron y este es el ventilador Ehécatl-4T para adultos y Gätsi. Gätsi me parece una palabra muy hermosa que significa ‘suspiro’ en otomí y es un ventilador especializado para niños.
 Estos ya fueron fabricados, los primeros 150, de ellos ya se fueron, 130 están en Veracruz en uso ya y los otros 10 se iban a ir a Oaxaca, ignoro en este momento en qué fase van, pero se van a ir a Oaxaca, se seguirán produciendo y conforme se sigan produciendo se irán posicionando en donde haga falta.
 ---
+INTERLOCUTOR
+(Inaudible).
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No tengo el detalle, lo presentó hace unos días la doctora Álvarez-Buylla, pero lo podemos presentar, yo creo que en la página de Conacyt deber estar ahí el dato técnico de la velocidad a la que se producen.
+---
 INTERLOCUTORA
+Por último, algunos partidos políticos están pidiendo la comparecencia de la Secretaría de Salud. ¿Qué opinión tiene usted?
 Al parecer, no ven todas las tardes la conferencias de usted, creo que necesitan que usted vaya a explicarles de manera personal la información que todos los días da.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, el Poder Legislativo nos ha requerido en un par de ocasiones. Tuve el honor de presentar frente a ellas y ellos, tanto en el Senado como en la Cámara de Diputados. No fue en calidad de comparecencia, aunque en el formato un poco se parecía, y lo hice con muchísimo gusto.
 La verdad es que creo que el diálogo con los tres poderes de la unión o entre los tres poderes también es muy fructífero. A veces puede haber alguna duda específica, a veces otros temas más complejos, y quienes trabajamos en el Poder Ejecutivo estamos siempre a disposición de que el Poder Legislativo nos llame a lo que considere pertinente.
 Muchas gracias.
 Vámonos por acá, el colega de El Universal.
 ---
 PREGUNTA
+Gracias, subsecretario. Alain Arenas, del periódico El Universal.
 Me gustaría preguntarle, bueno, solamente ponerlo en contexto. Se realizó un torneo de pretemporada de fútbol en estos momentos en Guadalajara y Ciudad de México, en ambas sedes hubo al menos tres casos, un entrenador, dos jugadores.
 Me gustaría preguntarle: ¿qué tan peligroso podría ser para personal que trabaja, que estuvo en contacto con estos futbolistas y para otros jugadores?, ¿qué tan peligroso es que -precisamente- estén teniendo contacto con ellos?
 En una segunda pregunta, me gustaría preguntarle ¿ustedes pueden sancionar a personal de la Liga MX que incumpla el protocolo de salud que ustedes ayudaron a crear con este organismo?
 Y en una pregunta final, si el protocolo se incumple, como ya ha pasado con algún entrenador que no usaba tapabocas, me gustaría preguntarle si ustedes tienen facultades para retrasar el inicio del torneo regular del futbol mexicano.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por sus preguntas.
 Efectivamente, ha habido casos de COVID, de personas enfermas de COVID entre jugadores, entrenadores y otro personal de las ligas deportivas, específicamente las ligas de futbol.
 Por eso, hemos recomendado desde el inicio que las actividades deportivas profesionales que tienen grandes públicos no pueden abrir, sino hasta el semáforo verde, porque obviamente la densidad poblacional en espacios limitados como pueden ser los estadios podría propiciar contagios de manera masiva, pero los jugadores, los equipos pueden realizar actividades y es muy deseable que cuiden todas las medidas de seguridad sanitaria.
 Existen las generales, que hemos dicho una y otra vez, se han publicado en Diario Oficial; existen las específicas para campos de trabajo y esto el Instituto Mexicano del Seguro Social trabajando con la Secretaría de Economía, la Secretaría del Trabajo y la Secretaría de Salud formuló lineamientos, pero además la Secretaría de Salud trabajó con la Liga MX desde muchas semanas atrás para definir la aplicación de esos protocolos de seguridad sanitaria.
@@ -177,13 +194,27 @@ No vemos necesidad de una sanción en la medida en que ha habido una muy buena d
 ¿Qué tan grande es el riesgo?
 El mismo que es para cualquier otra persona, en general, los deportistas profesionales, hombres o mujeres, son gente joven y tienen un riesgo menor, a menos que padezcan algunas de las enfermedades crónicas ya conocidas que incrementa el riesgo de COVID.
 ---
+INTERLOCUTOR
+Si hay incumplimientos, ¿ustedes puedan recomendar o retrasar, o pedir que se retrase este inicio del torneo regular?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La autoridad sanitaria es competente todo el tiempo para tomar decisiones respecto a la seguridad sanitaria, eso no se cambia y es para todos los sectores, para toda la población.
 En este momento, insisto, ha habido tan buena colaboración por parte de la directiva de la Liga MX, que no vemos que haya una necesidad eminente de hacer algo así, en todo caso hacemos una sugerencia para que al interior de la liga se identifique si alguien está incumpliendo, pues que se le persuada de cumplir lo que es obvio para el beneficio de la propia liga.
 ---
 INTERLOCUTORA
+Una última pregunta, respecto a la situación del hospital que está dentro del Autódromo Hermanos Rodríguez, que es de expansión, según tengo entendido, el Gran Premio de México está programado todavía para celebrarse a finales de octubre, principios de noviembre.
 ¿Cuál es el estatus de este hospital? y si en algún momento ustedes han hablado con las personas que están, con la empresa, más bien, que opera el autódromo, cuál es su estatus, digamos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El hospital es una unidad temporal COVID, que está en el Autódromo Hermanos Rodríguez, hay un servicio muy bueno, muy bueno, me parece que fue muy acertada la decisión del director del Seguro Social de proceder con la instalación de este servicio.
 Está destinado, no para pacientes críticamente enfermos, sino para personas que están ya en un periodo de recuperación, igual que otra de las unidades temporales que fue instalada con anterioridad.
 Respecto a si eso es un obstáculo para tener el Premio Fórmula 1, sí, pues evidentemente, porque está sobre la pista, pero supongo que se irá comentando conforme se vayan estableciendo los planes.
 De momento no existe ninguna visión de que cercanamente pudiéramos tener en octubre semáforos verdes y por lo tanto no se podría realizar el Premio Fórmula 1 con público por las mismas razones ya comentadas.
+---
+INTERLOCUTOR
+¿Hay alguna fecha para definir, digamos, esta decisión de si se realiza o no?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Como privado, la empresa o el grupo de empresas del consorcio empresarial pues tendrá que tomar sus decisiones, como la han tomado todos las demás.
+Muchas gracias. Son las 20:01, ya no nos dio tiempo de algunas preguntas, pero mañana las tomamos. Arturo vuelve a quedar en la lista, Natalia y Aracely. Mañana se apunta Aracely. Perfecto.
+Muchas gracias.

@@ -3,9 +3,11 @@ Presidencia de la República
 11 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches. Hoy es sábado 11 de abril, son las 19:00 horas, estamos en la Ciudad de México, en el Palacio Nacional. Vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS-CoV2.
 Hoy vamos a dedicarnos específicamente al informe técnico diario y vamos a abrirnos a preguntas y respuestas. Le pido al doctor Alomía si nos lleva.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Buenas tardes a todas y todos. Aquí estamos nuevamente con el panorama internacional y nacional.
 El día de hoy, si vemos el porcentaje de casos en el mundo en los últimos 14 días, vemos que nuevamente tiene una disminución en relación al día de ayer, 65 por ciento ahora son los casos confirmados en todo el mundo en los últimos 14 días y, aunque pasan del millón, ya tenemos prácticamente unos 10 días en donde vemos que este porcentaje continua disminuyendo, y esto nos habla también de cómo se está comportando la pandemia a nivel mundial.
 La tasa de letalidad se ha mantenido prácticamente estable en un 6.2 por ciento, ya lo comentábamos, es una tasa que promedia las tasas de letalidad en todos los países del mundo.
 En la siguiente diapositiva podemos ver un poco mejor la distribución de cómo está la carga en estos últimos 14 días por las regiones de la Organización Mundial de la Salud. Vemos cómo sigue habiendo un incremento en el caso de la región de las Américas, ayer era del 40 por ciento y ahora ya está en el 42; también la región europea tiene una disminución y es lo que vamos a estar viendo en los siguientes días, cómo se reduce la región europea y cómo se incrementa la región de las Américas que, vamos a decir, es prácticamente la última región que en su momento está haciendo y va a ser afectada por la pandemia como tal; 42 entonces para las Américas.
@@ -30,12 +32,15 @@ Pero también la gráfica que nos muestra los casos incidentes. Y si vemos los c
 Sería el panorama del día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Vamos a abrir a preguntas. Empecemos con usted, luego para acá con usted y luego ustedes dos, luego usted.
 ---
 PREGUNTA
+Yo quisiera solicitarle que si también en las gráficas nos puede también considerar la información de los recuperados y cuál es su situación con la que entraron para también fomentar hábitos saludables.
 Y con respecto a la confusión del factor de ocho que se está aplicando, existe mucha confusión con otro aspecto ¿por qué no se está aplicando con las muertes?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La explicación es muy simple, qué bueno que nos lo comenta para que no haya dudas.
 La vigilancia Centinela tiene la… bueno lo que explicamos la semana pasada y con gusto lo vamos a ir explicando, puede ser que en los días que actualizamos las estimaciones que es cada semana recapitulemos de cómo funciona la vigilancia Centinela.
 Las personas que tienen enfermedad leve y que son estas que les llamamos ambulatorios, porque el tratamiento, el manejo, la vigilancia médica es ambulatoria, están en su casa, se identifican en las unidades Centinela, las unidades de salud monitoras de enfermedades respiratorias, que son este centenar, cuatro centenas, poquito más de cuatro centenas, respecto a las 26 mil que existen en el sector público.
 Y en ellas se hace uso del factor de corrección para estimar por cada caso cuánto representa. Hasta la semana pasada cuando lo presentamos eran gruesamente 8.2 casos por cada caso identificado. Esto va a ir cambiando, cada semana va a ir cambiando la proporción o el porcentaje de personas.
@@ -43,18 +48,28 @@ A quienes se le toma la muestra, se les hace el procesamiento de laboratorio y s
 Esos son los ambulatorios.
 Las personas con enfermedad grave, que son quienes se hospitalizan, con mayor razón quienes se hospitalizan en terapia intensiva y, por lo tanto, quienes desafortunadamente fallecen, no hay factor de corrección porque directamente al 100 por ciento se les toman muestras para el diagnóstico por laboratorio.
 ---
+INTERLOCUTOR
+Finalmente, ¿cuándo me presume los EPP?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Los EPP ya se empezaron a repartir desde que llegaron, en el primer avión.
 Ya llegó el segundo, como lo anunció la cancillería. Todo este operativo de adquisición de los insumos, ahorita mayormente provenientes de China, lo está coordinando la Secretaría de Relaciones Exteriores.
 Entonces, ya llegó el primer embarque, lo anunció el canciller Marcelo Ebrard en la conferencia matutina, ya llegó el segundo y lo vamos a estar anunciando. Esto es lo que llamamos el puente aéreo. Una vez que se estableció el primer vuelo, no paran, vienen y vienen; conforme llegan, se empiezan a distribuir.
 Han llegado distintos productos, llegaron guantes, llegaron cubrebocas, llegaron…
 ---
+INTERLOCUTOR
+¿Cuándo… que nos los enseñe?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El día que quiera, con gusto.
 Por favor. Estaba usted, usted; usted no, porque ayer ya habló; la compañera de blanco y usted.
 ---
 PREGUNTA
+Gracias. El lunes usted hizo un llamado a que cesaran los ataques a médicos, enfermeras y diverso personal de salud; sin embargo, a lo largo de la semana hemos visto un incremento en esta incidencia, se han registrado más casos de ataque. Ayer el director general del Issste hizo un llamado, pidió protección para algunas de las unidades.
 La pregunta es si la Secretaría de Salud está pensando en cambiar la estrategia, en hacer también un llamado para que se vigilen más a estas unidades y cesen estos ataques.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No necesitamos cambiar la estrategia, la estrategia es la misma. No confundir estrategia con operación. Estrategia es largo plazo, esta estrategia la definimos en enero y es para toda la epidemia.
 La estrategia tiene distintos componentes y, como han visto en las distintas conferencias, múltiples temas. Ayer vinieron los siquiatras, antes vinieron los especialistas precisamente en discriminación, han venido las especialistas en mujeres, próximamente vamos a hablar de juventudes, vamos a traer todos los distintos temas. Todo eso forma parte de la estrategia.
 La táctica es los plazos, cómo hacemos las operaciones en los plazos intermedios, y finalmente las operaciones son lo que se ejecuta en el día a día.
 Entonces, hay un componente de la estrategia que es la seguridad, la seguridad del conjunto del operativo que incluye las instalaciones, el transporte de los insumos, las instalaciones de salud, las instalaciones de resguardo de los materiales, etcétera.
@@ -64,63 +79,113 @@ Entonces, piensen en esto. La persona que haya perpetrado cualquiera de estas ag
 Nuestro total reconocimiento, respeto, admiración, agradecimiento a todo el personal de salud en este momento que estamos próximos de entrar a la fase 3. Ellas y ellos van a ser las personas protagonistas de la respuesta ante la epidemia de COVID.
 Entonces, necesitamos protegerles por supuesto por parte del Estado, pero también por parte de la población. Confiamos en que la solidaridad natural, el espíritu de comunidad esté presente y también la población ayude a proteger y a respetar y a darle las mejores condiciones de trabajo a las profesionales de la salud.
 ---
+INTERLOCUTORA
+¿Pero a corto plazo no se espera el que esté, no sé, la Guardia Nacional fuera de los hospitales?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No es esa mecánica porque eso no ocurre fuera de los hospitales, ha ocurrido en la vía pública, ha ocurrido en el transporte. Hemos dejado en claro que no hay ningún plan de militarizar el país, que quede muy claro eso.
 También están los propagadores de noticias falsas, los saboteadores de la integridad de nuestra República circulando noticias completamente irresponsables y falsas. Hace un par de días circulaba una falsa proclama, supuestamente proveniente del gobierno que hablaba de que se declararía el estado de emergencia o toque de queda. Esto es falso, no crean en esa desinformación y calumnias.
 Estaba la compañera allá, de blanco, y usted y luego usted.
 ---
 PREGUNTA
+Buenas tardes. Andrea Meraz, de Grupo Fórmula.
 Dos preguntas. La primera es: en esta fase y ya con el número de hospitalizados, ¿Cuántas camas, ventiladores, hay disponibles hay, restando a este grupo de personas?, ¿cuántos hospitalizados están ingresando al día?, si tienen un promedio.
 Y la otra pregunta es respecto a la comunicación que le está dando el personal médico a los familiares con pacientes de coronavirus. Ese es quizá el mayor de los enojos, que no tienen mucha comunicación, que el médico no les da informes y por eso la gente se está molestando y por eso quizá venga el enojo de parte de la ciudadanía.
 ¿En esta estrategia que plantearon hace tres meses ya se tenía el panorama de cómo se les va a informar sobre el estado de salud de los pacientes?, ¿habría que cambiar la operación?, ¿cuál es el mecanismo de cómo se pueden informar las personas?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta. Eso es parte, en una situación como esta o en cualquier situación ordinaria, es parte de la profesión médica. El personal de salud directamente atendiendo a un paciente tiene la obligación de comunicar de manera transparente, de manera precisa, de manera oportuna, de una manera cándida, compasiva, la situación de salud de la persona enferma.
 Está obligada y obligado a dirigirse al propio paciente si el paciente está en condiciones de recibir información; si no lo está, por ejemplo, porque estuviera gravemente enfermo y no está en un estado consciente, tiene la obligación de referirse a quien ha firmado como responsable legal de la persona enferma.
 Esta información debe ocurrir de manera continua. En los hospitales existen unas rondas o procesos que ocurren de manera continua, generalmente se pasa visita a alguna hora de la mañana y a media tarde, precisamente es el momento de informar a los familiares.
 Entonces, no se necesita un operativo especial, pero desde luego si esto no ocurre, esto habla de un problema de calidad de la atención, que es atribuible a la operación que exista en el hospital determinado.
 Y aquí lo que llamamos es a la ciudadanía que donde quiera que detecten una situación como esta, no duden en alertarlo a las autoridades correspondientes; por ejemplo, si se trata de una institución nacional como es el Seguro Social o el Issste, que los distintos mecanismos que se ponen a disposición para la denuncia ciudadana, estos están de manera visible en los propios hospitales, que hablen o que manden un correo electrónico, también existe un mecanismo por Twitter, que lo denuncien. No se justifica en ninguna circunstancia que no se les informe correctamente.
 ---
+INTERLOCUTORA
+Por ejemplo, en algunos hospitales de la Ciudad de México ya les hablaban a los familiares. Esa podría ser alguna otra opción.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Esta es otra historia diferente. Lo que tiene la Ciudad de México desde hace ya dos semanas, casi tres, para reducir la posibilidad de que las personas que no necesitan una evaluación médica por el hecho de que tienen baja probabilidad de complicarse y con el objetivo de que no contribuyan a los contagios, pueden llamar a los teléfonos de emergencia, en este caso a Locatel, al número de Locatel, y Locatel hace la transferencia de la unidad especializada de los servicios de salud de la Ciudad de México y el personal le llama a la persona, le da la asesoría.
 Si se identifica que es un caso compatible con COVID, se le manda un paquete de asistencia y se le dan instrucciones, se le da un seguimiento telefónico. Pero esto es aparte.
 Lo que usted me decía antes es en las unidades de salud ¿no?
 ---
 INTERLOCUTORA
+Le platicaba sobre lo mismo. Entiendo que algunos hospitales, para no tener a los familiares afuera, les están mandando ya directamente al familiar para saber el estado de salud de la persona enferma.
 Entonces, si este modelo se puede replicar en otros hospitales para evitar la…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Maravilloso. Cualquier estado que quisiera implantarlo… Recordemos, lo he dicho muchas veces, los gobiernos estatales son autoridades sanitarias, son autoridades de salud, tienen responsabilidad sobre la integridad, la vida de las personas que habitan en su territorio.
 Directamente los gobernadores y las gobernadoras y cada estado, los 32 estados tienen una Secretaría de Salud, y esa Secretaría de Salud puede tomar decisiones técnicas en el marco de las disposiciones generales de la Secretaría de Salud federal para que, de acuerdo a sus propias realidades y necesidades, puedan brindar los mejores servicios.
 ---
+INTERLOCUTORA
+¿Y lo de las camas?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Lo de las camas, los datos, no necesitamos un promedio, los informamos cada día, eso es lo que acaba de informar el doctor Alomía y lo informamos todos los días, en la distribución de personas que están hospitalizadas, que están intubadas, y en general las que están en terapia intensiva.
+---
+INTERLOCUTOR
+¿Pero cuántas están disponibles ya con los que están hospitalizados al día de hoy?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, esto lo hemos estado informando en bloque, cuando han venido los colegas del Insabi, tanto aquí como en las conferencias matutinas, y hablan de las camas existentes. Pero estamos en este momento cada, precisamente cada autoridad sanitaria de los estados es administrativa, jurídica y operativamente responsable del proceso de reconversión hospitalaria.
 Nosotros dimos las disposiciones generales, hicimos una guía técnica muy cuidadosa sobre cuáles son los criterios para reconvertir un hospital. Uno de los criterios importantísimos es que haya hospitales COVID y hospitales no COVID, y cada Secretaría de Salud de los estados es responsable de poner en práctica esta reconversión.
 El 19 de marzo sesionó el Consejo de Salubridad General y quizá recordarán que uno de los cinco acuerdos de esa sesión fue un exhorto para que todas las autoridades estatales procedieran de manera inmediata a la reconversión de sus hospitales.
 Entonces, ha habido avance en distinta velocidad, algunos estados están más avanzados que otros, algunos planes de reconversión son más elaboradoras que otros, y estamos dando seguimiento para que se cumpla.
 Usted, la compañera, luego usted y luego usted, y acá me está faltando, ¿verdad?, perdón, allá atrás, perfecto. Entonces, a ver, por favor.
 ---
 PREGUNTA
+Hola, buenas noches.
 Preguntarle rápidamente si usted tiene información en torno a la muerte de un empleado del Seguro Social en Tlatelolco. Se hablaba en redes sociales de un posible contagio ahí. Si tienen algún dato.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No lo identifico de manera puntual. Doctor Alomía.
+---
+PREGUNTA
+¿Cuántos trabajadores de la salud han detectado?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No nos saltemos, vamos en orden, cada quien su turno.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Para comentar, es muy importante comentar que si bien es cierto en el nivel federal tenemos nosotros acceso a la base de datos completa, la puntualidad de cada uno de los casos la tiene mucho más específica los estados, que precisamente son los que están más al pendiente de las evoluciones, digamos, en lo particular.
 Se puede hacer una investigación sin problema, porque tenemos acceso a la información, pero de seguro en este caso sería la Ciudad de México la que podría tener más información.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+También déjeme intervenir aquí para comentar.
 Afortunadamente, conforme ha transcurrido la epidemia, ya no ha ocurrido un fenómeno que ocurrió al principio y lo recordarán, que es este fenómeno de estigmatización y ensañamiento contra las personas afectadas o sus familias, esto nos ocurrió con el caso dos, una persona que estuvo en Sinaloa no siendo residente de Sinaloa.
 Entonces, volvemos a hacer el mismo exhorto. Para fines de un fenómeno masivo poblacional tiene poca utilidad conocer los detalles de una persona, pero además entrar en los detalles de una persona implica entrar en la confidencialidad, que es un derecho que se debe preservar y cuidar y respetar para cada persona
 Usted dirá: ‘Aunque no conozcamos el nombre’, pero a lo mejor el nombre ya está en los medios públicos; o, aunque no esté el nombre, está en dónde trabaja, dónde vivía y eso lleva a un fenómeno de agresión y discriminación.
 Y yo les pido…
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Si se vuelve noticia la vivencia de una persona, no perdamos de vista que se afecta todo su entorno y entonces sus familias, sus vecinos, sus colegas de trabajo empiezan a irremediablemente enfocar la atención a una persona.
+INTERLOCUTOR
+¿Es una violación de datos para ustedes?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Lo que les pido es contribuyan al respeto a la confidencialidad de las personas, usted y yo y esa persona que está hablando, todos tenemos ese derecho y hay que respetarlo.
+Si se vuelve noticia la vivencia de una persona, no perdamos de vista que se afecta todo su entorno y entonces sus familias, sus vecinos, sus colegas de trabajo empiezan a irremediablemente enfocar la atención a una persona.
+---
+INTERLOCUTOR
+¿Cuál es el estado que más ventiladores tiene?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Depende de su población y esa es una estadística. Como hemos dicho, le acabo de contestar a la colega, estamos en los procesos de reconversión y hay estados que tenían cierto equipamiento, hay estados que adquirieron nuevo equipamiento, hay compras federales, hay donativos, hay muchas cosas, esto va a estar cambiando todos los días.
+---
+INTERLOCUTOR
+Oiga, una duda. ¿Qué pasa cuando alguien es sospechoso de coronavirus o que tiene una sospecha y lamentablemente fallece antes de que se confirme la prueba?, ¿esa acta de defunción sale como una neumonía atípica o sale enfermo por COVID-19?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nosotros asumimos en este momento que una muerte no certificada que tuviera una neumonía atípica puede ser explicada por alguno de los virus respiratorios.
 Como hemos comentado, todavía existe, lo vamos a tener, la actualización del porcentaje de confirmación el lunes, pero existe la influenza y la influenza da un síndrome clínico con una afección pulmonar muy semejante a coronavirus.
 Entonces, en este momento son las dos causas posiblemente más frecuentes de una neumonía atípica. Cuando existe la oportunidad, también lo explicábamos hace algunos unos pocos días, se puede y se debe tomar una muestra aun cuando la persona haya fallecido.
 Si la muestra se tomó cuando la persona estaba en estado grave y lamentablemente perdió la vida, pero la muestra ya se estaba procesando, en cuanto sale el resultado se clasifica la muerte como de la causa correspondiente, ya sea por COVID, por influenza, o por alguna otra causa identificada.
 ---
 INTERLOCUTOR
+Oiga, ¿y cuál es la ruta o el protocolo que sigue un médico cuando alguien comienza a complicarse con coronavirus?
 En algunos hospitales privados están diciendo, bueno, la prueba de coronavirus, una tomografía, una radiografía, después de ahí un comité define qué medicamento se aplica, algunos antivirales.
 ¿Cuál es el protocolo cuando alguien ya empieza a estar en esa raya de que se está complicando la enfermedad de COVID-19?, porque algunos están en su casa y han mandado mails y han estado comunicándose en algunos medios de información, que dicen: ‘¿Cuál es el momento en el cual yo ya tengo que ir al médico?’
 Y segundo, cuando yo ya estoy en urgencia, cuando yo ya estoy en un hospital, ¿qué me tienen que hacer los médicos?, ¿qué estudios me tienen que realizar para identificar el COVID-19?, o por lo pronto, ¿cómo ese virus dañó al pulmón?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por mencionarlo, porque le da voz seguramente a algunas ciudadanas y ciudadanos, o sus familiares que tienen esta legítima inquietud. No existe una ruta única, porque la ruta depende las condiciones específicas de la persona enferma.
 Existe una guía que se publicó desde la última semana de enero, la publicamos, está de acceso público ahí en el micrositio coronavirus.gob.mx, no es una guía para uso de la población en general, es una guía técnica para las y los profesionales de la salud, para los médicos.
 Y en esta guía se ha compilado lo más relevante de la evidencia científica que permita a las y los médicos orientar el proceso de identificación diagnóstica, el diagnóstico propiamente dicho, la identificación, también, de la probabilidad de complicaciones, el manejo de estas complicaciones, etcétera, etcétera, etcétera.
 A su vez, hay una guía sobre el proceso de control de infecciones que estipula los elementos de bioseguridad que debe considerar tanto la familia como el personal de salud, como las demás personas.
@@ -133,22 +198,32 @@ El manejo médico empieza por identificar esos factores de riesgo. Quien está e
 Ahora, recordar que una vez con la enfermedad, con COVID, las personas que están en el grupo de alto riesgo pueden complicarse literalmente en pocas horas, en pocas horas, es decir, no es algo progresivo que lentamente me voy sintiendo cada vez más mal y mejor me espero un día o dos, no.
 En el momento en que una persona tiene los síntomas de COVID piense, revise, comente con su familia si recuerda, para que le ayude a recordar todos los elementos que pudieran tener de riesgo, los que acabo de mencionar, y debe ser evaluado medicamente en una unidad de salud.
 ---
+INTERLOCUTOR
+¿Además de la PCR, se requiere otro estudio médico ya cuando estás en el hospital?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La PCR, el diagnóstico por laboratorio sirve básicamente para saber dos cosas:
 Si la persona tiene o no tiene infección por el nuevo coronavirus SARS-CoV-2.
 Segundo, un elemento que es de uso médico no es transcendente para la atención, que es si la carga viral es alta o es baja. Esto es importante para el elemento de si la persona podría ser contagiante por mayor tiempo.
 En algunos pocos casos las personas llegan con cargas virales muy altas, están eliminando una gran cantidad de virus, esos infieren directamente por uno de los parámetros de la prueba PCR, y eso puede llevar a que se necesite hacer una segunda prueba antes de que las personas sean dadas de alta para estar seguros de que no van a continuar contagiando.
 Otros estudios, como pueden ser la radiografía del tórax, la tomografía computada, dependen de lo que evalúa el médico, la médica específicamente de cada paciente; es decir, no todos los pacientes necesitan una placa de tórax, no todos los pacientes necesitan una tomografía y, desde luego, hay muchísimos otros procedimientos, diagnósticos y de manejo médico que se evalúan uno por uno de acuerdo a la condición del paciente.
 ---
+INTERLOCUTOR
+Gracias.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Estaba la compañera y el compañero de allá, y nos vamos aquí de este lado, y usted también. Todavía tenemos tiempo, por favor.
 ---
 PREGUNTA
+Gracias. Doctor, buenas noches. Bianca Aguirre, de Notimex TV.
 Bueno, pues ya lo dijo el doctor Alomía, ya la Ciudad de México superó los mil casos y ya está cerca la fase 3.
 Están cercando, pues ya vimos, el Zócalo, el frente de Palacio Nacional, ya también la Alameda. ¿Ante esta fase 3 se cercarían algunas zonas, digamos, de la ciudad por completo? Esto para ir evitando la aglomeración de las personas, como ayer y antier, en la zona de La Viga. Esta es una pregunta.
 Y la segunda, hoy se reunió usted con personal del Insabi para checar la capacidad hospitalaria en los estados. Si nos puede regalar algunos datos.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Respecto a lo primero, no es lineal, es decir, uno, dos y tres no quiere decir cada vez una medida específica la amplío y al principio sólo cerraba plazas públicas, ahora también cierro, qué se yo, parques y jardines.
 En la fase 2… El gran cambio entre fase 1 y fase 2 en términos de la prevención y el control fue la instauración de las medidas masivas de distanciamiento social, de sana distancia. En estas medidas masivas lo importante es que son precisamente masivas, es decir, funcionan por millones de personas que salen de la vía pública.
 Tenemos un monitoreo aquí en la Ciudad de México, que lo hace el propio gobierno de la Ciudad de México, y como mostramos hace unos días, tenemos reducción de más del 65 por ciento de la movilidad urbana.
 En la fase 3 la escena más importante es el hospital. Entonces, así como en la fase 1 estábamos preparando la fase 2 y la pusimos en práctica 15 días antes de entrar en la fase 2, porque quisimos aprovechar la oportunidad adelantándonos, en la fase 2 estamos preparando la fase 3, y ahí viene su otra pregunta.
@@ -163,11 +238,13 @@ Terminando esta reunión con los colegas de Insabi, nos fuimos todos juntos al S
 Usted colega, usted colega y nos vamos acá allá con el compañero, y luego usted.
 ---
 PREGUNTA
+Gracias, buenas noches. Poncho Gutiérrez.
 Hace un par de días usted nos habló de un estimado de contagiados con base en el modelo Centinela, que ronda aproximadamente, nos comentó usted, en 26 mil casos. Esta cifra escandalizó a algunas voces públicas, bastantes.
 Quienes han escuchado sus conferencias saben que este dato usted lo ha dicho una y otra vez durante varias semanas, pero desde antier algunos periodistas y políticos tomaron sus palabras para difundir esta idea de que al doctor Gatell lo obligaron a revelar la verdad después de la entrevista para The Economist, cuando incluso el doctor Alomía y usted nos han dicho esta proporción desde hace semanas, incluso casi un mes.
 Esta afirmación irresponsable de que al gobierno lo obligaron a decir la verdad, personalmente me parece muy grave, muy delicada y es algo que se sigue diciendo en las redes sociales. Me gustaría pedirle que volviera hacer, por favor, esta aclaración para que no existan futuras confusiones sobre esta cifra, ya sea legítimas o malintencionadas, gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Los especialistas en salud mental identifican un fenómeno de la mente humana que se llama proyección y que consiste, lo digo porque ayer estuvieron nuestros colegas siquiatras, la proyección es un proceso de la mente en donde características que uno percibe propias las impone en la visualización de alguien más.
 No pretendo hacer ningún diagnóstico a distancia de las personas que escriben esto, pero es un fenómeno conocido. La importancia de la verdad en el manejo de una epidemia no es solamente un asunto ético, es un asunto técnico. Esta misma frase la dije hace meses y la he dicho por más de 10 años, desde que me dedico a este tema.
 La verdad es importante porque permite que una población, en este caso la población mexicana, conozca cuál es el escenario al que se enfrenta y pueda tomar decisiones, y esas decisiones no dependen sólo de cada persona o no están encaminadas al bienestar de cada persona, están encaminadas al bienestar de la persona, su familia, su comunidad, su barrio, su ciudad, su país y su mundo.
 Somos más efectivos cuando conocemos la realidad, sabemos a lo que nos enfrentamos, lo sabemos con anticipación y podemos saber que si algo es positivo, algo es alentador, nos puede llamar a aprovecharlo.
@@ -177,7 +254,14 @@ Entonces, en todo momento hemos querido que la información se conozca lo más r
 No podemos cambiar las percepciones de cada persona. Si hay un reducido grupo de personas en México que, por algún otro interés distinto de la seguridad sanitaria, del bienestar de las y los mexicanos, tienen necesidad de obstinarse en una agenda particular de difamación, de desoír las evidencias científicas, respetamos su opinión, no podemos hacer nada al respecto más que seguir sumando con la enorme mayoría de mexicanas y mexicanos que conocen en este foro y muchos otros la verdad.
 Muchas gracias.
 ---
+PREGUNTA
+Usted además dijo claramente que es una estimación, no se debe de interpretar de otra manera.
+---
+PREGUNTA
+Seguimos con el orden, no nos saltemos.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, no nos saltemos. Nada más para abordar esto, sí, es una estimación, sí seguimos con 8.2.
 Acabo de decir en respuesta a la primera pregunta, cada semana esto se va a ir actualizando conforme cambie el porcentaje de positividad, el porcentaje de personas que acuden a unidades de salud con enfermedad combatible con coronavirus, etcétera, y lo vamos a estar anunciando cada semana, y conforme existan los datos los ponemos a disposición.
 A veces esos datos nos van a llevar a decir: ‘Qué bien, esto no está tan mal como pensaba’, y otras veces los datos nos van a decir: ‘Qué difícil, vamos a enfrentar una situación difícil’. Ambas cosas se deben conocer con la misma claridad y la misma oportunidad.
 Y aprovecho para recordar lo que he dicho casi al terminar cada conferencia. ¿Se acuerdan que garanticé que iba a llevar el coronavirus a México? Bueno, sigo garantizando que va a ocurrir lo que hemos dicho que va a ocurrir, garanticé que íbamos a pasar a la fase 1 a la 2 y ahora sigo garantizando que vamos a pasar a la fase 3.
@@ -185,14 +269,20 @@ La fase 3 implica un crecimiento acelerado del número de casos, que ya lo estam
 Vamos a pasar allá con el compañero, nos regresamos con usted.
 ---
 PREGUNTA
+Buenas tardes, funcionarios.
 Un par. Primero una inquietud. Tratándose de que usted el director de toda esta estrategia, ¿no debería tener un micrófono personalizado?, ¿un gabalier?, lo veo también a veces sí, a veces lo veo también tocándose y rascándose ahí el cachete, inquieto, en fin. Esa es una inquietud, por una parte.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Buen punto, buen punto.
+---
 INTERLOCUTOR
+Y debido a este confinamiento en los hogares y atender a pacientes, los familiares atender a eventuales potenciales pacientes, ¿no cabe la posibilidad de implementar una estrategia, no sé, atención médica en línea, un tutorial?, precisamente para no dejar en el desamparo a estas familias, a estos hogares.
 Y otra, igual y le parece una gracejada, pero está ahí en las redes sociales. Cuando la peste negra, esta cosa de la peste bubónica, hubo ahí cuatro personajes, cuenta ahí la historia, hasta en todas partes: el aceite del ratero, que está compuesto a base de varias… con base en varias hierbas: eucalipto, limón, canela, en fin, y se está vendiendo, pero a granel.
 No sé, digo, no está comprobado científicamente, no lo sé, pero ¿es válido que la sociedad también pueda tener este tipo de creencias como las estampitas religiosas que muchos de nosotros creemos?
 Son estas preguntas, subsecretario, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
 Me gustan mucho sus preguntas, las aprecio por lo mismo, porque me parecen completamente naturales, genuinas, legítimas y porque seguramente reflejan la inquietud de al menos una persona que nos está escuchando y usted le da voz y nos ayuda a que tengamos este diálogo en forma indirecta.
 Empezaré por la segunda. De acuerdo a la idiosincrasia, la cultura, la cosmovisión de cada pueblo y de cada persona, existe una serie de elementos referenciales en los que se deposita la confianza, la esperanza.
 El estado de ánimo depende mucho de la identificación de este tipo de elementos referenciales. A veces son elementos de carácter religioso, a veces son símbolos culturales, a veces están en los propios modos de convivencia entre los seres humanos y a mí me parece que todos deben ser considerados legítimos, respetarlos, celebrarlo, honrarlos en la medida en que proceden de tradiciones, la mayoría de estos milenarios.
@@ -209,21 +299,31 @@ Pero por otro lado, y lo relaciono con su primer comentario, lo cual me parece t
 Por esa razón es que no hemos hecho una recomendación enfática en pro del cubrebocas y de uso comunitario, pero tampoco estamos en contra. Sí es un elemento auxiliar que por su uso masivo contribuye a que personas que empezaran a ser infecciosas en el periodo antes de que se den cuenta, ya les protegió, muy probablemente va a contribuir un poco.
 Gracias.
 ---
+INTERLOCUTOR
+El tutorial.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, tutoriales, qué bueno que lo menciona. Claro que los hay, ayer mismos los colegas siquiatras hablaron de tutoriales en términos de la Línea de Vida, y hay ahí varios teléfonos que pusieron ayer, el 800 00 44 800, 800 00 44 800, es el centro de llamadas de atención ciudadana de la Unidad de Inteligencia Epidemiológica y Sanitaria, y ahí tenemos personal entrenado.
 Después de un episodio en donde se nos saturó el centro de llamadas, lo expandimos masivamente, estamos lejos de que se nos sature.
 Entonces, usted llame, por ejemplo, si usted tiene la inquietud de si tiene o no riesgo de complicarse, es lo que preguntaba usted hace rato, llame, 24 horas al día, 800 0044 800 y entonces platique con el quien le va a asesorar y que le diga, le va a hacer preguntas: ‘Oiga, ¿usted fuma?, ¿cuándo fumó?’, y le va a decir: ‘La recomendación es que sí vaya en este momento a atención médica’.
 ---
+INTERLOCUTOR
+Pero alguien, cuando ya está con el coronavirus en su casa, que no tienen ventiladores ¿qué hacemos?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Quien está en su casa no necesita un ventilador, si alguien necesita un ventilador debe de estar en el hospital, indiscutiblemente.
 Nos queda tiempo para una pregunta.
 Ahí está 0800 0044 800.
 La última pregunta, por favor.
 ---
 PREGUNTA
+Gracias, doctor. Daniela Pastrana, de Pie de Página.
 Nos ha llegado mucha inquietud de cómo hablar con los niños de esto. Es una de las preguntas que ayer se nos quedó por la falta de tiempo en el tintero que quería preguntarles a los siquiatras, para saber también si tienen en esta estrategia, preparado materiales específicos para hablar con los niños, cómo les explicamos lo que está ocurriendo, por qué tienen que estar encerrados, un poco lo que se dijo ayer, pero con materiales dirigidos a ellos o cómo podemos hacerle para explicarle a los niños.
 Y, por otro lado, digo, hemos estado siguiendo esta información de China presentó ya su primer día sin muertos, que en Europa va bajando, lo que nos van explicando, que va aumentando en América, que viene la fase 3.
 Y yo quería preguntarle si con la información que tienen hasta ahorita con lo que han monitoreado, sus previsiones sobre esto que había explicado de alargar la curva más o menos cómo van, si vamos más bien mal o algo así.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta sobre los niños, le voy a pedir al doctor Alomía si lo contesta.
 Déjeme abordar primero, porque él está coordinando los distintos grupos que elaboran las guías, pero le comento sobre esto.
 Todavía no tenemos evidencia, porque no ha transcurrido suficiente tiempo desde que se establecieron las medidas masivas de sana distancia.
 El 23 de marzo se cerraron las escuelas y esta fue la contribución hasta ahora más consistente a la sana distancia, porque de un día para otro se salieron de la circulación cerca de 15 millones de personas, todos los educandos, el personal, el personal que está en las economías periféricas a las escuelas, pero luego se sumó el resto de las suspensiones de actividades y estas no se han ejecutado de manera muy consistente.
@@ -236,6 +336,7 @@ Pero cuando una persona se ve en cierta manera presionada para tener que ir a tr
 Si brevemente nos comenta nada más sobre los niños.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, nada más rápidamente hacer la referencia. Sé que aquí está muy pequeño, pero lo pueden ustedes ver en la página precisamente de la Secretaría de Salud, en el micrositio de coronavirus, hay una pestaña específica de hecho que dice material o sección para niños.
 Si ustedes ingresan a esa pestaña… Ah, lo tenemos en grande, la pestaña que dice ‘Sección para niños’, y ahí podemos ver como hay material, que está específicamente diseñado para ellos, desde conocimiento para que ellos sepan cómo se produce la enfermedad, cómo se lleva a cabo.
 Si seguimos subiendo vamos a encontrar toda una serie de videos -si le podemos dar para arriba a la página, por favor- hay sección de cuentos, hay personajes conocidos ya mundialmente, que lógicamente en alianza con ellos han hecho estos eventos.
 Si seguimos subiendo encontramos también videos explicativos, mensajes lógicamente en formatos que ellos puedan entender mucho mejor, que le sean más coloridos, en lenguaje sencillo. Aquí están los videos, videos desde los personajes ampliamente conocidos como también con videos son Susana Distancia.
@@ -243,4 +344,11 @@ Y muy importante, también podemos encontrar guías para cuidadores, es decir, l
 Los invitamos a visitar esta página.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Pedimos su ayuda para que nos ayuden a difundir esto. Este ha sido un trabajo titánico y formidable que ha coordinado en particular el doctor Ricardo Cortés Alcalá, el creador de Susana Distancia, director general de Promoción de la Salud y todo su magnífico equipo en la dirección, y vemos que no ha sido suficientemente explotado. Ha implicado alianzas con entidades, algunas sociales o privadas como los que tienen la propiedad intelectual de algunos de estos elementos y es el momento de usarlas, todavía faltan varias semanas.
 Muy bien. Muchas gracias.
+---
+PREGUNTA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana abordamos, mañana empezamos con ese tema.

@@ -3,12 +3,14 @@ Presidencia de la República
 01 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy bien, vamos a empezar, son las 19:00 horas del miércoles 1º de abril, estamos en la Ciudad de México, en el Palacio Nacional, y vamos a comenzar la conferencia diaria sobre la situación de la epidemia de enfermedad por el virus SARS-CoV-2, conocida como COVID-19 en el mundo y en México.
 Hoy vamos a compartir otra información de la que no habíamos hablando antes y también consideramos que son noticias útiles, y para ustedes como comunicadoras, como comunicadores, y para la ciudadanía; tiene que ver con el seguimiento de algunos asuntos que se han comentado aquí y también con nuevas herramientas para que podamos responder de manera organizada ante esta epidemia.
 En particular anticipamos que va a ser de interés para usted como ciudadana, como ciudadano residente en México, porque es una herramienta con la que usted va a poder identificar de manera oportuna la atención médica en caso de ser necesaria.
 Vamos a empezar con el informe epidemiológico diario, que le voy a pedir al doctor Alomía comente; posteriormente, el doctor Manuel Cervantes, quien es titular de la Unidad de la Coordinación del Centro Integral de Primer Nivel en el Instituto Mexicano del Seguro Social, nos va a dar seguimiento a la situación del brote de Monclova, Coahuila; y el doctor Ricardo Cortés va a presentar la herramienta a la que me he referido y yo simplemente coordinaré la sesión.
 Doctor, Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Buenas tardes, todas y todos.
 Como es ya costumbre en las conferencias de esta hora, presentar la actualización del panorama internacional y nacional, la actualización de las últimas 24 horas. Como pueden ver, la proporción de casos que se han confirmado en los últimos 14 días se incrementó un punto porcentual, 77 por ciento,, es decir, todavía las dos terceras partes de todos los casos que hasta el momento se han confirmado de la enfermedad a nivel mundial, las dos terceras partes se han producido o iniciado con sintomatología en los últimos 14 días, lo que quiere decir que la pandemia en este caso se mantiene activa y se mantiene generando la producción de nuevos casos, 77 por ciento.
 En la siguiente diapositiva vemos una nueva forma de cómo visualizar, cómo se ha estado llevando a cabo la transmisión. Podemos ver precisamente la distribución de casos en las últimas 24 horas, cada una de las columnas son los casos acumulados para cada uno de los días y en diferentes colores pueden apreciar las regiones del mundo, en este caso son regiones de la Organización Mundial de la Salud, de cómo se han estado presentando.
@@ -38,9 +40,11 @@ La siguiente, que es la última, es un dato que nos pedían el día de ayer y qu
 Esta sería la actualización del día de hoy. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Le pedimos entonces al doctor Manuel Cervantes si nos comenta sobre la situación en Monclova, Coahuila.
 ---
 MANUEL CERVANTES OCAMPO, TITULAR DE LA COORDINACIÓN DE ATENCIÓN INTEGRAL A LA SALUD EN EL PRIMER NIVEL, IMSS
+Muchas gracias, subsecretario.
 Buenas noches a todos ustedes y a todos los que nos escuchan.
 Cumpliendo el compromiso del día de ayer, donde el doctor Eduardo Robles, que estuvo presente en este momento está en la ciudad de Monclova, destacan algunas acciones que hicieron hoy mismo en esta mañana.
 Permítanme ustedes poderles informar que hoy por la mañana, en una reunión encabezada por el señor gobernador Miguel Riquelme Solís, el señor alcalde de Monclova, el señor Alfredo Palacios, junto con el secretario de nuestro sindicato de trabajadores del Seguro Social, doctor Alejandro Cantú; la coordinadora de asesores del director general, del maestro Zoé Robledo; el señor Luis Obrador y el doctor Eduardo Robles, que estuvo el día de ayer acá con nosotros y ustedes, se dieron a la tarea de hacer una reunión conjunta con cinco compañeros de trabajo de este hospital en la ciudad de Monclova para discutir, definir las estrategias para disminuir el brote en el Hospital General de Zona Número 7, ubicado en la ciudad de Monclova, llegando a los siguientes acuerdos importantes.
@@ -59,6 +63,7 @@ Es cuanto, señor subsecretario.
 Un saludo del maestro Zoé Robledo, que está muy atento a poder cumplir las disposiciones que tenemos en materia de COVID-19 y poder enfrentar juntos, nuevamente, insisto, esta epidemia COVID-19.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Cervantes.
 Aprovecho para comentar lo productivo que ha sido el trabajo unido en el sector salud, independientemente de la colaboración también de otros sectores que iremos comentando en los siguientes días.
 Desde que iniciamos la preparación para esta respuesta en enero, en la primera semana de enero, partimos de un marco de colaboración entre instituciones que ha sido muy, muy fructífero y quiero destacarlo, en ocasiones hay una institución que tiene mayor capacidad en cierto aspecto técnico, fórmula una guía técnica y enseguida existe un ánimo de integrarla como una guía sectorial; en otras ocasiones las guías son producto del trabajo conjunto, lo mismo ha pasado con las distintas estimaciones, los planes de reconversión y es muy satisfactorio.
 Entonces, quiero agradecer públicamente al maestro Zoé Robledo, director general del IMSS; y también al maestro Luis Antonio Ramírez Pineda, director general del Issste.
@@ -77,14 +82,17 @@ Descárguenla, descárguenla hoy mismo, úsenla, retroaliméntennos para mejorar
 Muchas gracias, subsecretario.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud.
 Aquí quiero aprovechar para también agradecer, ya mencionó el doctor Ricardo Cortés al fabuloso equipo de la Dirección General de Tecnologías de la Información y Comunicación de la Secretaría de Salud, quien encabeza esta dirección es el ingeniero César Vélez Andrade, pero también a Emiliano Calderón y a su talentosísimo equipo en la oficina de Estrategia Nacional Digital o Digital Nacional de la Presidencia, y lo mismo también a la colaboración muy generosa de Conacyt, que ha establecido un grupo de ciencia de datos y tecnología, también desde el inicio de la preparación. Todo esto es el esfuerzo y la generosa contribución de todos ellos.
 Vámonos por esta filita hasta Aracely y luego nos vamos por acá. Ahora sí le vamos a dar la palabra a Blanca.
 ---
 PREGUNTA
+Muchas gracias, buenas noches. Bianca Aguirre, de Notimex TV.
 Bueno, pues ya hoy se cierran los centros comerciales, los restaurantes, ya desde ayer solamente hay comida para llevar. Hay que está espantada, no entiende que todavía los supermercados están dando servicio.
 ¿Qué mensaje le mandan a la población para que no caigan en las compras de pánico?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Qué pregunta tan pertinente.
 Efectivamente, hoy cerraron los restaurantes, la venta de alimentos en la Ciudad de México. Esta no es una medida de disposición general, hay partes de la república que, atendiendo al criterio general, han tenido otro tipo de conducta que por el momento parece apropiada.
 Habíamos comentado ya hace algunos días atrás que la zona metropolitana del Valle de México, por ser la región, como se vio en los datos, que tiene por ahora la mayor carga de enfermedad, también la mayor incidencia acumulada y por lo tanto la mayor fuerza de infección, la mayor inercia de la transmisión, requiere medidas un tanto más enérgicas.
 Muy afortunadamente la doctora Sheinbaum, jefa de gobierno de la Ciudad de México, y el gobernador Alfredo del Mazo han tomado un liderazgo muy positivo en empujar estas medidas un poco más intensas.
@@ -100,6 +108,7 @@ Muchas gracias.
 Vamos a darle la palabra a ellos tres, luego nos vamos aquí tres y luego usted.
 ---
 PREGUNTA
+Gracias, buenas noches, profesionales de la salud. Mi nombre es Julio Omar Gómez, soy de Baja California, de 911 Noticias.
 Este tipo de intervención es una medida que se está tomando en la Ciudad de México, sí, pero ¿cuál sería el otro panorama de intervención?, ¿hasta dónde podríamos llegar o cuál sería una intervención límite a lo que podría tomar decisiones el consejo o ustedes, especialistas de salud? Eso es por una prime pregunta.
 La segunda pregunta es: entregué unas recetas al doctor Borja, del IMSS, el cual me dijo que se pondría en contacto con la persona porque no se le ha entregado el medicamento, porque ha tenido bastante batalla, sobre todo por la falta del recurso, fue la semana pasada; aún no he sabido nada de ello y nos siguen llegando recetas, no hay medicamentos, no hay la eficiencia, no hay, no hay y no hay, y son negativas por parte de cualquier sistema de salud, excepto los privados obviamente.
 Pero la idea es que si se dice que se tiene un acceso a la salud gratuita y una atención, que aquí se dice, bueno, la realidad es otra.
@@ -107,6 +116,7 @@ Por eso yo fui el interlocutor para entregar estas recetas que aún no han recib
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias.
 Creo que su comentario va a ser seguido con especial interés por el doctor Cervantes y por supuesto todos acompañamos a, como lo he dicho, entre instituciones para trabajar en equipo, pero le vamos a dar seguimiento.
 Respecto a cuál es el límite. El límite es que logremos reducir la velocidad de transmisión. Hemos dicho también desde el inicio, quizá lo recuerdan, que el abordaje de mitigación lo que implica es el reconocimiento basado en la evidencia científica de que no es posible cortar una epidemia de un día para otro. Sería una mentira quien pretenda salir a la audiencia pública y le prometa que la epidemia se va a acabar en México o en cualquier parte del mundo, pues desde luego no estaría teniendo un reconocimiento claro de la información científica apropiada.
 Entonces, en este momento las medidas están orientadas a una mitigación muy intensiva, hemos estimado, de acuerdo a los sectores de la economía y de gobierno y de la sociedad, que la medida de seguridad sanitaria establece que estamos reduciendo la movilidad en el espacio público de cerca de 70 millones de personas, es decir, es verdaderamente masiva.
@@ -117,6 +127,7 @@ Quiero, por ejemplo, felicitar y agradecer también a los empresarios, a las per
 Araceli, por favor.
 ---
 PREGUNTA
+Gracias. Ante la pandemia, se ha estado comprando productos defectuosos, se le ha comprado a China, es algo que ha trascendido.
 El gobierno mexicano anunció que también va a comprar productos a este país.
 ¿El gobierno mexicano cómo garantiza que estos productos sean efectivos, estas compras que ha anunciado? Esa sería mi primera pregunta.
 La segunda, si me lo permite, en el tema de reconversión de hospitales aquí se anunció que estaban analizando que fuera el militar de Tematla el próximo hospital COVID y también el director del Issste dijo que era probable que también un hospital de Cuernavaca, Morelos, El Calero, se estaba analizando que sea COVID.
@@ -124,6 +135,7 @@ La segunda, si me lo permite, en el tema de reconversión de hospitales aquí se
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con mucho gusto. Gracias, Araceli.
 Sobre la calidad de los productos y de los insumos, vi efectivamente circular una noticia, me parece que de la agencia Reuters, que hablaba de que en Europa se compraban productos de esta nacionalidad de China y se invoca la noticia que son productos de mala calidad.
 Aquí lo primero que quiero decir es: no debemos tener prejuicios respecto a países, porque ahí como en cualquier otro país hay productos de alta calidad, productos de mediana calidad, productos de baja calidad, porque en un momento dado en la narrativa aparece China como un país productor de productos en esta noticia de baja calidad, porque China es un productor masivo, China está en el centro de las cadenas de producción, tiene una gran cantidad de productos en el mundo entero.
 Entonces, obviamente por el volumen tan grande que tiene, cuando hay un producto de mala calidad y se vuelve noticia, se hace muy aparente por el volumen de los productos, pero quiero ser enfático: no hay razón alguna -y esto la Secretaría de Economía, por ejemplo, lo tiene muy bien documentado- para pensar que China es sinónimo de mala calidad. China también tiene espléndidos productos tecnológicos y otros de distintos insumos para salud.
@@ -151,15 +163,27 @@ Las llamadas pruebas rápidas no ocurren en un laboratorio, ocurren al pie de la
 Es lo anticuerpos que genera el organismo humano frente al virus. La respuesta inmune que incluye la producción de anticuerpos para el nuevo coronavirus todavía no ha sido suficientemente estudiada como para poder aislar los componentes que permitan el reconocimiento de estos anticuerpos.
 En resumen, no hay pruebas rápidas competentes. Hasta el momento ni México -y asumo que tampoco otros países- tiene una resistencia programada a no usar pruebas rápidas, pero si no son competentes, no tenemos por qué utilizarlas. Ese es el punto importante.
 ---
+INTERLOCUTORA
+Y los hospitales, doctor.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, hospitales. Le propongo lo siguiente, Araceli, ustedes y la ciudadanía. Estamos terminando de cerrar un documento referencial técnico que se llama… el nombre específico va a definirse, pero por ahora le voy a llamar lineamiento general de reconversión hospitalaria.
 Esto ha sido producto de un trabajo de varias semanas en donde hemos ido reconociendo las capacidades instaladas de los distintos hospitales para las instituciones nacionales de salud, como el Issste y el IMSS. Ha sido relativamente fácil porque existen catálogos previos para los hospitales en los estados que dependen de los servicios estatales, ha sido un poco más laborioso el proceso porque hay que reconocer la diferencia entre el censo administrativo sobre el número de camas, y la realidad operativa de las camas que están disponibles.
 Pero ya hemos culminado este ciclo y tenemos esta guía que nos permite organizar específicamente cuáles de los hospitales van a ser destinados a COVID y cuales no COVID, y como ya lo sabemos para el IMSS, lo sabemos para el Issste, lo sabemos para la contribución de Plan Sedena, el Plan DN-III y Plan Semar, pero queremos presentarlo de conjunto. Entonces, la próxima semana traemos, lo presentamos y traemos a los protagonistas.
 ---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto, Araceli. Vamos a empezar de allá para acá, terminamos en Blanca, y nos vamos a aquella fila, y son las 19:42.
+---
 PREGUNTA
+Gracias, buenas noches. Liliana Noble, de Pulso de Salud.
 Doctor Gatell, yo le quisiera preguntar. Leí en una publicación de Harvard que decía que el virus puede ser bifásico y que el aspecto hormonal, testosterona, andrógenos, influye mucho en que la mayoría de las muertes ocurren en los hombres. ¿Cuál sería su opinión al respecto?
 Y una segunda pregunta para el doctor Cortés. Veía que hay varios estados que ya tienen igual aplicaciones. ¿Están pensando en hacer una convergencia de todas ellas?, esto les podía ayudar en el futuro a establecer estadísticas más precisas. No quiero decir que no estén haciendo bien su trabajo, sino que esto les pueda facilitar aquellos casos que se encuentran en lugares lejanos y que tienen la posibilidad de un celular. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por las preguntas.
 Sobre este tema del virus y si hombres o mujeres tienen mayor riesgo, no solamente en esta enfermedad y no solamente en las enfermedades infecciosas, es común que se identifiquen estos patrones en donde uno y otro de los sexos biológicos pudieran tener diferencias en el riesgo.
 En general es importante considerar de manera amplia, el riesgo no depende solamente de características biológicas, y la diferencia entre un hombre y una mujer no estriba solamente en los componentes hormonales, hay una gran diversidad de variantes en las que podría estar orientado el riesgo.
 Por ejemplo, hay una variante que es población y tiene que ver con la probabilidad de estar expuesto al virus. Este tipo de patrones en enfermedades de interés epidemiológico lo vemos… Les pongo un ejemplo, dengue, en México dos terceras partes de los casos de dengue en México y en el mundo en general, dos terceras partes ocurren en hombres y una tercera parte en mujeres, y este patrón es muy sistemático; lo mismo pasa para el paludismo con una razón incluso más grande de 75 por ciento hombres y 25 por ciento mujeres.
@@ -167,10 +191,15 @@ Algunos de los estudios históricos sobre fenómeno lo que apuntan es más bien 
 No descarto lo otro, no lo he leído este artículo, me lo han mencionado, pero desde luego es más complejo que solamente el aspecto hormonal.
 ---
 RICARDO CORTÉS ALCALÁ
+Sobre el uso de las aplicaciones en diferentes entidades o estados de la república, definitivamente vamos a estar en contacto, estamos en contacto todos los días con ellos para saber qué información cada una de las aplicaciones recoge.
 Y definitivamente esto funciona, pero muy, muy bien y de forma muy interesante para reconocer a aquellos que por cualquier situación no acuden a los servicios de salud porque, o no lo cree conveniente o porque está siguiendo la recomendación de que si comienza con alguna sintomatología y no requiere, no muestra datos de gravedad y no requiere de la atención médica, entonces, a través de la aplicación nos notifica, digamos, de su sospecha.
 Le podemos además asesorar si es que requiere de alguna atención específica por encontrarse dentro de algún grupo de mayor riesgo. Y nos sirve para ver otro tipo de vigilancia, que no es específicamente aquella vigilancia epidemiológica en la que se hace, en la que esperamos a que la persona llegue a los servicios de salud, entonces lo registramos y todo, sino un autorregistro para conocer otro panorama que nos puede servir muchísimo para la toma de decisiones.
 ---
+INTERLOCUTORA
+¿Código infarto o algo más o menos así?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Digo, en el sentido de tener un mecanismo de identificación del caso que requiere o no atención, sí es análogo a Código Infarto.
 Código Infarto, para quien no está familiarizado con esto, es un protocolo de orientación de una serie de pasos para que la población que presente un infarto -es una analogía, COVID no causa infartos- pueda tener un acceso anticipado a la orientación médica. Entonces, en este sentido sí.
 Y aquí quiero también comentar la importancia de este tipo de aplicaciones para la fase3. Como hemos dicho, uno de los retos principales para la fase 3 es que no se saturen los hospitales.
 El problema principal ocurriría si se saturan las terapias intensivas, pero también si se saturan las camas de hospitalización general, pero también si se saturan los servicios de urgencias.
@@ -181,12 +210,14 @@ En la propia aplicación, como se mostró, está el número de atención: 800 00
 Vámonos con las últimas dos preguntas. Me anuncian que nos quedan siete minutos.
 ---
 PREGUNTA
+Gracias, buenas tardes.
 Preguntarle: ¿cómo van las compras, subsecretario, de los insumos, tanto de protección como médicos, ventiladores y demás?, ¿sí encontraron los proveedores?
 Habían dicho que había proveedores que estaban alzando mucho o llegamos tarde a la compra de ellos, por un lado, a la compra insumos.
 Y por otro lado preguntarle rápidamente: ¿cuál va a ser la responsabilidad de los hospitales privados?, ¿se están coadyuvando el sector salud con hospitales privados?, porque ayer, tenemos entendido, un bebé de meses de nacido fue traslado… de días de nacido fue trasladado de un hospital privado a una clínica del IMSS. Me gustaría saber por qué fue. Con COVID también este bebé.
 Y bueno, si están tomando esta responsabilidad los privados o se están haciendo a un lado con el sector salud. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Lo de los insumos se lo respondo pronto porque vamos a estar anunciando conforme tengamos los cortes de información donde haya algo nuevo que anunciar, recientemente en la conferencia de la mañana anunciamos el avance en este sentido.
 En general tenemos un balance muy positivo. Hoy, por ejemplo, en horas de la madrugada llegó un cargamento masivo de una donación de insumos de protección personal: cubrebocas, batas, guantes, mascarillas, etcétera, también de 50 mil pruebas diagnósticas que están ya en evaluación precisamente en el Indre, y todo esto está llegando más o menos de acuerdo al plan.
 Donde hemos tenido más dificultad, y también lo hemos compartido de manera clara, ha sido en los ventiladores, este es un insumo restrictivo importante, y también encontramos la oportunidad de reparar ventiladores.
@@ -205,14 +236,45 @@ A nadie debe extrañarle que eso pudiera necesitarse. Si no se necesita, pues qu
 Y la tercera -de hecho, son más etapas- la siguiente etapa es la utilización de infraestructura privada. No queremos considerar como primera línea de expansión al sector privado a menos que haya una oferta, una donación temporal, y tenemos ya varias, donde hay hospitales completos que el dueño, la persona dueña, ha dicho: ‘Úsenlo, gobierno, úsalo, nada más equípalo en este y este aspecto o pon al personal’.
 Ya que tengamos el informe detallado les damos los puntos concretos y utilizaríamos esto.
 ---
+INTERLOCUTOR
+(Inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ahí vamos, esa es otra etapa.
 La siguiente etapa es obviamente la adición -de hecho, esa es previa- la adición del Plan DN-III y el Plan Marina. Entonces, las instituciones armadas en sus planes de apoyo a la población civil tienen ya contemplado la expansión de capacidades.
 Luego viene el uso de infraestructura que no es primariamente diseñada para la atención como podría ser hoteles y luego ya es infraestructura que nunca ha sido planeada para alojar camas como podría ser gimnasios y ese tipo de cosas.
 ---
+INTERLOCUTORA
+Eso ya sería un extremo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Eso ya sería una situación más intensiva de la demanda. Entonces, esos son términos generales los planes.
+---
+INTERLOCUTORA
+¿Podría rápido…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a dar la última palabra a Blanca Valadez y a usted la vamos a tener que dejar para mañana.
+---
 PREGUNTA
+Doctor Cervantes, a mí me gustaría que nos actualizara. Ayer nos comentaban que eran 39, personal de trabajadores de la salud que estaban contagiados. Nos gustaría que nos dijera ahorita actualmente cuántos son.
 ¿En Monclova cuántos son también en específico?
 Nos comentaban de tres casos que habían fallecido, ahorita supongo que… ¿Cuántos son, que ya están, pero que trabajaron?, nada más hay uno.
 Nos comentaban de casos en La Raza de altos… de la subdirección médica ¿cuántos son específicamente gente que ha fallecido por estar en contacto ahora sí que es su deber?
 ---
 MANUEL CERVANTES OCAMPO
+Muy rápidamente y con mucha puntualidad. Seguimos con los 39 casos que tiene el Instituto Mexicano del Seguro Social; de estos 39, 26 están en Monclova, están estudiados, están con seguimiento y desgraciadamente tres compañeros han fallecido.
 La doctora infectóloga jubilada de La Raza es el último fallecimiento que tuvimos.
+---
+INTERLOCUTORA
+Esa se dio en La Raza, ¿y otro se dio en Monclova?
+---
+MANUEL CERVANTES OCAMPO
+En Monclova. Fue el médico Reyes, que me acabo de referir y, bueno, otro caso en Zacatecas.
+---
+INTERLOCUTORA
+Doctor nada más una cosa. Lo del bebé ¿sí fue un caso positivo del COVID?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No tengo información, pero lo documentamos y lo traemos mañana. ¿De acuerdo?
+Muchas gracias. Empezamos con usted mañana. Gracias.

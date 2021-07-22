@@ -3,6 +3,7 @@ Presidencia de la República
 20 de febrero de 2020
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Buenos días. Ánimo.
 Vamos a presentar un programa de Microsoft, que es una empresa de gran importancia tecnológica en el mundo. Y hemos tenido con Microsoft una relación en los últimos tiempos, nos visitó el director general y se convino hacer un acuerdo, una alianza y trabajar de manera conjunta y avanzar en lo tecnológico en nuestro país.
 Es muy grato el poder informar al pueblo de México que esta empresa va a invertir más, porque ya lo está haciendo, en desarrollo de tecnología, todo esto en beneficio del desarrollo de México. Han mostrado confianza en nuestro país, como otras empresas importantes de dimensión mundial.
 Y en esta ocasión se va a exponer en qué consiste este convenio con Microsoft, qué se ha conseguido. Agradecerles mucho a los ejecutivos de Microsoft que nos acompañan. A todas, a todos, muchas gracias por confiar en México y por invertir en tecnología en nuestro país.
@@ -10,13 +11,15 @@ Vamos a que Emiliano Calderón, que es coordinador de Estrategia Digital del gob
 Tiene la palabra Emiliano para que nos de la introducción.
 ---
 EMILIANO CALDERÓN MERCADO, COORDINADOR DE ESTRATEGIA DIGITAL NACIONAL DE PRESIDENCIA
+Qué tal, buenos días a todos.
 El anuncio que hoy se expondrá es consecuencia de una de las políticas que ha puesto en marcha este gobierno, que tiene que ver con reformular la relación con los proveedores y empresas. También es el reflejo de incluir a todos los agentes económicos para contribuir en mejorar al país.
 En abril del año pasado, el presidente de la República tuvo una conversación con el director ejecutivo de Microsoft, Satya Nadella. En dicho diálogo hubo coincidencias con las principales líneas estratégicas que tenemos en el gobierno sobre inclusión digital y financiera.
 La confianza que existe ahora en México da como resultado este proyecto de inversión en el ámbito tecnológico, que contribuirá directamente a los esfuerzos que el gobierno hace para motivar la innovación tecnológica como herramienta para llevar a los que menos tienen recursos de comunicación, médicos, de educación, financieros y muchos otros.
 Ahora veremos un mensaje enviado por Satya Nadella, que es el director ejecutivo de Microsoft; y después de ver el mensaje, César Cernuda, que es el presidente de Microsoft en Latinoamérica, nos presentará en términos generales el plan de inversión que tienen para México.
 Pasamos el video.
 ---
-SATYA NADELLA, DIRECTOR EJECUTIVO DE MICROSOFT: (interpretación del inglés al español)
+SATYA NADELLA, DIRECTOR EJECUTIVO DE MICROSOFT
+(interpretación del inglés al español) Gracias, presidente López Obrador y gracias a todos los líderes que están aquí hoy.
 En un mundo en que la informática está transformando todos los aspectos de nuestra vida y trabajo todos los aspectos de nuestra vida y trabajo, tenemos la oportunidad sin precedentes de aplicar la tecnología digital para generar nuevas oportunidades en México, ayudar a hacer más productivas pequeñas empresas, más competitivas a todas las empresas en México, creando más empleos, hacer más eficientes a todas las instituciones gubernamentales y mejorando los resultados de salud y educación.
 Lo vi con mis propios ojos durante mi visita a México el año pasado, cuando conocí a muchos mexicanos innovadores que inspiran, desde hospitales locales aplican la tecnología para mejorar la atención de los pacientes y empresas mexicanas usando las herramientas de colaboración más modernas para promover una cultura laboral completamente nueva, hasta fábricas que aprovechan el poder de la inteligencia artificial para adquirir nuevos conocimientos y mejorar sus operaciones.
 Y hoy me entusiasma mucho anunciar que durante los próximos cinco años se invertirán en México mil 100 millones de dólares enfocado a expandir el acceso a la tecnología digital, personas y organizaciones en todo el país.
@@ -27,6 +30,7 @@ Nuestros anuncios de hoy se basan en más de tres décadas de colaboración en t
 Muchas gracias
 ---
 CÉSAR CERNUDA REGO, PRESIDENTE DE MICROSOFT LATINOAMÉRICA
+Muchas gracias, señor presidente, Emiliano. Muy buenos días a todos.
 Es un placer para mí estar aquí representando a Microsoft para anunciar ante ustedes el plan Innovar por México, que nos permitirá de manera conjunta con el gobierno federal contribuir a la transformación digital de este país.
 Microsoft lleva 34 años comprometido con México. Siempre ha accionado a través de una visión de carácter global enfocada en el impacto local. Durante este tiempo hemos creado una red de cuatro mil socios en el país que generan hoy más de 150 mil empleos relacionados con la industria de la tecnología.
 Hemos también invertido en el desarrollo de habilidades digitales en la población, completando a la fecha 15 millones de entrenamientos en línea sobre nuevas tecnologías.
@@ -51,36 +55,48 @@ Presidente, muchas gracias por la invitación de hoy.
 Muchas gracias a todos.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, pues es una buena noticia.
 En términos generales, Microsoft ha decidido invertir en nuestro país mil 100 millones de dólares para desarrollo tecnológico en distintos campos y les agradecemos mucho, en nombre del pueblo de México el que haya una respuesta a los compromisos que se hicieron cuando nos entrevistamos con el director general de Microsoft.
 Muchas gracias a nombre del gobierno que represento.
 Y esta es una muy buena noticia. Hay confianza en el país. Cuando hablamos en abril del año pasado, estaba Microsoft analizando si era viable invertir en México, había desde luego otros países, otros candidatos a esta inversión y resolvieron hacerlo en México y esto es importante.
 Ayuda mucho, además del potencial que tiene nuestro país en general, ayuda mucho el que se haya firmado el Tratado de Libre Comercio en Estados Unidos, porque esto significa que las empresas van a ampliarse y van a requerir de más tecnología, las empresas que producen en nuestro país tanto para el mercado interno como para la exportación.
 Esta era la información en general que queríamos transmitirles. Y les invitamos a que se queden, porque vamos a abrir ya en general preguntas y respuestas.
 Sobre el tema. Adelante.
-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 ---
 PREGUNTA
+Buenos días, señor presidente, Juan Carlos Machorro, del portal Expok.
 Al presidente de Microsoft, si pudiera ahondar un poco más. ¿Cuánto de esta inversión va a ser en este proyecto de sustentabilidad?
 Y no sé si tendrían plan de ampliarlos. Sabemos que aquí en México hay diferentes especies que son emblema a nivel global, como la ballena, no se diga el caso de la vaquita que sigue en peligro, etcétera.
 ¿Cómo fue esta cuestión de enfocarse en ese punto? Si se puede ampliar.
 Y en un instante una segunda pregunta al presidente, si me lo permite.
 ---
 CÉSAR CERNUDA REGO
+Sí, muchas gracias.
 La respuesta es sí; es decir, claramente, como decía, esto es un proyecto y una inversión a cinco años donde uno de los pilares que estamos hablando es la parte de sustentabilidad. Y desde luego queremos ampliarlo, no solamente a otras especies, sino también a otras áreas y haremos y estamos trabajando ya en algunos pilotos; por lo tanto, yo creo que en los próximos años veremos una prolongación no solamente de este proyecto, sino otros muchos que queremos poner en marcha.
 Gracias.
 ---
 INTERLOCUTOR
+Señor presidente, hace un día el secretario general de la OEA instó a que las naciones del continente impulsen una carta interamericana para que el sector productivo actúe bajo parámetros de buena gobernanza, transparencia y ética empresarial. ¿Qué opinión le merece?
 Y si México se sumaría a esta petición de las naciones que componen este componente.
 Muchas gracias.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Es algo bueno, positivo. Todo lo que signifiquen estas propuestas, nosotros las apoyamos. Desde luego, corresponde a la Secretaría de Relaciones ver en qué consiste este acuerdo, pero si es para impulsar actividades productivas y la sustentabilidad y la honestidad en el manejo de programas, pues eso es lo que hacemos y claro que secundamos, apoyamos, nos adherimos a cualquier iniciativa de ese tipo.
+---
 PREGUNTA
+Buenos días. Juan Hernández, del periódico Basta y de Grupo Cantón.
 Para el directivo de Microsoft: ¿cuáles fueron las características que ustedes vieron en México precisamente para invertir y sobre todo para brindar la confianza?
 Y para el presidente Andrés Manuel López Obrador: este tipo de convenios, ¿cuál es el mensaje que le da al exterior y sobre todo a los que todavía aún no confían en la Cuarta Transformación?
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Aquí me vas a ayudar.
+---
 CÉSAR CERNUDA REGO
+Bueno, lo primero, como decía al principio, nosotros llevamos 34 años ya en México. Somos una compañía global, pero presumimos de alguna manera de ser una compañía también local; es decir, esa presencia que tenemos desde 34 años, tenemos varios miembros del comité de dirección, aquí en esta primera fila de México nuestro director Enrique Perezyera, mexicano, y como decía antes, cuatro mil socios con los que venimos trabajando que generan este empleo; por tanto, conocemos el país.
 Ciertamente las reuniones que hemos tenido con el presidente, con el gobierno sobre los planes que había y cómo nosotros podíamos también ayudar en ese Innovar por México y en esa transformación digital hicieron que tuviéramos la suerte de estar aquí y poder anunciar esta inversión para México.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Esto significa que nuestro país es atractivo para la inversión, para el desarrollo.
 México tiene condiciones inmejorables. Se logró, decía yo, la firma del tratado, esto permite tener acceso al mercado más importante del mundo. Es un acuerdo, es un tratado para que no haya aranceles a mercancías, que no haya trabas a mercancías que se producen en México, es la posibilidad de exportar desde México todo lo que significa el mercado de América del Norte. Estamos hablando de una relación económica, comercial, fundamental la más importante del mundo en cuanto a región económica comercial.
 Al lograrse este acuerdo, esto da certidumbre a las empresas, tanto de México como empresas globales. Van a ampliarse las empresas que ya existen en México y van a llegar nuevas empresas.
 Todo esto acompañado desde luego de que hemos llevado a cabo una política administrativa con finanzas públicas sanas, no hay déficit en términos reales, no estamos gastando más de lo que ingresa a la hacienda pública, no tenemos problemas de inflación, el peso, ya lo hemos dicho, se ha apreciado, es la moneda en el mundo que más se apreciado con relación al dólar, no está aumentando la deuda pública, está creciendo la inversión extranjera, el año pasado llegó inversión extranjera como no había sucedido en muchos años en el país, las remesas, lo que envían nuestros paisanos a sus familiares también fueron excepcionales, hubo un récord, llegaron 36 mil millones de dólares.
@@ -88,12 +104,14 @@ Hemos logrado aumentar el salario de los trabajadores sin confrontación con el 
 Lo está viendo la gente, lo están sintiendo los ciudadanos, yo siento que la gente está apoyando al gobierno, al menos eso es lo que se refleja en las encuestas. No es para presumir, pero tenemos apoyo, tenemos la confianza de los mexicanos y lo están viendo también los inversionistas extranjeros, están viendo que se va avanzando.
 ---
 PREGUNTA
+Buenos días, presidente de México; buenos días, señores de Microsoft.
 Para el señor César Cernuda, es una pregunta con varios incisos. Yo quisiera preguntarle si usted, como presidente de Latinoamérica de Microsoft, considera que es el momento de la transformación de México.
 Y esta inversión de los mil 100 millones de dólares, ¿qué va a empujar a México?
 Y si considera usted que si México está utilizando la nueva ruta de la utilización de las tecnologías.
 Y si me permite, presidente, una pregunta para usted sobre el tema energético.
 ---
 CÉSAR CERNUDA REGO
+Sin duda alguna, sin duda alguna, es el momento. El mundo está cambiando; es decir, si vemos que… Como decía en mi discurso, hablaba de que hoy estamos viviendo ya una realidad que es el mundo digital.
 Antes, su compañero me preguntaba uno de los motivos, por qué México. Y hay algo que no comenté en esos motivos, muchas otras cosas no comenté por la respuesta, el tiempo de la respuesta, pero fundamentalmente hay una población joven en México, es decir, el tamaño de la población de esa población joven, esos tratados que están existiendo es una enorme oportunidad realmente para incluso democratizar mucho más la sociedad.
 Hoy estamos viviendo lo que muchos dicen que es la cuarta Revolución Industrial, que es la transformación industrial, que es la transformación digital.
 La forma que tenemos de aprender, de comunicarnos ha cambiado. Si vemos hace 30 años y si vemos hoy cómo utilizamos todos dispositivos, cómo nos comunicamos, cómo trabajamos, realmente está cambiando y ha cambiado.
@@ -102,6 +120,13 @@ Por tanto, nosotros queremos que esta transformación digital o esta cuarta Revo
 Por tanto, la respuesta es sí, claramente creemos que es el momento y estamos convencidos de que esta inversión va a ayudar a esa transformación digital de México a la juventud, a generar nuevas habilidades y realmente a generar más empleo.
 ---
 INTERLOCUTOR
+Gracias.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Si quieren, hasta ahí dejamos el tema y abrimos.
+---
+INTERLOCUTOR
+Muchas gracias.
 Disculpen, no me presenté, soy Carlos Pozos, de la revista Petróleo y Energía y de Lord Molécula Oficial.
 Presidente, en este espacio nos había usted comentado que en este mes de febrero nos daría a conocer el arranque de los proyectos de infraestructura energética, que nos pudiera decir el día, la hora y en dónde, cuándo arrancaran estos proyectos.
 Y comentarle también, señor presidente, que el lunes y martes estuve en Tabasco, en Villahermosa, y ahí la empresa petrolera ENI, dio a conocer el descubrimiento de un nuevo pozo petrolero. Que nos pudiera comentar este nuevo descubrimiento, qué fortaleza le trae a México.
@@ -109,23 +134,40 @@ Y, finalmente, presidente, también me encontré que en Tabasco algunos alcaldes
 Gracias, presidente.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, pues en efecto, esta empresa petrolera italiana que tiene un contrato de los 110 contratos que se entregaron a partir de la Reforma Energética, es muy importante destacar que esta empresa es la primera en producir, en extraer petróleo y ya están en proceso de ampliación, y han logrado este nuevo descubrimiento, lo que va a significar aumentar la producción petrolera. Es una muy buena noticia.
 Nosotros estamos también alentando que las empresas petroleras que tienen los contratos inviertan, se apliquen, para extraer petróleo.
 Pronto, una empresa mexicana, PetroBal va también a hacer lo propio, ya tienen descubierto el yacimiento con mucho potencial petrolero y estas dos empresas nos pueden significar aumentar la producción con miras a finales del sexenio en alrededor de 120, 150 mil barriles diarios adicionales.
 Nosotros calculamos que estas empresas que tienen contratos nos va a aportar alrededor de 200 mil barriles diarios adicionales, porque no son muchas, estamos pensando o de acuerdo a las estimaciones van a ser tres las empresas de 110 contratos que van a producir petróleo en… que van a extraer petróleo en el sexenio, pero yo celebro esto. Es una empresa italiana muy responsable.
 Lo mismo, hemos estado hablando con los directivos de PetroBal y ya están instalando plataformas en aguas someras en el sureste para extraer petróleo.
 Pero esa es una buena información, es cierto, porque a veces se dan estas noticias para que las empresas mejoren sus colocaciones en bolsa o el valor de sus acciones y son anuncios espectaculares con ese propósito, más que nada especulativo; pero en este caso no, es real, esta empresa está extrayendo petróleo.
 ---
+INTERLOCUTOR
+Y sobre los arranques de los proyectos de infraestructura que nos dijo que en febrero.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, estamos trabajando en eso, le corresponde a la coordinación del gabinete y que encabeza Alfonso Romo, ya estamos definiendo estos proyectos para avanzar y les vamos a presentar aquí con ustedes, los proyectos de inversión del sector energético, en donde van a comprometerse recursos de la iniciativa privada, nacional y extranjera.
+---
+INTERLOCUTOR
+¿Pero será aquí en la conferencia?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Aquí en la conferencia, sí.
 Muy bien, vamos a atrás. Los dos, bueno, tres.
 ---
 PREGUNTA
+Buenos días. Teresa Jiménez, de Vanguardia, de Veracruz.
 Mire, nos comenta sobre las inversiones en el sureste mexicano, pero en el norte de Veracruz, en Poza Rica y la región, Chicontepec, toda esa región, está muy abandonada en materia petrolera.
 ¿También habrá inversión para Poza Rica y la región norte de Veracruz?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, también, ahí va a empezar a funcionar el gasoducto de Tuxpan a la península de Yucatán, se está trabajando con ese propósito dentro de otros proyectos.
 Y estamos fortaleciendo toda la actividad en el puerto de Tuxpan y en Poza Rica, en toda esta región. Desde luego Veracruz es un estado importantísimo para el desarrollo de México, tenemos nosotros compromiso con los veracruzanos para impulsar el desarrollo, sí va a seguir habiendo inversiones.
 ---
+INTERLOCUTORA
+Y sobre el estado de las refinerías ¿cuándo nos puede comentar en qué porcentaje están operando ya?, ¿cuándo van a estar al 100?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Vamos a tener un informe la semana próxima porque están en proceso las acciones de modernización de las seis refinerías, en el caso de las refinerías estamos mejorando la capacidad de procesamiento de petróleo.
 Cuando llegamos al gobierno se estaban utilizando las seis refinerías en un 38 por ciento de su capacidad, ya ahora estamos cerca del 50 por ciento de utilización de la capacidad de las refinerías.
 Y estamos invirtiendo, se destinaron recursos alrededor de 10 mil millones de pesos el año pasado, este año sólo para la rehabilitación de las seis refinerías del mantenimiento de las seis refinerías son también otros 10 mil millones.
 Y sigue en construcción la nueva refinería de Dos Bocas. Ya estamos terminando el relleno y ya se asignaron los contratos para la construcción de las plantas.
@@ -134,18 +176,24 @@ En la India se construyó hace relativamente poco la refinería más grande del 
 Muy bien.
 ---
 PREGUNTA
+Presidente, buen día. Michelle Rivera, de Telemax, Sonora, y de TVP.
 Si me permite dos preguntas, una de carácter nacional y una de carácter regional.
 La primera es: el día de ayer, a través de una publicación, Wall Street Journal aseguró que hay una investigación contra el expresidente Enrique Peña Nieto por relaciones con Lozoya. ¿Qué nos puede comentar al respecto?
 Y si nos puede confirmar si hay una investigación en proceso contra el expresidente. Esa como primera pregunta.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No tengo información sobre que exista esta investigación como lo sostuvo el Wall Street Journal, no tengo yo elementos para sostenerlo. Lo que existe es la investigación, el proceso contra el exdirector de Pemex, Lozoya, no hay una investigación que yo sepa en contra del expresidente Peña.
 Desde luego la fiscalía, aclaro, es autónoma, esto significa que no me informan, no tienen por qué, es una institución independiente, antes estaba subordinada al Ejecutivo, no se hacía nada si el presidente no lo ordenaba o no lo autorizaba o no daba su visto bueno, ahora el presidente en este aspecto se entera a partir de lo que informa a todos los mexicanos la fiscalía. Son cambios importantes.
 Cuando el porfiriato, que no había democracia, Porfirio mandaba las listas de los que iban a ser diputados o senadores, ya sabía él de antemano, ya se sabía quiénes iban a ganar.
 Cuando triunfa el presidente Madero, Apóstol de la Democracia, él se enteraba de los que ganaban por la prensa, era totalmente distinto, porque en ese periodo hubo democracia en México. Entonces, es muy importante.
 Cuesta entenderlo, es decir, ¿cómo que el presidente no sabe si hay una investigación en contra del presidente de la República, el expresidente Peña? Así es, porque ya no nos corresponde.
 Y como nosotros como Ejecutivo no hemos presentado ninguna denuncia, por eso no puedo decir que exista.
 ---
+INTERLOCUTORA
+¿Considera el presidente que hay argumentos suficientes como para interponer como presidente una denuncia en contra del expresidente Peña?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Nosotros no.
 Nosotros hemos dicho que sólo presentaríamos denuncia contra los expresidentes si los ciudadanos nos los piden, porque pensamos que debemos de pensar hacia adelante. Esto es mi planteamiento, hablando de un punto final, de acabar con la corrupción hacia adelante y que sólo en el caso de que los ciudadanos reúnan las firmas para que se lleve a cabo una consulta y la gente decida si se presenta denuncia, no sólo contra el expresidente Peña, sino contra todos los expresidentes del periodo neoliberal, los que causaron la tragedia nacional
 Esto es Salinas ¿por qué Salinas?, porque entregó los bienes de la nación a particulares, a sus allegados; a Zedillo, ¿por qué a Zedillo?, porque con el Fobaproa convirtió las deudas privadas de unos cuantos en deuda pública, estamos pagando esa deuda y desgraciadamente se va a seguir pagando, estamos hablando de dos billones de pesos; luego Fox, por traición a la democracia, por delito electoral; el caso de Calderón por declarar la guerra al narcotráfico al mismo tiempo que se protegía a uno de los grupos de la delincuencia organizada, como es de dominio público, el señor García Luna que está preso en Estados Unidos; en el caso del expresidente Peña, pues lo de Pemex, este asunto y otros.
 Entonces, es la gente la que tiene que plantearlo. Yo no quiero que nos quedemos anclados en el pasado, yo sostengo que la justicia es castigar, pero también es prevenir y sobre todo cambiar, y quiero aprovechar el tiempo, el poco tiempo, porque no me voy a reelegir, a sentar las bases de la transformación del país, a que desterremos de México la corrupción, en eso estoy aplicado. No es mi fuerte la venganza.
@@ -160,11 +208,13 @@ No estoy defendiendo a Peña Nieto, porque también no quiero que vayan a malint
 No porque lo dice el Wall Street Journal, ya. Espérense, sí es importante este periódico, hay que respetar todos los medios de información, pero sus editoriales no son sentencia, hay una circunstancia especial. Lo digo porque ayer se habló mucho en las redes sobre esto. Hay que esperarnos, no adelantarnos y corresponde a la fiscalía.
 ---
 INTERLOCUTORA
+Presidente, la otra pregunta tiene que ver con Sonora, pero también con otros estados que operan el fondo minero.
 Hace justamente un año aquí en la mañanera usted mencionaba que la manera de operarlo ahora sería diferente, los recursos van de manera directa. Yo vengo de un estado que yo creo que era el líder, bueno en uso de los recursos del fondo minero para infraestructura.
 ¿Ha cambiado algo?, ¿cambio de opinión respecto al fondo minero?, ¿se está entregando este fondo?, ¿cómo va el trayecto de este fondo?, ¿y en específico a Sonora cómo le está yendo? porque era el principal beneficiado a nivel nacional.
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Se va entregar este fondo de manera directa, sobre todo en el programa de mantenimiento a las escuelas, se van a entregar recursos cada escuela de Sonora va a tener su presupuesto.
 Si es una escuela pequeña, ya lo he dicho aquí y lo repito, de cinco a 50 alumnos, escuelas que se les conoce como multigrado donde una maestra, un maestro atienden seis grados, pocos niños de comunidades apartadas son 150 mil pesos por ciclo escolar para la sociedad de padres de familia y ellos van a decidir qué hacer con ese recurso.
 Si la escuela tiene de 50 a 150 alumnos, son 200 mil pesos; si la escuela tiene de 150 alumnos hacia adelante son 500 mil pesos. Es un cheque que se entrega a cada sociedad de padres de familia.
 Ya se está haciendo, hasta ahora llevamos entregado alrededor de 26 mil pagos, 26 mil escuelas. Este año vamos a llegar a 100 mil escuelas y se va a incluir las escuelas de Sonora y es una de las formas de regresar el apoyo del fondo minero.
@@ -175,12 +225,17 @@ Entonces, ahora es directo, desde la Tesorería de la Federación hasta la socie
 Ahora que vamos a tener ya conectividad, internet en todos los pueblos, así es ¿para cuándo? A ver, párate.
 Ustedes saben que un programa importantísimo, hablando de tecnología, es que tengamos conectividad en toda la República por internet y ya tenemos una autorización, ya tenemos un presupuesto de 10 mil millones de pesos, ya estamos trabajando con una empresa para lograr que en todas las comunidades, alrededor de 200…
 ---
+EMILIANO CALDERÓN MERCADO
+Como 280 mil comunidades en todo el país.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+En 280 mil comunidades en el país vamos a tener internet.
 Ya se logró ese presupuesto, vamos a aprovechar. Hablo de esto porque en el presupuesto para las escuelas los padres pueden optar por equipos de cómputo para mejorar la educación siempre y cuando tengamos la conectividad, que no tenemos, porque en esto hay mucho atraso.
 Por eso celebramos este convenio, porque significa avanzar tecnológicamente.
 ¿Por qué no explicas sobre cuánto es el presupuesto y en cuánto tiempo vamos a tener comunicado todo el país?
 ---
 EMILIANO CALDERÓN MERCADO
+Se aprobó un presupuesto de tres mil 100 millones de pesos al año por tres años.
 El primer año se cubrirán alrededor de 60 mil comunidades pequeñas ya con internet, en general se van a cubrir con 4G, que es después de hacer todo un análisis llegamos a la conclusión de que es la tecnología con la cual podemos cubrir mucho más rápido lugares bastante remotos.
 Se llegará a un total de aproximadamente 165 mil comunidades, en general muchas, muchas son de menos de 250 habitantes, o sea, son comunidades muy pequeñas y muy alejadas. Iremos caminando conjuntamente con la red compartida, que era un proyecto que ya estaba echado a andar, después de platicar con ellos y cambiar un hito que tenían planeado para los últimos años, lo cambiamos para ahora.
 Entonces vamos a ir a las comunidades más pobres que era lo que se tenía planeado que se hiciera en los últimos años. Ahora entonces la red compartida empezará a cubrir comunidades pequeñas desde ahora y nuestro avance será rápido.
@@ -189,9 +244,11 @@ Entonces, por medio de la empresa CFE Telecomunicaciones Internet para Todos ire
 Entonces, vamos avanzando y en aproximadamente dos meses podremos dar ya una información para que ustedes vayan que realmente sí se va cumpliendo con el plan.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Es por lo de tu pregunta del fondo minero, o sea, se va a regresar el fondo, nada más que de manera directa a las comunidades.
 A ver.
 ---
 PREGUNTA
+Gracias, presidente. Buenos días. Esteban Durán, Grupo México Publica, diario; y Jalisco Publica, diario.
 Voy a remitirme a la información de un periódico sobre el no pago que le están perdonando impuestos a Elba Esther Gordillo, la exlideresa de los maestros, dicen que le ganó al SAT y no va a pagar 19 mil millones de pesos.
 Igualmente, también refiriéndome a la reunión que tuvo con empresarios antier, se señala que Walmart está entre esas empresas que no ha estado pagando miles de millones de pesos en impuestos, lo que viene, de cierta manera, a manchar lo que usted ha estado logrando en el transcurso de su administración.
 Al mismo tiempo le quisiera preguntar: ¿cómo lograría usted, después de todos estos logros que está teniendo, que haya continuidad para que esos más de 30 años de impunidad y corrupción con el, llamémosle, prianismo que hubo, pues no regresen y que nuevamente se les haga o se les haga justicia a esos millones de mexicanos que han sido despojados, que han sido atracados, que han sido robados?
@@ -199,6 +256,7 @@ Al mismo tiempo le quisiera preguntar: ¿cómo lograría usted, después de todo
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, yo creo que lo más importante es reforzar la conciencia ciudadana del daño que causa la corrupción.
 Yo creo que si hay una voluntad colectiva dispuesta a exigir honestidad. Si se, repito, estigmatiza al corrupto, porque ni siquiera se hablaba de corrupción, ni en las escuelas ni en las universidades, ni en la academia en los últimos tiempos, mucho menos en el discurso político, no se usaba la palabra corrupción, como si no existiera.
 Bueno, 25 años pasaron sin que la corrupción se considerara delito grave, 25 años. Repito, en 1994 reformaron el Código Penal para que la corrupción no fuese delito grave; entonces ahora se reforma la Constitución, es delito grave.
 Aquí constantemente estamos tratando el tema, la gente quiere que haya honestidad, no acepta ya la corrupción, ese es un avance importante.
@@ -212,7 +270,65 @@ Les aseguro que no se llevó a cabo en los últimos tiempos un negocio así tan 
 Bueno, aquí viene Microsoft a decirnos que van a invertir en cinco años mil 100 millones de dólares, estamos hablando como de 200 millones de dólares por año, cuatro mil millones de pesos, y esta operación a la que hago referencia significó una utilidad, una ganancia de alrededor de cinco mil millones, por lo bajo, una operación.
 Por eso estoy convencido que, si acabamos con la corrupción, el país va a renacer, que es lo que estamos haciendo. Entonces, crear consciencia en los ciudadanos del daño que causa la corrupción y que no haya impunidad, que la fiscalía actúe sin consigna, ni de afectar a nadie, a los enemigos, adversarios, opositores al gobierno, ni de proteger a nadie, que se aplique la máxima de los liberales: al margen de la ley nada, por encima de la ley nadie.
 ---
+PREGUNTA
+¿Entonces reconoce que en la compra de las plantas chatarra llevaron el visto bueno de Peña, presidente?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues yo creo que tuvo que haber una autorización arriba, y también el que las vendió seguramente tuvo un buen padrino; o sea, tanto el que las vendió como el que las compró.
+---
+INTERLOCUTORA
+Entonces usted estuvo enterado ¿por qué no denunciarlo, presidente?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Arriba, arriba, arriba, eso que lo resuelva la fiscalía.
+---
+INTERLOCUTORA
+¿Pero su gobierno tiene elementos?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, no tenemos elementos nosotros.
+---
+INTERLOCUTORA
+Acaba de decir usted…
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Suponemos que todas esas operaciones llevan el visto bueno del presidente, tuvieron que llevar el visto bueno del presidente
+---
+INTERLOCUTORA
+¿Ni así se anima usted a denunciarlo?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, porque corresponde…
+---
+PREGUNTA
+Para hacer una investigación, presidente.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Corresponde, corresponde en este caso a la fiscalía, están haciendo la investigación. Y ver también lo que ya expuse, si existen elementos para juzgar a los expresidentes.
+---
+PREGUNTA
+¿No es encubrimiento, presidente?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, no, no es encubrimiento.
+---
+PREGUNTA
+Teniendo estos elementos ya detectados, ¿no sería prudente iniciar una investigación?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Es que ya está iniciada la investigación, es que la fiscalía hizo…
+---
+INTERLOCUTOR
+Hacer la denuncia.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Ya está la denuncia.
+---
+INTERLOCUTOR
+¿Desde el gobierno?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Se hizo en su momento, no contra Peña, contra quienes resulten responsables, y por eso se abrió la investigación; y hay avalúos de lo que costaba realmente la planta y en cuánto se compró y de cuánto es el desfalco. Eso existe.
 Entonces, contestando la pregunta, yo no creo que regresen, toco madera. Aunque los conservadores tengan el apoyo de algunos medios de comunicación y haya campaña en contra de nosotros por el combate a la corrupción, porque en el fondo es eso, no es un cambio de gobierno, es un cambio de régimen y por eso los ataques al gobierno muy fuertes, nada más que no vamos a ceder y tampoco mucho menos vamos a reprimir a los medios y a los que protestan. Libertad completa, absoluta, libertad de manifestación.
 Lo único que pedimos es que no haya violencia porque esto sí, no conviene a nadie; pero huelgas, manifestaciones, columnas, ocho columnas, bots, porque en las benditas redes sociales también hay bots, pero yo prefiero que haya bots si se tiene libertad. Ya lo he dicho, antes cuando no se tenían las redes sociales no había libertad, no tenía uno derecho a la réplica; ahora con cada teléfono tiene uno la posibilidad, cada ciudadano que tiene un teléfono es un medio de comunicación puede.
 Entonces, qué bien que estamos ejerciendo a plenitud nuestros derechos y vamos nosotros a garantizar que no haya represión. Tenemos ya alguna práctica, porque imagínense cuántas veces evadimos el acoso en la lucha para cuidar a la gente de que no fuese víctima de la represión; entonces, sabemos evitar la provocación.
@@ -220,6 +336,7 @@ Entonces, qué bien que estamos ejerciendo a plenitud nuestros derechos y vamos 
 Imagínense fotos, si hay manifestantes, en donde la policía está utilizando la macana. No, se darían gusto los que callaron durante décadas al autoritarismo, pero ahora están muy pendientes de todo, hasta de lo que digo aquí ya, repito, estoy hablando hasta más despacio que de costumbre, de por sí no hablo de corrido, pero ahora tengo que cuidar porque lo que yo diga, todo lo que diga será usado en su contra.
 ---
 PREGUNTA
+Gracias. Raúl Hernández, de El Barlovento, concepto integral del comercio exterior.
 El 9 de enero le planteé la profesión de los puertos y la marina mercante, el 6 de febrero pasado también le planteé específicamente de los trabajadores portuarios, de los trabajadores controladores aéreos y de los de Ruta 100.
 Estas tres cosas han sido escaladas a otros niveles porque unos disidentes de los trabajadores portuarios tomaron, separaron, bloquearon las instalaciones del SAT de las empresas de servicios portuarios y pretendían parar el puerto.
 Anoche salió un camión, pretendían venir tres camiones, imagínese, y de esa gente disidente que ha aprovechado el trabajo de los auténticos trabajadores portuarios la mesa directiva electa legalmente.
@@ -232,11 +349,28 @@ Pero el Reforma publicó la nota donde están despidiendo a este señor, a estos
 Ya tengo recopilación del expediente que me pidió el secretario de Comunicaciones, ya tengo una parte. Y lo de Sinacta también tengo una recopilación de todas las quejas. Y bueno no sé qué pueda usted contestarme al respecto, señor presidente.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, mira, sobre las cuentas, acabo de tener un acuerdo con Santiago Nieto, porque se habla mucho de cuentas de sindicatos, en particular del sindicato petrolero de tiempo atrás, y de personas que presuntamente actuaron como prestanombres de dirigentes o de políticos o de empresarios, y que existen cuentas millonarias en los bancos.
 Hablé con Santiago Nieto y le pedí que se haga una investigación a fondo para ya saber a ciencia cierta si existen estas cuentas y proceder.
 Él ya tiene esta encomienda, porque constantemente donde voy o me encuentro personas me dicen: ‘Existe esta cuenta, son cientos, incluso miles de millones que pueden ser utilizados para beneficio del gobierno’, son cuentas abandonadas que tiene los bancos, están los bancos jineteando ese dinero. Entonces se va a hacer una investigación a fondo.
 Lo otro, hoy mismo vuelvo a plantearle a la secretaria del Trabajo, aquí estuvo ayer, pero hoy para que te reciba y presentes todos tus elementos y se actúe.
 ---
+INTERLOCUTOR
+El asunto del Seneam…
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí.
+---
+INTERLOCUTOR
+El asunto del Seneam, me argumenta el señor secretario y creo que tiene razón hasta cierto punto, que fue una persona que ayudó mucho para conseguir la cancelación del aeropuerto de Texcoco.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No nos importa eso, eso no nos importa.
+---
+INTERLOCUTOR
+No es patente de coros.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, no, no, no.
 ¿Saben quién ayudó a cancelar ese proyecto faraónico, corrupto?
 Nos ayudó el pueblo. Nuestro único amo es el pueblo. Nosotros no establecemos relaciones de complicidad con nadie.
 ¿A quién le debemos estar aquí?
@@ -244,10 +378,15 @@ Al pueblo, a los ciudadanos.
 ¿A quién debemos de servir?
 A los ciudadanos. Entonces también el secretario de Comunicaciones que te atienda y no rendirse.
 ---
+INTERLOCUTOR
+Ya me atendió el señor secretario y es posible que hoy le pueda entregar todo el legajo de información que me pidió.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, sí, de acuerdo.
 Dos más, la compañera.
 ---
 PREGUNTA
+Gracias, buenos días. Gracias, presidente. Reyna Haydée Ramírez, reportera independiente y para Pie de Página.
 Hoy se cumple un año de la muerte de Samir Flores y a un año de esta muerte, si tiene usted algún avance en la investigación, si le han reportado algo aquí. Se dice que no hay avances sobre el caso, pero si usted tiene algún indicio.
 Y, bueno, como se recordará, él fue asesinado un día antes de la consulta que se hizo para el gasoducto de La Huesca.
 ¿De qué manera puede haber justicia para él y para todos los defensores de la tierra? Bueno, recientemente tuvimos lo de las mariposas también.
@@ -258,21 +397,34 @@ Ayer se le preguntó algo a la secretaria, pero a mí me gustaría un poquito m�
 Bueno, primero lo de Samir, por favor.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Mire, seguramente la fiscalía del estado de Morelos debe tener información sobre este asesinato. Nosotros queremos que se aclare. Fue muy lamentable que esto pasara porque les sirvió a los oportunistas, a los que están buscando cómo culparnos para afectarnos, cuando nosotros somos respetuosos de la libertad de expresión y de los derechos humanos. Entonces, sí nos importa mucho que se aclaren todos estos crímenes lamentables.
 ¿Qué ha pasado con la planta?
 Está detenida porque hay amparos y no podemos actuar, no debemos actuar si existen amparos.
 Nosotros también lamentamos que se haya construido esta planta con el gasoducto que se llevó a cabo en los gobiernos anteriores. Ya nos toca a nosotros recibir esa planta terminada. Estoy hablando de una inversión de más de 20 mil millones de pesos, dinero del presupuesto, dinero del pueblo, que no se puede operar. Que en el caso de que operara, en el caso de que se echara a andar, equivale a alumbrar todo Morelos, pero como existe esta oposición no se puede llevar a cabo. Y como decía el presidente Juárez: ‘Nada por la fuerza, todo por la razón y el derecho’.
 Yo lo único que quisiera es que la gente nos ayudara y que tomara conciencia de que si se deja esta planta que se convierta en chatarra, se pierden más de 20 mil millones de pesos. Y que no es esto en contra de un interés particular, resulta que es en contra del interés público, porque la planta es de la Comisión Federal de Electricidad, que no es una empresa privada.
 Antes la política era a privatizarlo todo, poner por encima los intereses particulares; ahora no es así.
 ---
-PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
-No vamos a hacer nada que signifique represión o violar la ley y ojalá y se aclare, porque de manera perversa algunos grupos que no están de acuerdo con nosotros llegaron a culparnos de ese asesinato.
+INTERLOCUTORA
+Pero se han perdido vidas, presidente.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, sí, sí, lo entiendo, lo comprendo, pero también quiero que se conozca lo otro.
+No vamos a hacer nada que signifique represión o violar la ley y ojalá y se aclare, porque de manera perversa algunos grupos que no están de acuerdo con nosotros llegaron a culparnos de ese asesinato.
+---
+INTERLOCUTORA
+¿Solicitaría a la fiscalía que…?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, que informen y que ojalá, lo deseo, se aclare para ver quiénes están ahí, quiénes fueron los responsables de esto.
 Fíjense, un día antes o en vísperas de la consulta. Está muy casual y la verdad, la verdad es que los conservadores son capaces de todo. Ayer estuvimos recordando la forma cómo asesinaron a Gustavo A. Madero y a Bassó. Odian.
 Entonces y ojalá y esto se aclare.
 Pero hiciste otra pregunta.
 ---
+INTERLOCUTORA
+Sí, de lo de los jornaleros agrícolas.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Se está atendiendo lo de los jornaleros agrícolas.
 Mira, hay dos cosas que son importantes:
 Una, que es más de fondo, estructural, el que la gente tenga trabajo en sus lugares de origen. Como estaba abandonado el campo en todo el país, pero de manera especial donde hay más pobreza, en La Montaña de Guerrero, en Oaxaca, en Puebla, en la sierra de Zongolica, en Veracruz, de ahí son los jornaleros, de estas regiones, que se tienen que ir por necesidad a buscarse la vida al norte, hasta San Quintín, Sonora y Sinaloa, y del otro lado de la frontera.
 ¿Qué estamos haciendo ahora?
@@ -280,15 +432,27 @@ Estamos ayudando a la gente en sus pueblos, por eso se están construyendo los c
 Esto también de manera indirecta ayuda a que al jornalero le tengan que pagar mejor en el norte, porque ya no emigran tanto; y como se requiere la mano de obra, la fuerza de trabajo, los empleadores tienen que pagar más y tienen que atender las prestaciones sociales a las que tienen derecho. Entonces, esto ayuda.
 Lo otro que nos está ayudando también, aparte de la vigilancia, de la protección que tiene que procurar la Secretaría del Trabajo, es que tenemos un programa para vigilar el traslado de personas en las carreteras, sobre todo de migrantes que son trasladados en camiones de redila, en tráileres.
 ---
+INTERLOCUTORA
+Hacinados.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Hacinados. Entonces, constantemente estamos rescatando a trabajadores migrantes, protegiéndolos.
+---
+INTERLOCUTORA
+No tienen ni baños en los campos.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, sí. Y vamos a seguir defendiendo a los trabajadores agrícolas, migrantes, a los jornaleros, y también pidiéndole a los productores, a los que los contratan, que les paguen bien, que no haya mal trato, que procuren que tengan instalaciones dignas para hospedarse, que se garantice que puedan estudiar sus hijos.
 Que nos ayuden también los empresarios agrícolas, hay empresarios agrícolas con dimensión social y hay otros que de plano no ayudan, pero poco a poco se tiene que ir haciendo conciencia, todos tenemos que ser cada vez más humanos, más fraternos.
 Además, no cuenta ir a la Iglesia los domingos, confesar, comulgar para dejar el marcador en cero y pecar en la semana y volver el domingo a lo mismo, eso no cuenta. Tiene que haber amor al prójimo.
 ---
 INTERLOCUTORA
+Presidente, justamente ahorita, en una última acotación de lo que usted comenta ahora que menciona a Madero; Samir, en una de sus últimas entrevistas, justo lamentaba lo que ellos llamaban una consulta amañada y mencionaba que pues algo así como la traición de Madero a Zapata, y mencionaba que ellos… yo creo que está un poco junto con pegado, son las tierras en el sur, ellos están defendiendo sus tierras, el agua, su derecho a cultivar acá en el sur del país, Tlaxcala, Zacatecas, Puebla, Morelos, etcétera, y llega este gasoducto y los rodea, les invade las tierras; entonces, se van al norte a trabajar por las condiciones de vida, por las condiciones para ganar un poco más, no es más, mínimo más. Entonces, ahí como que está junto con pegado.
 ¿Cómo garantizar que estas gentes tengan agua, dignidad, tengan sus tierras acá en el sur del país y para evitar la migración si el gasoducto viene y hace esto?
 No están contra el progreso, están contra que se hagan las cosas bien.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Si, pero nosotros no hemos nada en contra de las comunidades.
 El problema que hay es que por razones ideológicas quienes no nos quieren, yo digo los conservadores, quisieran que actuáramos igual que los gobernantes anteriores y que pudieran decir: ‘¿Ya ven?, son lo mismo’, porque es un asunto político.
 Muchos de los que nos cuestionan ahora, antes llamaban a no votar, no creían que se podía transformar al país como lo hicimos y la consigna era decir: ‘Todos son iguales, todos son lo mismo’. Entonces, como no es así, pues se tienen que retorcer las cosas para hacer creer que somos iguales.
 Nosotros no hemos dado una concesión, una, para la minería, una sola concesión. Nosotros decidimos no al fracking, nosotros decidimos no al maíz transgénico, nosotros decidimos sembrar un millón de hectáreas de árboles frutales y maderables, es el programa más importante en la historia del país para mejorar el medio ambiente; sin embargo, no aceptan nada.
@@ -298,8 +462,16 @@ Y no le hacemos daño a nadie, o sea, no vamos a reprimir. Si el Reforma un día
 Entonces, ese es el problema de fondo, ese es el asunto de fondo.
 Ojalá y en el caso de los jornaleros podamos seguir ayudando, y en el caso de Morelos se aclare lo que realmente sucedió.
 ---
+INTERLOCUTORA
+Entonces, ¿sí lo metería en su agenda de prioridades?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues está, o sea, ¿cómo no va a ser prioridad aclarar sobre un asesinato? Más si se trata de algo que nos afectó, o sea, un asesinato que se produce dos días antes o un día antes, unos días antes de una consulta, claro que nos interesa mucho aclararlo y es nuestra responsabilidad.
 Muy bien. Nos vemos mañana, mañana, mañana en La Paz, mañana en La Paz, desde La Paz; y si no, el lunes…
 ---
 PREGUNTA
+Presidente, Acapulco participó en el Foro Urbano Mundial, donde hicieron presencia, donde 600 ciudades de México y que va a llevar los proyectos de 73 millones de dólares.
 ¿Cómo va a coadyuvar usted para que Acapulco vuelva a ser el que era antes, el atractivo turístico?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Que viva Acapulco y que viva Guerrero, y que vivan los guerrerenses. No se podría escribir la historia de México sin los guerrerenses.

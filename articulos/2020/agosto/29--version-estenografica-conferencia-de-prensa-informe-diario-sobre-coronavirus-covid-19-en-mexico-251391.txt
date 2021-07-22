@@ -3,6 +3,7 @@ Presidencia de la República
 29 de agosto de 2020
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Son las siete de tarde en la Ciudad de México y estamos dando inicio a la conferencia vespertina sobre COVID-19 y cuál ha sido la evolución de la epidemia en México.
 Esta noche nos acompañan dos personas más, dos invitados, ya ustedes los conocen, han estado con nosotros en conferencias previas.
 Tenemos al doctor Ruy López Ridaura, director general del Centro Nacional de Prevención y Control de Enfermedades, el Cenaprece, quien el día de hoy nos expondrá el componente temático, muy importante también, justo ahora en el marco de lo que el día de ayer fue, en algunos casos denominado como el Día del Abuelo, en otros casos denominado como el Día del Adulto Mayor.
 También nos acompaña esta noche, agradecemos que haya aceptado la invitación, es el doctor Víctor Hugo Borja Aburto, él es el director de prestaciones médicas del Instituto Mexicano del Seguro Social. Bienvenido doctor.
@@ -43,6 +44,7 @@ Entonces, esta es la actualización para esta noche.
 Y ahora le daríamos el tiempo al doctor Víctor Hugo Borja para que nos comente sobre el tema.
 ---
 VÍCTOR HUGO BORJA ABURTO, DIRECTOR DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Buenas noches a todos.
 Muchas gracias doctor Alomía por la invitación para poder ampliar la información que ayer proveyó el maestro Zoé Robledo, director general del Instituto Mexicano del Seguro Social, en relación a un probable caso o un caso que se encontraba bajo investigación de probable reinfección.
 Me gustaría decir que este es un caso que se encuentra en investigación, el doctor Constantino López Macías lo reportó en un web seminar académico que fue organizado por Conacyt, y él reportó los hallazgos que muchos científicos o investigadores reportan, hallazgos preliminares no confirmados todavía de un caso que se encontraba todavía en estudio.
 Después de haber sido reportado este caso hace dos días, tenemos algunas pruebas que corrimos nuevamente, que todavía no concluyen la investigación del caso, pero me gustaría a darles a conocer.
@@ -71,9 +73,11 @@ Entonces, continuamos en este proceso de investigación.
 Muchas gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias doctor Borja por la amplia y profunda explicación.
 Ahora le damos el tiempo al doctor Ruy López Ridaura para que nos presente la estrategia para la atención, precisamente, de las personas adultas mayores en el marco de la epidemia de COVID-19.
 ---
 RUY LÓPEZ RIDAURA, DIRECTOR GENERAL DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Muchas gracias doctor Alomía. Buenas noches tengan todas y todos, también allá en casa o desde nos estén viendo.
 Y, sí, como comentó ya el doctor Alomía venimos ahora a presentar un poco, en continuación a lo que presentamos o se presentó la semana pasada con el doctor Luis Miguel Gutiérrez, director general del Instituto Nacional de Geriatría, donde presentó lo que el Instituto de Geriatría junto con la Secretaría de Salud y especialmente el programa de adulto mayor en el Cenaprece, que es el centro que actualmente dirijo, pues presentó varias de esas iniciativas, tanto de capacitación y con un enfoque importante también que han liderado en el Instituto de Geriatría, que es la atención, la encuesta y el fortalecimiento de las capacidades lugares de atención a largo plazo de asilos, de albergues.
 También esto que estamos presentando, y me gustaría que así lo entiendan, tanto los medios de comunicación como la población, es también continuidad de lo que también tuve el honor de presentar ya hace unas semanas, que era el abordaje o que es abordaje del COVID comunitaria, es decir, este abordaje que se presentó también como un acuerdo del Consejo Nacional de Salud, con todos los secretarios de Salud de todos los estados y que desde ese momento hemos ido arrancando en varios estados con diferentes alternativas, con diferentes formas de trabajar, porque las realidades estatales son heterogéneas.
 Y lo que se buscó en esa estrategia o se está buscado, y se está ya operando, es la búsqueda activa de posibles focos dentro de la comunidad, pero especialmente el seguimiento de estos individuos que tienen síntomas o casos sospechosos de COVID y que tienen factores de riesgo que los ponen en mayor riesgo de complicaciones, que son pacientes con enfermedades crónicas, especialmente diabetes, enfermedad cardiovascular, hipertensión, enfermedad pulmonar obstructiva crónica y un grupo muy claro, que es por edad, que son los adultos mayores que, como también ya lo hemos mencionado, este grupo de enfermedades crónicas y los adultos mayores explican o están asociados a casi tres cuartas partes de la mortalidad documentada por COVID en los datos que tenemos del sistema de vigilancia.
@@ -116,15 +120,18 @@ Y dejamos aquí la página del Climss, donde pueden encontrar los módulos para 
 Muchas gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias, doctor López Ridaura.
 Entonces, vamos a pasar en los 17 minutos que todavía nos quedan de conferencia para atender alguna pregunta de los medios.
 Adelante, por favor.
 ---
 PREGUNTA
+Gracias, buenas tardes. Arturo Contreras, de Pie de Página.
 Hace un par de días el diario inglés The Guardian publicaba una muestra en la cual demostraba que las personas con obesidad tienen una probabilidad de 50 por ciento mayor de morir por COVID, pero lo importante es que tenían 50 por ciento de más resistencia a las vacunas del COVID, a las vacunas que se están desarrollando.
 Entonces, no sé si en México, bajo las pruebas que se están empezando a desarrollar se tenga identificado esto como un factor.
 ¿Cómo darle la vuelta? ¿Cómo preparar las vacunas mejor para un país en el cual la presencia de la obesidad es tan alta?
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, sí, definitivamente tendríamos que empezar comentando que hasta el momento todavía no se ha llevado a cabo ningún tipo de ensayo de ninguna de las fases en población mexicana, por lo tanto, la especificidad para lo que pudiera o no ocurrir en México en relación a la vacuna todavía no lo conocemos.
 Sabemos y se han expresado en conferencias previas y en medios de comunicación que sí haya ya peticiones formales para poder llevar a cabo ensayos, sobre todo de fase 3 en población mexicana, los cuales en su momento de ser autorizados por la Secretaría de Salud, quien es la que llevaría a cabo esta valoración y en su momento la autorización se estarían todavía conociendo hasta fines de noviembre, probablemente, sobre todo estas vacunas que, digamos, tienen ya un avance importante y que además han demostrado cumplir con todos los requisitos y han logrado buenos resultados en fase 1 y fase 2.
 Definitivamente, los grupos de riesgo, uno de ellos el que se acaba de exponer ampliamente, que son los adultos mayores, el componente de obesidad y sobrepeso, la hipertensión y la diabetes, sí están contemplados desde un inicio, más allá de que aún no se tenga la totalidad de la información de las vacunas.
 Pero ante la evidencia de lo que ha sucedido y de lo que, no solamente en México, sino a nivel mundial, son grupos de riesgo muy claramente identificados, por lo tanto, definitivamente estarán en la primera línea y en los primeros lugares de los grupos que en su momento deberán de recibir la vacuna en función, lógicamente, de cuanto esta esté disponible.
@@ -133,14 +140,17 @@ Muy bien.
 Por favor.
 ---
 PREGUNTA
+Hola. Buenas noches, doctor Alomía. Buenas noches, doctores. Carlos Abaroa, de Unomásuno.
 La pregunta, doctor Alomía, nos puede explicar más ampliamente, sobre todo con el caso que se ha detectado en el Seguro Social, nos puede explicar un poco más amplio qué sería el caso de una reinfección en esta situación, para tener clara esta parte.
 Así también si pudiera ampliar también un poco la información al respecto de los diferentes tipos de linajes del virus que hay en el país.
 Gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro que sí.
 Doctor Borja, no si usted quisiera ampliar un poco más en relación al caso y complementamos.
 ---
 VÍCTOR HUGO BORJA ABURTO
+Sí.
 Lo que significa la reinfección es que se tuvo un periodo que se tuvo la infección, hubo una respuesta del individuo a esta infección y que se desarrolló una enfermedad.
 La enfermedad puede dejar una respuesta inmune como consecuencia de la misma, como respuesta del organismo a la infección o puede quedar muy baja.
 Lo que se ha visto internacionalmente es que los anticuerpos generados pueden ser de títulos distintos, aquellos que han desarrollado una enfermedad grave aparentemente desarrollan una titulación mayor en los anticuerpos y aquellos que desarrollan una enfermedad leve tienen una titulación menor.
@@ -151,6 +161,7 @@ Entonces, no podemos decir que no haya una protección con anticuerpos más all�
 Entonces es información que se va desarrollando conforme pasa el tiempo en el transcurso de la pandemia.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Gracias.
 Solamente complementando, efectivamente, creo que todos hemos notado que en estos últimos días, prácticamente en la última semana, es cuando han empezado a salir este tipo de publicaciones que además están ya sustentadas en evidencia de las muestras que se han tomado, de la genotipificación de los virus, es decir, poder conocer realmente a qué linajes y a qué clados pertenece y entonces poder empezar a hacer este tipo de hipótesis basadas en evidencia.
 Lo que también hemos visto hasta el momento es que no necesariamente reinfectarse significa volver a enfermar, es decir, esto es algo que se tiene que seguir observando, se tiene que ver en estas personas que vuelven, en su momento, a identificarse cargas virales o presencia del virus en sus vías respiratorias, cuál es la evolución que en su momento produce este virus.
 Del caso de Hong Kong ampliamente difundido durante esta semana, el caso que nos acaba de presentar el doctor Víctor Hugo Borja, una segunda reinfección, y si hablamos de reinfección o presencia del virus en las vías respiratorias meses después de haber estado o tenido un primer cuadro, no necesariamente significó la presencia de enfermedad, o sea, fueron casos asintomáticos.
@@ -164,6 +175,17 @@ Creo que va a ser una información muy interesante para presentarla, vamos a ped
 Por favor.
 ---
 PREGUNTA
+Buenas noches. Rubén Fieytal de Canal 11.
 Sobre lo que dijo el canciller Marcelo Ebrard en la conferencia del martes respecto a la vacuna rusa, que estaría próxima a llegar en los próximos días.
 ¿Ya tienen definido cómo va a ser la selección de los voluntarios y las fechas específicas para la aplicación de esta vacuna?
 Gracias
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+En este momento aún no, de hecho, precisamente, el grupo técnico de expertos se encuentra trabajando, no específicamente para el tema de la vacuna rusa, ya tiene más de dos, casi tres semanas que se integró y que se están reuniendo en mesas de trabajo, precisamente para definir cuáles son los criterios que en su momento van a aplicar, que en este caso lógicamente serán requisitos que en su momento estas empresas farmacéuticas o consorcios tendrán que cumplir para poder llevar a cabo las fases tres, por ejemplo, de ensayos de este tipo de vacunas.
+En el momento en que se tenga esta definición con mucho gusto la compartiremos en este mismo espacio, pero dado que esta todavía está en proceso de integrarse aún no tenemos esa especificidad, pero de seguro estará lista para cuando sea necesario, no es específica, reitero, para la vacuna en este caso de Rusia, sino más bien para todas aquellas vacunas que en su momento requieran o deseen hacer ensayos aquí en México.
+Gracias.
+Bien, si no tenemos alguna otra solicitud de pregunta, agradecemos la presencia del doctor Ruy López Ridaura, doctor Víctor Hugo Borja, la presencia de todos ustedes.
+Esperemos que puedan seguir teniendo, allá en casa, un buen fin de semana.
+Nos estaríamos viendo el día de mañana a las 7:00 para continuar actualizando la información de COVID-19 en México.
+Muchas gracias.
+Muy buenas noches.

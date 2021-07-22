@@ -3,17 +3,20 @@ Presidencia de la República
 30 de junio de 2020
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Buenos días.
 Hoy vamos a informar sobre la salud. Está aquí el Gabinete de Salud, todo el equipo que nos ayuda para garantizar el derecho a la salud en el país y, en especial, la atención a la pandemia del coronavirus.
 Va a intervenir, va a introducir el doctor Jorge Alcocer y nos va a informar el doctor Hugo López-Gatell sobre cómo vamos en la atención, en el combate a la pandemia. Posteriormente, vamos a abrir para las preguntas de ustedes y vamos a contestar todas las preguntas.
 Vamos a tener hoy a las 10:00 de la mañana un acto en el Campo Marte, porque es el primer aniversario de la Guardia Nacional y vamos a estar con los integrantes de la Guardia Nacional, es su primer aniversario. Vamos también a informar sobre esta nueva corporación que se constituyó, se creó para garantizar la paz y la tranquilidad en el país.
 Entonces, vamos con el doctor Alcocer.
 ---
 JORGE ALCOCER VARELA, SECRETARIO DE SALUD
+Muchas gracias, señor presidente.
 Me da mucho gusto estar nuevamente aquí con ustedes en el pulso de la ciudad de junio 30. Pues como ya señaló el señor presidente, hoy en el pulso de la ciudad pues vamos a dedicar esta comunicación a casi un mes del camino hacia la Nueva Normalidad, para lo cual, el doctor Hugo López-Gatell nos dará el seguimiento de la pandemia, como ya lleva tiempo, tanto a nivel mundial como en nuestro país.
 Esto, muy convencido que de ustedes forman una parte importante de este camino, lo han hecho, lo siguen haciendo, tienen mucho aguante, porque en la tarde participan muchos de ustedes en las tres horas que ponen atención, pero hoy en particular porque son mayoría mujeres y eso habla de su interés y de su compromiso.
 Entonces, Hugo López-Gatell, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Con su permiso, señor presidente. Secretario, muy buenos días, compañeros directores. Muy buenos días tengan todas y todos ustedes.
 Vamos a utilizar el informe técnico que presentamos por las tardes para comentar el acontecer de la epidemia y algunas características que vale la pena tener presentes.
 Efectivamente, llevamos 29 días desde que terminó el primer ciclo de las medidas de mitigación comunitarias con la Jornada Nacional de Sana Distancia y entramos a este periodo que designamos Nueva Normalidad, utilizando una expresión que nos parece importante tener en cuenta en México y que se ha usado también en otros países, y que lo que refleja es la idea fundamental de que esta epidemia, esta epidemia de COVID-19 va a seguir todavía por algún tiempo en México.
 Hemos platicado múltiples ocasiones sobre esta idea de la epidemia larga. La epidemia empezó el 28 de febrero en México, aunque los esfuerzos de preparación habían iniciado desde la primera semana de enero de 2020. Desde el inicio estimamos que, dadas las características de la manera en que se transmite el virus, la velocidad a que se propaga podríamos tener una epidemia larga. Esta epidemia larga inicialmente habíamos estimado que podría llegar hasta agosto; posteriormente, con las predicciones matemáticas, se identificó que podría estar llegando hasta octubre.
@@ -35,7 +38,6 @@ Vemos en la diapositiva cómo estamos en esta semana. Tenemos 18 estados en anar
 Entonces, los que pasaron ya a anaranjado, es porque están teniendo una buena reserva hospitalaria. No perder de vista que logramos expandir la capacidad de atención de un sistema de salud originalmente muy limitado y que sigue siendo muy limitado, y tendremos que seguir trabajando y así lo haremos para expandir la posibilidad de que nuestro sistema de salud dé cabida a todas y todos en todos sus padecimientos.
 Eso va a ser un proceso que vamos a seguir a lo largo de los siguientes años, pero ahorita, para atender la epidemia de COVID hicimos una serie de cambios muy intensivos para expandir la capacidad hospitalaria. Los hospitales que fueron designados COVID para la atención específica de personas con infección respiratoria aguda grave, empezamos con 645 hospitales el 24 de abril y, después de varias semanas transcurridas durante marzo donde estuvimos preparando los planes para esta reconversión, arrancamos la reconversión en abril, más o menos en las primeras pocas semanas de la fase 3 y hoy tenemos casi 900 hospitales COVID, tenemos 899 hospitales COVID, habiendo partido de 645 hospitales COVID.
 Esto ha sido un esfuerzo enorme y agradecemos a todos los miembros del personal de salud, no solamente enfermeras, enfermeros, médicas, médicos que directamente trabajan en la atención de pacientes, sino también todos los equipos administrativos y de apoyo que han permitido en todas las instituciones del sector salud, incluidas las civiles y las militares, expandir esta capacidad hospitalaria.
-
 Y el resultado neto es el objetivo que hemos buscado desde el inicio: no hemos tenido una situación extrema en donde en cualquiera de los estados de la República haya personas que no se pueden atender porque no hay una cama disponible. Cuando decimos cama es no solamente la cama física en el hospital, sino el personal de salud especializado, los equipos técnicos, los materiales, los ventiladores y, desde luego, todos los insumos necesarios para la correcta atención de los pacientes. Hemos logrado tener esos espacios y conforme la epidemia transcurrió hemos ido expandiendo capacidades.
 Y lo que vemos hoy es que empiezan a desocuparse hospitales en algunas zonas, en particular aquí en el Valle de México empiezan a tener ya camas disponibles algunos hospitales.
 Vamos a ver en la siguiente diapositiva ya los números… Bueno, este es un recordatorio, vamos a pasarlo muy rápido, de las distintas actividades que se pueden tener de acuerdo a los colores, de acuerdo a los niveles de riesgo. Vemos algunos ejemplos, no pretende ser una lista de todos los elementos que se tienen que considerar, pero son algunos de los ejemplos.
@@ -83,23 +85,54 @@ Y por entidad federativa estamos también, empezamos con Baja California, Estado
 En la última imagen vemos -para que se vea gráficamente- cómo subió de estos 645 hospitales el 24 de abril a los de hoy, casi 900 y seguiremos con la reconversión hospitalaria conforme vaya siendo necesario, pero con la claridad de que ahorita vemos señales ya donde la ocupación en algunos sitios ciertamente sigue siendo muy intensa y seguirá siendo un reto asegurar que no haya sobrecupo que pudiera evitar que se atienda las personas, pero en algunos sitios, concretamente donde ocurre la mitad de la epidemia, ya empiezan a ir hacia abajo.
 Presidente, secretario.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Empezamos.
+---
 PREGUNTA
+Buenos días, señor presidente. Una pregunta primero para usted y luego para el doctor Gatell.
 La pregunta para usted es: ayer la corte admitió la controversia constitucional contra las medidas que restablecen algunas políticas que usted había señalado en materia energética. La pregunta es: ¿qué impacto tiene y qué es lo que va a hacer el gobierno?
 Y luego también si en estos contratos no se está investigando por la UIF o por la fiscalía la posible comisión de delitos.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, sí, en efecto, ayer la corte le dio entrada a un recurso de las empresas particulares que generan energía eléctrica y que no aceptan las nuevas condiciones que se están estableciendo para defender el interés público.
 Durante mucho tiempo se abusó del pueblo de México y se cometieron fraudes, empezando porque se entregaron contratos a particulares para generar energía eléctrica cuando la Constitución no lo permitía. Esto fue en el gobierno de Carlos Salinas, se reformó una ley secundaria que no puede estar por encima del mandato constitucional para comenzar la privatización de la industria eléctrica.
 Pero no termina ahí el agravio. Estos contratos se hicieron de manera fraudulenta en la mayoría de los casos, que fue la práctica más socorrida, el modus operandi. Se ponían de acuerdo los funcionarios con las empresas particular, se llevaba a cabo una licitación para que la comisión federal comprara energía eléctrica a estas empresas particulares.
 Se entregaba el contrato a una empresa, en el contrato se establecía el pago de una tarifa que la comisión federal tenía que pagar, un costo, una tarifa a la empresa particular; pero inmediatamente después de firmado el contrato se suscribía otro ya sin licitación, un acuerdo administrativo con otra tarifa desde luego más elevada.
 ¿Esto a qué ha llevado?
 A que se tenga que comprar energía eléctrica a las empresas particulares a precios elevadísimos con un subsidio y mediante este procedimiento ilegal. Entonces, vamos a proceder.
 ---
+INTERLOCUTOR
+¿Lo llevará a interponer las denuncias?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, contra los que resulten responsables, porque es un fraude, que se simuló la entrega de entrega de los contratos y se causó un daño a la hacienda pública.
+---
+INTERLOCUTOR
+¿Ya tiene estimado el daño directo?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Tenemos estimado el daño.
+---
+INTERLOCUTOR
+¿De cuánto es, más o menos, señor presidente?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+En su momento vamos a informar porque queremos hablar con las empresas primero, una por una; al mismo tiempo, he dado la instrucción de que se empiecen a elaborar las denuncias correspondientes. Ese es el fondo del asunto.
 Lo he dicho muchas veces, nosotros no somos cómplices, no vamos a encubrir actos de corrupción. Y esto lo digo también porque hay quienes piensan o han aceptado sólo la opinión de las empresas, de los particulares y se cree que estamos nosotros cometiendo una injusticia, incluso se puso por delante el que se estaba afectando la generación de energía limpia y que estábamos nosotros queriendo regresar al combustóleo para contaminar.
 Ese no es el fondo del asunto, aquí estamos ante un posible fraude a la nación mediante estos contratos y queremos que la autoridad competente investigue.
 Y somos respetuosos de la legalidad, hay en México Estado de derecho. Esto también lo digo para que en otras partes, particularmente en España, en Estados Unidos, pues no se piense que se actúa de manera arbitraria.
 ---
+INTERLOCUTOR
+¿Hay funcionarios de la Comisión Reguladora de Energía involucrados en estos fraudes?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Hay funcionarios involucrados y desde luego los que firmaron estos acuerdos luego de haberse llevado a cabo la licitación del acuerdo principal sobre el cobro de tarifas y que posteriormente adicionan, es un anexo que no tuvo que ver con el procedimiento de licitación en donde ya viene una tarifa distinta, cobrando muchísimo más que lo pactado en los contratos.
+---
+INTERLOCUTOR
+¿Y ha recibido alguna de sus peticiones o planteamiento de países por la vía diplomática para investigar esto? Porque obviamente están muy relacionadas las empresas extranjeras.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Esto lo estoy dando a conocer por primera vez porque me pregunta y además es seguro que esté en todos los medios, que la corte otorgó este amparo a las empresas.
 Pero no es sólo un asunto el que se esté modificando, el procedimiento también, que fue fraudulento, de subir la energía a la red. Resulta que las hidroeléctricas de México no pueden subir la energía que producen, sino hasta después que suben la energía a la red nacional las particulares, todo esto con el argumento que primero van las particulares porque no contaminan, porque generan energía con gas, con el viento, con el Sol y las hidroeléctricas generan energía con agua; y es la energía más barata y más limpia, pero resulta que las hidroeléctricas son de la Comisión Federal de Electricidad, son empresas públicas o son plantas públicas, y como el plan era arruinar a la empresa pública, a la Comisión Federal de Electricidad, pues las hidroeléctricas están subutilizadas.
 Imagínense, cuánta inversión desde hace 50 años o más para crear las grandes empresas en el Papaloapan, en el Grijalva, en todos lados para generar energía y tenerlas paradas, subutilizadas, porque se le da preferencia a las empresas particulares por influyentismo y por corrupción.
 Entonces, eso es lo que se está modificando. ¿Por qué no van a subir energía las hidroeléctricas? Además, imagínense el daño que han causado con esta política adicional. Por eso se inundó Villahermosa, porque mantienen los vasos de las presas llenos, hasta hace una semana la presa Peñitas tenía 95 por ciento de su capacidad en épocas de lluvia.
@@ -115,9 +148,11 @@ Luego, hay monopolios de empresas y desde luego contubernio entre personajes con
 Entonces, ese es el punto y así respondo tu respuesta. Y Hugo tiene…
 ---
 INTERLOCUTOR
+Sí, doctor, a ver si nos pudiera concretar cuál es su perspectiva de lo que ya advirtió sobre la influenza. ¿Cuántos enfermos esperan?, ¿cuántos decesos esperan?, ¿cuántos sumarian los enfermos de COVID más influenza?
 Y si hay una estrategia especial, porque esto agrava las cosas, ¿no?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta.
 Efectivamente, la situación del invierno, o del otoño-invierno, nos pone en un reto importante en México y en todo el hemisferio norte. La influenza es una enfermedad, ya dije, causada por un virus distinto al virus que causa COVID, pero que produce una enfermedad muy parecida.
 En su gran mayoría, cerca de ocho de cada 10 personas afectadas por influenza tiene una enfermedad leve, parecida a un catarro, aunque con síntomas un poco más intensos, pero que se desaparece sola la enfermedad por acción del sistema inmune, parecido a COVID, COVID también en general se estima que ocho de cada 10 personas afectadas por COVID tiene una enfermedad que se parece a un catarro intenso, pero se curan espontáneamente.
 Sin embargo, el 20 por ciento restante, dos de cada 10 pueden tener una enfermedad suficientemente grave para requerir hospitalización porque la forma grave de ambas enfermedades causa neumonía, causa una inflamación de los pulmones y esto hace que el cuerpo no pueda tener una recuperación fácil.
@@ -144,14 +179,20 @@ Entonces, todas estas estadísticas, más que entrar en proyecciones o prediccio
 Muchas gracias.
 ---
 PREGUNTA
+Gracias, presidente. Buenos días a todas y a todos. Lizbeth Álvarez, diario Basta y Grupo Cantón.
 Presidente, las y los mexicanos lo quieren fuerte y sano, y hoy que estamos en el Pulso de la Salud quiero preguntarle si usted sigue de manera puntual las indicaciones del doctor Hugo López-Gatell en cuanto a sus actividades de presidente, así como las giras que está usted haciendo, porque lo que le pase a usted le afectaría a México.
 Esa sería una de mis primeras preguntas y ahorita otra más, si usted me lo permite.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, yo estoy obediente, me apego a los protocolos de salud y las recomendaciones.
 En las reuniones de trabajo se guarda la sana distancia. En las reuniones de la mañana, por ejemplo, que tratamos a veces dos, tres asuntos, y son no sólo miembros del Gabinete de Seguridad, sino también el Gabinete de Salud, a veces en asuntos que tienen que ver con la economía, con Pemex, entonces, lo que hacemos es que hay una sala de espera, antes de pasar a la reunión, se termina el tema, salen los servidores públicos y entran otros. No hay amontonamiento, nos cuidamos.
 Y no tengo hasta ahora síntomas, lo que me han recomendado y nos han recomendado a todos, que si hay tos seca, si hay calentura, si hay dolor de cuerpo, más allá de lo normal, me falta una. Fiebre no, ya dije, es: calentura, dolor de cuerpo, tos seca.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Dolor de garganta.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, esa es nueva, dolor de garganta. Dolor de cabeza, dolor de cabeza, eso. Las cuatro primeras, dolor de cabeza, calentura, dolor de cuerpo y tos seca, y luego agregaron lo del dolor de garganta, pero no tengo afortunadamente ninguno de esos síntomas.
 Estoy pendiente. Si se lleva a cabo el viaje a Estados Unidos voy a procurar ver en qué condiciones voy a salir, tengo que ir sano no sólo por mí, sino para no afectar a nadie, tengo que actuar de manera responsable, pero en su momento lo vamos a ir viendo. Estoy bien afortunadamente.
 Sí me duele mucho que se padezca por esta pandemia, los que han fallecido, sus familiares. Es muy fuerte todo lo que ha venido pasando, conoce uno de amigos, de gente cercana que se infecta, que padece de esta pandemia y tenemos todos que cuidarnos, yo creo que es importantísimo.
 Yo hablé de 10 recomendaciones o di a conocer 10 recomendaciones, un decálogo de recomendaciones para enfrentar la nueva realidad, la Nueva Normalidad, que también puede ser la nueva realidad. Entonces, hemos aprendido a cuidarnos.
@@ -160,7 +201,11 @@ Hemos recibido clases, conferencias magistrales sobre este tema como nunca. Hay 
 Pues con argumentos, informando con claridad, de manera profesional. Por eso Hugo va a continuar durante más tiempo informando, informando. Y cuidarnos nosotros, todos cuidarnos.
 Vamos saliendo poco a poco, anoche no sé si presentaron unas gráficas sobre ya una disminución en hospitalización y en todo.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No las presenté, pero sí, ya de la Ciudad de México, que ya se ven cambios.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, entonces vamos poco a poco, desde luego tenemos que seguir cuidándonos y al mismo tiempo empezar a salir para recuperar nuestra libertad y seguir luchando por la vida, reactivar nuestra actividad productiva, que se abran los centros de trabajo, desde luego de conformidad con el semáforo, como está sucediendo.
 Y ahí vamos hacia la normalidad y tenemos motivos para decir que vamos saliendo, que a pesar de los pesares vamos saliendo, vamos enfrentando la pandemia y también vamos, como ayer lo manifesté, a recuperar pronto la economía.
 Con respecto al resultado final, pues falta todavía tiempo para hacer la evaluación, pero hasta ahora ¿qué hemos logrado?
 El que no se disparara, que no se saliera de control la pandemia y que lo que llaman los médicos, los especialistas, se aplanara la curva de la pandemia, como se logró, que no se disparara y que nos desbordara, que no se tuvieran las camas, los hospitales para atender a los enfermos.
@@ -174,10 +219,12 @@ Muchas de las enfermedades, eso es de los especialistas, pues tiene que ver tamb
 Entonces, esa es la labor que cuando menos nosotros estamos obligados a llevar a cabo, el entusiasmar a la gente sin caer en lo irreal, la fantasía, pero sí ser optimistas, y así vamos saliendo poco a poco.
 ---
 INTERLOCUTORA
+Presidente, en una segunda pregunta y en materia económica, usted ya reiteró desde el domingo y el día de ayer que México ya tocó fondo, y ahora toca una recuperación que usted la grafica como una ‘V’.
 En este sentido mi pregunta es: ¿en cuántos meses o años calcula usted que México podría recuperarse de esta caída?
 Y adelantándome, como el día de ayer ya hasta se adelantaba el mes de septiembre, ¿cree usted que para las próximas fechas navideñas, las familias mexicanas podrían reunirse para festejar y sin tantas angustias económicas?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, yo creo que vamos a salir pronto. Yo creo que el peor mes en lo que tiene que ver con la economía fue abril, de acuerdo a nuestros indicadores, sobre todo por desempleo. Repito, en abril se perdieron 555 mil empleos de trabajadores inscritos en el Seguro Social, ya mayo fue menor, fueron 345 mil, y en junio no vamos a llegar a 100 mil empleos perdidos.
 Entonces, considero que julio, si no crecemos, se va a mantener y a partir de ahí vamos a generar más empleos, ese es un indicador.
 También me alienta mucho el conocer que, a pesar de la crisis, en el peor mes, en abril, las remesas prácticamente fueron las mismas de abril del año pasado en dólares, con una diferencia, con un dólar más caro, pero fue lo mismo; y ya mayo, de acuerdo a información que tengo, va a ser mayor el volumen de remesas que mayo del año pasado; junio lo mismo. Entonces, esto alienta.
 Además, viene, repito, lo del tratado, ya mañana entra en vigor el tratado. Mañana vamos a hablar sobre eso aquí, lo vamos a dedicar a informar sobre la entrada en vigor del tratado. Va a estar el consejero jurídico de la Presidencia Julio Scherer y va a estar la secretaria de Economía y va a estar también el secretario de Relaciones Exteriores, mañana, para hablar del tratado.
@@ -189,11 +236,13 @@ Entonces, por eso lo nuevo, lo mexicano, lo que estamos aportando en el nuevo mo
 A ver, perdón.
 ---
 PREGUNTA
+Gracias, presidente. Buenos días. Estebán Durán, México Publica y Jalisco Publica, diarios.
 Ya viene un año electoral y en tiempos de elecciones, presidente, es muy común que los partidos, los que se van quedando rezagados creen alianzas para generar con ello ganancias, dadivas y obviamente haya corrupción.
 ¿Usted enviaría una iniciativa, presidente, para evitar estos partidos bisagras, para evitar que estos partidos sigan sangrando la economía de México y de los millones de mexicanos?, ya que estos rubros que están destinados a estos partidos pueden ser destinados a otros rubros que beneficien verdaderamente a los mexicanos.
 Esa es mi primera pregunta y si, me permite, otra más al rato.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues hay una iniciativa, creo, en el Poder Legislativo para reducir el presupuesto a los partidos. No ha podido progresar, no avanza, ojalá y en el próximo periodo ordinario se apruebe y ojalá y dé tiempo para que se aplique ya en la próxima elección del año próximo.
 Pero sí deberían de bajar los presupuestos de los partidos cuando menos en un 50 por ciento, a la mitad, pero hay quienes se oponen.
 ¿Quiénes son los que se oponen?
 Ahí se los dejo a ustedes de tarea para que lo investiguen, pero sí muy claramente votan en contra, pero hay que seguir insistiendo para reducir el gasto de campañas.
@@ -203,11 +252,13 @@ Antes era normal. Eso que hablábamos ayer, viaje del presidente y el avión lle
 Entonces, no, ya eso ya debe desaparecer, nunca más toda esa fantochería, toda esa parafernalia; además, no se puede ser de izquierda, vamos a decir, si no se actúa con austeridad, no es de izquierda el que no es honesto y no es de izquierda el que no es austero, el que derrocha. Desde luego el que tiene recursos económicos puede hacerlo, pero el que es servidor público no debe derrochar, debe actuar con austeridad.
 ---
 INTERLOCUTOR
+Hay inquietud dentro del sector empresarial dadas las cifras que ha dado el doctor Gatell, hay zozobra y esto podría ocasionar una fuga de capitales, según lo que se ha mencionado en el sector privado.
 De ser así, ¿usted en su visita a Estados Unidos con Donald Trump aprovecharía para tomar este apoyo que Estados Unidos está dando de 50 mil millones de pesos? De esta manera, bueno, habría ya una estabilidad económica, ya estaría más tranquilo el país, ¿usted estaría dispuesto a aprovechar este préstamo que Estados Unidos está otorgando?
 Y, por otro lado, ¿ya finalmente ya tuvo usted contacto telefónico con Joe Biden, el aspirante demócrata a la Presidencia de Estados Unidos?, ¿y habría la posibilidad de reunirse con él en su visita a Estados Unidos?
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, nosotros no necesitamos créditos, tenemos finanzas públicas sanas. Esa es una diferencia con lo que pasaba anteriormente.
 Cuando la crisis que enfrentó el presidente Zedillo hubo un rescate de Estados Unidos. Nos pusieron a disposición 20 mil millones de dólares, tuvimos que dejar hipotecado el petróleo; eso no sucede ahora, no tenemos esa necesidad.
 Entonces, no voy a eso, no voy a solicitar crédito, voy a participar, atestiguar el inicio del tratado que, considero, nos va a ayudar mucho a los tres países, a las tres naciones y a los tres pueblos, a Canadá, a Estados Unidos y a México, a eso voy básicamente.
 Por eso no puedo hablar o no sería correcto, adecuado, hablar con candidatos. porque es una visita de trabajo. Voy a entrevistarme con el presidente de Estados Unidos y, si lo decide, estaría también el primer ministro de Canadá, pero eso ellos van a resolverlo. Mañana ya nosotros vamos a informarles sobre la agenda. Había yo quedado en informarles hoy, pero se está esperando para tener toda la información.
@@ -215,25 +266,53 @@ Están desde luego invitadas, invitados. Nosotros pues somos visitantes, no tene
 No va a haber, como ya se dijo y es obvio, un avión especial, esas cosas no, tendrían que trasladarse por su cuenta como siempre lo hacen en los últimos tiempos en las giras y con Jesús, pero sin -de parte nuestra- excluir a nadie. Ya mañana les informamos.
 ---
 PREGUNTA
+¿Ya estará la fecha, el T-MEC, el mecanismo para…?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Precisamente sobre lo de la fecha, por eso estamos esperando, para mañana ya sabemos. Eso era lo que me preguntaste.
+---
+INTERLOCUTOR
+Presidente, para la asistencia también el día de mañana.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Mañana, ya con Jesús van viendo. Sí, sí, para hacer gestiones si se necesita y ver cuántos pueden asistir a los actos o al acto, no sabemos todavía cómo va a estar la agenda.
+---
+INTERLOCUTOR
+Podría haber una distribución de la asistencia por parte de la prensa.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, eso lo ven con Jesús.
+---
+PREGUNTA
+Muchas gracias, presidente. Shaila Rosagel, corresponsal de Grupo Healy, El Imparcial, de Sonora; La Crónica, de Mexicali; Frontera, de Tijuana.
 Presidente, mañana ya se cumplen dos años de su triunfo en las urnas, me gustaría preguntarle: ¿cuáles han sido los tres principales aciertos de su gobierno que usted considera en estos dos años? lo que usted puede decir que le ha dejado más satisfecho y cuáles han sido esos tres puntos más difíciles para usted en estos años.
 Y también preguntarle si el viaje que hará al Washington será… Bueno, es su primer viaje, si tiene programado viajar más al extranjero después, en un futuro, en los próximos meses, con qué frecuencia y a qué otros lugares del extranjero quisiera usted viajar y por qué motivo?
 Si me permite hacerle después una pregunta al doctor Gatell.
 Gracias.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, las tres cosas que más me satisfacen es, primero, la atención a los pobres, eso me fortalece mucho en lo interno, en lo espiritual.
 Segundo, el combate a la corrupción. Eso también es importantísimo porque estoy convencido de que se trata de la peste, hablando en términos de epidemias, la peste más funesta que ha afectado a México. Entonces, me siendo muy orgulloso de estar encabezando una lucha frontal contra la corrupción, el que tengamos como objetivo desterrar la corrupción de México.
 Y lo tercero que me satisface es que no hemos reprimido al pueblo, de que no encabezo un gobierno autoritario, que no hemos participado en violaciones de derechos humanos, que no ha habido masacres, que no se ha utilizado al Ejército ni a la Marina ni a los cuerpos de seguridad para reprimir a los mexicanos.
 Añadiría también que -me pediste tres, pero yo agrego una más- que me place mucho el que a pesar de ser el presidente más atacado de los últimos 100 años, la respuesta sea la libertad y no la censura. Eso también me satisface, me llena de orgullo, es un timbre de orgullo.
 Y acerca de lo más doloroso, pues siempre van a ser las pérdidas de vidas humanas. Me dolió mucho lo de la explosión en Hidalgo, cuando perdieron la vida personas que estaban recogiendo combustible, me dolió muchísimo y todo lo que tiene que ver con la pérdida de vidas humanas. Es lo que más duele, es lo que más preocupa y es lo que también más nos ocupa, en eso estamos, tratando de conseguir la paz y la tranquilidad para todos. Eso es lo que te contesto. ¿Qué más?
 ---
+INTERLOCUTORA
+Le pedí tres puntos también difíciles, ¿usted agregaría la inseguridad, por ejemplo, la violencia? ¿O qué otros puntos agregaría?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Ya dije: la pérdida de vidas humanas, pues estas adversidades que enfrentamos. Por ejemplo, la pandemia, que en una de mis intervenciones cuando llega la pandemia digo de manera sincera: Tan bien que íbamos, porque el peso se estaba fortaleciendo, estábamos sentando las bases para el crecimiento, la economía, aumento del salario mínimo como nunca; entonces, viene la pandemia y afecta sin duda. Son de las cosas que estamos enfrentando.
 ¿Qué otra cosa?
 Pues básicamente eso. Soy optimista y creo que vamos a salir bien.
 Lo más importante de todo, lo más importante es que no hemos dejado de pensar y en actuar en favor de la transformación, porque con todo lo que ha sucedido y también con los cuestionamientos de opositores, que dicho sea de paso se han portado bien, porque no ha pasado a mayores la oposición, no es una oposición dañina.
 Eso de que protesten en carro y que piten, tienen todo el derecho, además, no pasa nada, si acaso cuando hay violencia, los jóvenes que tiran las bombas molotov, que destruyen comercio, o sea, esas cosas, pero en general hasta los adversarios que tenemos en la prensa conservadora, que insultan, pues también no pasa de ahí, y yo creo que todo eso tiene un efecto de boomerang, o sea, se les revierte porque la gente no quiere eso, no quiere el insulto y quiere la transformación por la vía pacífica.
 Entonces, vamos bien.
 ---
+INTERLOCUTORA
+Le preguntaba también, presidente, sobre este viaje a Washington, es su primer viaje al extranjero. Si usted tiene planeado en los próximos meses realizar otros viajes al extranjero y a qué lugares del mundo sería y por qué motivo.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Si salgo, tengo el compromiso de ir a China pero voy a esperar, porque es un viaje más largo y, la verdad, no me gusta viajar mucho al extranjero.
 Siempre he pensado que la mejor política exterior es la interior, que si hacemos bien las cosas en el país nos van a respetar siempre afuera, que no podemos ser candil de la calle y oscuridad de la casa.
 Entonces, ahora voy a Estados Unidos porque lo amerita el tratado, la entrada en vigor del tratado, porque es muy oportuno. Así como dicen que por qué si faltan cuatro, cinco meses para la elección voy; sí, estoy consciente, pero no voy yo a hacer política partidista, es una reunión de trabajo.
 Y así como dicen: ‘Cuatro, cinco meses para la elección’, así también yo les digo, está iniciando el tratado.
@@ -245,6 +324,7 @@ Desde luego que ya este tratado lleva tiempo, pero ahora tiene componentes impor
 Una cosa también muy importante que a veces pasa desapercibido, o no se quiere tomar en cuenta, es que quedó a salvo nuestro derecho a decidir sobre el petróleo mexicano, no se comprometió. Entonces, sí es un buen acuerdo y por eso voy.
 ---
 INTERLOCUTORA
+Presidente ¿me permite una pregunta para el doctor Gatell?
 Buenos días, doctor Gatell. Doctor Gatell, mi pregunta es: ¿en este momento cuáles son los estados que tienen la situación más crítica por COVID en el país y por qué?, o sea, ¿cuáles son estos estados que ustedes están detectando más críticos?
 ¿Y qué está siendo desde la Secretaría de Salud federal en estas entidades para apoyar en el control de la pandemia?
 ¿Qué proyecciones tiene la Secretaría de Salud para el segundo semestre?, ¿cuándo considerarían que podría presentarse una disminución de casos en el país?
@@ -252,6 +332,7 @@ Ahorita ya nos comentó más o menos como piensa que se va a dar la pandemia en 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Su pregunta es importante porque este es un tema que en la medida en que la pandemia continua en México, la epidemia nacional causa desesperación, causa ansiedad, causa disgusto. Reacciones muy naturales, muy comprensibles, muy legítimas, a nadie le gusta estar en una situación de riesgo a la salud o a la propia vida durante un fenómeno natural como es una enfermedad infecciosa.
 Esto es muy importante tenerlo en cuenta. La epidemia de COVID y cualquier otra epidemia es un fenómeno natural, no es la última epidemia que vamos a vivir ni en México ni en el mundo. Hay fenómenos naturales que son inevitables, igual que son los terremotos, igual que lo son los huracanes, igual que lo son la actividad volcánica, las epidemias también son un fenómeno natural.
 Y los seres humanos, las sociedades, lo que podemos hacer es prepararnos apropiadamente para enfrentarlo teniendo conciencia de cuáles son los peligros, cuáles son los riesgos, cuáles son los mecanismos de daño.
@@ -268,6 +349,19 @@ Posteriormente empezará a descender, todavía con muchos casos en la segunda qu
 La epidemia se comporta en parches, los países geográficamente extensos no tienen una sola epidemia, en realidad tienen múltiples epidemias que en su conjunto pueden componer una curva epidémica general porque se pueden sumar los casos y presentar gráficamente, pero en realidad la velocidad a que ocurre los contagios es particular de cada región y hay muchísimas razones para que varíe esta velocidad.
 Por ejemplo, en la Ciudad de México vemos ya que ha iniciado desde hace al menos siete días, un poco más de siete días, el descenso de la ocupación hospitalaria; en Tijuana vemos que ya prácticamente están de salida, el propio Baja California -usted es de por allá- Mexicali está todavía con alta transmisión y están todavía bajo mucha presión los hospitales en Mexicali; su vecina Tijuana ya está de salida; en Sonora hay, en este momento todavía la fase expansiva, la fase de crecimiento rápido, de crecimiento geométrico exponencial; en otros lugares ya se llegó al punto intermedio, ya están en la fase de salida, pero todavía muy temprano; Chiapas está en ascenso, Cancún llegó a una desaceleración importante, todavía le falta un poco para salir, pero se aproxima ya a la salida. Y así va a ser el proceso.
 ---
+INTERLOCUTORA
+(Inaudible) Baja California, Sonora, Chiapas.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Los martes generalmente presentamos actualización de las curvas; entonces, si le parece bien, este martes podemos revisar. Lo que presentamos es la proyección matemática que han hecho las personas expertas en esta ciencia y cómo corresponde con los casos observados; y revisamos, no todas, son demasiadas curvas epidémicas, pero las más ilustrativas.
+---
+INTERLOCUTORA
+(Inaudible) de los estados en verde.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre los estados en verde.
 Yo sugiero, aunque desde luego es una aspiración natural, todos la tenemos, ya quisiéramos terminar con esto, no empecemos a anticipar vísperas, falta. Los semáforos, hemos comentado cuáles son los indicadores, en síntesis son: la ocupación hospitalaria, la velocidad a que se ocupan los hospitales, la velocidad a que se presentan nuevos casos y la proporción o porcentaje de personas que tienen síndrome de COVID, es decir, las manifestaciones medicas de COVID y que se verifica que tienen el virus SARS-CoV-2 y esto va ocurriendo a distintas velocidades.
 No me gustaría anticipar una fecha concreta para los semáforos verde y que luego estemos con la preocupación de que no llega, no llega y llega. Vamos viendo cómo se comporta y lo vamos presentando en tiempo real. Gracias.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues nos vamos a quedar ya para llegar al Campo Marte, porque es a las 10:00. Mañana, mañana los tres, por favor, cuatro, cinco, seis. Nos vemos mañana.

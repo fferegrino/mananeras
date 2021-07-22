@@ -3,6 +3,7 @@ Presidencia de la República
 29 de marzo de 2020
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muy buenas tardes tengan, tardes-noches, tengan todas y todos, las y los reporteros que nos acompañan en esta conferencia de prensa.
 Y, sobre todo, muy buenas tardes-noches a todas y a todos los que desde sus casas nos acompañan y digo desde sus casas porque ahora es: ‘Quédate en casa’.
 El día de hoy, domingo 29 de marzo del 2020, estamos su servidor, Ricardo Cortés Alcalá, director general de Promoción de la Salud, y el doctor Gustavo Reyes Terán, titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
 Vamos a centrarnos en dos puntos específicos, el panorama epidemiológico nacional e internacional y el plan de reconversión hospitalaria de los institutos aquí en la Ciudad de México.
@@ -24,6 +25,7 @@ Este es un mensaje que debemos de tener todos en mente y también así cerraremo
 Doctor Reyes Terán.
 ---
 GUSTAVO REYES TERÁN, TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y DE HOSPITALES DE ALTA ESPECIALIDAD
+Muchas gracias, Ricardo y gracias ustedes por estar aquí. Buenas noches, nuevamente.
 Voy a presentarles brevemente lo básico sobre la reconversión hospitalaria, es un concepto fundamental para responder a un problema epidémico, pandémico, como el que estamos enfrentando hoy en día.
 El objetivo general de una reconversión hospitalaria es coordinar e integrar la respuesta hospitalaria para la atención de pacientes graves, en este caso por COVID-19 como modelo de reconversión.
 Es importante considerar y reconocer que hospitales como el Instituto Nacional de Enfermedades Respiratorias o el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán han hecho esto previamente cuando tuvimos la pandemia por influenza AH1N1 y cada invierno regularmente el INER hace reconversiones hospitalarias para poder mantener estables o atender médicamente a los pacientes graves con influenza.
@@ -47,10 +49,18 @@ Esta transición entre fase y fase debe ser global, debe ser escalonada y unifor
 Y lo más importante de todo esto es reconocer el profesionalismo del personal médico, el personal de enfermería y todo el personal de los hospitales que están atendiendo, tanto a pacientes con COVID-19, como pacientes que no tienen COVID-19, porque se requiere de esa interacción entre unos y otros para poder brindar la atención, la máxima atención a cada uno de los pacientes y lo están haciendo bastante bien en este momento, cuando ya hemos tenido pacientes graves y que requieren cuidados intensivos.
 Es todo por mi parte y se abre espacio a las preguntas.
 ---
+RICARDO CORTÉS ALCALÁ
+Súper, a ver, uno, dos, tres y cuatro ahorita.
+---
 PREGUNTA
+Gracias, buenas noches.
 Nada más para precisar, doctor Gustavo Reyes, las camas se acumulan, yo hago la sumatoria y me dan mil 283 camas que estarían disponibles.
 ---
+GUSTAVO REYÉS TERÁN
+Así es.
+---
 INTERLOCUTORA
+Y, entonces, yo quisiera preguntarles.
 ¿Hay manera de identificar los focos de infección para ir previendo, o sea, que las personas no solo estuvieran alertas por la sana distancia, sino identificar aquellos lugares donde se pueden ir generando brotes, hablando de las personas en las que no se identifica el origen de la infección?
 Si nos pudieran dar esa información.
 Y si hay alguna percepción entre ayer y hoy, ha habido un cambio en la actitud de las personas de sí quedarse en su casa o seguimos, como al parecer ocurre, al menos en la Ciudad de México, en varios lugares la gente sigue masivamente en las calles.
@@ -58,20 +68,39 @@ Una última cosa, ya nos han hablado de la sana distancia, pero en países como 
 ¿En México cuál es la causa de que no preveamos o no se prevea usar la fuerza pública si vemos o hasta qué plazo están dando ustedes para tomar medidas adicionales más rigurosas para garantizar que la gente se quede adentro y evitemos, o se frene la velocidad de la transmisión?
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias.
 Quisiera empezar comentando no es que no se sepa el origen de la infección, es lo que no se sabe, o sea, lo que no se identificó es un vínculo con alguien que haya viajado al extranjero.
 Los focos principales ahorita están en las grandes ciudades empezando por la Ciudad de México y así seguramente en cada uno de los estados de la República, sus grandes ciudades por la movilidad y por la cantidad que vivimos en estas grandes ciudades.
 ¿Por qué no contemplar el uso de la fuerza pública para que la gente se quede en casa?
 Primero, porque no estamos en un Estado de excepción, seguimos y mantenemos la idea del respeto de los derechos humanos de todos y apelamos a la honestidad y a la franqueza de la gente para que se quede en su casa, sabemos que si esto no sucede las cosas no van a funcionar.
 ---
+INTERLOCUTORA
+¿Hay necesidad de arriesgarse?
+---
 RICARDO CORTÉS ALCALÁ
+No es una decisión que me corresponda a mí como director general de Promoción de la Salud, es una decisión de muy, muy alto nivel, de hecho, del señor que está todos los días aquí presente a las siete de la mañana, es el que tendría que tomar ese tipo de decisiones.
+---
+INTERLOCUTORA
+Perdón, sobre la Vigilancia Centinela actualmente o a partir de cuándo ya no vamos a tener el número de casos totales, sino lo que se recopila a partir de la Vigilancia Centinela o estos números ya no son totales, porque ya está la Centinela, si me puede explicar.
+---
+RICARDO CORTÉS ALCALÁ
+Mire, la Vigilancia Centinela lo que hace es ver cómo se está comportando en diferentes áreas la enfermedad, los números totales los tendremos igual, igual que todos los días, pero también tendremos un número estimado de casos, por cada caso que uno detecta en Vigilancia Centinela sabe cuántos más o menos no se detectan alrededor, entonces se estima.
+---
+INTERLOCUTORA
+¿Estos números ya corresponde a una vigilancia?
+---
+RICARDO CORTÉS ALCALÁ
+Este es el número acumulado de lo que se ha detectado hasta el momento, la Vigilancia Centinela empieza ahora y van a verse, los números de Vigilancia Centinela no se van a ver en este momento, recuerden que, como lo acabamos de ver, hay un total de acumulados importante que están pendientes de resultado.
 Entonces, hasta que estos estén ya revisados, los resultados en el laboratorio y se va a empezar a ver la Vigilancia Centinela después.
 ---
 GUSTAVO REYES TERÁN
+Si entendí bien la pregunta, Ángeles, tenemos ya modelos matemáticos que puedan predecir con base en lo que se está observando, tanto en la Vigilancia Centinela, como otros datos, datos de la Universidad Nacional Autónoma de México y también con el grupo de la Ciudad de México para tratar de predecir en estos próximos 10 días dónde podrían estar los focos más importantes para tratar de dedicar o por lo menos proponer una atención focalizada, dependiendo de las regiones.
 Esto lo vamos a hacer, mañana tendremos unas reuniones, estoy hablando en particular del grupo que coordina la atención médica en Ciudad de México y Estado de México, y probablemente en los primeros días, si no mañana mismo, en los primeros días de esta semana podríamos tener una estimación de cómo se irá presentando por sitio, por regiones, la mayor cantidad de casos, sobre todo los casos graves que nos interesan en este momento, pero todo depende de que la gente se quede en su casa, si la gente no se queda en su casa, si la población no se queda en su casa las consecuencias son muy graves, sobre todo para quienes tienen una condición crónica que compromete su sistema inmune y las personas con más de 60 años de edad.
 Como lo hemos visto en la gráfica quienes han fallecido son las personas que tienen alguna condición crónica o tiene más de 60 años de edad.
 Entonces, es muy importante que la gente sepa que contribuye enormemente para tratar de conseguir el objetivo, que es que no lleguen las personas a los hospitales en una condición crítica donde seguramente habría una mayor mortalidad.
 ---
 PREGUNTA
+Gracias, doctores. Buenas tardes. Luis Francisco Soto, del Sistema Público de Radiodifusión Canal 14.
 Doctor Gustavo, al respecto de la cantidad de camas y espacios para la atención hospitalaria de estos casos graves quiero preguntarle.
 ¿Cómo va a ser esta coordinación con las Secretarías de la Defensa Nacional y la Secretaría de Marina que ya anunciaron que están haciendo este inventario de la cantidad de camas y de espacios que se van a ofrecer?
 Y saber si va a ser de manera conjunta con ustedes, con los institutos nacionales o será una vez que, digamos, haya sido cubierta ya la cantidad de camas y espacios disponibles y entonces pasarían a los hospitales administrados, ya sea por la Sedena o la Semar.
@@ -79,10 +108,15 @@ Y en una segunda pregunta, el fin de semana pasado el presidente López Obrador 
 ¿Estos 17 hospitales en qué estados van a estar ubicados, si van a ser, como ya comentaban ustedes, en estas regiones más urbanizadas o más amplias en términos demográficos?
 ---
 GUSTAVO REYES TERÁN
+Gracia por la pregunta.
 Lo que el presidente dijo fue justamente de esos hospitales que estarán habilitados y que han sido construidos en otros regímenes y son los que van a ser coordinados por la Secretaría de la Defensa Nacional, la Secretaría de Marina, pero de todas formas se está haciendo un trabajo coordinado entre la Secretaría de Salud, la Secretaría de la Defensa Nacional, la Secretaría de Marina, para la atención total del problema COVID-19 en México.
 Hay una acción coordinada, interactiva, entre las tres secretarías, de hecho, las cuatro secretarías con la Secretaría de Seguridad Pública para tratar de mantener una, o dar una atención de la manera más ordenada posible en México.
 ---
+RICARDO CORTÉS ALCALÁ
+Primero acá y luego usted.
+---
 PREGUNTA
+Gracias, buenas noches. Paola Betancourt, de Multimedios Televisión.
 Ya ayer el subsecretario López-Gatell comentaba que el presidente no se iba a realizar la prueba de COVID-19, esto a pesar de haber estado en contacto el pasado 18 de marzo con el gobernador de Hidalgo, Omar Fayad, ya dijo que no se realizará la prueba.
 Sin embargo, de acuerdo a lo que ustedes han comentado y a los protocolos que deben seguirse, el presidente no debería aislarse, no debería llevar a cabo ese proceso de aislamiento, justamente, porque prácticamente es un paciente sospechoso al haber estado en contacto ya con un paciente confirmado y, sin embargo, el día de ayer se le veía, pues que no respetaba, justamente, estas medidas de sana distancia al estar en el aeropuerto, tomándose selfies con la gente, incluso, no se dejó tomar la temperatura.
 ¿No debería él aislarse y ser considerado un paciente sospechoso?
@@ -91,6 +125,7 @@ Y, por otra parte, también quisiera preguntarles, en Nuevo León, la Secretarí
 Y mi tercera pregunta es: ¿El viernes se informó sobre cinco trabajadores del IMSS que fueron confirmados por COVID-19, este registro ha crecido o hay pacientes sospechosos a raíz de estos cinco casos confirmados de pacientes médicos del IMSS?
 ---
 GUSTAVO REYES TERÁN
+Bien, si me permites, Ricardo, rápidamente.
 El presidente no es un caso sospechoso, no cumple la definición, no sabemos si en el momento que hubo la cercanía entre el gobernador y él, el gobernador que ha sido positivo a COVID-19 tenía síntomas.
 Si no tenía síntomas sería poco probable que pudiera y, sobre todo, si no hubo acercamiento de un metro y medio o menos la posibilidad es baja de que pudiera tener la infección. Y en este momento mientras no tenga síntomas, por cierto, me parece que hoy le tomaron la temperatura en un aeropuerto, hoy o ayer, y fue una temperatura completamente normal.
 Sobre el segundo punto de las pruebas. Bueno, yo creo que se ha hablado ya mucho sobre las pruebas, hay países que hacen más pruebas que otros, hay países que con pocas pruebas han controlado la enfermedad, hay países con muchas pruebas que han controlado la enfermedad, hay países con muchas pruebas que no han controlado la enfermedad y así sucesivamente podemos ver todos los escenarios que han existido y con un número de pruebas baja, moderada o alta.
@@ -99,13 +134,19 @@ Y esto, repito, es importante que lo sepamos, es una acción propuesta por el go
 Sería muy recomendable, deseable, que se separe la política de este problema de salud que sufre todo el país.
 ---
 RICARDO CORTÉS ALCALÁ
+Es muy importante, perdón, hablando del distanciamiento social, eso sí es lo que marca la diferencia, no cuántas pruebas se hacen o no se hacen en un país, sino el momento en el que el distanciamiento social se indica y la sociedad responde o no responde.
 Entonces, podemos indicar el distanciamiento social muy tarde y la epidemia va a ser muy aguda, creciendo muy rápido como en Italia.
 Puede indicarse a tiempo y si la sociedad no responde va a ser lo mismo, debe indicarse a tiempo como nosotros lo estamos indicando y la sociedad debe de responder, como esperamos que responda, quedándose en casa.
 ---
 INTERLOCUTORA
+Lo del presidente lo comentaba justamente porque se encuentra en este cuadro de personas más vulnerables que tienen hipertensión y es una persona de la tercera edad.
 Falto esta respuesta acerca de si conocen sobre este tratamiento del cual se ha hablado en Nuevo León con plaquetas de personas que ya se han curado, si tienen información.
 ---
+RICARDO CORTÉS ALCALÁ
+Eso sí es del ámbito de competencia del doctor.
+---
 GUSTAVO REYES TERÁN
+No es plaquetas, no es un procedimiento nuevo, se ha utilizado antes en varias enfermedades, es extraer el plasma, plasma es el componente líquido de la sangre sin células y donde van los anticuerpos que se forman contra un virus.
 Entonces, se presume que las personas convalecientes que han ya superado la enfermedad ha sido porque han tenido una muy buena respuesta de anticuerpos que ha neutralizado el virus y, por tanto, si uno obtiene ese plasma, le hace un tratamiento y lo retorna a otro paciente que tiene la enfermedad, se ha planteado la hipótesis que podría ser útil para curar o mejorar la curación o ayudar a la curación a esa persona enferma, ese es el concepto.
 Sin embargo, como todos los tratamientos que se han planteado hasta ahora, y puedo darles la lista: hidroxicloroquina o cloroquina, azitromicina combinada con cloroquina o el remdesivir, que quizá sea el que más probabilidades tenga de controlar a la enfermedad, al virus.
 Algún otro es anticuerpos monoclonales dirigidos contra moléculas en el cuerpo humano que podrían controlar la inflamación que induce el virus cuando infecta un organismo y esa inflamación daña los tejidos; entonces, al controlar esa inflamación podría también ser útil en el tratamiento de las personas.
@@ -113,13 +154,25 @@ Toda esta lista de tratamientos, incluyendo el uso de plasma o incluso anticuerp
 Creo que es importante también decirlo de una vez, en esta coordinación de los diferentes equipos para responder contra el COVID-19, tanto de la atención médica, hay otro componente el que emana del Consejo Nacional de Seguridad en Salud, que es el de investigación científica, y en este grupo, también coordinado por nosotros, se han ya hecho como cuatro o cinco ensayos clínicos con la mayoría de estos medicamentos que yo les acabo de decir y que se van a conducir probablemente a partir de la próxima semana, estamos esperando detalles que tienen que cumplirse, como la autorización de Cofepris para llevarlos a cabo.
 Muy probablemente mañana se tenga la aprobación y autorización de Cofepris y, por tanto, estaríamos ya en posibilidad de iniciarlos en esta misma semana.
 ---
+INTERLOCUTORA
+Y sobre este registro que les preguntaba también de los cinco médicos confirmados del IMSS.
+---
 GUSTAVO REYES TERÁN
+Del IMSS yo no tengo conocimiento.
+---
+INTERLOCUTORA
+El viernes se informó sobre estos cinco médicos confirmados, también si quizás se podría deber a una negligencia al no darles el equipo médico necesario justamente para tratar a los pacientes infectados.
+---
+GUSTAVO REYES TERÁN
+Pienso que hablar de negligencia es muy venturado y debe ser muy cauteloso hablar de un concepto tan serio si no hay pruebas para ello.
 Yo pediría mejor que se analizara bien el caso y que transparentemente se diga a los medios, la transparencia en una pandemia es crítica, es fundamental y eso es lo que ha hecho el gobierno justamente desde el principio del problema COVID-19.
 ---
 RICARDO CORTÉS ALCALÁ
+Y como para cualquier caso confirmado se estará investigando a las personas que han estado en contacto con estos médicos.
 Por favor, uno, dos, tres y cuatro.
 ---
 PREGUNTA
+Blanca Valadez, reportera de Grupo Milenio.
 Algo que hemos detectado con la población es que decir estadísticas frías de 200 muertos y decir que hay más de 900 personas no les dice mucho.
 A mí me gustaría que nos dijeran quiénes son, no estoy pidiéndoles que violen la identidad de ellos, es como lo que antes se hacía, que nos decían 20 años o 45 años, factores de riesgo y dónde.
 A mí me gustaría, digo, ya son 20 personas, pedimos la cadena desde, creo que el octavo, si no es que antes, también de estas personas que son, que no tienen antecedentes de viaje y que tampoco tienen contactos de importación ya estamos hablando de 132 personas.
@@ -132,24 +185,57 @@ Entonces si me gustaría que me contestaran puntualmente esas tres preguntas.
 Gracias.
 ---
 RICARDO CORTÉS ALCALÁ
-La diapositiva 11 nos dice que de los 20 fallecidos, la mitad eran obesos, la mitad vivían con hipertensión, o sea, 10 y 10, el 45 vivían con diabetes, o sea, sí estamos presentando la información.
+La primera, las personas a las que no se les identifica con una importación no es que se pierda el control, no son focos rojos, es la transición de los casos importados, de la importación, del escenario o fase uno al escenario dos o fase dos, en donde hay dispersión comunitaria y saber si son importados o no, ya no importa; es más, ahorita ya ni siquiera les preguntamos si viajaron a algún lado o no, es transmisión local, ya en nuestro país, y entonces deja de tener importancia el hecho de tener un contacto con el exterior.
+---
+INTERLOCUTORA
+Pero por lógica tienen que estar ubicados en un lugar más concentrados, hablaban de las grandes ciudades, si me pueden decir ahorita esos 132 dónde están principalmente localizados y sobre las personas que fallecieron, digo, los datos generales dónde y por qué, o sea, no les estoy pidiendo sus nombres.
+---
+GUSTAVO REYES TERÁN
+Esos datos se tienen.
 ---
 RICARDO CORTÉS ALCALÁ
+Creo, perdón, doctor, creo que los estamos dando, la diapositiva número 10 nos dicen de qué edad y sexo.
+La diapositiva 11 nos dice que de los 20 fallecidos, la mitad eran obesos, la mitad vivían con hipertensión, o sea, 10 y 10, el 45 vivían con diabetes, o sea, sí estamos presentando la información.
+---
+INTERLOCUTORA
+Pero las edades no, no sabemos quiénes son ellos.
+---
+RICARDO CORTÉS ALCALÁ
+Las edades, a ver.
+---
+GUSTAVO REYES TERÁN
+También edades, también están presentadas.
+---
+RICARDO CORTÉS ALCALÁ
+De 35 a 39 hay dos personas que lamentablemente fallecieron, de 40 a 44 hay cuatro personas, de 45 a 49 hay una persona, están en la diapositiva número 10 que presentamos.
 Muchísimas gracias, amigos.
 ---
 INTERLOCUTORA
+Pero yo creo que esto es para la gente, o sea, yo puedo sentarme a ver la gráfica, ustedes deben de darle una explicación a la gente, o sea, yo les puedo decir hay dos, dos, estas últimas muertes que se registraron, estamos hablando de cuatro más con respecto a ayer.
 ¿Dónde fueron?
 Porque la secretaría de Quintana Roo, por ejemplo, salió anunciando desde la semana pasada un deceso que ya no sabemos si está registrado aquí o si nos pueden dar esos detalles.
 ---
 RICARDO CORTÉS ALCALÁ
-Por eso creo que el mensaje…
+Todos los decesos que tengan una prueba positiva a COVID, a SARS-CoV-2 están aquí, todos, si estas defunciones, como todos los días les hemos explicado, si estas defunciones ocurrieron y se notificaron después del corte que hacemos para esta presentación aparecerán mañana, transparencia total, tablas, datos, transparencia total aquí.
+---
+INTERLOCUTORA
+Ustedes podrían hacer un esfuerzo de decirnos por cada caso las edades, el lugar donde fallecieron, porque no necesariamente tienen que ser de ahí, muchos pueden ser oriundos del Estado de México, de otras partes y decirnos exactamente igual los factores de riesgo que llevaban y si eran sexo femenino o masculino, uno por uno, creo que esto también le daría visión a la gente de que son gente, personas que pudieron haber sido familiares, sus vecinos, porque definitivamente el mensaje creo que no está llegando a la población de quedarse en casa; entonces, parece que les dicen salte de casa.
 ---
 RICARDO CORTÉS ALCALÁ
+Y si les decimos que está en la colonia X, los de la colonia Y van a decir: Nos vamos y nos salimos.
+Por eso creo que el mensaje…
+---
+INTERLOCUTORA
+Jamás dije, jamás pedí esos detalles.
+---
+RICARDO CORTÉS ALCALÁ
+No, no por la colonia, digo por la ciudad, digamos, si la mitad de las defunciones están en Tingüindín, Michoacán, la gente de la Ciudad de México va a decir: Yo no estoy en Tingüindín, mi riesgo es menor’.
 No, es este es el número de personas que lamentablemente han perdido la vida por esto, tienen unas características para que la gente escuche y entienda que los que viven con hipertensión, que los que viven con obesidad mórbida, que los que viven con diabetes son los que mayor riesgo tienen de complicarse, no significa que los no vivamos con esas enfermedades nos vamos a salir de casa.
 El mensaje es quedarnos en casa todos.
 Habíamos quedado que era uno, luego dos y luego por acá.
 ---
 PREGUNTA
+Buenas noches.
 Yo quiero saber en qué momento vamos a entrar o se puede hablar ya de la fase tres, entiendo que ya hay un 13 por ciento de contagio comunitario y vamos ya para los mil casos.
 No sé si tenga que ver con estas dos condiciones o en qué porcentaje tenemos que estar ya para hablar de una fase tres.
 El gobernador de Yucatán también hoy salió a decir que va a haber sanciones duras para gente que no acate la recomendación de quedarse en casa, incluso habla de cárcel, de multas.
@@ -158,37 +244,100 @@ Y sobre casos sospechosos, los casos sospechosos, perdón van en aumento o podr�
 Gracias.
 ---
 RICARDO CORTÉS ALCALÁ
+Con mucho gusto.
 Todos los casos ahorita van a ir en incremento, sospechosos, confirmados, negativos, todos, todos, todos, porque a la hora que se instala la transmisión comunitaria se incrementa el riesgo de un pico epidémico muy agudo, como lo digo.
 ¿A qué me refiero a agudo?
 A que en menos de una semana el incremento exponencial va a ser, vamos, demasiado importante. Por eso las acciones de mitigación y de quedarnos en casa para que esta curva, en este momento que está creciendo, en este momento empecemos a… todos los que están ahorita enfermos y que no lo saben, a casa.
 Todos los que no nos íbamos a enfermar, a casa también en estas dos semanas, que es el periodo de incubación de la enfermedad, es que estas personas van a desarrollar signos y síntomas, si requieren de hospitalización se llama al número de emergencias para llevarlo a un hospital, si no se requiere de hospitalización se quedan en casa, se guardan, están ahí estas dos semanas en espera y se van a recuperar.
 Y una vez terminada la Jornada Nacional de Sana Distancia estaremos potencialmente si todos hacemos caso y nos quedamos en casa, en posibilidad de ir regresando poco a poco la vida cotidiana.
 ---
+INTERLOCUTORA
+(Inaudible)
+---
 RICARDO CORTÉS ALCALÁ
+Ah, el escenario tres, el escenario epidémico se da cuando los brotes son a nivel nacional en todos los estados, que son de mayor número, y que si el umbral de mil, no es que a la hora de mil uno ya estamos en epidemia, pero si ya es hablar de miles de casos porque estarían dispersos y con muchos brotes a nivel nacional, pero precisamente eso es lo que vamos a evitar quedándonos en casa.
+---
+INTERLOCUTORA
+Y sobre las declaraciones que hace el gobernador del Yucatán respecto a tener…
+---
+RICARDO CORTÉS ALCALÁ
+Cada estado es libre y soberano de tomar sus decisiones sobre la población a la que gobierna, nosotros, por lo pronto, a nivel federal no estamos tomando una decisión de ese estilo.
 Habíamos quedado que una y dos, porque nos quedan… y tres.
 ---
 PREGUNTA
+Gracias. Buenas tardes. Laura Toribio, del periódico Excélsior.
 Está circulando un acuerdo del Consejo de Salubridad, quiero saber si es real, parece que se reunió y están previendo un escenario de riesgo, básicamente, el control que tome el gobierno sobre el transporte público de pasajeros, incluido el privado, sobre el control de alimentos y sobre el control de las empresas.
 Quiero saber si este acuerdo es o…
 ---
+RICARDO CORTÉS ALCALÁ
+El Consejo de Salubridad General no se ha reunido desde la última vez que se reunió y que abierta y transparentemente se notificó.
+---
 INTERLOCUTORA
+La otra pregunta es: ¿Cuánto cuesta esta reconversión de hospitales?
 Si nos pudiera decir doctor Gustavo Terán, usted el pasado 10 de marzo emitió una circular en la que decía que no había insumos, que faltaban médicos, que faltaba personal de químicos, camilleros.
 Quisiera saber si ya se tienen, cuánto es el costo y si nos pudiera decir específicamente cuánto personal se va a necesitar, cuántos ventiladores se van a necesitar, más allá de las camas todos los insumos que se van a requerir y si ya están en este momento en estos centros COVID.
 ---
+GUSTAVO REYES TERÁN
+Honestamente no conozco la cantidad en dinero de lo que va a costar la reconversión hospitalaria, pero sí tenemos a un grupo de economistas de la salud trabajando para saber cuánto nos va a costar al final por cada paciente en dinero la atención que se va a brindar en todas las fases de la epidemia y de las reconversiones hospitalarias.
+---
+INTERLOCUTORA
+¿Pero ya se tienen los insumos que usted dijo?
+---
+GUSTAVO REYES TERÁN
+Los insumos ya se tienen en este momento en los hospitales para atender esta primera fase, esta semana van a llegar más insumos para todo el país tengo entendido y se están definiendo últimos detalles para saber el número de ventiladores que se requerirían no solamente en estos centros COVID y no COVID que yo presenté, sino en todo el país.
+---
+INTERLOCUTORA
+¿Llegaron para estos seis centros COVID?
+---
+GUSTAVO REYES TERÁN
+Ya se ha mencionado en estas mismas conferencias de que el Insabi abrió una convocatoria, el Seguro Social también abrió una convocatoria, el número exacto de personas ya reclutadas y contratas no lo sé, pero seguramente se dará a conocer en los días próximos el número exacto y seguramente este número irá aumentando conforme se irán necesitando en cada una de las fases de reconversión y de atención, dependiendo por regiones y dependiendo de la cantidad de enfermos que se atiendan en cada hospital.
+---
+INTERLOCUTORA
+Nos puede decir los hospitales y los institutos, cuántos ventiladores ya les llegaron de los que ustedes requerían.
+---
+GUSTAVO REYES TERÁN
+El número de ventiladores es exactamente el número de camas que yo presente y monitores igual y todo.
+---
+INTERLOCUTORA
+(Inaudible)
+---
+GUSTAVO REYES TERÁN
+Tenemos la primera y segunda fase, la primera fase completos, la segunda fase parcialmente, pero se están definiendo todavía el número de los que se requerirán en cada uno de los centros para seguramente en el curso de esta semana, máximo la próxima, se tendrá ya disponibles para instalarse y probarse, se están probando en este momento para realmente saber que cumplan con todas las condiciones que se requieran.
+---
 PREGUNTA
+Buenas noches.
 Preguntarles ¿cuánto tiempo les tomaría la reconversión de esos hospitales?
 Y en caso, que no es deseable, pero en caso de que alguien o que se desbordara el número de casos que tengan que recibir qué va a pasar con quienes no alcancen una cama, por decirlo de alguna manera.
 ---
 GUSTAVO REYES TERÁN
-Un virus los está esperando afuera, y a lo mejor si son jóvenes y no tienen ninguna enfermedad crónica, no les pase nada, puede no tener síntomas, puede tener síntomas leves o moderados, pero que no olviden nunca que van a regresar a sus casas y podrán transmitir el virus a las demás personas, y esto es justamente lo que se trata de evitar cuando uno insiste en el quédense en su casa.
+Sí, la transición entre fase y fase es inmediata, porque cuando se ha ocupado el 50 por ciento de cada fase, se planea ya la entrada la segunda fase, justamente se planea al 50 por ciento, es un número arbitrario, pero que hemos calculado que servirá para que cuando se ocupe el 100 por ciento de las camas en la primera fase se tenga ya listo el número de camas de la segunda fase, y así también para la tercera fase.
 ---
 INTERLOCUTORA
-¿Cómo deben de ser sus actividades ya?
+No se prevé que se llegue en algún momento a que haya algún paciente que no alcance cama.
+---
+GUSTAVO REYES TERÁN
+Dependerá mucho y confiamos en la población, es fundamental quedarse en casa, solamente así evitaremos que los hospitales se desborden, porque ningún país podrá tener el número de camas suficientes en una pandemia si la población, si los medios de comunicación no ayudan en todo, todo, y de manera interactiva y coordinada para mantener a la población fuera del contacto con el virus, que recuerden siempre que salgan, cuando se preguntan ¿salgo o no salgo de mi casa?
+Un virus los está esperando afuera, y a lo mejor si son jóvenes y no tienen ninguna enfermedad crónica, no les pase nada, puede no tener síntomas, puede tener síntomas leves o moderados, pero que no olviden nunca que van a regresar a sus casas y podrán transmitir el virus a las demás personas, y esto es justamente lo que se trata de evitar cuando uno insiste en el quédense en su casa.
 ---
 RICARDO CORTÉS ALCALÁ
 Última pregunta.
 ---
+INTERLOCUTORA
+Finalmente, director, nada más permítanme hacerle una última pregunta, ustedes como especialistas qué recomiendan, cómo recomiendan que deben ser las actividades en los tres de niveles de gobierno: municipal, estatal y federal.
+¿Cómo deben de ser sus actividades ya?
+---
+RICARDO CORTÉS ALCALÁ
+Sólo las esenciales y todos a casa.
+---
+INTERLOCUTORA
+Es decir, por ejemplo, conferencias de prensa en la Ciudad de México, ya veíamos que se tenía la disposición de que en unos días van a ser virtuales, es momento que las conferencias de prensa continúen o tengan que detenerse.
+---
+RICARDO CORTÉS ALCALÁ
+Es un tema que tendríamos que hablar con el titular de la vocería y con el presidente de la República.
+Última pregunta.
+---
 PREGUNTA
+Carlos Padilla, de la revista Zócalo.
 En varias ocasiones nos han dicho ustedes que las personas que pudieran tener síntomas de estar contagiadas, pero que no tengan insuficiencia respiratoria podrían quedarse en casa.
 La pregunta es ¿si se quedan en casa y recomiendan ustedes reposo, algún medicamento recomiendan mientras esa semana o dos semanas se mantienen casa sin ser hospitalizados? ¿qué deben de tomar? ¿qué debe de hacer la gente en ese momento?
 Y el cuidado de los enfermos a los hospitales ¿qué recomiendan ustedes?
@@ -196,21 +345,34 @@ Por último, nada más, los hospitales que van a ser reconvertidos ¿qué va a o
 Por favor.
 ---
 GUSTAVO REYES TERÁN
+No hay tratamiento específico para el virus en este momento.
 Cada médico puede ser libre de prescribir los medicamentos que se han propuesto con base en anécdotas de que son útiles como la hidroxicloroquina, como algún antirretroviral, como el medicamento que esté disponible, son libres de prescribirlos.
 Sin embargo, no hay evidencia científica de que sean útiles en este momento y desafortunadamente tendremos que esperar a que se terminen los ensayos clínicos para saber si realmente son eficaces o no son eficaces.
 El qué medicamentos tomar, en general se recomienda, primero mantenerse aislados, eso es lo más importante, si los síntomas son muy leves y se tiene fiebre solamente medicamentos para la fiebre, el más recomendado en cualquier parte del mundo es paracetamol y nada más, no hay más que hacer más que mantenerse aislado, esperar que la respuesta inmune contenga al virus y puedan entonces ayudar superar lo más pronto posible la infección por el SARS Coronavirus Dos.
 Esa es la conducta médica y la conducta de las personas que están con la infección, en cualquier parte del mundo, en cualquier ciudad del mundo.
 ---
 INTERLOCUTOR
+Para el traslado de enfermos a los hospitales.
+---
+GUSTAVO REYES TERÁN
+Hay todo un sistema de traslados dependiendo si la persona tiene Seguro Social, si tiene Issste, si tiene seguridad social por cualquiera de las instituciones o si no las tiene también existe un mecanismo en el caso de la Ciudad de México, y es lo mismo que debe de estar ocurriendo en el resto del país, cada jurisdicción sanitaria se hace cargo de ponerse en contacto con la persona gracias a este llamado por teléfono de tomar la muestra para hacer la prueba, si resulta positiva y no amerita ir al hospital se mantiene en casa, si amerita ir al hospital se trasladan a los hospitales.
+---
+INTERLOCUTOR
+Bien.
 ¿La reconversión, qué va ocurrir con los enfermos de cáncer, de otras enfermedades?
 ---
 GUSTAVO REYES TERÁN
+Es parte del programa y de las acciones que exige una reconversión hospitalaria, esto no se hace de la noche a la mañana, esto se planeó desde hace varias semanas, se citaron a los directores generales, se planteó el programa de reconversión y, como lo puse en una de las diapositivas, equivale a reprogramar las cirugías selectivas, la consulta ambulatoria y el traslado de pacientes de un hospital que va a atender a personas con COVID predominantemente, a un hospital que no va a atender personas con COVID predominantemente.
 Y esto se hizo gracias a la formación de varios equipos de trabajo, un equipo de referencia y contrarreferencia, también para desahogar al tercer nivel de atención de la consulta de primer nivel de atención.
 Hay un sistema, un equipo muy bien coordinado que inmediatamente transfiere al primer nivel de atención lo que debe verse en el primer nivel de atención para asegurar que un hospital de tercer nivel atienda realmente a los pacientes graves, que esto ha mejorado en los últimos días, yo pienso que gracias a lo que se ha informado en estas conferencias.
 Hay otro equipo que se encarga directamente de visitar los hospitales para hacer las reconversiones apropiadas en cada uno de ellos, en los cinco o seis hospitales en la Ciudad de México y el Estado de México, por ejemplo.
 Y hay otro equipo que se dedica coordinado por dos directores de los institutos nacionales de salud que están dedicados a coordinar el traslado de pacientes de un hospital COVID a un hospital no COVID, que eso se refería yo creo su pregunta.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchísimas gracias a todos por estar aquí con nosotros.
 Muchas gracias a todos en casa.
 Quédense en casa, quédense en casa.
 Muchas gracias.
+---
+GUSTAVO REYES TERÁN
+Gracias.

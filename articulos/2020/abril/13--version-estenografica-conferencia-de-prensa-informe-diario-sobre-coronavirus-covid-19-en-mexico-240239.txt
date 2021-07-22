@@ -3,6 +3,7 @@ Presidencia de la República
 13 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy bien. Son las 19:00 horas del lunes 13 de abril de 2020. Estamos en la Ciudad de México, este es el Palacio Nacional y vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS CoV2.
 Hoy vamos a tratar tres temas:
 El informe técnico diario sobre la situación epidemiológica del mundo y de México, que lo presentará el doctor José Luis Alomía, director general de Epidemiología.
 Hoy tenemos el gusto de tener a la doctora Karla Berdichevsky Feldman, quien ya ha venido en otras ocasiones y es la directora general del Centro Nacional de Género y Salud Reproductiva, y nos va a venir a presentar la nueva guía o lineamientos técnicos para el manejo de COVID en el puerperio… más bien, en orden en el embarazo, el parto y el puerperio, guía que recientemente salió y que ella coordinó con un amplio grupo de consulta en instituciones y dependencias y grupos sociales, expertos y expertas en esta materia. Bienvenida, Karla.
@@ -10,8 +11,9 @@ Por supuesto, nos da mucho gusto que también nos acompañe el doctor Víctor Hu
 Le pido al doctor Alomía si nos comenta.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario. Buenas tardes a todas y todos.
 Iniciamos con nuestro panorama internacional, de cómo se está comportando la epidemia, la pandemia a nivel mundial. Si pueden ver, nuevamente tenemos una reducción en la proporción de casos confirmados en los últimos 14 días, ayer era de 63, hoy es de 61 por ciento, eso habla de una disminución en la cantidad, por lo menos de casos más recientes.
-La tasa de letalidad, 6.3 por ciento, ha estado prácticamente alrededor de ese nivel en las últimas dos semanas.  Si vemos en la siguiente diapositiva, vemos que esa contracción de casos, esa disminución se da más a expensas de la región de Europa y es más bien la región de las Américas la que continúa creciendo, ahora concentra poco más del 43 por ciento de los casos, siendo que ayer andaba en el 42 aproximadamente.
+La tasa de letalidad, 6.3 por ciento, ha estado prácticamente alrededor de ese nivel en las últimas dos semanas.  Si vemos en la siguiente diapositiva, vemos que esa contracción de casos, esa disminución se da más a expensas de la región de Europa y es más bien la región de las Américas la que continúa creciendo, ahora concentra poco más del 43 por ciento de los casos, siendo que ayer andaba en el 42 aproximadamente.
 Y creo, estamos casi seguros que a medida que vayamos viendo la evolución de la pandemia, en algún momento la región de las Américas tomará la delantera en función de que en Europa empezarán a ser cada vez menos y menos casos, dado que estarán en la parte descendente de su curva epidémica.
 En la siguiente diapositiva vemos la actualización para el día de hoy en México. Tenemos nuestro mapa con la distribución de carga de enfermedad, es decir, del número casos confirmados para cada entidad federativa, en total suman para todo el país cinco mil 14 casos, así también han salido 23 mil 40 personas negativas al resultado del laboratorio de COVID y también se actualiza el número de defunciones a lamentablemente 332, más de 37 mil personas que hasta el momento han sido ya estudiadas y entradas a un protocolo de investigación de todos estos casos en relación a COVID-19 en México.
 La siguiente diapositiva es un nuevo mapa que queremos introducir el día de hoy, que es similar al interior, solamente que en este la comparación es más real, ya que los colores que se asignan para cada una de las entidades federativas está en relación precisamente a la tasa de incidencia acumulada por 100 mil habitantes.
@@ -50,9 +52,11 @@ Vemos ahora una tendencia, digamos, estable para los últimos, al menos, cinco d
 Sería la actualización.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Le pido a la doctora Karla, si nos conduce.
 ---
 KARLA BERDICHEVSKY FELDMAN, DIRECTORA GENERAL CENTRO NACIONAL DE EQUIDAD DE GÉNERO Y SALUD REPRODUCTIVA
+Muchas gracias, subsecretario.
 Como mencionaba el subsecretario, hemos trabajado al interior de la Subsecretaría de Prevención y Promoción de la Salud en el desarrollo de un nuevo lineamiento muy importante para nuestra población ante la epidemia de coronavirus.
 Y quisiera contextualizarlo en esta perspectiva que conversamos ya en una conferencia de prensa previa, en donde hemos hablado de los servicios de salud sexual y reproductiva, y cómo estos deben mantenerse como servicios esenciales aún ante la epidemia del coronavirus.
 Y dentro de esta perspectiva la atención al embarazo, al parto, el puerperio y al recién nacido está centrada especialmente identificada como de estos servicios que deben mantenerse de manera esencial durante el curso de esta pandemia.
@@ -90,9 +94,11 @@ Antes de cerrar, nada más mencionar que hemos implementado también un sistema 
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Karla Berdichevsky, directora general del Centro Nacional de Equidad de Género y Salud Reproductiva.
 Le pido amablemente al doctor Víctor Borja si nos comenta sobre un tema también importante.
 ---
 VÍCTOR HUGO BORJA ABURTO, DIRECTOR DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Sí, con gusto. Muy buenas tardes.
 Yo quiero seguir comentando la preocupación y la ocupación que tenemos en todo el sector salud por los trabajadores de la salud, quienes son la primera línea en esta batalla contra el coronavirus.
 En el IMSS, me gustaría comentar sobre un bono que tenemos para aquellos trabajadores que van a estar en la primera línea, pero antes me gustaría comentar sobre las estrategias que hemos empleado, hemos utilizado en el IMSS para disminuir la exposición del personal de alto riesgo.
 Sabemos que trabajadores de la salud también, igual que la población general, algunos son de más alto riesgo para desarrollar enfermedad grave de COVID, por eso desde el principio y en acuerdo con el sindicato retiramos de las áreas en el IMSS a cerca de 20 mil trabajadores, hombres y mujeres que tenían alto riesgo y que deberían permanecer en casa, y que muchos de estos están trabajando en casa; no quiere decir que se hayan ido de vacaciones, están trabajando en casa y siguen contribuyendo con nosotros a la atención de los trabajadores… perdón, de los derechohabientes, pero desde su casa.
@@ -115,9 +121,11 @@ Esperamos seguir fortaleciendo la salud y seguridad de nuestros trabajadores. Re
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Víctor Hugo Borja, director de Prestaciones Médicas del IMSS.
 Ángeles Cruz, del periódico La Jornada; Blanca ahora no, porque ya le tocó ayer; usted y a usted, que no le ha tocado.
 ---
 PREGUNTA
+Gracias. Buenas noches subsecretario.
 Quisiera puntualizar sobre los datos que nos dieron hoy de los casos sospechosos. ¿Aplicaría el porcentaje de positividad que han mencionado del 16 o del 20 por ciento para tener un cálculo?
 Ya que son sospechosos, ¿de cuántos efectivamente estarían siendo COVID eventualmente? ¿aplica el porcentaje de positividad?
 Y, sobre otro asunto, ¿han pensado en la posibilidad de cambiar la manera de evaluar a las personas con síntomas?, porque hoy he conocido algunos casos de personas que tienen síntomas distintos a los que se han dicho, la tos seca, fiebre, etcétera, la falta de aire, pero si sólo tienen dolor de pecho para respirar ¿no entran en la categoría de sospechosos de COVID?
@@ -127,26 +135,33 @@ Y quisiera yo saber sobre los casos sospechosos también. ¿Cuánto tiempo en pr
 ¿Cuántos días están tardando para dar este resultado?
 Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Doctor Alomía, si nos comenta.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En relación al porcentaje de positividad, de manera preliminar pudiera, sí, aplicarse el porcentaje de positividad para al menos, de los casos que aún son sospechosos, decir: Hay una expectativa de que al menos, o sea, como un valor mínimo, pudiéramos tener esta cantidad más de casos confirmados para cada una de las categorías; sin embargo, no sería tampoco lo correcto porque, como hemos comentado, a medida que va incrementándose la transmisión, este porcentaje de posibilidad puede incrementarse.
 Entonces, pudiera, sí, darnos un mínimo más que sumar a los ya confirmados, pero realmente pudieran ser más, porque si el porcentaje de positividad se incrementa, entonces la cantidad de los casos sospechosos que realmente serían confirmados a COVID-19 pudiera ser mayor.
 Pero como un dato general como tal pudiera, sí, aplicarse este porcentaje a los que aún son sospechosos y hacer como una especie de estimación rápida y decir, además de los que ya tengo confirmados como mínimo, puedo tener estos más, porque no esperamos que el porcentaje de positividad disminuya, sino que más bien se incremente. Pero sí habría que esperar.
 Y lo uno con la tercera pregunta, que tiene que ver con el tema de los resultados, 72 horas, o sea, tres días es lo que en promedio toda la red, porque eso es un promedio de toda la Red Nacional de Laboratorios, están digamos en un máximo de tiempo emitiendo resultados.
 De hecho, el control o el indicador de calidad para resultados de laboratorio es precisamente este, después de 72 horas se considera ya que un resultado no es oportuno como tal.
 La gran mayoría, estamos hablando de casi el 75 por ciento de los resultados, se han tenido dentro de este rango de 72 horas.
 Y en el caso de los signos y síntomas de enfermedad, lo que se ha observado tanto en los casos en México como en la bibliografía internacional es que los síntomas respiratorios tienen una gran, digamos, variedad de presentación.
-El dolor de pecho como tal pudiera identificarse como un signo de alarma en una persona que presenta signos respiratorios;  sin embargo, el dolor de pecho por sí solo, la dificultad respiratoria es el signo de alarma más común cuando empieza una persona a tener una evolución grave, de hecho es el principal signo de alarma la dificultad respiratoria, pero el dolor de pecho puede asociarse a muchas otras patologías, entre ellos, por ejemplo, el infarto al miocardio; el infarto cardiaco precisamente expresa dolor de pecho como signo o síntoma principal.
+El dolor de pecho como tal pudiera identificarse como un signo de alarma en una persona que presenta signos respiratorios;  sin embargo, el dolor de pecho por sí solo, la dificultad respiratoria es el signo de alarma más común cuando empieza una persona a tener una evolución grave, de hecho es el principal signo de alarma la dificultad respiratoria, pero el dolor de pecho puede asociarse a muchas otras patologías, entre ellos, por ejemplo, el infarto al miocardio; el infarto cardiaco precisamente expresa dolor de pecho como signo o síntoma principal.
 Entonces sí es importante que estén presentes otra sintomatología respiratoria para que el caso pueda cumplir con la definición operacional y ser considerado como sospechosos de COVID.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Usted y usted y Araceli, luego usted.
 ---
 PREGUNTA
+Buenas noches, doctor; buenas noches a los que le acompañan en la mesa.
 Dos preguntas rápidas. La primera, en redes sociales se ha dado en estas últimas semanas, especialmente ayer, una controversia por la cuestión del abasto de insumos, Tijuana, por ahí incluso un comediante se prestó a este tipo de cuestiones.
 Si nos puede hablar de esta cuestión del vuelo, los vuelos que se tienen ya en puerta, si hay una fecha táctica o ya considerada para que este tipo de desabasto se acabe, siendo que sea fuerte o no sea fuerte, como se mencionó en redes sociales.
 Y la segunda, si nos puede hablar un poco el doctor del Seguro Social, de Prestaciones Médicas, en cuanto a las características exactas del bono que anunciaba, ¿incluso hasta personal de limpieza va a aplicar lo del bono por riesgo de trabajo?
 Y en base a eso, si usted, doctor, nos puede comentar si se está estudiando un bono también para el personal de la Secretaría de Salud.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, le contesto la primera y le paso la voz al doctor Borja.
 Efectivamente, el tema de los equipos de protección personal es algo que debe ocupar a la sociedad, es algo muy importante, en especial en el personal clínico que está directamente enfrente de los pacientes que tienen COVID, y el tener los equipos de protección personal es un elemento fundamental para su protección.
 Los equipos, para quienes nos escuchan y no están familiarizados con qué quiere decir los equipos de protección personal, son precisamente los aditamentos de protección. La mascarilla, particularmente, la mascarilla N95, los goggles y también se pueden utilizar guantes por parte del personal de salud.
 Ayer hablé con detalle de lo inadecuado que es pensar que en la comunidad se necesiten este tipo de equipos. Específicamente dentro del personal de salud hay quien necesite utilizar estos equipos de máxima protección porque está en cercanía con la vía respiratoria de los pacientes que tienen COVID.
@@ -164,16 +179,23 @@ Entonces, si en una unidad de salud no hay estos equipos, quiere decir que algui
 Le pido al doctor Borja si nos comenta de lo otro, de lo del bono.
 ---
 VÍCTOR HUGO BORJA ABURTO
+Lo del bono. El bono va a ser otorgado a los trabajadores que atienden a esta contingencia en 184 unidades que tenemos para la atención de COVID, de ellas son 29 unidades, que van a ser 100 por ciento COVID, el 100 por ciento de sus pacientes serán pacientes COVID, 155 unidades híbridas que les llamamos que seguirán atendiendo urgencias y algunos servicios que no podemos suspender, tres unidades nuevas adicionales que tendremos y algunas unidades temporales que se van a instalar en las principales metrópolis.
 Todo este personal va a recibir el bono, esto incluye también el primer nivel, a los módulos de atención respiratoria instalados específicamente para la contingencia, lo que le llamamos el triaje respiratorio, el personal responsable de la material y equipo de protección personal, el personal que realiza funciones en las plantas de lavado también y el personal cuyas categorías se encuentran relacionadas directamente con la atención de los pacientes.
 ---
+PREGUNTA
+(inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Todavía no se ha considerado. Esta medida, como indica el doctor Borja, apenas la probamos hace unos minutos en el Consejo Técnico del Seguro Social y nos pareció una excelente propuesta de parte del director general, y se analizarán otro tipo de medidas semejantes en las otras instituciones.
 Vamos a darle a usted. Nos da tiempo para dos preguntas más, si son breves y concretos.
 ---
 PREGUNTA
+Gracias. Doctores, buenas noches. Alejandro Lelo de Larrea.
 Preguntarle, doctor, solo para hacer una precisión: ¿qué le recomienda usted a la gente cuando trabaja y llega a casa, para proteger a los niños?
 Y si usted cree que es conveniente llevar a los niños al trabajo.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En días recientes, el domingo concretamente, vino el director general de Promoción de la Salud, Ricardo Cortés, y nos mostró el material que tenemos sobre niños y adolescentes.
 En esta semana vamos a traer también, vamos a invitar a los colegas que se dedican al tema, tanto del DIF como del Centro Nacional para la Salud de la Infancia y la Adolescencia y del Sistema Integral de Protección de Niñas, Niños y Adolescentes, posiblemente también nos acompañe en el curso de la semana Guillermo Santiago, titular del Instituto Mexicano de la Juventud.
 Aquí lo que interesa mucho es la población infantil. Hoy también circulamos un video respecto a cómo abordar la situación con los niños y las niñas. Hay un aspecto importante que tiene que ver -no es exclusivo de niños y niñas- tiene que ver con las medidas de protección general.
 Me lo preguntaban también ayer respecto a qué pasa cuando una persona está trabajando fuera porque cumple una actividad esencial y llega a casa, si tiene que tener un cuidado en particular.
@@ -183,18 +205,38 @@ Y hay que cuidar en todos los casos, no solamente en los niños, sino también, 
 Interesantemente, y esto es alentador, los niños pueden desde luego tener infección por el coronavirus, pueden tener enfermedad COVID, pero por alguna razón que no es bien entendida todavía científicamente. son poblaciones de bajo riesgo, contrario a lo que, recordarán, alertábamos al inicio de la epidemia en México, que los considerábamos en la misma categoría de riesgo que la influenza, pero a lo largo de estas semanas con la evidencia que ya ha surgido de lo que ocurrió en otros países y que ocurre también en México, se documenta afortunadamente que las personas jóvenes, incluyendo niñas y niños, no tienen un riesgo particular de presentar complicaciones.
 ---
 INTERLOCUTOR
+Claro. Aquí sólo un agregado, doctor. ¿Usted no cree haber violado, incumplido el protocolo el sábado anterior cuando trajo a su hijo aquí, a Palacio Nacional?
 Y se lo pregunto no porque sea una… no es un asunto familiar, porque usted es el ejemplo de todos los mexicanos en este momento y trae a su hijo a Palacio; además, Palacio Nacional es un lugar público.
 ¿No incumplió este protocolo de cuidado a los niños?, ¿no dio un mal ejemplo, doctor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+El ejemplo es importante, pero lo más importante es la conciencia del riesgo. Hemos estado hablando todos los días, espero que usted haya prestado toda la atención debida a las medidas de precaución.
 Entonces, en un momento querer enfocar a un funcionario público en términos de su vida privada, pues creo que es ganas de querer distraer la atención.
 ---
+INTERLOCUTOR
+Perdón, doctor. No es vida privada porque ocurrió en un lugar público.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Tome en cuenta que las medidas de precaución deben ser consideradas en todos los casos.
 Hoy, por ejemplo, de manera, me parece un tanto morbosa, fuimos con el secretario de Salud y los compañeros de Insabi a buscar algo qué desayunar aquí, a unas pocas cuadras, y tuvimos un acoso de varios fotógrafos que estaban retratándonos mientras nos tomábamos el café y nos tomábamos una torta ahí en la vía pública. Entonces, creo que hay que dimensionar de acuerdo a lo que corresponde.
 Última pregunta.
 ---
+INTERLOCUTOR
+Es usted un hombre público y la pregunta con fines públicos, doctor. Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Última pregunta, por favor.
+---
 PREGUNTA
+Gracias. Ernesto Osorio, del Instituto Mexicano de la Radio.
 Preguntarle, doctor. Revisando la página del Consejo de Salubridad General, me encontré con el documento Guía bioética designación de recursos de medicina crítica para el personal de salud.
 Y mi pregunta va específicamente si es que esta guía se ha entregado ya al personal médico de las instituciones de salud pública.
 Es decir, las decisiones que por un consejo de ética -tengo entendido que se formó- se van a tener que tomar decisiones difíciles como, por ejemplo, el priorizar atención a un grupo de personas de mayor edad o de menor edad, según sea el caso.
 ¿Se ha dado ya esta capacitación se ha difundido, entre el personal médico esta guía?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Este tipo de guías son muy importantes, no son nuevas, ahora aplican a COVID. Es una adaptación de preceptos éticos fundamentales.
+También la Comisión Nacional de Bioética, que depende de la Secretaría de Salud, en semanas recientes tuvo reflexiones con distintas personas especialistas en ética, en bioética, en ética de la atención médica, y lo que consideramos que es muy importante en este momento es ubicar los distintos escenarios en los que podemos enfrentar una situación tan compleja como esta y no perder de vista que los preceptos éticos fundamentales, muchos de ellos representados también en forma de leyes o disposiciones jurídicas diversas deben ser considerados como estándares universales.
+Los distintos derechos humanos, como sabemos, son derechos universales de las personas y en un momento dado traducir esos derechos a situaciones complejas, situaciones críticas, requiere, como usted bien lo indica, preparación previa.
+En este momento es un documento que está a disposición ahí, en este portal del Consejo de Salubridad General, pero no implica en este momento una decisión ejecutiva sobre procedimientos que tuvieran que implantarse.
+Este es el término. Muchas gracias. Aquí terminamos.

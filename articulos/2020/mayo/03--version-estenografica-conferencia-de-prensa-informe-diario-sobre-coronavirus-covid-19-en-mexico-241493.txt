@@ -3,6 +3,7 @@ Presidencia de la República
 03 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Que tengan todos muy buena tarde. Son las 19:00 horas del domingo 3 de mayo de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la enfermedad causada por el nuevo coronavirus SARS-CoV-2. Hoy vamos a enfocarnos a dos asuntos de interés general:
 Uno es el informe técnico diario.
 El otro, que ayer quedó como un pendiente, y aquí qué bueno que ya veo a Dulce Soto, vamos a tomar sobre el monitoreo de COVID en México, los distintos componentes de la vigilancia, para qué sirve cada uno, cuáles son sus capacidades, dónde se aplican, de acuerdo a las distintas etapas o escenarios de la epidemia, cuáles son los objetivos que pretende cumplir, las preguntas que pretende resolver, todo. Entonces, lo vamos a presentar y luego abrimos a preguntas y respuestas, usted va a ser la primera que le va a tocar hacer preguntas, ya que ayer fue la que ya no pudo.
 Y aquí está Blanca Valadez, le damos la bienvenida de regreso.
@@ -129,7 +130,7 @@ Pero me llama la atención porque con esto del laboratorio, desde los primeros d
 El primero es demostrar su competencia técnica mediante una evaluación comparativa que hiciera el Indre, nuestro laboratorio nacional de referencia, para que supiéramos quién tenía estándares de alta calidad y quién no los tenía, y durante varias semanas había muchísimos que querían hacer diagnósticos, pero no cumplían esa calidad.
 Y lo segundo, que se comprometieran con la vigilancia epidemiológica, es decir, que no ocultaran información, porque lo que no queremos es que de repente haya una unidad, desde luego inaceptable en los públicos, pero también en los privados, que ocultara información de un fenómeno que es de interés público.
 Entonces, fueron las únicas dos condiciones y de ahí sacamos un mecanismo. Hoy funciona a la perfección en la medida en que estos laboratorios empezaron a enmendar sus capacidades y lograr demostrar su calidad.
-Y se obtiene por demanda directa, el que quiera ir va, finalmente son entidades privadas, las que son privadas y en el sector público tenemos que empezó a funcionar también desde el inicio, obviamente los 31 laboratorios estatales de salud pública, el laboratorio de la Ciudad de México, el Indre, nuestro laboratorio nacional de referencia  y también otros laboratorios adicionales que se pusieron unidades médicas, concretamente el Instituto Nacional de Salud en unidades médicas de alta especialidad del Seguro Social y del Issste y tenemos una buena cobertura territorial.
+Y se obtiene por demanda directa, el que quiera ir va, finalmente son entidades privadas, las que son privadas y en el sector público tenemos que empezó a funcionar también desde el inicio, obviamente los 31 laboratorios estatales de salud pública, el laboratorio de la Ciudad de México, el Indre, nuestro laboratorio nacional de referencia  y también otros laboratorios adicionales que se pusieron unidades médicas, concretamente el Instituto Nacional de Salud en unidades médicas de alta especialidad del Seguro Social y del Issste y tenemos una buena cobertura territorial.
 Lo que nos da ahí es esta carga mixta de casos y portadores. Esto es importante porque no toda persona que sale positiva a la prueba es un caso y hay una proporción importante de personas que son asintomáticas, hemos hablado aquí varias veces de los portadores asintomáticos.
 Entonces, esta estadística no se combina con aquella porque son señales diferentes, pero nos da información muy valiosa de lo que está ocurriendo en las distintas comunidades.
 Y termino con esta, que esta es el centro temático ahorita en fase 3, y les recuerdo que dijimos a cada fase cada método.
@@ -142,3 +143,60 @@ Ahí se ilustra lo que… bueno, la distribución de los laboratorios, nuestra R
 La siguiente. Estas, como ya veo que queda poco tiempo y para que haya tiempo de preguntas, las vamos a dejar como dejamos todas, están a disposición pública, pero básicamente les resume la idea básica es va comentando paso a paso lo que también está en el manual o lineamientos de vigilancia epidemiológica de COVID, que están en el micrositio.
 Entonces, por favor, no se limiten, toda la información es pública, échenle un ojo y vean cómo son las instrucciones que recibe el personal técnico, el personal de salud para hacer el proceso.
 La siguiente. Y como le prometí a Dulce, pero supusimos que era de interés de todos. Usted, Dulce ¿de qué medio es?
+---
+PREGUNTA
+De Reforma.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+De Reforma, Dulce Soto es de Reforma, entonces, interpretamos que Reforma está específicamente interesado en la vigilancia Centinela, creo que es útil que Reforma ahora sepa que esto es más amplio.
+---
+PREGUNTA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Mande usted?
+---
+INTERLOCUTOR
+Que es de hace dos semanas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No.
+---
+INTERLOCUTOR
+La semana epidemiológica 12 o algo así.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita le explico. Miren, esta tabla es para explicarles la dinámica, pero como lo he dicho y lo dijimos con antelación a la fase 3, el modelo Centinela no es elemento principal en este momento para el objetivo de la fase 3 lo dijimos con antelación, cuando entremos a fase 3 olvídense de la vigilancia Centinela, seguirá operando ahí en el fondo, pero ya no es procedente el uso de la vigilancia Centinela como elemento principal de información para lo que interesa monitorear en la fase 3.
+Hay muchas razones técnicas, les comento dos:
+Una es la velocidad de ocurrencia de los casos y la cantidad de los casos es notablemente mayor en la fase 3 que en la fase 2, esa es una razón.
+Y obviamente la… como señala Mauricio, los tiempos de procesamiento de la… creo que ya le volví a cambiar de nombre a Mauricio, perdón, Alejandro, los tiempos de procesamiento dependen de la vigilancia generalizada en las 26 mil unidades que tienen cortes semanales con entrega de resultados por parte de los estados, una semana después. No resulta práctico monitorear una fase 3 utilizando esto.
+Y lo segundo es que las unidades de 475 no pueden dar suficiente resolución estadística para las entidades federativas, pues son muy poquitas, son útiles para el panorama nacional, pero no para cada entidad federativa en particular y cada entidad federativa necesita tener información de la ocurrencia de lo que ocurre en fase 3.
+Entonces, que quede claro, esto dijimos: Cuando entremos a fase 3 el que le quiera seguir viendo que lo vea, no pasa nada, pero no es nuestro elemento principal de trabajo.
+Les reexplico lo que comentamos hace algunas semanas: En ese momento me parece que íbamos en la 12 cuando lo explicamos el 8 de abril.
+Fíjense ustedes, primera columna el tiempo por semanas epidemiológicas.
+Segunda columna, los casos de infección respiratoria aguda, neumonía e influenza, casos clínicos en las unidades de salud monitoras de enfermedad respiratoria, las 475, aquí están y tenemos su sumamos todo esto 588 mil notificaciones de esto en las USMER. Cada semana tiene su propia cantidad.
+Luego tenemos en esas mismas unidades, de estas algunas presentan la definición operacional de enfermedad tipo influenza para los casos leves.
+Enfermedad tipo influenza es indistinguible del síndrome clínico del COVID, es una definición casi idéntica.
+IRAG es Infección Respiratoria Aguda Grave y es indistinguible de la neumonía o neumonitis que ocurre en COVID y aquí está, este es un subconjunto de este.
+Por lo tanto, este porcentaje resulta de dividir esto entre esto para cada una de las semanas, que nos da la proporción o se mediría aquí porcentaje de ETI-IRAG respecto al total de estas infecciones respiratorias genéricas solamente en 475 unidades de salud monitoras de influenza.
+Quedan cinco minutos, entonces quizás no va a dar tiempo de preguntas, pero las guardan para mañana.
+Aquí tenemos ahora en esto, tenemos los casos positivos a COVID en esas mismas unidades, es decir, de estos se les hizo diagnóstico y encontramos estos positivos, diagnóstico por laboratorio.
+Vean ustedes que aquí es cero, todavía no llegaba SARS-CoV-2 a México. Luego tenemos cuántas muestras se procesaron válidamente para llegar a este número, o sea, para llegar a estos resultados positivos se procesó esta cantidad de muestra. Si yo divido esto entre esto, me da un porcentaje que es índice de positividad en las Usmer, pero de aquí para allá sigue siendo 475 unidades de salud monitoras de enfermedad respiratoria.
+Ahora, pongan atención en estas dos columnas. Estos son 26 mil unidades, más de 26 mil, y es lo que se registra con otro mecanismo de vigilancia epidemiológica muy antiguo, que es la notificación semanal de casos de lo mismo, infecciones respiratorias agudas, neumonías y flu, y hay fíjense ustedes siete mil 909, perdón, siete millones 999 mil 354 en 26 mil unidades.
+Con este número yo le aplico el porcentaje, los porcentajes que ahí saqué y tengo los estimados ETI-IRAG nacionales en todas las unidades de salud, porcentajes ETI-IRAG nacionales, el color se lo pusimos para reconocer cuál es lo que deriva, esto deriva de este porcentaje.
+Finalmente, yo tengo a estos, les aplico el porcentaje de positividad y tengo los estimados COVID que no se notifican de manera directa, y que son casos leves, lo vuelo a decir, que son casos leves, lo vuelvo a decir, que son los casos leves que son quienes no se notifican al 100 por ciento, y obtengo esta cifra 104 mil 562 casos mayormente leves que se suman a los veintitantos mil que son mayormente graves que informamos aquí todos los días.
+Ahora, un detalle, porque he visto también que hay matemáticas y matemáticos que les llama mucho la atención esto y que hablan del descubrimiento de nuevas aritméticas. Este proceso de estas dos columnas, de esta y esta, se hace una manera estratificada.
+¿Qué quiere decir estratificado?
+Se va haciendo por fragmentos estado por estado y para cada uno de los grupos de edad de cinco en cinco años. Entonces, está ahí en la comunidad de su hogar esperando a ver que estos cálculos salgan de manera directa y usted quiere multiplicar esta proporción por este número para que le salga este número, no le va a salir, como lo dije aquí el 8 de abril, porque esto se hace estratificado por cada uno de los estados y cada uno de los grupos de edad. Aquí traigo esta tabla para llegar a este resumen y explicar la mecánica básica ¿sí?
+Vamos a ver la siguiente.
+Este es el elemento de información necesario para la fase 3, como lo dijimos durante la fase 2, anunciando que cuando viniera la fase 3 este iba a ser nuestro instrumento más importante.
+No me detengo ya, en primera, porque quedan tres minutos; en segunda, porque esto lo hemos estado explicando todos los días desde que empezó la fase 3 y lo seguiremos explicando o comentando para que todas y todos de una manera abierta, directa, transparente, sin especulaciones podamos ver lo que ocurre en la realidad que nos atañe a todos, que nos interesa a todos y que todos queremos sumar esfuerzos para proteger a la población. ¿No es cierto?, ¿ese es nuestro interés? Perfecto.
+Entonces, esta curva es simplemente una manera más visual de la que nos han aportado estos maravillosos grupos académicos que coordina Conacyt y que son las proyecciones o predicciones de la curva epidémica de casos.
+Esta en particular son hospitalizaciones en terapia intensiva, ésta ya considera la duración de la hospitalización, ojo, no se interprete como nuevos casos en cada día, es número de personas que estarán en ese día hospitalizadas en la terapia intensiva.
+Para esta gráfica en particular, las de la Ciudad de México, pero tenemos una semejante para 20 ciudades o zonas metropolitanas y aquí está lo que hemos dicho recientemente junto con la doctora Sheinbaum, tenemos una estimación media de mil 800 personas que en el momento cumbre estarán en terapia intensiva. Noten que aquí dice 13 o 15 y no 6 de mayo como quizá están esperando, porque esta gráfica es hospitalizados en terapia intensiva, no nuevos casos; la fecha 6 de mayo es el punto máximo de nuevos casos en general, pero como tardan 10 días, 10 a 15 días hospitalizados, entonces, se recorre 10 a 15 días.
+Escenarios mayores podrían llegar a dos mil 800, escenario de mayor probabilidad o de 50 por ciento de probabilidad están en mil 800.
+Y, finalmente, lo que se ve en rojo son los datos observados de manera directa en todas las unidades COVID, de manera directa, son personas que están en terapia intensiva con infección respiratoria aguda grave. Y vean ustedes cómo la predicción razonablemente fue describiendo a la realidad, y, de hecho, la realidad está por debajo de la predicción media.
+Si pintáramos para cada una de las proporciones de probabilidad, quizá aquí estaríamos como en la probabilidad 25 por ciento de lo que se proyectó que ocurriría, es decir, por eso decimos con toda evidencia en la mano que vamos bien, vamos bien en el sentido del control de la epidemia.
+Y cierro diciendo, desde luego no vamos bien si consideramos lamentable, como lo es, la muerte de todas y cada una de las personas, pero cuando consideramos lo que hubiera pasado si no se hubieran hecho las medidas oportunamente, pues definitivamente vamos bien porque están muriendo menos personas, aunque lamentamos profundamente la muerte de todas y cada una de las personas.
+Se nos acabó el tiempo, apunten sus preguntas. Espero que Dulce haya recibido respuesta a lo que preguntó ayer. A usted nuevamente la dejamos sin la oportunidad de preguntar, pero mañana nos veremos aquí a las 7:00 de la noche y seguiremos comentando todo esto.
+Muchas gracias.

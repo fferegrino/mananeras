@@ -3,6 +3,7 @@ Presidencia de la República
 05 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Qué tal, ¿cómo están?
 Hoy son las 19 horas con un minuto del martes 5 de mayo, día histórico, el aniversario de la Batalla de Puebla, y estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación mundial y nacional de la pandemia de COVID, enfermedad causada por el nuevo coronavirus SARS-CoV-2. Y hoy vamos a tener tres elementos:
 El primero es el informe técnico de todos días que presentará el doctor Alomía.
 Tendremos una presentación por parte del doctor Alejandro Calderón Alipi, coordinador de Abastecimiento del Instituto de Salud para el Bienestar, sobre la distribución de los insumos que se preguntaba esta mañana, y lo han preguntado ustedes varias veces. También, bienvenido doctor Calderón Alipi.
@@ -11,6 +12,7 @@ Si da tiempo, yo voy a presentar el aplanamiento de la curva para mostrárselos 
 Doctor Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas noches a todas y todos.
 Iniciamos rápidamente con el cuadro que nos pone el día en el que nos encontramos, 67 es el número de la conferencia vespertina en la cual nos encontramos a 44 días de haber iniciado la Jornada Nacional de Sana Distancia.
 En la siguiente diapositiva vemos la actualización del panorama internacional, vamos a ver la reducción de un punto porcentual más, 33 por ciento los casos confirmados en los últimos 14 días en todo el mundo, sigue contrayéndose la pandemia en sí.
 Vemos también cómo la región de las Américas, de ayer que estaba en 50, ahora está en 51 por ciento, es decir, ya representa más de la mitad de todos los casos en el mundo que se han confirmado en esta temporalidad que habla de dónde está la trasmisión activa de la pandemia.
@@ -35,6 +37,7 @@ En la siguiente diapositiva veremos específicamente las camas con ventilador, q
 Sería la autorización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Gracias, doctor, Alomía.
 Yo voy a presentar dos diapositivas nada más para comentar brevemente sobre el aplanamiento de la curva.
 De repente existe inquietud sobre qué quiere decir que esto del aplanamiento de la curva y quisiera retomar sobre una imagen que presentamos en enero, la volvimos a presentar en febrero, creo que en marzo no, pero que es el fundamento teórico del control de la una enfermedad pandémica.
 Esto es una curva epidémica, como ustedes conocen muy bien. Es una gráfica, es una representación visual de la ocurrencia de un fenómeno de interés en salud pública concretamente en este caso de la epidemia.
@@ -85,6 +88,7 @@ Gracias.
 Le voy a pedir ahora al doctor Calderón Alipi, si es tan amable de pasar al siguiente tema.
 ---
 ALEJANDRO CALDERÓN ALIPI, COORDINADOR NACIONAL DE ABASTECIMIENTO Y DISTRIBUCIÓN DE MEDICAMENTOS DEL INSTITUTO DE SALUD PARA EL BIENESTAR
+Con su permiso. Compañeros, buenas tardes. Buenas tardes a todos.
 A continuación, les voy a dar a conocer la distribución que hemos hecho con las compras que se han realizado para atender la pandemia del COVID-2019.
 Agrupamos esta compra en cuatro grupos principalmente, el cual consta de equipos de diagnóstico y laboratorio, de estos insumos que se adquieren se envían directamente al Indre, que es la institución que organiza todas las pruebas diagnósticas en el país, con ayuda de los laboratorios estatales.
 El equipo de protección del personal, que es el que más volumen nos genera, en este caso son 15 millones de piezas hasta el día de hoy.
@@ -101,9 +105,11 @@ En este primer vuelo llegaron 211 ventiladores de 610 ventiladores que van a ven
 Y hasta aquí, subsecretario, mi informe sobre la distribución. No sé si tenga algún otro.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Calderón Alipi.
 Finalmente, pero no menos importante, le pedimos al doctor Víctor Borja, si nos comenta sobre los dos temas de interés. Doctor, por favor.
 ---
 VÍCTOR HUGO BORJA, DIRECTOR DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Sí, muchas gracias. Voy a pasarme de este lado.
 Vamos a comentar el día de hoy. La anterior, por favor, la de la calculadora de riesgo. Hemos hablado aquí previamente que la infección por el SARS-CoV-2 puede ser distinta en la población, pueden tener una enfermedad leve, puede haber entre estos leves algunos sujetos asintomáticos, y hay un grupo que puede ser muy importante, que son aquellos los que desarrollan la enfermedad la grave.
 Estos que desarrollan la enfermedad grave pueden llegar a ser hospitalizados, habría algunos más críticos que necesitan ventilación mecánica y algunos de estos pueden fallecer.
 ¿Quiénes son estos sujetos que tienen, que son más vulnerables?
@@ -146,18 +152,30 @@ Este es el diseño, tenemos aquí 50 camas alrededor de un área central de enfe
 Eso es todo, muchas gracias.
 Vamos a pasar al video que corresponde a esta unidad.
 ---
+VÍCTOR HUGO BORJA
+Muchas gracias.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Excelente. Muchas gracias, doctor Víctor Hugo Borja.
 Por eso les dije que era una sorpresa atractiva, son excelentes noticias, tanto la calculadora de riesgo como esta nueva unidad en el Autódromo Hermanos Rodríguez.
 Muchas gracias.
 Juan Carlos, por favor, usted, empecemos, Araceli.
 ---
 PREGUNTA
+Qué tal, doctor, Carlos Guzmán, Aba Noticias y de Ángel Metropolitano.
 Dos preguntas. La primera dividida en dos, esta fecha que estiman del 13 de mayo para comenzar operaciones con este centro que está en el Autódromo ¿ya es fija?
 La segunda, si nos puede mencionar, en base al modelo que presentó hace unos instantes en cuanto a que se ha reducido 74 por ciento el estimado que se tenía, si no intervención, también puede dar un escenario alentador para el reinicio de actividades que está programado para el 17 de mayo en algunas partes, y para el 1º de junio, ¿se podría adelantar esto en el país?
 Y la tercera, si nos puede mencionar un poco de lo que platicó con los senadores de la República previo al 1º de mayo, que ellos decían que consultaron con usted para suspender la sesión del periodo extraordinario o no convocar a un periodo extraordinario esta semana, justamente, que es la semana ‘D’, que yo le llamo.
 Gracias, doctor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, es esta fecha fija.
+---
+VÍCTOR HUGO BORJA ABURTO
+Sólo se podía modificar para antes, vamos a hacer la apertura progresiva a partir del 13.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
 Sobre las otras dos situaciones, gracias, Carlos, por preguntarlo. La curva epidémica representa la intensidad de la transmisión día por día. Esto se refleja porque uno puede ver en el número de contactos el evento que ocurrió siete días después que es la transmisión. La transmisión es el contagio, por eso, la curva epidémica da información de manera casi directa sobre la intensidad de la transmisión.
 En un momento si esta transmisión persiste, siempre existirá el riesgo de que, a partir de los casos existentes, de los últimos 14 días, por eso le damos tanto énfasis a estas personas infectadas en los últimos 14 días, hubiera más eventos de transmisión y propagación.
 Entonces, esta buena noticia de disminución, una disminución de tres cuartas partes prácticamente en la magnitud de esta epidemia. Debemos tomarla en dos sentidos, por lo menos con mucha cautela:
@@ -176,7 +194,11 @@ Y lo vamos a hacer, ya lo estoy haciendo en este momento dejarlo claro, si usted
 Ese es el mensaje que quiero dar en este momento.
 Gracias, Carlos.
 ---
+PREGUNTA
+¿Pero entonces la curva no se aplana en forma nacional?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es una excelente pregunta también. La curva no se puede dibujar a nivel nacional, por eso es que no presentamos curvas nacionales y los propios matemáticas y matemáticos nos lo recomendaron. Como epidemiólogos, lo sabemos, porque en realidad si pensáramos en la curva de todo el país que hubiera una posible curva nacional está compuesta de curvas pequeñitas, medianas y grandes al interior que son de las distintas localidades.
 Imaginen ustedes que México fuera un continente y que estamos viendo la curva de un país, la curva de otro país, la curva de otro país, no están sincronizadas, ocurren a distintos tiempos.
 Entonces, en realidad no se puede considerar una sola curva, al final del día si sumáramos todos los casos, podemos desde luego graficar la curva y la vamos a ver que va a estar mucho menor que lo que hubiera ocurrido sin intervenciones.
 Así como la movilidad varía entre los estados y hemos presentando… mañana toca presentar la estadística de movilidad, también la curva epidémica en algunos estados habrá reducido 74 por ciento como en l Ciudad de México, quizá en Tijuana es otra cantidad, quizá en Villahermosa es otra cantidad, en Cancún es otra cantidad y las podemos ir presentando para ver este fenómeno también.
@@ -185,12 +207,26 @@ Creo que nos queda tiempo de una pregunta corta.
 Bianca Aguirre.
 ---
 PREGUNTA
+Doctor, si puede comentarnos, por favor acerca de esta reunión, más de esta reunión que sostuvieron.
 Tengo entendido que también a las 8:00 de la noche va a haber otra. Usted corríjame, por favor.
 Y también quiero saber si el 25 de junio ya con este cambio del pico más alto de contagios del 6 al 10, que ahora será el 8, ¿el fin del primer ciclo de la pandemia seguirá siendo el 25 de junio?
 Por favor, gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, gracias.
 Esa curva que presentamos de origen estaba basada en la primera predicción que se hizo al inicio de abril, y mostraba precisamente el final con el 95 por ciento de la curva resuelta, el 25 de junio. Hemos tenido tres nuevas rondas de actualización de la predicción, la más reciente ayer por la noche, y también dan buenas noticias porque al recorrerse el pico, se recorre también la cantidad de casos.
 Pero dan una noticia que podría ser hasta cierto punto insatisfactoria, que conforme se hace una curva más pequeña, se alarga. Entonces, posiblemente el 95 por ciento de los casos se van a completar más allá del 25 de junio.
 Esto desafortunadamente así funciona, no hay manera de ganar en todos los temas, en el tiempo y en la cantidad, porque precisamente el propósito, como lo expliqué en la gráfica teórica, es que esta cantidad de casos la distribuyo en el tiempo.
 Al final del día voy a tener menos casos, pero la contribución principal son los objetivos 1 y 2, el recorrer el momento del pico y el hacer que sea más pequeño.
+---
+INTERLOCUTORA
+Y acerca de la reunión que tendrán.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Reunión, de la reunión de hoy en la mañana es una que tenemos todas las semanas por videoconferencia con las 32 secretarias y secretarios de Salud.
+¿Qué puedo decir?
+Un ambiente siempre muy positivo, muy comprometido de todas las titulares de las secretarías de Salud estatales.
+Hoy en la noche vamos a tener otra reunión, que también tenemos periódicamente, varias, ya pierdo la cuenta de cuántas son, que es con el señor presidente, y es precisamente el de dar un seguimiento directo y puntual a todos estos elementos técnicos, en la adquisición de insumos, en las proyecciones epidemiológicas, en las reconversiones.  Y cada uno de los elementos se le presenta se conversa, se afinan tiempos, planes, ajustes, elementos.
+Y la de hoy en la noche es para ver las nuevas proyecciones, las expectativas de la distribución de nuevos brotes epidémicos en las ciudades que están próximas a tenerlo o que ya lo están teniendo de hecho varias de ellas.
+Y también ver esto que presentó el doctor Borja sobre la reconversión más reciente que es esta, del Autódromo Hermanos Rodríguez. Frecuentemente nos acompaña la jefa de gobierno de la Ciudad de México, y presenta también lo que está ocurriendo en reconversión en el Valle de México.
+Gracias. Creo que ahí acabamos, son las 19:59. Seguimos mañana. Muchas gracias. Buenas noches.

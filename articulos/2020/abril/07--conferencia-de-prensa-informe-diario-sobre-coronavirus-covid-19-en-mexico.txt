@@ -3,6 +3,7 @@ Presidencia de la República
 07 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Son las 19:01 de este martes 7 de abril de 2020, estamos en la Ciudad de México, este es el Palacio Nacional y vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de coronavirus 2019.
 Hoy queremos comentar varias cosas con ustedes. Además del informe diario, en el que hemos agregado alguna información específica que comentaremos, queremos comentar sobre la acción de inmovilización o la reducción de la movilidad en el espacio público y vamos a compartir información muy útil que nos ha compartido el gobierno de la Ciudad de México.
 También nos acompañan dos conocidos: el doctor José Luis Alomía, director general de Epidemiología y coordinador del comando operativo; el doctor Ricardo Cortés Alcalá, creador de Susana Distancia, quien es el director general de Promoción de la Salud, y va a compartir precisamente, va a comentar sobre los documentos técnicos que hemos ido creando a lo largo de todos estos meses.
 Aquí lo que nos interesa es que las personas usuarias, pero sobre todo las personas que operan los servicios de salud, incluyendo las autoridades sanitarias, tomen consciencia de que estos documentos, son los documentos a los que nos hemos referido repetidamente que están disponibles en el micrositio coronavirus.gob.mx. Son documentos de carácter técnico, pero son de uso general en varias circunstancias.
@@ -10,6 +11,7 @@ Finalmente, es posible que se incorpore con nosotros el doctor José Ignacio San
 Le pido al doctor Alomía si nos conduce por el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Nuestra gráfica ya conocida, para poder apreciar cómo se está comportando la pandemia precisamente en el mundo y en las diferentes regiones de la Organización Mundial de la Salud. Notamos que continúa disminuyendo la proporción de casos en los últimos 14 días; si recuerdan, ayer ya habíamos tenido una disminución como del 74 por ciento y hoy día la disminución ya es del 71 por ciento. Entonces, sí, de alguna manera en los últimos 14 días son menos los casos que se han mantenido activo, pero de todas maneras, el 71 por ciento es todavía una cifra importante en relación al total de casos que se han confirmado.
 Igualmente, la tasa de letalidad global continúa incrementándose, aunque puntos pequeños porcentuales, pero se ha seguido incrementando en los últimos días, llegando ahora a 5.7.
 Y si vemos la transmisión o los casos confirmados en las últimas 24 horas vemos como ahora Europa y la región de las Américas prácticamente tienen los mismos porcentajes, están alrededor del 45, 46 por ciento, es decir, estamos con una transmisión, al menos de la más reciente, que sería la del último día, prácticamente ya a la par, respondiendo esto ya a la disminución de transmisión en algunos países europeos que habían iniciado la misma prácticamente hace cuatro o cinco semanas.
@@ -25,10 +27,12 @@ Si vemos la siguiente diapositiva, es precisamente nuestra curva epidémica, tan
 Hasta aquí el panorama.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Le voy a dar entonces la palabra ahora al doctor Ricardo Cortés Alcalá, que nos va a comentar sobre estas guías, estas guías nos van a indicar la fecha en que fueron publicadas y verán ustedes que a lo largo de la respuesta ha continuado la preparación de algunos aspectos específicos, varios de los documentos se prepararon antes del ingreso del coronavirus a México, pero otros continúan conforme avanzan las distintas etapas.
 Doctor, Cortés.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor; muchísimas gracias a todas y todos por acompañarnos, muy buenas tardes a todos en casa también.
 Estos lineamientos y protocolos en los que hemos trabajado en conjunto desde la Dirección General de Promoción de la Salud y la Comisión de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, la Dirección General de Epidemiología, la Secretaría de Turismo, han sido de diversos temas. Como lo comentó el subsecretario, de los primeros que se trabajaron, inclusive antes de la llegada del coronavirus, del primer caso importado, sería el primer elemento que estamos viendo, que es el de vigilancia epidemiológica y por laboratorio de COVID-19.
 Este lineamiento fue el primero que se trabajó desde la Dirección General de Epidemiología y que ha tenido una evolución y unos cambios específicos, sobre todo en lo que se refiere a la definición operacional de caso sospecho de COVID-19 y que actualmente está en la página coronavirus.gob.mx disponible en su versión más actualizada.
 Otro de los lineamientos que están viendo en su pantalla es el de reconversión hospitalaria. Este es muy importante, como lo ha comentado el doctor López-Gatell y el doctor Reyes Terán en diversas conferencias de prensa.
@@ -50,11 +54,13 @@ Esto es lo que hay que presentar.
 Muchísimas gracias, doctor López-Gatell.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés Alcalá.
 Ahora tenemos el gusto de que nos acompañe el doctor José Ignacio Santos Preciado, quien es secretario del Consejo de Salubridad General, además de ser emblemático maestro de la infectología pediátrica en México y ha sido por muchos años asesor de la Organización Mundial de la Salud, en materia de enfermedades infecciosas y de vacunación.
 Y el doctor Santos nos va a comentar sobre la colaboración que el Consejo de Salubridad General ha establecido con instituciones u organizaciones privadas de asistencia médica o de atención médica y lo que esto puede significar para la expansión de capacidades de atención a COVID en México.
 Doctor, por favor.
 ---
 JOSÉ IGNACIO SANTOS PRECIADO, SECRETARIO DEL CONSEJO DE SALUBRIDAD GENERAL
+Muchísimas gracias, subsecretario.
 Gracias por la oportunidad de compartir con ustedes el Plan de Conversión para la Atención COVID. La alianza es realmente la conjugación de varias organizaciones de hospitales privados, hay dos en particular que destacan, que es la Asociación de Hospitales Privados y el Consorcio de Hospitales Privados.
 Desde que inició este sexenio, el señor secretario de Salud que es presidente del consejo ha dirigido al consejo acercarse a la medicina privada por varias razones:
 Primero, porque tenemos como atribución en el consejo la certificación de hospitales, la certificación es voluntaria; sin embargo, los hospitales privados, al igual que muchos hospitales del sector, están certificados los procesos.
@@ -75,6 +81,7 @@ La operación la lleva la Secretaría de Salud, que quede muy claro, el enlace e
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Ignacio Santos.
 Como pueden ver, hoy tenemos muchas informaciones. Como pueden ver, desde el inicio el gobierno decidió trabajar con toda la sociedad, por eso hemos dicho siempre que es una respuesta de Estado.
 Esto es importantísimo porque, ante un fenómeno tan complejo que afecta la vida pública, todos tienen un papel que jugar y es una capacidad del gobierno organizar, esto está en sus facultades, organizar de manera efectiva la participación de cada quien.
 En su gran mayoría el sector privado ha estado atento a los llamados, ha estado dispuesto a colaborar, ya sea en el tema específico de atención médica, que es lo que acaba de explicar el doctor Santos Preciado, o en otro tipo de respuestas que también son importantes de los componentes del sector privado que no tienen que ver con la atención médica.
@@ -101,36 +108,71 @@ Nuevamente, agradecimiento a las y los ciudadanos, aquí no de a pie, pero sus v
 Vamos a abrir entonces a preguntas y respuestas. Araceli, usted, hoy no le toca a Blanca, y ustedes dos y después ustedes dos.
 ---
 PREGUNTA
+Gracias, doctor. Preguntarle sobre el avión que va a aterrizar, a las 9:00 de la noche tenemos el horario. ¿Exactamente qué trae?, ¿cuál es la cantidad que trae?, ¿trae ventiladores?, ¿qué tipo de insumos?
 Y si es la única compra que se va a hacer, si tiene pensado hacer a ese y a otros países.
 Preguntarle sobre este proyecto de resolución que ante la ONU propuso México, que haya acceso efectivo a medicinas, equipo y vacunas. ¿Esta compra que se hace es en este marco?, y si no lo es, ¿Cómo va esta propuesta que hizo México?
 Y preguntarle al doctor ¿cuántos hoteles COVID hay?, ¿cómo es su funcionamiento?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto le contesto la primera parte.
 Efectivamente, el sábado recién pasado se fue un avión, que fue rentado y facilitado por Aeroméxico. Se fue a China con algunos funcionarios de la Secretaría de Relaciones Exteriores y la tripulación. La misión fue muy clara: traer a México los insumos que fueron adquiridos a lo largo de las últimas semanas, llevamos más de tres a cuatro semanas en un esfuerzo muy grande.
 Reconozco nuevamente, como lo hice esta mañana, la participación indispensable de la cancillería mexicana, del propio señor canciller y de su equipo directo, quienes han estado buscando insumos por todo el país y han encontrado esos insumos.
 Entonces, lo que hoy viene y llegará hoy por la noche son mayormente insumos de protección personal, los famosos equipos de protección personal, esto es: guantes, cubrebocas, cubrebocas N95, hay una enorme cantidad de cubrebocas N95, no le quisiera dar los números exactos para entrar en confusión, más tarde va a salir un comunicado de prensa con toda la numeraria, gorros, goggles, etcétera.
 Lo que sí le puedo decir es una idea general. Esto nos va a permitir cubrir prácticamente el 100 por ciento de la necesidad de equipos de protección personal para las unidades de salud del Sistema Nacional de Salud.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Ahora, este no es el único vuelo, se ha establecido un puente aéreo entre México y China. Precisamente puente aéreo quiere decir que va a haber un continuo ir y venir de estas aeronaves para traer los otros diversos equipos, vendrán próximamente los ventiladores, monitores y otros equipos ya más especializados.
+INTERLOCUTORA
+¿Es lo que se presentó en la mañana?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Es lo que se comentó en la mañana? No, lo que se comentó en la mañana, lo que presentamos fue específicamente sobre los ventiladores, la parte de equipos de protección personal sí es parte de lo que está en el avión.
+Ahora, este no es el único vuelo, se ha establecido un puente aéreo entre México y China. Precisamente puente aéreo quiere decir que va a haber un continuo ir y venir de estas aeronaves para traer los otros diversos equipos, vendrán próximamente los ventiladores, monitores y otros equipos ya más especializados.
+---
+INTERLOCUTORA
+¿Sólo es en China que están…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+En este momento, para estos embarques es en China, es el sitio del mundo en donde se consiguió la mayor dotación que nos permite resolver de manera inmediata las necesidades, y desde luego la exploración de mercados ha sido muy amplia.
 Otros países, sobre todo la región europea, ahorita están teniendo enormes dificultades por la propia necesidad que tienen, pero además por disposiciones gubernamentales, en algunos casos se ha restringido la salida de insumos para la salud específicamente los necesarios para la respuesta en COVID de esos países.
 Entonces, hoy el país que sí los tiene, tanto en existencia como en disponibilidad, es China.
 ---
+PREGUNTA
+(inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Por ahora sí.
+---
+PREGUNTA
+¿Cómo se comprobó la calidad?, en cuanto a la calidad, ¿cómo se comprobó?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La calidad, esto me lo preguntaron hace unos, cuatro, seis días y lo comentamos. Todo lo que se compra está sujeto a una revisión técnica, tenemos un comando operativo, esto lo había mencionado también, aprovecho para agradecer a David León, el coordinador general de Protección Civil, quien ha sido un funcionario extraordinariamente efectivo en facilitar la coordinación de todas las instancias de gobierno federal que estamos trabajando esto.
 Y precisamente en ese comando operativo hay grupos técnicos que se encargan de cada cosa. Por ejemplo, el doctor Ruy López Ridaura ha estado coordinando con especialistas del Instituto de Nutrición Salvador Zubirán, la identificación de catálogos, de productos, de los distintos insumos, cuáles sí corresponden a lo que necesitamos, cuáles no. Varios han sido descartados y se quedan solamente los que son apropiados y son garantía de calidad.
 ---
+INTERLOCUTORA
+¿Pero un aproximado de cuánto material, cuánto insumo va a venir?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Si ahorita le doy un dato y luego se lo cambio cuando venga el comunicado, me va a decir que le dije algo que no es cierto, mejor esperemos al comunicado, muy pronto va a salir.
+---
+INTERLOCUTORA
+Sobre los hoteles COVID.
+---
 RICARDO CORTÉS ALCALÁ
+Gracias. Rápidamente, sobre los hoteles COVID lo que les puedo comentar es que el protocolo define que las secretarías estatales de turismo y las asociaciones locales de la industria turística van a estar, primero, viendo cuál es la ocupación, saber qué hoteles tendrán que cerrar para enfocar todos los esfuerzos en menos lugares y para que se dividan entre las personas que sean sospechosas de COVID y las que solamente están esperando su retorno a casa.
 Entonces, yo estaré en comunicación con la Secretaría de Turismo para poderles dar los avances de cómo en cada estado se ha avanzado en la implementación del protocolo que propusimos.
 Ahorita no hay un listado, dado que se tienen que redistribuir y son las asociaciones de la industria turística, junto con las secretarías de turismo estatales quienes los van a definir.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.  Usted, ustedes dos y ustedes dos. Por favor.
+---
 PREGUNTA
+Muchas gracias. Buenas noches. Bianca Aguirre, de Notimex TV.
 Quiero preguntarle, hay seis estudiantes del Instituto Politécnico Nacional y del Instituto Tecnológico de Georgia quienes están creando prototipos de ventiladores. Ellos están aquí en México y quiero saber si ustedes van a acercarse con ellos, ya que los entrevistamos y nos dijeron que estos prototipos ya cuando estén terminados, que será el próximo viernes, costarán entre dos mil 500 y tres mil pesos.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Se han evaluado múltiples prototipos y ha habido también… Por cierto, agradecimiento a todas las organizaciones, tanto ciudadanas como de pequeñas iniciativas empresariales o ingenieriles, grupos académicos que nos han mandado múltiples propuestas.
 No todas las propuestas son realistas, no son factibles. Los procesos de fabricación de este tipo de dispositivos, dado su uso en salud, su uso humano, requiere los más altos estándares, tanto de seguridad industrial en el proceso de fabricación como de especificaciones técnicas para que sean las correctas.
 Entonces, de los distintos prototipos -y lo regreso a los comités técnicos- se instauró desde hace dos semanas y media un grupo técnico que coordina de origen las Secretaría de Economía en la parte empresarial, de exploración empresarial, el Instituto Nacional de Ciencias Médicas y Nutrición, ya mencioné al doctor Guillermo Domínguez Cherit y también obviamente la Secretaría de Salud y grupos de ingenieros, algunos del Instituto Politécnico Nacional, de Cinvestav, de la Universidad Nacional Autónoma de México, entre varios otros.
 Se ha hecho una exploración muy sistemática, muy transparente, se ha puesto a disposición de varios, se han buscado las evaluaciones apropiadas, existe un modelo de pulmón artificial que permite evaluar los parámetros de funcionamiento de la presión, el volumen, una serie de parámetros que se usan en esto.
@@ -140,6 +182,7 @@ Entonces, estamos avanzando, todavía no tenemos ninguna noticia concreta qué c
 Gracias. Usted y usted, por favor, pero la colega, adelante.
 ---
 PREGUNTA
+Gracias, doctor, doctores. Tengo tres preguntas.
 Primero, empezando con el doctor Cortés, retomando un tema que quedó pendiente la semana pasada es: ya tienen un protocolo para centros de reclusión social, ¿pero ya hay lo mismo también para otros lugares donde están recluidas personas como las estancias migratorias?
 Y aunado a eso, ¿ya se han detectado casos de infección o de enfermedades entre las personas que están recluidas?
 Después, al doctor Alomía me gustaría preguntarle, por favor, si nos puede comentar, con los casos conocidos que hay hasta ahora en el país, ¿cuál es la tasa de incidencia?, ¿cuál es la tasa de ataque secundario que se ha detectado?, ¿en qué momento?
@@ -148,6 +191,7 @@ Y también, con respecto a los deudos, ¿hay planes para hacer pruebas post mór
 Y subsecretario, para usted también, si nos pudiera comentar sobre la literatura científica creciente que hay en el mundo que sugiere que hay un porcentaje importante de contagios presintomáticos o asintomáticos, y en ese caso qué implicaciones tiene para la respuesta epidemiológica de México, sobre todo de cara a la fase 3.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Voy a empezar yo con la última pregunta.
 Este es un tema que se ha repetido y repetido y repetido. En tanto sea una inquietud, hay que abordarla, me parece legítima pero además, como dije esta misma mañana sobre este mismo tema, la evidencia científica va cambiando.
 Este es un virus nuevo, es un virus literalmente emergente y no se conocen todavía a nivel mundial todos los detalles sobre su biología, su forma de causar enfermedad, su dinámica epidemiológica, etcétera.
 Uno de los parámetros importantes en términos epidemiológicos es el periodo de latencia, también conocido como periodo de incubación, que es la duración en términos de tiempo entre la probable infección, probable momento de transmisión a partir de otra persona hasta que aparecen los síntomas.
@@ -158,64 +202,132 @@ En resumen, sí es posible que exista contagio en el periodo presintomático o q
 Lo que no se conoce todavía en términos cuantitativos en términos numéricos es qué tan importante es este fenómeno. Decía yo esta misma mañana que el Instituto Nacional de Ciencias Médicas y Nutrición ha propuesto un protocolo de investigación precisamente sobre este tema.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En relación, son preguntas muy puntuales con respuestas muy puntuales. La tasa de incidencia acumulada para la cantidad de casos que hemos tenido hasta el momento son 2.7 por 100 mil habitantes, esa es la tasa de incidencia acumulada.
 La tasa de ataque, como su nombre lo dice, normalmente se calcula en base al total de la población expuesta; es decir, a todas las personas que en su momento pueden enfermar, dado que esta situación todavía hoy es, la mayoría de la población mexicana y así se ha calculado para otros países, la tasa de ataque sería todavía muy baja, sería del 0.002 en relación a un poco más de 127 millones de mexicanos, descontando los que ya enfermaron y se recuperaron, y no pudieran ser ya nuevamente infectados por la enfermedad.
 En relación a las personas que lamentablemente fallecen, efectivamente, el lineamiento de vigilancia epidemiológica permite la toma de muestra sobre una persona que ya falleció y esta es prácticamente la biopsia pulmonar; es decir, lo ideal sería que la muestra se tomara cuando la persona ingresa o llega al hospital, pero si no hubo la oportunidad de hacerlo y la persona en su momento llega a fallecer, se puede tomar una biopsia pulmonar y sobre esa biopsia pulmonar se puede realizar la prueba confirmatoria. Entonces, hay la posibilidad.
 Y en relación a las pruebas de serología, estas se dejan normalmente para un periodo posterior, dado que básicamente se realizan este tipo de estudios, se realizan un poco para conocer ya posterior a un evento cuál fue la exposición de la población o en este caso ya poder, por ejemplo, decir si efectivamente en México los infectados estuvieron entre ese 70, 80, en algunos países se han comunicado inclusive hasta el 90.
 Todavía son estimaciones, porque ninguno ha hecho este tipo de estudios serológicos y se dejan para cuando ya tenemos al menos una curva epidémica descendente y queremos conocer efectivamente en un momento qué cantidad de la población pudo haber estado expuesta al virus.
+INTERLOCUTORA (Inaudible) ¿Sí se han incluido en este conteo?
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+Sí, claro. Es decir, todos los tipos de pruebas que se han tomado y que han salido confirmadas se incluyen en la estadística.
 ---
 RICARDO CORTÉS ALCALÁ
+Gracias. Yo quisiera aprovechar, primero, sobre los potenciales asintomáticos que pudieran transmitir la enfermedad. Por eso lo más importante es la sana distancia y son las medidas de prevención básicas, porque si yo ahorita fuera una persona asintomática, pero ya con el virus y yo no estornudo ni toso, mis gotas de saliva al hablar van a caer máximo a medio metro de mí. Si la persona que está enfrente de mí está a un metro y medio o un poco más nunca va a estar en capacidades de ser contagiado por mí.
 Y sobre los otros espacios públicos cerrados como albergues o centros del Instituto Nacional de Migración, ellos están acatando lo dispuesto en el Lineamiento general de espacios públicos cerrados que tienen una descripción básica de cómo hay que reducir la capacidad de estos centros para que exista una sana distancia entre las personas que viven por ahí.
 Y si hubiera algún caso sospechoso, comunicarse inmediatamente con la autoridad de salud local del estado en donde se encuentren y hacer un aislamiento preventivo específico en alguna área.
 ---
+INTERLOCUTORA
+¿En estaciones migratorias?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No tenemos conocimiento hasta ahorita que haya existido un brote o un caso específico ahí.
 La colega y ustedes dos.
 ---
 PREGUNTA
+Gracias, buenas tardes. Del Sistema Público de Radiodifusión.
 Dos preguntas. La primera, saber si la Secretaría de Salud tiene un registro de los mexicanos que residen en el extranjero y que han fallecido en el extranjero. Hoy en la mañana se comentaba que tan sólo en Nueva York hay 110 mexicanos que murieron.
 También otra pregunta para el doctor Cortés es si existen lineamientos para repatriar los cuerpos, porque debido a que se están registrando casos de mexicanos que han fallecido, pues… Bueno, esa sería la primera pregunta.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+En el caso de la segunda pregunta, efectivamente, en el lineamiento para el manejo de personas que han fallecido hay un capitulo que habla de repatriación en su momento de cadáver, es decir, está incluido dentro de este mismo lineamiento.
 Ahora, el Sistema Nacional de Vigilancia Epidemiológica opera lógicamente con datos y con estadística y sobre todo con resultados de pruebas confirmatorias de las personas que han sido notificadas y estudiadas en México.
 Sí, hemos visto en algunos medios e inclusive se nos han compartido desde la Secretaría de Relaciones Exteriores algunas notas o estadísticas en el extranjero, pero esta estadística, digamos, no es algo que se concentra de manera directa por el Sistema Nacional de Vigilancia Epidemiológica, porque además nosotros lo hacemos basado en la existencia de un resultado confirmatorio que emite un laboratorio dentro del país.
 No dudamos que estas personas pudieran, sí, haber fallecido en el extranjero producto de COVID-19, pero no tenemos nosotros toda la información o toda la… en este caso los resultados o los estudios de caso y todo lo que en su momento nos confirme que efectivamente haya sucedido por esta razón.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía. Usted, por favor.
+---
 PREGUNTA
+Sí, buenas tardes. De Excélsior.
 Doctor, hay una gran preocupación en los hospitales del IMSS de los estados como en el regional 6 de Gómez Palacio, desde donde se están enviando las muestras a la Ciudad de México, llegándose a tardar, nos dicen, en promedio unos cinco días en regresarlo, de hecho el periodista Javier Garza Ramos documentó que cuatro pacientes atendidos en esta clínica murieron antes de que llegaran los resultados.
 Y la pregunta aquí sería: ¿qué porcentaje de todas las muestras que se están haciendo en el país están enviándose a la Ciudad de México?, ¿y cuántos días se estarían tardando en promedio en regresar los resultados a estos estados?
 Y me dicen que particularmente las clínicas del IMSS es donde está sucediendo esto, doctor. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Esta noticia, efectivamente, lleva 48 horas circulando. Les comento lo que ocurre. Hubo una… En el país tenemos una importante perturbación de la industria aeronáutica, es decir, no hay vuelos; entonces, para transportar las muestras de Gómez Palacio, Durango, o de Baja California Sur, o de cualquier sitio más remoto, se requiere una aeronave.
 Entonces, esto perturbó un mecanismo que de otra manera funcionaria de manera eficiente, ahora no funciona de manera eficiente. Tomamos cartas en el asunto y justamente el martes pasado lo comentamos en la videoconferencia con los gobernadores, en ese mismo momento se lo hice de conocimiento al maestro Zoé Robledo, director general del IMSS, que no estaba presente en la conferencia.
 En menos de tres minutos me dijo: ‘ya tenemos una solución’, designó a sus directores normativos, trabajaron con el Indre, estuvieron en una reunión técnica ayer o anteayer, ayer, y analizaron cuáles son las maneras de tener una ruta crítica más eficiente.
 Los 32 estados o los 31 y la Ciudad de México, tienen un laboratorio estatal de salud pública, y en este laboratorio se pueden realizar las pruebas. Entonces, aquí lo que se está estableciendo es un convenio entre la Secretaría de Salud federal y el Instituto Mexicano del Seguro Social.
 Finalmente, los insumos para las pruebas que tienen los laboratorios los proporciona el Indre. Este convenio lo que nos va a permitir es que, en los laboratorios estatales, con los insumos que proporciona la Secretaría de Salud federal se puedan realizar las pruebas que necesita el Seguro Social y esto resolverá el problema.
-Usted, por favor, allá el colega y luego usted.  Nos quedan tres minutos, me dicen.
+Usted, por favor, allá el colega y luego usted.  Nos quedan tres minutos, me dicen.
 ---
 PREGUNTA
+Erick Hernández, diario Basta y Grupo Cantón.
 La pregunta sería: ¿al día de hoy cuál es el déficit de médicos, si en octubre de 2019 Zoé Robledo, el titular del IMSS, nos comentaba que había un déficit de 94 mil a nivel nacional?
 Igual, además de los tres mil nuevos médicos que se contrataron al día de hoy, ¿cuántos faltarían de acuerdo a la Organización para la Cooperación y el Desarrollo Económico? ¿cuál sería el número de médicos o personal que haría falta para hacer frente a la crisis?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No me lo tome a mal mi respuesta, pero llevamos meses hablando de esto, yo mismo lo he presentado en la conferencia matutina antes de que viniera COVID y expliqué precisamente de este problema del déficit de médicos y enfermeras, y otro personal de salud que México tiene desde hace muchos años.
 Hace más de 14 años el informe de la OCDE, que posiblemente es el que usted refiere, indica cuál es el déficit. México en general está en los últimos lugares de los países miembros de la Organización para la Cooperación y el Desarrollo Económico, en términos de su capacidad de número de camas, número de hospitales, número de personal.
 Entonces, lo que le pido es si pudiera recapitular sobre información que hemos dado y ahí va a ver que todo eso está presente.
 Vamos a dar paso a la última pregunta.
 ---
+INTERLOCUTOR
+Antes de que… ¿Cuántos pacientes en México se han curado de la enfermad? No tengo ese dato.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Se han recuperado cuántos?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+La última estadística, y esto varia día con día porque hay que ver que los casos nuevos que van entrando y, como ustedes han visto en las estadísticas, los casos nuevos en las últimas 24 horas han tenido una tendencia ascendente, pero el porcentaje o la proporción de los casos confirmados que al día de hoy ya se han recuperado ha estado fluctuando entre un 42 y un 45 por ciento, que son los casos que tienen ya más de 14 días desde que iniciaron sus síntomas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Última pregunta.
 ---
 PREGUNTA
+Alejandro Lelo de Larrea, de Círculo Digital.
 De manera muy concreta, el acuerdo en el Diario Oficial de la Federación en el que se dice que van a reactivar la industria acerera, cementera solamente para las obras del gobierno federal, las obras clave, emblemáticas del gobierno federal, aeropuerto Santa Lucía, Tren Maya, etcétera, no quiero mencionarlas.
 ¿Eso le parece correcto?, ¿es una medida acorde con la emergencia sanitaria, señor subsecretario?
 Si me permite, ahorita una muy breve sobre la estadística. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Esto me lo preguntaron ayer también en una entrevista en la noche para el diario El Financiero.
 Lo que tenemos es la posibilidad de que estas obras que son del gobierno tenemos un control muy estricto, cuando más la que está a cargo del Ejército. Y esto lo que nos ha permitido es constatar que los protocolos de sana distancia y demás lineamientos se pueden y se están cumpliendo apropiadamente y por eso decidimos, ese fue un criterio, que se mantuviera esta operación.
 El segundo criterio y el propio lineamiento publicado en el acuerdo ayer a estas horas indica que los hornos, los hornos de la industria siderúrgica y los hornos de la industria cementera tiene dos características importantes:
 La primera, son parte de esta categoría que está listada desde el primer acuerdo -y ahora en el nuevo- que existirían consecuencias graves si se paraliza. Entonces, un horno de esta naturaleza tiene que estar prendido continuamente, porque de otra manera echarlo a andar se lleva meses literalmente.
 ---
+INTERLOCUTOR
+¿Sería más grave pararlo que…?, ¿sería eso más grave, pararlo a que pueda haber contagiados?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, además -me falta la tercera pieza- la tecnología de hoy permite operar estos hornos por monumentales que son en su tamaño con muy poco personal.
 Entonces, precisamente el lineamiento -si usted lo puede ver con cuidado- indica que las empresas que quisieran estar en una condición de actividad esencial están obligadas a informar -el periodo además es 24 horas- a la Secretaría de Economía cuál es su plantilla, cuál es la plantilla esencial y cuál es el compromiso de reducción de esta plantilla del número de personas laborando.
 ---
 INTERLOCUTOR
+¿Pero no se corre riesgo?
+---
+PREGUNTA
+¿Pidió el presidente que no se pararan las obras y por eso ustedes decidieron tomar…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estoy platicándolo lo que como ocurrió, se lo estoy diciendo.
+---
+INTERLOCUTORA
+Pero quisiera saber, puntualizar ¿se lo pidió el presidente?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estas cosas llevamos analizándolas tres meses, no nos la tiene que pedir nadie, estamos analizando todo esto, todos los escenarios de la vida pública se analizan en los grupos técnicos.
+---
+INTERLOCUTOR
+Pero pareciera que fue un traje a la medida de los proyectos emblemáticos de este gobierno ¿no?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Bueno, es lo que indica ahí, lo que indica es la proveeduría de estas tres obras que se mencionan.
+---
+INTERLOCUTOR
+Rápido, ya nada más, ¿podríamos tener estadísticas, la tasa de mortalidad y la tasa de infectados y de enfermos por grupos de edad?, porque no la he podido ver en estos días.
 Creo yo que, por los cálculos que hice, hay mayor población de 65 y más, pero el número de infectados es más o menos equivalente a los 35, 45, 50 años.
 ¿Podríamos tener esa estadística?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto lo preparamos y se lo traemos a todos ustedes próximamente.
+---
+INTERLOCUTOR
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien, pues aquí terminamos. Un recordatorio, no estamos en un periodo de vacaciones. Viene lo que originalmente fue designado como la vacación de la Semana Santa. Ya no hay vacaciones, necesitamos todas y todos quedarnos en casa la mayor parte del tiempo posible para lograr reducir la transmisión; todavía no lo hemos logrado, sigue asciendo la curva epidémica de casos y también la de mortalidad, tal y como lo presentamos aquí cada día. Necesitamos mantener esta disciplina.
+Y un exhorto a aquellas tanto empresas como organizaciones sociales que no han dado todavía las facilidades necesarias para que se logre esta suspensión temporal de labores.
+Muchas gracias.

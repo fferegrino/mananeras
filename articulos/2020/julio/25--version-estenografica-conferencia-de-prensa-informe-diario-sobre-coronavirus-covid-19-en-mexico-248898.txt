@@ -3,6 +3,7 @@ Presidencia de la República
 25 de julio de 2020
 ---
 RUY LÓPEZ RIDAURA, DIRECTOR GENERAL DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Buenas noches a todas y a todos.
 Soy el doctor Ruy López Ridaura, director general de Cenaprece. Estamos en el Palacio Nacional y vamos a dar inicio a la conferencia de prensa vespertina sobre COVID-19.
 El doctor Hugo López-Gatell no podrá acompañarnos hoy y por eso me pidió presidir esta sesión, porque durante el viernes y sábado, ayer se presentó la conferencia, como bien vieron todos desde Tabasco, porque se volvió a hacer un ejercicio similar a lo que se había hecho hace una semana en Chiapas, ahora en Tabasco, donde estamos presentando e iniciando ya en el terreno esta acción multisectorial que tiene como dos núcleos básicos:
 Uno, el que yo mismo presenté hace ya más de una semana, que es el abordaje comunitario de COVID, pero también con un impulso multisectorial que está liderando la Secretaría de Bienestar, no solamente la Secretaría de Bienestar, sino están varias secretarías representadas.
@@ -43,7 +44,8 @@ Entonces, con esto terminamos el informe técnico para dar espacio a los colegas
 Muchas gracias.
 Jean-Marc Gabastou, asesor internacional de Emergencias de Salud, OPS/OMS.
 ---
-JEAN MARC GABASTOU,
+JEAN MARC GABASTOU, ASESOR INTERNACIONAL DE EMERGENCIAS DE SALUD, OPS/OMS
+Muy buenas tardes, doctor Ruy López Ridaura, doctora Oliva López y doctor Arturo Galindo.
 Para nosotros es un privilegio y un honor presentarles un nuevo modelo de vigilancia y un instrumento complementario a las herramientas vigentes de vigilancia, no únicamente de las defunciones, pero también de la vigilancia epidemiológica que acompaña la gestión de la emergencia COVID.
 Tres objetivos:
 El primero, como lo anunció el título mismo de la herramienta, estimar el exceso de mortalidad por todas las causas durante el periodo que nos va a acompañar el COVID de la pandemia aquí en el país.
@@ -88,6 +90,7 @@ Porque este instrumento, la calidad del mismo se nutre de la calidad de los dato
 Muchísimas gracias.
 ---
 RUY LÓPEZ RIDAURA
+Muchísimas gracias, doctor Jean Marc Gabastou.
 Entonces, me voy a permitir ahora presentar los datos a nivel nacional. El esfuerzo que se hizo a partir de la iniciativa de Ciudad de México, que veremos en un momento, fue el poder juntar los datos que tenemos a nivel nacional para tener esta herramienta de la que ha hablado el doctor Jean Marc Gabastou.
 Y esto fue un esfuerzo, un esfuerzo de unir varias instituciones relacionadas con este fenómeno. Por un lado, el Registro Nacional de Población, el Registro Nacional de Población que tiene atribuciones muy importantes de registro de diferentes cosas, pero una parte muy importante son las defunciones, y ahora que les explique un poco el algoritmo van a entender por qué.
 Claramente, el Instituto Nacional de Estadística y Geografía pues es el que oficialmente da las estadísticas vitales finales y normalmente las estadísticas de muerte de todos los años son las que valida finalmente Inegi.
@@ -150,6 +153,7 @@ Y esto al final, digo, todavía este año vamos a seguir y posiblemente el próx
 Y con esto termino para dar espacio a la doctora Oliva. Muchas gracias.
 ---
 OLIVA LÓPEZ ARELLANO, SECRETARIA DE SALUD DE LA CIUDAD DE MÉXICO
+Buenas tardes a todos y a todas.
 Yo nada más señalar que por interés de la doctora Claudia Sheinbaum y atenta a la dinámica de la pandemia en la Ciudad de México, nos solicitó que se armara una comisión científica, autónoma para poder analizar esto que ya se veía desde los primeros momentos de la pandemia de casos probables o sospechosos COVID de personas que fallecían sin una prueba confirmatoria.
 A partir de esto, el Comité Estatal de Vigilancia Epidemiológica, que es un comité sectorial donde participan todas instituciones de sector salud definió en una sesión extraordinaria la creación de la comisión, una comisión científico-técnica de análisis de las defunciones en la Ciudad de México el 13 mayo y el comité aprobó la creación de esta comisión.
 Y tuvimos la fortuna de proponer al doctor, a dos coordinadores destacados epidemiólogos investigadores y que aceptaran coordinar los trabajos de esta comisión: el doctor Arturo Galindo, que no acompaña y presentará los datos de la comisión, y el doctor Christopher Ormsby, que no pudo estar con nosotros, pero que coordinó también los trabajos.
@@ -157,11 +161,12 @@ Es un trabajo, como ya se ha señalado, un trabajo detallado, especializado, con
 Entonces, le cedo la palabra al doctor Arturo Galindo.
 ---
 ARTURO GALINDO FRAGA, SUBDIRECTOR DE EPIDEMIOLOGÍA HOSPITALARIA DEL INSTITUTO NACIONAL DE CIENCIAS MÉDICAS Y NUTRICIÓN ‘SALVADOR ZUBIRÁN’
+Gracias, buenas noches. Gracias por la invitación a quienes me acompañan hoy en el presídium, al doctor López Ridaura, la doctora López, al doctor Gabastou.
 Y como ya bien les dijeron, yo soy Arturo Galindo, trabajo en el Instituto de Nutrición y represento a este grupo, realmente vengo a nombre de ellos a darles un adelanto de este trabajo que pensamos que es muy rico y que ojalá tengamos oportunidad en alguna otra ocasión de comentar a fondo con ustedes.
 Trabajaron intensamente la doctora Yanink Caro Vega que trabaja en el Instituto de Nutrición, en el departamento de infectología, y ya se mencionó al maestro Cristopher Ormbsy, que trabaja en el INER y también en el Instituto de Nutrición.
 Ya les mencionaban desde mayo del 2020 empezamos a trabajar en esta situación como una comisión autónoma, ¿y qué significa autónoma?, que realmente tuvimos el apoyo y toda la transparencia el que se nos diera el acceso a la información que ahorita ustedes van a ver, y nosotros tomar las decisiones de cómo hacer el análisis, cómo interpretar los resultados que estamos viendo y venir a mostrárselos.
 Entonces, entre las fuentes de información que ustedes verán tomamos para diferentes análisis que hicimos se analizó el exceso de mortalidad, pero también se aprovechó para ver las tendencias que llevaba esta mortalidad, un poco como ya lo mostró también el doctor Gabastou, algunos de los factores de riesgo que ya se han mencionado en esta misma conferencia, y la clasificación para ver precisamente cómo se puede diferenciar este exceso de mortalidad entre las personas que fallecieron por condiciones asociadas a la COVID-19 y aquellas que no necesariamente lo hicieron durante este periodo de tiempo.
-Entonces, hablando del exceso de mortalidad vamos a ver en la siguiente gráfica…  Bueno, primero, nada más y sin entrar en estos detalles, nosotros, como les decía, de forma autónoma decidimos hacer el análisis a través de un modelo matemático, un modelo de regresión que ya se conoce, está publicado, ahí tienen la referencia, que no sólo se ha usado en esta pandemia por nosotros, sino por otras instituciones, hay un reporte muy famoso de la ciudad de Nueva York ya publicado hace algunas semanas, también se utiliza en un esfuerzo europeo que se llama Euromomo, en donde participan diferentes países, precisamente para el análisis de mortalidad, y con algunos ajustes que están recomendados en la literatura.
+Entonces, hablando del exceso de mortalidad vamos a ver en la siguiente gráfica…  Bueno, primero, nada más y sin entrar en estos detalles, nosotros, como les decía, de forma autónoma decidimos hacer el análisis a través de un modelo matemático, un modelo de regresión que ya se conoce, está publicado, ahí tienen la referencia, que no sólo se ha usado en esta pandemia por nosotros, sino por otras instituciones, hay un reporte muy famoso de la ciudad de Nueva York ya publicado hace algunas semanas, también se utiliza en un esfuerzo europeo que se llama Euromomo, en donde participan diferentes países, precisamente para el análisis de mortalidad, y con algunos ajustes que están recomendados en la literatura.
 Quiero nada más mencionarles algo que ya dijeron tanto el doctor Gabastou como el doctor López. El exceso de mortalidad se refiere a todas las defunciones independientemente de si son por COVID o no y así lo hicimos.
 Nosotros tuvimos interés de ver qué sucedía con las personas que residen en la Ciudad de México y quizá diferenciarlo con aquellas personas que no directamente viven en Ciudad de México que por alguna razón en esta contingencia vinieron y buscaron atención médica.
 No es algo que haya sucedido exclusivamente en Ciudad de México, es algo que sucede en todos los grandes centros urbanos por diferentes situaciones como los servicios de salud y vimos que una proporción importante, 20 por ciento de las personas que se registran fallecidas en la Ciudad de México vienen de otros estados, principalmente Estado de México, 17 por ciento de estas defunciones y un poco menos de otros estados.
@@ -191,3 +196,11 @@ Cuando se hace este mismo análisis en actas que no mencionan COVID en algunas d
 Y ya para terminar, un par de conclusiones. Se estima un exceso de mortalidad en el total de las causas de 17 mil 826 fallecimientos en residentes de la Ciudad de México, 22 mil 366 en total. El fenómeno se comienza a notar a partir del 19 de abril, se estabiliza a mediados de mayo y comienza a descender a partir de esa fecha hasta el momento. Los hombres están más afectados que las mujeres en cuanto a mortalidad.
 Y terminamos, el grupo de edad con mayor impacto se encuentra entre los 45 y 60 años en este grupo. Las enfermedades asociadas más frecuentes fueron hipertensión, diabetes y obesidad, y además del exceso de mortalidad asociado a la COVID-19 pueden existir otras condiciones que se asocien a esta estimación del exceso de mortalidad.
 Con esto termino y les agradezco mucho su atención.
+---
+RUY LÓPEZ RIDAURA
+Muchísimas gracias, doctor Galindo, doctora Oliva.
+Desgraciadamente, queríamos, sí, presentar las tres perspectivas y ya no dará tiempo para espacio a preguntas, acabo de confirmar con el doctor López-Gatell, me pidió también que lo acompañara mañana y mañana daremos un espacio más amplio para responder preguntas específicas.
+Y solamente me queda un poco agradecer tanto al grupo que me acompaña como a todos los grupos y todas las personas que trabajaron, creemos que esto es un ejercicio muy importante de transparencia, estamos haciendo público esos excesos de mortalidad que también ya se venían, y hubo varias organizaciones de la sociedad civil haciendo análisis similares.
+Creemos que esto es un análisis complejo, pero que tiene que presentarse, tiene que describirse y, como bien lo marcó el doctor Jean Marc Gabastou, empezaremos ya a utilizar también esto como una herramienta que nos permita también ir evaluando, vigilando el curso de la epidemia en las diferentes entidades y haremos también un esfuerzo para ir incluyendo las otras dos entidades que no están incluidas en este momento, pero que espero pronto con diálogo con cada una de las entidades podamos tener los datos con la consistencia suficiente para presentarlos y conforma vayamos teniendo más resultados los iremos compartiendo.
+Entonces, muchísimas gracias y estaremos pendientes para preguntas mañana.
+Gracias.

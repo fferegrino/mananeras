@@ -3,6 +3,7 @@ Presidencia de la República
 19 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 horas del martes 19 de mayo, estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la pandemia de COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy, como acostumbramos más o menos hacerlo los martes, nos vamos a centrar en dos temas:
 El informe técnico diario, que presentará el doctor José Luis Alomía, director general de Epidemiología.
 Y el informe de movilidad, que presentará el doctor Ricardo Cortés, director general de Promoción de la Salud.
@@ -10,6 +11,7 @@ Tenemos también un informe que solemos presentar una vez que la semana, que es 
 Luego, preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muy buenas tardes a todas y todos.
 Bienvenidos a la conferencia vespertina. Un saludo también a toda la población que nos escucha, atiende, no solamente la información, sino también a las indicaciones en este día 58 de la Jornada Nacional de Sana Distancia, estamos en la conferencia vespertina número 81.
 Pasamos a la siguiente diapositiva. Actualizamos los números del panorama internacional. Realmente no ha habido mucho movimiento en los últimos días, prácticamente un cuarto de los casos en la pandemia a nivel mundial son los que siguen manteniendo activa a la misma, es decir, son los casos confirmados en estos últimos 14 días.
 Empieza a llamar un poco la atención la región del Mediterráneo Oriental, que es la que ha tenido un incremento, había estado en nueve, en 10, 11.8, lo cual habla también de que ha estado habiendo actividad de propagación, transmisión en esta región del mundo.
@@ -40,9 +42,11 @@ Vemos cómo a nivel nacional una ocupación del 32 por ciento, todavía una disp
 Este sería el informe al día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Doctor Ricardo Cortés, director de Promoción de la Salud, por favor.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor López-Gatell.
 En esta ocasión -muy buenas tardes tengan todas y todos aquí en Palacio Nacional y en sus casas- en esta ocasión el informe de movilidad tiene un cambio de perspectiva. Es importante mencionar que todos, todos los estados de la república mantienen una disminución de la movilidad bastante importante.
 Como ya lo hemos visto en semanas pasadas, algunos todavía por encima de la meta que es la diminución del 65 por ciento, algunos por debajo todavía mejor que la meta como el caso de Quintana Roo, que ha tenido movilidades de menos el 85 por ciento.
 Pero nos pareció importante un análisis que nos hizo favor de presentar y de compartir el Conacyt en donde lo que estamos viendo es la movilidad de los últimos 15 días dividido en dos periodos: el promedio de la movilidad de hace dos semanas versus el promedio de la movilidad de la semana pasada y cuál ha sido el cambio.
@@ -56,9 +60,11 @@ El resto de estados, por ejemplo, de San Luis Potosí hacia la derecha de su pan
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, estimado doctor Cortés.
 Le pido al doctor Alomía si presenta lo de personal de salud, también.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Claro que sí, con mucho gusto.
 Actualizamos entonces las cifras para esta semana del personal de salud que también ha sido afectado por esta epidemia de COVID, recordando que el personal de salud es el que está precisamente en la primera línea de atención a las personas que en su momento llegan demandando la misma.
 Igual que en presentaciones anteriores, en base al panorama, están clasificados este grupo de personas en tres grupos: positivos, sospechosos y aquellos que también ya han dado negativos a la prueba; 11 mil 394 es el número de personal de salud, ahorita vamos a ver cómo de distribuyen en relación ya a la profesión u ocupación que han dado positivo, se han confirmado para COVID-19, pero así también 29 mil 634 han dado negativos a la prueba.
 Tenemos todavía un grupo de ocho mil 275 que tienen la clasificación de sospechosos y en donde todavía podríamos encontrar lógicamente más personal de salud afectado.
@@ -88,9 +94,11 @@ Vemos la siguiente diapositiva, en donde vamos a ver, si mal no recuerdo, precis
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
-Vamos a abrir a preguntas y respuestas.  Bianca Aguirre, de Notimex; usted, colega; usted, Araceli.
+Gracias, doctor Alomía.
+Vamos a abrir a preguntas y respuestas.  Bianca Aguirre, de Notimex; usted, colega; usted, Araceli.
 ---
 PREGUNTA
+Buenas noches. Gracias. Bianca Aguirre, de Notimex TV.
 Subsecretario, el secretario de Salud, Jorge Alcocer hace un rato reveló que tras los primeros ensayos clínicos del medicamento remdesivir, que se usó a pacientes mexicanos funcionó y también se registró el efecto positivo en ellos.
 El canciller Marcelo Ebrard informó que habían sido siete pacientes, hoy el secretario Jorge Alcocer dijo que ya se amplía el número de personas que están en esta atención. Quiero saber por favor, subsecretario, cuál es este número.
 Y en caso de que siga resultando efectivo, ¿cuál va a ser la manera de cómo van a conseguir este medicamento, dado que no es nada barato?, son más o menos 108 mil pesos.
@@ -98,6 +106,7 @@ Y también preguntarle, Mexicanos Contra la Corrupción informó que tuvo acceso
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Sobre lo primero, el uso de fármacos que se encuentran todavía en una fase experimental tenemos una guía. Me gustaría si son tan amables, y el doctor Cortés nos ayuda a una pronta identificación, si podemos poner el sitio coronavirus.gob.mx y el doctor nos va a ayudar a encontrar rápidamente.
 Tenemos una guía específicamente sobre el uso de medicamentos que se encuentran en fase experimental, el título es más largo, es Medicamentos que no tienen eficacia comprobada.
 Es el caso de remdesivir, este fármaco posiblemente es prometedor, como bien señala mi maestro, el secretario de Salud. Hay resultados preliminares de los ensayos clínicos, todavía ensayos muy limitados en tamaño, en la composición de la población estudiada, a esto nos referimos con que ensayos clínicos son los experimentos médicos que se hacen para evaluar la seguridad en primer lugar, la eficacia de los medicamentos; igual pasa con las vacunas.
 La población debe saber que estos experimentos no son situaciones que se hagan a la ligera, siguen rigurosas reglas de ética, de bioseguridad y de calidad de investigación y México tiene en sus instituciones de investigación clínica estándares muy altos con estándares internacionales sobre esta materia.
@@ -114,14 +123,26 @@ Lo que sí está autorizado es para participar en los ensayos clínicos, siempre
 Para ese propósito, doctor, si nos puedes comentar sobre la guía y cuál es su contenido y su propósito.
 ---
 RICARDO CORTÉS ALCALÁ
+Con mucho gusto, doctor. Esta la página, esta es en vivo la página www.coronavirus.gob.mx. Tiene una serie de menús aquí arriba: Inicio, Datos, COVID-19, Personas con discapacidad, Público general, Personal de salud.
 Para llegar a este lineamiento para el uso de medicamento de eficacia no demostrada en pacientes con COVID-19, es en donde está… dado que este es un lineamiento para personal de salud, está en el menú de Personal de salud que se despliega después y hay que dar clic en Documentos de consulta.
 Si hacemos nosotros, si hiciéramos click -ya lo hicimos, por eso está en rojo- en Documentos de consulta, nos lleva a esta sección en donde están todos los documentos que ustedes que nos están viendo desde casa, personal de salud puede revisar y está Uso de medicamentos, está Correcto llenado de certificados de defunción, está Correcta higiene de manos para atender a sus pacientes.
 Y, por ejemplo, está también la Guía para la protección de la salud de personas de discapacidad en el contexto de COVID-19. La mejor guía para llegar a todos estos documentos, que también hay documentos de consulta para público general, es a través de los menús de arriba para desplegar cuál el tema que quisiéramos ver. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Esto para pronta referencia desde luego, aunque está destinado a personal de salud, cualquiera o ustedes como comunicadoras y comunicadores pueden acceder. Básicamente esta guía lo que deja claro son los límites de uso, y los límites de uso son precisamente estas situaciones en donde con el soporte de un protocolo de investigación clínica adecuadamente validado se puede usar en ciertas condiciones bien controladas este tipo de medicamentos.
 Entonces, en resumen, obviamente estoy entusiasta tanto como el secretario de que esto pudiera ser prometedor, pero hoy no es un fármaco de uso generalizado.
 ---
+INTERLOCUTORA
+¿(inaudible) las personas que se están aplicando ahorita?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Le actualizo con gusto, no lo tengo en este momento, los primeros son los que mencionó el doctor Alcocer y que anunciamos también aquí en el Pulso de la Salud. Siete personas participaron, esto fue en el Instituto Nacional de Nutrición, el INER y el doctor Gustavo Reyes Terán, coordinador de los institutos, fue quien coordinó todo este esfuerzo en un protocolo, en un ensayo clínico que anunció el doctor Anthony Fauci hace algunas semanas y que coordinó precisamente los institutos nacionales de salud de Estados Unidos.
+---
+INTERLOCUTORA
+Y lo de Mexicanos Contra la Corrupción.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mexicanos, este organismo. Pues es un tema yo creo que ya muy trillado, seguirá saliendo, yo creo que hay gente que llega con distintos niveles de actualidad o quizá ya tenían una investigación en curso y cuando salen notas se les cambia el calendario, pero de todos modos ya lo tenían y lo sacan.
 No es información nueva, hemos explicado yo creo que demasiadas veces cómo funciona la vigilancia epidemiológica, cuál es el uso de la vigilancia de casos, el reconocimiento de casos, cuál es la vigilancia basada en laboratorio, cuál es la vigilancia basada en desenlaces clínicos, cuál es la vigilancia basada en casos sospechosos y casos confirmados, cuál es la vigilancia de ocupación hospitalaria que es el énfasis de la fase 3, como lo dijimos hace muchas semanas.
 No perdamos de vista que la meta es salvar vidas, proteger a personas, proteger su salud y evitar que mueran quien tiene posibilidades de salir adelante con atención médica.
 La vigilancia de la mortalidad es también un elemento importante en la evaluación de una epidemia, pero no es un elemento que en forma de tiempo real contribuya a tomar decisiones sobre cómo se atiende clínicamente precisamente, cómo se atiende desde el punto de vista epidemiológico, cómo se hace el control, cómo se garantiza la atención médica, cómo se garantiza que no se saturen los hospitales, las medidas de mitigación comunitaria, etcétera, etcétera.
@@ -135,10 +156,12 @@ Entonces seguirán apareciendo. Siempre que haya la duda, si el público siguier
 Por favor, usted y usted, allá Araceli y usted. Son 19:42.
 ---
 PREGUNTA
+Gracias, doctor. Buenas tardes, buenas tardes a su equipo.
 Doctor, ¿qué fue lo que faltó para que los 22 gobernadores tomaran la confianza y la decisión de abrir los Municipios de la Esperanza? ¿qué considera usted como reflexión, a lo mejor, que usted piense, su equipo que colabora con usted, para que tomaran esta decisión los 22 gobernadores?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.  Su pregunta es muy útil porque nos da pie a comentar que hoy tuvimos, además de la reunión semanal que tenemos con las y los secretarios de Salud estatales, inmediatamente después tuvimos una reunión, todo esto virtual, por videoconferencia con los gobernadores y la gobernadora del estado de Sonora, precisamente para abordar en términos generales todo el plan de la nueva normalidad en los que está lo de los municipios de esperanza, lo que está la incorporación de actividades productivas de los sectores minero, de construcción y automotriz.
 Y en un diálogo muy constructivo, como suele ser, en este caso se convocó a los gobernadores de los estados donde hay actividad productiva automotriz, de la línea automotriz y lo convocó la secretaria de Gobernación, nuestra respetada y querida doctora Olga Sánchez Cordero, por supuesto conjuntamente con el doctor Alcocer, participó el director del IMSS y tuvimos esta conversación.
 Varios gobernadores expresaron sus razones de por qué no consideraron a los Municipios de la Esperanza que se había propuesto o prefirieron tener una postura de cautela.
 Como hemos comentado en varias ocasiones, pero quizá vale la pena reiterarlo, dos posiciones no necesariamente implican una contraposición o un pleito o un enfrentamiento. La Ley General de Salud es muy clara cuando habla de la concurrencia. Concurrencia en términos llanos lo que quiere decir es dos que coinciden para un mismo propósito, en este caso, esos dos son la autoridad sanitaria federal, que es el presidente de la República, el Consejo de Salubridad General y el secretario de Salud, y 32 autoridades estatales que tienen responsabilidades en el marco de su territorio.
@@ -150,16 +173,18 @@ La mayoría lo que dijeron es: ‘Prefiero no hacerlo ahorita, lo hacemos el 1º
 Araceli, de Canal 11, y usted.
 ---
 PREGUNTA
+Gracias, secretario. Preguntarle si existen más ensayos clínicos aparte del remdesivir que se estén realizando.
 Y en estas fases que nos está detallando, ¿cuánto lleva o de qué depende el tiempo que se dé para determinar si este remdesivir ya se puede utilizar?, sobre todo en los tiempos.
 Y si fuera tan amable, las personas de los muertos, trabajadores de la salud, las personas que lamentablemente han perdido su vida, de estos ¿cuántos familiares o cuántas personas, hijos o papás de estas personas han reclamado ya el seguro de vida anunciado la semana pasada por el gobierno federal? Si fuera tan amable.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Desafortunadamente ninguna, porque estos lamentables fallecimientos en nuestras compañeras y compañeros trabajadores de la salud ocurrieron antes de este ofrecimiento.
 Este ofrecimiento apenas se anunció la semana pasada, vino aquí precisamente la representante de la AMIS, la Asociación Mexicana de Instituciones de Seguros, y está por implementarse. Esperamos que se haga de manera muy expedita para que tengamos mayor oportunidad de dar cobertura financiera en términos de aseguramiento a las familias de nuestras compañeras y compañeros trabajadores de la salud, pero ninguno de los que hasta ahorita han sido presentados.
 Sobre los ensayos clínicos, qué otros hay, igual queda pendiente. Con mucho gusto actualizo la información tanto en el Seguro Social que participan algunos como en la coordinación de los Institutos Nacionales de Salud que participan otros.
 Hay algunos que, si ya participó en ellos, como el de hidroxicloroquina con… siempre se me olvida el nombre del macrólido. Azitromicina, de azitromicina, el de cloroquina, el inhibidor de IL-6, en fin, de los productos que estaban.
 Por cierto, que ivermectina ha sido mencionado en los medios de comunicación como un producto prometedor; sin embargo, hay que situarnos en cuál es la etapa. Ivermectina fue evaluado en la fase de laboratorio nada más; entonces ivermectina es un medicamento antiparasitario de uso común tanto en uso humano, aunque restringido y en uso veterinario de manera muy extensiva y está muy lejos, mucho más lejos que remdesivir de convertirse en un producto prometedor.
-No pensemos que ya mañana hay que usar ivermectina y mucho mayor cuidado hay que tener con productos farmacéuticos de uso ya registrado para otros fines, porque están a la mano.  Entonces, no pensar que es ir a la farmacia y comprar ivermectina. Concretamente en el caso de ivermectina es un producto con importante nivel de toxicidad, es decir, es tóxico, tiene efectos secundarios importantes.
+No pensemos que ya mañana hay que usar ivermectina y mucho mayor cuidado hay que tener con productos farmacéuticos de uso ya registrado para otros fines, porque están a la mano.  Entonces, no pensar que es ir a la farmacia y comprar ivermectina. Concretamente en el caso de ivermectina es un producto con importante nivel de toxicidad, es decir, es tóxico, tiene efectos secundarios importantes.
 ¿Cuánto tiempo lleva la investigación?
 Aquí aprovecho para comentar sobre vacunas también, actualizar en el sentido de que también han salido ya noticias de algunos candidatos prometedores a vacunas. Todos están en una fase muy incipiente de la investigación preclínica y clínica, y todavía no hay una esperanza de que esto pueda venir rápido.
 ¿Cuánto tiempo se tarda?
@@ -169,11 +194,13 @@ Entonces, los tiempos son variables, en este caso el ensayo de remdesivir, el qu
 ¿Quién seguía? Usted de una vez y usted, ¿verdad? habíamos dicho.
 ---
 PREGUNTA
+Buenas tardes. Juan Hernández, del periódico Basta, de Grupo Cantón.
 Ya se había tocado el tema de estos gobernadores que no quieren entrar precisamente esta etapa de los Municipios de la Esperanza, pero ayer le preguntamos al secretario de Educación Pública precisamente en el caso de los niños para entrar a clases que si no era mejor, ustedes como autoridad sanitaria de una vez homologar la entrada precisamente de los niños para evitar, precisamente estos dimes y diretes de sí entro, no entro y en todo caso poner en riesgo a los niños.
 Una segunda pregunta pegado también con esto. ¿No se corre el riesgo que estos municipios verdes se puedan convertir en una especie de santuario de personas que precisamente ya están hartas de la falta de movilidad los invadan precisamente? Como va a haber la posibilidad la posibilidad de cafés, de bares, bueno, no sé, ¿se contempla ahí que sea algo contradictorio o contraproducente?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Contesto lo segundo, creo que es una preocupación legítima, sobre todo en las dinámicas locales, a nivel local, pudiera haber una migración, aunque sea temporal, de personas de municipios vecinos o no tan vecinos en la medida en que se identifiquen como refugios o santuarios con baja probabilidad de contagio.
 Aquí lo que tenemos que dejar en claro es que ningún municipio del país o del mundo está exento de poder tener contagios y convertirse en una zona en donde haya transmisión de COVID.
 No pensamos, dadas las características de los Municipios de la Esperanza, que pudieran tener súbitamente un influjo de personas, en primera, porque no son municipios con infraestructura para ello, no son municipios turísticos, básicamente son municipios en su mayoría rurales, dispersos, muy acostumbrados a las dinámicas locales, eventualmente podría pasar que familiares, por ejemplo, acudieran ahí.
@@ -181,7 +208,11 @@ Y uno de los retos de los importantes, por cierto, también mencionado por los g
 Entonces, aquí es un esfuerzo de persuasión, de orientación de las personas, y el reto es: cuando hay necesidades para esta migración, por ejemplo, el abastecimiento de productos alimentarios es común que en estas zonas rurales haya una cabecera municipal o un municipio en el que existe el mercado de los domingos, por ejemplo, donde la gente se abastece de productos agrícolas o algunos de origen local, y eso puede llevar a movilidad comunitaria importante.
 Entonces, es un reto, no consideramos que vaya a haber una enorme migración inusual sólo motivada por el hecho de percibir que pudieran ser sitios, santuarios, sitios seguros.
 ---
+INTERLOCUTOR
+Educación.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Lo de educación es muy interesante, ayer tuvimos la oportunidad de tener una conversación técnica precisamente con el secretario de Educación Pública y su equipo de trabajo, el maestro Esteban Moctezuma Barragán, que desde el inicio, yo diría desde el punto de vista de salud, ha sido de los más comprometidos, sin menospreciar a todos los demás secretarias y secretarios, pero en este caso por la temprana intervención del sistema educativo en la Jornada Nacional de Sana Distancia.
 Y la reflexión que tuvimos, una reflexión, insisto, de carácter técnico fue interesante, porque las cosas son más complejas de lo que parece.
 No quiero angustiar a nadie, pero la complejidad estriba precisamente en el desfase temporal de las epidemias. Entonces, tenemos estados, por ejemplo, Nuevo León y Jalisco que apenas van a empezar con sus epidemias y obviamente no pueden mantener un nivel extremadamente intenso de reducción de la movilidad en forma permanente y que eviten por completo la epidemia.
 Eventualmente van a tener una epidemia y por lo tanto la salida de esas epidemias va a estar en el mes de junio, julio quizá agosto, no solo estos dos estados, otros varios.
@@ -190,11 +221,29 @@ Estamos viendo varios esquemas, no está todavía cerrado o resuelto, ni en Méx
 Muchas gracias.
 Mande usted.
 ---
+PREGUNTA
+… al secretario de Educación de Pública.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En cualquier momento, tenemos una conversación muy fluida y sí él aceptara y hubiera un propósito específico qué comentar, es muy bienvenido, por supuesto.
 Por favor. Creo que usted va a ser el último, porque nos quedan dos minutos.
 ---
 PREGUNTA
+Buenas noches, gracias. Arturo Contreras, de Pie de Página.
 Estados Unidos está empezando a volver a reactividades económicas, no las cadenas económicas mexicanas, con ello están vinculadas a los planes económicos que también se empiecen como a echar a andar.
 ¿Esto significa algún riesgo de algún resurgimiento de contagios en México?
 Y, en segundo lugar, nos dicen que el Instituto Mexicano del Seguro Social va a ser el que está vigilando a las empresas como hacen sus medidas sanitarias para el regreso de los trabajadores con base en las peticiones de incapacidad, de cuántas personas están enfermando en cada empresa.
 ¿Qué pasa si las empresas no dan incapacidades?, ¿qué pasa si la CFE, por ejemplo, o Pemex están negando incapacidades que son casos que tenemos registrados?, ¿quién vigila a CFE y a Pemex y quién vigila que se estén dando las incapacidades?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. También, qué importantes preguntas.
+Trataré de ser breve, primero, para dejar completamente claro, sin ambigüedad alguna, que, efectivamente en México y en cualquier país del mundo, de hecho, en todos los países del mundo, existe el riego de rebrotes, de COVID, todo el mundo. En el momento en que se recupera la movilidad en el espacio público, trabajos, escuelas, plazas públicas y demás actividades o espacios de diversos tipos de convivencia, recreativa, cultural, deportiva, turística, etcétera, existe el riesgo de reemergencia.
+¿Y por qué lo digo con tanto énfasis?
+Porque en todos los países lo que están experimentando es decisiones en incertidumbre, como lo comentamos hace unos días.
+Nada está garantizado, nada está escrito, esto es una enfermedad emergente, que no se había presentado una situación semejante a esta en 101 años en el mundo entero, nos estamos refiriendo a que en 1918 y 19 ocurrió la pandemia de influenza de ese entonces, H1N1, por cierto, también, 100 años después el mundo experimenta una situación acaso parecida a esa.
+Entonces, no hay garantía y por esa razón es que todos los países estamos tomando decisiones cautelosas para un retorno ordenado, supervisado y escalonado a una nueva normalidad, no a la normalidad ordinaria, no a lo que solíamos hacer, que quede muy claro, el 1º de junio no es: todos a la calle a hacer lo que siempre hacíamos.
+El 1º de junio, cuando termine la Jornada Nacional de Sana Distancia es, con base en disposiciones locales, estatales de la autoridad sanitaria, pero asesorados por el gobierno federal vamos a tener municipios y estados con distintos colores de semáforo: rojo, naranja, amarillo y verde, que de manera muy clara y explícita representarán distintos niveles de riesgo epidémico, y sólo en aquellos que tengan las características suficientes para un bajo riesgo habrá una apertura más grande de actividades.
+Los que estén en amarillo o en anaranjado es una apertura moderada o controlada de actividades.
+Los que estén en rojo sólo las actividades esenciales podrán operar.
+Y terminando con el tema de las incapacidades, el Issste es al que le corresponde el proceso de incapacidades, todas y todos los trabajadores al servicio del Estado, de las entidades públicas tienen derecho a las incapacidades laborales, tanto como las tienen los trabajadores de las empresas privadas y nadie debe permitir que se le conculque ese derecho.
+Muchas gracias. Son las 20:00 horas con dos minutos, aquí terminamos. Muchas gracias.

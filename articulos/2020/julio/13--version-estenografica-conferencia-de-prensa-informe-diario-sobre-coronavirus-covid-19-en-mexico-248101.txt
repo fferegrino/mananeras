@@ -3,6 +3,7 @@ Presidencia de la República
 13 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes tengan todas y todo ustedes, aquí en la sede y allá en sus casas. Son las 19:00 horas en punto de este lunes 13. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener un informe técnico un poco modificado, atendiendo a lo que nos instruyó el señor presidente esta mañana. Vamos a presentar una síntesis de la situación en cada entidad federativa. Consideramos que esta síntesis puede ser de gran ayuda para ver de manera panorámica todo el país, pero con la especificidad de lo que está ocurriendo en cada territorio.
 Como recordarán, desde la semana pasada, en domingo, iniciamos con este nuevo esquema de comunicación y a partir del lunes empezamos a incorporar una entidad federativa a la vez, el miércoles nos fuimos un poco más rápido y tenemos ya tres entidades federativas.
 ¿Cuál es el propósito?
@@ -130,6 +131,7 @@ Veamos por último en mi segmento la transmisión, reto importante durante todo 
 Le paso al doctor Alomía.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Bien, sigamos ahora con el estado de Morelos, estamos yendo en orden alfabético con todos los estados.
 Veamos que también en el caso del estado de Morelos vemos una dispersión importante, aunque hay municipios que ya están en el color blanco, que quiere decir que por lo menos en la semana 27 no se ha detectado transmisión en ellos, pero vemos cómo sí en la dispersión hay algunos que son los colores más oscuros que concentran la mayor cantidad de personas por 100 mil habitantes que tienen la enfermedad. Siempre vamos a encontrar una concordancia en que los municipios de mayor población y, sobre todo, los municipios que son a la vez capital de la entidad federativa normalmente están concentrando las mayores cargas.
 Si vemos la siguiente diapositiva vamos a ver, precisamente el número de básico de reproducción. Morelos siempre se mantuvo, digamos, cerca a este 1.0 que es el que se requiere para que la epidemia no continúe transmitiéndose de manera importante y ya prácticamente al final del mes de junio logró inclusive disminuir este nivel, lo que quiere decir que, si se mantiene durante las primeras semanas de julio y esto continúa por debajo de este 1, pues podremos empezar a ver cómo disminuye la transmisión correspondiente.
 Veamos el siguiente estado. Tenemos ahora a Nayarit, Nayarit también con transmisión todavía importante en la semana 27, solamente con dos municipios que ya no tienen una transmisión como tal, pero también vemos una distribución en prácticamente toda la entidad federativa con diferentes niveles de intensidad que podemos ver en Nayarit.
@@ -178,9 +180,19 @@ Yucatán es otro ejemplo en la parte inferior en donde se disminuye la movilidad
 Sería la segunda parte.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Como anticipó el presidente, toda la hora la ocupamos en la presentación y creo que están a punto de cortarnos la transmisión.
 Vamos a tomar una pregunta nada más, la de usted.
 ---
 PREGUNTA
+Héctor García, de Diario Basta y Grupo Cantón.
 Le quiero preguntar, usted acaba de mencionar que en la entidad tabasqueña ya se logró bajar a 80 por ciento la ocupación hospitalaria. El fin de semana en Tabasco se anunció la construcción de una burbuja hospitalaria que ampliaría la capacidad a 80 camas más; asimismo, el director del IMSS estuvo el viernes en Tabasco y anunció la construcción de una ampliación que arrancó para que la Clínica 46 ofrezca 38 camas más.
 ¿Estas camas que le menciono están contempladas en lo que se hizo para lograr ese 80 por ciento de ocupación a la baja que menciona o cómo se logró reducir ese déficit de camas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Exactamente, así como usted lo ve, en el número en donde pasamos de tener 16 por ciento de disponibilidad y ahora pasamos a 18, ayer y hoy a 20 de disponibilidad, el restante es ocupación, 80 por ciento en camas generales, se logró exactamente así.
+Desde la semana pasada, un poco más del jueves antepasado, el gobierno del estado nos hizo del conocimiento que estaba llegando al límite de ocupación y nos abocamos todas las instituciones, no solamente del sector salud, también las Fuerzas Armadas a habilitar espacios nuevos.
+Todavía no entra lo que usted está relatando, ni la burbuja ni la construcción del hospital del IMSS, esto se va a tardar aproximadamente seis semanas, es un hospital temporal que se va a construir en seis semanas solamente y va a tener el número de camas que usted relató y va a aumentar más la capacidad. Ese es el modelo de trabajo.
+Muchas gracias.
+Aquí vamos a tener que terminar, porque si no, nos quedamos sin transmisión y mañana vemos tres estados y le entramos a detalle; también mañana es el Pulso de la Salud en la mañana y podemos continuar este diálogo, quienes estén aquí.
+Gracias.

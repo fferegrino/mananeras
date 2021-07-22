@@ -3,6 +3,7 @@ Presidencia de la República
 10 de marzo de 2020
 ---
 OSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Buenas noches, con todas y todos.
 Como siempre, estamos nuevamente aquí a las 7:00 de la noche para dar la actualización en relación a la información de COVID-19, qué está pasando en el mundo, cómo estamos en el panorama epidemiológico en México y siempre aprovechar el espacio para también poder compartir con el público que nos atiende en estos horarios algunos mensajes y un poco ahondar en ciertos temas que consideramos son importantes que la población también pueda tener.
 El día de hoy nos está acompañando de manera muy especial, le invitamos porque trae un tema que consideramos también debe de formar parte de la comunicación de riesgos a la población, como lo es el componente de salud mental y por eso agradecemos hoy día la presencia de la doctora Lorena que además coordina todo el Conasama y que tiene e integra todas las acciones en materia de atención a la salud mental, tanto comunitaria como hospitalaria. Nos está acompañando esta noche y nos va a presentar información muy especial para la población y para todos nosotros.
 Y también agradecemos la presencia del doctor Gustavo Reyes Terán, coordinador de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad, quien siempre nos contribuye y apoya con información en relación al componente de atención médica, a la investigación científica y qué es lo que ha estado pasando en este marco con todos los casos.
@@ -36,6 +37,7 @@ Esto lo vamos a seguir igual comentando en las diferentes entrevistas y espacios
 Daría entonces ahora la palabra a la doctora Lorena Bores para que nos comparta este tema que también creemos que es muy importante en el marco de respuesta ante COVID-19
 ---
 LORENA RODRÍGUEZ BORES, SECRETARIA TÉCNICA DEL CONSEJO NACIONAL DE SALUD MENTAL (CONSAME)
+Muchísimas gracias, José Luis. Muy buenas noches a todas y a todos.
 Agradezco la oportunidad de hablar de un tema que se encuentra también con una alta prioridad y que es igual de transmisible y de mucha propagación, que es el miedo y el pánico durante estas contingencias. Es importante hablar de las consecuencias sicológicas que puede generar este estado de contingencia epidemiológica.
 Quisiera comenzar primero hablando de ciertos conceptos que es importante poner en la mesa para entender de qué estamos hablando. Estamos hablando de que se puede experimentar consecuencias sicológicas como puede ser la ansiedad y el miedo.
 Pero ¿qué es la ansiedad y el miedo?
@@ -87,9 +89,11 @@ Una de ellas también es reconocer el papel de la salud mental de los pacientes,
 Y, bueno, saber que todos, si participamos todos podemos y que seguramente tendremos buenos resultados ante esta contingencia.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias, doctora Bores. Información muy importante que igual vamos a seguir ampliando o enfocando en función de los escenarios y los momentos epidemiológicos en los que vayamos pasando.
 Pasamos a las preguntas. Levantaron primero la mano aquí, luego de este lado, luego de este lado y así nos vamos en orden, todavía tenemos bueno tiempo.
 ---
 PREGUNTA
+Buenas tardes a todos. Blanca Valadez, de Grupo Milenio.
 Me gustaría que nos comentaran sobre el vuelo ASA 676. ¿Cuántas personas descendieron en el Aeropuerto Internacional de la Ciudad de México procedente de Roma?, ¿qué protocolos de revisión se hicieron para que ellos pudieran ingresar al aeropuerto, a la Ciudad de México, bueno, al país, perdón?, ¿cuántas personas son de Italia?
 Preguntarles: ¿qué revisión les hicieron?, si es cierto que entre los pasajeros había por lo menos dos personas que dieron positivo al coronavirus. Preguntarles ¿traen sus datos a detalle?
 Y también si nos pueden decir, estuve en el aeropuerto y les están pidiendo a los viajeros de México que van a ir Japón y a otras partes, un certificado de que no tienen coronavirus cuando estamos que la epidemia está aparentemente controlada.
@@ -98,6 +102,7 @@ Nada más, por último, ¿cuántas pruebas ya están distribuyendo?, ¿eran 200 
 Gracias. Si me pueden dar estos detalles primero de los pasajeros.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro, los protocolos que están lineados para el tema de sanidad internacional y precisamente que son los servicios de salud internacional en cada uno de los puntos de entrada, sobre todo en los principales aéreos, que son los que reciben la mayor cantidad de viajeros internacionales, están estandarizados para todo el país, es decir, los que aplica la Ciudad de México son los que aplica también Cancún, son lo que aplica Puerto Vallarta, son los que aplica Mazatlán, etcétera.
 Este protocolo lo que indica es lo siguiente: hay una inspección visual que se debe de llevar a cabo con cada uno de los pasajeros que en su momento procede de un vuelo de un país en el cual se ha demostrado la presencia o la circulación de SARS-COV-2 o de la enfermedad COVID-19.
 Esta inspección debe de ir acompañada de la entrega de información, es decir, hago la inspección y la inspección la estoy realizando, porque estoy entregando una información al viajero internacional, que más allá que producto de la inspección, el personal de Sanidad Internacional detecta que esta persona viene asintomática, o sea, no está presentando signos o síntomas de enfermedad.
 La información que se le está entregando es precisamente para que si esos signos o síntomas de enfermedad los desarrolla una vez que ya está en su destino final o está en su periodo de actividades, en esta información que se le da, uno, se le especifican cuáles son los signos y síntomas que él debe monitorear y darse cuenta, y viene el número que todos conocemos, el 800 0044 800 de la UIES, que a donde se le pide al viajero que se reporte en el caso de que haya desarrollado los síntomas.
@@ -112,20 +117,42 @@ Si la muestra revela que el caso es negativo a SARS-CoV-2 y pudiera ser positivo
 Si es SARS-CoV-2, como se ha hecho hasta el momento con los siete casos confirmados, la persona tendrá que mantener un aislamiento de hasta 14 días hasta tener la evidencia de que ha solucionado su cuadro como tal.
 De hecho, personas que han venido del extranjero o que inclusive han hecho contactos de casos confirmados han tenido que postergar su vuelo de regreso, han tenido que cambiar su fecha de regreso de vuelo para cumplir los 14 días, porque en el momento en que son detectados como casos sospechosos, desde ese momento inicia el aislamiento y este resguardo ya no se puede romper hasta que no se hayan completado los 14 días.
 ---
-JOSÉ LUIS ALOMÍA ZEGARRA
-Lo que nos notifican a los niveles superiores es cuando ellos detectan casos sospechosos, y eso lo hacen a través de la jurisdicción sanitaria, que es la que activa todo el protocolo de estudio.
+INTERLOCUTORA
+Perdón, doctor, ¿cuántas personas bajaron de ese avión?
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+No tenemos esa información.
+---
+INTERLOCUTORA
+Preguntarle ¿cuántas personas detectaron que deben de ser motivo de este tipo de aislamiento, o al menos de revisión?, ¿cuántas personas son sospechosas de coronavirus que ya trajeron?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Podemos pedir la información a Sanidad Internacional porque, así como estos vuelos, todos los días llegan vuelos procedentes de diferentes partes de Europa, incluyendo Italia, ellos son los que llevan la relación y los que en su momento notifican.
+Lo que nos notifican a los niveles superiores es cuando ellos detectan casos sospechosos, y eso lo hacen a través de la jurisdicción sanitaria, que es la que activa todo el protocolo de estudio.
+---
+INTERLOCUTORA
+¿Sanidad no les dijo nada?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+¿Perdón?
+---
+INTERLOCUTORA
+¿Sanidad Internacional no les informó nada?, porque ellos ya descendieron.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Sanidad Internacional depende de los estados, Sanidad Internacional no depende del nivel federal, Sanidad Internacional opera cada una de las entidades federativas que tiene un aeropuerto internacional.
 Pero cuando ellos detectan un caso sospechoso, el caso sospechoso inmediatamente entra al protocolo de estudio y por lo tanto al sistema. Si alguno de estos casos es identificado, va a formar parte de la estadística de casos sospechosos, va a entrar al protocolo de estudio y de aislamiento, y en su momento pudiera ser un nuevo caso confirmado, hasta el corte todavía no ha sucedido eso.
 Teníamos de este lado.
 ---
 PREGUNTA
+Quisiera yo preguntarle, por favor, a qué se debe este pánico del que ya nos habla la doctora, ¿cuál es la situación?, ya hay una dispersión, en México todavía no…
 ¿Cómo podemos entender que esto esté pasando? Pareciera que México se convirtió como en una isla donde no está pasando nada y quisiera yo pensar que por esa razón es el temor, porque está muy cerca Estados Unidos y aquí simplemente pareciera que no está la situación.
 Y relacionado con esto, hace un rato la embajada de Estados Unidos en México emitió una alerta para sus ciudadanos que se encuentran en el país a causa del coronavirus, como si supieran algo que nosotros no, ¿verdad?, aunque aquí nos mantenemos con siete casos confirmados.
 Y también se informó desde Honduras que se suspendían los vuelos que llegaran de México a causa justo para prevenir cualquier caso importado de coronavirus.
 ¿Nos pudiera explicar qué es lo que está pasando?, ¿cómo interpretan?, ¿cómo debemos de interpretar esta alerta que emite la embajada de Estados Unidos?
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro, muy bien. De hecho, si nosotros vemos un poco precisamente las regiones, y por eso pusimos un poquito también el esquema de notificación de los casos en regiones, podemos ver cómo la primera región que en su momento tuvo incremento de casos fue precisamente aquella donde inició esta epidemia, que es Asia precisamente y se mantiene activa, ya no en China, pero sí en los países aledaños a China en donde la transmisión inició más recientemente.
 Posteriormente a esto el incremento se llevó a cabo en Europa y es donde ahora están teniendo un… están en su curva ascendente, están ya en una fase dos, prácticamente en fase tres o en escenario tres, perdón, y están teniendo este comportamiento.
 Si nosotros vemos toda la región de las Américas, América del Norte, América del Centro, América del Sur, precisamente en la región, y lo pueden ustedes ver en la cantidad de casos que se han reportado en cada uno de los países de todas las Américas, en donde estamos precisamente iniciando el escenario uno y hay algunos países que están ya pasando a escenario dos.
 Pero no es que México se haya quedado en una isla. Si buscamos países en América, hay muchos que inclusive no han ni siquiera confirmado su primer caso importado y los que lo han hecho están precisamente en un conteo inicial, como el que pudiera ser similar a México.
@@ -139,14 +166,20 @@ Ahora, esto es una política particular de cada país y entonces en su momento, 
 Entonces, más bien en todo caso habría en su momento que revisarlo en el contexto de cómo lleva a cabo Estados Unidos sus evaluaciones de riesgo.
 Recuerden que como país ellos también llevaron a cabo acciones en sus vuelos internacionales, en sus aeropuertos diferentes a los que a lo mejor se estaban llevando a cabo en otros países. Entonces, son políticas de cada país.
 ---
+INTERLOCUTORA
+En Honduras.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Igual, Honduras en un momento determinado es interesante que emita una política como tal cuando México nos encontramos en escenario uno; o sea, no hay un riesgo para otros países de que los mexicanos que viajan al extranjero lleven el virus e inicien una transmisión, porque no tenemos transmisión comunitaria; pero reitero, cada país es autónomo en realizar su propia evaluación de riesgos y emitir sus propias recomendaciones.
 Ahora creo que eso también lleva un poco en el contexto de cómo está esta información y estas ideas causan lo que la doctora acaba de comentar, igual nos lo puede un poco anclar a la primera pregunta.
 ---
 LORENA RODRÍGUEZ BORES
+Sí, definitivamente creo que también lo que sucede y es natural, es que también el ser humano quiere certezas, a veces todos quisiéramos también a veces tener, por ejemplo, la fecha de cuándo va a llegar. Entonces, nosotros podemos hacer proyecciones, podemos hacer toda una planificación; sin embargo, la fecha precisa no es exactamente de nuestro conocimiento.
 Y, por otro lado, hablar de que son medidas preventivas, todo lo que estamos ahorita retomando en el tema de salud mental que son importantes desde la Secretaría de Salud para toda la población y que, bueno, también desde otros gobiernos internacionales también dan estas medidas de prevención de salud mental, porque también saben que el pánico es un factor que cataliza y acelera todo esto, que haya también confusión entre por qué unos están actuando de otras formas.
 Pero, bueno, eso sería como una de las explicaciones.
 ---
 GUSTAVO REYES TERÁN, TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
+Gracias. No hay que olvidar que el concepto de una epidemia es un concepto en evolución siempre, es un concepto dinámico y que puede cambiar de un día para otro, es muy importante tenerlo en mente. Siempre abro mis reuniones con los coordinadores de la atención médica diciendo: hoy puede ser el punto de inflexión y a partir de hoy puede que esto cambie o a partir de mañana.
 Y en cada reunión -tenemos dos o tres reuniones por semana- inicio justamente diciendo que cualquier momento puede cambiar. Este es un concepto en evolución, es muy dinámico y que debemos estar preparados para ello.
 Es un concepto que los medios de comunicación deben de tener, también yo creo que la población en general debe de tener y que nos va a hacer cambiar en la respuesta que debe tener de nuestra parte como autoridades sanitarias, o la parte también de los medios de comunicación e incluso la población general.
 Les he dicho previamente, o les hemos dicho previamente, que el grupo más vulnerable, el grupo que contiene el mayor riesgo para llegar a hospitalización es el grupo de personas adultas mayores, es otro de los conceptos que debemos de tener muy claro.
@@ -157,29 +190,64 @@ Ya ha hablado el doctor José Luis Alomía de las medidas que se tomarán en su 
 Estoy hablando cuando ya se presente el escenario de una transmisión comunitaria donde se pierde ese vínculo de la persona que infecta al caso que nosotros hemos detectado, que todavía hasta el momento tenemos la fuente de los contagios, la fuente de la transmisión de la infección hasta este momento.
 Puede cambiar en cualquier momento y debemos estar preparados, preparados para lo peor con lo mejor que tenemos.
 ---
+INTERLOCUTORA
+¿No está fuera de lugar esta alerta que emite la Embajada de Estados Unidos o incluso la medida que tomó?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+De hecho, por lo menos del monitoreo que tenemos a través de la UIES, y recordando que nosotros somos el Centro Nacional de Enlace para el Reglamento Sanitario Internacional, no tenemos una notificación un pronunciamiento de un aviso oficial por parte de los Estados Unidos de restricciones de viaje a México o de algún otro tipo de dato, tendríamos, en todo caso, que revisar la procedencia o la fuente de esto que comenta pudiera estar circulando en relación a un posicionamiento.
 Pero lo que sí podemos decir es que hasta este momento no hay un aviso oficial o una política de los Estados Unidos que diga que no hay que visitar o venir a México. Eso sí lo tenemos registrado.
 Teníamos también una mano atrás. Adelante.
 ---
 PREGUNTA
+Yo quiero preguntarles, en Twitter está circulando una foto, información de un trabajador del aeropuerto que fue detectado con síntomas de coronavirus, incluso en la foto que está totalmente aislado y lo están trasladando. Quería saber si esto es real y qué están haciendo en ese sentido.
 Y lo segundo es, llegamos aquí con la expectativa de que son voceros únicos y que nos van a informar de lo que está pasando. Entonces, quiero saber quién nos va a dar la información de lo que está pasando en el vuelo de Italia, a qué hora, cuándo, cómo. Se supone que lo que nos han dicho, es que usted es el vocero único y entonces esto pues…
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Lo comentamos. En el caso del evento que se estuvo circulando en Twitter, la Unidad de Inteligencia Epidemiológica Sanitaria verificó el dato o el evento, es una persona que en su momento fue trasladada a un hospital de la ciudad; de hecho, es específicamente del Estado de México.
 Decían que era trabajador del aeropuerto, sin embargo, el aeropuerto ya también a través de sus cuentas oficiales puso que oficialmente no es un trabajador del aeropuerto, esto puede haber respondido en un momento a alguna otra conjetura o alguna declaración de la persona, pero lo que el aeropuerto ya confirmó es que no es un trabajador del aeropuerto.
 Posterior a esto se hizo la valoración, el Estado de México abordó el caso, hizo la investigación en la unidad en donde se había enviado y constataron que la persona no cumplía con definición operacional de caso, lo más seguro es que no tenía el antecedente de viaje internacional o que inclusive la sintomatología no era la correspondiente.
 En relación a la información, con mucho gusto nosotros podemos ser bastante muy específicos en solicitar un dato en particular o una información; sin embargo, sí me gustaría destacar que para efectos de la salud pública y de la investigación que se realiza de los riesgos que puede haber, realmente aquí lo importante estaría en el hecho de si, de la valoración de los viajeros internacionales, se hubiera detectado un caso sospechoso.
 Si se hubiera detectado un caso sospechoso, ese caso sospechoso va a pasar a formar parte de no solamente del denominal de casos, sino va a pasar parte a ser del protocolo de estudio y por lo tanto va a haber entonces la oportunidad de confirmarlo; pero también importante que si se identificó como caso sospechoso, se va a iniciar con el proceso de aislamiento y con el seguimiento y estudio de sus contactos, eso es lo que habría que destacar, porque todas las demás personas del vuelo que no tenían sintomatología, entonces ya no representan realmente una importancia para la salud pública en el sentido de que no representan en ese momento ya un riesgo.
 Pero si la actividad pudo identificar los casos que sí lo eran, eso es lo que tendríamos que resaltar y a través del seguimiento nosotros veremos en algún momento si esto se convierte en un caso confirmado.
 ---
+INTERLOCUTORA
+Ahorita no saben si hay casos sospechosos en ese vuelo.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Exacto. El proceso de notificación es: si se detectaron, la jurisdicción hace el abordaje, la jurisdicción sanitaria llena el estudio de caso, toma la muestra y la manda a su laboratorio y hace la notificación, en ese momento ingresa a nuestro sistema y es cuando nosotros podemos saber los antecedentes y los datos específicos de estas personas.
+---
+INTERLOCUTORA
+Para precisar, me queda claro lo del aeropuerto y del trabajador del aeropuerto, pero en la imagen que presentan, ¿así es como harían un aislamiento en un caso de sí coronavirus?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+De hecho, qué bueno la pregunta, porque nos da pie para comentar que en los lineamientos de bioseguridad, en los lineamientos de control de infecciones que están publicados, que ustedes los pueden descargar de la página de la Secretaría de Salud, específicamente en el componente de información para personal de salud, este tipo de trajes, que se conocen como tyvek, que son trajes especiales para evitar el contagio por contacto, no son recomendados para COVID-19.
 Para COVID-19, que es una enfermedad que se transmite por la vía aérea y por gotas, lo que está recomendado es la protección de las vías aéreas. Los trajes tyvek están recomendados cuando la transmisión se puede dar por fluidos, por secreciones, por sangre, etcétera; entonces, no es necesario el uso de trajes tyvek cuando estamos hablando de un caso sospechoso o confirmado inclusive de COVID-19.
 ---
+INTERLOCUTORA
+¿Y cómo nos vamos a enterar si hubo o no casos sospechosos en ese vuelo?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En los cortes que nosotros tenemos todos los días, que los estamos en su momento identificando. Como les digo, no es un seguimiento puntual que se haga al menos a nivel federal donde se concentran los casos de todo el país, pero en un momento determinado tenemos la base de datos completa, que tiene más de 100, 120 variables en donde nosotros podríamos identificar si el antecedente de esta persona es que fue identificado en un filtro de Sanidad Internacional.
 Pero lo importante, como comento, es que el caso se identifique y que entre a un protocolo de estudio, y que tenga la oportunidad en un momento de confirmarse o de descartarse.
 ---
+INTERLOCUTORA
+Pero, ¿no saben el estatus?, o sea, ya se les hizo la prueba, están confirmando…
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Si fue un caso sospechoso, la prueba la hace inmediatamente la jurisdicción sanitaria, y lo notifica y lo procesa en su laboratorio de la Ciudad de México.
+---
 GUSTAVO REYES TERÁN
+Y hay que esperar las seis horas aproximadamente en que sale el resultado, pero muy importante, en ese tiempo, la persona que cumple los criterios operacionales de un caso probable o un caso sospechoso se mantiene en aislamiento o en resguardo.
 Si los síntomas son leves o moderados, se mantiene en su domicilio; si los síntomas son graves, se va a un hospital. Importante yo creo en este punto decirles que, en el trabajo cotidiano de los hospitales, que aún nos encontramos en un traslape con la temporada de influenza, importante el número de pacientes que son hospitalizados por una enfermedad respiratoria aguda va a disminuyendo en los hospitales de referencia, sobre todo el INER, que es el hospital por excelencia de referencia de las enfermedades de vías respiratorias, o el Instituto Nacional de Ciencias Médicas y Nutrición, y el número de pacientes hospitalizados por enfermedad respiratoria va disminuyendo. Ese es un dato importante porque de alguna forma es una manera de medir el impacto de una transmisión comunitaria.
 Hasta ahora en el INER no ha habido casos graves y se han buscado, en estas semanas se hicieron casi 100 pruebas, solamente en esta semana; y lo digo porque hubo una pregunta relacionada con el número de pruebas para ver en los casos hospitalizados por enfermedad respiratoria en el instituto se descartara el SARS coronavirus-2.
 Y todos los resultados fueron negativos, absolutamente en el INER solamente ha habido un caso positivo, que fue un caso con una enfermedad leve, se mantuvo en aislamiento, ya les explicamos previamente por qué, y que ahora está en su domicilio, terminó ya el periodo de cuarentena y puede hacer sus actividades normales.
 En Nutrición se está llevando a cabo también una vigilancia hospitalaria en los pacientes graves hospitalizados y sobre todo que cumplan algunos criterios para hacerles la prueba.
 Hasta es el momento los resultados han salido negativos y concuerda perfectamente bien con los casos que se han reportado en el país y considerados hasta este momento como casos importados.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias.
+Lamentablemente el tiempo se nos ha terminado, pero no quisiéramos perder la oportunidad de siempre comunicar a la población el uno, dos, tres para ponerle un alto al nuevo coronavirus. Recordemos siempre:
+Uno, lavarnos las manos frecuentemente, sobre todo si hemos estado en actividad al exterior del hogar, si hemos estado en lugares concurridos, si nuestra acción laboral o escolar nos ha llevado a estar saludando a muchas personas o en contacto con otras personas, levémonos las manos siempre y en cualquier momento.
+Nunca olvidemos la etiqueta respiratoria. Cuando tenemos que toser o estornudar, hagámoslo en el ángulo interno del codo.
+Y si estamos enfermos es mejor quedarnos a descansar, no ir a trabajar, no ir a la escuela, esto nos va a ayudar a todos como comunidad.
+Muchas gracias. Buenas noches.

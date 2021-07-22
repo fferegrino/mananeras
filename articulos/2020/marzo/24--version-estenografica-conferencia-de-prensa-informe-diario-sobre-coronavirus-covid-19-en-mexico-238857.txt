@@ -3,6 +3,7 @@ Presidencia de la República
 24 de marzo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Hoy es martes 24 del 2020. Estamos en Palacio Nacional de la Ciudad de México, en la capital de México. Hoy vamos a tener la conferencia diaria sobre la situación de la epidemia de COVID, la enfermedad por el nuevo coronavirus 2019, SARS-CoV2.
 Hoy nos acompaña el doctor Víctor Hugo Borja Aburto aquí presente a mi izquierda, quien es el director de Prestaciones Médicas del Instituto Mexicano del Seguro Social, es además un destacadísimo epidemiólogo y profesional de la salud desde hace muchos años. Bienvenido, Víctor. Muchas gracias.
 Nos acompaña, como en otras ocasiones, el doctor Gustavo Reyes Terán, coordinador de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad. Bienvenido, Gustavo.
 También nos acompaña el doctor José Luis Alomía Zegarra, director general de Epidemiología y coordinador técnico en la respuesta.
@@ -12,6 +13,7 @@ También vamos a recordar cuáles son las medidas de sana distancia.
 Le pido al doctor Alomía si nos conduce.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muchas gracias, subsecretario.
 Como ya es costumbre, actualizaríamos el panorama internacional. En la primera diapositiva podemos ver la actualización para el día de hoy, en donde en todo el mundo se reportan ya un poco más de 372 mil casos.
 Igualmente poner la especificación que de ese total de casos, el 70 por ciento es el que ha ocurrido en los últimos 14 días, es decir, son 259 mil personas las que sí están dentro de este periodo de 14 días y por lo tanto podrían todavía considerarse como casos activos de la enfermedad; la diferencia, que es poco más de 120 mil personas, estarían detrás de ese periodo de 14 días, por lo tanto ya no podrían considerarse como casos activos.
 La letalidad mundial se ha mantenido prácticamente en la última semana en un valor similar o cercano al 4.4 por ciento.
@@ -32,6 +34,7 @@ Y con esta nueva defunción la letalidad en México sería del 1.2 por ciento, l
 Señor subsecretario.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Perfecto. Muchas gracias, doctor Alomía.
 A continuación, me voy a permitir ponerme de pie para explicarles, compartir con ustedes aquí presentes y allá a la ciudadanía mexicana este momento tan valioso de oportunidad que México pudo tomar por estar preparado desde el inicio de esta epidemia en China en la primera semana de enero y haber empezado tan tempranamente los trabajos de preparación.
 Los trabajos de preparación, como lo hemos relatado, implican múltiples áreas, desde el monitoreo, el alertamiento temprano, que fue el elemento que nos permitió activar toda conjunción de esfuerzos y también toda la fase de preparación en salud pública para considerar de manera amplia y sistemática todo el repertorio de intervenciones, de prevención, de control, que están involucradas en el manejo y la disminución de riesgos de una enfermedad epidémica, infecciosa, emergente, como es COVID.
 Y retomo algo que ha salido casi cada noche, que es la idea de dos clases de intervenciones principales:
@@ -100,8 +103,9 @@ Y finalmente, quien tuviera síntomas que se quede en casa, que no salga durante
 Vamos a abrir a preguntas y respuestas, y vamos a dar la palabra a Ángeles Cruz, a usted y a usted.
 ---
 PREGUNTA
+Gracias. Del periódico La Jornada. Buenas tardes.
 Quisiera yo hacerle unas peticiones, primeramente, antes de las preguntas.
-Hasta el domingo había en su registro de casos positivos tres bebes, ayer desapareció uno de esa tabla. Si nos puede puntualizar qué es lo que pasó y el que ya no aparecía ayer es el que estaba en Yucatán.  ¿Qué pasa ahí con los datos?
+Hasta el domingo había en su registro de casos positivos tres bebes, ayer desapareció uno de esa tabla. Si nos puede puntualizar qué es lo que pasó y el que ya no aparecía ayer es el que estaba en Yucatán.  ¿Qué pasa ahí con los datos?
 Y si hay manera de que también nos dieran la información de las personas por rangos de edad, a fin de ir teniendo claridad sobre la afectación, sobre todo el tema de los adultos mayores.
 Y ahora que veo que el 60 por ciento de los muertos, de los fallecidos, discúlpenme, de las personas que han fallecido tenían diabetes y tenían obesidad, pues es también de llamar la atención.
 Esas son las peticiones.
@@ -111,16 +115,35 @@ Y las preguntas.
 Sobre lo que anunciaron en la mañana los médicos del bienestar que están buscando contratar, la pregunta que tengo es: ¿los que ya tienen identificados, los que se inscribieron, que eran más de cinco mil, si no me equivoco, no funcionarían para atender en esta emergencia o cuál es la situación que están enfrentando?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, Ángeles.
 Efectivamente, la convocatoria de médicos para el bienestar que habíamos abierto al inicio del año con la expectativa de contratar hasta 43 mil médicos, médicas y otro personal de salud para el bienestar ha ido avanzando, hemos reclutado ya mil 200 personas, existe todavía un grupo disponible, pero consideramos que algunos especialistas están todavía en necesidad, y de la mañana que abrimos la convocatoria a ahorita hemos recibido ya 425 solicitudes de personal especializado en terapia intensiva.
 Así de exitosa fue la convocatoria y, por supuesto, hemos decidido que vamos a actuar de manera muy acelerada con el respaldo del presidente, del secretario de Hacienda para poder hacer estas contrataciones de manera urgente para atender a COVID.
 ---
+INTERLOCUTORA
+¿Cuándo serían?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Por ahora no hay un límite específico, porque depende mucho de la capacidad existente en el país, hay especialidades que son menos frecuentes en México, porque se forma menos gente.
 Las peticiones, cuente con ello. Vamos a hacer cada vez más detallado nuestro…
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Igual ayer, que pidió Mauricio la información del sistema de vigilancia Centinela, con mucho gusto toda la información que pueda ser útil.
+INTERLOCUTORA
+Lo de los bebés.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita le damos la palabra al doctor Alomía para que comente los bebés, pero informe epidemiológico pidan, por favor, y con mucho gusto.
+Igual ayer, que pidió Mauricio la información del sistema de vigilancia Centinela, con mucho gusto toda la información que pueda ser útil.
+---
+INTERLOCUTORA
+Se llama Alejandro.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Perdón, yo le vengo diciendo Mauricio desde el 22 de enero.
+---
+INTERLOCUTORA
+Desde toda la semana pasada.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Perdón, Alejandro. Con razón veía que cada vez me miraba más feo. Alejandro disculpe.
 Y respecto a los gobernadores, yo no me concentraría tanto en la intención política o les dejaría a ellos que opinen sobre sus propias intenciones políticas. Yo veo detrás de estas respuestas un gesto noble, un gesto de preocupación.
 Es responsabilidad de los gobernadores y de las dos gobernadoras tener una actitud de protección, es su obligación, supongo que no solamente en términos administrativos como autoridades sanitarias que son para sus estados, sino también como personas responsables.
 Entonces, lo tomamos como un gesto positivo. A veces hay mayor proactividad, si se canaliza positivamente, se aprovecha positivamente y uno de los mejores ejemplos lo tenemos en la gobernadora o jefa de gobierno de la Ciudad de México, la doctora Sheinbaum y también en el gobernador Alfredo del mazo que, teniendo precisamente perspectivas políticas diversas, han podido converger y han podido estar trabajando con la federación.
@@ -128,22 +151,45 @@ No pierdo esperanza que los demás gobernadores, que pudieran en un momento dado
 Le pido al doctor Alomía si habla de los bebés.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Sí, con mucho gusto. Recordando que el Sistema Nacional de Vigilancia Epidemiológica, para poder lógicamente concentrar toda la información que en su momento se notifica, opera en este momento un sistema de información en línea al cual todas las entidades federativas tienen acceso a través de clave y de nombre de usuario, por lo tanto, toda la unidad que en su momento detecta un caso ingresa y captura toda la información.
 Lógicamente, a medida que va incrementándose el número de casos y la cantidad de trabajo, la carga de trabajo para toda la red, suelen haber, a veces, equivocaciones en donde el estado tiene toda la capacidad de identificarla y corregirla y esto fue lo que pasó. Es una corrección, de hecho, que se hace desde el mismo estado, el mismo estado ingresa y corrige la edad; por lo tanto, ya no tenemos ese menor por corrección directa del estado.
 Cuando nosotros hacemos el corte de la base todos los días, si un estado corrigió su información ese corte va a reflejar la corrección que se haya dado.
 ---
+INTERLOCUTORA
+¿Entonces, son dos bebés?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Dos.
+---
+INTERLOCUTORA
+Sobre la transmisión comunitaria, por último y brevemente. Hablan de cinco personas en las que no se identificado el origen. ¿Es posible saber en dónde están?, ¿están juntas, están de manera dispersas? Si eso también lo pudiéramos tener, el informe, nos ayudaría mucho para saber dónde hay que poner atención para frenarlo en la transmisión.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, lo preparamos, yo creo que mañana les damos ese detalle, que me parece muy importante.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Podemos comentar que los cinco no están integrados, digamos, en un brote, es decir, no forman parte de una misma cadena de transmisión, exacto, inclusive están en diferentes estados.
+---
+INTERLOCUTORA
+¿Pero no ha aumentado?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Con los porcentajes, como la tuvimos el día de ayer, se la podemos estar también presentando.
 A lo mejor en este inicio, recordando que como lo hemos tenido en el caso o lo tuvimos en casos importados o asociados a importación, lógicamente en el tiempo y en la medida que los casos se van incrementando, es mucho más difícil tener la precisión, pero ahorita que vamos iniciando, iniciando este escenario dos, yo creo que podemos tener el dato.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Por favor, usted, usted y usted.
 ---
 PREGUNTA
+Buenas tardes. Karina Aguilar, del diario 24 horas.
 Preguntarle, usted señalaba hace unos momentos que ya México pudo prepararse y programar su etapa. En ese sentido, ¿las proyecciones de la Secretaría de la Salud siguen siendo las mismas en materia de contagio, en materia de cuántas personas van a estar infectadas para junio, las cifras que usted había dado o cambian?
 Y si me pudiera decir si cambian o no y en qué porcentaje.
 Y también preguntarle, en las gráficas que nos explicó se ve exponencialmente cómo creció en Europa, sobre todo en Italia y en España, en Alemania. El distanciamiento que están teniendo allá no está funcionando. También si me pudiera contestar eso.
 ¿México o el gobierno federal ha contemplado en algún momento hacer pruebas o tiene contemplado en algún momento hacer estas pruebas rápidas como Corea del Sur?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por las preguntas, muy importantes.
 Contesto primero el tema de pruebas rápidas. Lo mismo pasó en la influenza hace 10 años, las pruebas rápidas son dispositivos de sospecha diagnóstica que, como su nombre lo indica, se procesan rápidamente y se procesan prácticamente enfrente de la persona enferma, es decir, no necesitan un procesamiento de laboratorio, pero por lo mismo son pruebas cuya calidad diagnóstica es limitada.
 Estas son dos propiedades de las pruebas, se llaman técnicamente sensibilidad y especificidad, que son la capacidad de detectar correctamente un caso que es positivo o de detectar como descartado un caso que es negativo, y estos dos elementos son fundamentales para que la prueba sirva.
 Si la prueba, por ejemplo, tuviera estas probabilidades de detectar correctamente un caso positivo y un caso negativo en menores al 60 o el 50 por ciento, es casi equivalente a echar una moneda al aire y hacer un volado.
@@ -151,17 +197,32 @@ Y estos son datos reales de muchas de las pruebas, por ejemplo, que se usan en e
 Si algún momento lo hubiera y obviamente se considerara necesario estar haciendo pruebas en forma generalizada, podría considerarse este tipo de aditamentos.
 La pregunta es sobre…
 ---
+INTERLOCUTORA
+Cómo México está preparado. Usted dice que México se preparó…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+México preparado.
+---
+INTERLOCUTORA
+¿Las proyecciones cambian en materia de infectados?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, aquí lo que tenemos son una situación que me gustaría también enfatizar una vez más: la duración de la epidemia.  Hemos dicho: preparémonos para una epidemia larga. ¿Cuánto es larga?
 Tomemos como referencia la duración de la epidemia en China, que fue de 12 semanas, seis semanas en que subió, subió, subió la cantidad de casos, y seis semanas en que empezó a bajar, bajar, bajar, y ya tiene una transmisión mínima, pero que se han mantenido por algunas semanas más.
 Esto cuando ocurre así podría considerarse la duración media de una enfermedad con estas características, corresponde con nuestras modelaciones matemáticas, pero si tenemos éxito con las medidas de mitigación comunitaria, vamos a hacer más lenta la transmisión, vamos a lograr lo que queremos, que es el número de casos diarios va a ser menor al que ocurriría si no hiciéramos nada.
 Eso lleva a un efecto quizá no tan deseable, pero mucho menos peligroso que tener muchos casos los mismos días, que es administrar el riesgo, vamos teniendo lentamente los casos, pero se prolonga la epidemia y muy probablemente podríamos estar llegando hasta septiembre u octubre con esta epidemia con un pico máximo, quizá, en el mes de agosto.
 Ahora, me gustaría darle la oportunidad a que tanto el doctor Borja, que hoy nos acompaña por primera vez, como el doctor Reyes Terán, sobre el tema de preparación, en particular en la capacidad de respuesta hospitalaria.
 ---
+INTERLOCUTORA
+Si me pudiera hablar sobre el porcentaje de casos infectados que se estarían dando en el pico de agosto.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, eso también es un elemento importante. Recuerden que lo poníamos en la tabla donde hablábamos de los escenarios, la cantidad de casos cambia de acuerdo a las medidas de mitigación.
 La esperanza es que van a ser menos casos, pero la distribución de casos leves, que es 80 por ciento; de casos que necesitan hospitalización, que es 15 por ciento; y de casos graves que necesitan terapia intensiva, que es cinco por ciento, independientemente de las medidas de mitigación.
 Doctor, si nos pudiera comentar un poco de la preparación.
 ---
 HUGO BORJA ABURTO, DIRECTOR DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Gracias. Muy buenas tardes.
 En el IMSS también hemos tomado tiempo para prepararnos en los hospitales en donde vamos a atender a los casos.
 Debemos estar preparados no sólo para los casos críticos, los que van a estar en terapia intensiva, sino el manejo de todos los casos sospechosos, de los casos ambulatorios leves y las medidas que les vamos a dar.
 Tenemos planteado las medidas, los cuidados que deben de tener en casa, todos los casos que sean, ya sea diagnósticos como positivos o diagnosticados clínicamente, porque desde ahora la definición operacional de caso contempla a los casos que tienen las características clínicas y no necesariamente tenemos que confirmarlos a todos.
@@ -177,11 +238,13 @@ También de la misma manera vamos a vigilar al país para que en las distintas r
 Por eso debemos confiar en el sistema de vigilancia que tendremos para todo el país.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Borja.
 Doctor Reyes Terán.
 ---
 GUSTAVO REYES TERÁN, TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD (CCINSHAE)
+Buenas noches.
 Me voy a enfocar en atención hospitalaria en la zona metropolitana, sobre todo… Bueno, que nosotros se ha predicho y se está observando las ciudades que contemplan alta debilidad… una densidad alta poblacional, serán las que probablemente fueran las consecuencias iniciales de la epidemia.
-Y el objetivo general de la preparación… bien el objetivo general -¿me escuchan bien?, ¿mejor?, ¿ahora?-  el objetivo general es integrar la respuesta hospitalaria para la atención de pacientes graves por COVID-19.
+Y el objetivo general de la preparación… bien el objetivo general -¿me escuchan bien?, ¿mejor?, ¿ahora?-  el objetivo general es integrar la respuesta hospitalaria para la atención de pacientes graves por COVID-19.
 Me voy a enfocar en el área metropolitana. Como les dije en un principio, los objetivos específicos es ver la capacidad de respuesta para la atención de pacientes graves de cada uno de los centros hospitalarios con un foco a los que dependen de la Comisión Coordinadora de los Institutos Nacionales de Salud y hospitales federales y los hospitales regionales de alta especialidad, que además clásicamente han sido los que han enfrentado como una primera línea de defensa para los problemas epidémicos respiratorios, particularmente, hablando de influenza.
 Cada año, el Instituto Nacional de Enfermedades Respiratorias, por ejemplo, también el Instituto Nacional de Ciencias Médicas y Nutrición son los que atienden una enorme cantidad de casos y que han enfrentado en ocasiones el sobrecupo, y han tenido que reconvertir el hospital.
 La reconversión hospitalaria, que seguramente es un término que ustedes han escuchado cada vez con mayor frecuencia, no es otra cosa más que buscar sitios en el hospital que puedan convertirse en cuartos que puedan atender pacientes en estado crítico, es decir, que tengan capacidad de que se les pueda conectar un ventilador, un monitor y que puedan con los profesionales adecuados dar la atención a los cuidados intensivos, los cuidados críticos de los pacientes, que seguramente los tendremos y los estamos teniendo en los hospitales, de hecho el INER es el instituto que en este momento tiene más pacientes hospitalizados.
@@ -194,27 +257,47 @@ Con todo eso, el número total de camas se incrementa de la fase uno de 117 cama
 Esto es en resumen lo del plan general para la reconversión hospitalaria.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Reyes Terán.
 Aquí aprovecho para señalar sobre los dos comentarios del doctor Reyes Terán y el doctor Borja. Es muy claro cómo la colaboración la interior del sector salud, tanto en las instituciones nacionales o federales como con los servicios estatales de salud, es fundamental para lograr el éxito de estas reconversiones. Aquí no se trata de hacer reconversión hospital por hospital, sino los hospitales en forma integral se consideran para estas atenciones prioritarias.
 Y regresando al tema de gobernadores que mencionaba Ángeles Cruz, de La Jornada, precisamente tenemos un caso muy exitoso en esta colaboración en la zona metropolitana y por eso decidimos apoyar la propuesta de los dos gobernantes de la zona metropolitana de crear esta unidad de coordinación en la zona metropolitana.
 Y creemos que muy pronto vamos a tener esquemas de coordinación regionales o subregionales en otras partes del país, occidente, noreste, etcétera que nos pudieran dar esta riqueza en la capacidad de preparación.
 Tenemos solo tres minutos, vamos a dar lugar a dos preguntar breves. Ustedes dos y ahí vamos a acabar.
 ---
 PREGUNTA
+Buenas noches, Patricia Rodríguez Calva, de Grupo Imagen.
 Se nos ha dicho, bueno, en la realidad es imposible tomar prueba por prueba de las personas que pudieran estar contagiadas de COVID-19.
 Mi pregunta va en el sentido… Si sólo se hace un muestreo ¿no se corre el riesgo de tener un subresgistro o una cifra negra que en consecuencia, al no saber que esa persona tiene COVID-19, pudiera contagiar a personas al no tener el aislamiento, los cuidados médicos y entonces aumentar el número de contagios? Esa es una pregunta.
 Dos, en el caso de zonas rurales, ¿qué están planteando ustedes?, porque sabemos que en México hay que acercar los servicios médicos a las comunidades indígenas y rurales, no hay centros de salud, tardan horas en llegar. ¿Cómo se va a aplicar en estas zonas este sistema para prevenir el COVID-19?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Sobre lo primero, es todo un tema muy interesante cómo funciona la vigilancia epidemiológica.
 Lo resumiré con lo que hemos dicho en otras ocasiones. La vigilancia epidemiológica Centinela es muy semejante en términos de método a las encuestas. Cuando se hace una encuesta del tema que ustedes quieran sobre preferencia, sobre situación de vida, el censo mismo… Ayer fueron a mi domicilio, por cierto, los del Inegi, que están a punto de terminar la recolección de datos para el censo; y en el censo no todas las personas reciben el cuestionario extenso, la mayoría recibimos, como fue en el caso anoche, el censo corto.
 ¿Por qué razón?
 Porque hay un número de muestra, así se llama el tamaño de la muestra, un número de personas que usando los métodos estadísticos apropiados puede representar al conjunto de la población.
 Entonces, estos son métodos que hacen eficiente… No es tanto que no se pueda, es que no es útil ir por cada una de las personas con COVID o con las características demográficas que se buscan en un censo, o cualquier otra característica.
 Sobre las zonas rurales…
 ---
+INTERLOCUTORA
+¿No corre el riesgo que aumente el contagio al no saber que una persona tiene COVID, que no esté registrada, perdón?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La respuesta simple es: las medidas de contención como la que describí, que es la medida por excelencia, esto es precisamente parte de sus limitaciones. Cuando hay muy poquitos casos y estos casos son rastreables directamente identificables, con base en sus síntomas, aquí destaco, no necesitamos la prueba para hacer las medidas de contención, las personas entran en aislamiento tan sólo por tener las características que los identifican como casos sospechosos.
 Entonces, estrictamente no se necesitaría la prueba, porque, como dijo el doctor Borja, tanto para el manejo clínico como para la vigilancia se asume que tienen COVID, a partir de ahora todas las personas con síntomas deben ser consideradas como COVID.
 La pasó la palabra al doctor Borja, epidemiólogo.
 ---
 VÍCTOR HUGO BORJA ABURTO
+A mí me gustaría recomendarles una manera… un indicador, que no depende la fracción de muestreo, si hacemos el 50 por ciento, el 100 por ciento o al 25 por ciento, y ese es el porcentaje de positividad de las pruebas.
 Actualmente vamos entre el siete y el 15 por ciento de porcentaje de positividad, en algún momento en influenza en el 2009 creo que llegamos casi al 70 por ciento de positividad, y esto es: de todas las muestras procesadas y que ya tienen resultado, cuántas sales positivas, y eso si es una muestra grande; es una muestra pequeña nos permite ir evaluando a lo largo del tiempo también cómo va la positividad.
 Y una fracción de positividad del siete por ciento hasta ahora dice que vamos empezando, y no depende si hicimos muchas o pocas muestras, sí nos indica que vamos empezando en la epidemia.
+---
+INTERLOCUTORA
+Puede llegar hasta…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Tranquilamente, tranquilamente, nos queda un minuto, entonces, vamos a responder zonas rurales, y terminamos.
+Gracias, da tiempo nada más para zonas rurales, lo demás lo dejamos para mañana.
+Zonas rurales ha sido muy afortunada por muchísimas razones: el apoyo de las Fuerzas Armadas. Las Fuerzas Armadas tienen una extraordinaria experiencia en la planeación del territorio.
+Y esto lo que nos ha permitido es poder identificar cuáles son las rutas de acceso, las rutas de desplazamiento, las separaciones físicas que existen entre los distintos asentamientos humanos que en las zonas rurales pueden ser dispersos y con eso estamos planeando, lo que decía el doctor Borja, no va a ocurrir todo al mismo tiempo, esto va a estar ocurriendo en forma de parches en el territorio nacional.
+Y el planear anticipadamente también es una oportunidad magnífica porque podemos planear la logística de asistencia, no solamente en términos de salud, sino en otro tipo de asistencia para la vida diaria.
+No quiero dejar de mencionar los programas sociales del gobierno federal, porque precisamente la Secretaría del Bienestar, la secretaria María Luisa Albores con su fabuloso equipo, Gabriel García, la subsecretaria Ariadna Montiel, todo el equipo, Adán Peña, tienen muy bien identificado también el territorio y esto nos permite activar los mecanismos, tanto de comunicación del gobierno hacia la población como de la población hacia nosotros o enlazar incluso el apoyo en el nivel del territorio entre las comunidades, y esto nos da enormes posibilidades para poder proteger a esta población más vulnerable.
+Aquí terminamos. Muchas gracias, nos vemos mañana.

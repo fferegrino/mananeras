@@ -3,6 +3,7 @@ Presidencia de la República
 13 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches.
 Son las 19 horas con un minuto, sábado 13 de junio de 2020 y estamos en el Palacio Nacional en México, en la Ciudad de México, vamos a iniciar la conferencia de prensa diaria sobre la situación del coronavirus SARS-CoV-2, que causa la pandemia de COVID-19.
 Hoy vamos a enfocarnos al informe técnico y el doctor Ricardo Cortés nos hablará de nueva cuenta sobre los conceptos de la sana distancia, de por qué es tan importante la sana distancia. Esto es especialmente importante porque conforme empezamos a incorporar actividades del espacio público, en el espacio público es muy importante visualizar las oportunidades que tiene cada persona de seguir manteniendo el mecanismo principal de prevención, que es la sana distancia.
 Voy a presentar entonces yo el informe técnico. Hace 13 días iniciamos este nuevo periodo que le hemos llamado Nueva Normalidad, que se caracteriza por identificar el riesgo de COVID, el riesgo de trasmisión para cada estado, para cada entidad federativa y utilizamos el sistema del semáforo, el semáforo COVID, que identifica distintas características que hacen visualizar la importancia de la prevención de la trasmisión, es decir, del contagio en las distintas entidades federativas de acuerdo a su nivel de trasmisión del virus, la saturación posible de los hospitales, así como la tendencia de ocupación y de ocurrencia de casos.
@@ -61,6 +62,7 @@ Afortunadamente, excepto un angustioso fin de semana que tuvimos hace dos semana
 Le pido al doctor Ricardo Cortés si nos comenta el otro tema y después abrimos a preguntas y respuestas.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Con mucho gusto, doctor López-Gatell. Muchísimas gracias.
 Muy buenas tardes a todas y todos en casa.
 Vamos a empezar con el efecto de Susana Distancia. ¿Cuál es el efecto de Susana Distancia?
 Es el aplanamiento de la curva. Esta es una representación esquemática de lo que significa aplanar la curva y tiene diferentes componentes: la carga de la enfermedad, el tiempo y tiene cuatro líneas aquí.
@@ -77,7 +79,7 @@ El espacio social es en el que convivimos un poco más, compañeros de trabajo, 
 Y al final de cuentas el espacio público, en donde estamos todos, en donde no quisiéramos estar tan pegados para que otras personas que no pertenecen a nuestro espacio personal no lo invadan.
 Entonces, es por eso también que el logo de Susana, el logo de Susana Distancia es este círculo rodeado de otros dos círculos y con las iniciales de Susana Distancia.
 Cuando nosotros salgamos al espacio, cuando nosotros estemos preparados para salir al espacio, inclusive cuando salgamos actualmente al espacio público a hacer compras -recordemos que estamos en semáforo rojo y sólo hay que salir si es indispensable- hay que cuidar estos espacios, hay que cuidarlos entre nosotros, no acercarnos, no estar de frente, etcétera.
-Entonces, así es como recordamos   que Susana Distancia, ampliando sus brazos, junto con otra persona que también al mismo tiempo amplía sus brazos, se establece este espacio de al menos metro y medio entre eje y eje, entre persona y persona.
+Entonces, así es como recordamos   que Susana Distancia, ampliando sus brazos, junto con otra persona que también al mismo tiempo amplía sus brazos, se establece este espacio de al menos metro y medio entre eje y eje, entre persona y persona.
 ¿Esto por qué es importante?
 Porque el coronavirus y otras enfermedades respiratorias se transmiten a través de las gotas de saliva. Si yo estornudo ahorita aquí, mi estornudo, si no lo hago correctamente, con etiqueta respiratoria, que sería tapándome nariz y boca, si yo no hago eso, mi saliva va a caer máximo a metro y medio de mí; eso quiere decir que la persona que está frente de mí, si al menos está a metro y medio o dos metros, no corre riesgo o su riesgo se minimiza al máximo de que le lleguen mis gotas de salva contaminadas en el caso de que yo tuviera coronavirus o algún otro virus respiratorio.
 El semáforo, el semáforo de riesgo epidémico. El rojo es de cuidados máximos, por eso tiene un escudo y hay que seguir cuidándonos al máximo; el naranja es de ajustes y preparación. Ya lo dijo la jefa de Gobierno, Claudia Sheinbaum: hay que prepararnos, hay que ir haciendo ajustes, hay que hablar con la gente, hay que hablar con locatarios, hay que hablar con empresarios, hay que hablar con todos para ir ajustando y preparándonos.
@@ -94,11 +96,16 @@ Y, finalmente, no hay que compartir noticias falsas.
 ¿Quieres usar cubrebocas? Cierto, me olvidaba, ¿quieres usar cubrebocas? hay que aprender a usarlo también, esta infografía está ya disponible también en nuestra página de internet, coronavirus.gob.mx, en donde la pueden ver, la pueden descargar, la pueden revisar, para poder aprender a utilizar el cubrebocas correctamente, para poderlo utilizar bien, para que sea realmente una barrera protectora y que no se convierta en un fómite contagiante o vehículo que pudiera contaminar a mi persona o los demás.
 Muchísimas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés. Vamos a abrir a preguntas y respuestas. Usted, Carlos, usted, usted.
+---
 PREGUNTA
+Alejandro Arcos, de Plenilunia.
 Doctor, hemos tratado muchos temas, pero en el tema de residuos peligrosos biológicos, dentro del manual del IMSS no viene muy detallada la información. ¿Qué medidas se van a implementar para que los estados y distintas entidades puedan manejar estos residuos adecuadamente y no se conviertan en un foco de infección?
 Y también, es muy importante cuáles son los cambios que se tienen que hacer en los primeros auxilios que todos hemos aprendido para precisamente coexistir con este virus.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, qué bueno que hace estas preguntas.
 Sobre residuos peligrosos biológicos infecciosos, RPBI, que es la denominación técnica, de todo el material que se utiliza en la atención de personas, y se llama así porque los cubrebocas, las jeringas, las gasas, todos los materiales textiles que se utilizan en la práctica de la atención de la salud, tienen siempre que considerarse como con la probabilidad alta de que pueden tener un agente causante de infecciones, no sólo por el COVID, por eso lo digo, por eso quise dejar en claro en esto.
 Todo el tiempo en la práctica de la salud obviamente -de la atención de la salud- obviamente puede existir personas que tengan algún agente infeccioso y que este quede depositado en cualquiera de estos, un algodón, una gasa, etcétera.
 Existen protocolos técnicos, no es un protocolo específico de COVID ni es específico del IMSS, hay lineamientos técnicos que son muy conocidos, de hecho, formalmente establecidos en los establecimientos de salud y deben ser seguidos invariablemente.
@@ -111,17 +118,23 @@ Definitivamente puede significarlo.
 En la medida en que no se involucre directamente la vía respiratoria, es decir, que a veces hay un procedimiento de auxilio básico que incluye la famosa respiración boca a boca, este procedimiento sigue siendo vigente en las recomendaciones de los primeros auxilios básicos, de la atención de soporte vital básico, es inusual que se requiera hacer, pero cuando se requiere hay que hacerlo y obviamente eso implica un altísimo riesgo de contagio.
 Si no se requiere ese procedimiento y hay otros, y existe la posibilidad mínima de al menos con algún elemento de tela poner una barrera física podría ser que ayude algo, pero, como hemos dicho, la posibilidad es baja. Pero bueno, es un planteamiento importante
 ---
+RICARDO CORTÉS ALCALÁ
+Para quien esté preparado para dar este tipo de auxilios, de primeros auxilios, respiración de boca a boca cuando se requiera, el que esté capacitado para hacerlo existen algunos dispositivos también plásticos que se ponen sobre la boca de la persona a la que uno le va a brindar el auxilio y tiene una válvula que sólo permite la entrada del aire para poderle dar respiración de boca a boca y que no se contamine la persona que está dando el auxilio.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Exacto, el personal especializado.
 La doctora Alethse de la Torre, que acabo de invocar, me hace un recordatorio aquí. La Norma Oficial Mexicana 087, que es una norma conjunta con Semarnat, la Secretaría de Medio Ambiente, es la que especifica precisamente los procedimientos de los residuos peligrosos biológico infecciosos. Es una norma vigente, tiene mucho tiempo de existir, y ahora la están revisando precisamente Cofepris y Semarnat, que son las dos entidades responsables de esta norma. Muchas gracias.
 Carlos, por favor.
 ---
 PREGUNTA
+Qué tal doctor, muy buenas noches. Carlos Guzmán de Aba Noticias.
 Dos preguntas. La primera para usted, creo que es importante lo que acaba de mencionar hace un rato que estaba dando las cifras. El día de hoy, aunque se mencione que es por fin de semana, finalmente se logra el número más bajo de contagios a nivel nacional, que es lo que está destacando usted. Creo que es importante que nos precise en qué entidades se está logrando esto.
 Y si es posible, el pronóstico que se tenga para cuándo comenzará finalmente esto que decía, que la curva ya se empiece a aplanar.
 Y la segunda para el doctor Ricardo. Platicábamos con usted en la semana con relación al tema deportivo que usted lleva muy, muy bien con la Liga Mx, si nos puede actualizar los números de los clubes deportivos de futbol Primera División de la liga profesional, ¿cuántos le han reportado que han dado positivos coronavirus?, ¿qué es lo que recomienda la Secretaría de Salud?
 Y también, si nos puede hablar nuevamente si la fecha tentativa de inicio de la Liga Mx se mantiene. Gracias
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Carlos. El número más pequeño del porcentaje de cambio en los casos nuevos, eso es lo que vemos hoy, 2.5, el más pequeño desde que empezó el periodo de crecimiento exponencial. Está claro que antes de… en las primeras semanas de marzo era muchísimo más pequeño.
 A nivel nacional, cuando sumamos todos los nuevos casos es el número más grande, porque la epidemia sigue creciendo, si tomáramos el conjunto de los casos que se suman diariamente en el país.
 Y relacionada con la segunda pregunta, no existe una sola epidemia en el país, países geográficamente extensos tienen múltiples epidemias, y a pesar de que la expectativa de algunas personas es que se puede identificar un día específico, quizá una hora específica en dónde ocurrirá el número máximo de casos, hemos dicho repetidamente que esto no tiene un sentido técnico.
 La expectativa nos parece legítima en términos del deseo de encontrar cuál es el punto donde ya cambiará la curva, eso técnicamente se llama el punto de inflexión, pero no es un solo día a una hora precisa, es a lo largo de varios días hay fluctuaciones, y se pueden presentar 20, 30 casos, 40 casos, 50, un número equis de casos que a veces son menores, al día siguiente vuelven a ser mayores, otra vez viajan, pero en promedio hay una zona en donde ya la curva entra en una estabilidad.
@@ -130,30 +143,37 @@ Entonces, quien quiera que siga abrigando la idea, ya sea la ciudadanía o los m
 En resumen, la epidemia empezó el 28 de febrero y terminará en octubre, en algún momento de octubre, es la predicción.
 Y la otra que también es importante tener en mente, las predicciones o proyecciones matemáticas no son un acto de magia, son una proyección, una predicción que utiliza métodos robustos para intentar tener una representación de un fenómeno que en sí mismo tiene una enorme incertidumbre, igual que la predicción de huracanes, igual que la predicción de terremotos, de la actividad volcánica, muchos fenómenos, casi la gran mayoría de los fenómenos en los que vivimos todos los días están en incertidumbre.
 Gracias, Carlos.
-MX.
 ---
 RICARDO CORTÉS ALCALÁ
+Liga MX. Sigue siendo el mismo número de personas a las que se les encontró el virus SARS-CoV-2, no son casos, no han presentado signos y síntomas, son hallazgos por búsqueda intencionada para ver si han o no han tenido contacto con el virus.
 Hemos hecho énfasis en que las personas a las que se les encuentre el virus, que resulten positivos al virus, si no tienen una carga viral y un reporte del número de veces que el laboratorio tuvo que amplificar su muestra para saber si es o no es contagioso de acuerdo con los datos de Cevece, 10 días después de tomada la prueba y el hallazgo de un resultado positivo esa persona se da de alta como un potencial contagiante, reitero, que si estas personas potencialmente contagiantes por ser asintomáticos y portadores del virus SARS-CoV-2 mantienen una sana distancia de al menos metro y medio o dos metros no van a contagiar a nadie, si se siguen lavando sus manos, si utilizan el cubrebocas dato que su saliva si contiene el virus, y si estornudan o tosen y se tapan su nariz y boca.
 Entonces, la fecha no ha cambiado, la fecha persiste, está la Liga Mx, los clubes están revisando a todos sus jugadores, si alguno resultara de nuevo con un hallazgo de prueba positiva, seguramente -y ya está cercano el inicio del torneo- seguramente esa persona quedará aislada en casa y el torneo iniciará con otros jugadores.
 Recordemos también que los equipos tienen suficientes jugadores como para iniciar la liga como lo tienen planeado. Muchas gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Por favor, usted, la compañera, usted.
+---
 PREGUNTA
+Si, buenas tardes. Óscar Sosa, de EnRédate Digital.
 El Hospital Homeopático Nacional es el hospital más grande de Latinoamérica, además los médicos que laboran ahí estudiaron en medicina convencional y además una especialización en la misma materia. Se acercó personal de este hospital renovado y nos mencionan que no se le ha dado ese impulso porque dan atención de segundo nivel a los pacientes, ¿por qué no se ha utilizado también para el combate al COVID? Esa sería una pregunta.
 La segunda sería también: ¿ustedes han firmado o han hecho algunos convenios para realización de cubrebocas?
 En ese sentido, nos mencionan si esos van a utilizados para personal que tienen que atender todo lo que tiene ver con el COVID o para el personal de salud en general.
 Sería todo. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Qué amable, muchas gracias. Sobre el Hospital Homeopático Nacional, efectivamente, es un hospital que tiene ya varios años de existencia, décadas, y es parte de la Secretaría de Salud, específicamente se coordina con la dirección de hospitales federales, y hasta donde tengo conocimiento sigue activo haciendo sus funciones.
 Y no fue considerado como un hospital COVID precisamente porque, al igual que varios otros, interesa mantener la continuidad de operaciones de otros elementos de la atención. Si en momento dado todo se volviera COVID, no podríamos atender lo que no es COVID. Entonces, varios hospitales no fueron considerados COVID. En el país hay, en el sector público, más de dos mil 600 hospitales, y solamente estos 753 son los considerados COVID, y de hecho, aquí se incluye hospitales que operan los servicios Sedena y de Semar. Entonces, es un conjunto pequeño.
 Sobre cubrebocas, las adquisiciones tienen un proceso continuo de todos los insumos para la salud, las que se han hecho públicas o hemos comentado aquí, a veces por iniciativa propia periódicamente informamos o a veces porque surge la pregunta, son adquisiciones específicas para el operativo de COVID. Gracias.
 La compañera, el compañero y Dulce Soto.
 ---
 PREGUNTA
+Gracias, doctor. Gisela Ayala, Diabetes hoy.
 ¿Qué recomendaciones en materia de grupos vulnerables, diabetes, hipertensión, obesidad, se emitirán para retorno laboral?
 Y si habrá alguna protección o garantía en esta materia cuando pasemos en Ciudad de México al naranja. ¿Seguirá la recomendación para que estos grupos no regresen todavía, se queden en casa?, ¿hay alguna garantía para que no sean despedidos o para que puedan hacer valer frente a empleadores? Esa es la primera.
 La segunda, rápidamente, recordarle que teníamos pendiente respecto a políticas públicas en materia de diabetes, hipertensión y obesidad. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Le contesto sobre la primera, las personas que tienen diabetes, hipertensión, obesidad y otras condiciones de salud que hemos mencionado varias veces tienen un riesgo mayor de complicaciones por COVID, igual las personas que tienen más de 60 años o 60 y más años, y por eso fueron consideradas cuando se estableció la Jornada Nacional de Sana Distancia como personas que debían estar en posibilidad de excluirse del espacio laboral sin tener sanción alguna y esto ni el sector público ni en el privado, ni en el social.
 Y se contempló también que una vez que se empiece a regresar a la Nueva Normalidad, desde luego el riesgo intrínseco de las personas no cambia, pero la progresión del semáforo es consecuencia de la disminución del riesgo epidémico.
 Entonces, en las disposiciones del semáforo anaranjado, tal como está en el color naranja, tal como está estipulado en lo que se publicó en el Diario Oficial, el acuerdo de la Secretaría de la Salud que se publicó en Diario Oficial el 15 de mayo, donde se publicó el semáforo se contempla el tener especiales cuidados para las poblaciones que están en esta condición.
 La parte técnica de estos especiales cuidados están en los lineamientos que tenemos en la página coronavirus, hay varios: el de prevención de infecciones, el de manejo clínico y también de vigilancia epidemiológica que lo señala como grupos de riesgo.
@@ -161,11 +181,13 @@ Sobre políticas públicas para la prevención de obesidad. Lo que pediría es u
 Lo que sí le puedo decir es que siga la pista a Gisamac, Grupo Intersectorial de Salud, Alimentación, Medio Ambiente y Competitividad, es este consorcio de entidades públicas y sociales del gobierno, que establecimos el 14 de febrero de 2019. Tenemos todo un repertorio de actividades, está próximo a salir una publicación del Gisamac donde se presenta el mapa completo de estas políticas públicas. Gracias, Gisela. Colega y Dulce Soto.
 ---
 PREGUNTA
+Buenas tardes. Arturo Contreras de Pie de Página.
 Ahora con el… ayer nos comentaban sobre el cambio en cómo se determina el semáforo con la anuencia de los gobernadores y se cambiaron algunas metodologías, se cambió un poco el método.
 En Quintana Roo nos dicen que el regreso, a pesar que están en el naranja, que es de preparación, como dicen ahora, no ha sido nada paulatino, sino que están abriendo actividades esenciales que consideran muchas y el regreso ha sido como más precipitado. Entonces, ¿qué pasa ahí?
 Y ahora que comentaban sobre las actividades deportivas de la Femexfut en este caso, el regreso a la Nueva Normalidad de personas deportistas, recomendaciones para gimnasios, para albercas, ¿qué tipos de cuidados se deben tener en estos momentos? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Todavía no hablamos de gimnasios y albercas porque ahorita no deben operar, así de simple. Y ahorita me pongo a explicarlo vamos a crear confusión.
 Sobre velocidades de regreso a la normalidad, uno de los elementos que nos interesa que quede claro es la prevención de un fenómeno como este o de cualquier otro fenómeno de salud, requiere una participación de todas y todos.
 Es decir, la perspectiva de que el gobierno con una disposición administrativa, ya sea el gobierno federal o estatal o el municipal va a resolverse, se va a encargar de la epidemia es limitada. Es limitada porque aun cuando empiece a disminuir el riesgo epidémico y progresemos de los semáforos rojo, naranja, amarillo, verde, el riego epidémico en el mundo entero seguirá vigente, y no sólo para esta enfermedad, cuando empiece octubre empezará también el riesgo epidémico de la influenza.
 ¿Cuál es la manera de prevenir la influenza?
@@ -176,7 +198,24 @@ La población es mayor de edad, excepto quienes son desde luego menores de edad,
 Dulce Soto.
 ---
 PREGUNTA
+Buenas noches.
 Quiero preguntarle si les han dado alguna explicación de por qué Nuevo León y Coahuila presentan, son estos estados que presentan más rezago en el reporte de la información y de los casos, ¿a qué se debe?
 Y si nos puede detallar que otros estados también tienen rezago después de estos dos.
 Y la siguiente era, solamente, recordarle cuándo podría presentar otra vez datos sobre los casos de las infecciones respiratorias agudas graves que se han registrado en todo lo que va de 2020 y también los decesos por estas infecciones, todos, sé que había hecho una presentación previa.
 Por favor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, la preparamos en el curso de la semana, ya hay seguramente datos de mayo, porque en los cortes de información de los registros de defunción no es la estadística oficial, está a cargo del Inegi, y esa tiene un proceso muy sofisticado que cumple estándares internacionales muy altos del sistema de la clasificación internacional de enfermedades, pero el registro inmediato de mortalidad de las causas que no son relacionadas con muerte violenta, sí las compila la Secretaría de Salud, y yo creo que ya debemos tener información de mayo y entonces actualizaríamos, habíamos presentado hasta abril, con mucho gusto.
+¿Por qué este retraso de la notificación?
+Hay muchas razones, a veces son técnicas, y es el proceso del diagnóstico y la confirmación, pero muchas otras veces es simplemente la comunicación. Hemos platicado varias veces, la Secretaría de Salud federal es la responsable de compilar la información de la vigilancia epidemiológica, hay un sistema que se llama así, Sistema Nacional de Vigilancia Epidemiológica, que en su forma contemporánea se estableció en 1995, pero México tiene vigilancia epidemiológica desde 1888.
+Y el ejercicio consiste en que las unidades de salud, los hospitales, por ejemplo, cuando se detectan casos de COVID que todavía no se les hace la prueba, sino que se les reconoce por sus condiciones clínicas, fiebre, tos, dolor de garganta, etcétera, las personas profesionales de la salud, los médicos y médicas, identifican a estos casos; y generalmente hay o debe haber en todos los hospitales una unidad de vigilancia epidemiológica hospitalaria, que es la responsable de integrar esta información.
+Antiguamente se le notificaba del hospital a la jurisdicción sanitaria, de la jurisdicción sanitaria a la Oficina Estatal de Epidemiología, y de la Oficina Estatal de Epidemiología a la Dirección General de Epidemiología, la que dirige el doctor Alomía, y ese procedimiento se hacía en transacciones de papel, se registraba un formato, el formato se compilaba en los distintos formatos de cada paciente, se mandaban a jurisdicción, de la jurisdicción al estado, etcétera.
+Desde hace ya varios años tenemos plataformas electrónicas, de modo que desde el punto de origen en el hospital, la Unidad de Vigilancia Epidemiológica es la que es responsable, obviamente los directores y directoras de los hospitales son a su vez responsables de supervisar que ese proceso ocurra, ingresan a la plataforma, y en esta plataforma que se llama red Sisver o Sistema de Vigilancia Epidemiológica de Enfermedad Respiratoria, red Sisver, o sistema de vigilancia epidemiológica de enfermedad respiratoria, ingresan la información correspondiente a los casos.
+Y en otra plataforma informática que se llama red IRAG, notifican diariamente números de ocupación de las distintas camas, y esa es la otra información que presentamos aquí.
+A veces hay retrasos por distintas razones prácticas, pero cuando hay un retraso tan consistente o tan persistente, pues es importante investigar a qué se debe. Hasta el momento no tenemos una explicación, ni de la secretaría de Salud de Nuevo León ni de la Secretaría de Salud de Coahuila, que son las que a lo largo de ya 10 días han tenido una proporción de casos sospechosos mayor incluso que la cantidad de casos confirmados y esto es algo que es difícil de pensar, que es sólo por una peculiaridad de la presentación de la epidemia. Gracias.
+Son las 19:59 horas, aquí terminamos.
+Sólo quisiera una última frase. Recordarle a la población que aun cuando los semáforos de la entidad en la que usted vive pasaran a naranja no se ha acabado la epidemia, no se va a acabar pronto, todavía en la entidad en la que usted vive, lo más probable, todas tienen una actividad epidémica, algunas empezarán a salir de esta intensa actividad epidémica y en todo momento usted puede hacer algo para proteger su propia salud, la salud de las personas de su familia y de sus allegados, y en general de la comunidad.
+Lávese continuamente las manos todas las veces que pueda, hágalo con agua y jabón, si no hay agua y jabón utilice alcohol gel, cuando salga a la calle hágalo solamente si tiene que hacerlo; si no hay una razón indispensable para hacerlo quédese en casa, todavía es importante quedarse en casa.
+Y tercero, también muy importante, conserve sana distancia, sana distancia para el tema de COVID. La epidemia que estamos viviendo implica que la vía respiratoria, su nariz, su boca, su cara, no esté cerca de la cara de otra persona, que estén por lo menos, como ha dicho el doctor Ricardo Cortés, deseablemente a dos metros. Póngase a platicar si lo necesita, pero entre más cortito el tiempo de plática mejor y definitivamente a dos metros.
+Si a usted le sorprende un estornudo y no puede contenerlo no lo tape con las manos, tápelo con el brazo, ‘achú’, igual la tos. Esto debe permanecer por siempre, por siempre, no solamente ahorita, por siempre.
+Muchas gracias.

@@ -3,6 +3,7 @@ Presidencia de la República
 08 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 horas de hoy miércoles 8 de abril de 2020. Estamos en la Ciudad de México, en el Palacio Nacional y vamos a iniciar la conferencia de prensa diaria sobre la situación de la epidemia, la pandemia de COVID, la enfermedad que causa el nuevo coronavirus 2019.
 Hoy vamos a centrarnos en dos elementos:
 Uno es el informe técnico diario sobre la situación epidemiológica del mundo y en México.
 Y queremos compartir lo que habíamos platicado hace 10 días, que traeríamos, ya está listo, y es la estimación del modelo Centinela. ¿Se acuerdan que habíamos comentado de esto?
@@ -10,6 +11,7 @@ Nos interesa mucho que se entienda con claridad qué significa la estimación de
 Le pido al doctor Alomía si nos conduce por el informe primero.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Gracias. Buenas tardes a todas y todos.
 Nuestro panorama internacional, enfocamos, como siempre, en la carga de enfermedad en los últimos 14 días. Si pueden ver, continúa disminuyendo, ayer la teníamos en 71, 72 por ciento, hoy día ya está en 69 por ciento. Quiere decir que de alguna manera se empieza a reducir la carga o cantidad de personas que se están activamente enfermando; es decir, en los últimos 14 días, en base al periodo de tiempo conocido para la mayor incubación de la enfermedad.
 Y en relación precisamente a dónde se está llevando la mayor carga, en qué región, es decir, en las últimas 24 horas, nuevamente Europa y América continúan digamos que disputando el primer lugar, prácticamente ya emparejándose entre un 46 y 45 por ciento de todos los casos confirmados en las últimas 24 horas en el mundo, siguen están prácticamente a la par.
 Y bueno, continuamos viendo la tendencia ascendente que tiene la región de América, que es precisamente donde se está desenvolviendo o donde la mayoría de los países están en este momento entrando a su fase epidémica y Europa lógicamente empieza a contraer la carga día con día.
@@ -31,6 +33,7 @@ Y volvemos a notar el día de hoy también, y en función ya prácticamente de l
 Hasta aquí el panorama de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Perfecto. Enseguida vamos a mostrar algunos datos complementarios que tienen que ver con estos otros elementos que informan sobre lo que está ocurriendo con la epidemia.
 Aquí quisiera empezar comentando de manera panorámica lo siguiente. La información que uno necesita para el manejo de una epidemia -si quiere quítenmela tantito para no distraernos, ahorita regreso a esto- quisiera comentar esto.
 Cuando uno tiene un fenómeno como una epidemia, uno necesita tener información de cómo se está comportando esta epidemia. Y el comportamiento tiene que ver con muchos elementos que provienen de la observación directa y otros que se infieren por la observación directa y el razonamiento de cómo ocurren las cosas.
 Básicamente -aquí esta- es una infección que se transmite de persona a persona. La última diapositiva la trajimos también para ilustrar de una manera muy visual cómo ocurre la transmisión persona a persona, porque hemos detectado que sigue habiendo confusión sobre qué quiere decir el mecanismo de transmisión persona a persona. Entonces, lo van a ver de manera muy gráfica, pero esa es la última diapositiva, antes entremos de regreso a las estimaciones
@@ -117,12 +120,20 @@ Porque está en fase ascendente la epidemia de COVID.
 Tanto las neumonías como las infecciones respiratorias, las neumonías van a representar a los graves, las infecciones respiratorias agudas a los no graves, y es clarísimo, lo hemos venido diciendo, que desafortunadamente no hay manera de parar la epidemia, solamente hay manera de reducirla si nos quedamos en casa y no salimos. Esa es la interpretación.
 ¿Qué hora es?, para que les dé tiempo de hacer preguntas.
 ---
+PREGUNTA
+(Inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Por cualquier causa por determinar.  Qué bueno que lo pregunta, Blanca.
 Este es un registro que no está asociado con hacer pruebas, no necesitamos aquí hacer pruebas porque no pretendemos hacer pruebas. Y miren qué cantidad, cinco mil, seis mil y esto es sólo tres cuartas partes; si yo pusiera el 100 por ciento, estamos llegando como a siete mil 500 en tan sólo esta semana, más la otra, más la otra, más la otra, cada año hay decenas, de hecho centenas de miles de neumonías por todas las causas posibles, algunas se identifican y se sabe la causa, muchísimas no se identifica la causa, aunque se le hagan pruebas de distintos microrganismos.
 La siguiente y última, las cifras. Usando el método que estoy comentando y que quisiera recordar a la audiencia, -las periodistas lo conocen muy bien, las y los periodistas- en la vigilancia Centinela de influenza, ¿se acuerdan lo que dije de las encuestas?, 127 millones de personas y tenemos tres mil 500 personas que fueron entrevistadas, aquí es semejante. En el país existen 26 mil unidades de salud, unidades de salud de medicina familia, centros de salud, rurales y urbanos, hospitales pequeños, medianos y grandes, 26 mil.
 En la vigilancia Centinela hay 300, ¿cuántas son en este momento, estimado José Luis?
 ---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Trescientos setenta y cinco.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Trescientos setenta y cinco unidades de salud monitoras de influenza, que ya cambiaron de nombre y ahora se llaman unidades de salud monitoras de enfermedad respiratoria.
 ¿Por qué cambiaron de nombre?
 Porque incorporamos a COVID en el mismo método de vigilancia, 375 comparadas con 26 mil.
 Alguien que no sepa de epidemiología diría: ‘¿Cómo es posible que sólo 375 si en el país hay 26 mil?’ Porque tenemos información de las dos cosas, tenemos en la gráfica de colores que acabo de mostrar información de las 26 mil, pero queremos hacer la demostración por laboratorio en las unidades monitoras de enfermedad respiratorio, y además queremos tener el detalle de las condiciones clínicas de estas personas: si tiene diabetes, si tiene hipertensión, si fuman, si tienen enfermedad pulmonar obstructiva crónica, cuál es su edad, cuándo empezaron los síntomas, cuáles fueron esos síntomas, cuánto tardaron en tener alguna complicación si es que la tuvieron, si es que se hospitalizaron, cuánto duró la hospitalización, etcétera, etcétera, etcétera.
@@ -147,6 +158,7 @@ Va a haber poco tiempo para preguntas. Empecemos Melina y el compañero que ayer
 No nos va a dar tiempo, vean la hora, tres preguntas: Melina, usted y usted.
 ---
 PREGUNTA
+Buenas tardes, subsecretario.
 Primero, sobre este comunicado de la Secretaría de Salud que justamente emitió esta tarde explicando que no recomienda el uso de arcos y túneles sanitizantes, pero que estos han proliferado por ciudades en todo el país.
 ¿Cuál es la diferencia entre el mecanismo de estos túneles y su relación con la propagación del COVID-19 y la sanitización de espacios públicos, incluso aquí afuera de Palacio Nacional, mercados, transporte público, patrullas?
 ¿Qué deberían hacer las autoridades?, ¿quitar estos filtros o que los ciudadanos no pasen?
@@ -154,6 +166,7 @@ Y respecto a este modelo Centinela que nos está dando este resultado de casos p
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Voy a la primera y enseguida a la segunda.
 Los túneles, efectivamente, de repente empezaron a aparecer en incluso hospitales federales aquí en la Ciudad de México y en algunas plazas públicas, en la zona sur en particular, y luego vimos también que en un estado del norte empezaban a aparecer.
 Si no fueran un riesgo no habríamos dicho nada, sólo habríamos dicho se está desperdiciando el dinero, pero sí tienen un riesgo. Las técnicas de sanitización de espacios físicos o de las personas acuden a espacios físicos tienen características técnicas específicas.
 Estos túneles, para quien no los haya visto, son unos literalmente túneles, es una rueda monumental de tamaño donde cabe una persona, tienen aproximadamente tres metros de altura o dos metros altura de diámetro y tienen unos tubitos por los que se produce un aerosol con una sustancia desinfectante, y hay distintas sustancias desinfectantes. Entonces, la persona pasa y le echan ahí un aerosol.
@@ -166,52 +179,141 @@ A lo largo de experiencia de todos estos años, el sistema de vigilancia Centine
 Alguien podría decir: ‘Ah, pero entonces ya ustedes son mucho más que varios países latinoamericanos que tienen mil y tantos’. No, nosotros reconocemos explícitamente que tenemos 26 mil, cualquier otro país que tengan solamente los casos observados también hay que corregir y multiplicarle por un número no necesariamente idéntico que el de México, pero por un número parecido, 10, 12 casos observados por cada uno.
 Y en los países donde muy desafortunadamente han tenido enormes epidemias también habría que multiplicar esos casos por un factor semejante. Es específico para cada país y hay que estimarlo. Pero digamos, un país que hoy tuviera 300 mil casos observados directamente y demostrados por laboratorio, con un factor de corrección como este tendría tres millones de casos.
 ---
+PREGUNTA
+Estamos diagnosticando el 12 por ciento de COVID.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Lo que estamos observando representa 10 o 12 veces más, esa es la interpretación.
+---
+INTERLOCUTORA
+Para no equivocarme, es el 12 por ciento considerando que 26 mil 519 son las personas que no están dentro de la numeraria de COVID.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Se interpreta exactamente al revés. Las personas que pueden ser directamente observadas son tres mil y tantas, pero cada una de ellas representa a otros 12, vamos a redondearlo, que no fueron a consulta, que no tenían síntomas en el momento de la consulta, que su médico no identificó que cumplían la definición de caso, etcétera, etcétera.
+---
+INTERLOCUTORA
+Entonces, es el 12 por ciento de lo que sí tenemos registrados como COVID.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ocho veces, ocho veces, ocho veces de lo que se ve, la epidemia es ocho veces más grande, lo cual no cambia, no cambia las decisiones, y por eso retomé su memoria. Cuando teníamos tan sólo 12 casos con esta exploración sistemática fue suficiente para tomar la decisión: hoy empiezan las medidas de mitigación masivas.
+---
+PREGUNA
+Doctor, ¿si los otros se llaman casos confirmados, estos se pueden decir casos estimados?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Estimados, es correcto, estimados.
+---
+INTERLOCUTORA
+¿Y estos también…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Esperen, esperen, ya se están saltando el orden y está el compañero, y quedan dos minutos.
+---
+PREGUNTA
+Estos 26 mil 519 casos estimados, ¿podríamos considerar que pueden estar aislados?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, no está aislados, porque si los hubiéramos visto los habríamos puesto en elemento. Pero gracias por la pregunta, aunque se saltó el orden, vamos a darle un buen punto.
 Recuerden lo que dijimos en fase 1 y fase 2. Al inicio uno tiene una realidad muy manejable, porque hay muy poquitos casos; entonces, de los casos observados uno los pone en aislamiento, pero dijimos desde la fase 1: Llegará el momento en que sean tantos casos que no habría manera ni tendría sentido intentar poner en aislamiento a cada uno de ellos. En el momento en que ya no es práctico a cada uno de ellos, decirle: ‘caballero, póngase aquí en aislamiento’, uno toma una decisión masiva y dice: quédate en casa, quédate en cada, todos, quédate en casa, porque uno se anticipa a los contagios masivamente.
 Última pregunta allá, el compañero.
 ---
-PREGUNTA
-Si la transmisión la tienen que acabar en dos minutos, acaben la transmisión y seguimos platicando.
+INTERLOCUTORA
+¿En los decesos aplica el modelo Centinela?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, si quiere mañana le elaboramos más sobre decesos.
 ---
 PREGUNTA
+Doctor, permítame hacerle una propuesta, por favor, ¿si? Hay muchas dudas, pero lo que presentó es muy complejo, entonces, por favor.
+Si la transmisión la tienen que acabar en dos minutos, acaben la transmisión y seguimos platicando.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Y seguimos platicando? Yo no tengo inconveniente.  ¿Se puede?
+---
+INTERVENCIÓN
+No
+---
+INTERLOCUTOR
+¿Por qué no?  O sea, es un programa.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nos podemos quedar unos minutitos, aunque se acabe la transmisión, el público ya no verá la conversación, pero creo que es razonable, ustedes tienen que hacer sus notas y podemos tomarnos unos minutos. Entonces, última pregunta al aire y luego seguimos. Perfecto, por favor.
+---
+PREGUNTA
+Gracias, doctor. El Consejo Ciudadano para el VIH e Infecciones de Transmisión Sexual de la Ciudad de México envió una carta el presidente López Obrador y al secretario de Salud sobre su preocupación del cierre de diversos servicios por la emergencia sanitaria y advierten que estos casos de VIH podrían repuntar durante la contingencia.
 ¿Ya tienen alguna postura que les pudieran compartir?, ¿cuál sería la postura de la Secretaría de Salud?
 Y la otra es preguntarle: ¿estas gráficas que nos ha mostrado, este número creciente de infectados está en lo estimado que ya tenían ustedes previsto o va más rápido de lo que pensaban o va más lento?, ¿cómo va ahí?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por sus preguntas.
 Sobre la segunda va igual, y lo dijo hace uno pocos días el doctor Alomía y yo también lo he dicho. Independientemente de que tengamos este número de casos, o que sea, ocho veces mayor, el comportamiento en el tiempo y en el espacio es el mismo.
 Respecto a lo otro, no he visto todavía la carta, la iré a buscar con mucho gusto. Le tengo enorme respeto al Consejo Ciudadano de VIH en la Ciudad de México, no olvidar que ellos han sido aliados muy importantes de nosotros cuando hicimos la optimización de los nuevos tratamientos contra el VIH y me interesa mucho saber la opinión que tienen y por supuesto atender cualquier inquietud. Mañana lo comento, iré por la carta y mañana lo comentamos. Gracias.
 Que podemos seguir nos dicen. Perfecto, gracias.
 A ver, Alejandro, que yo le decía Mauricio.
 ---
-INTERLOCUTOR
-Entonces, una petición de que esa información sea pública porque la necesitamos.
+PREGUNTA
+No se preocupe doctor. Bueno, a ver, esta información epidemiológica no es de seguridad nacional, no está restringida ¿o sí?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, no, no.
 ---
 INTERLOCUTOR
+Ah, okay. Entonces, mire, la pregunta es en relación al comunicado técnico diario que es el sentido de estas conferencias. Entonces, las gráficas que nos presentan, la mitad de esa información viene de la tabla de casos positivos y la otra mitad no tenemos acceso, no tenemos acceso a saber dónde están hospitalizados, no tenemos acceso a saber el número de los que están enfermos, es decir, tenemos que atenernos a la gráfica que nos están presentando.
+Entonces, una petición de que esa información sea pública porque la necesitamos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Magnífico, magnífico.
+---
+INTERLOCUTOR
+Ahora, otro punto es en relación a un cambio que hubo en el comunicado técnico. El día domingo nosotros teníamos cinco países que se mostraban como países importadores de casos positivos. El día lunes nos mandaron una tabla de casos positivos con 30 países.
 Me podría explicar por qué se da ese cambio, y si eso no hace perder la consistencia de la información que nos están dando.
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita le digo al doctor Alomía si contesta lo segundo, pero déjeme decirle: Gracias por su comentario, por su petición, por su demanda de que la información sea pública.
 Les digo con todo aprecio, si ustedes piden, con mucho gusto se da. Nosotros tratamos de tener un informe sintético, simple, de interés general, no todo mundo está en deseo o interés de entrar a detalles técnicos, pero a mí me fascina que la gente se vaya involucrando.
 La ciencia, cualquier ciencia, incluida la epidemiología, debe estar al alcance público; entonces, en la medida en que ustedes hagan preguntas más elaboradoras y no el mismo tema siempre, sino preguntas sobre detalles que no se hayan comentado, fascinados de ponerlo a disposición pública en la página y también comentarlo aquí todo lo que sea.
 ---
+INTERLOCUTOR
+La hora de cierre está a la 1:00 de la tarde. Ya lo hemos comentado varios compañeros aquí, que nos cierran la información, que nos suben hasta las 7:00 de la noche, de las 7:00 de la noche a las 12:00 noche es la única ventana que es válida esa información.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a hacer los ajustes necesarios.
 Y el doctor Alomía nos va a comentar sobre el mapa.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Sí, la diferencia que hay en relación a la variable del antecedente de viaje de que en su momento también está relacionada la importación tiene que ver precisamente, como lo que hemos comentado los dos últimos días, en el que precisamente pasamos de una máscara de captura, es decir un sistema en línea que solamente registraba casos sospechosos de COVID-19, pasamos ahora ya al modelo Centinela, a la plataforma que ahora va a ser el Sisver a través de la cual vamos a vigilar no solamente COVID-19, sino además otros virus respiratorios con potencial epidémico para el país.
 Y entonces la migración de esta información en su momento se está terminando de estabilizar, es decir, la información está yendo de una plataforma hacia la otra y también desde los sectores el IMSS, el Issste de todas las áreas que se está migrando la información.
 De hecho, habíamos tomado la decisión, y lo comento, de un poco ya quitar la información del antecedente de viaje, porque en el escenario 2 de aquí para adelante realmente ya no va a ser tan relevante este dato, porque la transmisión más bien se va a dar a nivel comunitaria y son otras las variables que su momento se pueden dar; sin embargo, como dice el doctor López-Gatell, en función de la información que se requiera y se pida, podemos prepararla y con mucho compartirla sin ningún problema.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, está Natalia Vitela y Héctor. Nos queda un minuto; entonces, Héctor, para mañana.
+---
 PREGUNTA
+¿Se van a entregar pruebas rápidas? Entiendo que 500 mil pruebas rápidas en los estados.
 Lo que le quiero preguntar es si son necesarias si está modelo Centinela.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+---
 INTERLOCUTORA
+Una pregunta, digo esa es una pregunta. La otra es sobre los brotes en los hospitales en el Estado de México, en Coahuila, en Baja California.
 ¿Qué está pasando ahí, doctor?, ¿es falta de preparación del personal?, ¿no hay equipo?, si nos puede explicar.
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Pruebas rápidas y, lástima, ya no nos da tiempo, tengo unas diapositivas y mañana hablamos de pruebas rápidas y de la tecnología de las pruebas.
 Pero baste decir, porque hoy fue un tema que se conversó en medios públicos a partir de una reunión de seguimiento con los gobernadores la idea de que al fin nos convencimos de las pruebas rápidas. No, no, no confundir.
 Se les llama convencionalmente pruebas rápidas o también llamadas tiras reactivas a unos dispositivos que son como si fuera la prueba de embarazo, es un instrumento de plástico que adentro tiene un mecanismo químico, lo simplifico, para detectar anticuerpos contra el virus.
 Esas pruebas en algún momento, quizá, se tendrá conocimiento mucho más avanzado de la respuesta inmune ante el virus, es decir, en qué momento se fabrican los anticuerpos en el cuerpo humano infectado por el coronavirus y se transferirá a una tecnología útil para el diagnóstico; pero hoy, 8 de abril, esas pruebas carecen de validez y de utilidad, y por eso, aunque hay más de 18 marcas en el mundo, ninguna autoridad sanitaria las ha aprobado.
 No confundir con unas pruebas de PCR, es decir, el mecanismo idéntico que se usa en México, que son de tiempo acortado y que requieren una maquinita de alta tecnología y personal experto que las maneje.
 Entonces, ha habido una confusión por el uso del lenguaje, PCR es que son más rápidas, como la tecnología Expert o una que desarrolló un laboratorio que se llama ID NOW, y que la presentó el presidente de Estados Unidos la semana pasada, esas son más rápidas, pero tecnológicamente son idénticas a las que usamos en los 32 laboratorios estatales de salud pública, en el Indre, en los laboratorios auxiliares, de hecho ya la veníamos usando en México para otros diagnósticos, como la tuberculosis.
 Entonces, no hay ningún cambio de postura. Las llamadas pruebas rápidas o tiras reactivas que se basan en la detección de anticuerpos no tienen validez y no tienen recomendación en México.
+---
+INTERLOCUTORA
+¿Estas 500 mil pruebas van a ser las que…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Seguiremos utilizando el modelo Centinela y donde se cumpla la definición de caso en las unidades de salud monitoras de influenza o en el 100 por ciento de los casos graves, 100 por ciento de los casos graves, y desde luego también los que fallezcan, como lo explicamos ayer, habrá una prueba para el diagnóstico.
+Se acabó el tiempo, mañana hablamos de otros detalles. Muchas gracias.
+Quédense en casa, quédense en casa, por favor. Gracias.

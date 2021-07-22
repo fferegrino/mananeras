@@ -3,10 +3,12 @@ Presidencia de la República
 09 de junio de 2020
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Buenos días.
 El día de hoy vamos a informar, como todos los martes o casi todos los martes, sobre la situación de salud y en particular el comportamiento de la pandemia de coronavirus. Vamos a que nos informe el doctor Jorge Alcocer y de manera más puntual, detallada, Hugo López-Gatell; y también que Marcelo Ebrard nos informe de los efectos de la pandemia en el extranjero, lo que está haciendo por nuestros paisanos migrantes, en el mundo y en Estados Unidos, cómo está la situación, lo que están haciendo los consulados, las embajadas, la Secretaría de Relaciones Exteriores.
 Entonces, vamos con el doctor Jorge Alcocer.
 ---
 JORGE ALCOCER VARELA, SECRETARIO DE SALUD
+Muchas gracias, señor presidente.
 Muy buenos días tengan todas y todos ustedes. Es un gusto esta nuevamente en este lugar y máxime que hoy cumplimos la vigésima semana del Pulso de la Salud. Llevamos ocho días, aparte de esto, ocho días de transitar a la llamada Nueva Normalidad, que no es volver a lo acostumbrado, sino es sentir, vivir todas nuestras experiencias, inclusive escribirlas, las oportunidades también para cambiar nuestro comportamiento en el espacio público; pero no solamente ahí, también como individuos, como familia, como comunidad.
 Estas vivencias no las olvidaremos y nos llevarán a cambios físicos, materiales, pero otras serán imposibles de sustituir, como son nuestros seres queridos, nuestros compañeros de trabajo y otras son también las maneras en que nos comportamos como sociedad en los espacios públicos, también que tenemos que reconsiderar.
 El saber, decía Martí, siempre vale y siempre mucho, y nosotros hemos aprendido mucho, nuestra población está siendo cada día más sabia. Quiero señalarles algo que me impactó ayer, segundos antes de que hubiera esta tormenta en la Ciudad de México y que paralizó lo eléctrico, lo de la comunicación, esa que no sustituye a la comunicación humana, pero que sí es muy importante. Leía yo en la prestigiada revista científica Nature que se ha estimado, se ha podido estimar con validez científica que 3.1 millones, tres millones 100 mil fallecimientos en esta pandemia se han evitado gracias a las medidas de confinamiento a quedarnos, en nuestro caso, en nuestro México, en casa, a la sana distancia. Esta es una cifra realmente importante considerando que hay siete millones de contagiados en el mundo, de contagiados, y de fallecimientos ustedes saben el número.
@@ -17,6 +19,7 @@ El subsecretario Hugo López-Gatell, una vez más, nos presentará hoy, además 
 Muchas gracias. Hugo, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Con su permiso, presidente. Secretario, canciller, muy buenos días; buenos días tengan todas y todos ustedes.
 Como ya señala el doctor Alcocer, vamos a utilizar el informe técnico diario que algunos de ustedes lo vieron anoche para enfatizar cuál es la perspectiva actual del curso de la epidemia en México y posiblemente, más importantemente, destacar cuál es la etapa en la que nos encontramos y por consiguiente, cuáles son las actividades que en este momento pueden tener lugar por ser actividades esenciales y cuáles no deben activarse en este momento porque implicarían un importante riesgo de perpetuación o prolongación de la epidemia.
 Si me pasan la primera diapositiva, por favor.
 Recordar que llevamos ocho días, una semana con este planteamiento de las actividades de control en lo que le hemos llamado la Nueva Normalidad, que quiere decir esta expectativa de que lentamente, progresivamente en forma ordenada, escalonada, gradual, cuidadosa y cautelosamente observada algunas actividades podrán ir abriendo cuando el semáforo se encuentre en niveles apropiados. Ahorita comentaré precisamente sobre el semáforo y lo que implica el semáforo, que ya había sido presentado varias veces aquí, pero que nos interesa que la población lo siga conociendo.
@@ -80,6 +83,7 @@ Treinta y ocho por ciento de ocupación general en la última columna del lado d
 Esta es la última. Presidente, secretarios, con permiso.
 ---
 MARCELO EBRARD CASAUBON SECRETARIO DE RELACIONES EXTERIORES
+Con su permiso, señor presidente. Señor secretario, señor subsecretario, señoras y señores.
 Pasar revista brevemente con ustedes a la protección y atención a las y los mexicanos en el exterior.
 En primer lugar, en este mapa van ustedes a ver el avance en la repatriación de mexicanas y mexicanos a esta fecha con vuelos operados por el Gobierno de México u organizados por el Gobierno de México, tenemos un total de 14 mil 640 personas.
 En primer lugar, América Latina, con ocho mil 518; segundo lugar, Europa, con tres mil 969; enseguida Asia-Pacífico, con 890; posteriormente África, con 579; América del Norte, con 449; y Medio Oriente, 235. Aquí algunas imágenes de las ultimas repatriaciones: Colombia, Arabia Saudita, Perú, Brasil e India.
@@ -97,12 +101,26 @@ En el resto del mundo, fallecimientos tenemos 12: cinco en Canadá, tres en Espa
 Y contagios a cargo de los consulados y/o embajadas tenemos 323, el mayor número, 302, son en Canadá.
 Este sería el reporte de la protección a mexicanas y mexicanos en el exterior.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bien, este es el informe. Empezamos.
+---
 PREGUNTA
+Buenos días, señor presidente. Su servidor Carlos Pozos, de Lord Molécula Oficial.
 Quisiera iniciar con el tema con el doctor Gatell. Ha causado cierta confusión y que si nos pudiera detallar cuántas curvas está utilizando la estrategia y si alguna de estas curvas cuáles de ellas ya se han aplanado para que nos quede claro a los ciudadanos, si nos pudiera detallar.
 Entiendo que son ocho curvas las que maneja la estrategia, nos pudiera detallar y cuáles de ellas hasta el momento se han logrado detallar.
 Y si la estrategia ha funcionado, desde su opinión.
 ---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Adelante.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. No me queda muy clara esta idea del ocho, de dónde salió.
+---
+INTERLOCUTOR
+Hice un análisis y tengo la segmentación de las curvas que ustedes han presentado.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ya. A ver, déjeme le explico cómo lo planteamos en México y en general en el mundo, es lo mismo que unas la Organización Mundial de la Salud, la Organización Panamericana de la Salud y prácticamente cualquiera de los gobiernos nacionales o subnacionales para representar la epidemia.
 La curva epidémica, también para refrescar la memoria de quien nos escucha y a lo mejor no esté familiarizado con los detalles del tema, es una gráfica, es una representación visual del número de eventos de interés, más clásicamente casos, personas enfermas. Cada persona enferma se comunica a los sistemas de vigilancia epidemiológica que en casi todos los países los coordina la autoridad nacional.
 Entonces, la información proviene de personas, de personas reales, cada vez que se encuentra una persona que tiene los síntomas de COVID, la persona puede ser que acuda a atención médica y en las unidades de salud se le detecta, se toman muestras para su confirmación por laboratorio si se trata de un caso hospitalizado al 100 por ciento, en el caso de que no sea un caso hospitalizado, se toma una proporción de muestras a quienes tienen casos leves.
 Estas muestras se mandan a laboratorio, se procesa con una técnica especializada y el resultado puede salir positivo o negativo. Ese dato de positivo o negativo se integra junto con la información de la persona enferma y sus detalles médicos, demográficos, etcétera. Todo esto -en el caso de México, no es así en todos los países- se hace a través de una plataforma informática de alcance nacional.
@@ -134,10 +152,12 @@ Si tomamos el conjunto de las curvas epidémicas, todavía no hemos llegado a es
 Gracia, por sus preguntas, Carlos.
 ---
 INTERLOCUTOR
+Presidente de México, en entrevista con Carmen Aristegui, Bosco de la Vega, que es el dirigente del Congreso Nacional Agropecuario, le exhorta a usted a un acuerdo nacional para combatir el COVID y para reactivar el sector agropecuario.
 Él le pide ayuda a todas las empresas del sector agropecuario, pues indica que si no se dan apoyos, el sector agropecuario mexicano caerá en insolvencia en los próximos 90 días y con ello la disminución de alimentos y/o incrementos de los productos agropecuarios en la mesa de todos los mexicanos.
 ¿Qué le respondería a este dirigente del Consejo Nacional Agropecuario?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Que todo lo que signifique ayudar, apoyar es bien visto, bien recibido.
 Se está procurando que no falten los alimentos. La información que tengo es que el sector primario de la economía, el sector agropecuario, es el menos afectado por la crisis económica auspiciada por la pandemia; el sector secundario, el terciario, la industria y los servicios, han sido los más afectados, afortunadamente el sector agropecuario ha resistido más.
 Entonces, estamos pendientes para que no falten los alimentos y estamos saliendo, yo estoy optimista, a pesar de los pesares. Creo que lo que aquí ha dicho el doctor Hugo López-Gatell fue un logro. Desde luego no quisiéramos que nadie se enfermara, menos que se perdieran vidas, eso nos duele mucho, es muy triste, pero hemos estado actuando, yo diría que de manera responsable y eficaz. Los técnicos, los médicos, los científicos, han logrado este aplanamiento de la curva epidémica y eso nos permitió prepararnos y salvar vidas, porque sí duelen mucho los que fallecieron, sobre todo a sus familiares, a sus amigos entristece, pero también muchos, muchos, se han salvado, porque no se saturaron los hospitales y fue por las recomendaciones de los médicos, de los responsables del sector salud, desde luego con la colaboración, participación de toda la gente.
 México está dando un ejemplo en el mundo porque logramos aplanar esta curva y evitar que se saturaran los hospitales sin medidas coercitivas, sin el uso de la fuerza, con la participación voluntaria, consciente, de los ciudadanos.
@@ -148,11 +168,13 @@ Y agradecer a todos los trabajadores de la salud, a los médicos, a las enfermer
 Y yo deseo con toda mi alma que ya termine esta pesadilla.
 ---
 INTERLOCUTOR
+Presidente de los todos mexicanos, mi segunda pregunta. Usted el pasado fin de semana llamó a dejar las simulaciones a un lado y las medias tintas y a definirse si se está a favor o en contra de la transformación.
 El señor Krauze ya se definió, el señor Héctor Aguilar Camín en un video usa unas palabras peyorativas hacia usted y dice él que ha perdido el mundo de la crítica, el mundo del círculo rojo que no lo apoya a usted y que ese elemento va a ser que se desfonde su popularidad.
 Él saca el clasismo y dice que los ricos, que los que tienen el poder económico están en descontento y se pregunta cómo hacer llegar ese malestar que tienen los ricos hacia las clases populares.
 Mi pregunta es, señor presidente: ¿le quita el sueño el que el selecto círculo rojo mexicano no tenga la simpatía hacia usted, el apoyo, de ese grupo de honorables periodistas, honrados, veraces, incorruptibles?, ¿o usted también los llamaría nuevamente a la tercera tregua a ese círculo rojo mexicano?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Mire, siempre que hay una transformación, lo he dicho muchas veces, se presenta una oposición, se genera una reacción, de ahí viene lo de los reaccionarios, siempre que hay una transformación.
 Así como hubo independentistas, hubo realistas; así como hubo en la Reforma, liberales, hubo conservadores; en la Revolución, antirreeleccionistas y releccionistas, defensores de Porfirio Díaz; así ahora, es igual.
 Y yo he llego a la conclusión que no ha habido mucha confrontación, nada que ver lo que sucedió en esas tres transformaciones con lo que está pasando en la actualidad, con la cuarta transformación, baste decir que en la Independencia, en la Reforma, en la Revolución hubo confrontación armada; ahora hay una confrontación política y de ideas.
 Y eso es normal y legítimo, es natural que pensemos distinto, así es la democracia. Siempre he dicho que sería muy aburrida la vida si todos pensáramos de la misma manera, estaríamos bostezando y muertos de aburrimiento; ahora no, ahora hay esta polémica.
@@ -172,7 +194,17 @@ Ahora, lo del círculo rojo, que eso también inventaron, rojo y el círculo ver
 Pero ya todo eso ya cambió, para empezar los del círculo rojo pues no todos están de acuerdo con el régimen de corrupción, o sea, no es: ‘A ver, todos piensan como nosotros -dicen estos intelectuales orgánicos- somos del círculo rojo’. No, yo conozco a empresarios, la mayoría de los empresarios es gente honesta, gente que quiere el progreso del país sinceramente, que trata bien a sus trabajadores, bueno, ahora con la pandemia, los que todavía le están pagando a sus trabajadores, empresarios ejemplares con dimensión social.
 Y, bueno, eso en el esquema político neoliberal estarían en el círculo rojo y no están a favor de la corrupción, los que están a favor de la corrupción son los que sacaban beneficios, vivían al amparo del poder público, se cobraba muchísimo.
 ---
+INTERLOCUTOR
+Cobraban publicidad, presidente.
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, pero no sólo eso, los que hacían…
+---
+INTERLOCUTOR
+Aquí tengo la lista, 44 millones de pesos con Enrique Peña Nieto
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí, pero independientemente de eso, sin juzgar a nadie, no se puede a tabla rasa señalar de que el círculo rojo, todo, está por el regreso del régimen corrupto. No, incluso intelectuales, artistas, periodistas, hay muchísimos más periodistas que están a favor de la transformación que los que están porque regrese el régimen de corrupción, mucha gente está a favor del cambio.
 Y en el caso del llamado círculo verde, es el pueblo, también resulta que el pueblo es ahora el que decide, es el protagonista principal, porque el pueblo nunca ha sido tonto. Los de arriba pensaban de que el pueblo era tonto y tonto es el que piensa que el pueblo es tonto.
 Entonces, la gente está muy informada de lo que está sucediendo.
 Y no es así de que a ver: ‘Los del círculo rojo, que ya estamos convencidos de que hay que detener el populismo, van a ayudar a convencer a los del círculo verde’. No, es al revés, la gente del pueblo es la que convence, así ganamos, así triunfamos y así se va a llevar a cabo la transformación, así se está llevando a cabo la transformación, de abajo hacia arriba y en beneficio de todos, nada más que sin medrar, sin robar, compartiendo, garantizando que haya igualdad, no dejando atrás a nadie, no marginando a nadie, no despreciando a nadie, no humillando a nadie, sin racismos, sin clasismos, buscando vivir en una sociedad mejor.
@@ -182,9 +214,11 @@ Si lo damos a conocer aquí no va a faltar quien diga que sí es válido o que s
 No sé sobre su validez, pero no está de más darlos a conocer, ¿o por qué no le dices a Laurita que nos mande los dos documentos que tenemos ahí? de una vez lo voy a hacer, se los voy a entregar, porque no vayan a pensar que los voy a ir a hacer ahora. No, ahí los tengo y de una vez los subimos y ya que se den a conocer.
 ---
 PREGUNTA
+Buenos días, presidente.
 Primero, quería preguntarle, sabemos que su gobierno está en contra de utilizar la fuerza pública para reprimir, pero ¿hay alguna manera de garantizar que se dé en la protesta, que han estado habiendo muchas protestas aquí en la Ciudad de México, de una manera que no se dañen ni los comercios ni el mobiliario público?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí. Es muy buena tu pregunta porque ayer hubo una manifestación de jóvenes, como unos 100, 150 cuando mucho, hicieron destrozos y no intervino la policía de la ciudad, porque la jefa de Gobierno está actuando con tolerancia y no cayendo en la provocación, pero sí cometen abusos porque saquean comercios.
 Por eso, yo no les llamo anarquistas. ¿Qué tienen que ver estos grupos con Ricardo Flores Magón?, ¿qué tienen que ver estos grupos con Práxedis Guerrero?, ¿con los Magonistas, anarquistas? y golpean a reporteros, agreden.
 Hay que buscar una forma también que no les dé motivo para acusar al gobierno de represor, porque nosotros no somos represores, porque provocan, provocan y provocan, porque lo que quieren es que haya encontronazo.
 Pero hay que buscar la manera, crear una especie de grupos de paz, sin armamento, nada más bien protegidos porque también luego la policía tiene instrucciones de no responder y los agreden fuerte, llevan a veces unos palos con clavos y es una provocación, y muchos policías caen en la provocación y golpean, y eso también está mal y se debe de castigar.
@@ -193,7 +227,11 @@ El mejor plan de desarrollo que se ha escrito en la historia de México lo hicie
 El otro día vi que el de la Coparmex fue a quejarse, en una teleconferencia se estaba quejando, ante el rey de España, de nosotros. Me recordó lo que hicieron los conservadores cuando fueron a Miramar a buscar a Maximiliano. Eran, bueno, eran otros tiempos, pero imagínense eso, es de caricatura, es de un conservadurismo decadente. ¿Qué tiene que ver el rey de España si nosotros somos una República democrática, no somos una monarquía?
 Pero bueno, así están las cosas, pues, es parte de las transformaciones que se están viviendo.
 ---
+INTERLOCUTORA
+¿Se ha tocado el tema en el Gabinete de Seguridad para ver qué medidas se pueden implementar?
+---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Sí y estamos en comunicación constante con la jefa de Gobierno y la apoyamos para que no esté sola, que todos ayudemos ante estas provocaciones. Y en la medida también que se vayan acercando las elecciones se va a ir intensificando estas acciones de confrontación.
 Hay que actuar con tranquilidad, aunque se tenga el corazón caliente, la cabeza fría, no caer en provocaciones, no enojarse, no ver a nadie como enemigo, son adversarios, no odiar, que no nos ciegue el odio, es un asunto político, debemos de entendernos y cada quien, como lo he venido diciendo, sostener su postura, respetando como urbanidad política y con sentido del humor, o sea, nada de enojarnos.
 Estoy viendo también en los medios, hay como un concurso de quién insulta más, quién es el que se porta más majadero, quién es el más malcriado, lepero, para ver si así se les otorga la medalla del más opositor. Pues no, así no, ni a la gente le gusta, se obnubilan. Cuando hay una situación así, se pierde creatividad; cuando alguien se entrega al odio, a la mentira, pierde el talento, pierde la imaginación, pierde la creatividad; y en cuanto a mi persona, pues yo ya llevo muchos años en esto.
 Y me gusta la historia porque, imagínense, guardadas todas las proporciones, lo que le hicieron a Hidalgo, antes de excomulgarlo lo tildaron de demagogo, y a Morelos, bueno, los asesinaron, los humillaron.
@@ -207,6 +245,7 @@ Entonces, vamos a serenarnos, que siga el debate, es importante el debate, pero 
 ¿No te mandaron eso? A ver, por qué no lo pones. El, el… sí, ese. Lo lees tú, porque yo no lo he visto bien, Jesús, pero ya como me imagino las cosas, es como las figuritas. Esta ya la tengo.
 ---
 JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE LA PRESIDENCIA
+Bueno, este documento es un documento confidencial, se llama Rescatemos a México y el proyecto es Bloque Opositor Amplio, es un resumen ejecutivo.
 ‘El objetivo de este documento es promover el desplazamiento de Morena de la mayoría de la Cámara de Diputados en 2021, revocar el mandato presidencial en 2022.
 Su diagnóstico es:
 ‘A un año de las elecciones federales y locales de medio sexenio, el presidente mantiene aceptación arriba del 50 por ciento y Morena, aunque ha perdido terreno, se proyecta como la primera fuerza en la Cámara de Diputados y al menos en 10 de las 15 gubernaturas a renovarse en el 2021.
@@ -241,9 +280,35 @@ Promotores y actores del bloque opositor.
 Eso es todo lo que dice el documento de la estrategia del bloque opositor.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Ahí lo tienen, ahí, como dicen en mi pueblo, ahí queda eso, decía don Trino Malpica.
 Y el otro también se los entregan, de los de las redes y eso. Entonces, ahí tienen.
 ---
 PREGUNTA
+Hablando de redes, ¿quién es el responsable?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+¿Cómo?
+---
+INTERLOCUTOR
+¿Quién lo envió?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No sé, me llamó la atención, porque llegaron dos documentos…
+---
+PREGUNTA
+¿Aquí a Palacio o a…?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Aquí a Palacio. Seguramente un simpatizante que debe de estar hasta trabajando con…
+---
+INTERLOCUTORA
+¿Es un complot?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, es que ya ahora las cosas se saben antes de que sucedan.
+---
+PREGUNTA
+Presidente, buen día. Hans Salazar, de ZMG, Gurú Político y Zócalo Virtual.
 A propósito de cómo se han comportado algunos estados y particularmente el estado de Jalisco, el gobernador, yo quisiera plantearle un tema delicado que ya usted ha tocado por lo menos dos veces en estas conferencias matutinas, pero ahorita quisiera yo comentarle el tema de que la fiscalía del estado de Jalisco trasladó a seis jóvenes detenidos a partir de estas manifestaciones en contra del gobernador por la muerte de un joven de Giovanni al penal de máxima seguridad Puente Grande, sin carpeta -están denunciando los familiares- sin carpeta, sin pruebas y sin dar aviso al abogado.
 Le voy a decir, quiero mencionar los nombres, ellos lo han publicado, está público en las redes sociales: Jair Eduardo Moreno García, Roberto Carlos Ornelas Rodríguez, Mario Alberto Rubio Torres, Nicolás Ramos Paulino, Ángel Eliu Sánchez Flores y Jonathan Martín Maldonado Núñez.
 Esto es muy delicado, el tema de estos jóvenes, están en Puente Grande, ya están denunciando los familiares, la gente que está al pendiente de estas personas que acabo yo de mencionar.
@@ -252,17 +317,33 @@ Y además los dirigen, los llevaron a Puente Grande, un penal de máxima segurid
 Presidente, ¿usted podría intervenir al respecto?, ¿el gobierno federal podría hacer algo por estos jóvenes?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Le vamos a solicitar, eso es lo que podemos hacer, la intervención de la Comisión Nacional de Derechos Humanos, eso es lo que podemos hacer hoy mismo. Yo creo que eso es lo que nos corresponde, como a cualquier ciudadano si sabe de qué hay un abuso, y la Comisión de Derechos Humanos seguramente está actuando, porque se actúa en estos casos de oficio, al no ser que lo esté haciendo la Comisión de Derechos Humanos de Jalisco, pero hoy vemos eso.
 No tenemos nosotros otra manera y confiamos en la Comisión de Derechos Humanos, siento que está en buenas manos y que van a actuar con justicia.
 ---
 INTERLOCUTOR
+Presidente, segundo punto. Yo quisiera preguntarle, ayer usted anunció la postulación de Jesús Seade para la dirección general de la OMC, Organización Mundial del Comercio, para promover el libre comercio sin monopolios, particularmente usted hizo una mención más amplia, yo sólo cito esta parte. Yo le preguntaría, ¿en qué beneficia a México?, aparte de las buenas relaciones comerciales.
 Y particularmente le pregunto, porque usted ha cuestionado al modelo que, a visos del mundo, ha estado ya agotado el modelo neoliberal.
 Usted, a partir de esta postulación del subsecretario Seade, ¿usted está planteando algún tipo de enfoque, de fomentar este viraje que usted ha impulsado en el país, que lo ha anunciado así, del modelo neoliberal hacia otro esquema a nivel mundial?, ¿usted pretende eso o hay otro tipo de ruta en esta propuesta de Seade?
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Lo que buscamos es que un experto como Jesús Seade dirija esta Organización Mundial de Comercio para evitar confrontaciones, yo no diría guerras comerciales, pero sí hay confrontaciones, hay cierre de fronteras, la creación de manera unilateral de aranceles, prohibiciones para que circulen libremente las mercancías que se producen en los países del mundo, y siempre buscando la conciliación.
 Entonces, Jesús Seade es un experto, ya estuvo de subdirector de la Organización Mundial de Comercio, nos ayudó mucho en la negociación para lograr el acuerdo, el Tratado de Libre Comercio con Canadá, con Estados Unidos, fue nuestro principal negociador.
 Lo reconocen en Canadá, el gobierno canadiense, lo mismo el gobierno de Estados Unidos, tiene buenas relaciones con otros gobiernos del mundo, con China, en fin. Él podría hacer un buen papel buscando que haya justicia, que haya igualdad de condiciones en el comercio internacional, por eso se está postulando, por eso es su candidatura y nosotros la apoyamos, es un mexicano ejemplar de los que más saben en el mundo en esta materia.
 ---
 PREGUNTA
+¿Se tiene el apoyo de Estados Unidos?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, se va a buscar el apoyo de todos los países. El procedimiento inició ayer con la inscripción de su candidatura, ya se hizo en Ginebra, lo hizo la secretaria de Economía con consulta al secretario de Relaciones Exteriores e inicia este proceso. Se va a resolver pronto, en un mes sabremos, pero sí consideramos que merece Jesús dirigir esta organización, va a depender de lo que es la política internacional.
+---
+PREGUNTA
+¿Y ya tienen suplente para…?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+No, no, todavía, vamos despacio, pero muy bien.
+---
+PREGUNTA
+Buenos días, señor presidente. Urbano Barrera, del diario Ovaciones. Buenos días señor secretario, subsecretario, buenos días.
 Yo quiero regresar un poquito al tema de salud. Si recuerda usted, que hace casi ocho meses, el 23 de septiembre hablábamos de cómo los gobiernos pasados se habían encargado de limitar la producción, por decirlo así, de especialistas.
 Ahora con todo lo que se ha hecho, en el trabajo que se ha hecho en ocho meses, los médicos, bueno, desde que llegó su gobierno, pero que se acrecentó en lo últimos ocho meses, que ya se estaba trabajando antes de la pandemia, los médicos se empezaron a organizar, hicieron un frente, decía el señor secretario de Salud que ellos también los iban a organizar.
 Ahorita hay un sentimiento de mucho agrado por todo lo que se está haciendo, saludan, felicitan todas las iniciativas y también ya tienen otras peticiones para usted, señor presidente, para el secretario de Salud.
@@ -276,6 +357,7 @@ Esas serían las peticiones para quien dirige todo el sector salud, y sobre todo
 Esas serían las primeras preguntas y, si me permite, le haría otra relacionada también al sector salud.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Bueno, en el caso de los médicos, el compromiso es la contratación de médicos, de enfermeras, por esta circunstancia del COVID, pero se van a quedar porque había faltantes, no teníamos los médicos ni las enfermeras necesarias antes del COVID, esto lo constatamos en la gira que hicimos por los 80 hospitales del IMSS-Bienestar.
 Recuerdo que de los tres hospitales del IMSS-Bienestar que visitamos de Yucatán no había pediatra, en los tres, por poner un ejemplo.
 Entonces, se quedan y va también el plan de la formación de las 30 mil becas para estudiar especialidades en el extranjero; y en efecto, son como ocho, 10 mil millones de pesos que vamos a destinar cada año para mantener estos 30 mil becados especialistas.
 Vamos a dejar ese legado de especialistas, que no nos vuelva a suceder lo mismo, que si no es por el aplanamiento de la curva epidémica hubiésemos tenido un grave problema, porque no tenemos especialistas.
@@ -289,6 +371,13 @@ Ya en el caso de Walmart ya pagaron; el caso de Femsa, tres pagos van a hacer, t
 Hay unas empresas canadienses mineras que no están al corriente, quieren ir a tribunales internacionales; entonces, aprovecho para mandarle un mensaje respetuoso al embajador de Estados Unidos… digo, de Canadá, que nos ayude a convencerlos de que para qué vamos a tribunales, que es muy claro que tienen esas deudas con el SAT y que ojalá y nos ayuden a convencerlos, porque todo esto es muy oportuno con la crisis, pues nos permite que no se nos caiga la recaudación y tener los recursos suficientes.
 ---
 INTERLOCUTOR
+De los que ya están colaborando, señor presidente, ¿cuánto es el cálculo, más o menos, de lo que ingresarían a las arcas?
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Pues hasta ahora se tienen ya acuerdos por 25 mil millones, o sea, lo que está pagado y lo que está por pagarse ya, pero comprometido, pero sigue recaudándose más. Por eso, muchas gracias a las empresas por su apoyo.
+---
+INTERLOCUTOR
+La segunda pregunta, señor presidente, y es un tema que usted tiene ahí sobre el escritorio.
 Lamentablemente, en la pandemia, usted nos ha dicho que se perdieron en la etapa más fuerte 555 mil empleos, que se podrían perder otros 350 mil, más o menos y que cerraríamos casi con un millón.
 Lo grave de este asunto y es lo que le quiero preguntar, usted sabe bien que la gente que se despidió, los trabajadores, se les liquidó ya de otra forma, antes de que llegara usted al gobierno hubo una reforma a la ley laboral en la cual ahora a los trabajadores se les liquida con tres meses 12 días por año, pero además topados a dos salarios mínimos, antes eran tres meses 20 días sin ningún tope, y esto deteriora la liquidación de los trabajadores hasta en un 35 por ciento. Es un verdadero… no sé, una reducción, por no decir otro término.
 Pero además ellos se quieren conformar, el juicio ya no puede durar más de dos años, entonces, hay pensiones que, por ejemplo, para dos salarios mínimos que tendrían que ellos recibir 142 mil, pues reciben apenas 93 mil pesos, se les da dos mil 957 pesos por año, lo que usted decía, dos mil 500 por año.
@@ -296,6 +385,7 @@ La petición de los trabajadores es que si usted podría hacer algo, una iniciat
 No sé cuál sea su opinión, señor presidente.
 ---
 PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Vamos poco a poco, tenemos que salir de la crisis pronto, de lo que causó la pandemia, de los daños que está causando.
 En efecto, nosotros calculamos que vamos a perder un millón de empleos formales, porque es mucho más el número de empleos que se pierden en la economía informal, que es lo más preocupante, porque los que están inscritos en el Seguro Social eran 20 millones 500 mil trabajadores.
 Entonces, si perdemos un millón… Lo peor fue abril, se perdieron 550 mil empleos y para mayo, aunque dentro de tres días se van a dar a conocer los datos, la información que tengo, porque eso lo veo diario, es que ya se redujo la pérdida de empleos; va a estar en menos de 350 mil -mayo-, de 550 a 350, a menos de 350 y esperemos que en junio caiga menos, pero va a ser alrededor de un millón.
 Y lo que queremos es que ya, como ‘V’. Eso tampoco lo aceptan nuestros adversarios, dicen que no, que va a ser una ‘L’, que es así y se va a ir así, que no va a haber recuperación económica y yo digo que es así y así, ‘V’, ese es mi planteamiento.
@@ -304,3 +394,18 @@ Y nos va a ayudar mucho la entrada en vigor del tratado para el primero de julio
 Pero además de que se logra lo del tratado, que hemos recibido un trato respetuoso tanto de Canadá como el gobierno de Estados Unidos, que hasta extraña a muchos, además de eso, con la pandemia nos apoyaron gobierno y nos apoyó el gobierno de Estados Unidos. Le hablé del tema en una conversación telefónica al presidente Trump y nos ayudó con los ventiladores; y el gobierno de China, lo mismo, hablé con el presidente de China y nos ayudó. Entonces, esas cosas se agradecen.
 Además de lo del tratado, el día 1º me interesaría, si no nos encontramos, le voy a hablar por teléfono para agradecerles, y le voy a hablar al primer ministro de Canadá y voy a hablar al presidente Trump, y le voy a agradecer lo del apoyo por facilitarnos la adquisición de los ventiladores, porque no es -los médicos los saben- no es igual tener tres mil ventiladores a tener 12 mil, por eso tenemos posibilidad enfermos en terapia intensiva y se han salvado vidas.
 Entonces, vamos a hacer este reconocimiento al gobierno de Estados Unidos y también al gobierno de China. Para ir a China si está más lejos porque hay…
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Ah bueno, terminando esto, que vamos a salir bien, que estoy seguro que se va a reactivar la economía, hacia adelante tenemos que seguir garantizando el bienestar del pueblo, creando empleos y atender el asunto laboral y en particular el asunto de las pensiones, es un compromiso que tengo, o sea, antes de terminar ver qué hacemos con las pensiones.
+Porque todas las reformas que hicieron a la Constitución o la mayor parte de la mayoría de las reformas que hicieron a la Constitución en el periodo neoliberal fue para afectar. Esto que estás hablando, de la disminución del pago por despidos a trabajadores, pues es una muestra, pero así muchas otras cosas.
+La misma decisión de entregar las pensiones a las administradoras, a las Afores, el que ya para el 2024, 2025 van a empezar a jubilarse trabajadores y si no hay una reforma, si no intervenimos, van a recibir la mitad de su salario, porque fue realmente antipopular todo lo que hicieron, copiaron modelos, en el marco de la política económica neoliberal, contrarios a los trabajadores y a pueblo en general.
+Todas las reformas que hicieron a la Constitución fueron para perjudicar al pueblo y beneficiar a una minoría, y todas con el sello de las recomendaciones de organismos financieros internacionales, pura receta de las que enviaban desde el extranjero para que se aplicaran en México y en otros países del mundo, se ajustó al marco legal para imponer una política antipopular y entreguista. Entonces, todo lo que podamos revertir.
+Se pudo revertir lo de la llamada o mal llamada reforma educativa. Fíjense lo que se ha ganado con eso, ahora con la pandemia los maestros no dejaron de estar pendientes de sus alumnos en un porcentaje considerable, la vez pasada lo mencionaba aquí Esteban Moctezuma, el 80 por ciento de los maestros estuvieron atentos y desde que llegamos al gobierno ni un solo paro de maestros.
+Con la imposición de la llamada reforma educativa, por la fuerza, polarizaron, bueno, crearon o generaron violencia, encarcelaban maestros, crearon un ambiente adverso al magisterio nacional; todo eso ya no existe, ya hay un ambiente completamente distinto.
+Cuando hablan que se está polarizando la ciudad, no, no, no, sólo que se considere que una minoría rapaz es un polo tan importante. No, la mayor parte de la gente está de acuerdo con los cambios, con las transformaciones.
+Bueno, nos vemos… le cambiamos un poco a lo de salud, o sea, porque Hugo va a estar por la tarde y todos los días de 7:00 a 8:00, además, son muy buenas conferencias, son cátedras magistrales, conferencias magistrales de 7:00 a 8:00 y además información de primera.
+Me han dicho por qué ya no eliminamos las conferencias, que ya no hablemos porque hay países en donde por política ya no quieren hablar del tema, incluso no quieren dar cifras. Entonces, nosotros no, tenemos que estar informando. Empezamos antes que otros y a lo mejor vamos a terminar después de otros, pero tenemos que estar informando, informando, porque si estamos informados nos cuidamos mejor, nos vamos a cuidar.
+Mañana platicamos, mañana seguimos adelante conversando. Adiós, adiós.

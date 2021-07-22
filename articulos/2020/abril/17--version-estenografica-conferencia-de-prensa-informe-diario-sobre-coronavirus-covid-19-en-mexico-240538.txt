@@ -3,10 +3,12 @@ Presidencia de la República
 17 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del viernes 17 de abril de 2020. Estamos en el Palacio Nacional de México y vamos a iniciar la conferencia diaria sobre la información del estado que guarda la pandemia de COVID en el mundo y en particular en México.  COVID es la enfermedad causada por el virus SARS CoV2.
 Hoy vamos a dedicarnos básicamente al informe técnico y, como es viernes, abriremos a una más extensa sesión de preguntas y respuestas.
 Le pido al doctor Alomía si nos conduce por el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso.
 Buenas tardes a todas y todos.
 Iniciamos con el informe del panorama internacional. Nuevamente enfocándonos a nuestro indicador, ahora 53 por ciento, otra vez dos por ciento abajo y cada vez nos vamos acercando a ese 50 por ciento, que en un momento podrá significar, ya que la mitad de todos los casos que en su momento se confirmaron durante la pandemia, ya están más allá de los 14 días y, por lo tanto, no significan una transmisión reciente, más la que se está llevando lógicamente en Europa y en la región de las Américas.
 En 1.1 incrementa la letalidad mundial, 6.7 está para el corte del día de hoy.
@@ -33,7 +35,7 @@ Las presentaciones que ustedes ven y la estadística que presentamos aquí todas
 Este registro en la plataforma lo realiza de manera directa cada uno de los laboratorios estatales de salud pública de las 31 entidades federativas, el laboratorio de la Ciudad de México y otros laboratorios que funcionan como laboratorios concentradores de toda la red nacional de los diferentes sectores institucionales y algunos laboratorios también de los hospitales de alta especialidad; son ellos los que todos los días, en función de cómo van emitiendo y dando con esos resultados, están capturando puntualmente ese resultado en la plataforma y lo que vemos aquí es ya la concentración de todo México de los resultados que en su momento ellos capturan.
 Así también, tenemos 153 lamentables defunciones que están todavía en calidad de sospechosas, de donde podríamos esperar actualizaciones en el número de estas para el día de mañana. El día de hoy 546.
 Y precisamente, en la siguiente diapositiva podemos encontrar cómo han ocurrido estas en función de la fecha en la que lamentablemente fallecieron. Es una gráfica que estamos actualizando también todos los días.
-La curva negra es la de casos acumulados, las barras en su momento son los casos que han ocurrido en cada una de las fechas y, como comentábamos, si bien es cierto hubo un incremento y una tendencia ascendente desde que iniciaron las defunciones, el 18 de marzo y aproximadamente hasta el 5,6 de abril, esa tendencia aunque en el nivel en el que se mantiene se ha presentado de una manera estable, es decir,  no tenemos todavía una tendencia que en su momento sea explosiva, pero esto es un dato que también de manera puntual tenemos que estarle dando seguimiento todos los días.
+La curva negra es la de casos acumulados, las barras en su momento son los casos que han ocurrido en cada una de las fechas y, como comentábamos, si bien es cierto hubo un incremento y una tendencia ascendente desde que iniciaron las defunciones, el 18 de marzo y aproximadamente hasta el 5,6 de abril, esa tendencia aunque en el nivel en el que se mantiene se ha presentado de una manera estable, es decir,  no tenemos todavía una tendencia que en su momento sea explosiva, pero esto es un dato que también de manera puntual tenemos que estarle dando seguimiento todos los días.
 En la siguiente diapositiva vemos las comorbilidades que estuvieron asociadas a las 546 defunciones, siguen estando lógicamente arriba, con mayor proporción la hipertensión, la diabetes y la obesidad.
 Y en la siguiente diapositiva vamos a ver las defunciones que están distribuidas por estos tres grupos de edad que en su momento se definieron. Vemos cómo la letalidad en mayores de 60 años se incrementa 18.1
 Es importante también comentar que, en este grupo, más allá de la edad, también hay personas que, además de tener más de 60 años, también padecen diabetes o hipertensión o tienen alguna inmunosupresión o tienen alguna otra comorbilidad y lógicamente esto incrementa todavía más el riesgo de fallecer. Vamos a estar haciendo estos cruces de comorbilidades con edad o entre las mismas comorbilidades para también presentar este tipo de información en los siguientes días.
@@ -54,17 +56,27 @@ Esto es un proceso del día a día poder estar dando este seguimiento.
 Sería el panorama para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía, director general de Epidemiología.
 Vamos a empezar aquí de este lado con Araceli, usted, usted, esta primera línea y luego nos vamos a acá a esta línea. Había un colega que quedó pendiente ayer, pero creo que no vino hoy, era un hombre, pero no vino.
 ---
 PREGUNTA
+Qué tal, buenas noches a todos. Lizbeth Álvarez, del diario Basta, del Grupo Cantón.
 Mi pregunta es la siguiente, subsecretario: el pasado 4 de abril Diario Basta dio a conocer el ingreso de cuatro infectados de coronavirus al Reclusorio Norte, la cual fue rechazada con una nota enviada a la redacción.
 Hoy, 13 días después, se comenta en diversos noticieros que fallece una persona por COVID. ¿Por qué no se actuó con prontitud?
 Esta sería la pregunta.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Perdón, si me puede especificar ¿dónde ocurrió esto?
+---
+INTERLOCUTORA
+En el Reclusorio Norte.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿De la Ciudad de México? No tengo conocimiento.
 ¿Tú conoces?
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Sí. Lo que puedo comentar -¿sí se escucha?, no, ¿verdad?, ahora sí- lo que podemos comentar es: precisamente hay una intervención que se está haciendo de la mano con la Ciudad de México que precisamente está enfocada a prevenir los brotes al interior de los reclusorios, en donde ellos, como un protocolo específico para este objetivo, están tomando muestras a todos los nuevos reclusos que ingresan a los reclusorios.
 El día de ayer por la tarde llegó el primer paquete de estas muestras, fueron 52 muestras que se tomaron a nuevos reclusos. Esto es lógicamente ya después de haber estudiado a los internos que podrían tener algún signo o síntoma, que pudieran tener casos sospechosos y de este primer paquete de 52 muestras que llegó ayer al Indre, todas salieron negativas, es decir, no se tuvo ningún caso conformado de COVID.
 Esto va continuar, es decir, el día de hoy va a llegar otro grupo de muestras y mañana, y así, en función de cómo vayan ingresando los reclusos.
 De la información que tenemos por lo menos de este primer grupo, porque esto es importante comentarlo, estos casos no se reportan en la plataforma de Sisver, porque no son casos sintomáticos.
@@ -72,17 +84,33 @@ Para entrar a la plataforma de Sisver hay que cumplir con una definición operac
 Dado que esto es, como digo, un protocolo precisamente para prevenir brotes al interior, muestrean a los reclusos nuevos que llegan, independientemente que tenga o no los síntomas, por eso se maneja una base de información separada para no en su momento afectar las estimaciones que precisamente se están haciendo.
 Entonces, son 52 resultados hasta el momento negativos y lógicamente en el momento en que se tengan resultados positivos así lo sabrá la Ciudad de México y también lo podrá comunicar.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
+---
 PREGUNTA
+Gracias. Aracely Aranday, de Canal Once.
 Preguntarle sobre los municipios que van a levantar la cuarentena. No se ha entendido muy bien cómo va a ser este levantamiento escalonado, quiénes sí, quiénes no. Sabemos que los números y el panorama cambia, pero si nos puede hacer el favor de comentarnos cómo va a ser este proceso para levantar esta cuarentena.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. No es que no se haya entendido muy bien, es que no está definido todavía. Este levantamiento va a ocurrir hasta el 17 de mayo, en este momento estamos en el proceso de definición de ese momento, estamos hablando de un mes después, desde un mes antes estamos trabajando en la definición de lo que se tendrá que hacer un mes después, pero todavía no está definido.
+---
+INTERLOCUTORA
+¿Y el número de municipios? Estaban hablando de 470.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo que anunciamos ayer fue una pre-indentificación del estado que hoy, más concretamente ayer, guardan los municipios del país respecto a la transmisión de COVID.
 Y a lo largo de esta fecha hasta el 17 de mayo se estará trabajando, como venimos trabajando, con las medidas de control de la epidemia, eso sigue. El momento de la decisión de quiénes sí pueden levantar las medidas y quiénes no dependerá del estado que guarden las condiciones de salud específicamente sobre COVID en ese momento.
 Posiblemente habrá un intervalo de la semana previa al 17 de mayo y según cómo esté la transmisión el 17 de mayo, se determinará quién puede levantar. Por ejemplo, si de aquí al 17 de mayo hay un municipio que hoy habíamos considerado que está sin transmisión, pero empieza a tener transmisión y no se logra controlar la transmisión en el municipio, pues no podrá levantar las medidas, pasará a color rojo, por decirlo, en el mapa; si, por el contrario, hoy tenemos un municipio identificado con transmisión, pero se logra el control de la transmisión en ese municipio, pasa al color verde y puede levantar. Entonces, esto irá ocurriendo según la situación.
 ---
+INTERLOCUTORA
+¿Eso lo ven en el consejo?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Eso lo ve la Secretaría de Salud. El consejo tiene una facultad de disponer políticas generales, pero no tiene un carácter operativo.
 Vámonos dos acá y regresamos dos para acá. Laura Poy Solano y usted.
 ---
 PREGUNTA
+Muy buenas noches, doctor, doctores.
 Yo quisiera hacerle dos preguntas. La primera con relación al comentario que hizo el gobernador Bonilla, con respecto a los decesos. Hace un minuto el doctor Alomía nos hizo una explicación, pero si nos pudiera precisar hasta dónde también es una responsabilidad quizás de los estados, porque lo que hemos entendido es que se trata de decesos que tienen que estar confirmados por laboratorio, ¿no es cierto?
 Si usted nos pudiese o el doctor Alomía nos pudiesen precisar cómo es que se hacen estos datos para que no haya estas distorsiones de que faltan lamentables decesos.
 Y también preguntarle con respecto a cuando vimos este mapa que presentaron en la conferencia de la mañana ayer, vimos claramente los municipios ya pintados de rojo.
@@ -92,6 +120,7 @@ Porque hemos notado que hay distintas ciudades, incluyendo barrios de esta ciuda
 Gracias, doctor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Laura. Me voy primero a la segunda, lo otro efectivamente que nos lo explique a detalle el doctor Alomía.
 Sobre lo segundo, qué bueno que lo pregunta, es importante en este momento, lo habíamos dicho más o menos hace unos ocho días. Es posible que usted, y me dirigí también a la ciudadanía, que usted no tenga la percepción de que hay un problema de salud porque no lo está viendo, no conoce a alguien en particular en su familia, o en sus amigos o en sus conocidos o en sus vecinos que tenga COVID y posiblemente tiene una percepción de que esto algo muy lejano o incluso con poca posibilidad, con poca probabilidad de que le afecte a usted.
 Queremos seguir enfatizando que no es el caso. Todas y todos en este país tenemos la posibilidad y una probabilidad considerable de tener la infección, ser infectados, ser contagiados del nuevo coronavirus y tener la enfermedad COVID.
 Si esto ocurre y la persona que es infectada no tiene enfermedades crónicas, tiene menos de 60 años, no tiene obesidad, no es una mujer embarazada, lo más probable es que tenga una enfermedad que se limita, que dure 10 a 14 días, y no pase a mayor consecuencia; pero si es una persona que tiene obesidad, como lo tienen tres cuartas partes de la población mexicana, ya sea obesidad o sobrepeso, o bien tiene alguna enfermedad crónica o bien tiene antecedentes familiares de diabetes y tiene, por lo tanto, el riesgo de padecer diabetes sin saberlo, o cualquiera de las situaciones de salud, es una mujer embarazada, etcétera, tiene el riesgo de que tenga una enfermedad que le sorprenda y que le lleve a un desenlace muy desafortunado.
@@ -110,6 +139,7 @@ Entonces, el proceso de generación de los datos epidemiológicos nos lo va a co
 Doctor Alomía.
 ---
 JOSÉ LUIS ALOMIA ZEGARRA
+Gracias, subsecretario.
 Sí, de hecho, solamente recalcar que la comunidad Sinave, el Sistema Nacional de Vigilancia Epidemiológica, créame que es una de las comunidades más activas durante todo el año. En estos momentos en los que nos encontramos en una pandemia y en una epidemia está todavía al triple de activa.
 De hecho, aprovechar el espacio para generar un agradecimiento a toda esta comunidad, médicas, médicos, epidemiólogos que están dentro del Sistema Nacional de Vigilancia Epidemiológica que trabajan arduamente todos los días, no solamente en oficinas integrando casos, sino también en campo visitando a los pacientes, haciendo las investigaciones, checando los brotes, viendo que los números en su momento sean los que deben de ser y aplicando, también, las intervenciones que van en su momento a prevenir que esto suba de nivel. Ellos están activamente trabajando día con día, fines de semana, no han parado ni descansado al igual que muchos desde que esto inició.
 Y esto es… precisamente lo comento porque es ahí donde se lleva a cabo el trabajo más importante en lo local. Son estos profesionales de la salud que en lo local están entrevistando a los pacientes, están recabando la información en lo que denominamos un estudio epidemiológico, un estudio de caso, que es donde se integran todas las variables, desde aquellas que identifican a la persona, que interrogan y toman los antecedentes de viaje o de visitas o de vueltas dentro de su comunidad para poder identificar en su momento dispersión o importación de la enfermedad, que requisitan todos los signos, síntomas, comorbilidades.
@@ -129,42 +159,72 @@ Pero esta se da en una sistematización en la cual podemos tener en 48 o 72 hora
 Lo que a nosotros nos toca hacer en el nivel federal, más allá de coordinarnos con todos ellos, de emitir lineamientos, de tener la rectoría de cómo funciona el sistema es también lógicamente ingresar a esa plataforma y con los puntos y con las fechas de corte, las horas de corte, extraer la información que los 32 estados han capturado y poder preparar los productos informativos que noche con noche les traemos, además de aquellos que se emiten para la toma de decisiones en los diferentes niveles administrativos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Excelente.
+---
+INTERLOCUTORA
+¿Cuántos laboratorios ya incluye la red?
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+La Red Nacional de Laboratorios hasta el último corte tenía 81 laboratorios evaluados que cumplían con los criterios para poder llevar a cabo este tipo de procesos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Usted y luego nos regresamos de aquél lado, con usted y con Blanca.
 ---
 PREGUNTA
+Gracias, buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Alomía, yo le quisiera preguntar si la base poblacional de la que nos hablaba es la respuesta a que en algunos municipios no haya casos nulos, estos detectados.
 Y otras dos preguntas para usted doctor. Me ha tocado presenciar desafortunadamente actos de agresión contra médicos. ¿A dónde pueden ellos acudir para avisar de que esto está ocurriendo y que no siga ocurriendo para que no quede impune?
 ¿Y qué pasaría -no quiero ave de mal agüero- pero qué pasaría si tiembla con un paciente que esté en tiempo y forma para poder salir de su casa, como lo dicta el protocolo de Protección Civil, pero tiene COVID?, ¿qué pasaría ahí o cuál es el protocolo?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias. Sobre las agresiones al personal de salud, hemos expresado repetidamente nuestra indignación y nuestra preocupación por esta conducta que ha ocurrido en algunos lugares del país.
 Como hemos dicho también, esto lo que representa es una situación muy desventajosa, no sólo para la persona que sufre la agresión. Expresamos nuestra solidaridad y profundo respeto y agradecimiento por todos los y las trabajadoras de la salud en general, y también por quienes han sufrido estas agresiones, pero además puede ser un delito.
 Entonces, ¿dónde deben denunciar?
 En el ministerio público, es decir, cualquier persona que sufra una agresión por parte de otra, sea o no trabajador de la salud tiene el derecho de acudir a hacer una denuncia al ministerio público más cercano a su localidad y tocará al ministerio público hacer la averiguación previa si se configura una falta administrativa o un delito, proceder con lo que corresponda conforme a la ley.
 Gracias.
 ---
+INTERLOCUTORA
+La parte de los sismos.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La parte de los sismos, por supuesto que pueden ocurrir muchos eventos al mismo tiempo y todo esto es parte de lo que ocurre durante a lo largo de los días en un país. México es un territorio de altas sismicidad por razones geológicas diversas en las que todos conocemos y podría ocurrir.
 En general, los hospitales tienen un protocolo que viene desde el año 2008, que se definió o se impulsó por parte de la Organización Panamericana de la Salud en un programa que se llama Hospital Seguro. Y en el programa Hospital Seguro se contemplaron una serie de medidas que tiene que ver con la capacidad de responder ante un evento adicional a la atención de la salud que pudiera poner en riesgo a las propias instalaciones físicas, al personal de salud y, desde luego, a las y los pacientes.
 Entonces, existen los lineamientos en general. Ojalá que no ocurra esto, pero no sería distinto que cualquier evacuación que fuera procedente en una condición de salud distinta.
 ---
+INTERLOCUTOR
+¿Y en casa?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo mismo, la persona -creo que la pregunta es muy útil- si una persona tiene COVID y está en el periodo de resguardo domiciliar para evitar contagiar y empieza temblar, suena la alarma sísmica y debe evacuar, lo que puede hacer es ponerse el cubrebocas -asumimos que las personas que están en resguardo domiciliar se han allegado de un cubrebocas que permita que no contagien a las personas en su casa- se pone el cubrebocas y sale y ya, después regresa, se lava las manos y demás.
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Así es.
 En relación a la primera pregunta, cuando decimos base poblacional nos referimos a cuando se calcula la tasa de incidencia acumulada. Siempre esta tasa normalmente se calcula en base a 100 mil habitantes, pero en el momento en que un municipio tiene un caso confirmado, entonces va a aparecer, digamos, en el mapa y en su momento empieza ya a generar estadística.
 Esto es independiente si el municipio tiene poca población o tuviera mucha población. En el momento en que tenga al menos un caso confirmado, va a generar una tasa de incidencia para su municipio.
 ---
+INTERLOCUTORA
+(inaudible)
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Bueno, esto depende lógicamente de la dinámica de transmisión y del contagio, exactamente.
 Como hemos podido ver en la gráfica que se presenta de los municipios con casos precisamente, vemos cómo hay una dinámica en municipios aledaños, sobre todo aquellos que tienen gran concentración poblacional; y si viéramos aquellos municipios que en este momento no tienen casos, son precisamente municipios que tienen menos conectividad con estos grandes municipios o en su momento tienen dinámicas que se integran más entre ellos que con otros municipios grandes.
 Pero esto no necesariamente quiere decir que más adelante alguno de ellos puedan tener también casos confirmados, ya sea porque las personas se movilizan a municipios grandes a hacer trámites, a hacer compras por algún tipo que en este momento lógicamente deberían ser sólo temas esenciales, porque la recomendación es quédate en casa, y esperando que se tenga en sus municipios todo lo necesario para quedarse en casa, y eso precisamente es lo que va a contribuir a estos municipios más pequeños o que en la actualidad no tienen casos, a poder continuar así, a lo mejor hasta el 17 de mayo.
 Si estos municipios que no tiene casos confirmados mantienen la recomendación de la secretaría de quedarse en casa, de no salir, de no movilizarse tanto, podrían conservar esa situación de no tener casos hasta el 17 de mayo, y poder salir antes de las medidas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Vamos con ustedes dos, y usted había levantado la mano, y usted allá atrás.
 ---
 PREGUNTA
+Hola. Ernestina Álvarez, de MVS.
 Preguntarles si no hay un lazo o algo que se haya roto o algo que no sirva mucho entre la comunicación que hay entre las autoridades que llevan el tema de COVID-19 y los gobernadores.
 Primero fueron los panistas, ayer fue Silvano Aureoles, ahora sale Bonilla a mencionar esto, tomando en cuenta que van a tener que hacer más trabajo en conjunto, toda vez que ya se publicó el acuerdo en que se prohíbe la incineración de cuerpos no identificados e identificados, y ahí señala que tiene que existir una coordinación entre la Secretaría de Salud y estos estados para hacer un registro de este tipo de personas. Eso, por un lado.
 Y la otra pregunta sería si ustedes van a acatar esto que marca la Organización Mundial de la Salud sobre volver a hacer un recuento de los datos, las cifras que tienen sobre COVID-19 para evitar que pasen casos como el de China, donde se elevó el número de personas que habían fallecido de acuerdo a las primeras cifras que ellos tenían, gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Qué bueno que menciona lo de… hoy se publicó en la edición vespertina del Diario Oficial este acuerdo secretarial conjunto entre la secretaria de Gobernación y el secretario de Salud respecto a la disposición de restos finales o de cadáveres y la incineración. Y tiene que ver con lo que usted me preguntó hace unos días y qué bueno que lo pregunta porque me da la oportunidad de aclarar algo que yo no fui suficientemente preciso en señalar.
 Había yo dicho que habría este acuerdo y que se contemplaba que no hubiera incineraciones, pero no fui preciso al señalar que esto es específicamente en el caso de cuerpos no reclamados o cuerpos no reconocidos nada más; las personas que fallecen y son reconocidas por sus familiares pueden proceder sin problema a la incineración.
 Y la razón es la que expliqué hace unos días, es en virtud de la ley de víctimas que contempla la necesidad de mantener la posibilidad de mantener la posibilidad de identificar a las personas que fallecen.
@@ -177,6 +237,7 @@ Y respecto a los distintos mecanismos que existen para la integración de la inf
 Gracias.
 ---
 PREGUNTA
+Buenas tardes. Blanca Valadez, reportera de Grupo Milenio.
 Preguntarle respecto a los municipios libres de COVID. ¿De manera específica, estos municipios libres de COVID son porque no han reportado los estados casos?
 Y se lo comento por lo siguiente: en algunas entidades que nos están reportando son comunidades muy lejanas, pero son comunidades que tampoco tienen hospitales.
 Hay lugares como Agua Prieta, por ejemplo, que tienen 100 mil habitantes, y ahí están muy cerca de la frontera. Entonces, sí llama mucho la atención por qué están libres de COVID estos municipios.
@@ -186,6 +247,7 @@ Y nada más una precisión. Sería un caso de youtuber que se salió, decidió c
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Le contesto primero la tercera pregunta.
 Sí, efectivamente la Ley General de Salud en el artículo número 18, décimo octavo, en varios artículos, el 141 y otros más adelante, contempla las sanciones a que es acreedora una persona que conociendo que tiene una enfermedad infectocontagiosa deliberadamente tiene una conducta que contribuye al contagio. No necesariamente es asunto que es práctico de resolver, y menos en medio de una pandemia, pero desde luego podría existir la configuración de un delito.
 Sobre los ventiladores, efectivamente ha habido un muy buen diálogo al más alto nivel, nada menos que los presidentes de Estados Unidos y de México, en búsqueda de este espíritu de colaboración. Hoy tuvimos esta noticia preliminar de que podríamos tener una primera aportación de mil ventiladores.
 No es un donativo, tiene que quedar esto claro, eventualmente tendrán que comprarse, pero es una facilitación del proceso de acceso.
@@ -194,37 +256,96 @@ Lo hemos estado comentando, habíamos tenido un escenario en el caso de que hubi
 En la medida que tenemos menos transmisión podríamos tener menor necesidad, y existen también ventiladores que históricamente tiene el sistema de salud.
 ¿Y lo otro era?
 ---
+INTERLOCUTORA
+Municipios libres de COVID.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Municipios. Esto es muy dinámico, hoy puede haber un fenómeno de no ausencia de casos, mañana puede haber casos.
 Como lo acaba de explicar el doctor Alomía, dependiendo que tan móviles son las poblaciones y qué tanto siguen o no medidas de seguridad sanitaria como el quédate en casa, lavarse las manos, proteger el estornudo, etcétera, su riesgo va disminuyendo.
 Entonces, puede haber un municipio que hoy tenga un riesgo bajo porque está siguiendo las medidas, pero puede ser que de repente exista alguien que visita ese lugar.
 Esto es análogo a cuando la epidemia se empezó a presentar en los países. ¿Por qué hay un país que está en medio de otros con transmisión y no tiene casos? Al cabo de un rato los tiene.
 ---
+INTERLOCUTORA
+¿Pero la notificación la hicieron los estados lo hicieron los estados?, es lo que pregunto.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Como lo acaba de explicar el doctor Alomía, el Sistema Nacional de Vigilancia Epidemiológica -se lo simplifico- el dato lo generan las unidades de salud: aquí está un médico, una médica, identifica a un paciente, ese profesional de la salud está obligada, obligado a notificar. Esto es exactamente lo que dice el título 8º de la Ley General de Salud y Norma Oficial mexicana 017 a la que me refería.
 ¿Cómo puede y debe notificar?
 Debe notificar en secuencia y antiguamente, cuando todo era de papel, era en un papelito y se lo daban a la jurisdicción sanitaria. La jurisdicción sanitaria integraba la información y se lo daba a la oficina estatal, la oficina estatal de epidemiología que pertenece a la Secretaría de Salud del estado se lo mandaba a la federación.
 Desde hace más de 15 años las cosas se hacen por computadora, entonces en tiempo real la médica o el médico, si tiene acceso a la computadora notifica, en ese mismo tiempo real lo ve la jurisdicción, lo revisa, lo valida, lo ve la oficina estatal y cuando la oficina estatal dice: ‘Esto está validado’, nos aparece en la plataforma nacional.
 ---
 INTERLOCUTORA
+¿Ellos pueden ser omisos a notificar? Ya sé que están obligados a notificar, pero decir que no tenemos municipios, hay municipios libres, ¿puede ser también por omisión de…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Puede ser muchas razones.
+---
+INTERLOCUTORA
+Entonces, esa omisión puede ser… okay, entonces puede ser también… y de los lugares donde no hay hospitales, por ejemplo, en las zonas lejanas ¿cómo van a detectar si hay o no?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Pero donde hay centros de salud pueden detectar los casos.
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+Unidades rurales.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Por favor. Nos quedan siete minutos.
+---
+PREGUNTA
+Adriana Esteban Flores, de IMER. Nada más…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Seis minutos.
+---
+INTERLOCUTORA
+¿Ahí me escucha? Buenas noches.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cinco y usted quedó pendiente, porque ahí está el colega, mañana empezamos con usted.
+---
+INTERLOCUTORA
+Respecto al acuerdo de incineración, nada más preguntarle si tiene el dato de cuántas de las defunciones que se han tenido hasta el momento han terminado así, o sea, han recibido este tratamiento los cadáveres, si la totalidad ha recibido incineración y si se han topado también con cuerpos en este universo de defunciones, con cuerpos que estén en esa condición, sin identificar.
 También, preguntarle cuánto tiempo pasa, si nos puede precisar, de una muerte que sea sospechosa a ser confirmada por COVID-19.
 Y también hubo un estudio hoy que hablaba de que el Estado de México, o sea, revelaba la vulnerabilidad de los estados para COVID-19, y el Estado de México, Veracruz y Chiapas aparecen en los que aparecen con mayor vulnerabilidad. Si me puede precisar si les preocupa la situación especialmente en el Estado de México.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Respecto a la incineración y la disposición final de los restos humanos, esto no es parte del proceso de vigilancia, esto es parte, por un lado, de la atención médica misma en la medida que las personas estén en atención y pudieran fallecer.
 Segundo, es materia local en términos legales la responsabilidad de todo el tema funerario y la disposición final es una responsabilidad estatal.
 Y tercero, obviamente las familias son libres de decidir cuál es el mecanismo por el que quisieran los servicios finales de sus familiares que pierden la vida, eso es más o menos como ocurre.
 El estudio este que me platica no lo conozco, sería muy interesante si me lo puede proporcionar.
 Sobre la vulnerabilidad, en términos generales, la vulnerabilidad -esto también lo comentaba un colega hace unos días en referencia a las comunidades rurales y preguntaba sobre la desnutrición- la vulnerabilidad depende de muchos factores. Depende de a qué le llamemos vulnerabilidad. Puede ser vulnerabilidad a contagiarse, vulnerabilidad a complicarse, vulnerabilidad a no tener acceso a los servicios de salud, etcétera.
 Pero me interesaría conocer el estudio si me lo dice.
 ---
+INTERLOCUTORA
+El tiempo que pasa de una muerte sospechosa confirmada.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El tiempo en que… Bueno, si nos comenta el doctor Alomía el proceso.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, de hecho, no está necesariamente asociada al tiempo de la defunción, hay que recordar que las personas, en este caso cuando se convierten en pacientes, o sea, desarrollan signos y síntomas, desde ese momento se toma la muestra.
 Lamentablemente la defunción pues el resultado a lo mejor de una evolución que en su momento depende de cada persona, cómo reaccionó su sistema inmunológico, si respondió a las medidas durante el tratamiento, pero un resultado confirmatorio se puede tener o se tiene muchos días antes de que la persona fallece, en el momento en que fallece ya se tiene el resultado.
 Si la defunción se acercó en un momento determinado muy cerca a la fecha en la cual persona ingresó al hospital y se tomó la muestra, bueno, podría estar dentro de esta ventana de las 72 horas, que es lo que normalmente se emite un resultado.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Última pregunta allá el colega de camisa negra.
 ---
 PREGUNTA
+Doctor, buenas noches, David Pérez de Tejada, de Informe 24.
 A nuestro medio ha llegado muy recurrente una duda del público sobre los casos asintomáticos, ¿qué pasa con estos casos asintomáticos?
 Estaba yo leyendo un artículo donde decía que en China ocho de cada 10 casos son asintomáticos y muchos los relacionaban con niños. ¿Esto es cierto?, ¿puede ser factible?, ¿qué pasa con ellos?, ¿se les despierta de repente la enfermedad o pueden pasar desapercibidos toda la enfermedad y pueden contagiar?
 Ya nos había platicado algo al respecto hace unos días de que no estaba todavía comprobado si transmitían la enfermedad o no, pero ¿qué pasa con estos casos asintomáticos?
 Y la otra pregunta es en el caso de las regiones. ¿Se ha contemplado levantar sanciones económicas para que no pase gente que venga de estados que puedan estar con transmisión a otros donde no?, ¿eso se ha contemplado en algún momento como cuando se pasa uno un alto, por ejemplo?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la observación. Le contesto primero la segunda.
+No lo tenemos contemplado como una política nacional. Tenemos conocimiento que algunos estados o incluso algunos municipios, en uso de sus atribuciones legales en el caso de los estados como autoridad sanitaria, han dispuesto sanciones administrativas como pueden ser las multas. Están en su derecho de hacerlo, puede o no ser un mecanismo que facilite el control, pero están en su derecho de hacerlo y en su responsabilidad.
+Sobre los asintomáticos, efectivamente se identifica que puede haber personas que tengan la infección y que esta sea demostrada por una prueba de laboratorio tomando una muestra de las secreciones respiratorias de la nariz y la faringe donde se identifique el virus mediante la técnica de PCR.
+Pero que la persona no tenga ni fiebre ni dolor de garganta, ni tos ni dolor de cabeza, no escurrimiento nasal ni enrojecimiento de los ojos, ni dolor muscular ni nada y sería una persona que tiene una infección asintomática, a este estado también le llamamos portadores asintomáticos, eso se conoce. En México hemos tenido muchísimos casos como estos, los hemos reportado en su momento. Desde el inicio de la epidemia teníamos dos originalmente, luego fueron multiplicándose.
+¿Cuántas de estas situaciones de portadores asintomáticos o de infecciones que no son enfermedades, sino son infección ocurren?
+Es algo que no se sabe en todo el mundo. La experiencia de las epidemias en todo el mundo no ha revelado una cifra al respecto, pero por experiencia con otros virus respiratorios no solamente los coronavirus, sino la influenza, por ejemplo, el metapneumovirus y el rinovirus y muchos otros virus, se asume que puede ser un porcentaje muy significativo.
+Entonces, no sorprendería que pudiera ser cerca del 80 por ciento y que eventualmente, como hemos dicho en otras ocasiones, existamos muchos que tengamos infección por el nuevo coronavirus sin consecuencia de enfermedad y esperamos después pudiera venir el estado de inmunidad.
+Muchas gracias. Terminamos aquí, 20:01.  Y nos vemos mañana. Gracias.

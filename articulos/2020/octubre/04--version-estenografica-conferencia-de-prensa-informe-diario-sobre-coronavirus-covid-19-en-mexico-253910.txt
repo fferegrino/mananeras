@@ -1,0 +1,262 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+04 de octubre de 2020
+---
+RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muy buenas tardes tengan todas las personas que nos acompañan aquí en Palacio Nacional, en el Salón Tesorería. Hoy es domingo 4 de octubre, son las 19:00. Muchas gracias a todas las personas en casa que nos acompañan a través de su televisor o dispositivo móvil.
+Hoy vamos a tener la conferencia de prensa sobre la epidemia del virus SARS-CoV-2, la enfermedad COVID-19. En esta ocasión tengo el placer y orgullo que me acompañe la doctora Lucía de la Garza Barroso, ella es doctora en Salud Pública y es directora de Investigación Operativa Epidemiológica de la Dirección General de Epidemiología.
+Ella va a presentar el día de hoy el tema de inteligencia epidemiológica, ella es directora también de la Unidad de Inteligencia para Emergencias en Salud, en donde hay un gran recurso humano, que son médicas y médicos residentes de la especialidad de epidemiología, que es quien atiende 24 horas, siete días a la semana esta unidad, es en donde también se hacen los análisis epidemiológicos que hemos presentado a lo largo de todas las conferencias de prensa y la doctora De la Garza Barroso nos va a presentar hoy lo que es inteligencia epidemiológica.
+Yo haré una presentación breve sobre el estatus actual, las diapositivas sobre el informe técnico, para ceder la palabra a la doctora De la Garza.
+Bien, hoy estamos en el día 127 de la Nueva Normalidad, caracterizado, como ya lo hemos comentado por el semáforo de riesgo epidémico, esta es la conferencia vespertina 217, domingo 4 de octubre y, como ayer lo comenté, el domingo 18 de octubre habrá una jornada electoral en Coahuila e Hidalgo, les invitamos a ejercer su derecho al voto con todas las medidas básicas de prevención.
+Hoy presentamos la semana número 39, el índice de positividad de los casos que se diagnostican como sospechosos al virus SARS-CoV-2, al COVID-19, es del 37 por ciento, un ligero descenso que puede estabilizarse o inclusive incrementar a lo largo de la semana.
+Como lo vimos, ayer presentábamos un 40 por ciento, ese es el porcentaje en el que estamos actualmente.
+Hemos estudiado al menos con un estudio epidemiológico de caso interrogatorio, signos, síntomas, inicio de estos signos y síntomas y toda su caracterización clínico-epidemiológica de ya más de dos millones de personas.
+Estas dos millones de personas son los registros que ustedes pueden descargar en la base de datos abierta, es una base de datos nominal, me parece que pocos países en el mundo tienen el privilegio de tener un sistema de vigilancia nominal de esta enfermedad de ya más de dos millones de personas, todos los datos que se ponen a disposición como datos abiertos son datos anónimos, son anonimizados y sin probabilidad de poder hacer un vínculo entre la persona, en dónde se encuentra la persona, en dónde se contagió, pero se puede descargar esta base de datos para hacer diferentes análisis.
+Tenemos actualmente un total de 761 mil 665 personas que han sido diagnosticadas como positivas al virus SARS-CoV-2 en el Sistema Nacional de Vigilancia Epidemiológica, los laboratorios estatales de salud pública, y algunos laboratorios de apoyo a la vigilancia epidemiológica que conforman esta Red Nacional de Laboratorios de Salud Pública que coordina el Instituto de Diagnóstico y Referencia Epidemiológicos.
+Tenemos 919 mil 591 personas que han resultado negativas a esta prueba, 189 mil 288 personas sospechosas sin muestra, sin una posibilidad de resultado positivo o negativo al virus SARS-CoV-2, pero que nos sirven para hacer algunas estimaciones de cómo se comportan estas personas a las que no se les ha tomado una muestra.
+Actualmente, 79 mil 88 personas han resultado positivas y lamentablemente han perdido la vida, y es lo que tenemos documentado.
+Sobre la estimación de casos, vemos una disminución en el seis por ciento de los casos estimados, son 902 mil 58 casos que se estiman que se han diagnosticado en nuestro país, de los cuales apenas el cuatro por ciento representa la epidemia activa.
+Son 37 mil 464 casos estimados activos los que se tienen, se han recuperado ya 550 mil 53 personas y se estima que con estas personas a las que aún no se les ha hecho el resultado o no se les pudo tomar muestra, pero que lamentablemente perdieron la vida son 92 mil 392 personas que se estima han perdido la vida y que la han perdido directamente por causa del virus SARS-CoV-2.
+Ya hemos comentado en otras ocasiones que el exceso de mortalidad se evalúa y se ve de diferente forma. Hay un boletín publicado en coronavirus.gob.mx en donde ustedes en casa y ustedes, que se dedican a la comunicación, pueden descargarlo, analizarlo y generar aquí preguntas para aquí discutir de lo que se trata el exceso de mortalidad que ha ocasionado la pandemia de COVID-19 en nuestro país.
+Sobre la ocupación hospitalaria de atención específica a la infección respiratoria aguda grave, sobre las camas que se tienen disponibles para las personas que presentan esta infección respiratoria aguda grave o enfermedad respiratoria aguda grave que no requieren de apoyo con un respirador mecánico, tenemos una ocupación del 26 por ciento, es decir, una disponibilidad del 74 por ciento del total de 28 mil 407 camas que hay disponibles para estos efectos en nuestro país.
+Nuevo León, Nayarit, Ciudad de México, Colima y el Estado de México son las de más alta ocupación; sin embargo, solamente Nuevo León tiene ocupadas más del 50 por ciento de sus camas disponibles para infección respiratoria aguda grave que no requiere de un ventilador mecánico.
+Sobre las que sí requieren de un respirador mecánico son los casos más críticos, son los que probablemente están en una terapia intensiva en general, pero que también están o pueden estar fuera de una terapia intensiva, pero que se habilitó una cama fuera de terapia intensiva, con un ventilador mecánico y lo necesario para dar esta atención crítica a las personas.
+Tenemos una ocupación del 23 por ciento de ventiladores en todo el país, es decir un 77 por ciento de ventiladores mecánicos, o respiradores mecánicos disponibles para la atención de las personas que así lo requieran, y son Colima, la Ciudad de México, Nuevo León, Aguascalientes y Chihuahua los de mayor ocupación en este momento, Colima apenas llegando al 50 por ciento de su ocupación y de ahí para abajo, la Ciudad de México con un 40 por ciento es el que le sigue.
+Muchas gracias, y le cedo la palabra a la doctora Ana Lucía de la Garza Barroso.
+---
+ANA LUCÍA DE LA GARZA BARROSO, DIRECTORA DE INVESTIGACIÓN OPERATIVA EPIDEMIOLÓGICA
+Muchas gracias, doctor Ricardo Cortés, con su permiso.
+Muy buenas tardes a todas y todos. Me da mucho gusto nuevamente saludarles desde la plataforma en que nos estén observando, al igual que en sus televisores.
+Yo el día de hoy les voy a hablar sobre la Unidad de Inteligencia Epidemiológica y Sanitaria que tenemos en la Secretaría de Salud federal y que tengo el gusto de coordinar dentro de la Dirección General de Epidemiología.
+Al respecto vamos a comentar sobre unas generalidades que es importante que conozcan sobre esta unidad, así como algunas actividades que ha hecho al respecto también del tema de COVID-19.
+Sin embargo, también enfatizar que esta Unidad de Inteligencia no nada más está realizando actividades enfocadas al COVID-19, sino que también hace un monitoreo de otro tipo de riesgos para nuestra población, que es importante siempre estar revisando, estar alertas ante lo que puedo ocurrir a nivel mundial y también a nivel nacional.
+Este es el edificio de la Unidad de Inteligencia Epidemiológica y Sanitaria. Es una unidad que, como les digo, es encargada de dar monitoreo, de hacer alertamiento ante eventos de diferentes fuentes de interés epidemiológico y nos brinda información oportuna, por supuesto esto para generar y para realizar una toma de decisiones que puedan ser estratégicas ante cualquier evento que pueda realmente ocasionar un daño a la salud de la población.
+Así como la conocemos en este momento, fue inaugurada en febrero de 2007. Como les digo es este edificio en donde tenemos diferentes áreas que se dedican a hacer monitoreo, en específico un área que funciona de manera permanente y que está realizando el monitoreo de todos los eventos que puedan resultar de riesgo en salud pública.
+Mencionar que el marco normativo a través del cual opera esta unidad de inteligencia se basa fundamentalmente en nuestra Norma Oficial Mexicana, que también es la que corresponde a la base de la función de todo el Sistema Nacional de Vigilancia Epidemiológica, que está realmente trabajando de manera permanente, haciendo vigilancia de diferentes padecimientos a través de la vigilancia basada eventos y a través de la vigilancia basada en indicadores.
+La Norma Oficial 017 es la norma para la vigilancia epidemiológica y es el marco normativo que rige como tal al sistema y como tal también que corresponde a la parte rectora documental de la Unidad de Inteligencia Epidemiológica y Sanitaria.
+También es importante mencionar al Reglamento Sanitario Internacional que, como bien saben, pues es un marco normativo que funciona a través de la Organización Mundial de la Salud y en este Reglamento Sanitario Internacional pues México, a través de la Dirección General de Epidemiología, también participa como un enlace para directamente tener alguna comunicación con la Organización Mundial de la Salud y con los diferentes puntos focales a través de los diferentes países o de las diferentes regiones.
+La UIES representa precisamente el enlace que de manera internacional está pendiente de todas estas comunicaciones o de toda esta coordinación que se tiene que realizar a través de este marco del Reglamento Sanitario Internacional. Entonces, no olvidar que la Dirección General de Epidemiología es el centro nacional de enlace para este Reglamento Sanitario Internacional.
+Esta es la misión y la visión de la UIES. Como tal pues la misión, ya les he platicado un poco de lo que hace, produce información oportuna, verificada, información que es validada y analizada sobre diferentes eventos de interés para la salud pública y de interés para las autoridades sanitarias, y evalúa el riesgo que implican estos eventos en la salud de la población.
+Como les comento, no nada más estamos revisando continuamente COVID-19, sino también estamos realizando monitoreo de otros padecimientos a nivel mundial que pueden representar un riesgo a la salud de nuestra población, ejemplo: la fiebre amarilla, que generalmente estamos dando un seguimiento sobre su comportamiento; tenemos padecimientos como son ébola o algunos eventos, inclusive también de naturaleza específicamente meteorológica, por ejemplo, y tenemos que estar dando seguimiento a los mismos validando información y para producir datos que pudieran generar precisamente un alertamiento, una señal para los tomadores de decisiones y para poder implementar las acciones que correspondan.
+¿Cuál es la visión de la UIES?
+Pues es ser un modelo nacional en el ejercicio de la inteligencia epidemiológica, en la producción de esta información que les comento.
+También parte de ello es la formación de recursos humanos, y ya les comentaré un poco más al respecto. Ya lo platicaba el doctor Ricardo Cortés, también en esta unidad se encuentra un recurso humano sumamente valioso para toda la parte del monitoreo, que son las médicas y médicos residentes en epidemiología, que están continuamente haciendo este monitoreo y a quienes les agradecemos su trabajo continuo y son un eje fundamental y un pilar para la salud pública, en este momento para la pandemia y para estar siempre pendientes de este monitoreo que realizan.
+Además de ello, se tiene personal especialista que está dentro de la Unidad de Inteligencia Epidemiológica y Sanitaria, quienes también les agradezco todo el continuo trabajo que han tenido a bien realizar en el monitoreo continuo de todos los eventos que puedan poner en riesgo la salud de la población.
+Como les comentaba, somos un centro de colaboración internacional para la seguridad en salud.
+La UIE es en sí… Entonces, el propósito principal que tiene va ser detectar y atender con oportunidad eventos epidemiológicos y que puedan poner en riesgo la salud de la población, detectar así cualquier contingencia de salud en el país o en el mundo y de manera diaria recolectan información de múltiples fuentes, estas fuentes pueden ser desde fuentes oficiales de otros países como los ministerios de salud, o como pueden ser inclusive bibliografías científicas, hasta fuentes no como tal que se consideran oficiales, pero que nos pueden arrojar información importante y que continuamente estamos dando seguimiento, ejemplo, pues las redes sociales en este momento, en donde podemos encontrar diferentes datos que pueden ser de utilidad para generar alertas o para generar señales oportunas.
+También vigilamos precisamente cómo se comportan todas las emergencias sanitarias, el curso de estas emergencias y somos el enlace permanente nacional e internacional ante cualquier situación.
+Tenemos contacto específicamente con las entidades federativas de manera diaria a través de una comunicación que establecemos de manera telefónica todos los días con las 32 entidades federativas a través de las epidemiólogas y los epidemiólogos estatales, con quienes también recolectamos información que puede ser de interés para la salud pública.
+Estas son básicamente algunas de las actividades. Funcionamos, la Unidad de Inteligencia Epidemiológica y Sanitaria funciona como un centro además también de orientación para información de salud a la población.
+Recordarán, el centro de atención telefónica, el número 800 se encuentra también siendo atendido por personal específico que está anidado dentro de esta Unidad de Inteligencia y ahora con un sistema ya más especializado de llamadas también operamos en este conjunto para brindar información a la población.
+Somos en este momento el centro de operación de emergencias como tal, en donde están anidadas las diferentes actividades de producción de información, de producción de datos, a través de todos los equipos que tienen a bien alimentar toda esta producción de manera diaria.
+Somos un centro de contacto permanente, realizamos vigilancia basada en eventos en diferentes fuentes, como les comentaba, no nada más fuentes oficiales, sino también todas estas redes o noticias que también nos pueden orientar hacia alguna situación que esté ocurriendo, damos seguimiento a las emergencias.
+Complementamos, por supuesto, también a la vigilancia basada en indicadores; es decir, si detectamos alguna información en algún medio de comunicación que pudiera representar una alerta o una señal, hacemos una verificación de esta información estableciendo comunicación directa con los servicios de salud en las entidades federativas con quienes estamos trabajando muy fuerte en este momento para que cada estado pueda tener también su UIES y pueda generar la información y tener una red de trabajo mucho más sólida en beneficio de la salud pública de nuestro país.
+También tiene dos áreas en particular:
+La sala de situación, a través de la cual se hace análisis y evaluación de manera diaria de todos los datos en este momento con un enfoque únicamente COVID-19.
+Se establece también un apartado de comunicación de riesgos que, les comentaré más adelante, a través del cual la Unidad de Inteligencia también emite avisos preventivos de viaje, por ejemplo, con algunos detalles específicos sobre la prevención que tienen que realizar los viajeros que vayan a diferentes países, no nada más en el marco de COVID, sino hablando también, insisto, en algunos otros eventos que puedan representar un riesgo para realizar un viaje.
+Entonces, hacemos este monitoreo de manera permanente a los medios de comunicación, hacemos un apoyo directo a todos los sistemas que son los oficiales, de los cuales tenemos indicadores a través de este monitoreo que hacemos de manera diaria en los medios de comunicación, vigilamos todas estas fuentes oficiales y no oficiales.
+Realmente creo que la operación que tiene la UIES es una operación fundamental en el país, porque es una operación 24-7 todo de manera permanente.
+Tenemos personal que está en esta unidad realizando el monitoreo que corresponde todos los días, realmente es una operación muy importante para nuestro sistema de salud.
+Tenemos contacto entonces con todos los servicios de salud de las entidades, somos el centro nacional para el contacto específico a través del Reglamento Sanitario Internacional, y como Centro de Operación de Emergencias operamos precisamente como sala de crisis, como sala de situación y a través del Centro de Atención Telefónica en Salud.
+Como les platicaba, en realidad la UIES hace diferentes monitoreos, estos monitoreos no nada más están enfocados en el tema de COVID, sino que diariamente además monitorea todo lo que tiene que ver con el aspecto meteorológico, está siempre muy pendiente de lo que ocurre en cuestión de la formación de tormentas tropicales, de huracanes, y de cómo pueden impactar a nuestra población, que lamentablemente en este momento sabemos que hay estados que están siendo afectados por uno de ellos, y que a partir de esto tenemos que estar haciendo un monitoreo continuo de los daños a la salud precisamente que ocurren por este tipo de eventos.
+También hacemos un monitoreo volcánico específico del volcán Popocatépetl, del volcán de Colima, del cual también estamos muy pendientes y todos los días se genera información.
+Se hace un monitoreo epidemiológico en el que seguimos otros padecimientos de importancia internacional, además de otros eventos también que tienen que ver con la situación nacional, y monitoreo de eventos especiales que pueden ser ya con un enfoque en el aspecto de riesgos que tienen que ver con sismos, con riesgos químicos, con riesgos radiológicos o con cualquier situación realmente que pueda poner o realizar algún daño a la salud de nuestra población.
+Esto es lo que hace básicamente de manera permanente la UIES y de manera diaria emite datos e información sobre estos temas.
+Nos proporciona señales de alerta temprana, nos ayuda a través de todas sus actividades a identificar amenazas y eventos tanto químicos, biológicos, radiológicos y nucleares tanto en el ámbito nacional e internacional que nos pueda afectar a la salud de la población.
+Cualquier riesgo, prácticamente fenómeno natural o cualquier situación antropogénica que pueda presentarse también que pueda afectar nuevamente la salud de nuestra población. Estaremos pendientes y dando el seguimiento correspondiente, y revisamos básicamente este tipo de fuentes desde sitios oficiales, como lo son el CDC, la Organización Mundial de la Salud, etcétera.
+También nos basamos en información nacional que tiene que ver con el monitoreo a través de instancias oficiales en nuestro país, por ejemplo, el Cenapred para ver la alerta volcánica, el Servicio Meteorológico Nacional, de quien también estamos constantemente revisando esta información.
+Y como les comentaba, pues es fundamental para la operación de esta Unidad de Inteligencia el trabajo constante y permanente de la residencia en Epidemiología y que están pendientes realizando estas actividades los médicos y médicas residentes todos los días y además los especialistas que esta dentro de esta unidad realizando este monitoreo, estas actividades, verificando la información, constantemente revisando lo que ocurre en el panorama internacional y en el panorama nacional en cuestión de salud de nuestro país para identificar cualquier riesgo.
+Es un monitoreo entonces permanente, las 24 horas los siete días de la semana y es importante dar… me gustaría precisamente dar el reconocimiento que merece la residencia en epidemiología en este momento, porque han estado sumamente involucrados en las actividades de monitoreo, de alerta continua desde que inició esta pandemia.
+Ahorita lo revisaremos un poco más a detalle conforme veamos la historia más o menos de cómo se detecta la situación desde el 31 de diciembre, la circulación de información que estaba ocurriendo, una situación en China de la cual no se tenía información en ese momento y que se trataba de un virus de teología desconocida y a partir de este monitoreo es que nosotros detectamos esta información para generar una señal correspondiente de que algo estaba ocurriendo.
+Entonces, desde la aparición de los primeros reportes -en medios oficiales y no oficiales- la UIES ha estado muy pendiente -ahora sí voy a hablar un poco de las actividades que se han hecho en el marco de COVID- la UIES ha estado muy pendiente y ha dado un seguimiento puntual de cómo se ha comportado la pandemia a nivel nacional e internacional.
+He tenido la fortuna de estar varias veces aquí compartiendo con ustedes la información también internacional del panorama, que precisamente también da seguimiento todos los días la UIES.
+Desde que, les comentaba, se identificó el 31 de diciembre a través de los medios un brote de neumonía de teología desconocida en Wuhan, China, y que desde ese momento se emitió el dato de que algo estaba ocurriendo en ese país hasta toda la cronología específica que hemos tenido a bien ir dando seguimiento desde que se identifica como lo conocemos, que se inició su seguimiento como un nuevo coronavirus, hasta que teníamos el primer caso importado en América el 20 de enero, precisamente también dando seguimiento a través del Centro Nacional de Enlace, de la misma UIES, hasta su declaratoria como emergencia de salud pública de importancia internacional el 30 de enero y seguido de su declaratoria de pandemia hasta el 11 de marzo.
+También, como ven, estuvimos muy pendientes del primer caso en América Latina y El Caribe, y esto es básicamente de las actividades que hacen la UIES y que ha hecho desde el inicio de esta pandemia.
+Este es simplemente para ejemplificar, este corresponde al mapa que generamos, que seguimos generando todos los días información del panorama internacional en nuestro comunicado técnico diario.
+Ahora ya no presentamos un mapa, pero recordarán que al inicio de la pandemia íbamos presentando este mapa y cómo se iba pintando en todos los países, hasta que prácticamente llegó a ser un mapa de color rojo en donde identificábamos que ya había transmisión en todos los países y que ahora manejamos como un comunicado técnico diario a través de unas gráficas en las cuales ustedes tienen acceso todos los días y que son publicadas.
+Este es para ejemplificar cómo desde el inicio estuvimos identificando los primeros casos en China hasta que esta situación de este evento se fue propagando alrededor del mundo y que fue confirmado un caso en América, en los Estados Unidos. Esto es prácticamente lo que genera algunos de los productos que ha estado realizando y elaborando constantemente la unidad.
+Vamos revisando, como les digo, la situación epidemiológica mundial, hacemos una reunión específica no nada más de cómo se comporta a nivel mundial, sino también en diferentes regiones.
+Veíamos que la región de Europa, por ejemplo, en particular tenía un incremento importante de casos, estamos revisando país por país prácticamente de Europa cómo se comportan, y que vemos países como España, que tienen una segundo ola de COVID-19, que es mucho mayor a la primera. Esto lo vamos revisando por región hacia Europa, África, etcétera, y vamos emitiendo información para la toma de decisiones.
+También revisamos qué medidas han sido implementadas por otros países y también revisamos de manera continua, por ejemplo las definiciones operacionales o los lineamientos que se manejan a nivel internacional para la pandemia, hacemos un seguimiento de alertas, también hacemos todo lo que tiene que ver con el seguimiento de alertas.
+También hacemos todo lo que tiene que ver con el seguimiento de las actualizaciones epidemiológicas que se vayan emitiendo y revisamos temas de interés epidemiológico a través de bibliografía.
+Sabemos que en un inicio de este año no se conocía aun, no se conoce mucho de COVID-19, pero hemos tratado de dar seguimiento a todas estad diferentes publicaciones bibliográficas que se van emitiendo a nivel internacional.
+Y como les decía, también generamos información a través de nuestros avisos preventivos de viaje que también fueron emitidos y difundidos desde un inicio de la pandemia.
+Esto es simplemente para recordar que este es el trabajo de la Dirección General de Epidemiología en conjunto con el área de la Dirección de Información Epidemiológica, trabajamos el comunicado diario que ustedes tienen acceso, que es público y que contiene información internacional que se genera a través de esta UIES y a través de esta Dirección de Información Epidemiológica a quienes también hay que reconocer el trabajo continuo y que todos los días estamos emitiendo esta información para que ustedes tengan acceso y también se genera un informe semanal en el que encontrarán la situación internacional que también se emite a través del trabajo de la UIES y que también contiene la situación nacional, pero esta va a ser de manera semanal.
+Son productos que ustedes pueden encontrar también en la página de la Dirección General de Epidemiología y a los cuales pueden tener acceso y todos los días se emite.
+Y les comentaba que también hemos estado emitiendo avisos preventivos de viaje los cuales son comunicados que estaban dirigidos específicamente a la población para hacer énfasis a viajeros que proceden o viajan hacia un lugar con riesgo potencial para adquirir un problema de salud, esto no nada más en el marco de COVID, en caso de que nosotros detectemos algún otro riesgo a la salud de la población que amerite emitir este tipo de avisos ustedes los encontrarán también de manera pública.
+Al finalizar les comparto el link para que puedan tener acceso. En este momento evidentemente todo este año ha sido básicamente la emisión de visos preventivos de viaje ante COVID, pero encontrarán también archivos históricos en donde verán que hay otros eventos por los cuales hemos emitido estos avisos.
+Nos permiten contar con información básica sobre el cuidado de la salud y para evitar riesgos prevenibles para la realización de viajes.
+Nos permiten contar con las medidas preventivas y en su caso profilácticas que se tienen que se tienen que realizar antes, durante y después del viaje, y son información muy valiosa precisamente para que el viajero pueda tener el contexto de los riesgos para su salud. Estos avisos también han sido emitidos a través de nuestra unidad de manera continua en los diferentes meses y a través de los diferentes momentos de la evolución de esta pandemia.
+Esta es la cronología de los avisos preventivos de viajes. Si se fijan, nuestro primer aviso fue emitido desde el 9 de enero, este fue emitido precisamente a China debido a que, como revisábamos, se había identificado desde el 31 de diciembre una situación de neumonía de etiología desconocida, desde ese momento emitimos a través de nuestra unidad este aviso preventivo de viaje que fue evolucionando en diferentes avisos conforme la evolución de esta pandemia a través de cómo fue propagándose a los diferentes países a nivel internacional.
+Verán que, por ejemplo, para el 30 de enero ya habíamos incluido específicamente a la región de Hubei en particular, porque era en ese momento en donde estaba mucho mayor la transmisión de COVID-19, pero ya conforme avanzamos en el tiempo incluimos a otros países como fueron países ya de Europa, España, Francia, Italia cuando comenzó esta situación a propagarse en el continente europeo y así también a los Estados Unidos en su momento cuando empezó con la declaratoria ya de una transmisión local comunitaria, hasta que nuestro último aviso en particular, el del 31 de marzo en conjunto con el del 18 de mayo, ya tiene un aviso específicamente para evitar los viajes a nivel internacional de manera global debido a la situación pandémica en donde prácticamente todo el mundo tiene una transmisión, y por lo tanto se emite ese aviso para evitar viajes en específico.
+También tuvimos por ahí algunas situaciones muy particulares que nos hacen abordar este tipo de avisos en cruceros internacionales, en donde teníamos también retorno de algunos connacionales o de personas que se encontraban varadas y por lo cual fue importante también emitir un aviso específico para ese evento en particular.
+Ustedes, como les comentaba, pueden consultar la información, estos avisos son públicos, se emiten precisamente para que los viajeros puedan tener acceso a los mismos y para que pueda tener constantemente información sobre las actualizaciones que van ocurriendo conforme esta pandemia va evolucionando en el contexto de los viajes internacionales.
+También en esa misma página se encuentran algunos avisos epidemiológicos que también se emiten a través de la Dirección General de Epidemiología ya en un contexto técnico muy particular dirigido a las unidades de vigilancia epidemiológica y no olvidar que el sitio de coronavirus.gob.mx encontrarán también toda la información de nuestros comunicados diarios y lo que se emite de manera semanal y diaria que es información para todas y todos ustedes.
+Sería todo de mi parte esta noche. Muchas gracias.
+---
+RICARDO CORTÉS ALCALÁ
+Muchas gracias, doctora Ana Lucía de la Garza Barroso.
+Antes de pasar a preguntas me gustaría primero que nada agradecer a las personas intérpretes de lengua de señas que todos los días están aquí en las conferencias de prensa tanto de la mañana como por la tarde, muchísimas, muchísimas gracias.
+Y en segundo término, sobre el tema que acaba de presentar la doctora De la Garza, hace algunos días, un par de semanas tuvimos la reunión del Consejo Directivo de la Organización Panamericana de la Salud y uno de los informes que rinden a los estados parte, o sea, a los países que formamos la Organización, el secretario técnico, la directora general y todo su equipo rinde informes que analizamos todos los países y emitimos nuestra opinión sobre la utilidad de los reportes, si estamos de acuerdo o no, qué quisiéramos cambiar, etcétera y uno de ellos es sobre la evaluación que se hace todos los años sobre el Reglamento Sanitario Internacional, cómo los países tenemos implementado el Reglamento Sanitario Internacional.
+Este reglamento contempla 13 capacidades básicas y México siempre ha rendido sus informes para ser una evaluación anual y salvo por los riesgos radiológicos nucleares en las que la evaluación nos dice que tenemos áreas de oportunidad, sobre todo para conjuntarnos con las autoridades que manejan este tipo de riesgos y tener los planes que se tienen de estar más involucrados en materia de salud y en materia de la Unidad de Inteligencia Epidemiológica, siempre hemos salido con una buena calificación sobre la implementación del Reglamento Sanitario Internacional.
+Y también sobre los eventos de los que habla la doctora, estos que al final de cuentas se pueden o no convertir en emergencias de salud pública de importancia internacional, como lo es esta pandemia, se están evaluando constantemente diferentes eventos en todos los países.
+En la región de las Américas se evaluaron 74 eventos en todo el año, en el periodo del año que se presentó, que es de julio 2019 a junio 2020, estos 74 eventos representaron el 20 por ciento de todos los eventos que se notificaron a la organización en todo el mundo; y de estos eventos en la región de las Américas, México fue el que más eventos notificó a la Organización Panamericana de la Salud en todo el año, con un total de 11 eventos de salud pública de importancia internacional, de los cuales afortunadamente ninguno representó una emergencia de salud pública de importancia internacional, como lo representa el virus SARS-CoV-2 y su enfermedad de la pandemia de COVID-19.
+Esta unidad representa un gran trabajo y es un gran orgullo tenerla, y tener las capacidades de poder mejorar todos los días las capacidades básicas en esta materia en nuestro país.
+Abrimos a preguntas, por favor.
+Adelante, uno y dos.
+---
+PREGUNTA
+Gracias. Laura Toribio, del periódico Excélsior.
+Doctor, quisiera preguntarle: Hoy dan la cifra de 550 mil 53 recuperados.
+¿Cuál es el diagnóstico de salud que tienen de este más de medio millón de mexicanos que ya están sanados de COVID-19?, ¿hay tratamientos ya para tratar sus secuelas?, ¿hay estrategia?, ¿tienen un plan de acción? ¿en qué consiste?
+Gracias.
+---
+RICARDO CORTÉS ALCALÁ
+Muchas gracias. Un diagnóstico específico de cuál es el estado de salud de las personas que se han recuperado no lo tenemos ahora a la mano para presentarlo; sin embargo, hay ya sobre todo lo principal, que es que las personas que hayan tenido alguna secuela pulmonar, neurológica o de cualquier otro tipo que tuviera alguna secuela por la enfermedad COVID-19 tengan la rehabilitación que requiere.
+Hemos trabajado con el Sistema Nacional DIF y con Fundación Teletón y con otras organizaciones de la sociedad civil para poder brindar una terapia, sobre todo de las que más se requieren son la terapia pulmonar, las secuelas pulmonares que deja este virus son importantes, esta enfermedad.
+Entonces, se requiere de buenos especialistas de terapia pulmonar para poder dar este tipo de terapia de rehabilitación.
+Se cuenta con este tipo de terapias a distancia también, a través de Fundación Teletón y del Sistema Nacional DIF.
+---
+INTERLOCUTORA
+¿Actualmente cuántos de estos recuperados ya estarían recibiendo estas terapias entonces?
+---
+RICARDO CORTÉS ALCALÁ
+Tendría que verlo con Fundación Teletón y con el Sistema Nacional DIF para saber qué número específico de personas han requerido o han buscado este tipo de información.
+Sin embargo, la verdad es que, al igual que como hemos mencionado en ocasiones anteriores, en general, en general, las personas que enferman de COVID-19 tiene un cuadro leve o un cuadro moderado y no van a tener ninguna secuela y probablemente las personas que hayan tenido cuadro grave, inclusive un cuadro crítico con las personas que requerirán probablemente algunas de ellas, no todas, de algún tipo de terapia de rehabilitación pulmonar, por lo que me parece que ya de estas 500 mil personas que estimamos se han recuperado no representarán ni el cinco por ciento de las que requieran de alguna terapia de rehabilitación específica.
+Adelante, por favor.
+---
+PREGUNTA
+Gracias, buenas tardes.
+Preguntarle, doctor, de lo que nos estaba comentando hace un momento ¿en qué consisten los 74 eventos o los más relevantes que México notificó de importancia internacional, ¿qué tipo de eventos son estos?
+También preguntarle, la OPS ha dicho que el semáforo epidemiológico está confundiendo a la población. ¿Considera que ha sido confusa esta aplicación?, y de ser así ¿a qué se debe?
+¿Lo han detectado ustedes?, usted, que ha estado monitoreando todo el tiempo movilidad y demás, ¿ha detectado justo este tema de confusión entre la población cuando creen que ya están en semáforo verde y apenas es un semáforo color naranja?
+También preguntarle a la doctora, a raíz del monitoreo que hacen por ejemplo del tema meteorológico, ¿desde cuándo ustedes registraron o tienen registrado un riesgo en Tabasco, y qué acciones de prevención se pudieron hacer en ese lugar para evitar lo que está pasando ahora?
+Gracias.
+---
+RICARDO CORTÉS ALCALÁ
+Sobre los eventos, no son 74 los de México, son 74 los de toda América, de México fueron 11, y si hay interés en saber específicamente qué tipo de eventos se evaluaron, la doctora De la Garza podría presentar en otra ocasión específicamente el tipo de eventos que se evalúan.
+Se tiene un flujograma de decisión en la Unidad de Inteligencia de cómo es que ciertos eventos cumplen con estas características para poderlos notificar al centro de enlace de la Organización Panamericana de la Salud para que cumplan con estas características.
+Sobre el semáforo epidémico, la verdad es que yo creo que no confunde a nadie, tenemos una serie de 10 indicadores, empezaron siendo cuatro, de estos cuatro primero tenían un peso específico mayor algunos que otros.
+Hemos ido evaluando la utilidad del semáforo y la forma en que lo hemos comunicado. Yo creo que no confunde a nadie, es una herramienta que le puede decir tanto a la población el riesgo que hay en su estado y también a las personas titulares de los gobiernos de los estados para saber cómo con la información que ellos proveen al Sistema Nacional de Vigilancia Epidemiológica nosotros hacemos esta estimación del riesgo, y ellos inclusive también con datos que tienen y que recaban de otras unidades que no son propiamente de la centinela o de las que notifican al Sistema de Vigilancia de Enfermedad Respiratoria para que ellos tengan diferentes formas también de ir tomando decisiones.
+Hay que recordar que este semáforo no evalúa ningunas políticas particulares, sino lo que evalúa es el riesgo de cuál es el riesgo de si uno sale de su casa y no lleva a cabo las medidas básicas de prevención de las enfermedades respiratorias agudas, cuál es el riesgo que tiene de enfrentarse a una persona que pudiera estar enferma y que se contagie, esa es la finalidad o el último fin del semáforo epidémico de riesgos.
+Entonces, el estado de Campeche que está en nivel verde es el nivel más bajo posible, pero ya también lo hemos mencionado, no es riesgo cero, o sea, aún hay personas que están enfermas de SARS-CoV-2 en el estado de Campeche.
+Seguramente empezaremos a ver algún incremento en la vigilancia del síndrome respiratorio agudo, que eso es que tenemos que tener en mente, sobre todo ahora que inicia la temporada de influenza y en general de incremento de otros virus respiratorios, es la temporada invernal. Por eso la necesidad de lo más pronto posible y lo logramos ahora a partir del 1º de octubre de gestionar una campaña de vacunación contra la influenza.
+Y bueno, es el riesgo más bajo posible, no significa cero, significa es riesgo bajo, pero igual, si no mantiene sana distancia, si no te lavas las manos, si no usas el cubrebocas en espacios públicos cerrados, sobre todo, etcétera, si no sigues estas medidas básicas de prevención, entonces lo más probable es que ese riesgo que es bajo empiece a incrementar.
+Y lo mismo, si el riesgo es moderado en un estado como Guanajuato del cual yo soy originario, si uno sale y no tiene estas medidas básicas de prevención, el riesgo es más alto, sí, es más alto y así en la Ciudad de México que es la ciudad en la que vivo es todavía más alto, porque está en riesgo naranja.
+Lo importante es que la población tome en cuenta que si el riesgo es más alto en el lugar en el que vivo, debo de tener con mayor… en mente pues, con más ganas, por decirlo así, en mente, las medidas básicas de prevención.
+Lo que no hay que confundir es si transitamos de rojo a naranja como coloquialmente y hasta memes hay ya, semáforo rojo que parece naranja que la gente cree que es amarillo, pero actúa como si fuera verde, eso es lo que no hay que permitir, pero como sociedad, si estamos en un semáforo verde podemos, nuestro propio gobierno estatal ha estado, por ejemplo, el de Campeche ha estado viendo cómo incrementar o cómo disminuir las actividades sociales y económicas, y lo ha hecho desde una perspectiva del gobierno federal lo ha hecho de forma extraordinaria.
+Igual el gobierno del estado de Guanajuato, cómo ha ido trabajando junto con su sociedad para disminuir el riesgo y que cuando presentamos el semáforo de riesgos la semana, el viernes antepasado, se presenta Guanajuato como color amarillo y el secretario de salud del estado de Guanajuato dice: ‘Nosotros mantendremos en naranja por el momento’.
+Ellos también tienen esa capacidad, porque tienen una visión mucho más terrenal, mucho más dentro de sus territorios, probablemente la ciudad de León, que es la más poblada de ese estado tenga aún algunos números incrementados que el propio secretario de salud del estado de Guanajuato diga: ‘Ahorita continuemos en semáforo naranja para irnos más tranquilamente’.
+---
+PREGUNTA
+Perdón, olvidé presentarme. Karina Aguilar, del diario 24 Horas.
+Ahora que mencionaba usted la estrategia para evitar el tema de la Influenza en esta época invernal, dice que empezó el 1º de octubre; sin embargo, en el IMSS las vacunas todavía no llegan, han llegado solamente para los médicos.
+Nos explican que hasta dentro de dos semanas, semana y media, dos semanas podrían estar aplicándose a los derechohabientes. ¿Esto no afecta la estrategia que pretendían de contener el virus dos semanas previas?
+---
+INTERVENCIÓN
+De hecho, al personal de salud se empezó a aplicar antes del 1º de octubre.
+Si no me equivoco, sí es a partir del 1º de octubre que ya se tenía la seguridad de que estuvieran en todos los estados y en todas las instituciones, pero lo puedo ver con la doctora Miriam Veras, que es la titular del centro.
+---
+PREGUNTA
+¿Si no se aplica en esta semana, el 1º de octubre o la que pasó y esta semana que está empezando afecta la estrategia? Era lo que se preveía, justo empezar ahora para evitar posteriormente.
+---
+INTERVENCIÓN
+Puede retrasar un poco la meta, que es aplicar a todas las dosis que se adquirieron antes del 31 de diciembre, puede afectar un poco probablemente; sin embargo también al momento en que se empiece a aplicar en todas las instituciones, se tendrá también la capacidad de tener una aplicación de vacunas acelerado para poder recuperar estos días en los que si es que no se hayan tenido en disponibilidad en todas las unidades del IMSS.
+---
+INTERLOCUTORA
+Gracias.
+Me faltaba lo de…
+---
+ANA LUCÍA DE LA GARZA BARROSO
+Comentar un poquito sobre la situación meteorológica, que nos hace la pregunta, muchas gracias por la misma. Nosotros vamos dando seguimiento a los eventos meteorológicos desde que básicamente se forman.
+Como les comentaba, todos los días estamos haciendo un informe diario de monitoreo meteorológico y básicamente revisamos todos los días la información a través de la fuente oficial que es nuestro Servicio Meteorológico Nacional y desde que se forma, por ejemplo, en este caso la tormenta que tenemos, Gama, actualmente se formó como una zona de baja presión ya que tenía un potencial de 80 por ciento para desarrollo ciclónico básicamente desde el 2 de octubre.
+Nosotros vamos dando seguimiento desde que se forman a veces como zonas de inestabilidad o de baja presión y vamos dando seguimiento a toda la trayectoria del evento ya sea que pueda dirigirse hacia el país y a través de también de su velocidad y vamos emitiendo los informes y las alertas correspondientes, estas alertas o estos informes se comparten con las entidades federativas a través de las áreas de urgencias o las áreas epidemiológicas.
+Como les comentaba, estamos trabajando de manera importante para tener UIES en todos los estados y que estas UIES puedan tener también este tipo de actividades de monitoreo.
+También estamos trabajando de manera importante como una red vinculada precisamente para comunicarnos y para mejorar toda la parte del alertamiento y del monitoreo continuo.
+Entonces, desde su formación estamos dando seguimiento hasta que impacta y muchas veces después de todo el tiempo ya de que pasa la tormenta tenemos que estar dando seguimiento a los daños ocurridos por la misma.
+---
+RICARDO CORTÉS ALCALÁ
+Más o menos el mismo tratamiento que con la epidemia, desde diciembre lo están monitoreando y nos avisaron el 31 de diciembre y así hasta ahorita que seguimos.
+Adelante, por favor.
+---
+PREGUNTA
+Daniela Pastrana. Gracias.
+Esta es una pregunta que nos mandaron en la tarde por tuit que es: ¿por qué se permitió el maratón de Aguascalientes si están en transición?
+Son preguntas que nos hacen a veces recurrentemente. Entiendo que Aguascalientes está en semáforo amarillo, pero siempre genera como mucha inquietud este asunto de los eventos masivos, incluso aquí en la Ciudad de México el tema de las manifestaciones que ha habido.
+¿Qué avaluación tienen ustedes del impacto?, ¿qué previsiones tienen del impacto que pueden tener la realización de estos eventos masivos cuando estamos en transición?
+Y para la doctora De la Garza, estamos viendo, es también un poco de proyección, entiendo que ya en América casi todos los países, menos Argentina, van hacia la baja, pero en Medio Oriente están subiendo, la India, Irán y varios que están por ahí.
+¿Qué previsiones tienen sobre eso?, porque incluso, todavía todo lo que nos falta bajar implica muchos muertos más en el mundo desgraciadamente ¿no?
+¿Cómo están viendo este asunto del crecimiento en Medio Oriente?, ¿qué tanto impacto puede tener en nuevos rebrotes y rebrotes?
+Gracias.
+---
+RICARDO CORTÉS ALCALÁ
+Muchas gracias, Daniela. Primero, por favor si gustas, Ana.
+---
+ANA LUCÍA DE LA GARZA BARROSO
+Sí, gracias. Justamente me parece que no más allá de dos semanas se presentó la situación en Europa donde observábamos que hay países que están presentando una segunda ola que inclusive es más importante o de mayor alcance que la primera.
+Nosotros estamos también identificando que precisamente en la India había tenido un incremento importante de casos en el último mes que afortunadamente también parece ser que tiene una tendencia a la diminución, pero vamos dando seguimiento también a toda la región.
+Yo creo que estaremos presentando precisamente la región en particular y su comportamiento no más allá de la siguiente semana probablemente en donde ya sea nuestro subsecretario lleve a cabo la presentación o el director general de Epidemiología, el doctor Alomía.
+Estaremos justamente nosotros brindando estos detalles, pero sí, evidentemente estamos dando un monitoreo y vemos que en los países de otras regiones también ya empiezan con un repunte de casos, en particular en esa región.
+---
+RICARDO CORTÉS ALCALÁ
+Sobre llevar a cabo eventos como un maratón o eventos como manifestaciones, definitivamente este tipo de eventos pueden tener un impacto negativo en una trasmisión dentro de las personas que participen en este tipo de eventos como pueden ser marchas o el maratón que comenta, Daniela.
+Sí puede tener un impacto negativo, dado que están cerca las personas. Difícilmente se puede correr un maratón con un cubrebocas, bueno, habemos quienes ni sin cubrebocas lo podemos correr, pero aquellos que sí lo hacen con su cubrebocas será muy difícil hacerlo.
+Probablemente estar en semáforo amarillo para las personas que organizan un evento como este pueda representar con ciertas medidas de prevención el decir ‘corramos el riesgo’, y hay que estar evaluando como lo estaremos haciendo cada semana los indicadores no sólo de Aguascalientes, sino de todo el país para ver si hubiera algún incremento, algún impacto en el incremento de indicadores específicamente para el estado o para cualquier otro, porque son también de diferentes estados seguramente las personas que participan.
+Una última pregunta.
+---
+PREGUNTA
+Gracias. Buenas noches.
+Yo quiero preguntar sobre estos 25 mil que habla, doctor, que serían los que quedarían secuelas importantes. Si el Sistema Nacional Público de Salud tiene la capacidad para rehabilitarlos y en dónde podrían rehabilitarse estos pacientes.
+Hablaba usted de que el problema pulmonar sería la principal secuela. Yo quería saber si además de ese problema hay otro tipo de secuelas que se han identificado.
+Gracias.
+---
+RICARDO CORTÉS ALCALÁ
+Muchas gracias. Otras secuelas que no sean las pulmonares no han sido específicamente identificadas por nosotros.
+Se ha hecho, ya se ha iniciado una estrategia de telerrehabilitación en el Instituto Mexicano del Seguro Social y también con el Sistema Nacional DIF y con el apoyo de Fundación Teletón, que es una de las instituciones con más experiencia en este tipo de rehabilitaciones.
+Yo creo que vamos a tener la capacidad de dar la rehabilitación in situ cuando se den las condiciones y la capacidad de tener telerrehabilitación para brindar la atención a quienes así lo requieran.
+Siempre hay que recordar que este tipo de eventos tienen un impacto importante, un impacto importante en la morbilidad y en la mortalidad y en la morbilidad posterior, o sea, en personas que hayan quedado con alguna enfermedad posterior a una emergencia como esta. Entonces, sí va a haber capacidad para atenderlos a todos.
+También aquí hemos hablado del incremento o la necesidad de incremento de personas que se dedican a la rehabilitación en el Sistema Nacional de Salud en todos los estados para poder dar respuesta a un problema que pudiera presentarse como este.
+---
+INTERLOCUTORA
+El dato de rehabilitados.
+---
+RICARDO CORTÉS ALCALÁ
+El dato de cuántos rehabilitadores hay a nivel nacional, no, podría preguntárselo a los servicios de salud que tienen… cuántos trabajadores tienen ellos y al Sistema Nacional DIF que también nos puede apoyar con eso.
+---
+INTERLOCUTORA
+En Salud, nl Secretaría de Salud ¿cuántos programas hay para rehabilitar?
+---
+RICARDO CORTÉS ALCALÁ
+En Secretaría de Salud ¿cuántos programas hay para rehabilitar?
+---
+INTERLOCUTOR
+Hablaba del IMSS.
+---
+RICARDO CORTÉS ALCALÁ
+¿Perdón?
+---
+INTERLOCUTORA
+Hablaba del IMSS, quería saber sobre Secretaría de Salud también, por favor.
+---
+RICARDO CORTÉS ALCALÁ
+Sí, a través del Sistema Nacional DIF que pertenece, que está sectorizado, que está dentro de la Secretaría de Salud es que podemos brindar la mejor rehabilitación con especialistas que trabajan en este sistema nacional.
+---
+PREGUNTA
+Doctor, quien no presenta síntomas ¿no tiene secuelas? o quien tiene síntomas leves.
+---
+RICARDO CORTÉS ALCALÁ
+Lo más probable es que no, al final de cuentas si uno ni cuenta se da que estuvo enfermo, lo más seguro es que no tenga ninguna secuela específica.
+---
+INTERLOCUTORA
+Algunos doctores hablaban, por ejemplo, de dolor de cabeza, fatiga, incluso en personas sintomáticas o personas con síntomas muy leves, tenemos testimonios de personas que cursaron síntomas muy leves, el ejemplo de una mujer que después de cursar con estos síntomas ya no pudo cargar a su bebé, porque perdió fuerza muscular.
+---
+RICARDO CORTÉS ALCALÁ
+Entonces no era una persona asintomática.
+---
+INTERLOCUTORA
+No, ella con síntomas leves, sí.
+---
+RICARDO CORTÉS ALCALÁ
+Okey. Sí presentó síntomas leves.
+Probablemente podemos verlo desde dos perspectivas: o los síntomas leves no fueron tan leves como ella o quien la evaluó así lo determinó y fue más un cuadro moderado y que pudiera tener también alguna otra condición, condición de vida que le haya podido generar este problema con una secuela que no haya sido directamente por haber padecido coronavirus, sino que junto con el coronavirus se haya despertado alguna otra sintomatología o alguna otra enfermedad de la que no se hubiera dado cuenta.
+Muchísimas gracias. Son las 8:03. Muchas gracias a todas y todos por acompañarnos.

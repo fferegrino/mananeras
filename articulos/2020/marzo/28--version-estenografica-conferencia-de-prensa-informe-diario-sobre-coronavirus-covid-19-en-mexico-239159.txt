@@ -3,6 +3,7 @@ Presidencia de la República
 28 de marzo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 de este sábado 28 de marzo de 2020, estamos en la Ciudad de México, en el Palacio Nacional, y esta es la conferencia de prensa diaria sobre la situación del nuevo coronavirus, la epidemia de COVID en el mundo y en México.
 En esta ocasión queremos compartir un mensaje de especial importancia para que la sociedad pueda tener una noción clara e inconfundible del momento de oportunidad que vivimos y de los riesgos que implicaría el desaprovecharla.
 Por esta razón, en esta ocasión quienes somos voceros técnicos estamos acompañados y respaldados por los funcionarios del más alto nivel del gobierno federal en el campo específico de responsabilidad. En particular a mi derecha está el señor secretario de Salud, el doctor Jorge Carlos Alcocer Varela; y a mi lado izquierdo está el canciller, el secretario de Relaciones Exteriores, licenciado Marcelo Ebrard Casaubon.
 Comentaremos los voceros técnicos, el doctor José Luis Alomía Zegarra, director general de Epidemiología, y un servidor Hugo López-Gatell Ramírez, ​​​​​​subsecretario de Prevención y Promoción de la Salud.
@@ -36,6 +37,7 @@ Por ello, también es particularmente necesario que el sector privado y el secto
 Yo voy a pedir al doctor Alomía si nos puede compartir ahora la información técnica sobre el estado que guarda esta epidemia en el mundo y en México.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Gracias. Con su permiso, señor secretario, subsecretario.
 Como pueden ver ustedes, en las láminas que acostumbramos todos los días en esta conferencia, actualizar la pandemia a nivel mundial. Continua su evolución, el 75 por ciento de los casos, tres cuartas partes de ellos se han presentado en los últimos 14 días, lo que marca la evolución y la mantención de la transmisión en los diferentes países, sumando ya una totalidad de más de 571 mil casos. La tasa de letalidad mundial global se encuentra estable en relación a los últimos días, 4.6 por ciento, es lo que ha venido prácticamente sucediendo.
 En la siguiente diapositiva podemos ver nuestro panorama nacional en función de la distribución de los casos confirmados en el país. es importante igual comentarles que este mapa que ustedes ven en la diapositiva lo pueden ustedes ahora encontrar en la página de la Dirección General de Epidemiología, con la ventaja de que en la página se encuentra de manera interactivo, es decir, cada vez que ustedes den un click sobre alguno de los estados que ahí aparece, podrán encontrar la información en relación a los casos confirmados específicos para ese estado, casos sospechosos, en su momento pendientes de resultado y, muy importante, aquellos casos que han sido también descartados.
 Son 848 casos los que tenemos el día de hoy en la actualización, cuatro mil 341 casos se han descartado, eso también se ha incrementado; dos mil 623 casos se encuentran aún clasificados como sospechosos, por lo que podríamos lógicamente tener más casos para el día de mañana; y lamentablemente se actualiza a 16 defunciones las que han incurrido hasta el momento en México.
@@ -51,6 +53,7 @@ La siguiente gráfica nos vuelve a actualizar la cantidad de casos que en su mom
 Ese es el panorama para hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Antes de pasar a la sección de preguntas y respuestas -me vuelvo a parar-, quisiera despedir a nuestro grupo técnico, presentándolos en lo individual y pidiéndoles si son tan amables de pasar a continuar las labores, dado que esto no para y está reunido todo el grupo del comando operativo.
 Está la doctora Ana de la Garza, a quien ya conocen, es directora de Investigación Operativa Epidemiológica; el doctor Christian Zaragoza, epidemiólogo también. La doctora, además es doctora en salud pública.
 El doctor Christian Zaragoza, quien es especialista en epidemiología, director de Información Epidemiológica; el doctor Ruy López Ridaura, director general del Centro Nacional de Programas Preventivos y Control de Enfermedades, es doctor en Epidemiología, investigador nacional del Sistema Nacional de Investigadores nivel 2.
@@ -60,33 +63,67 @@ El doctor Ricardo Cortés Alcalá, quien es director general de Promoción de la
 Este es parte de nuestro grupo técnico. Trajimos a algunos de ellos, que son muy representativos de los liderazgos del grupo científico y técnico. Allá en el comando operativo están reunidos muchos más y les pido respetuosamente si pueden retirarse para continuar con las labores mientras termina la conferencia de prensa. Muchas gracias.
 Ahora sí, abrimos a preguntas y respuestas. Tratemos de ser concretos y ordenados, por favor. Vamos a empezar por la primera fila, los cuatro en la primera fila y nos seguimos en la siguiente fila, por favor.
 ---
+PREGUNTA
+Quiero preguntarles, hoy informó el gobernador de Hidalgo que dio positivo del coronavirus.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto.
+---
 INTERLOCUTORA
+El 18 de marzo estuvo presente en una conferencia mañanera con el presidente Andrés Manuel López Obrador.
 ¿El presidente se va a hacer una prueba de coronavirus o va a tomar algunas medidas como de aislamiento o de prevención?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, no aplica, porque el periodo relevante de contagiosidad empieza, en el caso de la persona afectada, en el momento en que empieza a desarrollar síntomas.
 La probabilidad de que una persona en el periodo previo a los síntomas, es decir, el periodo de incubación sea contagioso es muy bajo y además hacer la prueba en una persona cualquiera, sea el presidente o sea cualquier otro ser humano tiene un rendimiento muy bajo en la medida en que la persona sea asintomática. Desde luego, si fuera el caso que el licenciado López Obrador tuviera síntomas, sería atendido como corresponde a cualquier otro ser humano.
 ---
+INTERLOCUTORA
+Pero esto pasó la semana pasada, o sea, dentro de 14 días que a veces se recomiendan, ¿de todas formas, no es necesario?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Así es. Las pruebas se hacen para verificar el estado de una persona enferma, hacerla simplemente como una medida de precaución no tiene una indicación médica.
+---
+INTERLOCUTORA
+¿Y si desarrollara síntomas?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Se procederá conforme a la ciencia médica.
+---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Por favor, el compañero de aquí.
+---
 PREGUNTA
+Gracias, Poncho Gutiérrez, de SDP Noticias y Multimedios.
 Nada más para aterrizar las cifras, porque en noticieros han manejado que siete de cada 10 mexicanos se van a enfermar y, si hacemos las cuentas, hablamos de millones de muertes.
 ¿Nos podría dar un estimado de cuántos fallecimientos habrá?, ¿decenas, miles o millones?, digo, para tranquilizar la gente, por favor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Lo hemos explicado, que, con base en distintos ejercicios técnicos y científicos de modelación matemática,-algunos los hemos hecho nosotros como gobierno, varios otros los han hecho entidades académicas- lo interesante y reconfortante es que estas estimaciones son coincidentes.
 Esto no es tranquilizador en el sentido de que nos pinta un panorama importante de atender y por eso reiteramos en este momento que no podemos perder la última oportunidad que tenemos. Y para no perderla, la única manera para no perderla es quedarnos en casa, todo mundo se tiene que quedar en casa, a menos que cumpla una actividad crítica para el sustento de la vida pública, por importante que le parezca su actividad, solamente aquellas que son críticas para la vida pública, para el sustento del país.
 Respecto a la cantidad de casos, se ha dicho muchas veces, lo hemos dicho nosotros, lo han dicho en otros países, por ejemplo, la canciller alemana Angela Merkel, tenemos que distinguir claramente la diferencia entre infección y enfermedad.
 Infección, lo más probable es que la enorme mayoría de los países de todo el mundo terminen infectados, pero eso no quiere decir enfermedad. Eso debe de quedar muy claro, infección no quiere decir enfermedad.
 Entonces, la proporción de personas en todos los países que finalmente puede llegar a estar infectada es cercana al 70 u 80 por ciento.
 ---
+INTERLOCUTOR
+Pero en cifras aterrizadas.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Esto quiere decir que la mayoría de las mexicanas y los mexicanos vamos en algún momento a lo largo de esta epidemia, y esta epidemia puede ser larga como lo hemos dicho, larga, podemos llegar a estar infectados.
 Las cifras concretas sobre las personas que van a necesitar atención, las personas que al necesitar atención van a tener enfermedad leve, moderada o grave y desafortunadamente la cantidad de personas que pueden morir depende mucho de las intervenciones que hagamos.
 Por lo tanto, es estéril estar hablando de cada uno de los distintos escenarios, que sólo causaríamos confusión. Lo que se sabe es que la mayoría de las personas van a estar infectadas y que, de los que estén infectados, ocho de cada 10 van a tener una enfermedad leve, más o menos uno a dos de cada 10 van a tener una enfermedad suficientemente importante para ser hospitalizados y menos del cinco al seis por ciento van a necesitar atención en medicina crítica.
 ---
 PREGUNTA
+Doctor, gracias. Subsecretario, dos preguntas concretas.
 Ha habido publicaciones respecto a las modificaciones de las cifras de fallecimientos por neumonía en México, se ha dicho que habrían aumentado el número de casos en años anteriores para que la gente que desafortunadamente muere por COVID se cuente como neumonía y de esta forma se altere el promedio comparativo. ¿Es así o no es así?
 Necesitamos, digamos, claridad en estos momentos, sobre todo ante el anuncio que nos hace.
 ¿Cuáles serían entonces, si no es así, estas cifras de 2018, 2019 y 2020?, para tener muy claro cuántos mueren por neumonía y cuántos por COVID.
 Y lo segundo sería si se tiene la certeza de que las muertes que le han reportado o que les han reportado por neumonía no son realmente por COVID y en qué se basaría esa certeza científicamente hablando. Si nos puede hacer favor de responder.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Gracias por la pregunta, gracias, porque es muy importante disipar campañas de desinformación deliberadas que han existido, específicamente la que ocurrió en las últimas 24 horas, en donde se empezó a inflar sin ninguna base de evidencia la falsa idea, aquí le estoy respondiendo, la falsa idea de que el gobierno intenta modificar las cifras de neumonía o de cualquier otro padecimiento para ocultar la importancia de COVID. La falsa idea.
 Estas gráficas -me paro nuevamente- se llaman canal endémico. El canal endémico es una gráfica que utilizamos en epidemiología desde hace muchísimos años, es parte sustancial del Sistema Nacional de Vigilancia Epidemiológica que representa lo que ha ocurrido en los últimos siete años y lo que está ocurriendo en el año presente, y se va actualizando semana tras semana con la notificación de casos que provienen de más de 26 mil unidades de atención de salud de primero, segundo o tercer nivel que representa la totalidad del Sistema Nacional de Salud y que están obligadas, de acuerdo a la Ley General de Salud, a notificar distintos padecimientos, en este caso neumonías y bronconeumonías.
 Lo que se ve en la gráfica, para que todos lo tengamos claro, en la progresión de las semanas de todo un año, desde la semana uno hasta la semana 52, el número de casos registrados de neumonías y bronconeumonías.
@@ -100,24 +137,53 @@ En la siguiente es el caso de Nuevo León, donde tenemos este mismo comportamien
 Y en la última, el Estado de México, en donde tenemos esta existencia de casos que después fue descendiendo.
 Cierro diciendo lo que ocurrió al inicio del año todavía presenta el comportamiento de la temporada de influenza. La influenza ocurre todos los años entre octubre y marzo, y entre octubre y marzo la influenza es una de las enfermedades, posiblemente la principal causante de neumonías, bronconeumonías, tanto en casos como en defunciones.
 ---
+INTERLOCUTORA
+Discúlpeme nada más la insistencia. Entonces, ¿tienen la certeza de lo que les reportan como neumonía es fallecimiento por neumonía y lo que es COVID o fallecimiento por COVID?, ¿es así?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+COVID es una enfermedad que tiene tres presentaciones: leve, que no tiene neumonía; moderada, que pudiera tener neumonía o ser una inflamación del árbol bronquial; y grave, donde clásicamente hay daño pulmonar agudo y neumonía.
 Son, por decirlo de otra manera, COVID es parte del mundo de las neumonías y por eso monitoreamos también esto, porque esto puede ser una señal indirecta de la existencia anormal de COVID.
 A lo largo del año y a lo largo de las semanas vamos a estar compartiendo estas curvas ya que hoy se las presentamos, porque son uno de los siete componentes de la vigilancia integrada de la epidemia de COVID.
 Entonces, la respuesta es clara: sí, efectivamente, las señales del Sistema Nacional de Vigilancia Epidemiológica consistentemente muestran que la idea de que hay un exceso de neumonías atípicas es falsa y de que no corresponde con el comportamiento de COVID.
 ---
+INTERLOCUTORA
+Y nada más, discúlpeme el atrevimiento y el aprovechar, pero para que me quede claro y poder transmitirlo, así es que la neumonía a lo mejor podría ser una complicación de alguien que padece COVID.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Así lo he dicho. La neumonía es una de las manifestaciones clínicas que ocurrirá en el cinco por ciento aproximadamente o en promedio cinco por ciento de las personas que tengan COVID.
+---
+INTERLOCUTORA
+¿Y la tabla de fallecimientos aparecería como muerte por neumonía o muerte por COVID?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Aparecería como muerte por COVID, por supuesto.
+---
+INTERLOCUTORA
+Gracias, muy amable.
+---
 PREGUNTA
+De este lado, doctor Gatell; canciller, buenas noches, también a la mesa. Carlos Guzmán, de ABA Noticias. Tres preguntas muy rápidas.
 La primera, si nos puede decir si este llamado que hace a quedarse en casa por un mes va a implicar el mover la fecha de regreso posible de los niños a la escuela que estaba planteada para el 20 de abril.
 La segunda, que nos hable un poquito de la cuestión de cómo va el reclutamiento de médicos, especialistas, enfermeras; y si en dado caso de que no se cumpla el número de especialistas se puede abrir a enfermeras generales u otro de especialistas para poder cubrir y capacitar antes de que comience todo esto.
 Y para el canciller Marcelo Ebrard, si nos puede hablar un poquito de cómo va la cuestión de repatriados, especialmente en el caso de una peruana que está… una mexicana que está en Perú y también de los argentinos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sus preguntas también son muy valiosas.
 Sobre el reclutamiento de personal médico, este continúa, este forma parte de la convocatoria inicial que ya estaba abierta para reclutar personal médico para el bienestar. En este caso la hemos enfocado mayormente a las especialidades médicas relevantes para la atención de COVID.
 Hasta el momento tenemos un progreso importante, donde ha habido cerca de dos mil 500 presentaciones, es decir, personas, especialistas en los campos relevantes que se han sumado a la convocatoria. No todos pueden ser incorporados debido a que los perfiles profesionales pudieran no ser los adecuados y estaremos anunciando conforme ya se vayan concretando este reclutamiento.
 ---
+INTERLOCUTOR
+En el caso de la movilidad de la fecha.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, también por eso. En fecha muy próxima, -regreso a un asunto que ya conocen, pero para que todos lo tengan presente- el Consejo de Salubridad General desde el 19 de marzo se declaró en sesión permanente. Esto lo que nos permite es tener una agilidad inmediata para la convocatoria del consejo y que el consejo pueda ir revisando las decisiones mayores sobre las intervenciones de salud pública.
 En este momento, y para que lo recuerde la población, la medida masiva de distanciamiento social que se puede resumir con: quédate en casa, quédate en casa. Es del 23 marzo y hasta el 19 de abril, sin embargo, como muy atinadamente usted señala, la medida puede estar sujeta a revisión para su ampliación, pero de momento no se ha tomado esa decisión, de momento está sujeta a una deliberación muy próxima del Consejo de Salubridad General; si así se decidiera, lo anunciaremos oportunamente.
 ---
+INTERLOCUTOR
+Lo del canciller, por favor.
+---
 MARCELO EBRARD CASAUBON, SECRETARIO DE RELACIONES EXTERIORES
+Muchas gracias, buenas noches, buenas noches colegas, señor secretario, señor subsecretario, señor director, amigas, amigos todos.
 Bueno, en primer lugar, sumarme al llamado que hace el doctor López-Gatell respecto a quedarnos en casa. Usted preguntó de qué va a depender los números o qué números. Sólo añadiría pues depende también de qué hagamos cada uno de nosotros. A mayor disciplina y contribución de cada uno de nosotros, mejor nos irá como país.
 Paso a contestar lo que usted me pregunta. Se han repatriado poco más de ocho mil personas de muy diversos países, hemos venido informando día a día. Para ello hemos contado con el apoyo de las aerolíneas mexicanas Interjet, Aeroméxico, principalmente.
 Hemos contado con el respaldo del Instituto Nacional de Migración que ha contratado vuelos especiales, como, por ejemplo, el que se hizo ahora a Cuzco, Perú, donde había un grupo importante de mexicanas y mexicanos que quedaron ahí, digamos, que atrapados, atrapadas por la disposición que se tomó por parte del gobierno de ese país hermano de cerrar sus fronteras. Entonces, se quedaron sin ninguna alternativa.
@@ -131,7 +197,14 @@ No está grave, pero está sola, su marido falleció, ha sido una tragedia impre
 Eso es lo que va a suceder y el día lunes por la noche o martes en la mañana debe de estar aquí doña Estela para que la podamos atender y, si es su deseo, trasladarse al estado de Yucatán.
 El gobernador ha estado muy pendiente de este hecho, de todo lo acaecido con este grupo que proviene de Yucatán que por fortuna ya en su inmensa mayoría está en México. Esa es la situación.
 ---
+INTERLOCUTOR
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vámonos a la segunda fila, Laura Poy, usted y luego Sergio.
+---
 PREGUNTA
+Gracias, muy buenas noches a todos, Laura Poy, de La Jornada.
 Doctor López-Gatell, este llamado tan concreto y urgente que usted acaba de hacer a la sociedad mexicana, a mí me gustaría saber concretamente por qué vuelve a reiterar con tanta claridad y con tanta fuerza ese llamado.
 ¿O no estamos acatando o ve usted…?, ¿qué ve?, ¿qué es lo usted ve para hacernos este llamado tan urgente?
 Nos dice que estamos prácticamente en el último momento, en el último momento de oportunidad. Doctor, si no lo tomamos ¿qué va a pasar? Eso quisiera, que nos diera el escenario.
@@ -140,6 +213,7 @@ Y, por último, estamos teniendo decesos. ¿Cuál es el protocolo para los casos
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Muchas gracias, Laura, sus preguntas son extremadamente importantes. Voy a empezar por la tercera, dejaré desde luego la segunda al canciller y contestaré con cierta vehemencia la primera.
 En la tercera, sobre los fallecimientos y en general sobre las medidas de bioseguridad. Bioseguridad son aquellas prácticas, acciones, protocolos, cuidados, que deben guardar las personas que están en contacto con los casos, con el material biológico de los casos, las secreciones, y desde luego en los casos más extremos de esta enfermedad con los cadáveres.
 Quiero dejar en claro que la guía de bioseguridad, la Guía de control de infecciones que publicamos, el gobierno la publicó en la primera semana de febrero, contemplan las características de las acciones y el equipo de protección necesario para esto.
 Y aquí sí doy una nota de tranquilidad en el sentido de que, a pesar de las imágenes que se ven en distintos medios de comunicación, formales e informales, en donde se aprecia gente utilizando equipos de máxima contención, equipos de nivel de bioseguridad más alto, del nivel 4, como se clasifica técnicamente, y me refiero para pronta identificación por parte del público a estos trajes que son una suerte de pijama blanca acompañados de una careta o incluso de una mascarilla completamente sellada, esto no corresponde, no corresponde a la necesidad de bioseguridad para este virus.
@@ -156,6 +230,7 @@ En resumen, no se necesitan procedimientos especiales, no se necesita incineraci
 Vamos a ir muy rápido, me dicen que quedan siete minutos. Las últimas dos compañeras… Perdón, el canciller, disculpe usted, canciller.
 ---
 MARCELO EBRARD CASAUBON
+No, no, es por… Me preguntaba usted del abastecimiento. Bueno, a ver, hago la explicación. El señor presidente de la República dispuso varias cosas al mismo tiempo:
 Primero, México es el octavo exportador de equipo médico del mundo y por tanto la instrucción a la Secretaría de Economía y al equipo del gobierno fue, desde hace ya varios días, reunirse con la industria que en México produce equipo médico que acabo de referir. Ese es un camino muy importante.
 ¿Podrá eso llevar una reconversión de algunas actividades?
 No me corresponde a mí decirlo, pero la secretaria de Economía seguramente, si se le invita a una de estas reuniones, podría informárselos a ustedes con el detalle del caso, pero eso se está trabajando.
@@ -173,6 +248,7 @@ Pues no, no están autorizadas, en fin, o sí están autorizadas en algunos caso
 Entonces en eso estamos, esa es la respuesta a su pregunta.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, canciller.
 Nada más no quiero perder la oportunidad de aprovechar la pregunta, ¿qué vemos?, y por eso hacemos este llamado enérgico hoy.
 Lo que vemos es que las medidas de distanciamiento social a las que hemos llamado Jornadas Nacional de Sana Distancia que necesitan ser aplicadas al mismo tiempo por todos y todas, no se están aplicando con el rigor necesario. Vemos que se necesita que todas y todos en la sociedad, el sector social, el sector privado y, desde luego, también el sector público lo hagan ya, y lo hagan de manera enérgica. Quédate en casa, es muy simple el mensaje: quédate en casa.
 Y si no te quedas en casa, tú, y tú, y tú, y todos nosotros, lo que va a resultar es que en las próximas semanas vamos a tener demasiados casos para poder atender a todas y todos, y eso va a llevar a desafortunados desenlaces sumamente indeseables.
@@ -182,26 +258,41 @@ Los efectos positivos de esta medida los vamos a ver en las semanas por venir, n
 Cabe una pregunta más por el tiempo y va a tener que ser usted; si da tiempo, Araceli, por favor.
 ---
 PREGUNTA
+Gracias, buenas noches, Fanny Miranda, de Milenio.
 Ante esta respuesta de la ciudadanía, como ya nos comenta, todavía la gente está en la calle. ¿Se está pensando en implementar medidas más severas para que realmente se mantengan en su casa? Eso es por un lado.
 Y para el canciller, hay ciudadanos en otras partes del mundo ¿Se está pensando también en repatriarlos?, ¿y cuáles serían los factores que se tomarían en cuenta para ello?
 Y ya, por último, si me da tiempo. Tenía usted aquí a los funcionarios de este comité técnico, preguntarle: ¿cuánto se está invirtiendo en materia de ciencia para las innovaciones, para buscar los tratamientos contra el coronavirus?, ¿y qué instituciones lo están haciendo?, ¿cuántos programas? ¿cuántos protocolos de investigación se están planeando ya?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Como no, la última se la contestó rápido, no tengo el dato, el Consejo Nacional de Ciencia y Tecnología está participando en la promoción de la colaboración científica a nivel nacional e internacional para que nos sumemos a los distintos protocolos de innovación científica y tecnológica. Pero con gusto preparamos el dato y se lo traemos.
 Sobre la primera pregunta, -la otra desde luego es para el canciller- lo que estamos identificando es que tenemos grandes oportunidades para tener un pueblo responsable, un pueblo activo.
 Celebramos y respetamos y agradecemos a todas aquellas personas y organizaciones o instancias gubernamentales, incluidos los gobiernos estatales, que han tomado acciones responsables, acciones decididas.
 Entonces, el sentimiento público es que se necesita hacer algo, pero decimos con claridad, ese algo lo tenemos que hacer todos, todas. No nos esperamos a que nos venga del gobierno, no es deseable en el manejo de una epidemia llegar situaciones extremas como la que hoy vemos en Europa, donde se declaran formalmente estados de excepción y se suspenden las garantías constitucionales y se usa la fuerza pública para reforzar las medidas de salud pública, no es deseable.
 Entonces, hacemos un llamado enérgico, enfático, inconfundible a quedarnos en casa, quedarnos en casa todas y todos, es la mejor vía que voluntariamente, conscientemente decidamos quedarnos en casa todas todos al mismo tiempo.
 ---
+INTERLOCUTORA
+No es deseable, pero ¿podría aplicarse?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Todas las posibilidades están y el marco legal de México lo contempla, pero quisiéramos no llegar a ese punto porque, además, si llegamos a ese punto es porque es demasiado tarde. Entonces tenemos que actuar ya.
 Canciller, por favor.
 ---
 MARCELO EBRARD CASAUBON
+¿Cuál es el criterio que hemos seguido hasta ahora?
 Primero se utilizaron líneas áreas, intercambios, porque se quedaron extranjeros en nuestro país que necesitan regresar a un país y entonces los mexicanos en aquel país, se hicieron convenios.
 Conforme se han ido cerrando los vuelos… Para darnos una idea, hay una reducción agregada de vuelos en el mundo de más del 70 por ciento en este momento, es decir, hay países en donde ya no puedes llegar.
 Una cosa es reducción de vuelos y otra cosa es cierre de fronteras, hay países que no puedes volar, Perú no puedes y como Perú otros países.
 Entonces, el criterio es: primero, ya se cerraron las posibilidades de las líneas aéreas, ya no podemos llegar vía charters, entonces ya lo único que nos queda es llegar por vía Fuerza Aérea Mexicana o Secretaría de Marina. Cuántos mexicanas y mexicanos hay y desde luego si podemos técnicamente tener la autorización para aterrizar, porque hay países que nos han dicho que no, por las razones…
 ---
+INTERLOCUTORA
+(inaudible)
+---
 MARCELO EBRARD CASAUBON
+No lo haría porque lo pueden tomar… Pero le diría a usted hay varios países del mundo que ya no podemos aterrizar porque es una disposición de cierre total.
 Entonces, la gran mayoría de estos más de ocho mil mexicanas y mexicanos se ha logrado. Esa es otra de las razones porque las cuales México no suspendió vuelos de manera unilateral, porque se hubieran quedado los mexicanos varados en Europa y en otros países, probablemente varias decenas, si no es que cientos de miles.
 Entonces, en la política de lo que acabo de describir, más lo que México ha hecho, ha permitido que regresen a nuestro país la inmensa mayoría, en eso vamos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Señor secretario de Salud, señor canciller, agradecemos mucho su apoyo, su orientación, su respaldo, a los técnicos que estamos operando esto.
+Muchas gracias, aquí terminamos.

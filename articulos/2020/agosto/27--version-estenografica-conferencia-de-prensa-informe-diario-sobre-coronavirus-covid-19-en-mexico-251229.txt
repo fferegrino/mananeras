@@ -3,6 +3,7 @@ Presidencia de la República
 27 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Son las 19:00 horas. Bienvenido, Ángel, qué bueno que ya está recuperado. Son las 19 horas con minuto del jueves 27 de agosto de 2020, estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy tenemos, como siempre, el informe técnico que presentará el doctor José Luis Alomía, director general de Epidemiología de la Secretaría de Salud, y en el componente temático hoy nos vuelve a acompañar y nos da gusto, es un verdadero privilegio que nos acompañe el doctor Juan Rivera Dommarco, quien es el director general del Instituto Nacional de Salud Pública.
 Bienvenido, Juan.
 Nos va a hablar de lo que él es experto, posiblemente una de las personas con mayor experiencia científica en el país y en el mundo, que es la alimentación, la nutrición y la relación que tiene con el perfil de salud de nuestro país.
@@ -11,6 +12,7 @@ Y de manera específica, y hoy nos lo comentará, él fue el editor en jefe de u
 Entonces, le pido al doctor Alomía si puede presentar el informe técnico, enseguida escuchamos al doctor Rivera y abrimos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto señor subsecretario.
 Muy buenas tardes a todas y todos los que sintonizan esta conferencia vespertina, así como a la prensa que se encuentra de manera presencial en este momento, es precisamente la número 181 ya, y el día 89 de esta Nueva Normalidad.
 Vamos a actualizarlo el escenario nacional. En la siguiente diapositiva, más de un millón 304 mil son las personas que al corte del día de hoy han sido estudiadas por ser casos sospechosos de COVID-19. De este grupo, 643 mil 265 dieron negativas a la prueba, es decir, no se identificó la presencia del virus SARS-CoV-2 en sus vías respiratorias, por lo tanto, fueron descartadas y están representadas en las columnas de color morado.
 Pero también 579 mil 914 son las personas que dieron positivas a la prueba del virus SARS-CoV-2, por lo tanto, son los casos confirmados de COVID-19, dado que presentaban signos y síntomas compatibles con la enfermedad al momento de tomar esta prueba y están representadas también en las barras de color café claro que se encuentran en la parte inferior.
@@ -23,9 +25,11 @@ Veamos la siguiente diapositiva, que son las camas con ventilador para los pacie
 Es la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Le pedimos al doctor Juan Rivera si nos puede iluminar.
 ---
 JUAN ÁNGEL RIVERA DOMMARCO, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE SALUD PÚBLICA (INSP)
+Muy buenas noches a todas y todos.
 Quisiera, en primer lugar, agradecerle mucho al doctor López-Gatell por esta oportunidad que me da de compartir con ustedes, con los medios, pero también con todas las personas que desde su hogar nos están viendo esta presentación en donde hablaré sobre la importancia que tiene para la salud la alimentación, pero también la importancia que nuestra alimentación tiene para tratar de evitar los efectos adversos que estamos viendo sobre la salud ambiental de nuestro planeta.
 Esta idea fue la que originó precisamente al Grupo Intersectorial de Salud, Alimentación, Medio Ambiente y Competitividad, el Gisamac, del que ya hablado el doctor López-Gatell, también el doctor Barquera, y que el día hoy represento.
 También quiero comentarles que la pandemia de coronavirus nos vino a despertar y hacer ver la importancia que tiene la alimentación saludable, tanto para nosotros como también la importancia que tiene cuidar nuestro ambiente.
@@ -96,6 +100,7 @@ Y algo muy importante, se requiere un paquete integral de acciones. Fíjense en 
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchísimas gracias, doctor Juan Rivera Dommarco, director general del Instituto Nacional de Salud Pública.
 Como pueden ver, la salud en México depende de un cambio radical en las prácticas alimentarias y como ya señala el doctor Juan Rivera, quien es una de las personas más expertas de este tema en México y uno de los expertos mundiales más reconocidos, esto depende de tener una política integral.
 En los documentos que nos ha presentado, incluyendo el libro de La obesidad en México, existen todos los fundamentos teóricos, técnicos, científicos, revisados por distintos grupos académicos de alto rendimiento para lograr una política pública.
 Este libro es fundamental. Como ya comentaba, la edición original es de 2012 y fue presentada como parte del esfuerzo de la Academia Nacional de Medicina, el Instituto Nacional de Salud Pública y la UNAM para contribuir a las políticas públicas sobre alimentación y salud en 2012.
@@ -105,24 +110,32 @@ Por ahí encontrarán algunas conversaciones públicas que hablan de la necesida
 Muchas gracias, doctor Juan Rivera.
 Quisiera, antes de pasar a preguntas y respuestas, fe de erratas, fe de erratas. Le pido al doctor Alomía si nos comenta. Había un error en la diapositiva número 2 o 1, más bien, la diapositiva que tiene el número de defunciones registradas, estaba el dato de ayer, hoy es 27 agosto, y el doctor José Luis Alomía nos va a comentar.
 ---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, es correcto. Hubo un error en la actualización del dato de defunciones acumuladas, para el día de hoy son 62 mil 594, en la versión que se comparte a los medios y que además se pública el dato ya estará correcto.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Queda entonces registrado, fe de erratas, el número correcto y en la presentación que ponemos a acceso público estará ya el dato corregido.
 Ángel, por favor, le damos la bienvenida.
 ---
 PREGUNTA
+Buenas noches, subsecretario; buenas noches, doctor Alomía, doctor Rivera, bienvenido, buenas noches.
 De los reportes de la semana pasada y de esta semana hemos visto, en función de eso, hemos visto un descenso en la tasa de contagios que ayer apenas ni siquiera alcanzó el uno por ciento, creo que está en 0.93 la tasa nacional, y el número de defunciones igual, va a la baja.
 ¿Se puede decir al día de hoy que México ya alcanzó el punto acmé o punto máximo de la epidemia en la semana 28-31? Esa es mi pregunta, al día de hoy. Gracias, buenas noches.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Ángel. Efectivamente, llevamos cuatro semanas consecutivas con descenso, descenso en el número de casos, los casos que se presentan hoy son menos que los que se presentaron el día previo, este fenómeno viene ocurriendo desde hace cuatro semanas, un mes completo de descenso.
 En la semana más reciente registrada, que es la semana número 33, el descenso ya no fue tan grande desafortunadamente, pero sigue la tendencia al descenso y estaremos siempre expectantes. Insisto lo que he dicho todas las veces, cuando las noticias son buenas hay que conocerlas, cuando las noticias no son tan buenas también hay que conocerlas.
 Entonces, nótese que en la semana… el cambio entre la semana 32 y la 33 no es tan estimulante como de las tres, cuatro semanas previas en la medida que no es tan grande, podría ser que al final de la semana se borrara el descenso, es decir, que termináramos en equilibrio, ya no en descenso, así se va a comportar, lo hemos dicho también muchas veces, no se debe asumir que una vez que empieza a descender ya continúa siempre en descenso siempre descenso, monotónico se llama esto técnicamente, hasta terminar con la epidemia, puede tener subidas, bajadas, subidas y bajadas.
 Pero en general si vemos la tendencia completa de esta epidemia que empezó en febrero, el 28 de febrero y que hemos considerado que podría llegar hasta octubre, en general llegamos ya al acmé, al punto cumbre en la segunda quincena de julio, la primera quincena de agosto y ahora ya está en descenso. Muchas gracias.
 Vamos a darle la palabra aquí a Héctor García, luego a Daniel Blancas.
 ---
 PREGUNTA
+Gracias, subsecretario. Héctor García, de diario Basta y Grupo Cantón.
 Precisamente ahorita que estaban hablando de productos chatarra y bebidas altamente azucaradas, sabemos que Oaxaca y Tabasco ya aprobaron esta ley; sin embargo, está saliendo una información por redes sociales donde habla de los cinco errores de la ‘ley Gatell’, parece ser que ya le están haciendo promoción. ¿Nos puede platicar acerca de eso?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Sí, me llamó la atención ver esta idea en las redes sociales de la ‘ley Gatell’.
 Yo soy un funcionario técnico que trabajo para el Poder Ejecutivo del país, del gobierno de México, yo no legislo. Hace unos días la semana pasada alguien me comentaba que se rumoraba que yo mandé a hacer un formato de ley y que lo distribuí en los 32 congresos estatales dando instrucciones a los congresos estatales. No.
 Me hizo gracia cuando me lo dijeron, porque evidentemente es una acusación absurda. Lo único que he hecho es celebrar, como lo dije, cuando el congreso de Oaxaca impulsó esta ley y la aprobó por unanimidad casi o por una amplísima mayoría y tuve el gusto de conversar con el coordinador, el presidente de la Junta de Coordinación Política del Congreso de Oaxaca, de la Mesa Directiva, y celebré públicamente que había ocurrido esto y nada más.
 Sigo celebrando, cuando en Tabasco se aprobó la ley respectiva, sigo celebrando que en las 32 entidades federativas exista la consciencia de la importancia de cambiar el rumbo de manera muy radical respecto a nuestro sistema alimentario y, como ha señalado el experto, el doctor Juan Rivera, la importancia de abordar de manera integral el sistema agroalimentario, los ambientes escolares, el ambiente alimentario en general, la comunicación de riesgos y la promoción de la salud y los primeros mil días de vida que son una oportunidad crucial para sentar las bases fisiológicas, neurofisiológicas y emocionales de la alimentación saludable.
@@ -133,16 +146,25 @@ Hay algunas preocupaciones respecto y consideramos que sería saludable para el 
 Daniel Blancas, de Crónica.
 ---
 PREGUNTA
+Hola. Buenas noches a todos.
 Primero, una, dos preguntas, una para el doctor López-Gatell, una para el doctor Ángel.
 Usted, dentro de las estrategias que mencionaba sobre esta situación tan crítica que vivimos en el país, decía que era acortar, disminuir el costo o la partida que usa el gobierno para comprar alimentos que no son deseables, usted lo dijo así, que no son saludables.
 ¿Qué referencias tenemos de qué tipo de alimentos han comprado los gobiernos anteriores?, ¿y qué parámetro o cuánto se gastaba en la compra de estos alimentos? Para el doctor Ángel, por favor.
 ---
 JUAN RIVERA DOMMARCO
+Sí, muchas gracias, Daniel, por la pregunta.
 La propuesta nuestra es una propuesta en el sentido de que el gobierno es un cliente muy importante en muchos aspectos, pero en alimentos es muy importante ¿por qué?, porque el gobierno compra alimentos para, por ejemplo, agua para las reuniones o bebidas azucaradas, compran galletas o pastelitos para eventos, pero también pues tienen programas sociales, tienen también programas escolares.
 Entonces, aquí no tanto pensamos en los recursos si deben aumentar o disminuir, sino que la calidad de los alimentos que el gobierno adquiera atienda a normas de carácter tanto de salud como de medio ambiente.
 En otras palabras, que, en vez de comprar, por ejemplo, bebidas azucaradas, compren agua; en vez en comprar alimentos ultraprocesados, pastelitos, galletas, pudieran comprar fruta. Ese es el espíritu y es una recomendación general, leyendo el libro hay un poquito de más especificidad, no es tanto el mover los recursos o el disminuir los recursos.
 ---
 INTERLOCUTOR
+¿Pero se tiene alguna referencia de cuánto se gastaba en esta situación?
+---
+JUAN RIVERA DOMMARCO
+No lo tenemos, no hicimos ese análisis porque básicamente era mover simplemente la calidad, no tanto la cantidad.
+---
+INTERLOCUTOR
+Muchas gracias.
 Y la segunda pregunta para el doctor Gatell, pues es producto de una investigación. Nos dimos a la tarea de ir a uno de los municipios que constantemente han aparecido aquí entre los más altos en contagios y decesos. Nos llamó la atención porque mucho se ha hablado de hay más contagios donde hay más gente, donde hay más número de habitantes.
 Y sucede que dimos con este dato de Milpa Alta, un municipio que prácticamente en todas las listas ha aparecido en los más altos de contagios y de muertes. Fuimos a hacer una investigación de campo a ver por qué en el municipio con más pocos habitantes de la ciudad, en el municipio con menor densidad de la ciudad, existía el mayor número de contagios
 Y lo que nos encontramos, lo que hicimos fue corroborar las últimas cifras que ha dado el Inegi y que ha dado el Coneval respecto a este municipio, y quisimos verificarlo en la realidad. Y lo que encontramos fueron, rápidamente para dar oportunidad a otras preguntas, faltas de vías de acceso.
@@ -159,6 +181,7 @@ Entendemos que hay campos de competencia, hay gobiernos locales, esto depende ta
 Muchas gracias, subsecretario.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Al contrario, muchas gracias, Daniel Blancas, de Crónica, por sus reportajes, este y otros que nos ha comentado. Nos parece extraordinariamente valioso que el trabajo periodístico sea inquisitivo y explore los distintos males de la sociedad.
 Sobre lo primero, definitivamente la pobreza, la carencia, la injusticia social, la falta de servicios que garanticen el cumplimiento de derechos es en sí mismo una aberración de las sociedades, incluida la de México y es algo que es completamente dañino para la salud. La pobreza es dañina para la salud, la injusticia es dañina para la salud.
 En casi cualquier aspecto de la salud pública existe una correlación entre pobreza y menor salud, menor calidad de vida, menor duración de la vida, esto se conoce por milenios de hecho, iba a decir siglos, pero no, milenios.
 En el campo de la epidemiología, la epidemiología es la ciencia básica de la salud pública y quienes nos entrenamos en la epidemiología lo conocemos de sobra porque los ejemplos sobran sobre esta dramática realidad donde la injusticia social, la carencia, la desigualdad, la falta de riqueza o de suficiencia en todos los aspectos tiene repercusiones.
@@ -167,12 +190,33 @@ También en el caso de COVID esta historia prolongadísima, diría yo ancestral,
 Ahora, hay fenómenos… en su segunda pregunta pues es una denuncia que me parece muy valiosa. Vamos a comentar, que quede aquí claro, los servicios estatales de todas las entidades federativas dependen del gobierno de la entidad federativa, no son la Secretaría de Salud, eso se acabó en agosto de 1997 cuando se estableció el acuerdo de descentralización de la Secretaría de Salud y las entidades federativas, incluyendo la Ciudad de México, entonces Distrito Federal, procedieron a crear un organismo público descentralizado que se llama Servicios Estatales de Salud y una autoridad o una rama del Poder Ejecutivo estatal, que es la Secretaría de Salud.
 Pero tenemos una excelente relación y profundo respeto por el gobierno de la Ciudad de México, por su jefa de Gobierno, la doctora Claudia Sheinbaum, y por la secretaria de Salud, nuestra muy querida amiga y colega la doctora Oliva López Arellano, experta en salud pública, con quien vamos a comentar sobre su denuncia para que se haga lo procedente respecto a las otras anomalías de carácter administrativo.
 ---
+INTERLOCUTOR
+Porque además (inaudible) no sólo existen en la ciudad, existen en todos los estados.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, hay casi 300 conexiones.
+---
+INTERLOCUTOR
+Comento lo de Milpa Alta, pero encontré, digamos, en la investigación otros jefes jurisdiccionales que llevan 20 años y que, digamos, tienen cotos de poder, que tiene corruptelas, que tienen venta de plazas y que seguramente el empuje del gobierno federal puede ayudar a que esto vaya depurándose.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto, la Cuarta Transformación en el sector Salud también involucrará, ya empieza a involucrar en varios cambios, una reorientación de cómo se estructura administrativamente el Sistema Nacional de Salud.
 La descentralización en su momento tuvo rendimientos positivos en la medida en que los sistemas locales de salud, como se les denominaba en el término genérico, no solamente en México, sino en general en el mundo, ayudaron a tener una respuesta administrativa de planeación, de uso de los recursos, más cercana al sitio donde está la población.
 Pero desafortunadamente en un país asolado por muchas décadas por problemas de malversación de los bienes públicos de corrupción, pues también hubo distorsiones del ejercicio de esas funciones de rectoría y de administración de los servicios de salud, y es parte de la transformación que vamos a estar haciendo a lo largo del sexenio.
 Muchas gracias, Daniel Blancas. Nos queda tiempo para una última pregunta, por favor, adelante.
 ---
 PREGUNTA
+Óscar Sosa, para Enrédate Digital.
 Mi pregunta, doctor Gatell va en referencia que nos debemos los medios a la audiencia, entonces hoy se escribió un caso una seguidora, referente a que, en su trabajo, ella le piden la prueba de COVID para que poder ingresar, ya que un familiar enfermó de ello, que es su mamá.
 Entonces, ¿puede usted recordar a todo el auditorio, a todos los que nos están viendo, a todos los trabajadores que están regresando con la Nueva Normalidad cuál es el protocolo que uno debe utilizar o debe de hacerse tanto los empleadores como los trabajadores que están llegando a sus espacios laborales para evitar este tipo de confusiones y la información les llegue adecuadamente para que…?
 Ella ya no sabía qué hacer, si ir a un centro de salud o comprar la prueba y ellos se la requerían para poder entrar al trabajo; entonces, yo le comento que… ¿qué es lo que puede hacer uno como trabajador en estos momentos?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, muchas gracias. Gracias por la oportunidad de recordarle a toda la población mexicana que nos escuche ahora o en una transmisión diferida.
+La Secretaría de Salud de México no recomienda, no recomienda el uso de pruebas rápidas, no recomienda el uso de pruebas rápidas.
+Cofepris, que es un organismo público, un órgano desconcentrado de la Secretaría de Salud, autorizó la venta o distribución en México en sistemas privados de pruebas rápidas, porque tienen cierta capacidad limitada, muy limitada, para detectar anticuerpos contra el virus SARS-CoV-2, pero la capacidad es tan limitada y es tan desafortunada la consecuencia de una capacidad limitada de todas las pruebas rápidas que han sido autorizadas en el territorio que la Secretaría de Salud no recomienda el uso de pruebas rápidas.
+Y, finalmente, esta idea de usar a la prueba rápida como un mecanismo de garantía de que la persona ya fue contagiada y ya no puede contagiar en su sitio de trabajo es una idea errónea.
+La Organización Mundial de la Salud desde el 24 de abril planteó esta postura a lo que se denomina el pasaporte sanitario, el pasaporte inmunitario o inmunológico de COVID como una idea que no tiene ningún amparo técnico, es incorrecta y no debe ser utilizada en esa manera. Esa postura se formuló el 24 de abril, es la postura que tiene también el Gobierno de México y hasta hoy, que es 27 de agosto sigue vigente la postura.
+Entonces, no tiene justificación científica alguna que se le pida a trabajadoras y trabajadores una prueba de COVID o una prueba de anticuerpos contra el virus SARS-CoV-2 como una especie de garantía de que pueden retornar de manera segura a sus trabajos.
+No tiene evidencia científica y seguramente afecta, vulnera, viola los derechos consagrados en el artículo 1º de la Constitución para proteger contra la discriminación. Lo que hay que hacer es denunciarlo ante el Conapred o denunciarlo también a los teléfonos que hemos puesto a disposición en la Secretaría de Salud.
+Muchas gracias. Aquí terminamos. Doctor Juan Rivera, muchísimas gracias. 20:01, muchas gracias por escucharnos y estar atentos a la epidemia de COVID.

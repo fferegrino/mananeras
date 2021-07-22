@@ -3,6 +3,7 @@ Presidencia de la República
 26 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:02 de este martes 26 de mayo de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación del coronavirus, nuevo coronavirus, la epidemia de COVID, causada por el nuevo coronavirus SARS-CoV-2. Hoy vamos a tener varios temas:
 Vamos a tener el informe técnico.
 Vamos a tener el martes de movilidad. El doctor Ricardo Cortés, director de Promoción de la Salud, hablará de la movilidad en el espacio público.
 Y también tenemos el gusto, como siempre, de que nos acompañe nuestro querido amigo y compañero, el maestro Zoé Robledo, director general del Instituto Mexicano del Seguro Social, para hablar de un tema que nos parece extraordinariamente importante también, las trabajadoras del hogar, las personas trabajadoras del hogar.
@@ -10,6 +11,7 @@ Nos acompaña Marcelina Bautista también, quien es la coordinadora del Centro d
 Le pido entonces al doctor José Luis Alomía, director de Epidemiología, que nos presente el informe técnico.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Vamos a hacer el informe ejecutivo para poder dar tiempo a todas las participaciones. Estamos en la conferencia vespertina número 88 y en el día número 65 de la Jornada Nacional de Sana Distancia.
 Veamos la actualización del panorama internacional, que es la siguiente diapositiva. Continua en la misma proporción la pandemia activa, 24 por ciento de todos los casos confirmados hasta el momento representan esta actividad. Vemos cómo el porcentaje de las Américas se ha incrementado, estaba siempre alrededor del 50, ahorita ya está en un 54 y esto también es a expensas de que en la región europea continúa la disminución de la cantidad de casos activos.
@@ -31,9 +33,11 @@ Entonces, aquí vemos cómo esto también a efectos de la reconversión y la exp
 Sería la actualización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Le pido, enseguida, al doctor Ricardo Cortés, si nos comparte el informe de movilidad.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Con mucho gusto, doctor. Muchísimas gracias.
 Muy buenas tardes a todas y todos; buenas tardes a todas y a todos en casa.
 Vamos a analizar, como cada martes, la movilidad en los estados con el mismo fin de ver cuáles de los estados han llegado a esta meta mínima de disminución del 65 por ciento de la movilidad en los espacios públicos con tres diferentes fuentes de información: el sistema de Google, Twitter y de Facebook.
 La línea azul que ven, la barra azul, el 23 de marzo marca el inicio de la Jornada Nacional de Sana Distancia. Como podemos ver en estas primeras cuatro gráficas, Baja California Sur se ha mantenido por debajo de la meta del 65 por ciento, Aguascalientes, a pesar de que Google muestra que se ha mantenido en esa meta, parece ser que los usuarios de Twitter han incrementado su actividad en el estado de Aguascalientes. Invitamos a la población a seguir manteniéndose en casa, dado que esas son las solicitudes que se han hecho de parte de la autoridad sanitaria federal y estatal.
@@ -51,6 +55,7 @@ Por ejemplo, Querétaro, Morelos, Puebla, Tlaxcala, Nayarit e Hidalgo disminuyer
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Ricardo Cortés, director general de Promoción de la Salud.
 Vamos entonces a entrar en la parte temática especial, quisiera presentar a Marcelina Bautista Bautista, quien hoy nos acompaña, junto con el maestro Robledo y dejarles enseguida la voz a ellos para que comenten.
 Marcelina Bautista es originaria de Tierra Colorada, Apazco, Nochixtlán, Oaxaca, y al terminar la primaria ella se vio obligada a dejar a su familia y el sueño de seguir estudios para venir a la Ciudad de México a trabajar como trabajadora del hogar cuando tenía 14 años, tiene una experiencia de trabajo de 22 años como trabajadora del hogar y como asegura ella misma ‘caminamos para que nuestros derechos sean los mismos que tienen las demás trabajadoras’.
 Sin esperar un momento para comenzar a mejorar el mundo, como ella misma lo declara, ella ha realizado distintas campañas para dar visibilidad a 2.4 millones de trabajadoras del hogar en México y mostrar los problemas que enfrentan.
@@ -63,6 +68,7 @@ Es un orgullo recibir a Marcelina, muchas gracias, con esta trayectoria de const
 Marcelina, muchas gracias por acompañarnos junto con el maestro Zoé. Les dejo la palabra para que nos expresen lo que es importante saber hoy al respecto
 ---
 MARCELINA BAUTISTA BAUTISTA, FUNDADORA Y COORDINADORA DEL CENTRO DE APOYO Y CAPACITACIÓN PARA EMPLEADAS DEL HOGAR (CACEH)
+Muchas gracias, doctor, por permitirnos este espacio tan importante.
 Y pues el tema que traemos hoy es la situación de las trabajadoras del hogar, que ha sido uno de los primeros sectores que han sufrido esta pandemia y vamos a presentar más adelante, el doctor va a hablar sobre un video que vamos a presentar.
 Pero hoy precisamente el movimiento, la defensa de los derechos laborales de las trabajadoras del hogar lanza hoy la campaña Cuida a quien te cuida, que cuenta con el apoyo de Alfonso Cuarón y participan organizaciones civiles, artistas y trabajadores de la cultura.
 Agradecemos también el acompañamiento del Gobierno de México que nos brinda este espacio para comunicar esta campaña que hoy iniciamos.
@@ -80,6 +86,7 @@ Hay trabajadoras que ya llevan dos, tres meses encerradas como ellas dicen y, po
 Paso la palabra al señor Zoé.
 ---
 ZOÉ ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Gracias, muchas gracias, Marcelina.
 Si me permiten para una presentación con algunos datos adicionales. Todos los días a esta hora el doctor Hugo López-Gatell y todo su equipo han insistido en una pieza, quizá la columna vertebral de la estrategia de distanciamiento social: quédate en casa.
 Pero ¿qué pasa con las personas que su trabajo depende de poder entrar en las casas de alguien más?, ¿qué pasa con las personas que viven en la casa de alguien más y, como lo acaba de narrar Marcelina, en algunos casos les han pedido retirarse, pues sus ingresos se ven comprometidos de una manera muy dramática, de una manera que no es digno de una sociedad, como la mexicana.
 Y hay casos en donde hemos visto ejemplos y gestos de responsabilidad, porque es cierto, no se trata de un tema de caridad, sino de responsabilidad y de solidaridad también, pero en otros casos no.
@@ -96,7 +103,11 @@ En ese sentido son muchos los elementos que se han ido conjugando para pensar qu
 Y en ese sentido estamos muy agradecidos con CACEH, con Marcelina, con Participant, los Hijos de la Malinche, desde luego con Alfonso Cuarón y con todos quienes han hecho esta nueva campaña que los queremos invitar a que la vean, a que se sumen, a que la difundan y que entendamos que parte de la nueva responsabilidad, de la nueva normalidad es también una nueva responsabilidad, hacernos cargos y concientizarnos de que en estos momentos ayudar a quienes nos ayudan siempre es una de las mejores formas de mexicano y mexicana.
 Entonces, si nos permiten quisiéramos pasarles el video.
 ---
+ZOÉ ROBLEDO ABURTO
+Muchas gracias.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, muchas gracias, maestro Zoé Robledo, muchas gracias Marcelina Bautista por traer este mensaje.
 Y quisiera sólo retomar, porque este es un mensaje que hemos estado diciendo todos los días o cada vez que surge esta inquietud de que las personas pudieran no estarse quedando en casa. Y hemos insistido que es imprescindible tener consciencia de que aquí hay dos elementos por encontrar un justo balance:
 Por un lado, el controlar la epidemia, tener un mejor control, una reducción en el número de contagios, que obviamente es una prioridad que no se puede postergar porque nos interesa proteger la salud y la vida de las personas.
 Pero, por el otro lado, en México y en cualquier parte del mundo las medidas de control sanitario de reducción de contagios en una epidemia implican un estado especial de desmovilización que deja a las personas que viven al día en una extraordinaria indefensión.
@@ -108,28 +119,37 @@ Vamos a darle la palabra a Liz, a usted, a usted, a Carlos, pero a ver, vamos po
 Por favor.
 ---
 PREGUNTA
+Buenas noches a todas y a todos. Lizbeth Álvarez, del diario Basta y Grupo Cantón.
 Mi primera pregunta sería para el maestro Zoé Robledo. ¿Se sabe hasta el momento cuántas trabajadoras del hogar han sido infectadas por el COVID? y teniendo o no teniendo seguro, si han sido atendidas.
 Y, por otro lado, la coordinadora del centro de capacitación, Marcelina Bautista, ¿qué mensaje le das a las trabajadoras del hogar que hoy ya perdieron su empleo, que están en casa ya sin recibir un sueldo y que inclusive le han pedido a los patrones que las aseguren, pero no quieren? Yo misma conozco casos que han pedido tener este seguro, pero no se los dan. ¿Qué mensaje les das a ellas que hoy te están viendo?, ¿qué les dices?
 Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Adelante, por favor.
+---
 ZOÉ ROBLEDO ABURTO
+Con mucho gusto. Del número total de las personas trabajadoras del hogar que están en el programa piloto no tenemos un reporte de un número muy grande afortunadamente, desafortunadamente el universo es de dos millones, de más de dos millones de personas en el país, pero que no están aseguradas.
 Eso no significa que no hayan tenido atención en algún hospital público o del Seguro Social, toda vez que incluso ya en este momento estamos abiertos para recibir a población no derechohabiente.
 Pero justo eso es lo que deberíamos de poder saber una vez que en la nueva normalidad este trabajo tan digno, tan importante, dentro de la sociedad estuviera regularizado por completo.
 Pero bueno, es una gran pregunta del total de las trabajadoras que están en el piloto, no tenemos un dato exacto, pero no sabemos que hubiera un número importante de contagios, lo que sí sabemos es que ya más de dos mil han solicitado el crédito de 25 mil pesos, lo cual va a ser de un gran apoyo para ellas en este momento y una campaña como esta y un acto de responsabilidad y solidaria también puede ser importante para el resto que no están en el programa piloto.
 ---
 MARCELINA BAUTISTA
+Bueno, lo que le digo todos los días a las compañeras es: no hay forma de decirle: Siéntete tranquila, quédate encerrada, porque ellas no tienen un sustento; entonces, más que decirle: Quédate en tu casa, porque eso no puede aplicar para muchas, porque ellas viven al día y tienen que… lo que sí es como reforzar este video que sensibilice a la población para que también haga lo que les toca, el Estado hacer lo que les toca, los empleadores, las mismas trabajadoras del hogar tienen que conocer sus derechos y exigir lo que les toca, ni más ni menos, que lo marca la ley.
 Entonces, hay muchas trabajadoras del hogar que prefieren un trabajo que exigir eso, porque precisamente pues le pagan, pero todo el tiempo se están quejando de que trabajan más de 14 horas, piden seguro social y no le quieren dar porque no tienen dinero o si le dan seguro social que le rebajan el salario; entonces, se enfrentan a eso y no finalmente no hacen nada.
 Por eso también llevamos muchos años y poco a poco hemos logrado organizar a las compañeras, porque prefieren tener un trabajo a lo mejor precario, a lo mejor con maltrato, discriminación, pero tienen miedo a organizarse.
 Pero es un derecho a la organización, por lo tanto, pido a mis compañeras que nos unamos y que aprendan esos derechos y puedan también hacerlo exigible, simplemente porque son personas con derechos, son trabajadoras con derechos y ahí estamos todas las organizaciones de la sociedad civil, especialmente el Centro de Apoyo y Capacitación que damos asesoría, que damos capacitación a ellas.
 Y también hoy estamos planteando, replanteando todas las formas de regreso, porque también así como exigen los empleadores todos los cuidados de regresar, también ellas tienen que tener mayor cuidado y, sobre todo, el cumplimiento de sus derechos. Van a regresar y deben de firmar contrato, van a regresar y deben de tener seguridad social.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Liz.
 Por favor, y luego usted.
 ---
 PREGUNTA
+Buenas noches secretario Zoé; buenas noches, subsecretario Gatell; invitada, buenas noches, Marcelina; directores, buenas noches. Ángel Juan Sánchez del Arsenal.net.
 Mi pregunta nada más es una, es para salud. ¿Se está pensando ya en alguna política pública integral para enfrentar las nuevas pandemias?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. En términos generales, el trabajo de preparación para una pandemia no empieza cuando se prepara para la pandemia en concreto que ocurre, que fue la situación de México, que desde el 3 de enero empezamos a hacer los preparativos, y de hecho fuimos uno de los primeros países de la región y del mundo fuera de los directamente afectados de origen, como China, que empezamos a prepararnos.
 Sin embargo, debemos reconocer que este es un proceso gradual en el que, a través de distintos años, y mi reconocimiento para todas las contribuciones que en administraciones previas ha existido para la preparación y las capacidades establecidas que puede tener un país.
 Esto implica capacidades en vigilancia epidemiológica, incluyendo los componentes de laboratorio, tenemos un magnífico laboratorio nacional de referencia, el Indre, que desde hace muchísimos años forma parte de distintas redes de vigilancia global, el Indre se estableció en 1929 originalmente como Instituto de Salubridad y Enfermedades Tropicales, y desde 1995 como Laboratorio Nacional de Referencia.
 Implica tener, ya dije, un Sistema Nacional de Vigilancia Epidemiológica, implica tener capacidades de respuesta en salud pública, incluyendo comunidades profesionales de epidemiología de campo que pueden hacer la investigación de brotes, la promoción de la salud, que pueden hacer la vinculación con los sistemas de salud, los sistemas de procuración de atención médica, en fin; es decir, es todo, todo un repertorio.
@@ -143,6 +163,7 @@ Estos son tres de los elementos de estos planes de preparación que, insisto, CO
 Vamos a darle palabra al colega de Sonora y después allá, está Blanca Valadez, luego nos vamos con Carlos y también la compañera de allá atrás. Por favor.
 ---
 PREGUNTA
+Qué tal. Buenas tardes, doctor. Efectivamente, de Sonora, Damián Duarte, de Pasión por los Negocios, Política y Rock And Roll Radio y Lobos FM.
 De hecho, mi pregunta es específicamente sobre Sonora. Estamos preocupados en el estado y, bueno, entendemos la lógica de que hay muchas pandemias dentro de la pandemia y que quizás Sonora por la incidencia no es tan trascendente por el momento, porque no representamos mucho, tenemos poco más de mil 300 casos confirmados; sin embargo, hemos visto, por ejemplo, ahorita en el informe de movilidad parece que en Sonora se han estado portando mal, estamos arriba del 65 por ciento.
 Y la otra es que vemos con preocupación una tasa de contagio mucho más allá lo normal en la clase política de nuestro estado, la alcaldesa de Hermosillo está enferma de coronavirus, el secretario de gobierno está enfermo de coronavirus, el secretario del Trabajo lo está también, diputados del congreso que han estado sesionando además han resultado positivos a coronavirus.
 Entonces, me gustaría a mí, porque hemos visto con atención las gráficas que presenta de los casos de Culiacán, de Tijuana, de Veracruz, de Tabasco y de la Ciudad de México, me gustaría que en algún momento fuera posible que nos presentara cómo está la curva en nuestro estado.
@@ -151,6 +172,7 @@ Y la otra es, usted doctor, en particular, tiene muchos seguidores que ven esta 
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. De hecho, he grabado mensajes específicamente para Sonora con un mensaje semejante al que he grabado para otras entidades federativas y es en este sentido, como usted muy correctamente dice, y aplica para todo el país: si no reducimos la movilidad quedándonos en casa, no vamos a tener una reducción de los contagios.
 Efectivamente, Sonora, aquí le puedo compartir de manera informal, lo estoy viendo frente a mis ojos el informe técnico que nos comparten los colegas matemáticos. En el caso de Hermosillo se estima que el momento acmé, pico, cresta de la curva epidémica ocurrirá al final de mayo, cerca del 4 de junio. Todavía les falta un trecho largo de la epidemia, posiblemente la epidemia se propagaría hasta la primera semana de agosto.
 Y lo que vemos en los indicadores de transmisión, específicamente el número básico de reproducción y el número ajustado de reproducción por tiempo es que tienen una importante eficiencia de transmisión y esto solo se puede explicar, porque hay demasiada movilidad en el espacio público.
 La gobernadora Claudia Pavlovich, con quien hablamos esta mañana junto con otros miembros de la Convención… ¿o cómo se llama? la Convención Nacional de Gobernadores, la Conago, que tuvo a bien organizar una reunión con las autoridades federales de salud y de otros ramos, justo expresaba esto la gobernadora Pavlovich y lo reconozco que lo dijo con vehemencia, con énfasis, dijo: ‘Cuando ustedes en la Ciudad de México hablan de que vamos a la nueva movilidad, en Sonora se percibe como que aquí estamos en la nueva normalidad’, entonces mi reconocimiento a la gobernadora que se lo toma muy en serio y que fue enfática en pedirnos, precisamente coincide exactamente con lo que usted me está diciendo.
@@ -159,11 +181,13 @@ Muchas gracias.
 Blanca Valadez, por favor.
 ---
 PREGUNTA
+Gracias, muy buenas tardes a todos.
 Quiero saber si nos puede comentar cuáles fueron los acuerdos con la Conago. Existe molestia por algunos gobernadores que dicen que es el gobierno federal que quiere imponer su propio semáforo y no considerar los semáforos que ellos consideran deben de manejar. ¿Van a dejarles esta autonomía o ustedes van a ser los que manejen este semáforo de movilidad?
 También preguntarle, existe -y aprovechando que está el maestro Zoé- existe algún sector de trabajadores que están molestos y están convocando a un paro nacional el próximo 1º de julio. ¿Es posible darse este paro?, ¿por qué hay tanta molestia, sobre todo en el sector salud?, ¿consideran que no?
 Y también nada más por último preguntarle, hoy parece que fue el día con mayor número de muertes y con mayor número de casos. ¿Podríamos decir que es el punto de flexión o el punto de quiebre o la curva que empieza a inclinarse o todavía no hemos llegado a esa meseta? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Blanca, por sus preguntas.
 Empiezo con la tercera porque es un tema que hemos comentado y quisiéramos seguir destacando. No hay una sola epidemia, México es un país con dos millones de kilómetros cuadrados, con distintos asentamientos humanos en metrópolis, ciudades, medianas y pequeñas, y una cantidad amplia de poblaciones, de poblados, de 15 mil o menos habitantes, no se da una sola epidemia.
 Entonces, no tengan la expectativa de que va a haber un momento en donde toda la epidemia empiece a bajar. Hemos destacado la Ciudad de México y la zona conurbada en el Estado de México, el Valle de México, porque ocupan casi el 50 por ciento de los casos nuevos que se presentan.
 ¿Por qué razón?
@@ -173,7 +197,11 @@ Y de todos modos seguirán en ascenso varias epidemias, la de Sonora, la de Guer
 No es sorpresa alguna que sigan aumentando los casos. En la medida en que son casos acumulados y que representan el porcentaje de la suma de casos acumulados, tenemos, efectivamente, cada vez más casos. Entonces, en algún momento cuando empieza a bajar la intensidad de la transmisión en la Ciudad de México, cosa que ocurrirá seguramente en el curso de la siguiente semana veremos una reducción sustancial y la frecuencia de casos diarios.
 Pero en la medida en que en muchas zonas del país siga activa la epidemia seguiremos viendo cada vez más casos.
 ---
+INTERLOCUTORA
+(Inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+A eso voy exactamente. No creo que los gobernadores y las dos gobernadoras, o la gobernadora y jefa de gobierno estén molestas, porque confío completamente en su integridad y la lealtad de su palabra.
 Tuvimos una espléndida reunión, gracias al presidente de Conago, el gobernador Carlos Mendoza Davis, de Baja California Sur; al gobernador Mauricio Vila, que es el responsable de Salud en la Conago y es gobernador de Yucatán. Una gran participación, un gran entusiasmo, mucha claridad en sus inquietudes.
 Esta inquietud, en particular, la expresó la gobernadora Pavlovich, la expresó el gobernador Corral, el gobernador Omar Fayad, la expresaron varios gobernadores en este sentido de decir: ‘Por favor, ayúdennos a que la comunicación hacia la población de nuestros estados deje muy en claro -y esto lo hago ahora mismo- dejar en claro que al terminar la Jornada Nacional de Sana Distancia no regresamos a la normalidad, transitamos a la nueva normalidad’. Y esto lo que quiere decir es que un número significativo de estados estarán todavía en intensa transmisión, todavía van a estar en intensa transmisión.
 En algunos estados donde hay asentamientos humanos más dispersos y empezamos a ver una tendencia a la baja, destaco Quintana Roo, es posible que al inicio del 1º de junio todavía tengan intensa trasmisión, pero empecemos a la semana siguiente ver cambios favorables en los indicadores que lleven del semáforo de rojo a naranja, amarillo y eventualmente a verde.
@@ -186,11 +214,34 @@ Porque si usamos distinta metodología entonces empezamos a evaluar las cosas di
 ¿Qué calificación de riesgo se le da a cada estado?
 Será variable para cada estado y en cada semana. Los martes lo compartiremos con las autoridades estatales, tendremos un periodo de martes a jueves para estar conversando los detalles que se conocen a nivel local y que pueden complementar y enriquecer la información que tenemos en la federación, lo presentaremos públicamente los viernes y entrará en vigor los lunes siguientes, esa va a ser la rutina.
 ---
+INTERLOCUTORA
+(inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Como también hemos explicado, la ley general de salud y otras disposiciones son muy claras cuando hablan de concurrencia. Concurrencia quiere decir: hay dos partes al menos que participan en un mismo proceso y la Ley General de Salud establece con claridad qué tramo le corresponde a la autoridad federal, qué tramo le corresponde a la autoridad estatal.
 Los estados pueden tener disposiciones adicionales que hagan más estricta la regulación sanitaria o el manejo sanitario de la epidemia, pero no disposiciones que relajen disposiciones federales.
 Maestro Zoé Robledo.
 ---
 ZOÉ ROBLEDO ABURTO
+Muchas gracias. Simplemente decir que nuestra tarea es por un lado, siempre escuchar a los trabajadores en todos los casos y que la responsabilidad de entregar y tener equipos de protección personal para el personal que sean los adecuados y de calidad nunca es producto o respuesta a una manifestación, simplemente es lo que hemos estado haciendo durante las últimas semanas en todos lados y además por parte de todas las instituciones.
 Y respetamos todas las manifestaciones que puedan haber. Uno de los elementos fundamentales de este gobierno es el respeto a la libre manifestación, el respeto a los derechos democráticos y constitucionales. Entonces, creemos que debemos de mantener esa posición de respeto y de apertura y seguir resolviendo en todos lados, no sólo donde hay manifestaciones, en todos los lugares en donde haga falta.
 Está siendo una epidemia, una pandemia muy larga, y eso significa tener que seguir adquiriendo equipos de protección personal en todos lados, en un momento en donde todo el planeta está en situaciones más o menos similares, sobre todo ahora aquí en nuestro continente.
 Entonces, es algo que va a ser de carácter permanente y hay que seguir resolviendo, como lo hemos dicho, en gerundio todo el tiempo: resolviendo, comprando, adquiriendo, distribuyendo, y sobre todo administrando al personal que lo necesita.
+---
+INTERLOCUTORA
+¿Pero finalmente se puede hacer un paro nacional o no?
+---
+ZOÉ ROBLEDO ABURTO
+No me correspondería yo decir legalmente… vaya, creo que no entiendo su pregunta, legalmente, si se puede hacer un paro nacional.
+---
+INTERLOCUTORA
+Si el personal médico puede tener la condición de hacer un paro nacional por la inconformidad que tienen respecto al equipo que les están dando.
+---
+ZOÉ ROBLEDO ABURTO
+Es que me parece que habría que revisar el caso específicamente. Trabajadores de la salud son casi un millón en todo el país de todas las instituciones y sumando a los privados, y hay diferentes sindicatos. En el caso del Sindicato Nacional de Trabajadores del Seguro Social hemos trabajado de manera muy cercana en lo que han sido también sus demandas, equipos de protección personal, bonos, reconocimientos, jornadas, incorporación de equipos COVID.
+---
+PREGUNTA
+¿Está siendo aprovechado esto…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Se nos acabó el tiempo estimado Carlos, son las 20:01, pero mañana continuamos con las conferencias de prensa. Muchas gracias, maestro Zoé Robledo; Marcelina, muchas gracias por acompañarnos y dar este importante mensaje; compañeros José Luis y Ricardo. Nos vemos mañana.

@@ -3,6 +3,7 @@ Presidencia de la República
 10 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy buenas tardes. Son las 19:00 horas de este miércoles 10 de junio de 2020 y estamos en el Palacio Nacional, en la Ciudad de México. Vamos a iniciar la conferencia de prensa diaria sobre la pandemia de COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a dedicar a dos temas:
 Uno es el informe técnico, bueno, son tres, porque es el informe técnico.
 Un elemento que solemos ya presentar cada semana, que son las curvas epidémicas observadas por entidad federativa o por ciudades emblemáticas o representativas de la epidemia.
@@ -12,6 +13,7 @@ Y en ese sentido queremos que se conozca de manera directa, por eso preferimos a
 Entonces, le voy a pedir al doctor Alomía si presenta el informe técnico, posteriormente yo presentaría las curvas epidémicas y vamos a procurar irnos rápido para darle espacio a la doctora López Arellano.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Claro que sí, con mucho gusto señor subsecretario.
 Buenas tardes a todas y a todos.
 Bienvenidos a la conferencia vespertina número 103 en este décimo día de la Nueva Normalidad, donde, recordemos, lo que marca el ritmo de las acciones, sobre todo la apertura o el cierra de las actividades sociales, laborales, educativas y generales es el semáforo de riesgo COVID.
 Veamos la siguiente diapositiva para solamente y rápidamente recordar que las 32 entidades federativas para esta semana, que termina el domingo, están en el máximo riesgo, que es el color rojo.
@@ -22,7 +24,7 @@ Lo que son peluquerías, estéticas, barberías pueden brindar sus servicios a d
 Parques y plazas sí hay una apertura de un aforo hasta un 25 por ciento, pero recordando que el mismo también es para la actividad física de la población, no para llevar a cabo congregaciones o reuniones como tal.
 Los mercados, supermercados, ya desde la Jornada Nacional de Sana Distancia permanecen abiertos, una actividad esencial, sobre todo porque la población tiene que poder procurar sus alimentos y sus insumos del día a día, pero se hace con aforo al 50 por ciento y con solamente el ingreso de una persona por cada núcleo familiar.
 Y los juegos profesionales pueden llevar a cabo actividades a puerta cerrada con estadios vacíos y cumpliendo con los protocolos sanitarios para cuidar la salud de sus jugadores y de su equipo técnico.
-En la siguiente diapositiva y también rápidamente las actividades que definitivamente están suspendidas, es decir, en semáforo rojo no deben de llevarse a cabo estas actividades como son los gimnasios, los spas, los cines, los teatros, los museos, los centros comerciales, los lugares de culto, las congregaciones masivas, conciertos, similares y los bares,  similares, todos estos también deben de permanecer todavía cerrados hasta que se pueda llegar a un siguiente nivel de menor riesgo, que se sería el de color naranja y también con ciertas limitaciones que en su momento las veremos cuando algún estado alcance este color.
+En la siguiente diapositiva y también rápidamente las actividades que definitivamente están suspendidas, es decir, en semáforo rojo no deben de llevarse a cabo estas actividades como son los gimnasios, los spas, los cines, los teatros, los museos, los centros comerciales, los lugares de culto, las congregaciones masivas, conciertos, similares y los bares,  similares, todos estos también deben de permanecer todavía cerrados hasta que se pueda llegar a un siguiente nivel de menor riesgo, que se sería el de color naranja y también con ciertas limitaciones que en su momento las veremos cuando algún estado alcance este color.
 Pasemos entonces a la primera diapositiva, que es la actualización de la pandemia. Vean los números y vean los porcentajes, se mantiene igual, pero también significa que no se visualiza un descenso, por lo tanto, los casos que se están saliendo de los últimos 15 días están ingresando en las últimas 24 horas y por lo tanto la epidemia se mantiene con este nivel de actividad de ese 23 por ciento, siendo la región de las Américas la que también mantiene, no ha habido un incremento, pero tampoco ha habido un descenso, se ha mantenido alrededor del 55 por ciento de la carga concentrada de la pandemia activa en el mundo.
 Veamos, ahora sí, los números para México. El día de hoy son casi 370 mil las personas que han sido estudiadas, clasificadas como casos sospechosos e ingresadas a protocolo de estudio.
 De estas 186 mil, 570 ya dieron un resultado negativo a SARS-CoV, por lo tanto, se descartaron a la enfermedad, pero 129 mil 184 fueron confirmadas, o sea, dieron positivas a SARS-CoV-2 y viene a ser la cifra de casos acumulados de COVID-19 hasta el momento en México; sin embargo, sólo el 15 por ciento, que son 19 mil 897, representan la epidemia activa, porque son las personas que han iniciado con signos y síntomas en los últimos 14 días.
@@ -54,6 +56,7 @@ Entonces, cada vez que tenga un número de defunciones vamos a estar llevando a 
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Yo les presentaré las curvas epidémicas. Hace unos días alguien preguntan cuántas curvas hay, retomo sobre esto, hay tantas como se necesite.
 Nosotros habitualmente estamos trabajando un grupo de curvas epidémicas, son 56 que le hemos pedido a los colegas de los institutos de matemáticas con los que hemos estado trabajando, los centros públicos de investigación y el Instituto de Matemáticas de la UNAM que coordina la doctora María Elena Álvarez-Buylla, esta respuesta de apoyo hacia las políticas públicas cada semana nos entregan un paquete de actualizaciones de la predicción.
 Este es el grupo, que le llamamos el Grupo AMA, que ya fue presentado por la doctora Álvarez-Buylla; hay otro grupo que también está haciendo otros modelos complementarios.
@@ -129,10 +132,11 @@ La hospitalización también va en crecimiento, lejos están todavía del moment
 Monterrey, finalmente, características: está lejos de la predicción, sin embargo, también ya con un patrón de ascenso sostenido. Es probable que en las siguientes pocas semanas durante este intervalo esto empiece a definirse mucho más alto y que cuando hagamos la actualización o hagan más exactamente los matemáticos la actualización de la predicción tengamos una curva mucho más aguda, más alta y más corta.
 Sin embargo, en la predicción hasta el momento, esto es 25 de agosto, aquí está truncada por el ejercicio visual, pero esto se va a proyectar hasta septiembre y hemos dicho podría llegar a octubre, por eso dijimos que Monterrey puede ser la última de las epidemias en las urbes.
 Cuidado, Monterrey, porque en el momento en que redujeran la restricción de movilidad en sitios públicos, sitios de congregación de cualquier naturaleza, incluidos los empleos formales, sobre todo aquellas empresas que son de alta densidad, de alta cantidad de personas trabajando, esto podría contribuir a disparar la curva epidémica.
-Me parece que son las últimas, hospitalización en Monterrey en camas generales y hospitalización en terapia intensiva en Monterrey, Nuevo León.  Son todas.
+Me parece que son las últimas, hospitalización en Monterrey en camas generales y hospitalización en terapia intensiva en Monterrey, Nuevo León.  Son todas.
 Doctora Oliva López Arellano, le doy la palabra, por favor.
 ---
 OLIVA LÓPEZ ARELLANO, SECRETARIA DE SALUD DE LA CIUDAD DE MÉXICO
+Gracias, buenas tardes a todos y a todas.
 Primero inicio agradeciendo la invitación a esta conferencia técnica, conferencia 103, un saludo de la doctora Claudia Sheinbaum Pardo, jefa de gobierno, quien presentó hoy justamente en su conferencia en la mañana el Programa de Detección, Protección y Resguardo de Casos COVID-19 y sus Contactos.
 Este es un programa que intensifica algunas de las acciones que ya el gobierno de la ciudad ha venido desarrollando desde el inicio de la pandemia, pero también que amplía sobre todo algunos dispositivos tecnológicos y sobre todo también el trabajo en territorio y la identificación temprana de casos y la búsqueda intencional de contactos.
 Se sitúa en el marco por supuesto de la atención primaria a la salud, tiene una perspectiva sectorial y metropolitana, es una estrategia integral e institucional e interinstitucional, donde participan diversas secretarías del gobierno de la ciudad y también con enorme coordinación con el Gobierno de México, con la Secretaría de Salud con quien se discuten muchos de los componentes.
@@ -183,22 +187,30 @@ Ese es nuestro propósito y creemos que en esta fase de semáforo rojo nos puede
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora.
 Olinka, por favor, y Carlos, y ahorita usted.
 ---
 PREGUNTA
+Gracias.
 Aprovechando que está la secretaria de Salud, ¿estas dos mil 700 pruebas que, entiendo, van a aplicar diariamente en la Ciudad de México incluyen los 13 centros de readaptación social?
 Y, segundo, ¿estas pruebas se van a aplicar a la población incluso que sea asintomática?, ¿o como en el modelo que teníamos antes -corríjame si me equivoco, doctor- se está aplicando sólo al 10 por ciento de la población que presenta síntomas graves, a la totalidad de los enfermos… perdón, síntomas leves, a la totalidad de los enfermos graves y a las defunciones?
 ¿Cualquier persona puede acudir a solicitar estas pruebas?
 ---
 OLIVA LÓPEZ ARELLANO
+Se ampliaría el margen, digamos, se mantiene el Sistema de Vigilancia Epidemiológica, se mantienen los centros monitores COVID, pero lo que se intenta hacer es en territorio identificar esos casos y los contactos. Y como sabemos que hay un porcentaje muy importante de contactos asintomáticos, entonces se aplicarían las pruebas.
 Siempre hay un criterio epidemiológico, esto es importante señalarlo. Las distintas estrategias lo que hacen es desplegar una serie de dispositivos para, en conjunto, utilizar todos los recursos que hay desde una mirada epidemiológica y una mirada de atención integral y de territorio, usando todos los dispositivos que tenemos disponibles en la ciudad.
 Lo de centros de readaptación social es algo que se está haciendo, se sigue haciendo, también se va a ampliar, pero tiene una lógica distinta.
 ---
+INTERLOCUTORA
+¿Cuántas pruebas están haciendo en los 13 y a cuántos las van a ampliar?
+---
 OLIVA LÓPEZ ARELLANO
+Se están haciendo en este momento, a ver si de memoria lo recuerdo, tenemos casi tres mil pruebas realizadas y tiene una lógica también de prevención, porque se hace antes de que ingresen en el proceso de reclusión, se aplica ahí la prueba, se esperan las personas y hasta que tienen negativo o positiva es que puede seguir su trayectoria.
 Entonces, se van a ampliar a más personas, se están haciendo a todos los que ingresan, pero se va a ampliar a custodios, pero tiene una lógica distinta como tiene una lógica distinta intensiva, por ejemplo, lo que se hace en mercados públicos o en la central de abastos.
 Son distintos dispositivos, lo que se está diciendo de dos mil 700 pruebas es la que se hace en la red de centros de salud de la Ciudad de México.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Aquí aprovecho para su pregunta, es que este tema me interesa que quede muy claro y quedan sólo dos minutos.
 Por semanas, quizá meses, ha persistido una idea que es importante verla de manera más técnica, la idea es el número de pruebas.
 Y ha existido una serie de consideraciones, no sólo aquí, que son verdaderamente no fundamentadas como el famoso mito de que el número de pruebas que hizo Corea le llevó al éxito del control. No, no funciona así, no es de que entre más le sube uno al número de pruebas, mejor es el control.
 No existe ninguna conexión técnica, científica, lógica, automática entre el número de pruebas y el éxito del control.
@@ -210,3 +222,14 @@ Y ahí sí, ahí sí cada prueba tiene un significado relevante porque cada prue
 Pero pensar en que simplemente el número de pruebas, y celebrar que ya se van a hacer más pruebas no tiene sentido, lo que tiene sentido es un programa bien estructurado, bien planeado, bien razonado, con objetivos claros, con un esquema de escalamiento, con una combinación de intervenciones.
 Este modelo del SMS y la asesoría telefónica para hacer un triaje en la comunidad es verdaderamente virtuoso.
 Entonces, agregar pruebas para fortalecer o reforzar o ampliar o a hacer más efectivo y eficiente un modelo bien planeado, qué bueno que haya pruebas. Hacer pruebas por hacer pruebas no tiene sentido alguno. Pero es un tema tan importante que lo vamos a tocar en múltiples ocasiones.
+---
+INTERLOCUTORA
+… van a hacer pruebas a los portadores asintomáticos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Aquí se van a hacer pruebas a varios de los aspectos que son relevantes para la detección temprana y el inhibir o suspender las cadenas de transmisión, esto es lo relevante, esa es la decisión que deriva.
+Ahora, retomando -ya me va a tomar tiempo, Carlos, discúlpeme, mañana- retomando las expresiones que dijo la secretaria de Salud de la Ciudad de México, la doctora Oliva López Arellano, está también visualizar que hay distintos contextos de la vigilancia epidemiológica.
+Está la vigilancia epidemiológica de los casos hospitalizados, está la vigilancia epidemiológica de los casos leves en donde seguimos el modelo Centinela en todo el país, incluida la Ciudad de México, está la vigilancia comunitaria, está los estudios de brotes territoriales, están los estudios de brotes en poblaciones reconocibles, como las personas privadas de la libertad o las casas de adultos mayores, los mercados públicos o la central de abastos, etcétera, etcétera. Para cada elemento existe una modalidad técnica relevante.
+Celebro y realmente nos entusiasma muchísimo la oportunidad de trabajar mano a mano apoyando a la Ciudad de México con esta iniciativa propia del gobierno de la ciudad, pero que es perfectamente compatible con lo que hemos planteado por meses, pero es un tema muy importante.
+Le agradezco muchísimo, doctora Oliva, muchas gracias. Y seguiremos tratando ese tema, si nos permiten, creo que va a ser creo de interés para la audiencia, y ojalá que logremos tener un mensaje que ayude a que la población, como lo dijo al inicio la secretaria de Salud, la doctora López Arellano, es un asunto de corresponsabilidad, si la población tiene claro que puede hacer más cosas ahora que empiecen las distintas fases de los semáforos, además de la valiosísima contribución que han hecho quedándose en casa, conforme transitemos por los distintos colores de semáforo, hay más cosas que cada quien puede hacer por sí mismo, por sus congéneres, sus familiares, su comunidad y en conjunto por toda la población y para controlar esta epidemia.
+Muchas gracias, aquí terminamos, gracias.

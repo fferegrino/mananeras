@@ -3,6 +3,7 @@ Presidencia de la República
 17 de marzo de 2020
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muy buenas noches a todas y todos los presentes. Muchas gracias por estar aquí siempre puntuales para tener nuestra conferencia de prensa en el marco de COVID-19.
 El día de hoy me acompaña el doctor Ruy López Ridaura que, como ya ustedes saben, es el director general del Centro Nacional de Programas Preventivos y Control de Enfermedades, pero además también es el coordinador del componente de acción dentro del Comité Técnico de Enfermedades Emergentes.
 Tiene que ver precisamente con la parte financiera, administrativa y que es el componente donde se ha estado trabajando todo el tema de la estimación de la carga de enfermedad para los diferentes escenarios, para las diferentes presentaciones clínicas que se esperan tengan los pacientes y, por lo tanto, con esa información poder realizar también a la par una estimación de cuáles son las necesidades que se requieren para poder en su momento, y de llegar o pasar por los escenarios previstos, poder estar siempre listos para atender a estos pacientes.
 El doctor va a enfocar una presentación extensa y con mucha información que, creo, va a ser relevante, no solamente para ustedes, sino lógicamente para la audiencia que nos escucha esta noche.
@@ -32,6 +33,7 @@ La fase dos todavía tiene una temporalidad esperada en donde si este es el inic
 Este sería el panorama para el día de hoy. Entonces, ahora sí le cedería el tiempo al doctor Ruy López Ridaura, para que nos comente ampliamente sobre lo que ha sido el trabajo de las últimas semanas en relación a la estimación de los insumos necesarios para atender esta epidemia.
 ---
 RUY LÓPEZ RIDAURA, DIRECTOR GENERAL DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Muchas gracias, doctor José Luis Alomía. Buenas tardes.
 Voy a presentar un avance de lo que ya hace tal vez un par de semanas también mencioné como la estrategia general para la estimación y compra de los insumos.
 Esto es lo que hemos venido trabajando desde las últimas tres o casi ya cuatro semanas en el cálculo de esta demanda sectorial para su compra también centralizada.
 El objetivo, nosotros formamos un grupo de trabajo dentro del Subcomité de Enfermedades Emergentes, un grupo de trabajo técnico, financiero, que el objetivo principal es vincular lo que estamos recibiendo de los grupos de expertos clínicos que están alineando los diferentes insumos en los diferentes pasos de atención con los componentes financieros para lograr su compra financiera, su compra de manera central.
@@ -74,9 +76,11 @@ Esto también lo presentó el doctor López-Gatell en la mañana. Hemos hecho un
 Esto es lo que tengo que reportar y estaré atento a cualquier pregunta.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Muchas gracias doctor López Ridaura.
 Vamos a la parte de preguntas y respuestas. Vamos a empezar ahora de la parte de atrás y vamos a empezar a venir adelante. De todas maneras, todos los días vamos a tener oportunidad de contestar preguntas. Allá tenemos una mano y luego seguimos con el compañero.
 ---
 PREGUNTA
+Gracias. Alejandro Alemán, de Medicina Digital.
 Es muy oportuna esta tabla que están presentando de los insumos que se van a requerir.
 La pregunta es: ¿en el presupuesto de 2020 no estaban ya considerados parte de estos insumos?
 Y lo pregunto no de gratis, el día de hoy en el Instituto Nacional de Enfermedades Respiratorias hubo un movimiento de los trabajadores que pidieron, incluso sacaron al director del instituto, porque tienen formas de trabajo que uno nunca se imaginaría que hay.
@@ -86,6 +90,7 @@ Entonces, no es posible que nuestros trabajadores, los trabajadores de la salud 
 Muchas gracias.
 ---
 RUY LÓPEZ RIDAURA
+Muchas gracias por la pregunta. Creo que es muy importante y creo lo importante es aclarar que sí, en efecto, gran parte de estos insumos son los mismos insumos que se utilizan para la atención y vigilancia de la estación de influenza.
 Y en principio todas las instituciones tuvieron compras, tanto del año pasado como en este año para gran parte de los insumos; entonces, esto es muy importante que se aclare.
 Y para, como usted menciona, para la cantidad de la carga que estamos teniendo en este escenario, un escenario uno con casos importados, claramente todos… y además hemos ido verificando con las instituciones, hospitales acerca de lo que tienen en almacén, lo que tienen en bodega y todos han reportado una suficiencia de equipo para esta pequeña parte inicial del escenario uno.
 Sin embargo, digo, reconocemos también en gran parte de la atención, uno de los aspectos que tal vez nos preocupaba más era la parte de la ventilación, de los ventiladores mecánicos, porque ahí sí está reconocido que tenemos un rezago histórico de ventiladores que se necesitan recuperar.
@@ -96,57 +101,75 @@ Sí se necesitan más insumos, el INER es un punto crítico en el sentido que mu
 Y de esta compra que estamos teniendo esta semana, posiblemente mucho se vaya a los institutos y a los diferentes lugares en el día de hoy tenemos ya una demanda importante.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Me gustaría sólo complementar que el doctor Jorge Salas Hernández, el director general del INER, tuvo una reunión hoy día con las personas que en su momento llevaron las diferentes observaciones.
 Ellos han integrado un plan al que han denominado un plan de 25 pasos para poder empezar a atender y a resolver todas estas observaciones y en su momento las necesidades. De hecho, es un documento que yo creo que a través de las áreas de comunicación social se podrá tener acceso, en donde paso por paso y la primera etapa viene con fecha de hoy, es decir, empiezan ya con los primeros pasos para poder caminar en la solución de cualquier problemática que en su momento pudiera haberse identificado.
 Habíamos concedido aquí.
 ---
 PREGUNTA
+Qué tal. Osvaldo Córdova, de Contra Réplica.
 Una precisión nada más. Ahorita esta lista de insumos que nos está dando ¿para qué tiempo estaríamos pensando?, o sea, si es que llegáramos a la fase tres.
 Y la otra pregunta, ¿el sector salud sigue sin necesitar los 25 mil millones que han ofrecido en la Cámara de Diputados?, ¿cómo va ese asunto?
 ---
 RUY LÓPEZ RIDAURA
+Contesto la primera, como lo expliqué o traté de explicarlo, lo que estamos calculando es una primera estimación del escenario tres en su conjunto, todo el escenario tres con 250 mil potenciales casos.
 Si esto se modifica, si vemos que la curva es diferente en lo observado, tenemos que estar conscientes que estas estimaciones son dadas o son calculadas con la información que tenemos en el momento, esto puede cambiar.
 Entonces, si vemos que hay una mayor carga, pues vamos a tener que comprar más insumos; si vemos que hay una menor carga, pues estos insumos se quedarán como una reserva estratégica fortalecida.
 Entonces, en principio esto está calculado para todo el escenario tres en su conjunto, como si todo el país entrara a un escenario tres con una curva epidémica completa.
 Lo que hemos calculado, y ya también lo hemos descrito, es el tiempo que dure la curva epidémica, ya hemos dicho que al menos son 12 semanas lo que tenemos estimado como cálculo, pero también estamos conscientes que esto se puede prolongar.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Comentar que este cálculo precisamente se realiza… O sea, es muy importante tomar este dato y ver el marco en el cual se encuentra el dato, no quiere decir que solamente este número de personas son las que se van a infectar, recordemos que la tasa de infección es mucho más alta, el virus empieza a circular, empieza a colonizar las vías respiratorias de las personas, sobre todo las vías altas, pero no necesariamente todas las personas desarrollan la enfermedad.
 Ya hemos visto los hallazgos de estos primeros casos que hemos tenido portadores que en su momento tienen la presencia del virus confirmada con una prueba de laboratorio positivo, pero son personas que durante todos los 14 días posteriores a su exposición no llegaron a desarrollar signos y síntomas de la enfermedad; y hay un grupo todavía mayor que, si bien es cierto, desarrolla signos y síntomas de enfermedad, estos son síntomas leves, estamos hablando a lo mejor de un dolor de cabeza, de un malestar de cuerpo, de un poco de tos, pero que resuelve en pocos días y esto hace inclusive que estas personas no lleguen necesariamente a demandar atención médica. Es un poco lo vemos en el hoy en las temporadas invernales.
 No todas las personas demandan atención médica por un cuadro gripal, en un momento lo controlan o lo atienden en casa y a menos que haya un signo o síntoma importante que sí requiera de una valoración médica, entonces acude.
 Entonces, por eso es importante decir que el monto sobre el cual está calculado los insumos para la atención médica está basado en ese número de personas que sí se estima vayan a demandar atención médica, que vayan a acudir a un centro de salud, a un hospital y que, por lo tanto, se requiera de un recurso específico para poderles da esta atención como tal.
 Pasamos dos aquí y nos vamos por acá con la compañera, y nos vamos con la compañera que está allá y ahorita regresamos de este lado.
 ---
 PREGUNTA
+Buenas noches. Bet Birai Nieto, de Eje Central.
 Sé que lo ha dicho en un par de ocasiones, pero me gustaría que fuera un poco más preciso. ¿Cuál es el plan de contingencia que están haciendo para cuando llegue el momento de implementar la fase dos?, ¿a cuánto asciende el presupuesto destinado para esta fase?
 También si se va a compensar de alguna manera a las familias que viven al día como en Perú, además de 81 enfermos confirmados hasta ahora.
 ¿Y cuántas personas que hayan estado en contacto con ellos están todavía en cuarentena?
 Eso es todo.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro con mucho gusto.
 ¿Quieres responder la primera parte del presupuesto?
 ---
 RUY LÓPEZ RIDAURA
+Esta estimación es para el presupuesto que tenemos de atención y, como dije, tenemos la posibilidad de incrementarlo en caso de que la carga de enfermedad sea mayor o dejarlo como una reserva estratégica de insumos en caso de que sea menor.
 Todavía y ya se hizo el planteamiento ante el comité y estamos evaluando, es posible que se requiera mayor presupuesto en otras acciones, especialmente si es necesario la contratación de recursos humanos, si es necesario hacer reconversión hospitalaria, es decir, incrementar el número de camas de terapia intensiva, tenemos que tener también contratos adicionales para personal de salud, especialmente médicos y enfermeras que nos permitan la atención.
 Esto también lo estamos calculando y en un futuro les podemos dar una estimación de cuánto para el caso de reconversión hospitalaria se va a necesitar.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En relación a las personas que todavía estarían cumpliendo un resguardo domiciliario o estuvieran en una observación en el hospital recordemos que nuestros primeros casos se presentaron o fueron confirmados el 28 de febrero y estamos hoy día 17.
 Entonces, si nosotros restamos los 14 días que en su momento al menos tendrían que estar estas personas en resguardo, pues entonces todas las personas que hubieran enfermado antes del 3 de marzo estarían ya en posibilidades o serían considerados ya de alta sanitaria.
 Sin embargo, las personas que enfermaron del 3 de marzo hacia atrás son pocas, representan básicamente el 12, el 15 por ciento de todos los casos, lo que quiere decir que prácticamente el 85, 87 por ciento de los casos confirmados todavía en este momento están terminando sus fases de resguardo; y si a esto le sumamos los contactos, estas 373 personas que se convirtieron en contactos, estos todavía tendrían más días hacia adelante, porque el contacto en su momento se identifica no cuando se confirma el caso, se puede ir identificando en la medida que pasan los siguientes días y dentro de ese periodo de 14 días de resguardo, como tal.
 ---
+INTERLOCUTORA
+Para identificar a portadores asintomáticos, ¿eso cómo lo están viendo?, o sea, quienes ya tuvieron el virus, pero de alguna manera ya les pasó la infección y están basados en anticuerpos y los que detectan también material genético, esos test, que son obviamente sensibles ¿cómo los están manejando?, ¿cómo los van a implementar o cómo los están implementando?
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+En la actualidad, dado que son todavía pocos los casos confirmados, estaríamos hablando al día de hoy de estos 93, se está teniendo todavía el insumo para poder realizar un test al final del periodo de 14 días y entonces, al realizar el test, en base a comparar las cargas virales que había al inicio, cuando se confirmó a la carga viral o los test que en su momento hay cuando cumple los 14 días, o inclusive la negatividad completa de la segunda prueba, eso nos contribuye a dar la evidencia de la curación.
 Ahora, es muy importante sí mencionar, se ha dicho en ocasiones anteriores, la prueba que se está utilizando es una prueba de biología molecular, que precisamente lo que busca es detectar el material genético del virus, no nos dice si el virus se encuentra activo, con capacidad de producir enfermedad, o es material genético que ya quedó en la vía respiratoria después de esos 10, 11, 12 días que el paciente resolvió.
 Por eso es muy importante que este resultado debe de ser analizado en el marco clínico del paciente. El paciente a su inicio tuvo signos y síntomas de enfermedad los cuales va resolviendo, estos signos y síntomas de enfermedad en la mayoría de los casos no ha excedido los 10 días, en la gran mayoría ha sido solamente de cinco o de seis; por lo tanto, cuando se toman estas pruebas al final y van acompañadas de la ausencia de signos y síntomas de enfermedad, entonces la persona se puede considerar como curada.
 Teníamos, habíamos concedido ya de este lado.
 ---
 PREGUNTA
+Quisiera preguntarle. ¿Este brote familiar que usted mencionó corresponde a estos nueve casos que fueron los contactos? Si me podría aclarar eso.
 Y la otra es: parte de las demandas hoy del personal médico del INER eran que no les habían informado, ni siquiera un protocolo de cómo tratar a una persona en caso sospechoso, y posteriormente a una persona que hubiera estado confirmada.
 Yo quisiera preguntarles específicamente, ¿qué protocolo?, ¿qué documento?, ¿quién está informando al personal médico?, ¿cómo debe tratar estos casos?, ¿y cómo se tiene que proteger para no contagiarse precisamente de COVID-19?
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro, con mucho gusto. De hecho, aclaramos, comentábamos que, de todos los contactos, de estos 373 contactos que han estado en seguimiento, 34 dieron positivos… perdón, 34 presentaron síntomas, o sea, son contactos que presentaron sintomatología, no se mantuvieron asintomáticos.
 Todos ellos, por lo tanto, fueron estudiados a través de la prueba confirmatoria para ver quién podría haber sido contagiado producto del contacto con el caso confirmado. Entonces, nueve de ellos, nueve son los que dieron positivo a la prueba, o sea, identificó la presencia de SARS-CoV-2 en el resultado, por lo tanto, estos nueve se consideran como casos asociados a importación porque son contactos directos de esta importación.
 De esos nueve, solamente dos están, digamos, en un marco de lo que podría considerar como un brote familiar, o sea, son dos contactos familiares en este caso de un caso confirmado, por eso hablamos de un brote familiar, los otros siete casos asociados a importación son casos únicos para un caso confirmado que en su momento se detectó.
 Y había una segunda pregunta.
 ---
+INTERLOCUTORA
+El tema del personal, porque ellos están… que no hay un protocolo de cómo actuar ni mucho menos de cómo protegerse.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+El protocolo de hecho está publicado desde mediados de febrero. Hay dos protocolos o dos lineamientos en este caso, pero uno que es sumamente específico para el tema de prevención de infecciones, o sea, que tiene todos los mecanismos y tiene todas herramientas identificadas en el lineamiento para poder evitar este contagio.
 El otro es el de atención médica, que también enmarca mucho de cómo debe de darse el procedimiento del abordaje a los pacientes desde que son casos sospechosos.
 Y bueno, se enfocó un poco más en la parte de cómo atenderlos en relación a la sintomatología que estén presentando, pero el lineamiento de prevención de infecciones lo pueden ustedes encontrar en el micrositio, está publicado, como les digo, desde hace más o menos tres semanas, está abierto, cualquier persona lo puede descargar, lo encuentran ustedes en el apartado específico que dice: ‘Información para personal de salud’.
 Y este documento está muy interesante, porque no solamente integra información de cómo prevenir infecciones en el marco hospitalario, en el marco de un centro de salud, sino también tiene información que es muy importante y la comunidad la podría consultar de cómo tener a un caso confirmado en el domicilio, estamos hablando precisamente de estas personas que fueron confirmadas y que están en su resguardo o estuvieron en su resguardo domiciliario.
@@ -159,6 +182,7 @@ El lineamiento es público y, como digo, lo pueden descargar del micrositio dond
 Pasamos a dos preguntas, ahora de este lado, al compañero y la compañera aquí de enmedio y ahorita venimos para acá otra vez, vamos avanzando.
 ---
 PREGUNTA
+Gracias. Buenas noches. Patricia Rodríguez Calva, de Grupo Imagen.
 Primero, de los 93 casos que hoy hay confirmados, ¿qué número existen graves?
 Segundo tema, en el escenario tres, donde se está planteando pacientes potenciales, 250 mil, alrededor, ¿qué número de ventiladores se necesitan para atender, digo, no todos van a estar conectados, pero qué número se tendría que necesitar?, ¿qué número de camas de terapia intensiva?
 Y si ya se tienen físicamente en estos momentos o se esperará hasta el escenario tres para tener toda la infraestructura
@@ -167,19 +191,32 @@ Dos, ¿puede amamantarlo teniendo estos síntomas? ¿cuáles serían los cuidado
 Gracias.
 ---
 RUY LOPEZ RIDAURA
+Contesto la segunda pregunta sobre la capacidad instalada.
 Es un cálculo que es más fino porque tenemos, digo, tenemos que estimar cuál es la probabilidad de que de estos 10 mil 500 pacientes que estamos estimando que van a requerir terapia intensiva, cuántos de ellos la van requerir de manera simultánea.
 Ese cálculo, digo, estamos en esa definición, tenemos suficientes camas y ventiladores para atenderlos, pero dependiendo de qué tanto de manera simultánea se presentan.
 Entonces, lo que tenemos, y justo le comentaba yo al doctor José Luis Alomía que con mucho gusto mañana tenemos un diagnóstico preciso de cuántas camas, cuántos ventiladores, cuántos están funcionando y cuántos pensamos comprar para tener el dato más preciso y no dar un dato solamente al aire. Entonces, mañana con mucho gusto lo podemos presentar.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
-Ya habíamos concedido la palabra de este lado.
+En función de los casos graves son dos, son dos casos los que se tienen de estos 93 que, digamos, forman parte del 12 por ciento que presentábamos de casos que están hospitalizados, pero que tienen esa característica de ser casos graves. Ambos son precisamente personas de la tercera edad, lo cual, sabemos, es uno de los principales factores de riesgo para poder generar enfermedad grave de COVID-19.
+---
+INTERLOCUTORA
+(inaudible)
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, no tenemos ese dato específicamente, y en su momento también, como ya se ha comentado, no queremos llegar a una especificidad en relación a los casos que en su momento permita identificarlos, por eso, no estamos dando nombre de hospitales ni de unidades médicas, ni mayor información que pueda generar alguna conjetura, y en su momento identificar a una persona, hay que ser muy cuidadosos con resguardar la confidencialidad de los pacientes.
+Ya habíamos concedido la palabra de este lado.
+---
+INTERLOCUTORA
+Las mujeres embarazadas.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Mujeres embarazadas. De la información que hasta el momento ha presentado el componente de atención médica, pero, sobre todo de investigación científica a cargo del doctor Reyes Terán, lógicamente la información que hasta el momento se tiene ya más validada es la que se ha estado obteniendo de publicaciones de Asia, sobre todo, de China.
 Están empezando a salir algunos artículos de lógicamente del área europea, pero hasta el momento no hay datos de transmisión vertical. Le decimos nosotros transmisión vertical precisamente a aquella que puede suceder si la mamá al estar enferma contagia al niño. Esto no se ha dado, no se ha registrado y, por lo mismo, tampoco está prohibido el tema de la lactancia materna como tal.
 Sin embargo, hay que recordar que esta información en la medida que se vayan realizando investigaciones más profundas, investigaciones más serias, con buenos controles, con toda la metodología, vamos a empezar a tener mayor información para en su momento ser más específicos, pero eso es lo que hasta el momento se ha reportado en esa parte.
 Habíamos concedido ya la palabra de este lado.
 ---
 PREGUNTA
+Qué tal. Pancho Parra, para El Mañanews, de La Octava.
 Son varias preguntitas, se las echo muy rápidas. La primera, si tienen pensado empezar a hacer datos abiertos para poder que los investigadores de institución de educación puedan empezar a tomar los mismos datos que ustedes tienen, si lo van a sacar en una base o algo por estilo.
 Dos, si tiene contemplado en algún punto empezar a hacer el testeo masivo del cual la Organización Mundial de la Salud recomendaba; pero yo sé, porque los he estado siguiendo, que el subsecretario Gatell ha dicho que hay otro sistema, entonces, si podrían ahondar en eso.
 Y la última nada más, en redes sociales se ha hablado mucho sobre el tema de la cuarentena, incluso con memes y cosas como bastante divertidas
@@ -188,6 +225,7 @@ Sobre todo, con el tema de las vacaciones, se vienen las vacaciones ¿qué tendr
 Gracias.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro, correcto. Empezamos de atrás para adelante sin problema.
 Como ustedes saben, se han planteado y puesto sobre la mesa toda una serie de intervenciones o están relacionadas precisamente a cómo se va a operar e instrumentar el concepto de sana distancia.
 Tenemos intervenciones que van, digamos, desde intensidades muy leves o que no representan mayor distanciamiento hasta aquellas que en su momento podrían significar la cancelación o la postergación, mejor dicho, de eventos masivos o donde se represente e mayor riesgo de transmisión.
 En la medida de los escenarios y como estos han ido avanzando, y esto lógicamente va de la mano con la carga de enfermedad o la cantidad de casos que se va día con día integrando, pero además el estudio de contactos es muy importante, porque nos ayuda a ver cuál es la dinámica que se está teniendo en relación a la transmisión secundaria y empalmo con la pregunta también del tema de las pruebas.
@@ -202,30 +240,52 @@ Es decir, llega un momento en donde la cantidad o la carga de casos importados y
 También podemos comentar, ahora el doctor Ruy López Ridaura, presentaba precisamente el componente diagnóstico, este se integró a la estimación, para empezar a operar el modelo Centinela estamos realizando la adquisición de 120 mil reacciones para todo el territorio nacional, para las 32 entidades federativas, hay un marco todavía de escalamiento de subir esos 120 mil para arriba en caso de que sea necesario, pero con estos insumos empezamos a partir ya de la próxima semana a operar este nuevo modelo que nos va a permitir tener la información precisa de cómo está sucediendo el tema.
 Termino la respuesta de este lado y pasamos para acá.
 ---
-JOSÉ LUIS ALOMÍA ZEGARRA
-De hecho, comentarles que el día de mañana se estará teniendo ya un lineamiento que viene a sumarse a estos documentos normativos que se han estado realizando en donde podremos tener precisión de cuáles son las acciones para cada una de estas actividades. Al ser un lineamiento nacional la idea es que todos tengan la información y sepan cuando llegue la instrucción o cuando llegue la recomendación, ya de antemano sepamos qué significa y entonces en base a qué vamos a poderlo operar.
+INTERLOCUTOR
+¿El tema turístico?
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, para el tema turístico, si bien es cierto están las medidas generales, en función de cómo se vaya midiendo la carga de enfermedad y cómo está afectando esto las localidades que en su momento sean turísticas, se va a operar también intervenciones de sana distancia en hoteles, en restaurantes, en bares, en centros de convenciones, en discotecas, etcétera.
+De hecho, comentarles que el día de mañana se estará teniendo ya un lineamiento que viene a sumarse a estos documentos normativos que se han estado realizando en donde podremos tener precisión de cuáles son las acciones para cada una de estas actividades. Al ser un lineamiento nacional la idea es que todos tengan la información y sepan cuando llegue la instrucción o cuando llegue la recomendación, ya de antemano sepamos qué significa y entonces en base a qué vamos a poderlo operar.
+---
+INTERLOCUTOR
+Datos abiertos.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Datos abiertos. De hecho, nuestras bases de datos están disponibles a través de la petición, el modelo funciona inclusive para las bases de datos, lógicamente y esto es muy importante que lo tenga clara la población, cuando se nos solicita una base de datos o información, esta información siempre se da sin ningún dato que permita la identificación de una persona.
 Se dan datos generales precisamente para efectos de investigaciones, para efectos de protocolos. Nosotros estamos abiertos a la academia, hemos tenido solicitudes, no solamente en el marco de COVID-19, sino de todas las enfermedades que lleva a cabo y que la estadística, el Sistema Nacional de Vigilancia Epidemiológica, y es básicamente cuestión solamente de solicitarlas, y con mucho gusto cuando son procesos académicos y están bien fundamentados, se entrega esta información.
 Pasamos entonces ahora sí de este lado, nos quedaría espacio creo que, para una pregunta, dos preguntas. Una pregunta aquí y una pregunta acá.
 ---
 PREGUNTA
+Soy Blanca Valadez, reportera de Grupo Milenio.
 Este escenario que ustedes están estableciendo, es un escenario, digamos, conservador, porque los primeros escenarios que ustedes nos presentaban no hablaban de estas estimaciones, hablaban de unas estimaciones mayores. Entonces, quiero que nos aclaren exactamente si este escenario es muy conservador.
 También que nos aclaren si las evidencias científicas hablan de que por cada una persona que se identifica, 10 no se diagnostican; y también de las personas que después de que son aparentemente curadas, presentan lesiones pulmonares. Esas son cosas que se han publicado en China.
 Y, por último, si nos pueden comentar sobre de la reunión o la videoconferencia, la llamada que tuvieron los secretarios de Salud de México, Estados Unidos y la ministra de Canadá. Gracias.
 ---
 RUY LÓPEZ RIDAURA
+Rápidamente. De la estimación, sí, en efecto, al inicio se hicieron algunas estimaciones basadas en modelos, tomando en cuenta algunas series de parámetros de transmisión, que contemplan escenarios donde son hipotéticos, donde no se hace nada, es casi la evolución natural de una epidemia.
 Y también en muchos de estos modelos, y por eso a veces las cifras han estado variando en órdenes de magnitud, toman en cuenta casos asintomáticos. Entonces, aquí estamos tratando… como esto para el cálculo de insumos, nos estamos fijando en los casos que van a demandar atención. Entonces, por eso pueden ser un poco diferentes. Y también estos datos tienen como base en lo observado hasta ahora.
 Como dije, puede ser conservador, tampoco quiero definir que es una estimación conservadora, vamos a decir que es una primera estimación, pero todavía tenemos la posibilidad de incrementar la compra de insumos conforme vayamos viendo la evolución de la epidemia.
 ---
+INTERLOCUTORA
+(inaudible) cinco por ciento y cinco por ciento que es más de medio millón de personas.
+---
 RUY LÓPEZ RIDAURA
+Sí, por eso digo, en ninguna población de los que se han visto en el mundo, cinco por ciento de la población se ha enfermado y ha buscado atención, digo, la estimación que tenemos es de 0.2 por ciento.
+---
+INTERLOCUTORA
+¿La letalidad cuál sería?, porque hablaban de los casos críticos ¿la letalidad cuál sería?
+---
+RUY LÓPEZ RIDAURA
+Estas son las estimaciones que se han tenido y, como lo ha presentado también el doctor Alomía en varias ocasiones, mucho de la letalidad ha ido variando de población a población y de inicio de la epidemia al final.
 Al principio se veían letalidades de más de cinco por ciento y al final muchas de estas poblaciones bajaron las letalidades por abajo del dos y por abajo del uno por ciento. Entonces, ahorita no tenemos una estimación específica de la letalidad, porque esta estimación estaba enfocada a la compra de insumos.
 ---
 INTERLOCUTORA
+Sobre los casos, se diagnostica uno y 10 no.
 Y de las lesiones pulmonares de personas supuestamente curadas.
 Y la reunión.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Esta precisamente es información que está basada en la bibliografía que se ha publicado de manera internacional. Nosotros, como veíamos en los 93 casos que tenemos, hasta el momento solamente tenemos dos casos graves, por lo tanto, no es una muestra suficiente todavía para explorar este tipo de información.
 Como ustedes saben y lo dijimos, hay portadores que precisamente su característica de portador es que no llegan a desarrollar signos y síntomas de enfermedad.
 Ni hay todavía estimaciones ni siquiera en China en el hoy de cuántos pudieran ser la proporción de portadores.
 Esto va a ser importante conocerlos, porque sabemos que un portador genera inmunidad, genera anticuerpos, o sea, no enferma, pero el hecho de tener el virus en sus vías respiratorias hace que el sistema inmunológico reacciones.
@@ -233,6 +293,20 @@ Eso sería bueno, porque en la medida de la proporción de portadores estaríamo
 Y tenemos la última pregunta de este lado.
 ---
 PREGUNTA
+Le agradezco por haberme dado la palabra.
+---
+INTERLOCUTORA
+De la reunión.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Fue hoy día en la tarde, todavía a su servidor no le tocó participar de la misma, el doctor Ruy López Ridaura tampoco, entonces de seguro habrá un comunicado de prensa más adelante o en su momento, cuando se tenga la información.
+---
+PREGUNTA
+Gracias, doctor por la palabra.
 Quería yo preguntarle si en algún caso hipotético alguna ambulancia puede negar el servicio de traslado a un paciente con datos de dificultad respiratoria, con sospecha de positivo a coronavirus.
 Y eso me lleva a la siguiente pregunta, ¿las ambulancias que hay en México están o tienen la capacidad de transportar a pacientes infectocontagiosos?
 Por su respuesta, muchas gracias.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Siguiendo el lineamiento de bioseguridad o de prevención de infecciones, prácticamente todas las ambulancias pudieran realizar transporte de estos pacientes, dado que el lineamiento dice el tipo de bioseguridad que debe de usar el paramédico, el chofer y, en su caso, también la protección al paciente, que no son insumos de alta bioseguridad, son insumos que tenemos para la atención de las infecciones respiratorias agudas.
+Muchas gracias y buenas noches a todos.

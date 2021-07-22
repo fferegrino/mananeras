@@ -3,6 +3,7 @@ Presidencia de la República
 12 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches. Son las 19:00 horas del domingo 12 de abril de 2020. Estamos en la Ciudad de México, en el Palacio Nacional. Vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia del COVID, la enfermedad causada por el nuevo coronavirus SARS CoV2.
 Hoy vamos a dedicar la sesión a dos temas:
 Uno, el informe técnico diario que presentará el doctor José Luis Alomía, director general de Epidemiología.
 Y también nuevamente nos acompaña el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, quien ha estado al frente de la creación de materiales de promoción de la salud y de la administración de los contenidos del micrositio coronavirus.gob.mx
@@ -10,6 +11,7 @@ Ayer nos preguntaban sobre materiales para niños y aquí el doctor Alomía los 
 Le pido entonces al doctor Alomía si es tan amable de presentarnos la información.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso. Buenas tardes.
 Como es ya costumbre, iniciamos con un vistazo a lo que es el panorama internacional, lo que ha ocurrido en las últimas 24 horas en los últimos 14 días a nivel mundial con esta pandemia. Noten que la proporción de casos confirmados en los últimos 14 días continúa disminuyendo, ayer era de 65, hoy ya es de 63 otra vez y continúa disminuyendo esta proporción.
 La tasa de letalidad se mantiene todavía en este promedio global de 6.2. Vemos los casos acumulados día por día, continúan aun incrementándose en lo que se refiere a su totalidad.
 En la siguiente diapositiva vemos un poco el comparativo entre la región de Europa y América, que son las dos regiones que en este momento están presentando las epidemias en forma activa. Ya decíamos que en los últimos días Europa, varios países europeos empiezan a evidenciar ya haber llegado a su acmé y estar empezando ya con la tendencia descendente o con la parte descendente de la curva de casos.
@@ -22,7 +24,7 @@ En la siguiente diapositiva integramos dos fuentes de información que serían i
 Y aquí podemos en la distribución por edad, pero además -como recuerdan- también la forma en la que estas personas han sido atendidas una vez que han demandado atención médica.
 Ayer, si recuerdan, cuando veíamos el punto de corte en relación a la edad de los que son mayores de 60 años, estaban casi a la par las dos barras, hoy día ya la barra amarilla supera los mayores de 60 a 64, y vemos cómo es un punto de diferencia entre los que tienen menos de edad donde las barras verdes todavía son mayores y a partir de los 60 en adelante las barras amarillas se incrementan y además se van incrementando en una diferencial importante medida que la edad avanza, lo cual sigue reflejando lo que hemos estado observando, que es las personas que tienen más de 60 años tienen un mayor riesgo de complicarse y en su momento necesitar ser hospitalizados, ya sea en un segundo o en un tercer nivel de atención.
 En la siguiente diapositiva podemos ver la distribución también por gravedad de esta hospitalización que para fines prácticos se ha mantenido estable al menos en los últimos tres y cuatro días, estando los casos intubados alrededor de un cuatro por ciento y los casos graves alrededor de un 20 por ciento.
-En la siguiente diapositiva podemos ver las comorbilidades asociadas a las que ya comentábamos.  Hay 296 defunciones, en donde continúan las comorbilidades de hipertensión, diabetes y obesidad a la cabeza; sin embargo, también vemos un incremento que empieza a producirse en las demás comorbilidades, mencionamos tabaquismo, enfermedad pulmonar obstructiva crónica, la insuficiencia renal crónica, enfermedad cardiovascular e inmunosupresión en varias de sus expresiones, el asma, l VIH/sida, sin olvidar también las dos mujeres que lamentablemente perdieron la vida habiendo estado una de ellas embarazada y otra de ellas ya en su fase de puerperio.
+En la siguiente diapositiva podemos ver las comorbilidades asociadas a las que ya comentábamos.  Hay 296 defunciones, en donde continúan las comorbilidades de hipertensión, diabetes y obesidad a la cabeza; sin embargo, también vemos un incremento que empieza a producirse en las demás comorbilidades, mencionamos tabaquismo, enfermedad pulmonar obstructiva crónica, la insuficiencia renal crónica, enfermedad cardiovascular e inmunosupresión en varias de sus expresiones, el asma, l VIH/sida, sin olvidar también las dos mujeres que lamentablemente perdieron la vida habiendo estado una de ellas embarazada y otra de ellas ya en su fase de puerperio.
 En la siguiente diapositiva podemos notar lo que ya veíamos tratando de comunicar desde hace algunos días. De estos tres grupos de edad a los cuales dividimos a la población, si bien es cierto los que más se enferman son los de 25 a 50 años, concentran el 73 por ciento de la totalidad de casos que se han confirmado, vean cómo la letalidad, que es del 14 por ciento, prácticamente tres veces a la del grupo anterior, es precisamente en los que tienen más de 60 años de edad y lógicamente es más del doble de la que estamos observando a nivel nacional.
 Entonces, por eso siempre es importante mencionar la protección que debe haber en estos grupos, tanto en los que vimos en la tabla anterior como los que vemos ahora, por la edad.
 La siguiente diapositiva. Vemos la distribución de esta letalidad, que para México es de 6.35 a nivel nacional, pero que se distribuye dependiendo de cuántas defunciones ha habido en cada estado y cuántos casos confirmados han tenido en este estado, que puede ir desde una letalidad del 25 hasta una letalidad del 1.67
@@ -45,9 +47,11 @@ Nuevamente, aunque tenemos un leve incremento en relación a los últimos dos, t
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía, director general de Epidemiología.
 Le pedimos entonces al doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, si nos comparte la información sobre este campo.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Con mucho gusto, subsecretario.
 Antes de iniciar y compartir esta información que hemos estado poco a poco gestionando con el apoyo de muchas personas, con el apoyo de muchos equipos, de Comunicación Social, de comunicación de riesgos en Presidencia, en la Secretaría de Salud, en la propia Dirección General de Promoción de la Salud, también quiero agradecer a la gente que a través de Twitter ha estado en comunicación conmigo para hacerme ver lo que la ceguera de taller a veces no nos permite ver.
 Este resultado de esta comunicación con la población a través de Twitter nos llevó a tener ahora una sección que nos parece que es mejor, que siempre será perfectible de información, accesible para personas con diferentes discapacidades.
 Entonces, vamos a empezar con esta, la portada, esto es lo primero que ve la gente: Quédate en casa y descarga la aplicación para cualquiera de los dos sistemas disponibles.
@@ -94,6 +98,7 @@ Solamente quisiera compartir que tenemos más de 10 millones de usuarios que ya 
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud de la Secretaría de Salud.
 Un par de palabras antes de abrir a preguntas. Nos interesa mucho que conozcan este material, también ustedes, que están directamente aquí. Lo conocen ya 10 millones de personas que han estado accediendo a los materiales, a los distintos recursos, han regresado, en promedio hay 1.8 visitas y descargas por persona, por lo tanto, son 20 millones de sesiones o de interacciones para estos 10 millones de personas.
 Este es un esfuerzo que nos da mucho gusto ejercer, porque nos habla del compromiso de todo el gobierno, la mecánica, la organización, el diseño corresponde a la Secretaría de Salud. Esta es una emergencia sanitaria y por ley, de acuerdo a la Constitución de hecho, la autoridad sanitaria tiene el mando de todo este operativo en su conjunto.
 Estoy muy contento de celebrar que el doctor Alcocer, el líder, la autoridad sanitaria, nos ha mantenido en todo momento con este espíritu, de integración, de apertura, de convocar a todos los demás sectores a este esfuerzo. Y en esta página, en este portal se refleja mucho de ese trabajo. Hay varios otros elementos que no se manifiestan de esta manera, pero aquí es muy palpable, muy directamente evidente la colaboración de todos los miembros del gabinete del gobierno federal.
@@ -105,12 +110,14 @@ Pero gracias a ustedes comunicadoras y comunicadores que están aquí presentes.
 Vamos a abrir a preguntas y respuestas. Empecemos por aquí, ustedes tres y luego ustedes tres.
 ---
 PREGUNTA
+Muchas gracias. Doctor, buenas noches. Bianca Aguirre, de Notimex TV.
 Mañana el presidente Andrés Manuel López Obrador anunció que va a dar un balance general, esto por el COVID-19.
 Nada más preguntarle: ¿será que cabe la posibilidad de que mañana se decrete la fase 3?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
-No necesariamente. La fase 3 -retomo sobre una pregunta que hizo usted hace unos pocos días- no hay una secuencia lineal entre pasar, es decir, un tiempo preespecificado de cuánto dura cada fase, desde las preparaciones que hicimos en las primeras dos semanas de enero de 2020 identificamos los tres escenarios fundamentales:  el uno, la importación viral; el dos, la transmisión comunitaria; y el tres, la propagación epidémica.
+Con mucho gusto.
+No necesariamente. La fase 3 -retomo sobre una pregunta que hizo usted hace unos pocos días- no hay una secuencia lineal entre pasar, es decir, un tiempo preespecificado de cuánto dura cada fase, desde las preparaciones que hicimos en las primeras dos semanas de enero de 2020 identificamos los tres escenarios fundamentales:  el uno, la importación viral; el dos, la transmisión comunitaria; y el tres, la propagación epidémica.
 En su momento vendrán el cuatro, el cinco y el seis, que tienen que ver con la salida de este primer brote, con la recuperación y con el restablecimiento de las actividades normales y obviamente la recuperación social y económica, pero en estos tres elementos lo más importante es cuáles son las actividades que se necesitan hacer principalmente.
 En la fase 1 en su momento lo más importante fue la contención en torno a los casos, identificación de casos sospechosos, diagnóstico, aislamiento, estudio de contactos.
 Cuando anticipábamos que esta medida de contención en torno a casos iba a ser ya inefectiva o ineficiente, porque habría más de varias decenas de casos y considerando el punto de inflexión de la curva epidémica fue que el 13 de marzo, un viernes anticipamos 15 días la decisión de instaurar medidas de la fase 2 y nos anticipamos.
@@ -127,6 +134,7 @@ Entonces, reiteramos. No es que cuando venga la fase 3 hay que extremar medidas 
 Blanca Valadez.
 ---
 PREGUNTA
+Buenas tardes a todos.
 El presidente Andrés Manuel solicitó al gobierno de Estados Unidos la posibilidad de la venta de un centenar, si no me equivoco, de ventiladores. Saber cuál fue la respuesta que le dio y qué presupuesto se va a destinar a la compra de estos en caso de que sea favorable.
 Y si también dentro de las compras que están haciendo en China se incluye algún número de ventiladores.
 También preguntarle, y disculpe el abuso, pero dentro de la solicitud que hizo el presidente a los partidos políticos de donar sus prerrogativas solamente alzaron la mano pocos partidos políticos. ¿Esto de qué habla?
@@ -136,6 +144,7 @@ Y también me preguntan sobre los comandos centrales. El Issste tiene uno, el IM
 Por sus respuestas, gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, Blanca Valadez, de Milenio.
 Lo que tenemos es: lo que se pidió al presidente de Estados Unidos son más que un centenar, son 10 mil ventiladores y 10 mil monitores.
 Tenemos identificado desde el inicio lo que le llamamos el paquete COVID. El paquete COVID es el conjunto de insumos, equipo y recursos humanos que se necesitan para atender a una persona con COVID, la persona que está hospitalizada pero no está críticamente enferma y la persona que está críticamente enferma.
 En el caso de las personas que están críticamente enfermas, esto incluye -no se limita a esto- incluye un ventilador mecánico y un monitor entre otros varios insumos.
@@ -148,22 +157,33 @@ Entonces, en febrero efectivamente, cuando China tenía una enorme demanda de es
 En este momento que México requiere, pues lo compra. También, así como en su momento lo hizo China comprándolo en México, México lo compra hoy en China, que es otro de los sitios mundiales de producción.
 Sobre su pregunta respecto a los comandos operativos… De partidos políticos yo no sé. Mañana se lo preguntan si quieren al presidente, eso es un asunto político en el que yo no estoy involucrado.
 ---
+INTERLOCUTORA
+¿Cuánto se requeriría en este momento?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Hemos comentado cada vez que vienen los colegas de Insabi sobre las necesidades de equipos y de contrataciones, y se va actualizando el presupuesto que se requiera, lo que es una siempre una buena noticia es el enorme apoyo y la decisión del presidente de no escatimar en modo algunos los recursos necesarios para atender esta pandemia.
 Y los comandos operativos, efectivamente es una manera de organizar la respuesta a emergencias de cualquier naturaleza, pero en este caso una emergencia sanitaria. El IMSS, el Seguro Social tiene su comando operativo, el Issste tiene su comando operativo, la Secretaría de Salud tiene su comando operativo que lo comanda aquí el doctor Alomía, es de carácter operativo y entre los tres tenemos un macrocomando operativo de salud, y a su vez, con la ayuda de la Coordinación de Protección Civil, tenemos el comando nacional COVID, en donde también participan las instituciones armadas y funcionamos en ese sentido, siempre estamos manteniendo articuladas las decisiones y las operaciones.
 ---
+INTERLOCUTORA
+Nada más de los intubados y cuántos hay, porque no todos son los que están aquí.
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+Sí, es correcto. De hecho, con el Sistema de la Red Negativa, que es un sistema ya operando desde la semana pasada que tiene como objetivo precisamente monitorear el estado de salud de los pacientes que se han hospitalizado con infección respiratoria aguda grave… Es decir, esta es la definición que de hecho está en el Manual de vigilancia epidemiológica, se le denomina IRAG, reitero, infección respiratoria aguda grave.
 No quiere decir que todas estas personas necesariamente tengan COVID, de hecho si ven los porcentajes de positividad, comentábamos que es alrededor de un 20 por ciento en estos momentos y que eso se irán incrementando en medida que empecemos a entrar en un momento más adelante al escenario 3, pero de esta red negativa que monitorea todo el sistema, el día de hoy nos reportaba alrededor de 450 personas intubadas con IRAG, lo que el Sistema de Vigilancia Epidemiológica nos reporta a través del Sisver que es el que se encarga ahora sí de monitorear y detectar los casos confirmados a COVD-19, en el corte de hoy nos reporta a 185 personas que tienen esta característica.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Nos quedan 10 minutos. Entonces adelante, Ruth.
 ---
 PREGUNTA
+Ruth Rodríguez, columnista de Excélsior.
 Doctor, para preguntarle, hay mucha inquietud de la gente, de las personas que se van a su casa con síntomas y que les piden estar 14 días.
 ¿Quién diagnóstica o cómo diagnostican que después de estos 14 días ellos ya no son positivos a COVID y pueden dejar de estar aislados en su casa para poder estar con su familia?
 Y, por otro lado, hay personas que se están agravando en su casa. ¿Qué protocolo se tiene que realizar para llevarlos al hospital?, ¿es la misma familia la que tiene que llevarlos al hospital o son las ambulancias, sabiendo que hay pocas ambulancias?, ¿qué es lo que están haciendo?
 Y un comentario. Hemos escuchado cifras y datos de los institutos del IMSS, de la Secretaría de la Salud, pero no hemos tenido o no he escuchado datos del Issste y preocupa, porque son más de 11 millones que están afiliados al Issste. Saber qué es lo que están haciendo precisamente para sus derechohabientes. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Ruth. Con gusto.
 Toda la información que presentamos aquí es de todo el sector, incluye el Issste, el IMSS, la Secretaría de Salud federal, que tiene los 23 institutos y hospitales federales, y los 32 sistemas estatales de salud, y también algunas unidades de salud que hoy coordina ya el Insabi, pero son parte del patrimonio de los servicios estatales de salud. Entonces, es más o menos gruesamente la misma información para todas las instituciones, porque cada quien está haciendo lo que le compete, pero con el mismo modelo de trabajo.
 Los documentos técnicos también son sectoriales. Nosotros lo presentamos porque la Secretaría de Salud es la cabeza del sector, pero todo esto ha sido trabajado con los colegas de todas las instituciones.
 Sobre lo que pregunta de qué debe hacer una persona que tiene síntomas, me lo preguntó aquí el compañero ayer precisamente y siempre es importante retomarlo. Hay dos grupos de personas que interesa identificar plenamente: las personas que no tienen un alto riesgo de complicarse, que tienen bajo riesgo de complicarse, y son personas menores de 60 años, que no estén embarazadas, que no sean mujeres embarazadas y que no tenga enfermedades crónicas.
@@ -173,16 +193,55 @@ Este segundo grupo, si presentaran los síntomas de COVID, requieren una evaluac
 Que si se les da asistencia. Por supuesto, lo acaba de presentar el doctor Ricardo Cortés, 800 0044 8000, 800 0044 800, 800 0044, es la línea de atención COVID, este originalmente es el número de la Unidad de Inteligencia Epidemiológica y Sanitaria de la secretaría y ahí hay personal entrenado para darles asistencia.
 Si presentaran una urgencia, 911, 911, es el número universal de emergencias y desde hace más de dos meses hemos integrados los centros de comunicación para que también desde el 911 se pueda acceder a la información de COVID.
 ---
- HUGO LÓPEZ-GATELL RAMÍREZ
-Hace más de seis semanas se nos saturó después de que hubo un brote de noticias falsas diciendo que ahí se iban a tener atención a domicilio para hacer pruebas; entonces, remodelamos este centro de atención y tenemos un centro de atención telefónica muy amplio.
+INTERLOCUTORA
+¿Se están dando abasto?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, tenemos sobrado todavía el Centro de Atención Telefónica.
+Hace más de seis semanas se nos saturó después de que hubo un brote de noticias falsas diciendo que ahí se iban a tener atención a domicilio para hacer pruebas; entonces, remodelamos este centro de atención y tenemos un centro de atención telefónica muy amplio.
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+De hecho, rápidamente sólo comentar, aunado con la pregunta anterior, que precisamente el centro telefónico del Issste está dando soporte a este 800 0044 800, ya que ellos contaban con un call center de casi 400 personas a nivel nacional y ellos también entraron a apoyar en esta actividad.
+---
+INTERLOCUTORA
+O sea, dejando pasar (inaudible) para dejar de estar aislados.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí. La enfermedad dura generalmente de seis a 10 días el periodo sintomático, se incuba siete días, dura de seis a 10 días, el periodo infeccioso más importantes es entre el día 4 y el día 6, y obviamente puede haber una variabilidad importante.
 Empieza a ser francamente raro que después del décimo día la persona siga siendo contagiosa, pero se considera universalmente una precaución hasta el día 14. Obviamente si pasan más días ya la probabilidad es francamente escasa y ya puede salir a la calle, pueden interactuar con sus familiares y no se necesita una prueba de control para ver terminada la enfermedad.
 Últimas dos preguntas, por favor. Hoy van a ser puras mujeres.
 ---
 PREGUNTA
+Gracias, subsecretario, doctores.
 Tengo dos temas, rapidísimos. El primero para el doctor Alomía. Hablando justamente de las intubaciones, al reverso tenemos un universo que nos presenta aquí de mil 843 personas que se han recuperado, que es muy bueno.
 Quisiera preguntarle, de esos casos de éxito ¿cuál han sido extubaciones que fueron exitosas?, si se han detectado algunas secuelas que pudieran ser de preocupación como no sé, enfermedades alveolares.
 ¿Y de esas, cuántas personas participan ya en el protocolo instaurado este lunes de plasma?
 Y subsecretario, para usted también. Si nos pudiera comentar de los trabajadores esenciales, algunos que ya estaban en situaciones precarias. ¿Qué sugerencias tiene para aquellos que son personas que hacen repartición de alimentos, que trabajan en supermercados, que conducen taxis, para que se puedan seguir protegiendo mientras mantienen su trabajo esencial?
 Y también qué sugerencias tiene para quienes recurren a sus servicios para que también los puedan proteger.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por sus preguntas, ahorita le contesto la segunda.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Correcto, de hecho, comentar, me llevo la pregunta muy puntual para hacer los cálculos, tenemos la información para poder obtener el dato preciso y lo comunicamos el día de mañana sin falta.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre esta pregunta que hace, también… Bueno a todas les agradezco sus preguntas, pero cada vez que identifico una pregunta que hace pensar que haya alguien al menos una persona en la ciudadanía, seguramente decenas o centenas que tienen esta inquietud, aprecio mucho que ustedes sean quienes la comunican.
+Las y los trabajadores de actividades esenciales han seguido operando, han seguido teniendo sus actividades laborales, la cajera del súper, el repartidor, la persona que está haciendo un oficio para la infraestructura crítica, etcétera, todos los que están enlistados, y es muy natural que su inquietud sea: ‘¿Qué riesgo corro yo de infectarme de COVID en este momento y no me estoy protegiendo como sí se protegen todos los demás?
+Una pregunta adicional puede ser: ‘¿Y si yo me enfermo de COVID y llego a la casa y contagio a la familia? También es una pregunta muy importante. Entonces, las medidas de precaución son estas medidas generales:
+El lavado de manos es extraordinariamente importante y no es una vez ni dos, ni tres ni cinco, es 15, 20, 30 veces. Ya hemos dicho que además con una duración suficiente para que el lavado de manos sea efectivo, o sea, es recomendado de 20 a 30 segundos, se está recomendando en pensar en una canción para acordarse de cuánto son 20 a 30 segundos sin tenerlo que estarlo contando, por supuesto, sin ver el reloj. Entonces, pero el lavado de manos es fundamental.
+El otro elemento importante es sana distancia. Si guardamos, todos guardamos su sana distancia, eso ayuda a tener una menor probabilidad de que recibamos las gotas de saliva o las pequeñas partículas de secreciones respiratorias de alguien que pudiera estar contagiado.
+Como una medida solidaria de precaución, si alguien presentara síntomas de estas personas que están todavía en el espacio público o estamos, ustedes incluidas, si presentáramos síntomas no debemos ya salir, y debemos justamente hacer esto de mantenernos en casa y asumir que si no estamos en un riesgo de infectar, de complicarnos, permanezcamos ahí los 14 días.
+Cubrir el estornudo con el ángulo del codo o con un pañuelo desechable si está a la mano, pero también es importante que ya no haya nadie que esté haciendo actividades esenciales que pertenezca a los grupos de riesgo, mayores de 60, mujeres embarazadas o personas con enfermedad crónica.
+El riesgo general de alguien de infectarse en este momento en la vía pública ha disminuido importantemente en la medida en que han disminuido la morbilidad urbana; pero todas y todos debemos ser conscientes que cualquiera pueda estar en riesgo de infectar, excepto que sea una persona que ya se ha restablecido en la enfermedad.
+Entonces, estas son las medidas de precaución.
+Algunas que hemos desestimado como no tan útiles o no tan claramente útiles incluye el tema del cubrebocas, esto se ha presentado también a críticas y controversias, y por qué sí Estados Unidos lo recomendó y México no.
+Les recuerdo, los centros de control de enfermedades de Estados Unidos recomendaron hace casi 10 días el uso generalizado de cubrebocas como una medida adicional de precaución y no hicieron una recomendación muy enfática; cerca de 48 horas después, la Organización Mundial de la Salud dijo: ‘No existe evidencia científica todavía que lo demuestre’.
+Puede ser una medida útil, sí, en que personas que empiezan a enfermar, que ya estén tirando virus, expeliendo virus y aun no hayan tenido un diagnóstico, al usar el cubrebocas están reduciendo la probabilidad de transmitirle a otro, pero debe quedar muy claro: no es una medida útil de protección para la persona susceptible que quiere evitar que le caiga el virus encima, porque al quedar descubiertos los ojos, esa es una razón, ahí puede entrar el virus.
+Y la otra razón sumamente importante es tener el cubrebocas todo el día lo que lleva irremediablemente es que uno se sofoque, se acalore, se le pique y continuamente se esté tocando la cara y entonces hay un fenómeno que se llama compensación del riesgo, porque estoy haciendo un mecanismo que va a favorecer la infección.
+Y otra expresión de la compensación del riesgo es: ‘Siento que estoy protegido porque tengo el cubrebocas, ya no me lavo las manos, ya no cuido su sana distancia y etcétera, etcétera’. Entonces, por eso la disposición es controversial.
+Y termino, porque nos queda un minuto, guantes. No tienen ningún sentido estar usando guantes quirúrgicos en la vía pública, el vigilante de una compañía, el repartidor, no tiene ningún sentido de protección.
+¿Por qué razón?
+Porque el virus no entra por las manos, el virus entra por nariz, boca y ojos. Si yo tengo los guantes tengo envuelta la mano, pero al cabo de unos minutos es como si fuera la mano misma. Y si alguien me da la mano sobre mi guante y esa persona está infectada y a través de su mano me transmitió los virus, me los pasó a la superficie del guante, más tarde, cuando yo me talle los ojos o me toque la cara con el guante, también me voy a contagiar como si fuera la mano desnuda.
+Entonces, usar guantes, igual, da una falsa sensación de protección cuando en realidad no está haciendo útil.
+Muchas gracias, mañana continuamos.

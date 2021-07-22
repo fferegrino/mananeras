@@ -3,11 +3,13 @@ Presidencia de la República
 29 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes tengan todas y todos ustedes aquí y allá en casa o donde quiera que nos estén escuchando. Gracias por estar atentas y atentos al acontecer de la salud en México y en el mundo.
 Son las 19:00 horas del lunes 29 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a centrar, como buen lunes, tanto en el informe técnico como en el informe técnico extendido, que son las características demográficas y clínicas de las personas que han estado afectadas por COVID y las personas que lamentablemente han fallecido, vamos a presentar también el porcentaje de positividad.
 Le pido al doctor Alomía si presenta todo esto y luego abrimos a preguntas y comentarios.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes a todas y a todos.
 Bienvenidos a la conferencia vespertina 122, así también el día 29 de esta Nueva Normalidad. Estamos ya prácticamente a nada de cumplir un mes de que inició la Nueva Normalidad, en que la siempre recordamos que ahora se caracteriza por intervenciones comunitarias, de distanciamiento social, de disminución de las actividades sociales, públicas, privadas, escolares inclusive a nivel regional.
 Es decir, a diferencia de la Jornada Nacional de Sana Distancia, en donde se hacían por igual en las 32 entidades federativas, ahora se mide el riesgo de cada una de ellas en función de cuatro indicadores y entonces se obtiene un nivel de riesgo para cada una de ellas que además se expresa a través del color en un mapa; dependiendo del color que tengan son las actividades que se recomiendan puedan o no realizar, que a su vez van encaminadas precisamente a controlar el nivel de riesgo que están teniendo.
@@ -71,14 +73,17 @@ Es decir, pacientes con mayor gravedad o estadio clínico de gravedad tienen un 
 Sería la actualización para el día de hoy. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía.
 Vamos a abrir a preguntas y respuestas. Aquí estaba Liliana, Juan, Carlos y así nos vamos y usted también.
 ---
 PREGUNTA
+Gracias, buenas noches. Liliana Noble, de Pulso Saludable.
 Doctor Gatell, estaba leyendo un artículo sobre las aguas residuales en Juriquilla, no sé si ya tuvo oportunidad de revisarlo, pero es muy interesante, porque la investigación ahí de la Universidad Nacional Autónoma de México habla de que encontró positividad a COVID en estas aguas. Entonces, se piensa de las heces fecales y ellos han pensado que el repunte en estos hospitales cercanos se debe a esto.
 Yo no sé si pudiera ser una opción viable en Ciudad de México o en el resto del país para poder detectar estos focos de infectados, aislarlos y darles la atención. Usted es el experto, dígamelo.
 Y tengo una segunda pregunta. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Liliana Noble, de Pulso Saludable, por la pregunta y la implicación que tiene.
 Hay virus que característicamente afectan al aparato digestivo, al tubo digestivo como punto de entrada y por lo tanto se encuentran en grandes concentraciones en la materia fecal, en las heces y esta sustancia un medio muy efectivo, muy eficiente para su transmisión.
 Uno de los que son muy característicos en este aspecto es la polio, los virus poliomielitis, ahora ya nada más nos queda uno de los tres subtipos afortunadamente, de los tres tipos, pero su gran propagación y el éxito epidemiológico que tienen -obviamente, le llamó éxito en términos del virus, no en términos de los seres humanos- está en muy buena medida por la eficiencia de transmisión a través de agua, aguas negras o aguas silvestres, que son contaminadas con materia fecal humana. Estoy hablando del virus de la polio como ejemplo de un virus que se propaga por vía digestiva, a través de la contaminación de agua con materia fecal.
 El virus SARS-CoV-2, causante de COVID, desde el inicio de la epidemia en China se exploraron varias hipótesis sobre su mecanismo de transmisión. Se pensó en transmisión a través de animales, aunque existe la idea de que pudo haber transitado de ser un virus endémico en poblaciones animales silvestres y de ahí producto de una mutación que le confirió adaptabilidad hacia los humanos pasó a ser una enfermedad humana.
@@ -99,10 +104,12 @@ Lo que está menos claro es que tan eficiente sería la vigilancia a partir del 
 Posiblemente en algunos espacios definidos, cerrados, pudiera ser un mecanismo de vigilancia, pero habría que ver, todavía no nos queda completamente claro.
 ---
 INTERLOCUTORA
+Gracias, doctor.
 Mi segunda pregunta, cuando llegue la vacuna, porque en algún momento va a haber vacuna, ¿cómo va a ser esta aplicación?, ¿todos los mexicanos vamos a estar inoculados o va a ser como la vacuna de la influenza, por grupos de riesgo?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es una pregunta no resuelta. Ni en México ni en el mundo… La Organización Mundial de la Salud ya tiene sesiones de trabajo y se ha pedido la participación de distintas personas que representen a los países, precisamente la doctora Celia Alpuche, a quien mencioné, directora del Centro de Investigación sobre Enfermedades Infecciosas del Instituto Nacional de Salud Pública, está representando a México, ella además es miembro del Comité Asesor de Expertos y Expertas sobre Vacuna COVID de México y está participando en estas sesiones.
 Hasta donde conozco todavía no hay una propuesta completa de cómo debería utilizarse la vacuna, existe la consideración de privilegiar el uso, privilegiar en términos de preferenciar, de priorizar el uso en personas que tienen mayor riesgo de complicaciones, lo cual suena lógico, pero existe la otra perspectiva, que es la aspiración de controlar la epidemia.
 Estos dos objetivos se pueden combinar, no son mutuamente excluyentes, pero sí son distintos.
 Y aprovechando la pregunta, que le agradezco, la vacunación contra influenza no tiene como objetivo en general eliminar la infección por influenza a nivel de población ni tampoco evitar que haya temporadas de influenza.
@@ -113,6 +120,7 @@ Gracias, Liliana.
 Vámonos acá de este lado con Juan Hernández, luego nos regresamos con Carlos Gonzáles y seguimos aquí con ustedes, y Carlos también.
 ---
 PREGUNTA
+Buenas noches. Juan Hernández, del periódico Basta y del Grupo Cantón.
 Dos preguntas rápidas. La primera, hemos hecho una investigación precisamente de… Bueno, ya ha tocado el tema usted del manejo de los muertos, pero aquí estamos hablando de dos casos digamos simbólicos, que es Xochimilco y lo que es Milpa Alta.
 Estamos detectando que hay entidad que… bueno, grupos en donde no se reporta la muerte de personas por COVID y lo que hacen es enterrar en este casos sus difuntos, precisamente porque hay la creencia de que es pecado mortal de quemar a sus muertos.
 Pero ¿qué riesgos implicaría este tipo de prácticas, siempre y cuando respetando los usos y costumbres de estas comunidades.
@@ -120,6 +128,7 @@ Y la segunda, esta es de las redes sociales, y nos comentan que ¿cómo le va a 
 Entonces, ¿cómo le van a hacer precisamente para controlar el que haya una propagación o rebrotes?, porque a final de cuentas, aunque en el caso del Distrito Federal, bueno, de la Ciudad de México hay un semáforo, pero evidentemente hay alcaldías como lo que es la Gustavo A. Madero, como lo que es Xochimilco o lo que es Iztapalapa, en donde definitivamente no se puede ver que estén en semáforo anaranjado, sino por el alto índice tanto de contagios como de muertes. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias, Juan Hernández de Grupo Cantón, periódico Basta.
 Efectivamente, un reto, uno de múltiples retos del manejo de una epidemia -cuando digo manejo es la vigilancia, la prevención, el control, la rehabilitación, la recuperación, la mitigación, todos los aspectos que implica, no solamente en la parte de salud estrictamente salud, enfermedad en los seres humanos, sino la realidad social de vivir con y durante una epidemia- requiere una apreciación de los distintos elementos que llevan a las personas a comportarse de una manera o de otra, o de otra, o de otra.
 Distintas sociedades tienen distintas maneras de pensar, distintas idiosincrasias, distintas actitudes, distintas visiones, distintas percepciones sobre el riesgo, sobre el daño que puede causar y sobre otras entidades que van más allá de lo que quizá en la mayoría de los casos de una población como la mexicana podríamos identificar como elementos de la realidad.
 Y entre ello está las dimensiones espirituales, de cualquier denominación y no necesariamente representadas en una religión, cualquier fe, cualquier aspiración trascendental, y en México con la pluralidad y la diversidad cultural que tenemos ancestral, tenemos todavía muchas tradiciones espirituales y culturales que efectivamente consideran como algo muy inconveniente, llámese pecado si está alineado a un pensamiento religioso específico, o cualquier otra denominación, el incinerar los cuerpos sin vida de las personas que fallecen y, en cambio, se prefiere, por cientos, de años, quizá milenios, el inhumarlos, en enterrarlos.
@@ -141,12 +150,14 @@ Y, finalmente, es temporal que en este momento la Ciudad de México esté en col
 Muchas gracias, Juan. Carlos González…. Guzmán, perdón.
 ---
 PREGUNTA
+Carlos Guzmán, de ABA Noticias. Buenas noches, doctores.
 Dos preguntas. En la mañana se le cuestionaba al presidente de forma insistente si se va a hacer la prueba de COVID, siendo que todo parece indicar la próxima semana va a efectuar un viaje a Unidos Mexicanos, se va a encontrar con el presidente Donald Trump.
 Va a estar la comitiva, Graciela Márquez Colín, va a estar el secretario de Relaciones Exteriores, si no mal recuerdo Alfonso Romo, sería la comitiva.
 Si nos puede hablar un poco de esta reunión que nos adelantó el presidente de la República, que se efectuaría hoy en la tarde, si ya hay fecha para esta gira, y obviamente ¿qué se va a hacer en cuanto a la cuestión sanitaria con el presidente obviamente, y obviamente también con el equipo que le acompaña?, ¿se van a hacer la prueba del coronavirus?
 Y la segunda, si nos puede… Bueno, retomando la pregunta de nuestro compañero de Grupo Cantón, si nos puede hablar un poco, en este mes de julio, nos comentaba, que ya está por llegar el mes de julio, que se podría ser en el Valle de México la prueba, si no mal recuerdo, para ver si ya podría trabajar o alguna cuestión de desconfinamiento mayor, no recuerdo cómo se llame la prueba, soy ignorante en ese sentido. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Voy a dar un adelanto porque esta semana, espero, vamos a traer una presentación, vamos a dedicar toda la hora a test, test, test, pruebas, pruebas, pruebas, vamos a hablar de esto, los fundamentos técnicos, los fundamentos biológicos, y la utilidad de la prueba en el ámbito clínico, en el ámbito epidemiológico, pero vamos a dar un adelanto.
 Primero, sobre la gira del presidente a los Estados Unidos, no conozco todos los detalles. En lo que respecta a nosotros, en la parte del cuidado de la salud del equipo de gobierno, no tenemos alguna preocupación específica.
 El presidente estuvo en algunas proximidades con el secretario de Hacienda, como se muestra en algunas fotografías, pero una vez hechos los estudios de contactos… Recuerden lo que comentábamos ayer domingo, hay tres factores cruciales: uno es cuánto tiempo duró el contacto o la proximidad, qué tan próxima fue físicamente y, tercero, en qué fecha ocurrió respecto a la contagiosidad o la capacidad contagiante de la persona enferma.
 Y lo hemos revisado con detenimiento que de las 70 personas que están en lista inicial de contactos el presidente es uno de los que están enlistados, pero no es alguien que esté en particular riesgo de ser contagiado. Lo que corresponde aquí, igual que en la mayoría de los casos, es la vigilancia basada en síntomas.
@@ -165,7 +176,17 @@ Pero en todos los casos, si la persona permaneces sin síntomas no hay una urgen
 Sin embargo, en términos de la contención -el propósito de la contención es evitar la propagación- inmediatamente puede necesitar si fue un contacto relevante estar en aislamiento. Por eso el estudio de contactos es muy importante.
 No hay que irnos a la idea de pruebas, como si las pruebas solucionaran todo, porque no lo solucionan y la interpretación de las pruebas -en eso si no me detengo hoy, porque es un comentario largo- depende de la sospecha de la probabilidad percibida de que la persona tenga la condición que me interesa detectar, en este caso infección por el virus SARS-Cov-2.
 ---
+INTERLOCUTOR
+Y con relación (inaudible) si se solicite.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No conozco que exista un requerimiento generalizado o específico en el caso de un mandatario que va a visitar a otro mandatario al respecto, pero sin duda a través de los distintos canales, tanto los diplomáticos como los técnicos que tenemos de Salud a Salud, tenemos una colaboración muy extensa con el Departamento de Salud y Servicios Humanos de Estados Unidos, que incluye a los Institutos Nacionales de Salud en este caso también a los Centros de Control de Enfermedades, CDC, y la propia embajada donde existe en la embajada de Estados Unidos en México una agregada de salud que es una funcionaria además altamente competente, experta precisamente en todo este tema de preparación y respuesta ante epidemias y podemos consultar si existe un requerimiento formal.
+---
+INTERLOCUTOR
+Las pruebas para detectar si ya es inmune…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Termino con eso y le voy a dejar pendiente a Carlos de UnomásUno, para que empiece mañana.
 Esto se le ha denominado pasaporte inmunitario, tan, tan. La idea que se ha pensado es -y por eso la analogía de pasaporte, pasaporte inmunitario, pasaporte sanitario- es: Yo me hago la prueba y ya tengo una garantía de que ya lo tuve, porque detecté anticuerpos contra COVID, contra el virus SARS-Cov-2 y entonces, uno ya me dio; dos, ya no me puede volver a dar.
 Y varios elementos de la sociedad, y yo diría destacadamente la iniciativa privada, en otras partes del mundo también, ha planteado la idea de: ‘Hagamos pruebas en nuestras trabajadoras, directivos, directivas para que en la medida que sepamos cuáles y cuántos ya tienen inmunidad, ya tiene pasaporte para reintegrarse a trabajar’.
 La aspiración me parece que puede ser legítima, pero desafortunadamente no corresponde con la realidad de la evidencia científica sobre este virus, por muchas razones:
@@ -176,3 +197,10 @@ Hay muchas clases de anticuerpos, el ser humano y las otras especies puede produ
 Entonces, hay muchas incógnitas y por lo tanto el hacer pruebas de inmunidad no se considera una alternativa útil. Hay una recomendación explícita de la Organización Mundial de la Salud desde el 24 de abril, no se ha cambiado la postura, mañana la vamos a proyectar, y la recomendación es: no se usen las pruebas de anticuerpos como un mecanismo de seguridad o de garantía de que ya se está protegido de la infección, no se usen.
 Y es también ese el mismo amparo por el que decimos, el Gobierno de México, la Secretaría de Salud, no recomienda el uso de pruebas rápidas como mecanismo de diagnóstico para la infección por COVID, porque además lo que detectan es, en el mejor de los casos, la historia pasada de infección 10 o más días antes, anteriores a la prueba y no la infección aguda, y esta es la recomendación que ha hecho la Organización Mundial de la Salud, la Organización Panamericana de la Salud, los Centros de Control de Enfermedades, tanto de Europa como de Estados Unidos, y también la hacemos en el Gobierno de México.
 Vamos a tener que terminar aquí. Son las 20 horas con 02 minutos. Muchas gracias por su atención aquí y allá, nos vemos mañana. Gracias.
+---
+INTERLOCUTOR
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Las serológicas son estas precisamente, hay las rápidas y las no rápidas.
+Gracias.

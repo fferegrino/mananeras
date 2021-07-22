@@ -3,6 +3,7 @@ Presidencia de la República
 20 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 horas de este miércoles 20 de mayo de 2020, estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy nos vamos a centrar en dos aspectos:
 El primero es el informe técnico que presentará el doctor José Luis Alomía y yo complementaré algo que presentamos periódicamente, que son las curvas epidémicas regionales, específicamente de algunas zonas metropolitanas.
 En la parte temática tenemos el privilegio de que nos acompañe el secretario de Turismo, Miguel Torruco, aquí presente. Muchas gracias, secretario, por acompañarnos para comentar sobre el resultado de un trabajo que iniciamos prácticamente desde el inicio de la respuesta a la epidemia de COVID en México que tiene que ver con esta coordinación entre salud y turismo y las implicaciones del turismo sobre salud y de salud sobre el turismo, y comentaremos justo este trabajo coordinado, cómo nos ha permitido tener una contribución muy, muy valiosa de la disciplina del sector turístico en el control de la epidemia y a su vez ahorita, rumbo al momento de nueva normalidad, cómo estamos planeando y contemplando lineamientos técnicos muy precisos al respecto de la seguridad sanitaria en el turismo.
@@ -10,6 +11,7 @@ Entonces, presentará la introducción el secretario Torruco y el doctor Ricardo
 Doctor Alomía, le pido si nos presenta el informe.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muchas gracias, señor subsecretario. Con el permiso de la mesa.
 Muy buenas tardes a todas y todos.
 Vamos a iniciar con la actualización del panorama de esta noche. Es el día 59 de nuestra Jornada Nacional de Sana Distancia, estamos en nuestra conferencia vespertina número 82.
 Pasemos a la diapositiva del panorama internacional, la cual si ustedes la compara con la del día anterior, prácticamente no tiene cambios relevantes en los porcentajes, más allá que la epidemia activa en todo el mundo, en este caso la pandemia, es el 25 por ciento solamente los casos en los últimos 14 días, o sea, la pandemia activa representa sólo una cuarta parte de todos los casos que en el mundo se han confirmado hasta el momento.
@@ -34,6 +36,7 @@ En la siguiente y última diapositiva vemos la específica de camas críticas, 3
 Sería la actualización para el día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Yo simplemente voy a complementar con este mensaje. Recordarles que la epidemia de COVID en los países que son extensos territorialmente no se comporta como una sola epidemia, esto lo hemos dicho varias veces.
 Si tenemos países relativamente pequeños, las distintas poblaciones, poblados, ciudades de mediano tamaño, ciudades pequeñas, tienen mucha mayor movilidad entre ciudades de lo que pueden tener al interior de una misma ciudad, porque son pequeñas.
 Y esto lo que lleva es una sincronización, es decir, ocurren los casos en tiempos semejantes en las distintas comunidades de un mismo país; sin embargo, cuando tenemos un país territorialmente extenso, como es el caso de México, con dos mil kilómetros cuadrados de territorio, o Estados Unidos, Brasil, Rusia, China o la India, difícilmente entran en sincronía las epidemias en cada territorio reconocible, por ejemplo, por las demarcaciones políticas. Dos millones, dije dos mil, dos millones de kilómetros cuadrados.
@@ -70,6 +73,7 @@ En resumen, la epidemia se comporta de manera en parches, no es sincrónica y do
 Le paso la palabra a nuestro querido secretario de Turismo para que nos comente.
 ---
 MIGUEL TORRUCO MARQUÉS, SECRETARIO DE TURISMO
+Muchas gracias. Muy buenas tardes tengan todas y todos ustedes.
 Saludo con afecto a mi buen amigo el señor subsecretario de Salud Hugo López-Gatell, a nuestros buenos amigos, con quienes hemos estado trabajando recientemente en forma muy intensa, José Luis Alomía y también a Ricardo Cortés; a todos ustedes, amigos, amigas, de los medios de comunicación.
 Estamos en tiempos difíciles para México y para el mundo entero, estamos ante una crisis sanitaria que ha impactado a muchos sectores productivos, entre ellos el turismo, una de las principales actividades económicas del país con una aportación al Producto Interno Bruto de 8.7 por ciento.
 Al cierre del 2019 recibimos 45 millones 24 mil turistas internacionales, cuya derrama fue de 24 mil 563 millones de dólares, tanto en turismo como en divisas crecimos el nueve por ciento.
@@ -97,9 +101,11 @@ Son tiempos difíciles, son tiempos de reto y sobre las adversidades siempre sal
 Así que con el señor subsecretario para que les dé a conocer parte del documento.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, secretario Miguel Torruco.
 Le pido finalmente al doctor Ricardo Cortés Alcalá si nos presenta de manera sintética el trabajo que hemos hecho junto con el secretario de Turismo y su equipo.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchísimas gracias, con todo gusto.
 Señor secretario, subsecretario, doctor Alomía, muchas gracias a todas y todos.
 Este documento que ha presentado el secretario Torruco cuenta de muchos, de múltiples capítulos. Es el trabajo conjunto entre gobierno y la sociedad que se dedica a los empresarios, que se dedican al tema de turismo y lo tenemos como una prioridad para regresar a una nueva normalidad, a retornar, a regresar a una sana economía junto con la salud pública.
 Este tiene su base en el semáforo, como ya bien se ha comentado, que es la mejor herramienta que vamos a tener para poder saber qué tipo de actividades vamos a poder regresar en el momento en que estemos en cada uno de nuestros estados.
@@ -132,6 +138,7 @@ Y, finalmente, la sana distancia entre los comensales; y, sobre todo, de acuerdo
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Perfecto, muy bien. Gracias nuevamente, secretario Torruco; gracias, doctor Ricardo Cortés.
 Quisiera, antes de pasar a la sesión de preguntas y respuestas dejar dos o tres temas bien claros.
 El primero es, como se ha señalado, no podemos estar ni México ni cualquier otro país en un estado especial, en un estado de reducción como el que estamos de manera eterna. Esta es la realidad que todos los países confrontamos y esto de ninguna manera debe interpretarse como que se descuida un lado o se descuida el otro.
 Hemos hablado con toda claridad en México y en muchos países que hay dos bienes públicos generales a cuidar: la salud y la vida, que obviamente toman precedente; y el bienestar y la economía que, a su vez, son elementos de los que depende la salud y la vida. Entonces, por eso tenemos que encontrar un equilibro apropiado.
@@ -146,10 +153,12 @@ Entonces, esa es la perspectiva y así lo vamos a seguir trabajando con total ap
 Entonces, abrimos a preguntas y respuestas. Está Araceli, está Carlos, que ayer se quedó pendiente, usted, nuestra compañera allá atrás, usted y Bianca, y vamos a ir dando la palabra.
 ---
 PREGUNTA
+Gracias doctor. Preguntarle, si me lo permite, al secretario de Turismo: ¿los hoteles se van a reservar el derecho de admisión?, porque vemos que hay como cuando salir a la calle vemos que algunos usan cubrebocas, otros no usan cubrebocas, unos siguen las medidas, otros no. ¿El hotel que se visite se va a reservar el derecho de admisión?
 ¿Va a haber algún tipo de apoyo para los hoteleros o para los restauranteros? No sé si ya esté dentro de este plan, de este documento.
 Y los puentes largos que refiere ¿a partir de cuándo?, ¿a partir de cuándo será el primer puente largo?, y si este también será escalonado, si se busca el consumo interno se tendría que revisar el semáforo de ese pueblito al que se quiera ir a visitar. Muchas gracias.
 ---
 MIGUEL TORRUCO MARQUÉS
+Bueno, el primer puente es el 20 de noviembre, es el último de los tres que son en forma anual; entonces, ahora que ya se da a conocer que no se cancelan, pues ya los hoteleros, sobre todo que se maneja mucho el turismo interno y que es el 82 por ciento, acude a los Pueblos Mágicos.
 Entonces, se da a conocer con mucha antelación para que puedan negociar con los agentes de viajes y los transportistas los paquetes que se están realizando.
 Pero también les digo que la semana que entra sacamos una campaña muy importante en redes sociales en nuestra gran plataforma Visit México ya renovada, en donde es visitada por más de seis millones de personas, y que les recuerdo que el 58 por ciento de la consolidación de la compra es a través de redes sociales. Esto fue antes de la pandemia.
 Pero después de la pandemia, porque ya hay un antes y un después, hasta en el perfil del turista, después de la pandemia, después de estar confinados, hemos visto a través de nuestros socios aliados Google y todos ellos que ha habido más personas que han incursionado en la navegación en viajes.
@@ -160,20 +169,33 @@ Ustedes recordarán que en el 2013 hicimos el programa Disfruta Ciudad de Méxic
 Ese programa lo retoma Sectur en el 2016 en julio, le llamó Viajemos todos por México, lo vamos a reforzar obviamente con el apoyo de todos los prestadores de servicios.
 ¿Cuál era la otra pregunta?
 ---
+INTERLOCUTORA
+¿Se van a reservar el derecho de admisión los hoteles?
+---
 MIGUEL TORRUCO MARQUES
+Los hoteles siempre tienen sus propias políticas, pero generalmente antes o después de la pandemia son todos bienvenidos, desde luego llevando a cabo los requisitos que marca la Secretaría de Salud y para ello ya van a tener todos sus protocolos para cada una de las áreas.
 Estamos hablando de más de 25 sectores que forman parte de la actividad turística incluyendo hasta balnearios, campos de golf, etcétera.
 Todo está incluido en este paquete, por eso salió con más de 130 cuartillas.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Carlos, por favor.
+---
 PREGUNTA
+Qué tal, doctor. Secretario, subsecretarios. Buenas tardes. Carlos Guzmán, de ABA Noticias.
 Dos preguntas rápidas, una para el secretario de Turismo. ¿Esta decisión que se toma por parte del presidente de cancelar esta decisión que tenía de suspender los puentes largos es permanente o es únicamente durante la recuperación que se estima se tenga para el sector turístico después de la pandemia del Coronavirus?
 Y una segunda para el doctor Gatell.
 ---
 MIGUEL TORRUCO MARQUÉS
+Estamos hablando de un antes y un después. Desde luego que este tipo de acciones fortalecen el detonar el aparato productivo, hay que generar riqueza y sobre todo a través de las corrientes turísticas representa, le estoy diciendo, el consumo del turista nacional supera los 124 mil millones de dólares, es el 82 por ciento el total y ocupa el 85 por ciento de la ocupación hotelera nacional.
 Yo recuerdo cuando era presidente de la Asociación Mexicana de Hoteles les decía a mis colegas en los diferentes estados: En las buenas y en las malas siempre sale a flote el turismo interno, el poderío del turismo interno es el que ha salvado muchos negocios.
 Por ello vamos a hacer una gran convocatoria, y les pido nos echen la mano para que en este año, el otro año, viajemos todos por México. El que tenía pensado hacer un viaje al extranjero que lo gaste, a todos los niveles socioeconómicos, vamos a viajar en nuestro país, viajemos por nuestro territorio, que además es hermoso desde las montañas nevadas, hasta las selvas tropicales.
 Y en cada viaje, y también a ustedes les pido, compremos una artesanía para hacerle el día a las familias artesanas de las manos mágicas.
 ---
+INTERLOCUTOR
+¿Es permanente esta decisión del presidente?, ¿es permanente la decisión ya de dar marcha atrás del presidente de retomar los fines de semana largos?
+---
 MIGUEL TORRUCO MARQUÉS
+Ya hablé con él con en la mañana y él está de acuerdo en que se siga. No se modificará la Ley Federal del Trabajo, porque fue por ley. Le recuerdo que empezó la propuesta en el año de 1999, nada más que no pasó, luego en el 2001 el presidente de la Asociación de Balnearios fue el que a través, también con su vicepresidenta, hoy secretaria de Turismo de Morelos, nos turnó para apoyarnos, para sacar adelante los fines de semana largos.
 Fue una labor de todos los prestadores de servicios y fue gracias a la Comisión de Turismo que se aprobó esa reforma a la ley federal para permitir esos fines de semana largos que tanto han dejado derrama económica.
 Pero no vamos a abandonar los festejos de la Constitución, los festejos, el aniversario de Benito Juárez, vamos a ponernos en contacto con la Secretaría de Educación para que hagamos programas especiales que complementen la cultura en este viaje.
 Viajemos todos por nuestro país, gastemos en artesanía mexicana. Si ustedes tienen un regalo, den una artesanía mexicana. Verán que la unión hace la fuerza y vamos a salir victoriosos con el turismo interno.
@@ -181,29 +203,48 @@ Y también el turismo extranjero tenemos también una excelente novedad. Que en 
 Hemos analizado el perfil, en el nuevo perfil del turista y nos estamos adaptando, tal como lo dice la academia: marketing turístico, satisfacer necesidades y expectativas del consumidor.
 ---
 INTERLOCUTOR
+Y para el doctor Gatell. El día de hoy se da a conocer por parte de la jefa de gobierno, Claudia Sheinbaum este plan de desconfinamiento, como le llaman en España, o de regreso a la nueva normalidad para la ciudad capital y obviamente la zona conurbada.
 Habla de puntos importantes, pero sí me gustaría, hablando de industrias sin chimeneas, como es el turismo, también otra industria es el futbol, que son los eventos masivos. Si nos pudiera precisar un poco cuál es el acercamiento que se tiene ya con la Liga Mx, con la Federación Mexicana de Futbol, la de béisbol, respecto a la reapertura que según el calendario que presenta la jefa de gobierno, que nos comentaba que lo consultó con usted y con las autoridades también del Estado de México, se planea que sea a partir de julio cuando regresen sin público los eventos deportivos de gran calado.
 Si nos puede comentar un poco de eso. ¿Qué avances hay al respecto?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No le quiero generar expectativas de espera, pero el viernes va a venir con nosotros la jefa de gobierno, la doctora Claudia Sheinbaum, y vamos a hablar en detalle precisamente del plan de tránsito, no es regreso, es tránsito hacia adelante hacia nueva normalidad en todo el país, pero vamos a hablar en detalle de eso, incluye el tema deportivo.
 Sólo una pequeña referencia. Hemos tenido también perfecta coordinación con la Liga Mx, con la liga de futbol, desde el inicio, desde la entrada a las medidas de sana distancia, el doctor Ricardo Cortés, precisamente también ha sido nuestro enlace. Entonces, lo hablamos en detalle en ese momento.
 Ahora, no quisiera perder la oportunidad de retomar sobre la pregunta que hizo nuestra compañera Araceli, de Canal 11, sobre el derecho de admisión. Para que quede muy claro, en México es ilegal reservarse derecho de admisión, esto está cimentado en el artículo 1º de nuestra Constitución y en la ley para prevenir y eliminar la discriminación.
 Entonces, nunca nos confundamos. Si hay una disposición de carácter sanitario que es de aplicación general, ya sea en todo el territorio o como será ahora en las distintas entidades federativas, puede haber una justificación para tomar decisiones, pero no es reservarse derecho de admisión y no es facultad de los particulares decidir por sí mismos quién entra y quién no a un establecimiento, ni siquiera por condiciones de salud. Solo para que no se preste a confusión.
 ---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Por favor, usted.
+---
 PREGUNTA
+Buenas noches, rápidamente, Juan Hernández, del periódico Basta y del Grupo Cantón.
 Esta medida de echar atrás precisamente esta medida de eliminar los fines de semana largos ¿cuánto representa en términos de empleo?, ¿cuántos empleos se han rescatado? Sobre todo es lo más importante, nada más si nos podría repetir lo que significaría precisamente esta derrama económica de los fines de semana largos.
 ---
 MIGUEL TORRUCO MARQUES
+Sí, ya se los comenté, representa más o menos siete y ocho puntos más de ocupación, casi cinco millones de turistas nacionales y casi dos millones de turistas hospedados, cerrando las cifras, dos millones de turistas hospedados en hotel. Una derrama impresionante de 38 mil 378 millones de pesos el consumo total de estos fines de semana largos.
 Entonces, vamos inclusive a hablar, como lo hicimos el año pasado, con el secretario de Educación que tiene algunos días de hacer trabajos de acuerdo al sindicato para ver si nos regala dos días para poderlo acomodar para otro puente pero, aunque no sea por ley, es por solicitud ¿verdad?, de permiso de los padres de familia en sus empleos, porque este tipo de actividades une a la familia, unifica mayor criterio de nacionalismo sobre los lugares bellos que tenemos en nuestro país.
 Y, por ello, el mismo presidente accedió a que no se quitaran y fortalecer de esta forma al turismo interno tan importante.
 ---
 INTERLOCUTOR
+En cuestión de empleos, ¿cuánto representa?
 Y bueno, el segundo puente que podría ser publicado, ¿qué fecha sería, ¿sería Día Muertos, sería…?
 ---
+MIGUEL TORRUCO MARQUES
+Son los mismos empleos que tienen los hoteleros, en lugar nada más de tener un 60 por ciento de ocupación sube siete puntos con el mismo personal que se maneja estándar en cada hotel, cada cuarto de hotel genera un empleo directo y tres y medio indirectos. Hágale cuentas y ya.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Exacto.
 Muchas gracias. Desafortunadamente son las 19:58 ya no nos daría tiempo de tomar otra pregunta hoy, desde luego mañana continuamos.
 Sólo quisiera cerrar agradeciendo al secretario de Turismo, también al secretario de Comunicaciones y Transportes, que hoy no está aquí, porque este trabajo coordinado nos ha dado mucha tranquilidad, insisto, al inicio de la epidemia, de poder tomar acciones de salud pública manteniendo un correcto equilibrio con la parte económica de un sector tan relevante para la economía mexicana y también lograrlo durante el proceso del primer ciclo epidémico y en los meses por venir.
 Muchas gracias, secretario por acompañarnos.
 ---
 MIGUEL TORRUCO MARQUÉS
+Muchas gracias. Y viajar por México, comprar artesanía y verán próximamente todos los paquetes y las grandes promociones que hay ya integradas, que hemos venido trabajando muy de cerca con el sector privado.
 Sector privado ha sido, es y seguirá siendo la parte fundamental para detonar la economía de nuestro país.
 Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, secretario. Muchas gracias.

@@ -3,6 +3,7 @@ Presidencia de la República
 31 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 en punto del lunes 31 de agosto de 2020. Vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2. Estamos en el Palacio Nacional de México, en la Ciudad de México.
 Hoy vamos a tener tres componentes de nuestro informe:
 El primero es el componente técnico que presentará el doctor José Luis Alomía. Aprovecho para recordarles, todos los elementos del informe técnico que alguna vez hemos presentado durante las distintas fases de comunicación de la epidemia sigue siendo información pública, esto está disponible en el portal web coronavirus.com.mx. Por razones de tiempo -y para enfatizar distintos aspectos del acontecer epidémico- esto ha ido cambiado, pero la información pública sigue siendo completamente abierta, también los datos abiertos.
 Invitamos a toda la población que tenga interés y que tenga alguna capacidad técnica para hacerlo, que explore los datos abiertos, que están completamente y en tiempo real a disposición pública de la comunidad, tanto nacional como internacional, cualquiera que los quiera utilizar, por favor, hágalo, explore, encuentre, observe, comente, critique, recomiende, todo es bienvenido por parte de nosotros.
@@ -13,6 +14,7 @@ Ya vinieron el viernes pasado el director general del IMSS, Zoé Robledo; el dir
 Le pido entonces al doctor Alomía si es tan amable de presentar el primer componente y continuamos.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto. Con su permiso, señor subsecretario.
 Muy buenas tardes a todas y todos, especialmente a las personas que nos ven desde sus casas o a través de sus dispositivos móviles. Bienvenidos a la conferencia vespertina número 185, el día de hoy estamos cumpliendo tres meses ya completos, 93 días de la Nueva Normalidad en México, la cual, como ustedes ya saben, se caracteriza por la implementación del semáforo de riesgo COVID, que nos permite de una manera ordenada, paulatina, pero sobre todo segura, priorizando siempre la salud de la población, volver lentamente a retomar las actividades en el espacio público y las actividades socioeconómicas que también son importantes para el bienestar de la población.
 Vamos a ver la primera diapositiva, hoy día vamos a iniciar un poco comparado el panorama internacional, cómo se ha comportado. Al día de hoy, 30 de agosto, y cuando vemos las curvas de los países seleccionados, recordando que son casos nuevos que se han confirmado por millón de habitantes, lo cual permite la comparación entre los países, tenemos un grupo de tres países que se puede decir tienen la mayor cantidad de casos nuevos por millón de habitantes, el principal de ellos son los principales tres, estamos hablando que justo estén en el continente americano, destaca Perú, seguido por Brasil y luego Estados Unidos.
 Vamos cómo Perú, que es la curva verde, tuvo un inicio posterior básicamente al de los otros países, se demoró un mes y medio más o menos en iniciar su epidemia; sin embargo, vean cómo ya en su primer pico, en su primer acmé presentó una curva por encima de otros países en la región, un descenso que se presentó en las siguientes semanas, pero luego nuevamente vuelve a tener, digamos, que un rebrote importante o a lo mejor es una condición propia de la distribución geográfica del país, pero ahora se encuentra como el país con más casos nuevos confirmados por millón de habitantes.
@@ -37,6 +39,7 @@ Veamos la siguiente diapositiva. Son las camas con ventilador para los pacientes
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias doctor Alomía. Vamos a presentar el segundo elemento, vacuna contra la influenza.
 Aquí vamos a recordar que la influenza es una enfermedad infecciosa causada por un virus, un virus diferente al SARS-CoV-2, causante de COVID, hay otro virus, hay muchísimos virus, pero hay otro de especial importancia en el acontecer epidemiológico que se llama influenza y este virus influenza se conocer desde hace mucho tiempo que produce epidemias.
 El virus por sí mismo fue descrito en el primer tercio del siglo XX, se descubrieron o se describieron ya distintos tipos del virus de influenza y hoy se conoce que hay varios tipos, tres mayores A, B y C.
 El virus A tiene múltiples subtipos que se clasifican con las letras H y la letra N y una serie de números, que corresponde a las dos moléculas, las dos sustancias de la superficie del virus que determinan qué también virulento es y qué tan adaptable es a los seres humanos.
@@ -89,6 +92,7 @@ Entonces, este es el informe. Respondemos a la pregunta de la compañera, nos fa
 Doctor Alejandro Svarch, le aprecio mucho si nos comenta.
 ---
 ALEJANDRO SVARCH PÉREZ, TITULAR DE LA COORDINACIÓN NACIONAL MÉDICA, INSABI
+Muchas gracias, señor subsecretario Hugo López-Gatell. Agradecemos profundamente la invitación.
 Gracias, compañero Hugo, por esta atenta invitación y siempre estaremos aquí para estar en contacto con ustedes. Agradezco también a los medios de comunicación la oportunidad de presentarme con ustedes el día de hoy.
 Como pueden ver ustedes en la presentación, la pandemia también nos ha demostrado que no es imposible reequipar el sector público para garantizar la atención universal a la población en nuestro país.
 Aquí podemos visualizar que el Instituto de Salud para el Bienestar, en conjunto con la Sedena, ha logrado reconvertir 32 hospitales garantizando 800 camas generales extras al sector público y mil 130 camas con ventilador para poder dar atención médica al paciente que requiera terapia intensiva.
@@ -103,9 +107,11 @@ Esto ha demostrado que, con la ayuda coordinada del gobierno federal, con las en
 Muchas gracias señor subsecretario.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Al contrario, doctor Alejandro Svarch Pérez, coordinador general Médico del Instituto de Salud para el Bienestar.
 Demian Duarte.
 ---
 PREGUNTA
+Sí, Demian Duarte, sí. Buenas tardes, doctor y a los otros dos convidados gusto en saludarlos.
 Un par de preguntas, doctor. El amarillo, mi estado y una gran porción de la República pasaron a amarillo a partir de hoy, se presentó el semáforo epidemiológico; sin embargo, por lo menos que yo recuerde no ha habido la oportunidad de que comente esta nueva fase.
 Me interesa mucho, porque es el mismo caso de la bipolaridad cromática que le platicaba hace ya algunas semanas. Ahora hay que gente dice que en Sonora no iba a pasar a amarillo, que iba a quedarse en naranja, que estas situaciones, entonces, preguntarle, conocemos, yo veo las gráficas con mucha atención, veo el número de camas que es uno de los factores determinantes, la velocidad de contagios me queda claro que es otra.
 Preguntarle, ¿qué tipo de actitud de nuevo como lo hicimos en naranja debe tener el ciudadano ante el amarillo?, porque hay quienes piensan que ya es verde, hay quienes piensan que ya es rojo, entonces hay como una suerte de confusión. Si nos puede ayudar con su opinión.
@@ -115,6 +121,7 @@ Y la otra es: 75 mil personas fallecen al año por el consumo de cigarros y otro
 Entonces si puede ser un poco más abundante sobre el tema en particular, las implicaciones que esto tiene. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Gracias, Demian Duarte.
 Sobre el semáforo, es útil dado que ahora hay tantos amarillos, ya habíamos tenido un primer amarillo, que fue Campeche, ahora tememos prácticamente la mitad del país en color amarillo.
 Primero, no ha acabado la epidemia, importantísimo tenerlo claro, no porque se esté en amarillo ya hay que hacer todo de manera indiscriminada.
 Las recomendaciones generales del semáforo estipulan distintos grados de apertura de algunas actividades que han sido identificadas como más riesgosas en términos de la oportunidad de contagios.
@@ -139,10 +146,12 @@ Entonces, en resumen, este es el repertorio de los colores, los colores signific
 La epidemia no ha acabado, usted en su localidad todavía va a identificar anécdotas, referencias o vivencias de nuevos casos, pero eso no quiere decir que la tendencia general de la epidemia no esté, como lo está, en reducción y hay que y hay que ir activando la vida pública conforme disminuya el riesgo.
 ---
 INTERLOCUTOR
+En particular, doctor, el tema es muy sensible, supongo que todos los estados, porque -de vuelta- hay un segmento de la sociedad o de la comunidad que se molesta porque la gente se va a la playa o hace distintas actividades que quizás en naranja no estaba permitidas.
 Entonces, realmente sí es preocupante, porque hay no nada más personas, también hay comunicadores, líderes de opinión que califican de irresponsables a quienes incurren en este tipo de conductas, quizás sin entender cuáles son las implicaciones o que es lo permitido dentro de lo que es una etapa de semáforo amarillo.
 Preocupa, porque evidentemente se genera un entorno de una suerte de histeria colectiva, que incluso es promovida en algunos medios de comunicación.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, efectivamente, qué bueno que lo señala, lo hemos comentado en ocasiones anteriores.
 Se conoce que el manejo de un fenómeno complejo social como puede ser una crisis sanitaria, como puede ser una epidemia, se beneficia mucho más de una visión colectiva. La supervivencia no solo humana, sino de muchas especies, depende nuestra capacidad colectica.
 Es conocido en la biología evolucionista que uno de los factores clave para que las especies sobrevivan es cuando desarrollan mecanismos cooperativos y las especies que han perecido es porque no hay evolucionado hacia mecanismos cooperativos y esto no solo los seres humanos, pero también los seres humanos.
 Y los seres humanos tenemos la posibilidad de tener un reforzador cultural, cultural-social de los mecanismos cooperativos.
@@ -154,11 +163,13 @@ Ojalá, siempre hacemos votos porque en algún momento cambien de actitud, esper
 Juan Carlos Machorro, Citlalli Ocampo y también usted y usted, por favor.
 ---
 PREGUNTA
+Sí, buenas noches, doctor. Juan Carlos Machorro, de AM, de Querétaro.
 Doctor, la OMS comentar que las escuelas no son el principal foco de contagios, sino que es el contexto social donde se ubican.
 En este rubro ¿qué tanto, llamémosle, sí está factible el regreso de los estudiantes dentro de un mes, que es la fecha pactada o tiene que cambiar todavía mucho más la curva de contagios que se está presentando en la sociedad en general?
 Y saber si regresan o no, porque también sabemos que hay todavía muchos trabajadores en el caso también de gobierno, muchos que están haciendo sólo guardias, para un regreso masivo de ya todos los mexicanos, parecería que no, pero es un mes. ¿Cuál es su opinión? Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, muchas gracias. No hay cambios pactados, que quede claro, esto no es de pactos, esto es de evidencia. Cuando tengamos el semáforo en verde significará que los indicadores de riesgo epidémico han descendido a niveles de seguridad que nos permiten decir: Podemos reabrir el Sistema Nacional Educativo.
 Hemos perfilado con base en las proyecciones matemáticas que en octubre, a lo largo de octubre, gruesamente la mitad de los estados en la primera quincena, la segunda mitad en la segunda quincena de octubre y hay algunos dos o tres estados que posiblemente serían hasta noviembre para llegar al semáforo verde. En la medida en que empiecen a estar los semáforos en verde, los semáforos estatales, se podrán ir reabriendo el espacio educativo.
 Pero su pregunta me parece muy pertinente porque nos recuerda lo que hemos dicho en innumerables ocasiones: la desigualdad social, la carencia económica y social es el elemento fundamental que determina o la salud o la enfermedad, o la vida o la muerte.
 Y en ese sentido ciertamente México es un país muy desigual, ya lo era desde que empezó la epidemia, 50 por ciento de la población vive en condiciones de pobreza, sigue siendo, después y a lo largo de la epidemia, porque los determinantes estructurales tienen que ver con una injusta distribución de la riqueza.
@@ -171,11 +182,13 @@ Muchas gracias.
 Otilia Ocampo, de… perdón, Carbajal, diario La Razón.
 ---
 PREGUNTA
+Sí, Otilia Carbajal, de La Razón. Buenas noches.
 Preguntarle, ¿con la llegada de la temporada de influenza durante esta epidemia por COVID van a haber modificaciones en la definición de casos de ambas enfermedades al ser tan similares en cuanto a síntomas?
 Y también si en los hospitales van a realizarse cambios en las áreas de triaje para recibir a los pacientes de influenza, ya que cada año hay reconversiones por esta enfermedad.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Otilia Carbajal, del diario La Razón.
 Efectivamente, este es un tema, la más reciente conversación que tuvimos al respecto ocurrió esta mañana en el gabinete del doctor Alcocer, pero la llevamos teniendo desde hace tres semanas.
 En el mundo entero no se ha definido un modo general de actuar y cada país está buscando su modo y lo conversamos también entre países.
 Básicamente, como usted correctamente señala, clínicamente la influenza, clínicamente se refiere a cómo se presenta en las personas la enfermedad, qué síntomas tiene, qué signos clínicos tiene, y es muy parecida la influenza a COVID, fiebre, tos, dolor de garganta, dolor de cabeza, inicio súbito, dolor corporal de músculos y huesos, pérdida del olfato, entre otros, diarrea, incluso.
@@ -187,7 +200,28 @@ Entonces, lo estamos definiendo y vamos a producir una guía, este grupo de trab
 Creo que nos queda tiempo para una pregunta más, por favor.
 ---
 PREGUNTA
+Qué tal. Alejandro Cabral, soy de Política y Rock and Roll radio, de Hermosillo, Sonora y pertenezco a la Asociación Mundial de Radios Comunitarias.
 Esto se lo hago saber porque nosotros como radios comunitarias tenemos más de 30 proyectos de radio con concesión que están trabajando en los lugares más apartados del país, en los lugares en donde probablemente somos el único medio de comunicación, donde probablemente somos el único mensaje que tenemos la posibilidad de conectarnos a internet y hacerle saber a la comunidad información importante que nos da usted y que hemos estado transmitiendo tanto las mañaneras como estas conferencias vespertinas en bastantes de estas radios. Lo hacemos en Política y Rock and Roll, que estamos en un área urbana, que es Hermosillo, ahí somos una radio cercana a la gente, pero muy distinta en el otro contexto que le decía.
 Rapidísimo, disculpe la ignorancia, pero dice: ‘El virus el diferente, de la influenza, año con año, por lo tanto, se tiene que venir adaptando la vacuna’. Disculpe la ignorancia. ¿Esta nueva vacuna es para el virus nuevo, pero también proviene de las otras cepas anteriores o únicamente previene del virus nuevo?
 Por otro lado, ya están preparando la campaña de vacunación de la influenza y nos imaginamos que ya están haciendo la logística de la campaña de vacunación COVID. ¿Qué tal van con esa logística?, nos interesa porque la vacuna va a llegar eventualmente y será una semana nacional de vacunación o nos estaremos tres meses vacunando como con influenza, no sé.
 Y última pregunta completamente diferente. Nos dice: ‘Las escuelas se abren en verde’, pero no dice que los bares son los que están al final, supongo que junto con casinos, pero ¿abrirán el mismo día escuelas, bares y casinos?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Espero que no. Tienen naturaleza diferente. Cuando dije que al final están los bares, me referí respecto a distintas actividades económicas, y efectivamente bares y casinos, y conciertos masivos, por ejemplo, o espectáculos masivos, son de las tres que de memoria ahorita recuerdo como las últimas, porque son las de mayor riesgo de transmisión por la congregación masiva, por la proximidad geográfica y por cambios de la conducta.
+Esto no es menor, los cambios de la conducta que estimula por ejemplo un concierto, donde todo mundo se para a bailar y abrazarse y besarse, esté o no bajo el influjo de cualquier otro elemento, más que la emoción, el rocanrol. Entonces, esto es importante, epidemiológicamente hablando, es importante considerarlo.
+Pero las escuelas están al final porque son comunidades particulares de alta densidad que el contacto entre niñas y niños o niños y niñas y demás, los chiquillos, implican contactos importantes. A nivel de la educación media básica también hay otro tipo de cercanías que son relevantes y por eso están también al final.
+¿Cómo se van a ir abriendo?
+Entre estos depende mucho de la realidad del estado y, al igual que hemos hecho con el resto de actividades, tenemos las recomendaciones genéricas y cada gobierno estatal, no olvidar que son autoridades sanitarias, irá tomando las decisiones específicas de cada estado.
+Sobre las dos vacunas, es muy relevante lo que usted pregunta. Para no confundirlo, hoy pongo una vacuna contra la influenza, vamos a decir que en 2020, y los virus recomendados por la Organización Mundial de la Salud, los tipos y subtipos y cepas, AH1N1, B variante, yamagata, son los que se identificaron en el mundo entre 2019 y 2020.
+De tal suerte que cuando fabrica una vacuna en 2020 ya tiene un importante grado de disparidad, de diferencia respecto a los virus que fueron observados en el año en que fueron documentados, y lo que hace la Organización Mundial de la Salud es una predicción de cuáles son los virus.
+A lo largo de 2020, 21, se siguen transformando esos virus por desplazamiento genético y dentro de un año son aún más diferentes que los que estuvieron formando parte de la vacuna, que a su vez son los observados dos años atrás, un año después es aún más diferente.
+Entonces, no es un cambio brusco, sino que mes tras mes tras mes o literalmente día tras día tras día, la probabilidad de encontrarnos con virus que son genéticamente diferentes a los que formaron la vacuna que me puse es cada vez mayor.
+Entonces, a lo largo de un año o dos de diferencia desde que me vacuné puedo tener cierta probabilidad de protección, pero esta se va agotando conforme pasa el tiempo. Por eso, en general se recomienda para las poblaciones de riesgo vacunarse todos los años.
+Plan o política nacional de vacunación contra COVID, la vamos a ir informando, hoy mismo tenemos a las 8:00 la reunión con el presidente para informarle el avance general.
+Ya empecé a ver articulistas que se alarman de que no hay un plan. En ninguna parte del mundo hay un plan terminado, todos los países estamos trabajando sobre los planes.
+¿Cuál es la razón fundamental de que no se puede cerrar el plan?
+Que ninguna vacuna, ninguna, de las 143 candidatas, hay ocho o 10 que están en avanzadas fases de investigación clínica, pero ninguna ha producido los resultados sobre su seguridad, su calidad y su eficacia, requisitos para poder entender el perfil, tanto de seguridad como de eficacia que determina el uso de la vacuna.
+No todas las vacunas se usan, como lo dije hace rato, con un carácter universal para proteger a la población de la transmisión del virus. Cuando la eficacia es limitada, como es un ejemplo la de la influenza, es absurdo, está fuera de lugar en términos técnicos y científicos pensar en poner de manera masiva como si el objetivo fuera interrumpir la transmisión, porque no lo va a lograr.
+Hay países que ponen ampliamente de manera casi universal vacuna contra influenza, pero se sigue transmitiendo todos los años desde hace milenios y seguirá ocurriendo.
+La tercera parte de las poblaciones mundiales en cada país y en el conjunto todos los años se infecta del virus influenza, 10 por ciento de ella presenta enfermedad, cinco a 10 por ciento de ellos tienen enfermedad grave y un porcentaje que va entre 0.5 y dos por ciento de las personas que tienen enfermedad grave pueden tener mortalidad, muerte producida por influenza, por eso en México mueren cada año cerca de 30 mil personas por influenza desde hace mucho tiempo.
+Muchas gracias. Son las 20 horas con cuatro minutos, aquí terminamos y nos vemos mañana por la tarde y seguimos platicando sobre esto. Muchas gracias.

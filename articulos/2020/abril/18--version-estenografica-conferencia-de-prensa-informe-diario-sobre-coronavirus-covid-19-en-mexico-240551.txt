@@ -3,6 +3,7 @@ Presidencia de la República
 18 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches a todas y todos. Son las 19:00 horas de este sábado 18 de abril de 2020. Este es el Palacio Nacional de México y vamos a iniciar la conferencia diaria sobre la situación de COVID, la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS Cov2.
 Hoy guardamos sana distancia y hoy me voy a dedicar yo solito a comentar sobre el informe técnico diario y será la oportunidad para abordar cualquier pregunta o duda que exista, comentario o sugerencia que exista sobre la situación.
 Entonces, me voy a parar y desde aquí vamos a informar. Tenemos, como siempre, esta gráfica que ilustra cómo se ha presentado la enfermedad desde el 1º de enero hasta la fecha de hoy y cómo se ha presentado en las distintas regiones del mundo donde se presentó en China y fue la región predominante, después se incorporó el sureste asiático, después se incorporó la región europea en color azul y más recientemente la región de América.
 Lo que vemos también aquí son los casos que se han presentado en las últimas 24 horas y el porcentaje de distribución de esos casos. Vemos que ya tal como lo veníamos observando, la región de América supera a la región de Europa en cuanto al número de casos que se han registrado en las últimas 24 horas. Esto lo que quiere decir es que en este momento ya la región de América tiene una epidemia más activa o más reciente y, en cambio, Europa empieza a encontrar el punto de estabilidad, en donde empieza a descender el número de casos diarios.
@@ -89,7 +90,7 @@ Casos positivos acumulados en color rojo, defunciones acumuladas de acuerdo a la
 Esto lo que nos permite es ver de todo el fenómeno de COVID, que lo caracterizamos por personas que inicialmente presentan síntomas, se les toma una muestra y se descarta o se confirma la infección por COVID. Un quinto se ha confirmado, cuarto, quinto se ha descartado, desafortunadamente algunas pierden la vida y muy afortunadamente algunas se recuperan.
 Entonces, lo que podemos ver es: de los distintos casos confirmados acumulados cuántos han perdido la vida y cuántos se han recuperado.
 En esta gráfica en concreto agregamos también los sospechosos que son quiénes en su momento entraron como sospechosos una quinta parte se confirmó, cuatro quintas partes no se confirmaron.
-Y este lo vamos a estar presentando a lo largo de los siguientes días y semanas para ir viendo de manera dinámica cómo se comporta la epidemia y en todo momento identifiquemos que los recuperados son una buena noticia: En primer lugar, porque no tuvieron una enfermedad de alta importancia; segundo, porque evidentemente no perdieron la vida; y  tercero, porque bajo el supuesto de que van a desarrollar inmunidad permanente nos van a ayudar a todas y todos a que la epidemia eventualmente se acabe.
+Y este lo vamos a estar presentando a lo largo de los siguientes días y semanas para ir viendo de manera dinámica cómo se comporta la epidemia y en todo momento identifiquemos que los recuperados son una buena noticia: En primer lugar, porque no tuvieron una enfermedad de alta importancia; segundo, porque evidentemente no perdieron la vida; y  tercero, porque bajo el supuesto de que van a desarrollar inmunidad permanente nos van a ayudar a todas y todos a que la epidemia eventualmente se acabe.
 Esta es simplemente recordar lo que ayer nos preguntaban, sobre cuál es la dinámica, cuál es el mecanismo técnico de la vigilancia epidemiológica. No entraré en detalles, al inicio de la semana vamos a comunicar algunos elementos técnicos muy puntuales sobre sobre la vigilancia en cada fase.
 Recordarán que iniciamos la vigilancia en la fase 1 con la vigilancia centrada en casos sospechosos, porque está vinculada con la técnica de contención, pero cuando entramos a fase 2, y así lo teníamos previsto, se activó el Sistema de Vigilancia Centinela y COVID se incorporó a los 14 virus respiratorios que se vigilan con el Sistema de Vigilancia de Influenza.
 Conforme entremos a fase 3 y lo anunciaremos en cuanto esto sea el caso, vamos a explicar que entrará un paquete de medidas de prevención y control, pero también un cambio relevante en el enfoque de la vigilancia epidemiológica, sumado a los dos anteriores; es decir, continuará el sistema Centinela, continuará la vigilancia centrada en casos sospechosos, pero hay elementos adicionales que ya teníamos previstos y que son relevantes para la fase tres.
@@ -102,11 +103,13 @@ Esto es todo. Vamos a pasar a preguntas y respuestas. Gracias.
 Empecemos. Usted quedó pendiente desde hace dos sesiones, adelante, y nos seguimos con usted.
 ---
 PREGUNTA
+Doctor, buenas noches, Carlos Guzmán de Aba Noticias de Veracruz.
 Dos cosas. La primera, hace algunos días había por ahí una nota que mencionaba que el IMSS había comprado algunos ventiladores a algún proveedor de Guanajuato, obviamente que tiene filial en Estados Unidos, pero no se los habían entregado, es un número importante de ventiladores. Si nos puede dar un poco de esta cuestión, si es que tiene la información.
 Y la otra, desgraciadamente el día de ayer sucedió un acontecimiento nada grato. Un conductor de televisión, que hablaba de usted, precisamente de no hacerle caso a la autoridad sanitaria. No sé si nos pueda dar su punto de vista. Hace rato el presidente López Obrador y la jefa de gobierno le daban el espaldarazo a usted.
 Estos dos temas, doctor. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Respecto a los ventiladores del Instituto Mexicano del Seguro Social, y esta noticia el maestro Zoé Robledo, director general del IMSS, ya explicó esto hace unos días en la conferencia matutina, si faltara información más allá de lo que él ya explicó y tengo entendido que salió un comunicado de prensa lo traemos, pero en este momento yo no tengo información adicional a la que ya ha sido señalada.
 Respecto al trabajo que hacemos aquí todas las noches, este trabajo representa el esfuerzo en principio de todo el gobierno federal, no solamente la Secretaría de Salud o solamente el sector, sino todo el gobierno federal y en síntesis representa también el trabajo de todo el país, de todo el Sistema Nacional de Salud.
 Precisamente, como lo acabo de ilustrar, la información que tenemos nosotros en las oficinas federales de salud proviene de las unidades de salud; es decir, cada uno de los médicos y médicas que brindan servicios de salud son quienes nos generan esa información.
 Aquí quisiera expresar también por esta razón mi agradecimiento y respeto al personal de salud, en primer lugar, por lo que hemos dicho y seguiremos diciendo: por estar al frente de esta respuesta directamente con las personas enfermas, lo cual implica una enorme responsabilidad, una gran dedicación, un compromiso en términos de su ética profesional y les gradezco por eso.
@@ -125,10 +128,15 @@ Hay un portal de gobierno sobre datos abiertos, pusimos a disposición la inform
 Nos parece que eso es importante, que todo mundo tenga acceso a los datos que son propiedad, es un bien público.
 Gracias.
 ---
+INTERLOCUTOR
+Una sugerencia: si habría oportunidad de que algún otro día nos trajera a alguien que nos pueda hablar sobre el manejo ético de los cadáveres y obviamente de los familiares de la situación que están pasando. Estoy hablando con una persona muy importante para mí en este momento y justamente estábamos hablando de ese tema. No sé si habría alguna posibilidad en alguna próxima.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con mucho gusto, lo preparamos y lo traemos.
 Vamos a darle la voz a usted, usted primero y a usted.
 ---
 PREGUNTA
+Gracias, doctor, Claudia Solera, de Excélsior.
 Oiga, también hace unos minutitos, doctor, la Secretaría de Gobernación y el Consejo de Salubridad General acaban de anunciar algo sobre apercibimiento a la televisión.
 ¿Podría darnos detalles de qué significa apercibimiento?, porque tampoco es como un término que todos tengamos, o como usted dice, es un hecho inédito y no sabemos cuál es el proceso. ¿Qué significa en eso?
 Y, por último, doctor, quisiera saber si cada institución es la encargada de garantizar y de revisar la calidad del equipo de protección personal de los médicos. Y esto se lo comento porque precisamente hoy publiqué entrevistas que hice a varios doctores anestesiólogos e internistas del IMSS acá de la Ciudad de México que, en los kits, en estos kits de equipo de protección personal para hacer procedimientos quirúrgicos recibieron mascarillas N95, pero con una certificación que ya… bueno, que era una certificación que ya le había quitado la NIOSH desde 2009.
@@ -136,17 +144,24 @@ Entonces, evidentemente están como muy preocupados por eso, quieren saber más 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. De lo que me platica del apercibimiento no tengo información, pero la recabamos y la comentamos.
 Sobre este tema de quién acredita el material que es de uso humano, en este caso para la protección personal, es Cofepris. La Cofepris, la Comisión Federal para la Protección contra Riesgos Sanitarios, es la entidad administrativa sectorizada a la Secretaría de Salud que se encarga de esto y esto lo da en términos de autorizaciones sanitarias.
 Ocurre en todo el mundo, en este mismo momento ocurren que hay una agencia sanitaria análoga. Y también ocurre en todo el mundo que en este momento, y ha ocurrido en otras situaciones de emergencia sanitaria, se hacen trámites acelerados, trámites expeditos, lo que no quiere decir, y esto debe estar muy claro, que se relaje el carácter de verificación de lo estricto que debe ser, es simplemente que se acelera los procesos administrativos correspondientes.
 ---
+INTERLOCUTORA
+¿Es Cofepris quien tiene que garantizar…?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cofepris, definitivamente, sí. Gracias.
 Vamos a darle la palabra a usted y a usted y a Laura Poy, luego nos vamos para acá.
 ---
 PREGUNTA
+Alejandro Arcos. Primero, la propuesta. ¿Sería posible que tuviéramos preguntas de otros periodistas que manden para que también tengan un espacio? Esa sería la propuesta.
 Con respecto con algunos datos, ¿en vidas salvadas podemos tener un estimado de estas acciones, cuántas vidas nos han permitido salvar?
 Y, finalmente, si hay alguna, con la nueva información de COVID, si existen algunas nuevas recomendaciones o recomendaciones que se tienen que cambiar, especialmente en temas pediátricos y en temas, por ejemplo, de pérdida de olfato como primer síntoma.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
 Qué útil lo que pregunta, vidas salvadas, porque efectivamente esa es la meta principal. Y sí, la respuesta es sí, lo podemos hacer precisamente con estos modelos matemáticos que nos facilitaron estas más de siete comunidades científicas coordinadas por el Conacyt y provenientes de mayormente de instituciones públicas de educación superior y de investigación, tenemos el punto de comparación.
 Recordarán, quien estuvo el jueves o dio la información del jueves, que presentamos una curva epidémica muy aguda, muy alta, que llegaba a los 30 mil casos, y ese es lo que hubiera ocurrido en ausencia de intervenciones de mitigación.
 Y tenemos, hasta el momento, lo que se proyecta o predice que va a ocurrir en esta otra curva verde, considerablemente más pequeña, más plana y obviamente más larga en la medida en que se van difiriendo los contagios.
@@ -157,7 +172,11 @@ Entonces si usted se queda en cada, si todos nos quedamos en casa, excepto quien
 Si nos mantenemos así, lo vamos a lograr y vamos a estar viendo cuántas vidas vamos a air salvando prácticamente cada día.
 Gracias.
 ---
+INTERLOCUTOR
+Cambios en las recomendaciones.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cambios en las recomendaciones. En el tema de niños no hay ningún cambio nuevo, es una muy buena noticia el haber constatado por la experiencia en otros países y la evidencia científica que fue surgiendo con las series de casos que la niñez no es una época de la vida en donde exista importante riesgo de complicaciones, así lo habíamos supuesto al inicio. Recordarán que los tratábamos en términos de la precaución de manera semejante a lo que ocurre con la influenza, pero aquí afortunadamente no es el caso.
 ¿Por qué?
 No se sabe todavía.
 Este tema de la pérdida del olfato es un signo clínico útil, no es exclusivo de COVID, muchas enfermedades respiratorias infecciosas y no infecciosas pueden llevar a pérdida del olfato, pero es un signo más.
@@ -166,6 +185,7 @@ Muchas gracias.
 Usted, Laura y nos vamos por acá.
 ---
 PREGUNTA
+Buenas noches, subsecretario. Silvia Arellano, de Milenio.
 Dos cuestiones. Preguntarle primero si tendrá esta cifra de cuántas personas han sobrevivido al COVID. ¿Cuál es el seguimiento que se les da precisamente para ver esta inmunidad que usted comentaba?, ¿y qué se va a hacer después con estos casos precisamente para terminar con esta pandemia?
 Y otra cuestión, he estado haciendo algunas entrevistas con abogados que me han hablado de un tema que casi no se ha tomado en cuenta, que es la situación de los niños de papás divorciados.
 ¿Qué pasa en estos casos cuando los niños están una semana o 15 días con alguno de los padres?, ¿se correría algún riesgo en llevarlos y traerlos de una casa a otra?, porque los abogados comentan también que si no se cumple con esto se pueden hacer acreedores a una sanción.
@@ -174,6 +194,7 @@ Y, por último, nada más. El próximo lunes están citando en el Senado a una r
 Y también la oposición está pidiendo un plan emergente que no se ha tomado en cuenta por parte de los legisladores. Si usted estaría apoyando también que en esta pandemia se pueda regularizar o hablar sobre este tema en el Senado.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Le contesto la última y luego las otras. Este tema de la ley de amnistía es muy importante. Hace una semana, un poco más, un periodista, uno de ustedes, me preguntaba si se había considerado un proceso de preliberación como un auxiliar de la prevención para las comunidades de personas privadas de la libertad, es decir, quienes residen en centros de reclusión, ya sea reclusorios preventivos o prisiones, penales.
 En ese momento contesté que no porque todavía no había madurado desde el punto de vista jurídico la propuesta por parte de quien es competente para esto que desde luego en primera instancia el Poder Judicial, no el Poder Ejecutivo, sino el Judicial, y en el caso del Poder Ejecutivo, también, las oficinas responsables de procuración de justicia.
 En este momento veo con agrado que el tema ha ido progresando. Desde el punto de vista de salud pública sí puede ser un elemento útil el reducir la población de las prisiones y de los centros de reclusión preventivos, porque entre menor densidad, mayor facilidad de hacer intervenciones preventivas, y también menor es el riesgo de que haya propagación de la enfermedad.
@@ -181,5 +202,24 @@ Entonces, qué bueno que esto progrese. Gracias al Poder Legislativo, en particu
 La mecánica de la sesión, tengo entendido que todavía se estaban considerando alternativas del uso de instrumentos electrónicos para una sesión virtual. Había algunas controversias si esto vulneraría la legitimidad o la legalidad de las sesiones y pues ya veremos qué ocurre, 128 legisladoras y legisladores es un número sustancial, pero desde luego es todavía una comunidad manejable en un espacio físico cerrado, no olvidar que tenemos nuestro lineamiento técnico de prevención de COVID en espacio públicos cerrados y hay una serie de recomendaciones de higiene que se pueden instrumentar.
 Y ha habido una excelente comunicación además con el Senado. Mi agradecimiento a la Junta de Coordinación Política de la Mesa Directiva que desde hace varias semanas nos hemos mantenido en buena coordinación para los fines de la prevención de COVID.
 ---
+INTERLOCUTORA
+Sobre la situación de los menores de…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Menores, hijos de padres divorciados. Como en cualquier otra comunidad donde hay un intercambio de personas, porque hay familias que en algún momento comparten familiares que viven en dos domicilios, pudiera esto contribuir al contagio, dependiendo qué tan frecuente es la interacción entre las dos familias que en su momento vivieran separadas o los dos antiguos cónyuges podría desde luego considerar que podría conducir al riesgo de transmisión.
 Simplemente habría que tener una mayor precaución. Si uno de los antiguos cónyuges presentara síntomas, desde luego está moral, pero también legamente obligado a informar a la otra persona para que se tomen las provisiones necesarias.
+---
+INTERLOCUTOR
+Sobre los sobrevivientes de COVID.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sobre las personas que se recuperan de COVID, es la gráfica que presentamos ya desde hace más de 10 días, la acabo de presentar ahorita, es la línea en color aguamarina. Son un poco más de dos mil 500 personas, irán apareciendo más, esto representa el 39, 40 por ciento de los casos.
+Y hemos asumido que desarrollan inmunidad permanente, también hemos comentado que en el mundo entero todavía no existe suficiente evidencia robusta como para garantizar que la recuperación clínica de personas con COVID produce inmunidad permanente, por analogía con otros virus respiratorios incluyendo los dos -hay más de ocho coronavirus- pero los dos de mayor importancia clínica SARS y MERS suponemos que va a dar inmunidad permanente.
+No queda tiempo para ya ninguna pregunta, porque ya son las 7:57. Quisiera cerrar con un mensaje general.
+Nos falta todavía tiempo para esta epidemia y tenemos que conservar el ánimo, la fuerza, la claridad mental y la claridad espiritual para mantenernos todas y todos unidos. Eso es sumamente importante.
+Cualquier controversia que pusiera ser accesoria, que pueda ser un distractor de lo importante que es cómo actuar con una visión de Estado que esto involucra el sector público, social y privado, los tres órdenes de gobierno, los tres poderes de la unión, los órganos constitucionales autónomos, la sociedad no organizada, es decir, todas y todos, todas y todos tenemos un papel que cumplir en esta epidemia por el bien de todas y todos.
+Entonces, aquí lo que considero extremadamente importante es que tengamos serenidad. No es raro y tampoco es sorprendente ni debe llevarnos a la preocupación que se exalten los ánimos, es una condición humana.
+Los seres humanos frente a la incertidumbre, a veces frente al miedo, hay quien tiene miedo, el miedo puede ser una reacción legítima, la ansiedad, entonces puede reaccionar en una forma agresiva. No pasa nada, pero que hay que procurar que esto no ocurra, porque si alguien reacciona de manera agresiva o con ansiedad o con miedo, puede propagar el miedo y estas reacciones emocionales que se conviertan en una adversidad y desestabilice a otras y otros y se pierda la claridad.  Entonces, ese sentido es el mensaje que quiero dar en este momento.
+Quiero aprovechar para agradecer de todo corazón el apoyo del presidente de la república, el licenciado López Obrador, al país, el apoyo. Y me siento muy privilegiado, honrado de que hoy se haya referido a mi persona en forma directa, pero lo tomo no como un apoyo a una persona de nombre Hugo López-Gatell, sino el apoyo a que la conducción de esta epidemia sea con bases científicas, con bases técnicas, con integridad y con este espíritu de unidad, que es el que necesitamos.
+Gracias, también, a todas y todos por mantenerse unidos, en orden, en calma y atentos a la tarea. Nos faltan seis semanas todavía de esta epidemia y las vamos a poder enfrentar con éxito, si mantenemos ese espíritu y ese buen ánimo.
+Muchas gracias.

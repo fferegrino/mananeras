@@ -3,6 +3,7 @@ Presidencia de la República
 07 de julio de 2020
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muy buenas noches todos.
 Estamos aquí, en la sede del Palacio Nacional, como todas las noches, para iniciar esta conferencia vespertina. Son las 7:05 horas de la Ciudad de México. En unos momentos se nos estará acercando el doctor Hugo López-Gatell, quien preside estas conferencias vespertinas.
 Nos acompaña esta noche el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, quien además trae para el día de hoy un tema sumamente importante, que creo que va a ser del gusto, no solamente de los que estamos aquí, sino más bien de la población que nos está viendo a través de los diferentes medios de comunicación y los medios oficiales.
 Vamos a iniciar esta noche con el componente del panorama epidemiológico, el componente técnico y enseguida veremos la sorpresa que nos tiene el doctor Ricardo Cortés para el día de hoy. Estamos en la conferencia vespertina 130, el día 37 de la Nueva Normalidad, en donde reiteramos, las acciones se realizan regionalizadas, en este caso por entidad federativa para que cada una de ellas pueda aplicar las acciones que se consideren necesarios en relación al semáforo de riesgo y esto permita entonces poder reactivar las dinámicas sociales, laborales en el espacio público, pero siempre teniendo presente como la principal acción a cuidar el tema de la salud poblacional.
@@ -60,12 +61,14 @@ Veamos la siguiente diapositiva. Me parece que es la última ¿verdad? Bien, ser
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Gracias, doctor José Luis Alomía.
 Son las 19:29, seguimos en el Palacio Nacional en la conferencia de prensa diaria sobre COVID-19, la epidemia causada por el nuevo coronavirus.
 Y el segundo componente, el doctor Ricardo Alcalá nos va a presentar a nuevos personajes, nuevas personajes que componen el repertorio de comunicación, promoción de la salud y que acompañan a Susana Distancia.
 Y como explicará él, están enfocados para orientar la Nueva Normalidad, para orientar la forma ordenada, prudente, cautelosa que nos permitirá incorporarnos a las actividades, pero sin perder la precaución, la prevención de COVID-19.
 Doctor Ricardo Alcalá, explíquenos de qué se trata.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR DE PROMOCIÓN DE LA SALUD
+Muchísimas gracias, doctor López-Gatell.
 Muy buenas tardes tengan todos aquí en Palacio Nacional y en casa.
 Es el Escuadrón de la Salud. Ha habido mucha comunicación negativa en cuanto a que al momento en el que transitamos de la Jornada Nacional de Sana Distancia a la Nueva Normalidad evaluada de forma local en los estados a través de un semáforo de riesgo epidémico, todo lo hemos visto, caricaturas en donde sale Susana Distancia sin traje dejándolo tirado en la basura y yendo a la calle sin ninguna precaución.
 Es por esto que nos dimos a la tarea también de ver qué otro tipo de comunicación podíamos hacer, pero siguiendo la misma línea de Susana Distancia que, dicho sea de paso, ha sido referencia también como una buena estrategia de comunicación de riesgos a la población, a ustedes y a nosotros que estamos en casa y que estamos trabajando para poder comprender lo que significa o lo que significó la sana distancia y lo que sigue significando Susana Distancia, por eso aquí dice: ‘No se ha ido’, no se ha ido y ella debe permanecer por siempre con nosotros para apoyar a nuestra sociedad, a resguardar nuestra salud con las reglas básicas de promoción, de prevención de enfermedades y promoción de la salud que hemos revisado y reiterado todos y cada uno de estos días a partir del inicio de la epidemia.
@@ -89,14 +92,17 @@ Finalmente, este es el Escuadrón de la Salud contra el virus SARS-CoV-26. Hay q
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés, director general de Promoción de la Salud.
 Vamos a abrir a preguntas y respuestas. Están ustedes dos aquí de este lado y nos vamos uno y uno.
 ---
 PREGUNTA
+Buenas noches subsecretario, directores. Ángel, de Arsenal.net.
 Doctor Gatell, tenemos tres señales muy claras, muy buenas que es: la tasa de casos acumulados va en descenso, tenemos otra señal que es la de letalidad que parece que tiene como un chipotito y que está también en descenso, y tenemos otra buena señal que es la tasa de las personas que se están recuperando. ¿Esto cómo lo leería el doctor Gatell?
 Y si podría ser posible hacer una herramienta como un app, digo es algo soñado, donde pudiéramos ver esas heroínas diciéndonos más o menos por el municipio donde estamos cuáles serían las cosas o las recomendaciones.
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias Ángel.
 Sí, como comenté esta mañana en el Pulso de la Salud y empezamos a comentar desde el domingo pasado, vemos cambios positivos en el curso de esta epidemia, concretamente en la Ciudad de México, que es la zona del país donde inició la epidemia, donde hemos tenido la mayor carga de enfermedad, la mayor presencia de personas enfermas de hospitalizaciones y de lamentables defunciones registradas, vemos que hay una reducción sostenida ya por más de 15 días, diría yo para tener un planteamiento cauteloso, 15 días consistentemente de descenso, es posible que tenga un poco más, pero quiero ser cauteloso pensando en 15 días, los 15 días más recientes hasta el punto de corte de la información.
 Estamos transcurriendo en este momento en la semana 28, empezó hace dos días, de modo que vemos ahí la información hasta la semana 25, que es donde cortamos con certidumbre de que cualquier retraso en el flujo de información no modifica la interpretación de los datos, y contado justamente quitando esas semanas, los 15 días anteriores, semanas 23, 24 y 25, vemos ya este descenso.
 Al verlo de manera consistente en todos los indicadores fundamentales, la ocurrencia de casos nuevos, la ocurrencia de ingresos hospitalarios, la ocurrencia de defunciones y, en cambio, un balance de desocupación de las unidades hospitalarias -insisto, estoy hablando de la Ciudad de México, la Ciudad de México- y ahí es donde vemos este cambio positivo.
@@ -112,12 +118,14 @@ Susana Distancia presente todo el tiempo, todo el tiempo hay que conservar la sa
 Juan Hernández, por favor.
 ---
 PREGUNTA
+Buenas noches, doctor. Juan Hernández, del periódico Basta y de Grupo Cantón.
 Son dos preguntas rápidas. La primera es que en redes sociales se está abordando el tema de una posible mutación del virus SARS-CoV-2, el cual, bueno, se dice que este proceso de mutación los médicos podrían confundirla con una gripa, lo que haría aún mucho más letal esta situación, pues los contagiados llegarían tarde al hospital.
 También se han manejado otras versiones, que el virus flota en el aire. Entonces, esto es lo que ha venido inundando las redes sociales.
 Y, por el otro lado, Grupo Cantón está haciendo el seguimiento a una denuncia, una denuncia hecha por personal del sector salud del Hospital Xoco, en donde señalan que hay personal que está de brazos caídos por falta de pago y condiciones laborales, y en donde señalan que están pidiendo, bueno, en este caso, las autoridades del hospital están pidiendo a otros médicos externos que colaboren, con promesa de pago.
 Quisiera ver qué nos podría decir al respecto sobre estas dos situaciones. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, tres situaciones.
 Sobre la mutación del virus SARS-CoV-2, no conozco a cuál específicamente se está refiriendo, pero les puedo decir que no es la primera ni será la última. El virus SARS-CoV-2 es un virus del grupo, alguna de las dos grandes ramas es el virus formado, su material genético, por ácido ribonucleico, ARN, que es la manera o la estructura química más primaria, más primitiva del material genético.
 Los virus ARN tienen una tasa de mutación, es decir, la velocidad a la que van transformando su secuencia genética y por consiguiente su estructura química, es una velocidad muy rápida. Casi todos los virus ARN tienen una tasa de mutación muy importante, no entraré en ningún detalle sobre cómo se mide esta tasa de mutación, pero la gran mayoría de las mutaciones son irrelevantes, son intrascendentes.
 Lo crítico de la mutación posible de un virus es que pudiera haber una mayor capacidad de transmitirse o bien una mayor capacidad de dañar, de causar enfermedad. Y la enorme mayoría de las mutaciones no confieren ni una cosa ni la otra.
@@ -135,6 +143,7 @@ Gracias.
 Vamos a darle la palabra a Liliana Noble de Pulso Saludable, a usted y nos regresamos aquí de este lado con el compañero de Pie de Página.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
 Tengo dos preguntas. La primera, doctor Gatell, hoy en la mañana hubo una conferencia de prensa del Poder del Consumidor y ellos hablaban sobre la ética y la bioética y el panorama un poco difícil, oscuro que se viene cuando ya tengamos la vacuna.
 Ellos hablaban, invitaron a varios expertos sobre ética y bioética y hablaban del panorama un poco difícil, negro que se visualiza en la región de las Américas por las deficiencias económicas, que no somos países de primer mundo, etcétera.
 También hablaban de esta falta de capacidad de pago que se pudiera generar para poder ser de los primeros países en adquirir estas preciadas vacunas.
@@ -144,6 +153,7 @@ Pero si me dejó un poco preocupada toda esta advertencia que hace la comunidad 
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Cuando existe un problema masivo, un problema que atañe a todas y todos, en este caso literalmente toda la humanidad enfrenta al COVID, toda la humanidad, la especie humana en su conjunto tiene este problema y por lo tanto es de gran interés resolverlo.
 En un momento dado que apareciera una vacuna suficientemente segura, suficientemente eficaz y suficientemente estable como para que la logística de su uso en el terreno sea apropiada sería desde luego un bien muy preciado.
 El desarrollo, la innovación científica y el desarrollo tecnológico de los productos farmacéuticos, incluidos los que son preventivos, como las vacunas, cuestan mucho dinero y esto invita a que haya personas que tienen mucho dinero, personas, organizaciones, fundaciones, empresas, a que inviertan, pero generalmente con la expectativa de tener un retorno de la inversión; es decir, no es caridad, no es filantropía, es el interés de tener un retorno y entonces se vuelve una mercancía.
 Y las mercancías se encarecen de acuerdo a la demanda. Si hay muchas personas que la quieren, el precio sube; si hay pocas personas que la quieren, comparado con cuántas hay, pues baja el precio.
@@ -156,8 +166,16 @@ Entonces, considero que fue muy oportuno el seminario que convocó esta organiza
 Con esta organización hemos podido impulsar justamente la agenda de trabajo de la prevención de enfermedades crónicas y la búsqueda de un sistema agroalimentario, justo, saludable y sostenible y competitivo.
 Entonces, me parece muy oportuno este foro que organizó El Poder del Consumidor. Y ese es el escenario, estaremos trabajando sobre ello.
 ---
+INTERLOCUTORA
+Gracias. Y otra pregunta. Doctor Cortés, veo con mucha alegría su Escuadrón de la Salud, y veo que es una campaña sustentable, entiendo que va a permanecer a lo largo del tiempo, pero también inclusiva. Esto es muy interesante ver en una campaña que involucre el tema de la salud. Cuéntenos un poquito al respecto. Gracias.
+---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias, Liliana.
 Definitivamente este país ha sufrido desde siempre de muchas cosas y las poblaciones específicas han sufrido muchos, muchas cosas desde siempre y específicamente hay poblaciones que han sufrido discriminación, que han sufrido falta de inclusión y que eso es algo que estamos empeñados con las instrucciones del secretario Alcocer y el subsecretario López-Gatell de eliminar, porque son definitivamente uno de los más importantes determinantes sociales de la salud, las barreras que ponemos, la falta de accesibilidad, la falta de modificaciones, inclusive arquitectónicas para que las personas que viven discapacidad puedan acceder a los servicios de salud de forma fácil y que puedan acceder ellas solas sin necesidad de tener un acompañamiento, porque todas las personas tenemos los mismos derechos de tener una atención a la salud de forma individual, inclusiva e incluyente.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Muchas gracias, son las 20:00 horas en punto, ya no nos da tiempo de atender sus preguntas, pero mañana seguimos, va a ser la conferencia 131, esto sigue todavía varias semanas más.
 Muchas gracias. Muy buenas noches.
+---
+RICARDO CORTÉS ALCALÁ
+Gracias.

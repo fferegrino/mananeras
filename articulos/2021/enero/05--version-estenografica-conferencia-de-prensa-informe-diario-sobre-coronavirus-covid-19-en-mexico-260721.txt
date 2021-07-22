@@ -1,0 +1,249 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+05 de enero de 2021
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches tengan todas y todos. Son las 19:03 del martes 5 de enero de 2021. Estamos en el Salón Tesorería del Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
+Hoy comentaremos, como siempre, el informe técnico, que será más breve, sobre la realidad epidemiológica. Esta misma mañana en la conferencia matutina del presidente presentaba la actualización completa de las 32 entidades federativas, ocurrencia de casos, defunciones y hospitalizaciones, tres de los indicadores fundamentales del acontecer epidemiológico.
+Aprovecho para recordarle a toda la población y también a las compañeras y compañeros comunicadores, muchos otros indicadores y datos están en nuestro portal único coronavirus.gob.mx, en el que se pueden encontrar múltiples elementos, mapas, tableros de control, gráficas, gráficas por edad, distribución municipal, etcétera de la epidemia.
+Por favor, si usted tiene interés, tiene oportunidad, no deje de visitar el sitio web coronavirus.gob.mx, que es el portal de internet del gobierno donde se concentra toda la información relativa a esto. también están los distintos lineamientos técnicos, la colección completa de los documentos técnicos que han sido emitidos por el Gobierno de México desde el inicio de la epidemia, en la fase de preparación.
+Y también se encuentra información útil para la sociedad, hay elementos específicos, por ejemplo, para los pueblos originales, en un trabajo construido durante todo 2020 con el Instituto Nacional de los Pueblos Indígenas; existen también los videos tutoriales de rehabilitación pulmonar, que fueron muy comentados durante 2020, seguirán siendo de importancia para que las personas identifiquen actividades de rehabilitación pulmonar que pueden realizar en sus propios domicilios.
+En fin, ahí está la información y, como decíamos esta misma mañana, si existiera nueva información que es de interés público que conviene comentar, que alguien quiere comentar, como la que ayer preguntaba Juan Hernández sobre las reinfecciones, por favor, no dude en preguntarnos, ustedes, comunicadoras, comunicadores también ustedes en el público en general para que lo traigamos a disposición de todas y todos y sea abierto como lo son nuestros datos abierto.
+Por cierto, también las bases de datos completas del Sistema Nacional de Vigilancia Epidemiológica están disponibles en el portal coronavirus.gob.mx.
+Entonces, con base en ello, nuestro informe técnico será más sintético y vamos a dedicar un poco de tiempo al elemento fundamental que hoy tenemos a la mano en México y ya en algunos países que es la vacuna, comentaremos sobre la llegada de las vacunas que fue presenciada aquí en tiempo real esta misma mañana, y también sobre el uso de las vacunas todos los días daremos un informe del avance del proceso de vacunación contra SARS-CoV-2 para prevenir COVID-19.
+Le pido al doctor José Luis Alomía, director general de Epidemiología, si es tan amable de presentar el informe técnico, por favor.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
+Muy buenas noches a todas y todos, que en este nuevo año 2021 continúan dando seguimiento a la evolución de la epidemia en México, ya sea de manera presencial y representando a los medios de comunicación o a la población que de manera virtual y a través de todos los canales y medios de comunicación siguen esta conferencia.
+Vamos a actualizar la estadística para el día de hoy. Este es un gráfico que ustedes conocen muy bien, lo hemos estado manejando todo el año previo para dar el seguimiento precisamente al comportamiento epidémico de COVID-19 en el país, el cual podemos apreciar precisamente a través de la forma que manifiesta el gráfico de la curva azul, ese es el comportamiento de la epidemia con incrementos, con disminuciones en un momento determinado, representa cómo se está comportando los contagios, la generación lógicamente de personas enfermas en todo el territorio nacional.
+Para efecto de las últimas dos semanas abríamos precisamente el gráfico de la semana 52, que esta semana 52 es todavía en el 2020 con una reducción de dos semanas continuas.
+Como podemos ver en el gráfico, en los últimas dos variaciones para la semana 51 y 52, de la 50 a la 51 una pequeña digamos todavía disminución, todavía incipiente en su momento, pero para efectos de la semana 51 a la 52 un descenso más marcado, que inclusive lo estamos midiendo para el día de hoy martes en un menos 19 por ciento.
+Sabemos, todos ustedes conocen que este número va irse moviendo en función de cómo se vayan integrando los casos en el transcurso de la semana; sin embargo, menos 19 por ciento es una disminución que sí resalta y está dentro de los porcentajes que en su momento durante toda la evolución de la epidemia ha sido de las mayores disminuciones que hemos hasta el momento tenido.
+Así también, podemos ver que en las personas que se están recuperando de la enfermedad continúan incrementando, continúan siendo un espejo de la curva epidémica de los casos y para efectos de las últimas dos semanas se encuentran en un más seis por ciento.
+Si analizamos la base de datos del sistema informático, que es el Sisver, donde se notifican todos los casos sospechosos y aplicamos las diferentes formulaciones para poder estimar cuántos serían ya al día de hoy las personas clasificadas como casos confirmados de COVID-19, serían un poco más de un millón 650 mil y son las que precisamente están representadas en esta curva de color azul.
+Así también, más de un millón 113 mil serían las personas que hasta el momento ya se han recuperado, que han sanado de COVID-19.
+Tenemos también el dato directo de un indicador al cual le hemos estado dando seguimiento continuo, que es precisamente el porcentaje o la proporción que representa la epidemia activa, las personas que han enfermado en los últimos 14 días. Para el corte de hoy son 68 mil 767 y representa justo el cuatro por ciento de este total de casos estimados y son lógicamente las personas que en su momento pueden continuar o de haber habido contagios podrían seguir manteniendo la epidemia en México.
+Si vemos ahora la siguiente diapositiva, pasamos ahora a nuestro porcentaje de positividad. Recordemos que este también es un porcentaje de positividad nacional y, por lo tanto, está integrando el comportamiento del porcentaje de positividad en cada una de las entidades, hay entidades que tienen por encima de este porcentaje y hay otras que tienen por debajo de este porcentaje, es decir, algunas con mayor transmisión, con mayor todavía contagios en sus diferentes localidades, municipios y otras que tienen esto, sobre todo las que están en colores amarillo y verde del semáforo, que están muy por debajo de este porcentaje de positividad.
+Lo tenemos sin cambio para efectos de las últimas dos semanas, continúa siendo del 42 por ciento y es un porcentaje que hemos visto más o menos moverse entre estos números prácticamente en los últimos meses de la epidemia.
+Si pasamos a la siguiente diapositiva, ahora podemos ver un poco el comportamiento de la letalidad. Para el corte del día de hoy son 128 mil 822 personas que lamentablemente han perdido la vida a consecuencia de las complicaciones que sabemos COVID-19 produce, sobre todo en aquellas personas que pertenecen a grupos de riesgo con ciertas comorbilidades o factores que facilitan la complicación y por lo tanto la defunción en un momento determinado.
+Y lo que vemos en esta curva que estamos graficando, que es precisamente la letalidad es la proporción de las personas que lamentablemente están falleciendo del total de casos que se están confirmando para cada una de las semanas epidemiológicas.
+Si vemos en la semana 52, es precisamente esta proporción, el seis por ciento, es decir, sólo el seis por ciento de las personas que están enfermando y siendo en su momento confirmadas a COVID-19 lamentablemente está falleciendo.
+Y lo que podemos ver en el comportamiento de la gráfica durante toda esta epidemia en México es que esta letalidad, esta proporción ha continuado disminuyendo semana con semana desde que tuvimos esos niveles altos a un principio de la epidemia en donde también lógicamente teníamos menos casos, menos personas afectadas.
+Vemos la siguiente diapositiva. Nos enfocamos ahora en la capacidad hospitalaria, en este caso para efectos en la ocupación a nivel nacional, o sea, es decir, este promedio de las 32 entidades federativas es del 53 por ciento; pero ya cuando nos enfocamos en entidades federativas específicas vemos que cinco de ellas están en el grupo que tiene una ocupación por encima del 70 por ciento.
+Siempre nos hemos referido a este 70 por ciento como un margen de seguridad en donde cuando lo superamos, entonces la ocupación y saturación de las unidades es inminente, y bueno, son cinco entidades que están precisamente colocadas en orden descendente en base a mayor ocupación: Ciudad de México, Estado de México, Hidalgo, Guanajuato y Nuevo León la que han superado este 70 por ciento, y a su vez son las que en estos momentos están trabajando más intensamente y de manera muy coordinada para poder seguir reconvirtiendo y expandiendo su capacidad hospitalaria para poder asegurar el acceso a esta atención médica especializada para las personas que así lo refiere.
+Tenemos otro grupo de cinco entidades que están en un porcentaje que está entre el 69 y el 50 por ciento de ocupación. Si bien es cierto están por debajo de este nivel de alerta o de seguridad, estas entidades están en una ocupación que al superar el 50 debe de empezar ya a detonar actividades y recursos que en su momento van orientadas a reconvertir y expandir; y aquí tenemos a Baja California, a Morelos, a Puebla, a Sonora y a Querétaro superando ese 50 por ciento.
+Sin embargo, la gran mayoría de las entidades, y estamos hablando del 69 por ciento de ellas, es decir, 22 tienen en estos momentos menos del 50 por ciento de ocupación, es decir, tienen más de la mitad de sus camas generales disponibles para poder recibir pacientes, y esto a nivel nacional representa 14 mil 409 camas generales disponibles.
+Si vemos la siguiente diapositiva enfocamos nuevamente en las camas con ventilador para las personas más crítica. Aquí tenemos sólo dos entidades que están superando el 70 por ciento que ya comentamos, son Ciudad de México y Estado de México; y tenemos cuatro entidades que están entre estos porcentajes del 50 y el 69, que son Nuevo León, Baja California, Hidalgo y Querétaro quienes tienen que empezar ya a detonar acciones de reconversión y expansión para camas con ventilador.
+Sin embargo, aquí también la gran mayoría de entidades, estamos hablando del 81 por ciento de las entidades, 26 de ellas tienen más de la mitad de sus camas con ventilador disponibles también para poder dar este tipo de atención hospitalizada que para efectos del nivel nacional representan cinco mil 688 camas disponibles.
+Es importante recordar que precisamente en base a esta disponibilidad que hay en otras entidades federativas en estas otras 81 por ciento de las entidades que las otras entidades que tienen mayor saturación pueden solicitar el apoyo y lo reciben a través de que acudan a las mismas personal médico, equipamiento e insumos, que son necesarios para la reconversión y expansión hospitalaria.
+Y esta sería entonces para el día de hoy la actualización del informe.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía.
+Me paro brevemente para comentar sobre la vacuna, la vacunación contra el virus SARS-CoV-2 para prevenir COVID-19.
+Aquí tenemos el informe del avance diario. Hoy se aplicaron cuatro mil 57 vacunas. Vamos a estar mostrando esta gráfica, desde luego se empezará a hacer más y más densa conforme transcurran los días.
+El 24 de diciembre empezó la vacunación contra COVID-19 en México, más exactamente contra el virus SARS-CoV-2 para prevenir COVID-19. Se aplicaron las dos mil 924 vacunas del embarque inicial, no hubo después envíos, hubo después envíos el 27 de diciembre, bueno, el 26, se empezaron a poner al día siguiente, domingo 27, tres mil 900; el 28 de diciembre, tres mil 252; el 29 de diciembre, lunes, nueve mil 157; posteriormente el 30 de diciembre seis mil 653; el 31 de diciembre, cinco mil 463.
+Pausa el día 1º. Comentaba esta mañana, lo comento aquí para ustedes, en caso de que no lo hayan escuchado. El personal de salud es quien recibe en este momento la vacuna y el propio personal expresó que no estaba disponible, no quería estar disponible el día 1º para recibir la vacuna. Atendiendo esta necesidad del propio personal de salud, que nos pareció comprensible después de arduas meses y semanas de trabajo, hicimos una pausa y restituimos el 2 de enero, cuatro mil 645; 3 de enero, tres mil 964; 4 de enero, cuatro mil 221; hoy 5 de enero, cuatro mil 57.
+¿A qué embarques corresponde esta aplicación?
+Conforme van llegando se van poniendo. Tenemos ya un total acumulado hasta el momento de 48 mil 236 personas vacunadas, evidentemente es todavía la primera dosis de la vacuna de Pfizer que requiere dos dosis, en 21 días se pondrá a las personas que han sido vacunadas su segunda dosis y se continuará vacunando primera dosis al resto del personal de salud, en su momento se les pondrá la segunda dosis.
+Aquí están los embarques. El embarque del 23 de diciembre se puso por completo al 100 por ciento el día 24, embarque pequeño.
+El embarque del 26 de diciembre, 42 mil 900 dosis, ya se puso al 100 por ciento.
+Un embarque más pequeño complementario del embarque del 26 que llegó el 30 de diciembre, el miércoles 30 de diciembre con siete mil 800 dosis está al 31 por ciento de esta cantidad.
+Y hoy todavía no se utiliza dosis del embarque de lo que llegó hoy, aunque ya fue enviado a las siguientes entidades federativas.
+La distribución del embarque es: llegó, como dijimos esta misma mañana y lo vimos en tiempo real, llegaron ocho mil 755 dosis al aeropuerto de Monterrey, mismas que fueron desplazadas íntegramente a Coahuila por la Secretaría de la Defensa Nacional y 39 mil 975 dosis más estas cuatro mil 875 para un total de 44 mil 800 llegaron al Aeropuerto Internacional de la Ciudad de México, fueron transferidas a la sede del 18º Regimiento de Infantería en la zona sur de la Ciudad de México y de ahí se tomó estas cinco charolas, cinco cajas para un total de cuatro mil 875 dosis que se fueron a Monterrey, Nuevo León, para ser aplicadas en Monterrey, en Monterrey también se estarán aplicando las dosis.
+Me parece que esta es la última, perfecto. Este es el informe, hasta ahorita es básico, tenemos todavía las pocas vacunas que han llegado. Recordamos a la población que todo mundo tenga muy claro, esto es el inicio para un programa universal de vacunación, toda la población residente en México será vacunada voluntariamente por supuesto, voluntariamente será invitada a ser vacunada con las vacunas específicas para prevenir COVID-19, prevenir la enfermedad que causa el coronavirus SARS-CoV-2.
+Arrancamos -también otro recordatorio, lo hemos estado diciendo- con la vacuna de Pfizer- BioNTech, que requiere dos dosis, se utiliza en ultracongelación. Hasta el momento no hemos enfrentado ninguna dificultad en el manejo logístico de esta vacuna, es otra inquietud que existía en los últimos meses de 2020, qué pasaría con las vacunas si no se tiene una red de ultracongelación, hasta el momento no ha habido dificultades. Tenemos ultracongeladores que han sido puestos a disposición, por instituciones públicas de salud.
+Y también, en el caso de Coahuila, por la Universidad Autónoma de Coahuila, quiero hacer un reconocimiento explícito a esta universidad pública que de manera generosa y voluntaria puso a disposición ultracongeladores que fueron trasladados a unidades militares en Saltillo, Coahuila, para alojar temporalmente el producto.
+El producto, una vez que se extrae, permanece hasta seis días en unas cajas especiales de ultracongelación que funcionan a base de hielo seco, no funcionan con energía, sino con hielo seco, mantienen el producto ultracongelado a menos 70 grados centígrados y posteriormente cuando ya va ser utilizado se extrae de estos pequeños contenedores, tienen aproximadamente un poco más de un metro cúbico y se extrae el producto a temperatura ambiente convencional, se mantiene por cerca de una hora, suficiente para descongelarlo y que entre en temperatura de operación, que es la temperatura de refrigeración convencional, se transfiere a termos portátiles que convencionalmente se usan en el Programa Nacional de Vacunación y ahí se mantiene durante seis horas, el tiempo suficiente para ser utilizada; desde luego, se va sacando progresivamente conforme se va transcurriendo el proceso de vacunación en las distintas unidades de vacunación.
+Otro aspecto que me gustaría comentar, ya lo explicaba con considerable detalle el presidente de la República esta mañana, es la organización territorial del programa de vacunación.
+Esto, para aclarar, que no haya duda alguna, 32 entidades federativas son prioritarias, las 32, todos los 31 estados y la Ciudad de México son igualmente prioritarias, aquí no hay ninguna prioridad que depende de la naturaleza territorial de las entidades federativas o mucho menos de la naturaleza política.
+El orden de presentación de la vacunación sí atiende a criterios epidemiológicos. Como decíamos esta mañana y lo hemos comentado, vamos a trabajar para el personal de salud, para esta primera vacunación en el personal de salud en forma centrifuga, es decir, iniciamos por el Valle de México porque es en este momento la zona de mayor actividad epidémica.
+Seguiremos con la zona de la megalópolis, esto es Valle de México más Morelos, Puebla, Tlaxcala, Querétaro, Hidalgo, que es la megalópolis, es el segundo círculo de actividad epidémica como lo mostramos esta mañana y lo hemos mostrado ya durante varias semanas con las curvas epidémicas estatales; posteriormente pasaremos a todas las entidades federativas de manera sincrónica.
+Desde la próxima semana, el martes 12 de enero estaremos recibiendo un poco más de 430 mil dosis, 436 mil 800 dosis, en cada uno de los embarques que estarán llegando semanalmente, hasta que al término del mes de enero habremos vacunado a todo el personal de salud que está involucrado en las operaciones de cuidado de personas con COVID.
+Y una vez que estamos en la zona megalopolitana, como estaremos teniendo embarques más grandes ya desde la próxima semana, entonces podremos vacunar simultáneamente en las 32 entidades federativas.
+Sin interrupción continuaremos a la fase 2 del plan, recordar que la fase 1 es personal de salud, la fase 2 es la población en general independientemente de su ocupación o no ocupación, principalmente guiados por tres ejes de priorización que hemos comentado, pero con mucho gusto vuelvo a comentar.
+El eje 1, el eje más fácilmente identificable es la edad, es la edad. Con diversos análisis y modelaciones matemáticas que hizo el grupo técnico asesor de vacunación se identificó que el objetivo de mayor rendimiento en términos de protección de la población es el de disminuir la mortalidad.
+Si se empieza a vacunar a la población, esto es semejante a lo que han hecho otros países, por ejemplo, Reino Unido, si se empieza a vacunar empezando por las poblaciones, las personas de mayor edad, al llegar a 20 por ciento de uso de la vacuna, es decir, 20 por ciento de cobertura de la población, ya se logra una reducción de 80 por ciento en la mortalidad. La razón es obvia: las poblaciones de adultos mayores son las poblaciones más vulnerables.
+Esto a pesar de que en México tenemos estas enormes epidemias de enfermedad crónica que no se distribuyen principalmente en las edades mayores, sino que la mayoría de las personas con enfermedades crónicas está en edades de 55 y más años.
+A mediana edad, es decir, el punto medio de la distribución de edad de personas con enfermedades crónicas es 55 años, como lo hemos mostrado en varias ocasiones; pero a pesar de ello tiene un impacto mayor en reducir la mortalidad si se empieza por las personas adultas mayores.
+El segundo eje de priorización es precisamente la condición de comorbilidad. Existen diversas enfermedades crónicas o condiciones de salud que se ha demostrado a lo largo del primer año de la epidemia, en México y en otras partes del mundo, son elementos de riesgo, son condiciones que hacen que las personas que padecen COVID-19 puedan tener una mayor probabilidad de complicarse, de necesitar hospitalización o muy desafortunadamente de perder la vida. Entonces, por eso el segundo eje de priorización es la comorbilidad.
+¿Cómo se va a operar este criterio de comorbilidad?
+En cada grupo de edad tienen prioridad las personas con comorbilidad sobre las personas sin comorbilidad, la lógica sigue siendo la misma: proteger más tempranamente a quien tiene los mayores riesgos.
+Finalmente, hay un tercer eje de priorización que tiene que ver con el manejo mismo de la epidemia, cuando hablamos de manejo de la epidemia nos referimos a los esfuerzos de reducción, de mitigación, de control, de la epidemia.
+Y ese tercer eje tiene cambios de acuerdo a la propia epidemia, es decir, conforme la epidemia cambia van estableciéndose distintas prioridades territoriales como la que acabo de mencionar en el arranque y empezar del centro de la Ciudad de México y la zona conurbada del Estado de México, la megalópolis y posteriormente todas las entidades federativas; pero también este mismo criterio atiende a situaciones de oportunidad de reactivar las actividades sociales de interés público como la educación, la educación.
+Entonces, se ha identificado que Campeche y Chiapas ya por más de dos meses, casi tres meses, han permanecido en semáforo verde, esto quiere decir: los 10 indicadores de actividad epidémica están en límites, en niveles muy bajos y esto habla de un estado relativamente estable de control epidémico.
+Esto brinda la oportunidad de anticipar la apertura de las escuelas, ya de por sí procedente en semáforos verdes, si se vacuna al personal educativo, en particular el personal que está directamente con los y las estudiantes, las mentoras, los mentores, los maestros, las maestras.
+Y este es el otro eje de priorización que tendrá esta representación en el personal educativo en estos estados. Conforme vayan apareciendo otros estados en semáforo verde también serán sujetos de esta intervención. Y así lo iremos comunicando diariamente de acuerdo a los avances de esta muy positiva nueva etapa de control epidémico, sin olvidar que la epidemia no se acaba de un día para otro, seguiremos durante varias semanas trabajando con la idea de que en el informe técnico presentaremos la realidad de la epidemia y también el avance de la vacunación.
+Abramos a preguntas y respuestas, Blanca Valadez, compañero, usted está pendiente, démosle la palabra a Blanca y enseguida sigue usted, luego nos vamos con Daniela Pastrana.
+---
+PREGUNTA
+Qué tal, muy buenas noches a los dos.
+Doctor, justamente una vez que se descongelan las vacunas y tienen un periodo de vida, como comentaba, más o menos de seis horas para aplicarse, nosotros pudimos constatar que en la zona militar de Chivatito no llegó el grupo de médicos que se esperaban.
+En esos casos ¿qué estrategia tienen para que no se echen a perder las vacunas dirigidas justamente a este sector prioritario?, ¿qué es lo que se hace?
+Y esto supongo que se puede replicar en otros estados. En este día yo creo que fue por una cuestión festiva, la verdad no tengo idea, pero ¿qué estrategia se estaría haciendo en eso?
+Y también preguntarle si realmente ya está fuera de peligro la persona que tuvo una reacción alérgica a la vacuna.
+Y en caso de que suceda una discapacidad, por ejemplo, que se puede dar, como ustedes ya nos habían comentado, ¿quién se haría responsable directamente de los gastos o de la situación que sucede en estas situaciones?
+Y ya nada más, por último, si ha recibido denuncias de gente que se ha metido o saltado la fila.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Blanca. Todos estos elementos son de importante interés público.
+Comentemos el primero, lo que comenta y pregunta Blanca Valadez, de Milenio, es la situación en la que pudiera no complementarse la cantidad de personas programadas para vacunarse y que en el termo o en la caja de congelación permanezca todavía producto útil.
+Distingo estas dos porque el manejo es diferente. Si en la caja de ultracongelación permanece producto útil no pasa nada, sencillamente se mantiene empaquetado, se puede quedar durante toda la noche, un día más o un día más, tan pronto se le mantenga abastecido de hielo seco al contenedor y se haya mantenido estable la temperatura. Esta temperatura la monitoreamos con un dispositivo electrónico precisamente para estar seguros que no varía la temperatura más allá de lo permitido.
+En cambio, si ya está descongelada y está en las viales de vidrio, las ampolletas de vidrio, que son de cinco dosis sí puede ser inconveniente que no haya las personas que se tienen que vacunar.
+Esto nos ocurrió en uno de los días del periodo de fin de año, justamente en la estación Chivatito y entra en funcionamiento la previsión del respaldo, esta es una previsión que se contempla en el diseño logístico del operativo.
+En este caso concreto, lo que se hizo es vacunar a un número mayor de personal, también de salud, y otro personal de primera línea de trabajo de las Fuerzas Armadas y de la Marina, porque no puede uno dejar que se desperdicie el producto.
+Dio un desbalance relativo respecto a la representación proporcional que tiene cada institución de salud en la distribución del biológico para esta etapa uno que va dirigida a personal de salud, misma que se compensó con el día siguiente de vacunación y ya están ahorita equilibradas todas las instituciones de salud, pero esto es lo que se hace.
+En los siguientes días de vacunación se hará lo mismo, se abastece a las unidades de una dotación adicional, también en el sentido de que no se queden personas sin vacunar, es decir, se contemplan los dos extremos, que falten personas o que falte biológico, de modo que se compensen las dos cosas y siempre haya equilibrio; pero no se ha desperdiciado ninguna dosis y estamos muy conscientes de que es importante cuidar al máximo el biológico.
+---
+INTERLOCUTORA
+Y si se considera a la misma población en el caso de…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, dependerá de cada lugar de vacunación. En este momento hemos utilizado cuatro sitios de vacunación en estaciones militares en Coahuila, nueve en la Ciudad de México y una en Monterrey, este segundo embarque tendrá la misma distribución.
+La próxima semana, cuando tengamos el embarque más grande ya tendremos un número mayor de puntos para continuar con las otras entidades federativas que estarán involucradas.
+¿La segunda pregunta?
+---
+INTERLOCUTORA
+Sobre el caso de la doctora.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. El caso de la doctora, nuestra compañera médica internista de Coahuila que está hospitalizada en este momento en Monterrey, que ayer informábamos con considerable detalle y lo informamos durante el fin de semana, es el primer caso registrado en México de una reacción grave secundaria o presuntamente asociada con la vacunación.
+Como comentábamos ayer, el doctor Ruy López Ridaura y el doctor Víctor Borja explicaban el detalle técnico, el detalle médico, se trata de un caso de encefalomielitis posiblemente asociada a la vacunación. Están en curso todavía varios estudios, diagnósticos, de imagen y serológicos que serán importantes para llegar a la resolución diagnóstica.
+Es muy importante llegar al dictamen diagnóstico no solamente para facilitar el restablecimiento de la salud de nuestra compañera, sino también para informar el mundo entero y a México mismo sobre el comportamiento del producto.
+Yo digo que es temprano, no nos anticipemos a si va a haber o no secuelas, deseamos que no las haya. La recuperación ha sido muy positiva, respondió muy bien a un procedimiento que se llama plasmaféresis en donde se intercambia el plasma propio, el componente líquido de la sangre por plasma de donadores y es un procedimiento ya muy establecido que se usa cuando existen reacciones de hipersensibilidad u otras reacciones mediadas por complejos inmunes.
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No adelantemos vísperas, vamos a ver, hasta el momento el Instituto Mexicano del Seguro Social en el cual ella labora y al cual desde luego es derechohabiente se está haciendo cargo de todos los gastos.
+¿Y el tercero?
+---
+INTERLOCUTORA
+Si ha habido denuncias de gente que está…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No nuevas. Esta mañana comentaba el presidente en lo que ya sabíamos y que fue motivo de un castigo que nos interesó mucho que fuera ejemplar de un compañero médico, lo lamentamos mucho, pero su conducta fue completamente inapropiada en el Estado de México, como ya se conoció, que efectivamente se saltó la fila en el sentido de que llevó a su familia y que además no necesariamente era una persona considerada en la lista como personal de prioridad, por el hecho de que no estaba en unidades COVID directamente atendiendo a pacientes COVID.
+Entonces, debe quedar muy claro para todo el personal de salud ahora y en próximas fechas para toda la población: el orden de uso de la vacuna corresponde a un plan técnico que ha sido cuidadosamente diseñado y evaluado por personas expertas, nuestro grupo técnico asesor de vacunación está conformado por 22 personas de altísima competencia científica y técnica, no solamente en el campo de la salud, sino en otros aspectos, por ejemplo, la bioética. Entonces, este plan debe ser respetado escrupulosamente.
+Es de obvia resolución por razones éticas, por razones de justicia distributiva, por un principio básico de honestidad, nadie debe saltarse la fila porque le está privando de oportunidad a alguien que sí está contemplado se vacune en ese momento.
+Ya no hemos tenido nuevas denuncias o nuevos casos registrados. Si ocurrieran van a ser sancionados, no hay duda alguna.
+Y, como decíamos también en la mañana, existimos personal de salud, por ejemplo, nosotros que no estamos en unidades clínicas COVID, no tenemos por qué ser vacunados en este momento y no vamos a ser vacunados en este momento hasta que nos corresponda por nuestra condición de salud o nuestra condición de edad.
+Gracias.
+Hans Salazar, por favor.
+---
+PREGUNTA
+Gracias. Doctor, muy buenas tardes-noches. Hans Salazar, de Noticiero en Redes.
+En este tema, por supuesto que es el prioritario el de la vacuna, ya supongo que han estado creando los protocolos mismos por la propia situación de, por ejemplo, Pfizer, la refrigeración, la temperatura.
+¿Y qué ocurre -porque hay una preocupación también, todo esto se recoge obviamente en torno a la preocupación de la sociedad lo que voy a plantearle- con los envases que se desechan?
+Obviamente, también el tema de una jeringa y eso, pues creo que es más común, por supuesto en el tema de un manejo médico, de salud, de enfermería, pero ¿qué pasa con los envases para que no se mal use?, porque la verdad es que ya conforme hemos vivido toda esta situación y abuso de la gente, que eso es lo peor, hay ese punto.
+El otro punto, de una vez le voy a plantear así rapidísimo. Usted ya ha mencionado el tema de las alergias en torno a esto; de hecho, se está haciendo revisiones de reacciones y todo esto. No sé si usted ya lo ha mencionado el tema de las alergias a sulfas, penicilina y todo esto, la preocupación es en torno a esto por la situación.
+También se ha dicho o se ha comentado respecto a la vacuna por parte de nuestros migrantes. Digo, estando ya en otro país por supuesto que tiene que haber el tema del otro país, en este caso la mayoría está en Estados Unidos; sin embargo, yo le preguntaría ¿hay algún diálogo, algún tipo de plática entre países para poder atender?, porque hay mucha preocupación por parte de ellos.
+Y principalmente la verdad es que por ejemplo ahí quedaría. Yo veo que un problema delicadísimo por parte de nuestro gobierno para estar al pendiente, creo que es sumamente difícil pues la gente que está allá, nuestros migrantes y que no tienen documentos, por ejemplo. ¿Qué va a pasar ahí?
+En fin, son temas muy específicos que yo le plantearía doctor, no sé qué podría comentarme al respecto.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto, gracias, Hans Salazar del Noticiero en Redes.
+Empiezo por la última pregunta, nuestros compatriotas, las personas migrantes. Efectivamente, existe una amplísima población migrante de corto plazo o de largo plazo, algunas personas que llevan años establecidos con residencia permanente, por ejemplo, en los Estados Unidos es el sitio más importante de afluencia de personas migrantes de origen mexicano, millones, millones, varios millones y aquellas personas que no tienen documentación les cuesta mucho trabajo conseguir servicios de salud.
+Existen algunas organizaciones civiles que se encargan precisamente de facilitar este proceso de identificación de necesidades y vincularlos con distintas organizaciones proveedoras de servicios de salud.
+Yo personalmente colaboré por 10 años con una de estas organizaciones que estando en Estados Unidos justamente vinculaban a personas migrantes con distintos servicios de provisión de salud, algunos por organismos no gubernamentales en Estados Unidos, otros por organizaciones no lucrativas, etcéteras y una de ellas son las Ventanillas de Salud.
+Y Ventanillas de Salud es un programa del Gobierno de México que opera en Estados Unidos en los 50 consulados de México en Estados Unidos.
+Este programa fue establecido en 2002 en una colaboración de la Secretaría de Salud con la Secretaría de Relaciones Exteriores, lo financia la Secretaría de Salud y lo opera la Secretaría de Relaciones Exteriores con la asistencia técnica de las Secretaría de Salud a través de los consulados.
+La manera en que funciona es: en los consulados de México en Estados Unidos se contratan servicios diversos, mayormente son precisamente estos mecanismos no gubernamentales, que establecen módulos a veces de una, dos, tres o más personas profesionales de la salud que principalmente se dedican a actividades de prevención.
+No son consultorios, debe quedar muy claro, no son consultorios, pero sí son unidades de prevención, detección temprana de síntomas, orientación sobre el diagnóstico de enfermedades, canalización o referencia a unidades de atención, entre otras cosas.
+Se ha estado viendo por parte de la Secretaría de Relaciones Exteriores si existe la posibilidad de tener una cooperación del gobierno de Estados Unidos o de alguna organización social de la que se pueda obtener vacunas para nuestros connacionales en Estados Unidos.
+---
+INTERLOCUTOR
+¿Pueden ser ONG?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Pueden ser ONG, sí, sí, definitivamente pueden ser ONG y eso facilitaría la posibilidad de allegar de las vacunas a nuestros compatriotas en Estados Unidos. Hasta el momento eso no se ha logrado y hay una razón de mucho peso que en este momento son los gobiernos nacionales los que están coordinando la vacunación en sus territorios.
+En ese sentido debe de quedar claro que la vacuna que compra el Gobierno de México no puede ser transportada hacia Estados Unidos, no puede ser por múltiples razones legales, de regulación sanitaria, etcétera, pero si se lograra este acuerdo para que ya sea ONG o el propio gobierno de Estados Unidos en su momento pudieran donar o dar o conceder vacuna que pueda ser administrada en las ventanillas, ese sería un mecanismo.
+---
+INTERLOCUTOR
+¿Lo vería viable, disculpe doctor, por el tema de la vía diplomática?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, es la Secretaría de Relaciones Exteriores la que está buscando este empeño.
+---
+INTERLOCUTOR
+Gracias. Y de los envases.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Envases, el tema de los envases en algún momento hace muchos meses se habló del tema de bioseguridad cuando se tienen, se usan masivamente dispositivos de salud, en meses atrás se hablaba respecto a las pruebas, los residuos de las pruebas rápidas, por ejemplo.
+Ahora, referido a los envases identifico dos inquietudes:
+La primera es la seguridad biológica de la población. En esta existen lineamientos normativos muy claros sobre la disposición de lo que se llama técnicamente Residuos Peligrosos Biológico-Infecciosos, RPBI. Existen protocolos técnicos definidos para pronta identificación de las personas, que seguramente lo habrán visto a lo mejor en aeropuertos, a lo mejor en hospitales, hay unas cajas de color rojo, necesariamente son de color rojo, de acrílico duro, que tienen una ventanilla por la que sólo puede entrar jeringuillas o material de vidrio, pero ya no puede salir.
+Esas cajas deben ser recolectadas y se contratan a compañías especializadas para ello y cada institución es responsable de contratarla, el operativo actual considera la disposición y estas cajas son incineradas a alta temperatura para destruir por completo, no solamente el material biológico potencialmente infeccioso, sino el propio material de vidrio, de plástico o de acero con el que están hechos estos materiales.
+Ahora, la segunda inquietud, y quiero aprovechar para mencionarla, y también tiene que ver con las alertas sobre fraude que de cierta manera aludía Blanca Valadez, es la falsificación.
+Hoy detectamos dos incidentes, uno lo detectó la Secretaría de Salud de Quintana Roo y nuestra muy querida colega, la maestra Alejandra Aguirre Crespo, secretaria de Salud de Quintana Roo, emitió un aviso, fue notificado Cofepris sobre posible falsificación de personal, personas que se presentaban en Quintana Roo como brigadas de vacunación.
+Hasta el momento no hay brigadas de vacunación en Quintana Roo para la vacuna de Pfizer o para ninguna vacuna contra el COVID y se presentaban a hacer visitas casa por casa diciendo que venían a recolectar datos para preparar la vacunación.
+No es el caso, toda la población sepa: no debe haber personal que se identifique como Pfizer o personal de las compañías de vacunación que producen vacunas haciendo visitas casa por casa porque no tiene atribuciones para hacerlo ni propósito para hacerlo. Entonces, esto hay que denunciarlo, es un fraude potencial.
+La segunda cosa que identificamos fue una dirección electrónica, que se las voy a leer, que es una falsificación de una página de Pfizer precisamente. No es responsabilidad de Pfizer, agradecemos a Pfizer México, quien nos alertó muy oportunamente en Cofepris sobre este potencial fraude y la página es: www.pfizermx.com, esta dirección es una dirección apócrifa que no corresponde Pfizer México y estamos haciendo ya las acciones para inactivarla y desde luego investigar y perseguir el presunto delito de fraude y los que correspondan.
+Cuidado con eso y aparece un teléfono en esta página, todavía está activa, pruébenla, y muestra un teléfono de supuestos pedidos de vacuna. Recordamos que no hay pedidos de vacuna. En México no hay autorización de venta de vacuna, hasta el momento ninguna autorización de venta de vacuna; si alguien pretende venderle vacuna contra COVID está cometiendo un fraude y está poniéndole en riesgo.
+---
+INTERLOCUTOR
+Ya ha hablado del otro punto que le comenté respecto a la alergia, ya usted ha mencionado y todo esto, porque la preocupación por la reacción del presunto caso que se ha presentado.
+Sin embargo, no sé si pudiera especificar en torno a las penicilinas a sulfas ¿Cómo van a ir informando en todas estas reacciones puntualmente para que haya confianza y que la gente no tenga que ver al respecto?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Así es. Hasta el momento no hay una ninguna contraindicación absoluta de uso de la vacuna que actualmente estamos utilizando que es la Pfizer-BioNTech. Distinguimos en medicina contraindicaciones absolutas, nadie debe ponérselas si tiene determinada condición de contraindicaciones relativas, se puede usar, pero hay que tener una precaución especial de saber que la persona tiene cierta condición de salud, por ejemplo, las alergias.
+En este momento, de acuerdo al expediente científico de Pfizer, mismo que fue evaluado por agencias regulatorias de alto rendimiento como la FDA, de Estados Unidos, y después por Cofepris y con base en ello se le confirió la utilización de uso de emergencia, no establece contraindicaciones absolutas, pero sí la alergia grave es una contraindicación relativa y justamente parte de las precauciones incluyen si una persona se conoce con alergia grave no la renitos alérgica que muchos padecemos, sino alegría grave, porque a sulfas, o por ejemplo a otros medicamentos o alimentos debe quedar eso documentado para tener un cuidado especial de las personas.
+Aun así, dentro de conjunto de personas con alergia no existe un porcentaje grande de reacciones adversas graves. Hasta ahorita han sido casos puntuales que se han reportado en algunos países.
+Lo que vamos a estar haciendo periódicamente es actualizar el informe mundial desde luego también el del país, pero el informe mundial, desde luego, también el del país, pero el informe mundial sobre reacciones alérgicas graves para conocimiento del público.
+Gracias, Hans Salazar.
+Daniela Pastrana y nos seguimos aquí con Juan Carlos Machorro y Alejandro Alemán.
+---
+PREGUNTA
+Gracias, doctor. Buenas noches.
+Tengo algunas preguntas. Una sobre la logística de la que hablaba hoy en la mañana el presidente, que decía que se iban a entregar, se iban a distribuir en los 10 mil centros de estos integradores y le quería preguntar si esto está pensado que se distribuyan ahí estas vacunas de Pfizer por el asunto de que son centros que están destinados a comunidades lejanas y que, bueno, tienen este tema de la ultracongelación. Entonces, si nos puede ampliar un poco cómo están diseñando esa parte.
+Luego, nosotros publicamos hoy un trabajo sobre la escasez de anestésicos y de oxigenación en los hospitales de la Ciudad de México, este asunto que les están pidiendo que consigan propofol y mirasan.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Midasolan.
+---
+INTERLOCUTORA
+Exacto. Entonces, dos cosas:
+Una, si hay algún plan alternativo para la escasez de estos (inaudible) que entiendo que es un tema de varios países.
+Y en el caso de los tanques de oxígeno, alguna forma que la gente pueda saber, porque ha habido muchos fraudes también a las personas que están buscando tanques de oxígeno, si hay alguna forma en que se pueda la gente saber dónde tiene que… Si está certificado o cómo pueden saber si hay páginas oficiales donde puedan conseguir oxígeno.
+Y una última que es si tiene una actualización de medicamentos que se pueden utilizar, porque el miércoles pasado en la conferencia del IMSS, Zoé Robledo hablaba de un kit que les están dando a los pacientes, bueno, en atención temprana a todos los pacientes y hablaba de ivermectina.
+Entonces, quería saber si ustedes han actualizado o hay una actualización de los medicamentos que se están usando en la atención temprana, porque, bueno, ese es un tema que ha sido permanente constante de muchos médicos que hablan de la necesidad de aplicar algunos medicamentos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con mucho gusto. La primera pregunta mejor no se la respondo porque si no, no me va a dar tiempo de responderle las otras y hay varios elementos que nos interesa compartir sobre el diseño logístico del operativo de vacunación.
+Baste por ahora comentar, reiterar: todo el territorio mexicano va a ser candidato a recibir la vacuna con el mismo grado de prioridad, el orden de aparición sólo depende del tercer eje de priorización que es el control epidémico, pero las 32 entidades federativas son prioritarias.
+Ahora, dentro del territorio distinguimos una secuencia de tres localizaciones:
+Comunidades rurales dispersas donde reside aproximadamente tres millones de personas mayores que será el sitio de arranque de la vacunación.
+Después hay otra zona, que son zonas urbanas, pequeñas y medianas, donde reside cerca de unas cuatro millones o cinco millones de personas adultas mayores.
+Después está el resto de las personas adultas mayores hasta completar cerca de 12 millones 500 mil, son mayores de 60, 60 y más, en zonas metropolitanas: la Ciudad de México, Guadalajara, Nuevo León y otras, Veracruz, varias otras.
+Entonces, lo vamos a hacer en esa secuencia, vamos a empezar de la periferia al centro para ir cubriendo las zonas de más difícil localización. En estas zonas de más difícil acceso participará ampliamente el programa social de Siervos de la Nación, los centros integradores que, efectivamente, son 10 mil puntos, los Siervos de la Nación son 30 mil personas trabajadoras y también participarán las distintas unidades de salud que estén en las localidades.
+¿Todo bien? Perfecto. No se asusten, es que hubo un pequeño ruido aquí.
+Entonces, esto es lo que haremos, pero les vamos a ir dando detalles, vamos a traer unas diapositivas, vamos a mostrar la localización, etcétera.
+Tratando de atender en los pocos minutos que nos quedan, y quedará pendiente Juan Carlos y Alejandro, los otros elementos que están fuera de COVID, pero son de importancia, algunos tienen que ver con COVID.
+Los distintos medicamentos que se utilizan para anestesiar a las personas, para sedarlas durante el periodo en que están intubadas, algunos son relajantes musculares, algunos son sedantes, algunos son hipnóticos, son distintas clases de medicamento, que en el mundo entero se han usado en cantidades nunca antes vistas en el mundo entero, hay una sobre, sobre, sobredemanda. Naturalmente las compañías que los fabrican, estos medicamentos, no se han dado abasto para satisfacer esta demanda mundial, incluido México.
+Entonces, efectivamente, durante varias semanas, aproximadamente de mitad de noviembre a mitad de diciembre tuvimos escasez en México y para resolverlo convocamos a un grupo técnico, a un grupo médico constituido por 12 personas algunas de ellas presidentes y presidentas de los colegios profesionales, ya sea regionales o nacionales de anestesia y medicina crítica.
+Aprovecho para agradecerles, vamos a traer una lista de quienes participaron para agradecerles muy formalmente, porque nos hicieron un gran beneficio al aportarnos sugerencias, recomendaciones profesionales sobre cómo sustituir estos medicamentos con otros igualmente efectivos, en algunos casos más modernos que podían ser adquiridos y que no están en tan alta demanda.
+Entonces, por el momento esto se solucionó ya desde el año pasado.
+Usted me comentaba ayer que en algunos casos hay personas a las que en instituciones públicas se les sigue pidiendo a la familia: ‘Ve y compra propofol’, ‘ve y compra midasolan’. Esto no debe ocurrir porque ya no hay desabasto.
+Entonces, alerta a la población. Si en la unidad de salud donde están atendiendo a su paciente le dicen: ‘No tenemos propofol, no tenemos midasolan, no tenemos alguno de estos medicamentos’ y le dicen: ‘Vaya usted y cómprelo en la farmacia’, denúncielo, alértelo, porque no debe ocurrir.
+¿Dónde hacerlo?
+En las zonas del hospital que están exprofeso para ello, trabajo social, el buzón de quejas, el teléfono de quejas del órgano interno de control, etcétera.
+Eso respecto a los fármacos y…
+---
+INTERLOCUTORA
+Oxígeno.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Oxígeno, respecto a oxígeno usted me ha dado una muy buena idea que me la comentó ayer y lo vamos a concretar, todavía no he tenido esa conversación con el procurador del Consumidor, Ricardo Sheffield, que viene aquí todos los lunes al quién es quién en los combustibles, y vamos a pedirle si es tan amable de orientarnos a ver si puede haber un quién es el quién en el oxígeno.
+Lo podemos invitar, con mucho gusto lo podemos invitar, ojalá que él quiera y lo pueda venir y que nos hable de quién es quién en el oxígeno. Ha habido abusos, abusos descomunales de sobreprecio de oxígenos, tanques, reposición de tanques, concentradores de oxígeno.
+Esto es inmoral, nos parece completamente abusivo y hemos detectado que se han sobregirado precios por 10 o 20 veces el precio establecido, el precio regular.
+---
+PREGUNTA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a traer a Sheffield a ver qué nos dice, no tengo la información detallada, pero sabemos que hay estos abusos.
+Por el momento, y mientras viene el procurador Ricardo Sheffield, 55 56 88 722, 55 56 88 722 quien tiene más de 30 años sabe de qué hablo, había una famosa cancioncita para recordar, el número del consumidor es el mismo que desde esos tiempos, 56 88 722, denunciar es útil, permite a la Procuraduría Federal del Consumidor actuar, investigar y en su caso sancionar, ya ha habido sanciones a distribuidores de estos equipos por cometer estos abusos.
+Gracias, Daniela, por los comentarios y las sugerencias. Gracias a todas ustedes, gracias a todos. Queda pendiente Alejandro y Juan Carlos. Son las 20 horas con un minuto, 5 de enero. La epidemia sigue, la vacuna avanza y debemos mantenernos atentos a esto para lograr proteger a todas y todos.
+Muchas gracias.

@@ -3,6 +3,7 @@ Presidencia de la República
 10 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas en punto del viernes 10 de julio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el ya no tan nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico con los componentes diarios y nos vamos a enfocar a tres estados, vamos a incluir ya a más estados por día para que nos dé tiempo de darles una revisada aquí públicamente, nosotros los revisamos diariamente, pero para presentar públicamente un paquete más amplio de estados.
 Posteriormente, el doctor Ruy López Ridaura, director general del Centro Nacional de Programas Preventivos y Control de Enfermedades, Cenaprece, va a presentar justo lo que ayer comentábamos -estimada Araceli Aranday, de Canal Once- es qué pasó en el Consejo Nacional de Salud y cuál fue la resolución respecto a este programa de atención comunitaria del COVID. Bienvenido, Ruy.
 Ahora presentaré yo el informe técnico y quiero anticipar cuál es el sentido de este informe técnico. En una frase, el mensaje es de preocupación, de preocupación por lo que está ocurriendo en el nivel subnacional y la situación que se verifica en algunos casos que ya habíamos alertado desde el inicio.
@@ -124,6 +125,7 @@ Ahora, el doctor Ruy López Ridaura nos va a presentar algo que es positivo, por
 Doctor Ruy López Ridaura.
 ---
 RUY LÓPEZ RIDAURA, DIRECTOR DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Muchas gracias doctor López Gatell. Buenas noches. Es un placer estar aquí y gracias por la oportunidad de poder comunicar este acuerdo que tuvimos hoy o que se tuvo en el Conasa.
 Yo no soy participante del consejo, pero el Consejo Nacional de Salud tuvo a bien hacer un acuerdo de articulación en varias de las iniciativas que ya se tenían en varios estados, entidades, con también un esfuerzo que también llevamos algunas semanas desde la federación tratando de generar unos lineamientos que articulen estas iniciativas.
 Iniciativas como las que ustedes ya conocen, se presentó aquí ya hace algunas semanas, la iniciativa de la Ciudad de México, y no solamente la Ciudad de México ha tenido este abordaje de tratar de reforzar la acción de detección y seguimiento en la comunidad, sino también muchas otras entidades que también durante la sesión de la Comisión de Salud Pública del Conasa tuvimos oportunidad y en otras reuniones que hemos tenido con algunas entidades federativas de conocer experiencias como la de Michoacán, como la de Tlaxcala, y muchos otros estados, Campeche, como mencionó el doctor López-Gatell.
 ¿De qué se trata?, ¿por qué le estamos dando este peso?
@@ -167,11 +169,16 @@ Nada más una cosa aquí importante es que también estamos colaborando con vari
 Para terminar, publicamos estos lineamientos, bueno, están pronto a ser publicados, estamos compartiendo con los estados, recibiendo comentarios de los diferentes estados, tratando de enriquecerlos para que ya empezamos desde la próxima semana con estrategias de capacitación, reforzamiento, contratación de personal, compra de insumos para poder hacer realidad esta estrategia que creemos que es fundamental, especialmente en estos escenarios de reapertura en donde la transmisión comunitaria puede incrementarse y tenemos que tener esta acción mucho más temprana para disminuir los tiempos desde el inicio del síntoma hasta la hospitalización y así tener muchas más oportunidades de tener una atención médica efectiva y, como dije al principio, salvar vidas.
 Esto sería todo, doctor López-Gatell.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Nos queda espacio para una pregunta, por quinta vez se la vamos a deber a Arturo. No, porque Aracely ya preguntó sobre esto. Arturo, por favor, adelante, sólo va a dar tiempo de una pregunta. Son las 19:58.
+---
 PREGUNTA
+Hola, buenas noches. Arturo Contreras, de Pie de Página.
 Una publicación hoy en la revista Nature emite recomendaciones para hacer pruebas por grupos para eficientar precisamente, recursos, y eficientar pruebas, que no tomen tanto tiempo en hacerse y que se hagan menos pruebas, sobre todo para países en los que no se tiene la capacidad de contratar tantas por sistemas de salud enflaquecidos.
 Entonces, no sé si este tipo de pruebas se vayan a ocupar en este tipo de brigadas y cómo se harían, cuáles son las semejanzas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. Gracias, Arturo Contreras, de Pie de Página.
 Es una pregunta muy oportuna porque tiene que ver exactamente con lo que acaba de explicar el doctor López Ridaura.
 Esto es un desplazamiento comunitario, el planteamiento y desde este tempranísimo momento, lo vuelvo a dejar en claro, no lo va a operar el gobierno federal, el diseño lo hicimos con el Insabi, Instituto de Salud para el Bienestar, con la Organización Panamericana de la Salud y con la Secretaría de Salud, y lo hemos planteado por unanimidad, fue aprobado por el Consejo Nacional de Salud donde están los 32 secretarios y secretarias de salud, y también el IMSS, el Issste, Pemex, Sedena, etcétera, pero lo tienen que operar en los estados y es un desplazamiento comunitario.
 Y el planteamiento, como dijo el doctor López Ridaura, incluye, no solamente los recursos de las secretarías de salud, sino la capacidad de movilizar otros recursos de trabajo comunitario.
@@ -180,6 +187,23 @@ Regresando a su pregunta, Arturo, para que este programa funcione verán que es 
 Si sale negativo, ya no hay que hacer ninguna más prueba; si sale positivo, con otra muestra en espejo, otra copia de muestra, alguna de esas cinco personas es positiva, una o más, puede ser la cinco, cuatro, tres, dos o sólo una y eso permite que se haga más eficiente el diagnóstico. La eficiencia no es solo un asunto de recursos, es también financieros, es también asunto de tiempos.
 Este procedimiento se conoce desde hace mucho tiempo en los años 90 cuando interesaba expandir la capacidad diagnóstica para la epidemia de VIH-sida, se empezó a ensayar estos modelos, se hicieron con éxito, por alguna razón difícil de explicar, porque no es solamente técnica, se abandonó este procedimiento y aunque se ha hecho esporádicamente no goza de gran popularidad. Es un momento de oportunidad porque hoy lo podemos hacer para una pandemia como la pandemia de COVID y efectivamente es lo que estamos planteando hacer.
 ---
+PREGUNTA
+Es PCR.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es PCR, es lo mismo, PCR. La única diferencia es que, insisto, se concentran las muestras de cinco personas. Si sale negativo, las cinco personas son negativas; si salen positivo, ahora hay que hacer un segundo ciclo de pruebas para cada una de las cinco, pero como verán, dado que la mayoría van a salir negativas, entonces implica mayor eficiencia en el diagnóstico.
+---
+INTERLOCUTORA
+… la próxima semana, doctor.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Empieza el proceso de implantación la próxima semana, ese fue el acuerdo del Consejo Nacional de Salud y depende de que vaya implantándose; la Ciudad de México ya lo tiene, es un programa muy, muy parecido.
 Muchos otros estados, he reconocido que prácticamente todos tienen algo parecido, pero hay que armonizarlo en una sola metodología nacional.
 20:03, ya no nos da tiempo de tomar otra pregunta.
+---
+PREGUNTA
+Nada más para la gente, si el mapa va a seguir igual, si el semáforo va a seguir igual, porque…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No va a seguir igual, mañana les doy noticias de lo que resolvimos sobre el mapa.
+Gracias.

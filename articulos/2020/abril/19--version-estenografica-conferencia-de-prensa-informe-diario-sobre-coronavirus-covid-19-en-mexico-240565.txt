@@ -3,6 +3,7 @@ Presidencia de la República
 19 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 horas del domingo 19 de abril de 2020. Estamos en el Palacio Nacional de México y vamos a iniciar la conferencia de prensa diaria sobre la situación epidemiológica del nuevo coronavirus, SARS Cov2, que causa la pandemia de la enfermedad COVID.
 Hoy vamos a tener tres elementos:
 Uno es el informe técnico que presentaré a continuación.
 También nos acompaña nuevamente el doctor Gustavo Reyes Terán, que todos recordarán que el doctor Gustavo Reyes Terán es el comisionado coordinador de los Institutos Nacionales de Salud, además de ser un investigador nacional del más alto nivel, especialista en enfermedades infecciosas, él es infectólogo.
@@ -70,6 +71,7 @@ Gracias.
 Doctor Reyes Terán, por favor.
 ---
 GUSTAVO REYES TERÁN, TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
+Buenas noches y muchas gracias, doctor Hugo López-Gatell.
 Quiero presentarles… sólo para recordarles de la atención médica a los pacientes con COVID. Saben bien, los pacientes con síntomas leves o moderados el aislamiento domiciliario es el tratamiento que debe darse y con las medidas de salud pública que hemos insistido y repetido una y otra vez.
 Me voy a concentrar en la otra parte de la gráfica, en los pacientes con síntomas graves. Voy a dividirlos en dos:
 Los pacientes no críticos, que no requieren una unidad de terapia intensiva, sino una sala de hospital, generalmente tienen requerimientos de oxígeno para mantener la buena función de sus órganos y generalmente también tienen un mejor pronóstico.
@@ -83,7 +85,11 @@ El Instituto Nacional de Nutrición es el segundo hospital que fue elegido como 
 La siguiente, por favor.
 Es solamente para enfatizar en la fotografía. Esa es la unidad fundamental de una terapia intensiva, es el paciente muy grave en estado crítico. Debe haber ventilador, monitor, bombas de infusión, ultrasonido laringoscopio, etcétera y todo protocolizadamente para poder tratar a un paciente en estado crítico y muy, muy importante, personal médico y de enfermería altamente capacitados para la atención y para el manejo de los equipos y de toda la infraestructura dentro del cuarto de esta unidad fundamental de la terapia intensiva.
 ---
+PREGUNTA
+Perdón, doctor. ¿Desarrollan hemodiálisis o por qué la máquina?
+---
 GUSTAVO REYES TERÁN
+En un porcentaje bajo de pacientes hay falla renal, falla de la función renal y entonces es importante que dentro de una unidad de terapia intensiva se cuente también con los equipos para utilizar la hemodiálisis en el caso que sea necesario.
 Muy bien. La reconversión hospitalaria en estos hospitales que les nombré. Voy a aprovechar para agradecer a los directores generales, y no solamente a los directores generales, sino también a los directores de área, sobre todo a los directores médicos, los directores de enseñanza, los directores de administración, sobre todo el personal médico y muy particularmente a los médicos residentes de los hospitales COVID que están atendiendo directamente a cada uno de los enfermos en estado crítico y que han sido capacitados para poder utilizar los equipos de protección personal, y obviamente altamente calificados y capacitados para dar la mejor atención clínica, la atención médica a los pacientes con COVID-19.
 No solamente a ellos, también al personal de enfermería que ha sido fundamental y que diré de una vez de que nos hacen faltan más enfermeras, más enfermeros para poder cubrir apropiadamente en varios de nuestros hospitales que aún se están reconvirtiendo para tener una mayor capacidad de esa unidad fundamental que es el cuarto o la cama de terapia intensiva.
 Les muestro aquí los datos que tenemos hasta este momento. En las camas de terapia intensiva totales disponibles con esa unidad fundamental son 526 y aumentando, el martes recibiremos 150, en total 200 ventiladores y monitores, 150 de ellos se irán para los hospitales de Ciudad de México y Estado de México, repartidos en: 60 en el Hospital General de México, 50 en el Hospital Regional de Alta Especialidad de Ixtapaluca, 25 en el INER, y 15 en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, para un total de 150 ventiladores y monitores.
@@ -98,6 +104,7 @@ Y obviamente estamos en espera de los ventiladores y monitores que son fundament
 Pienso que es suficiente por ahora, Hugo. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Correcto. Muchas gracias, doctor Reyes Terán.
 Finalmente, como pueden ver, todos los aspectos de la epidemia van avanzando a un tiempo de acuerdo a las distintas fases, de acuerdo a los distintos momentos de oportunidad.
 Hoy hemos presentado, como todas las noches, el informe técnico, el informe epidemiológico donde hablamos de las personas con enfermedad, su confirmación, hospitalización, etcétera. El doctor Reyes Terán nos ha actualizado de un tema que ya habíamos tratado en varias ocasiones, que es este elemento fundamental para la fase 3, la capacidad hospitalaria producto de estos trabajos de reconversión que llevan ya varias semanas y que han permitido tener una ampliación de capacidades.
 Pero no debemos en ningún momento olvidar que todo esto es lo que le ocurre a una sociedad, lo que le ocurre a un pueblo, lo que les ocurre a personas, personas de carne y hueso que tienen vidas, que tienen aspiraciones, que tienen ilusiones, que tienen deseos, que tienen necesidades, y que junto con todos están colaborando por hacer más lenta la epidemia, haciendo un enorme sacrificio de sus vidas diarias, de sus ingresos, de su convivencia, de sus elementos de desarrollo cotidiano.
@@ -105,20 +112,24 @@ Por esta razón, el doctor Ricardo Cortés Alcalá, director general de Promoci�
 Doctor.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor López-Gatell.
 Adelante, por favor. Hemos hablado mucho de cómo ha disminuido la movilidad comunitaria, de cómo se disminuyó un 66 por ciento las compras y el entretenimiento, un 54 por ciento las visitas a los parques y un 49 por ciento en los trabajos; sin embargo, a veces los números son fríos.
 Y ahora queremos poner algunas caras, a todas las personas que se dedican al arte, la música, al comercio, la artesanía, los restaurantes, a las pequeñas empresas, a todas y a todos aquellos que saben que la salud es lo más importante y que el cuidado de todos nosotros también lo es.
-Sabemos el sacrificio que están haciendo.  Falta menos. Les agradecemos que estén en casa en esta Jornada Nacional de Sana Distancia, pero ahora más que nunca les pedimos que sigan, que sigan quedándose en casa.
+Sabemos el sacrificio que están haciendo.  Falta menos. Les agradecemos que estén en casa en esta Jornada Nacional de Sana Distancia, pero ahora más que nunca les pedimos que sigan, que sigan quedándose en casa.
 Vamos bien y vamos a terminar mejor.
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Ricardo Cortés.
 Abrimos a preguntas y respuestas. Usted, usted, usted, a usted le tocó ya hace poquito, y también a usted.
 ---
 PREGUNTA
+Gracias, buenas noches. Lizbeth Álvarez, del diario Basta, del Grupo Cantón.
 Doctor, ya estas semanas que se pidió a la ciudadanía que use cubrebocas, sobre todo en el transporte público; sin embargo, hay varias personas que traen un tipo de tela, es decir, mascadas, inclusive bufandas, no sé esto qué tan factible sea.
 Y mi siguiente pregunta es: ¿cuántas personas con VIH han muerto por COVID?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Sobre la segunda pregunta, son cinco las personas que hasta el momento tenemos registradas.
 Y el llamado que hicimos hoy es precisamente porque sabemos que no toda persona que vive con VIH tiene una depresión del sistema inmune, esto debe quedar muy claro, pero hay una proporción que sí lo tienen, porque no han entrado en control viral del VIH o tienen ya un avanzado deterioro del estado de inmunidad al momento de su diagnóstico.
 Por eso el llamado es, siempre lo hemos hecho, pero lo hacemos hoy también, a hacerse la prueba, la prueba del VIH.
 Sobre el tema de las mascadas, los cubrebocas y cualquier otro mecanismo, también, hay mascarillas, he visto a mucha gente con mascarillas transparentes. Nos parece un auxiliar útil en la prevención. Hemos dicho en varias ocasiones que el mecanismo de prevención es de que las personas que tengan COVID están excretando, están liberando virus a través de la vía respiratoria, en las gotas de saliva, en los aerosoles respiratorios, y si estos quedan atrapados en un medio físico, como pueden ser estas mascarillas, estos elementos de tela, pues es mejor.
@@ -126,18 +137,40 @@ La eficiencia de cada tipo de tela, de cada producto, desde luego, es variable, 
 Sí, por favor, doctor Reyes Terán.
 ---
 GUSTAVO REYES TERÁN
+Sobre las dos preguntas, sobre los cubrebocas, puede ser incluso contraproducente si no se utilizan bien, sobre todo si se están manipulando constantemente, si no hay un lavado de manos frecuente, entonces se puede volver como un fómite, que es un cuerpo inanimado que puede ser fuente de una infección.
 Entonces, si se va a usar cubrebocas, por favor, úsenlo bien, bien puesto, debe cubrir nariz y boca, y no debería ser manipulado en ningún momento. No es fácil mantenerlo, es difícil.
 Y sobre la pregunta sobre los pacientes con VIH, a mí me gustaría agregar que los pacientes, las personas con VIH que reciben tratamiento antirretroviral y están perfectamente bien controladas, y eso significa que su carga viral esta indetectable, sus CD4, sus células de sus defensas están dentro de lo normal, pueden tener un resultado al infectarse con el SARS Coronavirus-2 muy similar a la persona que no tiene VIH.
 Y ha ocurrido, hay por lo menos unas 10 personas con VIH que se han infectado, quizá un poco más, y que han… que están recibiendo tratamiento y que tiene controlada la infección y que han resuelto perfectamente bien la infección por el coronavirus.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Natalia Vitela, de Reforma.
+---
 PREGUNTA
+Gracias, buenas noches. Hablaban precisamente de la saturación que ya hay en hospitales de la Ciudad de México y en el Estado de México. Entonces, ¿hablan de 527 camas más, entiendo para la fase 3?
 Y ventiladores, quiero saber de dónde llegan los ventiladores.
 Y si son correctos estos datos de estas 527 camas y van a ser suficientes para la etapa 3.
 ---
 GUSTAVO REYES TERÁN
+Aclaro la cifra, las 527 camas hay en este momento disponibles totales, menos, o sea, restando a las camas ya ocupadas y son un poco menos de 100 las que tenemos disponibles, pero con las 150 que se van a agregar por la llagada de los ventiladores podríamos tener como entre 220, 250 camas más; y si logramos tener personal suficiente, esto se puede incrementar todavía más; y si logramos el plan magno de reconversión máxima, máxima, entonces podríamos hablar de cerca de 800, 900, cerca de 950 camas en total.
+---
+INTERLOCUTORA
+(inaudible)
+---
+GUSTAVO REYES TERÁN
+De los hospitales de nuestra coordinación de institutos y hospitales federales y del Estado de México sí; y contando los hospitales generales de Ciudad de México, tres: el Belisario Domínguez, el Enrique Cabrera y finalmente el Hospital General Tláhuac también.
 Y hay como cuatro o cinco hospitales más en el Estado de México que se van a agregar en esta reconversión total, sin contar las camas que se encuentran disponibles y las que se van a reconvertir o se están reconvirtiendo por parte del Instituto Mexicano del Seguro Social, del Issste, de Pemex, de la Secretaría de Marina y la Secretaría de la Defensa Nacional.
 ---
+INTERLOCUTORA
+¿De dónde llegaron los ventiladores que acaban…?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+De China.
+---
+INTERLOCUTORA
+De estos tres.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+De estos tres y faltan hasta 11 vuelos; y si hicieran falta más vuelos, más vuelos. Es decir, no se queden con ideas fijas de que hay dos vuelos y ya; si se necesitaran 100 vuelos, habrá 100 vuelos.
 Hicimos un puente aéreo, se estableció un puente aéreo con la ayuda de la cancillería, hace varios días que empezó con un primer vuelo, trajo un embarque grande de equipos de protección personal enseguida. Por eso se llama puente aéreo, porque conforme llega el avión se regresa para allá, trae más, se regresa para acá y todo el tiempo está circulando
 Y van a venir todos los ventiladores que hemos contemplado necesarios, no pierdan de vista panorámica todo lo que está ocurriendo.
 Hoy nos acompaña, y nos da muchísimo gusto, el doctor Reyes Terán, porque él ha estado al frente de uno de los elementos que fue más importante de activar tempranamente que es la reconversión de los hospitales federales, institutos nacionales de salud, hospitales federales, la enorme mayoría están en la zona metropolitana del Valle de México, un poquito más allá, el de Ixtapaluca, pero lo que interesa es que esta es una primera dotación de camas producto de la reconversión.
@@ -147,11 +180,13 @@ Ventiladores llegarán 200 en el próximo embarque que estará llegando, si no e
 Nos quedan siete minutos. Vamos a dar la palabra a usted y nos regresamos acá con usted.
 ---
 PREGUNTA
+Buenas tardes, doctor. Héctor Mireles, para el canal de Glucosa Atómica y Doctor Politécnico en Facebook.
 ¿Han considerado ustedes invitar a algún funcionario de la SEP para que nos explique a mayor detalle esto del calendario escolar, ahora que es dinámico este cambio de las fechas?, que nos explique la situación de los niveles educativos, ¿o esto se informaría en las mañaneras?
 Y una pregunta más, muy rápida. Ahora que Gobernación hizo lo propio con esta televisora que ayer le mencionaban, ¿ustedes han considerado como autoridad sanitaria levantar cargos o alguna acción porque los desacreditaron?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
 Sobre la segunda pregunta, como ya lo dije ayer, estamos enfocados en lo que tenemos que estar. Cualquier elemento que pudiera generar ruido, se irá serenando, cada cosa a su tiempo. Lo importante es que todas las mexicanas y mexicanos estemos enfocados en lo que tenemos que estar, no hay más que conversar de ello.
 Sobre la SEP, definitivamente va a venir el más importante funcionario de la SEP, que es el titular del ramo, el maestro Esteban Moctezuma Barragán. Va a venir el martes y esto es a convocatoria del presidente. Va a venir en la mañana en Pulso de la Salud y precisamente va a comentar sobre las implicaciones de las medidas de la Jornada Nacional de Sana Distancia en el ámbito educativo.
 El viernes tuvimos una conversación muy productiva en donde identificamos precisamente cómo se va enlazando esta actividad de suspensión de actividades en las escuelas que fue la primera, no lo olvidemos, fue la primera de las intervenciones de la Jornada Nacional de Sana Distancia que nos aportó inmediatamente 15 millones, más de 15 millones de personas fuera del espacio público y ha tenido un papel muy positivo esta medida.
@@ -160,32 +195,48 @@ Gracias.
 Vamos a darle la palabra a usted y yo creo que nos da tiempo de una última pregunta a la compañera de allá que nunca ha hablado.
 ---
 PREGUNTA
+Buenas noches a todos. Soy Gerardo Suárez, reportero en Heraldo de México.
 Dos preguntas. La primera es: ¿qué medidas van a tomar o por qué no se han tomado mayores medidas con cerca de 10 mil trabajadores de Capufe quienes todavía se mantienen en la operación de las casetas del país y hasta el momento ha habido 21 casos sospechosos de trabajadores, 21 casos sospechosos de COVID?
 Y bueno, reportan que tienen una escasez de equipo de protección personal y tienen ese temor, dado que ellos tienen un trato directo con los automovilistas, reciben de mano el efectivo que es la principal forma de pago.
 Y mi segunda pregunta es: de aquí al 8 o al 10 de mayo, que se espera el pico o la situación más crítica en el Valle de México, Ciudad de México y Estado de México, ¿cuántas camas para cuidados intensivos para cuidados críticos estiman tener ya de todo el sistema, es decir, tanto lo federal como lo local y los institutos como IMSS, Issste?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Lo segundo, lo estamos informando periódicamente, les recomiendo dejémoslo para el martes que justamente en la mañana vamos a tener un nuevo corte del producto benéfico de todos estos acuerdos de colaboración y elementos de coordinación con las entidades federativas, con los institutos de salud nacionales de salud, con las instituciones de seguridad social.
 Sobre Capufe, definitivamente la actividad de las carreteras, incluyendo las que son de peaje, es una actividad esencial y así fue considerada en el acuerdo del 31 de marzo como una actividad esencial que no puede parar, no debe parar porque precisamente es lo que garantiza la logística de distribución, no sólo de insumos para la salud, de todo, de toda la vida pública en el territorio nacional.
 Las medidas de protección son en general las mismas, no se requiere un equipo de protección especializado para el personal de Capufe, igual que tampoco para las cajeras del supermercado o los cajeros, tampoco para las personas que están en servicios de ventanilla.
 Se ha recomendado las medidas generales, están en los lineamientos técnicos correspondientes. En su momento fueron no solamente compartidos, sino elaborados con el conjunto de las instituciones del sector, con Secretaría de Turismo, Secretaría de Comunicaciones, Secretaría de Educación Pública, y para cada espacio físico donde hay una entidad profesional, una actividad profesional se definieron los protocolos técnicos de prevención y promoción.
 ---
 INTERLOCUTOR
+¿Se promovería una forma de pago distinto al efectivo?
 Incluso ellos han planteado en un caso extremo se levanten las plumas o algo así para prevenir la salud de…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Tendrá que revisarlo la Secretaría de Comunicaciones y Transportes de qué manera pueda encontrar un mecanismo eficiente de cumplir su función y conservar los principios de protección del personal.
 Última pregunta, colega, por favor.
 ---
 PREGUNTA
+Buenas noches, Paola Betancourt, de Multimedios Televisión.
 El día de ayer en nuestro medio se documentó el fallecimiento de un hombre por COVID-19 en la alcaldía Miguel Hidalgo. Este hombre comenzó con síntomas leves, atendió esta medida justamente de quedarse en casa y se fue agravando.
 Sus familiares refieren que llamaron a una ambulancia, pero esta ambulancia tardó tanto que ya cuando llegó pues el hombre había fallecido. Cuando llega esta ambulancia, comentó que no tenía el equipo necesario de bioseguridad para justamente trasladar el cadáver y pasaron 10 horas para que pudiera trasladarse el cadáver de este hombre, contrario a lo que se establece en la guía de manejo de cadáveres que justamente pusieron a disposición.
 También, por otra parte, no se le dio seguimiento, digamos, a los familiares de este paciente confirmado, porque de hecho le realizaron la prueba a este paciente, tenía COVID-19. No se les dio seguimiento como paciente sospechoso, según los familiares, tampoco se llevó a cabo una sanitización del domicilio.
 Mi pregunta es si tienen algún registro de cuántos pacientes están falleciendo en sus domicilios, por qué razón podría ser y bueno, si hay algún protocolo justamente para cuando se lleve a cabo estos decesos en los domicilios de las personas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Qué lamentable situación, qué lamentable por la persona que perdió la vida, desde luego por la familia que sufrió todos estos momentos de angustia y de espera.
 Esto nos lleva a insistir en lo que acabamos de decir hoy, lo hemos dicho todos los días, las personas que identifiquen que tienen algunos de los determinantes de mayor riesgo, edad mayor de 60, mujer embarazada, enfermedades crónicas, acudan a consulta, pero también las personas que identifiquen que están teniendo dificultad respiratoria.
 Hemos periódicamente recordado este fenómeno en la dificultad respiratoria, no confundir dificultad respiratoria como un fenómeno en el que siento la nariz tapada, me siento incómodo con que no puedo respirar, porque me siento incómodo. No, eso no es dificultad respiratoria.
 Dificultad respiratoria es un término médico que habla de la sensación de que es insuficiente la respiración, manifestaciones comunes de la dificultad respiratoria son fatigarse con esfuerzos mínimos, camino en el pasillo de la casa y ya me fatigué o también el respirar más aceleradamente.
 La respiración acelerada, la percepción de que la respiración es acelerada es relativamente fácil de identificar y eso habla de dificultad respiratoria, el hacer un mayor esfuerzo para respirar, tener que respirar intensamente, porque eso se percibe que no se está teniendo suficiencia del aire, incluso el desplazamiento de las comisuras de los labios por tener que aspirar con mayor intensidad, esos son signos clínicos de dificultad respiratoria, la palidez es un signo clínico de dificultad respiratoria o el color oscuro de la piel como morado, azuloso, eso es un elemento grave de la manifestación clínica de la dificultad respiratoria, el dolor de pecho puede también ser una manifestación de que se está complicando la enfermedad COVID.
 Entonces, les recordamos a todas las personas que pudieran tener COVID, aun cuando no tengan signos o factores riesgo, estas condiciones de edad, de embarazo o de enfermedades crónicas, si presentaran dificultad respiratoria es motivo suficiente para considerarlo de atención emergente a cualquier hora del día o de la noche.
 Respecto a personas que pudieran perder la vida en casa, ocurre no solamente ahora con la epidemia de COVID, ocurre con la influenza y ocurre con muchas otras enfermedades y…
+---
+INTERLOCUTOR
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No, no, quien fallezca en casa, si no es registrado, si no es notificado a los servicios de salud, no se registra evidentemente.
+Entonces, lo importante no es que registre, lo importante es que se atiendan las personas para que esto no ocurra.
+Entonces, recordamos estos signos de extrema importancia, cualquier persona de cualquier edad en cualquier condición clínica, si presentara dificultad respiratoria debe acudir a atención médica. Si tiene dudas de dónde atenderse, 911, 911 es el teléfono nacional de emergencias desde hace varias semanas, meses de hecho, par de meses, hicimos un protocolo de entrenamiento al personal del 911 para que tuvieran también la posibilidad de asesorar sobre COVID y sobre la atención.
+Entonces, si no tiene claridad de dónde le toca atenderse, tradicionalmente iba con un médico privado, y ahora está a mitad de la noche, no sabe qué hacer, llame al 911, llame al 911, esta es una urgencia y se le va a dar asesoría sobre dónde atenderse.
+Creo que es la última pregunta que nos daba. Muchas gracias, nos vemos mañana.

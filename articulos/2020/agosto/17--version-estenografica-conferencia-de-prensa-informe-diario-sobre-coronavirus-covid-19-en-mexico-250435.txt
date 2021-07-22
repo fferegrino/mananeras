@@ -3,12 +3,14 @@ Presidencia de la República
 17 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Son las 19:00 de este lunes 17 de agosto de 2020. Vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy vamos a tener, como ya es costumbre, dos elementos: el informe técnico que presentará el doctor José Luis Alomía, también nos hará mención a un aviso epidemiológico nuevo, que hoy autorizó el Comité Nacional para la Vigilancia Epidemiológica y enseguida tendremos la parte temática con una buena noticia.
 Recordarán que hemos estado hablando sobre la realización de encuestas, encuestas serológicas, encuestas sobre COVID, comportamiento, riesgo, propensión, conducta, demanda de servicios de salud, satisfacción de servicios de salud, etcétera. Esta encuesta COVID la hemos enmarcado dentro de la muy relevante Encuesta Nacional de Salud y Nutrición que desde hace muchos años realiza el Instituto Nacional de Salud Pública.
 Y para explicarnos sobre la metodología, los alcances y el enfoque, nos acompaña nuestra muy querida y respetada doctora Teresa Shamah Levy, quien es la directora del Centro de Investigación en Evaluación y Encuestas del Instituto Nacional de Salud Pública, y es una de las personas más conocedoras en encuestas de salud, ella ha sido responsable de la coordinación operativa de la Ensanut, Encuesta Nacional de Salud y Nutrición ya en sus últimas tres versiones. Bienvenida, Tere, qué gusto que estés con nosotros.
 Le pedimos entonces al doctor Alomía si es tan amable de presentar, enseguida le damos la palabra a la doctora Levy y pasamos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Muy buenas tardes, todas y todos.
 Estamos en la conferencia vespertina 171 de este día 79 de la Nueva Normalidad. Vamos a actualizar los números del escenario nacional.
 Bien, un millón, 181 mil 695 son las personas que hasta el momento se han estudiado en México por haber sido clasificadas en las diferentes unidades del Sistema Nacional de Salud como casos sospechosos de la enfermedad. Hasta este momento de detección pues todos cumplían con la definición operacional, que básicamente lo que indica es que se tenga una infección respiratoria aguda, pueden venir signos y síntomas graves o de alarma, dependiendo del estadio clínico en el cual se encuentra persona cuando demanda la atención médica.
 Hasta el momento, de este grupo, 525 mil 733 son los casos confirmados hasta el corte del día de hoy de COVID-19 en México y están representados en las barras de color café, en la parte inferior de la gráfica.
@@ -43,9 +45,11 @@ Y lógicamente reforzar la vigilancia epidemiológica para que se identifiquen c
 Serían los mensajes hasta este momento.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía.
 Le damos la palabra a la doctora Tere Shamah Levy. Adelante, doctora.
 ---
 TERESA SHAMAH LEVY, DIRECTORA GENERAL DEL CENTRO DE INVESTIGACIÓN EN EVALUACIÓN Y ENCUESTAS DEL INSTITUTO NACIONAL DE SALUD PÚBLICA (INSP)
+Buenas tardes. Con su permiso, subsecretario Hugo López-Gatell. Buenas tardes a todas y a todos.
 Yo les voy a hablar ahora de la Ensanut-COVID, que es la Encuesta Nacional de Salud y Nutrición, con el componente COVID.
 De manera muy rápida les voy a mencionar los antecedentes de esta encuesta. La Encuesta Nacional de Salud y Nutrición forma parte del Sistema Nacional de Encuestas de Salud y en 1888 y en 99 realizamos la Encuesta Nacional de Nutrición y en el año 1986 y el 200 la encuesta Nacional de Salud.
 En 2006, en un gran esfuerzo, se consolida en una sola encuesta, que es la Encuesta Nacional de Salud y Nutrición, que es la Ensanut, y a partir de 2006 hemos tenido cuatro levantamientos, 2006, 2012, entre 2012 y 2018, una de medio camino que fue la 2016 y la más reciente es la 2018 que termino en 2019.
@@ -90,6 +94,7 @@ Estaremos finalizando en la primera quincena de noviembre y a las personas a las
 Y bueno, si usted o cualquiera de su familia es seleccionado para esta encuesta, esperamos contar con su amable participación. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctora Teresa Shamah Levy, directora del Centro de Evaluación y Encuestas del Instituto Nacional de Salud Pública.
 Aprovechamos para enfatizar, como ya lo explicó la doctora Shamah, la Encuesta Nacional de Salud y Nutrición es el pilar de las encuestas nacionales de salud, existen múltiples otras encuestas relacionadas con salud y con nutrición, pero en su mayoría metodológicamente hablando gravitan en torno al sistema de la Ensanut, ya famosa que nos ha permitido por un par de décadas tener una evaluación trasversal del estado de salud que guarda el país.
 Al hacerlas continuas anuales se va a tener una evaluación más completa que nos permita hacer una comparación más frecuente del estado de salud y los cambios que tendrá el estado de salud y nutrición de la población mexicana.
 Entonces, agradecemos a toda la población que pueda colaborar. Si le visita las y los encuestadores de la Ensanut, los encuestadores del Instituto Nacional de Salud Pública de México, sepan que es para un buen fin que nos ayudará a todas y todos.
@@ -98,23 +103,28 @@ Nos han acompañado en todo el proceso desde el inicio, con asesoría científic
 Vamos a abrir a preguntas y respuestas. Vamos a empezar por un lado y el otro, aquí con Fernanda Mendoza, de Glucosa Atómica; luego nos vamos con Damián, de Política y Rock and Roll.
 ---
 PREGUNTA
+Hola, buenas tardes. Fernanda Mendoza, para el canal de YouTube Glucosa Atómica.
 Preguntarle a la doctora si pudiera compartirnos los resultados preliminares que tienen de la prueba piloto y una vez que hayan finalizado todas las encuestas cuando podrán compartirnos los resultados finales.
 Y si me permite una segunda pregunta, ¿en qué laboratorio se procesarán las muestras que se van a tomar en campo? Gracias.
 ---
 TERESA SHAMAH LEVY
+Gracias, Fernanda. Lo primero es que los resultados de la prueba piloto no los hemos procesado, pero toda nuestra información está en esa página de ensanut.imss.mx., en el momento que los tengamos ahí los subiremos.
 La información de la encuesta esperamos tenerla en diciembre o a inicios de enero. Toda la información es transparente, es pública, porque se obtiene con recursos del estado y por eso la compartimos, es para que todos la utilicen.
 En cuanto a los laboratorios, las muestras de COVID se van al Indre y una parte de validación se hace en el propio instituto de salud pública, las muestras para enfermedades crónicas se van al Instituto Nacional de Nutrición.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Shamah.
 Damián Duarte.
 ---
 PREGUNTA
+Gracias. Es Demian, con una ‘e’. Gracias, doctor. Buenas noches.
 Hoy el Instituto Nacional Electoral anunció que para el 7 de septiembre iniciará el proceso electoral del 2021. Para todos se han definido protocolos nuevos, evidentemente vamos a entrar a este proceso político en condiciones evidentemente no al 100, no nos hemos recuperado de la contingencia sanitaria.
 La primera fase del proceso electoral por supuesto implica mucha movilidad dentro de los partidos políticos, no necesariamente nos involucramos los 95 millones de ciudadanos que tenemos derecho a votar; sin embargo, es evidente que las asambleas partidistas implican altas concentraciones de simpatizantes, militantes, etcétera.
 Mi pregunta es en específico si ya se diseñó un protocolo para entrar a esta fase política, qué tipo de previsiones se tienen en particular y sobre todo pensando que no falta tanto en el 6 de junio del año que viene si también ya se tiene previsto cómo se podrá realizar el proceso electoral.
 Es un tema que, por ejemplo, quizás las elecciones concurrentes federales no interesan tanto en estados donde no se eligen gobernadores, pero en estados como el mío, que son 15, además, se va a elegir además de gobernadores, y en Sonora son 72 alcaldes; entonces, realmente, me parece que es un reto importante en materia de lo que es la seguridad sanitaria también de quienes participamos en esto. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Muchas gracias, Demián, por esta pregunta. Hace un par de días me habían hecho esta misma pregunta, y respondí lo que a continuación retomo.
 El Instituto Nacional Electoral es una organización autónoma, es un organismo constitucionalmente autónomo, de modo que su ámbito de competencia no se interpone o no se interfiere con el ámbito de las oficinas del gobierno federal, de las dependencias del Ejecutivo Federal.
 Desde luego aquí estamos ante un escenario en el que podría haber una posible tensión entre dos propósitos:
 Por un lado, uno que es fundamental para la vida democrática del país, que es lograr que haya campañas de promoción libres y también que haya una emisión del sufragio y en su momento recuento de los votos en una forma también libre, ordenada y con certidumbre.
@@ -127,16 +137,22 @@ Hemos tomado conocimiento de ello y esperamos en unas pocas horas o minutos reun
 La primera, el presidente López Obrador ha sido muy enfático en la importancia de cuidar todos los procesos electorales y también respetar la autonomía del órgano relevante, el INE, relevante para organizar y supervisar las elecciones.
 Y el diálogo ha sido tan fluido, tan armónico, tan amable que considero -esta es una opinión personal- que puede haber muchas oportunidades para refinar estos protocolos de seguridad sanitaria todavía en las semanas que faltan antes de que inicie el periodo electoral y garantizar con éxito ambos propósitos.
 ---
+INTERLOCUTOR
+(Inaudible)… por ejemplo como el voto a distancia o el voto electrónico.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Eso le correspondería al INE, no tenemos un conocimiento formal de que este tipo de situaciones se estén considerando o de que pudieran tener factibilidad que estar en posibilidades de ejercerse en caso de que así se estén considerando, pero desde luego habría la oportunidad de conversar al respecto y buscar en una forma creativa todas y todos pensando en el interés superior de la nación cuáles podrían ser las mejores alternativas. Tengo una visión optimista de lo que puede ocurrir todavía.
 Muchas gracias, Demian.
 Juan Carlos Machorro, Alejandro Alemán y usted.
 ---
 PREGUNTA
+Buenas noches, doctor. Juan Carlos Machorro, de AM, de Querétaro.
 Doctor, usted hace unos días comentó este grave problema de los productos milagro, pero desde que surgió esta posibilidad de una vacuna en Rusia, el acuerdo de México de una factible vacuna, pues estos productos parece que les dieron más cuerda y están con más fuerza y ya hasta en anuncios y programas de televisión.
 ¿Es factible que Cofepris o la Secretaría de Salud actúen al respecto y no esperar una denuncia ciudadana, sino que la propia autoridad ataque esto?, porque no hablamos de que es un producto para dieta, hablamos que es un producto para una enfermedad que ha matado a miles de personas, o sea, ya atacar ese mal que tanto afecta.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sí, definitivamente, la Comisión Federal para la Protección Contra Riesgos Sanitarios, Cofepris, coordina a través de una comisión específica el sistema federal sanitario, que está constituida por las 32 comisiones estatales en su mayoría y algunas todavía direcciones de protección contra riego sanitarios.
 Y en materia de publicidad, de monitoreo y la sanción cuando corresponde, el monitoreo, la evaluación y la sanción, y también en materia de la comercialización de insumos y productos puede actuar de oficio.
 ¿Esto qué quiere decir?
 Que no necesita mediar una denuncia específica, sino que, ante el reconocimiento de flagrancia, es decir, que se esté constatando que existe un riesgo para la salud la Cofepris puede y debe, de hecho, actuar de oficio y de manera expedita.
@@ -146,9 +162,11 @@ Y aquí hemos repetido cuando hemos invitado al doctor Simón Kawa y a otros col
 Por favor, Alejandro Alemán.
 ---
 PREGUNTA
+Gracias. Alejandro Alemán, de Medicina Digital.
 Doctor, esta encuesta Ensanut lo que revela es esta urgencia de salirse un poco del marco de personas estudiadas, saber un poco más qué está pasando con la epidemia, y en ese sentido quisiera preguntarle si congruente con estas dos semanas que se está hablando de que ha ido bajando la curva, pudieran estar los datos del sistema centinela, y si nos pudiera presentárnoslos, los presentó en la semana 13, nos los presentó en la semana 15, y bueno, ya estamos en la 32, sería interesante conocer cómo está el canal endémico, y además si efectivamente ha bajado esta curva, le quería pedir un comentario al respecto. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto; gracias, Alejandro.
 No lo digo por su pregunta, pero he identificado que todavía algunos colegas periodistas o medios de comunicación se quedaron con una idea fija un tanto abstracta y definitivamente errada sobre lo que significa el Sistema de Vigilancia Centinela, también lo he visto en voz de algunos grupos políticos que están todavía en una visión del sistema centinela como si fuera todo el modelo de vigilancia.
 En varias ocasiones, al menos tres, hemos explicado que en México realizamos un monitoreo integral de COVID que tiene al menos 12 componentes, justamente uno de ellos la Encuesta Nacional de Salud y Nutrición, y cada uno de estos componentes tiene un propósito definido, una temporalidad de uso, una interpretación de los resultados y todos ellos se complementan.
 No es sólo el sistema centinela. Entonces, la idea de actualizar sobre el sistema centinela, con gusto lo podemos hacer y traer la información de las 475 unidades monitoras de enfermedades respiratoria en donde se registra y se caracteriza con mayor detalle los acontecimientos relacionados con COVID, la presentación clínica de los sujetos, su distribución demográfica, sus desenlaces, los tratamientos que utilizan, etcétera.
@@ -157,24 +175,50 @@ Esto es el sistema rutinario, tiene un componente de vigilancia sindrómica o vi
 Hay otros componentes transversales de ocurrencia esporádica, podríamos decir, como la Encuesta Nacional de Salud y Nutrición que nos permiten, como usted bien señala un reconocimiento territorial y poblacional de ciertas características que cambian en el tiempo de manera más lenta y que es importante acumularlas como los comportamientos, el acceso, la demanda a los servicios de salud, las expectativas, la visión que se tiene sobre la enfermedad, la percepción del riesgo y desde luego la seroprevalencia. Todo lo que hemos presentado procede de esta vigilancia integral.
 ---
 INTERLOCUTOR
+Para cerrar la pregunta, entonces ¿ya no habría temor que si presenta la información hubiera malos entendidos de que tiene que multiplicarse por ocho, de que son números de tres cifras, en fin?
 Digo, sí se podría presentar esta información con la madurez de que la audiencia puede entender que se trata de un estimado, que son cifras muy altas, que van a decir que hay una buena parte de la población que ya recibió COVID, pero que es muy importante que sepamos.
 Creo que buena parte de la población, la otra vez lo comentaba el doctor Alomía, que la mitad de las defunciones son fuera de los hospitales, es decir, gente que falleció positiva a COVID algún día, porque es lo que está pasando ahorita, que no recibió prueba. Entonces ojalá que pudiera considerarse que esta no es una pregunta políticamente incorrecta.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No la considero incorrecta, ni en términos políticos ni en términos conceptuales; de hecho, es muy correcta.
 Como señaló el doctor Alomía el otro día que usted se lo preguntó, el sábado, efectivamente, la mitad de las personas que fallecen en México no durante la epidemia de COVID, sino en general, en general, en general, lo convencional, hace cinco años, hace 10 años, hace 14 años, hace 20 años se conoce que la mitad aproximadamente de las personas que pierden la vida, desafortunadamente ocurre en sus domicilios o en la vía pública.
 En este temor y esta idea de multiplicar por ocho, por 8.3, por 12, por tres, como hemos dicho desde el inicio desde la primera vez que se mencionó esto, es una conjetura infundada, es personas las que nos merecen todo el respeto que por alguna razón no han logrado identificar el mensaje que se transmite aquí desde hace 171 conferencias. Respetamos que pudiera haber estas inquietudes y con mucho gusto lo volvemos a comentar.
 Lo que he explicado también en múltiples ocasiones es: en el mundo entero, no en México, en el mundo entero, los sistemas de vigilancia no tienen como propósito hacer estadísticas de salud y aún las estadísticas de salud no se hacen contabilizando cada uno de los eventos, vaya, ni siquiera el Censo Nacional de Población y Vivienda, que se acaba de hacer el levantamiento en junio y julio de este año, ni siquiera visitan todos, absolutamente todos los hogares.
 La Encuesta Nacional de Salud y Nutrición tiene una muestra de….
 ---
+TERESA SHAMAH LEVY
+Esta ocasión, 12 mil.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+De 12 mil hogares y hay una cantidad de, supongo, casi dos millones de hogares, no sé cuántos hogares haya en México.
+---
+TERESA SHAMAH LEVY
+En México son 30 millones de hogares.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Treinta millones de hogares.
 Entonces, así funcionan las encuestas, así funcionan, incluso los censos, no es un asunto de contabilizar cada uno de estos eventos, en este caso con el COVID de casos de enfermedad.
 Hemos usado una palabra que es inconmensurable, inconmensurable quiere decir: no se puede medir. La gran mayoría de los eventos, de los acontecimientos, de los fenómenos en los que estamos inmersos, la calidad del aire, la temperatura ambiental, la concentración de hemoglobina en la sangre son eventos inconmensurables, no se miden de manera directa, se miden muestras y se hacen inferencias al respecto.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Por favor, Alejandro Moreno, de Grupo Cantón.
+INTERLOCUTOR
+(Inaudible)
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es que la presentamos todos los días, Alejandro. Lo volvemos a explicar, con mucho gusto, claro que sí.
+Por favor, Alejandro Moreno, de Grupo Cantón.
+---
+INTERLOCUTOR
+Héctor García.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Héctor García, ya le estoy cambiando el nombre.
+---
+INTERLOCUTOR
+Subsecretario, Tabasco ya es el segundo estado donde su congreso aprueba la ley antichatarra y rápido, si es que da tiempo, hoy el grupo parlamentario del PAN en el Senado anunció que la Comisión Nacional de Derechos Humanos dio entrada a una queja contra quien resulte responsable por el mal manejo de la pandemia. Quisiera su comentario.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Bueno, refirámonos primero al tema de Tabasco, quisiera mencionar Tabasco por dos razones, una por lo que pregunta, pero antes, tabasqueñas y tabasqueños, habrán notado que su gobernador, el licenciado Adán Augusto López Hernández, tomó una decisión de mantener a Tabasco en semáforo rojo a pesar de que en el semáforo nacional aparece como naranja.
 Como hemos comentado para otras entidades federativas, la Ciudad de México, varios de los estados, nos parece estupendo, nos parece excelente, nos parece una decisión que justamente ilustra este ejercicio del poder público, en este caso, para lograr el mejor balance entre la protección de la salud y la protección de la sociedad, en términos económicos y de desarrollo.
 Los estados, los gobiernos de los estados son libres y soberanos, son autoridades sanitarias y hemos dicho en innumerables ocasiones que el semáforo de riesgo COVID es indicativo para los estados, pero los estados conocen, los gobiernos estatales conocen mejor la situación que lo pudiéramos tener como reconocimiento a distancia por parte del gobierno federal.
 Entonces, respaldamos completamente la muy sensata decisión del gobernador y también de la Secretaría de Salud del estado, y estaremos pendientes a un buen curso en el manejo de la epidemia, como ha venido ocurriendo.
@@ -183,10 +227,12 @@ Respecto a lo que menciona de la Comisión de Derechos Humanos, no tengo informa
 Por favor.
 ---
 PREGUNTA
+Gracias. Por la mañana, el titular de Profeco mencionaba que… sobre los tanques de oxígeno hacía una recomendación, de que no se les comprara a los que vendían caro y también mencionaba que los que compraban nada más para tenerlo ahí por si se les ofrecía, que no lo hicieran también.
 Pero en el caso particular, doctor, ¿cuál es la situación que usted advierte a nivel general sobre el uso de este oxígeno, de tanques de oxígeno?, ¿y cuál es la… qué tan conveniente es para las familias tenerlo, adquirirlo o si es una medida desesperada?, ¿cómo lo advierte?
 Si puede por favor recordar un poco de lo que se ha dicho sobre esto también, ¿y qué le puede decir a los ciudadanos?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por su pregunta. Efectivamente, hemos tomado conocimiento de que en algunas entidades federativas, incluyendo la Ciudad de México, ha habido una renta o un proceso de renta de sobredemanda de tanques de oxígeno.
 Esto tiene varias implicaciones, mencionaré las comerciales y después las médicas, las comerciales seguramente el licenciado Sheffield, procurador del Consumidor mencionó en la mañana.
 Cuando se concentra la demanda, porque hay mayor deseo de tener un producto, esto induce un aumento en el precio, es una conceptualización clásica de los especialistas en economía y, además, ese incremento en el precio es inducido por procesos de especulación comercial.
 En México desde hace muchos años, décadas incluso, existe una concentración absoluta del mercado de tanques de oxígeno y en general de lo que llamamos técnicamente ‘gases medicinales’, tanto para el abasto de los hospitales privados y públicos como para tanques portátiles para personas que requieren terapia continua con oxígeno, incluyendo unos aparatos que se llaman concentradores de oxígeno que tienen un mecanismo tecnológico muy sofisticado que concentra oxigeno de la atmósfera.
@@ -196,3 +242,10 @@ El uso de oxígeno no es algo que se pueda autorecetar, que se pueda autoorganiz
 Las concentraciones elevadas de oxígeno en la vía respiratoria por periodos prolongados pueden causar, en el menor de los casos, resequedad y daño oxidativo de la superficie interior del aparato respiratorio y eso es adverso.
 Pero además, en el caso de COVID podría resultar y ha resultado, conocemos diversos casos, en un retardo de la evaluación médica. La persona ya tiene el tanque de oxígeno, lo tiene en casa y en el momento en que presentara síntomas de COVID se siente segura, está su tanque, se espera un día, se siente segura, está su tanque, se espera otro día hasta que el daño pulmonar es demasiado extenso.
 Entonces, muy importante, no quemar etapas, no abreviar el proceso y mantener siempre las precauciones generales: sana distancia, lavarse las manos, usar el cubrebocas, sobre todo en espacios cerrados, proteger el estornudo, no salir de casa, pero además si es una persona que tiene alto riesgo de complicación, acudir tempranamente a la consulta médica, recomendamos no hacer este procedimiento de los tanques de oxígeno.
+---
+INTERLOCUTORA
+Muchas personas no quieren acudir al doctor, entonces usan esta situación y la recomendación aquí sería que sólo se haga mediante prescripción médica.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto. Si su médica, médico, le prescribe tener un tanque de oxígeno y tener oxígeno terapia en domicilio, pues adelante, pero no hacerlo por motivación propia sin información médica apropiada.
+Son las 20:00 horas. Muchas gracias por sus preguntas. Nos vamos mañana. Gracias.

@@ -3,10 +3,12 @@ Presidencia de la República
 20 de junio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches. Son las 19:00 horas del sábado 20 de junio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a centrarnos en el informe técnico más un complemento que traemos para mostrarles en dónde estamos en el curso de la epidemia y este tema que repetidamente ha salido sobre el momento del pico de la epidemia, el pico de la curva y que hay todavía algunas personas que esto les causa mucha desazón, hoy vamos a ver gráficamente qué quiere decir una curva hecha de muchas curvas, vamos a ver.
 Le pido a José Luis Alomía, director de Epidemiología, si presenta el informe técnico, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con permiso, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Estamos en el 113 de las conferencias vespertinas y en el día 20 de la Nueva Normalidad que, como ustedes ya saben, pero siempre para recordárselo también a la población que nos escucha todos los días, la Nueva Normalidad está precisamente caracterizada por la aplicación del semáforo de riesgo COVID.
 Si vemos la siguiente diapositiva vamos a ver el semáforo de riesgo que está todavía vigente el día de hoy y el día de mañana. Recordemos que el semáforo que se presentó el día de ayer empieza en actividad y en vigencia el día lunes 22. Entonces, este semáforo es el que está vigente, todavía son 16 las entidades federativas en rojo y 16 las que están en naranja.
@@ -56,6 +58,7 @@ Y en la última diapositiva de este grupo vamos a ver el número de unidades COV
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Yo quisiera ahora comentarles cuatro gráficas para retomar esta idea de cómo se compone la curva epidémica de México. Hemos dicho en varias ocasiones que los países geográficamente extensos no tienen una sola curva epidémica, es decir, la epidemia no se presenta simultáneamente en todo el territorio nacional, la epidemia se presenta en cada sitio donde se agrega la población, en ciudades, en municipios, en estados y en la medida que existe distancia entre ciudades y ciudades o entre municipios y municipios o entre los estados, la epidemia no se propaga de manera uniforme en el territorio nacional; por lo tanto, pensar en una sola curva epidémica, una sola representación de lo que ocurre con la epidemia en el país es considerablemente inadecuado.
 Claro que está que cuando se intenta comparar entre países como información gruesa, los organismos internacionales, las universidades tienen simplemente la visión general de cada país, de cada estado nacional.
 Y sobra decir, aunque lo hemos dicho también en varias ocasiones y con frecuencia se pierde perspectiva que comparar países que tienen tamaños poblacionales diferentes por el número de casos ocurridos es un despropósito, es completamente inadecuado en términos metodológicos.
@@ -127,12 +130,14 @@ Ese es el mensaje que queríamos traer hoy.
 Abrimos a preguntas y respuestas. Usted, usted, acá con la mascarilla, Dulce Soto, usted, Pie de Página, ustedes dos.
 ---
 PREGUNTA
+Qué tal, doctor Gatell, doctor Alomía. Buenas noches. Carlos Guzmán, de Aba Noticias.
 Dos preguntas. La primera, nos llama muchísimo la atención esta parte que mostraba el doctor Alomía de las estadísticas de los sospechosos, veíamos la parte de que Estado de México específicamente -Ciudad de México, no tanto- pero Estado de México tiene muchísimos sospechosos no confirmados.
 ¿Se está hablando?, ¿se va a hablar?, ¿qué se va a hacer con la secretaría local?, porque finalmente es una secretaría local la que administra los servicios de salud, no es la federal.
 ¿Se va a hablar para que esta entidad y obviamente junto con la Ciudad de México hagan algo para que este tipo de casos sospechosos no se queden ahí?, porque son muchísimos. Estaba viendo en el caso del Estado de México, incluso son más del doble los confirmados, doctor.
 Y otra pregunta, si me permite.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 No, en el caso de la Ciudad de México y en el Estado de México no son más del doble, en otros estados, sí, los hemos mostrado, en particular Nuevo León y Coahuila.
 En la Ciudad de México y el Estado de México se ven muy… aparentemente porque son los que tienen la mayor cantidad de casos, pero la proporción de los que permanecen como sospechosos, comparados con los que ya están confirmados o la razón, no son más del doble; de hecho, son, si los ordenáramos por esa razón, esa comparación entre los sospechosos y los confirmados, estarían entre los últimos lugares.
 No es de hablar o no hablar, es de que la capacidad instalada el sistema de salud, incluida la vigilancia epidemiológica por mucho tiempo en el país no ha tenido el desarrollo que se necesita para enfrentar fenómenos como este.
@@ -143,6 +148,7 @@ Y lo segundo, que nunca hay que perder de vista es: la Ciudad de México tiene l
 Entonces, esa es la razón por la que enfrenta un reto muchísimo mayor del que podrían enfrentar cualquier otra de las entidades federativas.
 ---
 INTERLOCUTOR
+Otra, esta parte de las estadísticas, de las curvas, pues ha quedado para mí bastante clara. Yo, que llevé estadística en la universidad, en la Autónoma Metropolitana de Xochimilco y en la ENA también, donde tomé mi maestría, pues creo que nos queda bastante clara esta parte de las estadísticas.
 Creo que hay gente que… Específicamente veía un periódico que el día de hoy cabeceaba: ‘20 mil muertos y contando’. Pues tal parece que a algunos no les quedan claras las matemáticas o no sé qué es lo que suceda.
 En este caso, ya después del tema de las estadísticas y de las curvas, comentaba un tema muy importante. ¿Es una epidemia?
 Ya lo había dicho en febrero, en marzo, hace dos semanas lo reiteró, que es una epidemia que llegó para quedarse en muchos sentidos, es una epidemia que incluso puede durar años el coronavirus aquí entre nosotros hasta que no haya una vacuna obviamente.
@@ -150,6 +156,7 @@ Ya lo había dicho en febrero, en marzo, hace dos semanas lo reiteró, que es un
 Está el cubrebocas, está la cuestión del lavado de manos, está el gel antibacterial, pero ¿qué otras medidas se van a tomar para que la gente pueda convivir con el virus finalmente, podamos convivir con el virus y obviamente enfrentar la segunda oleada que se viene para diciembre, doctor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Fundamentalmente, las medidas de prevención de esta epidemia son relativamente simples, insisto, cuando se realizan de manera consistente, es decir, todo el tiempo por todas las personas pueden ser muy efectivas.
 La sana distancia, que parece algo simple, es sumamente poderoso como medida de precaución, de prevención del contagio, pero ¿cuál es el problema?, que no se realiza de manera continua, entonces la gente se le olvida y tres días después ya está otra vez cerca uno del otro.
 El cubrebocas del que hemos hablado repetidamente tiene utilidad particularmente cuando se usa de manera consistente en espacios públicos cerrados en los que no se puede conservar la sana distancia.
 Y reiteramos una y otra vez, no es una medida suficientemente efectiva para proteger al individuo sano de recibir los virus, porque si los ojos quedan descubiertos o si se toca la cara a lo largo del día con manos potencialmente contaminadas se va a contagiar; pero durante trayectos cortos, por ejemplo, el transporte público puede ser una medida auxiliar de alta utilidad para evitar que la persona enferma proyecte los virus, para que la persona enferma… es una barrera para que evite que proyecte los virus.
@@ -160,6 +167,7 @@ Muchas gracias.
 Le damos la palabra al compañero, por favor. Nos quedan sólo cinco minutos.
 ---
 PREGUNTA
+Buenas tardes. Rivelino Rueda, del portal digital Reversos.mx.
 Dos preguntas para el doctor Gatell. Pruebas, desde marzo está la insistencia de un grupo, de un sector, de pruebas, pruebas, pruebas.
 Llegamos al 8 de mayo y se vinieron estas publicaciones de los medios internacionales, usted saca un video y habla… el 8 de mayo, ¿sí recuerda?, saca un video en la tarde, lo sube a redes sociales y habla sobre grupos que están interesados y se ve claramente una sincronización de esas publicaciones. Estamos a 20 de junio y sigue la instancia de pruebas, pruebas, pruebas.
 Mi pregunta es: en aras de la transparencia, en aras de la salud de la República, en aras de las buenas prácticas, ¿quiénes son estos grupos?
@@ -167,6 +175,7 @@ Lo comentó hace dos semanas, que también eran grupos oligárquicos ¿quiénes 
 Me gustaría que me respondiera primero esa pregunta y la otra es dirigida al doctor Alomía.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con mucho gusto. A ver si nos da tiempo, porque queda poco tiempo, pero trataré de ser sintético.
 No conozco yo personalmente estos grupos, no podría decir nombres, fulano de tal, exfuncionario de esto; perengano de tal, empresario de este grupo industrial que está en tal lugar del país.
 Lo que vemos cuando nos referimos a grupos de interés es que apreciamos cómo el argumento construido, que trata de persuadir al gobierno, al decírselo explícitamente, lo dicen indirectamente a través de ciertos periódicos nacionales, ciertos medios de comunicación electrónica, en televisión, en radio, ciertas redes sociales, ciertos columnistas, cuyas agendas característicamente están alineadas a ciertos intereses de los intermediarios de la comercialización de fármacos y equipos médicos, de ciertos grupos empresariales.
 Entonces, por eso decimos hay grupos de interés en la medida en que vemos consistentemente agrupadas las opiniones, a veces parecieran sincrónicas, efectivamente.
@@ -181,7 +190,24 @@ Pero la desinformación que vemos efectivamente, en primeras planas, aparece sin
 Le dejo preguntarle al doctor Alomía.
 ---
 INTERLOCUTOR
+Sobre este tema también como una tragedia, los cadáveres, los cuerpos que no se reclaman. ¿Hay una cifra, hay un dato de cuántos cuerpos no se han reclamado? ¿y cuál es el destino?
 Sabemos que con este acuerdo de la Secretaría de Gobernación no se deben sepultar, sino están en… ¿están en forenses municipales?, ¿están en morgues municipales?, ¿en dónde están esos cuerpos? ¿cuál sería la cifra de estos cadáveres que no han sido reconocidos todavía?
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Comentar rápidamente que el Sistema de Vigilancia Epidemiológica no se enfoca en este tipo de estadísticas, tendría que ser una estadística que a lo mejor tendríamos que recopilarla de los gobiernos locales o inclusive de algunas oficialías o registros civiles como tal.
 En su momento hay, sí, todo un modelo de análisis de la mortalidad que incluye estos números y entonces es una investigación más extensa y enfocada al tema específico de la mortalidad, más allá de la vigilancia epidemiológica solamente, hace uso de estos insumos, estas fuentes de información para en su momento poder lograr toda la estadística que finalmente sabemos el órgano oficial en México, que es el Inegi, termina publicando año con año, pero tendrían que ser otras fuentes las que tendríamos que consultar para poder tener ese dato.
+---
+INTERLOCUTOR
+(Inaudible)
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+No lo sabríamos en este momento, no tendría esa información.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+Termino con un mensaje, aunque ya son las 20:03. Mañana es Día del Padre, tradicionalmente en México hay una costumbre de celebrarlo, quizá no tan frecuentemente con tanto entusiasmo como el Día de la Madre, pero ciertamente hay padres que merecen ser felicitados, apreciados.
+Le pedimos atentamente a la población:
+Eviten reunirse, eviten reunirse físicamente, la epidemia sigue activa, no es todavía momento oportuno para realizar fiestas congregaciones, estén cercanos y cercanas emocionalmente de sus señores padres y abuelos, y eviten reunirse; más adelante lo celebrarán.
+La mayoría de ellos son de edad suficiente como para estar en condición de mayor riesgo de complicarse y el mejor regalo que le pueden hacer en este momento al papá es no llevarle un riesgo de tener COVID y de tener un mal desenlace por COVID.
+Felicítenlo por otros medios, extérnenle su aprecio, su apoyo, pero no lo visiten, manténganse a sana distancia por el día de mañana.
+Gracias. Buenas noches.

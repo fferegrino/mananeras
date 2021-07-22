@@ -3,6 +3,7 @@ Presidencia de la República
 13 de marzo de 2020
 ---
 MODERADORA
+Damos la más cordial bienvenida las autoridades que nos acompañan en el presídium.
 Licenciado Andrés Manuel López Obrador, presidente constitucional de los Estados Unidos Mexicanos.
 Licenciado Luis Niño de Rivera, presidente de la Asociación de Bancos de México.
 Licenciado Carlos Rojo Macedo, presidente ejecutivo de la Asociación de Bancos de México.
@@ -37,6 +38,7 @@ Todos ustedes sean bienvenidos.
 A continuación, hace uso de la palabra el gobernador constitucional del estado de Guerrero, licenciado Héctor Astudillo Flores.
 ---
 HÉCTOR ASTUDILLO FLORES, GOBERNADOR DE GUERRERO
+Ciudadano licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos, bienvenido a Guerrero, señor presidente; maestro Arturo Herrera Gutiérrez, secretario de Hacienda y Crédito Público; maestro Alejandro Díaz De León Carrillo, gobernador del Banco de México; maestro Luis Niño de Rivera, presidente de la Asociación de Bancos de México; ingeniero Alfonso Romo Garza, jefe de la oficina del ciudadano presidente y coordinador del Gabinete para el Crecimiento Económico.
 Saludo a todos los integrantes de la Asociación de Bancos de México, saludo también a todos y cada uno de los representantes de los medios de comunicación, analistas financieros que nos acompañan, a todos los directivos y representantes de todos y cada uno de los bancos de México y, por supuesto, a todos y todas los convencionistas.
 Señoras y señores:
 Sean todos bienvenidos, bienvenidas a Guerrero. Somos un estado que lo recibe calurosa y emotivamente. Gracias pos su preferencia y por volver a este bello puerto de Acapulco.
@@ -63,13 +65,16 @@ Aquí en Guerrero, señor presidente, siempre hacemos votos con nuestras palabra
 Muchas gracias.
 ---
 MODERADORA
+Agradecemos al señor gobernador Héctor Astudillo y al estado de Guerrero por ser la sede de la Convención Bancaria.
 En este momento, el presidente constitucional de los Estados Unidos Mexicanos, en nombre de la Asociación de Banqueros de México hará entrega de un reconocimiento al licenciado Roberto Guízar Díaz, con motivo de su participación número 50 en la Convención Bancaria. Invitamos al señor Guízar pasar al presídium.
 ---
 MODERADORA
+Roberto Guízar es licenciado en derecho por la Universidad Nacional Autónoma de México, pertenece a la generación fundadora de abogados de Ciudad Universitaria 1954-1959, de 1970 a 1982 ocupó cargos en la entonces Asociación de Banqueros de México como consejero directo, consejero ejecutivo, primer y segundo vicepresidente de sociedades financieras y presidente del  comité de inversiones, fue miembro en distintos consejos de administración e instituciones como el Banco del País, Banco de Nuevo León, Banco Hipotecario y Fiduciaria de Ahorro.
 Es fundador, presidente honorario vitalicio y presidente ejecutivo de la Asociación Mexicana de Lucha Contra el Cáncer, A.C.
 Escucháremos el mensaje que nos dirige el presidente de Hacienda y Crédito Público, doctor Arturo Herrera Gutiérrez.
 ---
 ARTURO HERRERA GUTIÉRREZ, SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO
+Muchas gracias y muchas gracias por la promoción.
 Presidente Andrés Manuel López Obrador, Alejandro Díaz de León, gobernador del Banco de México; compañeros en el presídium, miembros de la Asociación de Banqueros de México.
 El tema de esta convención estaba enfocado en la prosperidad para todos en la era digital y sus implicaciones en el sector bancario. Entendiblemente la coyuntura presentada por el COVID-19 y sus implicaciones para la economía, los mercados financieros y las finanzas públicas han dominado la discusión de estos últimos dos días.
 Me referiré a ello y, si no les importa, comentaré al cierre de mi intervención los temas de la economía digital.
@@ -112,12 +117,17 @@ Esto muestra, por un lado, que las generaciones más jóvenes y que tienen acces
 Esta es una muestra de cómo podemos buscar conjuntamente prosperidad para todos en la era digital.
 Muchísimas gracias y buenas tardes.
 ---
+MODERADORA
+Enseguida hace uso de la palabra el presidente de la Asociación de Bancos de México, licenciado Luis Niño de Rivera.
+---
 VOZ HOMBRE
+La banca es impulso, dinamismo, sustentabilidad, compromiso social, crecimiento económico. La banca es el desarrollo de nuevas herramientas financieras para facilitar negocios, innovación que nos permite llegar más lejos y conectar con millones de personas para llevar nuestros productos financieros a todos los sectores y a todas las regiones.
 La banca digital es el canal más efectivo para la inclusión financiera, para hacer más fácil, eficientes y rápidos todos los servicios con la máxima ciberseguridad.
 La banca tiene un claro objetivo: prosperidad para todos en la era digital.
 Asociación de Bancos de México.
 ---
 LUIS NIÑO DE RIVERA LAJOUS, PRESIDENTE DE LA ASOCIACIÓN DE BANCOS DE MÉXICO
+Señor presidente de la República, Andrés Manuel López Obrador; señor presidente de la Junta de Coordinación Política de la Cámara de Diputados, Mario Delgado Carrillo; señor gobernador del estado de Guerrero, Héctor Astudillo Flores; señor jefe de la Oficina de la Presidencia de la República y coordinador del Gabinete para el Crecimiento Económico, ingeniero Alfonso Romo Garza; señor secretario de Hacienda y Crédito Público, Arturo Herrera Gutiérrez, señor gobernador del Banco de México, Alejandro Díaz de León; señor presidente de la Comisión Nacional Bancaria y de Valores, Juan Pablo Graf.
 Señora presidenta municipal de Acapulco, maestra Adela Román Ocampo; señores legisladores, diputados y senadores que nos acompañan, distinguidos miembros del presídium, colegas banqueros.
 Señoras y señores:
 Hace 145 millones de años, en el comienzo del periodo Cretácico, la Tierra tenía solamente dos subcontinentes, Laurasia y Gondwana, y la mitad oriental de nuestro territorio nacional estaba sumergido bajo el mar.
@@ -125,7 +135,7 @@ Hace 145 millones de meses, en la etapa serravalliense, dentro del Mioceno, al s
 Hace 145 millones de días algunos investigadores han determinado que comenzó a desarrollarse el lenguaje humano.
 Hace 145 millones de transacciones bancarias en México fue ayer.
 Efectivamente, señoras y señores, la industria bancaria en México realiza todos los días 145 millones de transacciones con sus clientes y usuarios. Evidentemente que todo esto sería imposible de realizar sin una muy elevada capacidad tecnológica y de telecomunicaciones que hemos desarrollado con particular intensidad en la última década. Montada sobre esta plataforma, en el último lustro hemos construido la oferta de servicios bancarios digitales; sin embargo, tenemos que ir mucho más allá.
-Ahora nuestra misión es que esta inversión en capacidad humana, tecnológica y de telecomunicaciones llegue a todos los rincones de la geografía nacional y a todos los segmentos de la población.  Por ello, el lema de esta convención bancaria número 83 es: ‘Prosperidad para todos en la era digital’.
+Ahora nuestra misión es que esta inversión en capacidad humana, tecnológica y de telecomunicaciones llegue a todos los rincones de la geografía nacional y a todos los segmentos de la población.  Por ello, el lema de esta convención bancaria número 83 es: ‘Prosperidad para todos en la era digital’.
 Estamos a un año de haber asumido la presidencia de la Asociación de bancos de México y estoy obligado a hacer un balance de las metas alcanzadas y exponer los planes de los siguientes 12 meses.
 Desde abril del 2019 el comité de dirección de la ABM determinó crear tres agendas que contengan los planteamientos externos de esta asociación: una agenda propositiva, una agenda social y una agenda regulatoria.
 En el frente propositivo, al inicio del presente año, después de estudios minuciosos y análisis comparativo internacional realizados por la fundación de estudios financieros y de largas y detalladas discusiones entre todos los bancos, la ABM presentó nueve propuestas a la Secretaría de Hacienda, la Comisión Nacional Bancaria y el Banco de México sobre regulación proporcional. La idea fundamental que perseguimos con estas nuevas propuestas es una aplicación escalonada, paso y medida que lleguemos a acuerdos con cada uno de los temas planteados.
@@ -138,7 +148,7 @@ Con este monto, México ocupó el tercer lugar en el mundo, detrás de la India 
 La agenda social de la ABM incluye tres frentes, el primero de ellos iniciado en abril de 2019 es el desarrollo de tres cuencas lecheras en Tabasco, Chiapas y Veracruz.
 Junto con la Oficina de la Presidencia, cuyo titular es el ingeniero Alfonso Romo Garza, convocamos a todos los integrantes de la cadena productiva de la leche, esto es: participan en este proyecto la Secretaría de Agricultura y Desarrollo Social, los gobiernos de los estados de Tabasco, Chiapas y Veracruz, la banca de desarrollo por medio de FIRA y la Financiera Nacional de Desarrollo Rural, los productores de ganado de alta calidad genética: don Jaime Mantecón, de Arriaga, Chiapas; y don Manuel Suárez, en Paraíso, Tabasco; las tres principales empresas de la industria lechera: Nestlé, Danone y Lala, y la ABM, con el liderazgo del comité de crédito al sector agropecuario.
 El diseño de los esquemas financieros de este programa, usando recursos de los gobiernos de los estados, el FIRA y la banca comercial nos permite multiplicar los recursos públicos por 3.15 veces y reducir el costo financiero a los pequeños productores al 8.5 por ciento.
-Con gran gusto y motivación informamos que el próximo martes 17 de marzo pondremos en marcha la cuenca lechera de Tabasco, gracias al compromiso del señor gobernador Adán Augusto López; y el martes 24, ocho días después, en este mismo mes de marzo, la cuenca lechera de Chiapas, gracias al compromiso del gobernador Rutilio Escandón Cadenas, el director general del FIRA, el actuario Alán Elizondo, y de todo el grupo de participantes en este proyecto.  Durante el mes de abril haremos lo propio en Veracruz.
+Con gran gusto y motivación informamos que el próximo martes 17 de marzo pondremos en marcha la cuenca lechera de Tabasco, gracias al compromiso del señor gobernador Adán Augusto López; y el martes 24, ocho días después, en este mismo mes de marzo, la cuenca lechera de Chiapas, gracias al compromiso del gobernador Rutilio Escandón Cadenas, el director general del FIRA, el actuario Alán Elizondo, y de todo el grupo de participantes en este proyecto.  Durante el mes de abril haremos lo propio en Veracruz.
 La meta ulterior del programa es eliminar la importación de leche en polvo que hacemos en México, que representa el 35 por ciento del consumo nacional.
 Nuestra agenda social no estaría completa sin un proyecto específico que acelere el proceso de inclusión financiera que tanto necesita México.
 En la convención bancaria de hace un año, la ABM se comprometió a cubrir en el término de la administración del presidente López Obrador el 100 por ciento de los municipios del país con servicios financieros; hoy quedan 476 municipios sin cobertura. La comisión de medios de pago y el comité de corresponsales bancarios de la ABM han iniciado un proyecto que incluye tecnología y telecomunicaciones para abrir mil 505 corresponsales bancarios en los próximos 36 meses que permita llevar servicios financieros a la totalidad de municipios en nuestro país.
@@ -167,3 +177,59 @@ Le ofrecemos, señor presidente, trabajar juntos, la banca y su administración 
 La capacidad de ser y transformar llegará a buen puerto si generamos ese entorno de confianza mutua que no vence, sino convence para producir resultados.
 Vamos adelante juntos por México y para México.
 Muchas gracias.
+---
+MODERADOR
+Estimado público, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andrés Manuel López Obrador.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Amigas, amigos participantes en esta convención bancaria:
+Me da mucho gusto estar con ustedes en estos momentos para compartir reflexiones y puntos de vista.
+Agradezco mucho al gobernador del estado de Guerrero, Héctor Astudillo Flores, por su apoyo, por su respaldo, por su colaboración, por su solidaridad; agradezco también que nos acompañe la presidenta municipal de Acapulco, la maestra Adela Román Ocampo; y desde luego celebro participar en esta convención que está dirigida por Luis Niño de Rivera, presidente de la Asociación de Bancos de México.
+Empiezo con lo que al final subrayó Luis, acerca de enfrentar momentos difíciles, de adversidad, con unidad. Creo que esto es fundamental, el que independientemente de nuestras diferencias, concepciones, manera de pensar, que pongamos siempre por delante el interés general, el interés de la nación, que siempre pensemos en nuestro querido México, en nuestra patria. Como decía un guerrerense extraordinario, independentista, Vicente Guerrero, la patria es primero, que siempre tengamos eso en consideración.
+Creo que hay unidad en el país y hay gobernabilidad, no padecemos de conflictos, no hay confrontación.
+Puedo poner un ejemplo: ya no hay la confrontación permanente que se daba anteriormente por los temas magisteriales durante mucho tiempo. Desde que se llegó al gobierno y se tomó la decisión de cancelar la mal llamada reforma educativa, se acabaron los conflictos, no hemos tenido un sólo día de paro magisterial en el país.
+Esto se debe a que se escuchó a las maestras, a los maestros y no se actuó con carga ideológica, ni de izquierda ni de derecha, sino con juicio práctico; y esto llevó a que se tenga la paz y la tranquilidad que se necesitan en momentos como este para enfrentar adversidades.
+También es importante destacar que hemos avanzado en el propósito de que haya paz, tranquilidad en nuestro país.
+Iba en ascenso la inseguridad, la violencia. Lo adelanto, porque vamos a informar en unos días más sobre resultados en disminución de homicidios, en disminución de robo de vehículos. Y menciono estos dos delitos porque en estos dos delitos no hay cifra negra y vamos a demostrar que ya se está logrando poco a poco la disminución de la violencia en nuestro país.
+¿Por qué vamos a poder enfrentar el flagelo de la violencia?
+Porque el gobierno tiene autoridad moral y eso le permite contar con autoridad política. Por eso es muy importante el considerar que se tiene que desterrar de nuestro país la corrupción, no sólo por razones de índole moral, sino también porque se adquiere autoridad suficiente para poner orden, para gobernar con el ejemplo.
+Lo otro que nos ayuda mucho en este propósito de garantizar la paz en el país es no permitir por ningún motivo la impunidad, cero impunidad. Imagínense, ¿qué se puede hacer si la delincuencia es la encargada de la seguridad pública, si hay contubernio entre delincuentes y autoridades, si no se pinta con claridad la raya la frontera entre delincuencia y autoridad?
+Como no permitimos la impunidad y no hay esa asociación delictuosa, tenemos muchas posibilidades de que haya paz y que haya tranquilidad, porque no hay privilegios para nadie, el gobierno no está sometido, no está al servicio de grupos, no está al servicio de la delincuencia.
+También nos ayuda mucho el que se aplique una política económica responsable de finanzas públicas sanas, de no gastar más de lo que ingresa a la hacienda pública, el no endeudar al país. El año pasado no aumentó la deuda en términos reales y este año, suceda lo que suceda, tampoco va a haber aumento en la deuda pública.
+Vamos a mantenernos sin déficit en las finanzas, y para eso ayuda mucho la austeridad republicana, reducir el costo del gobierno a la sociedad. Antes le costaba mucho al pueblo mantener al gobierno, era un gobierno mantenido y bueno para nada, eso se terminó.
+Cuando antes se hablaba de austeridad, ¿qué nos decían?, que había que apretarnos el cinturón los mexicanos, la sociedad; ahora no es así, austeridad es que se apriete el cinturón el gobierno. No puede haber lujos en el gobierno, no puede haber derroche, no puede haber gobierno rico con pueblo pobre. Por eso tenemos finanzas públicas sanas.
+Y también vamos a seguir respetando cabalmente la autonomía del Banco de México, para que actúe con independencia en la política financiera, sobre todo en lo relacionado con el control de la inflación, que nos importa mucho. No queremos crecimiento con inflación, queremos crecer sin inflación, ese es el propósito y esa es una de las tareas del Banco de México.
+Hay condiciones inmejorables para crecer a pesar de las circunstancias, no puedo hablar de qué circunstancias porque nosotros hemos decidido que en el tema del coronavirus hablen los médicos y los científicos, no los políticos, que sean los técnicos, los médicos, los científicos, los que nos informen para que no se exagere ni se disminuyan los efectos de esta epidemia.
+A pesar de esas circunstancias, decía yo, hay condiciones inmejorables para que emprendamos el camino del crecimiento.
+Hoy, por ejemplo, se aprobó en Canadá el Tratado de Libre Comercio, tanto en la Cámara de Diputados como la Cámara de Senadores. Esto es muy importante, porque hay una tendencia al asilamiento en algunos países del mundo y nosotros nos estamos integrando con la economía, con el mercado más importante del planeta y llevamos muy buenas relaciones, tanto con el gobierno de Canadá como con el gobierno de Estados Unidos, hay una relación de respeto mutuo que vamos a mantener.
+También es importante tomar en cuenta que hay estabilidad, hay paz, porque se está atendiendo al pueblo y en especial la gente más necesitada.
+Hace unos días se aprobó en la Cámara de Diputados una reforma al artículo 4º de la Constitución para elevar a rango constitucional el derecho de los adultos mayores a una pensión justa, se aprobó también que todas las niñas, niños pobres con discapacidad tengan una pensión, se aprobó que todos los estudiantes de familias de escasos recursos económicos tengan derecho a recibir una beca y se aprobó que en nuestro país se va a garantizar el derecho a la salud, atención médica y medicamentos gratuitos.
+Es algo que ya se viene llevando a cabo, pero era muy importante que quedara establecido en la Constitución. Ya va a ser muy difícil que se dé marcha atrás a este cambio, porque se necesitan dos terceras partes de los votos y no creo que se vuelvan a presentar situaciones para que haya retroceso en lo que tiene que ver con el bienestar de nuestro pueblo. Va a ayudar mucho el que esté establecido en la ley.
+Pero comentaba que estas acciones ya se están llevando a cabo, este año se están entregando y significan un monto total de 500 mil millones de pesos los que se dispersan en beneficio de la gente más pobre, más necesitada de nuestro país, 500 mil millones de pesos que se están entregando de manera directa.
+Les explico que son como 130 mil millones las pensiones para más de ocho millones de adultos mayores, que son como 70 mil millones las becas para 11 millones de estudiantes, como 35 millones las pensiones para niñas, niños con discapacidad y alrededor de 230 mil millones para la salud.
+¿Por qué hablo de esto?
+Porque necesitamos que los bancos tengan sucursales en todo el territorio nacional. Hay ese potencial, lo decía ahora Luis. De las cerca de dos mil 500 cabeceras municipales, según sus datos, hay cerca de 500 cabeceras municipales en donde no hay una sucursal bancaria.
+Bueno, estos recursos queremos dispersarlos con tarjetas, estamos hablando de 500 mil millones, pero va a crecer esta cantidad, porque si logramos consolidar una infraestructura bancaria de carácter nacional, que tenga presencia en todo el territorio, pues vamos a dispersar por esas sucursales ubicadas en las comunidades más apartadas las nóminas para el pago de maestros, para el pago de los trabajadores de salud.
+Entonces, ¿por qué trato este tema?
+Porque queremos que, así como el Banco del Bienestar va a construir, ya iniciaron la construcción de dos mil 700 sucursales en todo el territorio nacional, así la banca privada pueda crear estas sucursales; y si hay un acuerdo de crear estas sucursales en comunidades apartadas, que van a tener asegurado la dispersión, podemos ayudar para que esas sucursales siempre manejen recursos del gobierno destinados al bienestar de la gente.
+Y que estas sucursales puedan ser en lo mínimo autosuficientes, cobrar comisiones razonables e ir ocupando el 90 por ciento del territorio nacional que no tiene servicios bancarios, 90 por ciento del territorio nacional, donde hay un gran potencial económico y social para el corto y mediano plazo hacia el futuro.
+Pero, además, con esta acción, la banca tendría el distintivo de la dimensión social. Eso yo lo pongo a consideración de ustedes, de que podamos llegar a un acuerdo y nosotros ayudar para que se amplíe la infraestructura bancaria en nuestro país.
+Nos importa mucho la modernidad, pero forjada desde abajo y para todos. No creemos en el sofisma que se utilizó mucho para engañar, de que si llovía fuerte arriba, goteaba abajo; la riqueza no es permeable, no es contagiosa, no puede hablar de lo otro.
+Se necesita promover la distribución de la riqueza, así como no se puede distribuir lo que no se tiene y por eso es importante crear la riqueza; así también hay que crear la riqueza y distribuirla, porque si no, no se puede vivir, está demostrado que, en las sociedades, en los gobiernos donde sólo se piensa en la acumulación de la riqueza arriba, más temprano que tarde se desatan conflictos, hay inestabilidad, incluso revoluciones.
+Por eso se requiere que haya modernidad abajo, que haya equidad, que haya justicia, que podamos darle la mano al que se quedó atrás para que se empareje y caminemos todos juntos.
+Y ustedes tienen ese don del humanismo. Esto no tiene que ver con ideologías, es la fraternidad lo que podemos hacer por nuestros semejantes, el amor al prójimo. Entonces, es muy importante el pensar en lograr que haya más justicia, más igualdad en nuestro país.
+Y quiero decirles que, en este propósito de apoyar la economía desde abajo, la economía popular, la economía familiar ha resultado un gran aliento el que estén creciendo las remesas, lo que envían nuestros paisanos a sus familiares en México, lo mencionó Luis.
+El año pasado, récord, 36 mil millones de dólares; y ese dinero llega a las comunidades más apartadas, comunidades pequeñas y esa cantidad de recursos es la principal fuente de ingresos que tiene nuestro país.
+Por eso hablo de que nuestros paisanos son héroes vivientes, que merecen todo nuestro reconocimiento, todo nuestro apoyo, toda nuestra protección, los migrantes mexicanos, los que por necesidad tuvieron que irse a buscarse la vida del otro lado de la frontera.
+Bueno, esas remesas junto con los ingresos, el presupuesto de los programas de bienestar, están abajo, reactivando la economía y eso da mucha paz y da mucha tranquilidad. No olvidemos que la paz y la tranquilidad son frutos de la justicia. Esa economía tenemos que seguirla apoyando.
+Hace un año en esta convención hablé del tema de las remesas y señalé que pedía yo la operación, el apoyo para bajar el monto de las comisiones para que le rindiera más el dinero a los familiares de los migrantes.
+Hice un estudio, mejor dicho, instruí al procurador federal del Consumidor que llevara a cabo un seguimiento de cómo se comportaban los cobros de comisiones tomando en consideración una serie de factores, no sólo el cobro de la comisión, sino cómo se pagaba el dólar y otra serie de elementos.
+Y quiero decir aquí, no voy a hablar de los que cobran más comisiones, no tiene sentido, estamos hablando de la unidad, vamos a hablar de los que se portaron mejor o el que se portó mejor, de acuerdo a este estudio que tiene un sustento técnico.
+Según la Procuraduría Federal del Consumidor, la mejor opción en el mercado de las remesas este año fue el Grupo Financiero Banorte.
+Le diría yo como le dijo una vez Mutis al ‘Gabo’, a García Márquez, que le entregó el libro de Juan Rulfo, Pedro Páramo, -todavía no era Gabo lo que llegó a ser, el gran escritor- le dijo Mutis, le entregó el libro de Juan Rulfo, de Pedro Páramo, le dijo: ‘Tenga, para que aprenda’. Así les diría yo con todo respeto.
+Ojalá y el año próximo pueda yo venir a la convención y decir que ya no fue Banorte el primer lugar, que ya hubo otro banco que lo desplazó y que yo pueda decir que no sólo fue un banco, sino dos o tres.
+Termino diciéndoles, amigas, amigos, banqueras, banqueros, termino diciéndoles que no van a cambiar las reglas del juego, para decirlo de manera coloquial, no va a haber ninguna reforma promovida por el Ejecutivo que afecte a la banca de México y la banca que trabaja en nuestro país. Vamos a mantener el mismo marco legal. Si hay algún cambio, saldrá de ustedes y pensando siempre en la competencia. Los bancos se regulan con los bancos, el mercado se regula con el mercado.
+Me dio mucho gusto estar con ustedes.
+Ahora sí, les pido que se pongan de pie porque es para mí un gusto declarar formalmente clausurada esta convención bancaria denominada: ‘Prosperidad para todos en la era digital’, siendo las 17:00 horas del día 13 de marzo del 2020.
+Estoy seguro que los trabajos y compromisos derivados de esta convención beneficiarán a todas y a todos los mexicanos.
+Enhorabuena y muchas felicidades.

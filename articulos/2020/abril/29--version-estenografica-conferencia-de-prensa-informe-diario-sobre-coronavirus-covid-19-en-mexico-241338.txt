@@ -3,11 +3,13 @@ Presidencia de la República
 29 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:01 en punto del miércoles 9 de abril de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre la situación de COVID, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy tenemos un programa especial, un invitado muy especial, que es nada menos que nuestro jefe, el secretario de Salud, pero también mi maestro y uno de los inmunólogos más destacados del país y con amplio reconocimiento mundial; y a petición, por demanda popular, nos acompaña para hablar de la inmunopatología y fisiopatología del COVID, elemento que consideramos muy importante porque nos va a permitir a todas y todos entender con mayor amplitud por qué este virus causa la enfermedad que causa y en qué consisten las alteraciones que ocurren que nivel de los pulmones, a nivel del sistema inmune, a nivel del sistema circulatorio, etcétera.
 Entonces, hoy vamos a empezar, si está de acuerdo el doctor, con su propia presentación y después abordamos el informe técnico que presentaría el doctor José Luis Alomía; finalmente, el doctor Ricardo Cortés nos va a hablar de las acciones de promoción y prevención, y nos va a hablar de una nueva guía técnica que tenemos para una población de especial interés.
 Doctor.
 ---
 JORGE ALCOCER VARELA, SECRETARIO DE SALUD
+Buenas noches. Me da mucho gusto estar con ustedes y desde luego comunicarme con los interesados en este tema. Les advierto que no es nada fácil, pero tampoco voy a dar clase, sino a presentar unos cuantos de los 28 mil 492 artículos publicados en los últimos tres meses relacionados con coronavirus, en particular el tratamiento; y el objetivo que tengo es más o menos darles un panorama y ver cómo está el sistema inmune, que es el encargado de enfrentar a este virus.
 Estarán de acuerdo en principio conmigo y desde luego con Adam Smith, ilustre pedagogo, no sé cómo calificarlo, que señala que la ciencia es el gran antídoto contra el veneno del entusiasmo y la superstición. Si bien no han llegado todavía estos dos elementos de definición, sí estamos inmersos en mucho por la situación de un componente del ecosistema, hay que declararlo como tal, muestra de la biodiversidad de nuestra biología y desde luego nos recuerda a la selección natural que brillantemente expusiera hace décadas, hace siglos, el gran biólogo y taxonómico que condujo a la organización de los seres vivos.
 En la siguiente imagen, y voy a tratar de hacerlo rápido, les señalo cómo esta familia… Son siete integrantes de esta familia de coronavirus, de los cuales ya teníamos tres de ellos presentes en el ser humano.
 Ustedes saben, el primero es SARS-CoV, que nos dio, a través de un animal, el salto a poder infectar al ser humano. El primero es por el síndrome respiratorio agudo severo.
@@ -60,9 +62,11 @@ Y en la actualidad no se ha demostrado que algún medicamento sea seguro y efect
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, maestro y secretario de Salud, doctor Jorge Carlos Alcocer Varela.
 Antes de pasar a preguntas y respuestas que, sin duda, habrá preguntas sobre este tema, le pido al doctor Alomía si nos presenta el informe técnico de manera sintética.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro que sí. Con su permiso, señor secretario, subsecretario.
 Estamos ya a punto de terminar este mes y en la conferencia vespertina número 61.
 En la siguiente diapositiva podemos ver cuál ha sido la progresión de la pandemia a nivel internacional, continua la contracción de la misma en 37 por ciento, son dos puntos porcentuales menos a los que veíamos el día de ayer.
 Y vemos cómo la región de las Américas mantiene esa proporción de los últimos casos confirmados en los 14 días de 48 por ciento y la región de Europa, que ayer estaba encima del 40 por ciento, hoy ya bajó de ese nivel, está en 39.6 y es lo que de seguro vamos a continuar viendo en los siguientes días.
@@ -93,9 +97,11 @@ Y cerramos, terminamos diciendo que precisamente para poder mantener estos porce
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía.
 Le pido al doctor Ricardo Cortés si nos comenta sobre la guía nueva.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Perfecto, con muchísimo gusto, por favor si pueden la diapositiva de la guía.
 Muchísimas gracias, secretario, subsecretario.
 Es para mí un placer y un honor presentar esta Guía para la protección de la salud de las personas con discapacidad en el contexto de COVID-19, con el apoyo del Consejo Nacional para la Prevención de la Discriminación, Conapred y el Consejo Nacional para las Personas con Discapacidad, Conadis y el apoyo de la sociedad civil organizada a través de Movimiento Tres Doce y otros colectivos también de especialistas en la materia de personas con discapacidad.
 Se desarrolló esta guía, que es útil tanto para personas que viven con discapacidad como las personas que son cuidadoras de estas personas que viven con discapacidad, así como para el personal de salud que puedan leer esta guía, que deba de leer esta guía y que le va a servir mucho para cuando reciba a una persona con discapacidad en el contexto de la atención del coronavirus.
@@ -104,14 +110,17 @@ Se llama a través de una videollamada al WhatsApp de estas personas que están 
 Es un honor y un privilegio. Habíamos invitado al licenciado Ernesto Rosas a esta sesión para presentarle en conjunto con nosotros. Ernesto participa con Movimiento Tres Doce, pero Ernesto vive también con diabetes, y él muy razonablemente y respetuosamente hacia su persona, primero me cuido yo y así cuido a los demás, dijo: ‘No puedo asistir, debo quedarme en casa’. Te agradecemos mucho a Ernesto, a todas las personas que participaron, y es cuanto, muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Ricardo Cortés.
 Vamos a abrir a preguntas y respuestas. Usted, Fernanda, usted, usted ya participó ayer, vamos a darle la oportunidad a un nuevo compañero.
 ---
 PREGUNTA
+Alejandro Arcos, Plenilunia.
 Doctor Alcocer, nos da mucho gusto tenerlo en estas reuniones, ojalá y lo podamos tener más seguido.
 Con respecto a la semana de vacunación que se está presentando en las Américas, ¿existe la reflexión de qué actividades se están haciendo para no solamente tener la prevención de esta enfermedad en particular, sino también no perder la protección que tenemos con las otras?
 Y si nos pudiera detallar un poco más acerca del tratamiento con plasma, que es el que aparentemente tiene mayor avance para el tratamiento con COVID-19.
 ---
 JORGE ALCOCER VARELA
+Sí, muchas gracias. Efectivamente, nosotros estamos atentos, sería una incongruencia aparte de lo extraordinario que esto, y esta visita inesperada, que así lo llamo yo, y que lo estamos haciendo con la opinión de todos, buenas y malas, pero lo estamos haciendo.
 Existe una serie de necesidades que se están cubriendo en términos generales y desde luego en general incluye vacunación, incluye todos los protocolos de seguimiento para esta situación.
 En cuanto al plasma, es uno de los que podría tener en el momento que se logre hacer más, afinado más preciso, el cubrir la falta de una vacuna. No es lo mismo, pero sí tiene un mecanismo semejante, aunque le falta todavía la finesa de conocer más detalles de cómo está la respuesta inmune de los donantes del plasma; y particularmente ahí se requiere, como una estructura directa que va a inhibir al virus en el componente inhibitorio que lo mantiene a raya y que lo elimina, finalmente ese anticuerpo neutralizante.
 No todos los individuos que sufren la acción del virus lo manejan igual, su sistema inmune, por diferentes razones, y más cuando se agregan situaciones biológicas que limitan el que toda esa guardia nacional, como les señalé yo, se ubique directamente contra el virus, tiene que vigilar otra serie de cosas y estas son las que hace que en algunos individuos no sea suficiente la respuesta, aunque esté bien el seguimiento.
@@ -123,71 +132,131 @@ Entonces, por eso se señala que los jóvenes, la gente que tiene un sistema inm
 Esto es en términos generales algo de lo que pueden orientar a que ese tratamiento es uno de los que pudiera tener, siempre y cuando se logre hacia adelante hacer más específico un resultado acompañando algunas otras cosas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
 Fernanda, usted y usted.
 ---
 PREGUNTA
+Buenas tardes. Fernanda Mendoza, para el canal Glucosa Atómica.
 Le quería preguntar: ¿por qué es difícil encontrar un medicamento que sea 100 por ciento eficaz en la erradicación del virus?, ¿y qué características debería de tener este, por así decirlo, para que sea ideal y sea seguro y curativo y además eficaz?
 Si pudiera comentarnos sobre esto y relacionarlo con lo que acaba de explicar el doctor Alcocer.
 Y una más, debido a la tormenta de citoquinas que se desencadena ¿es seguro usar corticosteriodes para el tratamiento hacia COVID?
 Gracias.
 ---
 JORGE ALCOCER VARELA
+La última es, como siempre, la cortisona, el esteroide, la cortisona en sus varias presentaciones es un medicamento notablemente importante. Si en un momento no se pone, el paciente puede morir ante una situación; si se pone en exceso, sabemos muchos de sus efectos.
 Aquí en un principio, analizando los casos de China, se les ponía dosis altas de cortisona debido a que se encontró inflamación y después se vio que este factor condicionaba la no respuesta y la necesidad de antes usar el equipo, tanto de la atención del oxígeno como el ventilador.
 Por lo tanto, rápidamente la conclusión es: usarlo después cuando haya evidencia de la inflación. Y tenemos exámenes de laboratorio muy sencillos que nos orientan, no son nada diagnósticos, nos orientan y entonces cuando se usa cortisona, pero no en dosis grandes, porque las dosis mayores cambian mucho el sistema inmune.
 Por ejemplo, aplanan la posibilidad de producir los anticuerpos IgM, que son parte de lo que podemos nosotros tener para medir la inmunidad, que no se miden en todos los casos, hay enfermedades que nunca, nunca producen anticuerpos y se tienen que buscar otras herramientas diagnósticas.
 En este caso sabemos que sí se eleva la inmunoglobulina M y después la Igg y se da una connotación general de que hay respuesta inmune, pero eso es diferente a inmunizar, a estar listo para que si viene otra vez el virus, y es lo que pasa cuando regresa, pues vuelve a cantarse.
 No se han generado las células de memoria en ese tiempo, las células de memoria llevan su tiempo y requieren todo un mecanismo que no se conoce frente al virus.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
+---
+INTERLOCUTORA
+El medicamento, ¿por qué no hay uno que sea…?
+---
 JORGE ALCOCER VARELA
+No hay uno, porque no ha habido el suficiente tiempo, y los que se han usado son experiencias de otras enfermedades y en otras épocas.
 Y desde luego tecnológicamente tenemos muchas posibilidades, pero no es que haya imposibilidad tecnológicamente, sino ubicar directamente qué es lo que a este virus lo neutraliza, lo dije, en los anticuerpos, en lo que puede ser en el otro proyecto; y desde luego eliminarlo tempranamente que eso es todavía más complicado, no existe por eso una propuesta novedosa.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor. Adelante, usted.
+---
 PREGUNTA
+Gracias. Doctor López-Gatell, usted ha comentado que el factor multiplicador de casos confirmados puede variar en el espacio y en el tiempo. Quiero preguntarle si ya se han modificado en esta fase 3 y de cuántos sería ahora la cifra, por favor.
 Doctor Alcocer, siguiendo con el tema del tratamiento, ya que no hay uno estándar para atender a los pacientes con COVID-19, ¿cada uno de los pacientes se atiende con algún fármaco dependiendo de sus comorbilidades y de su propia historia médica, digamos?
 Y quiero preguntarle también, que ya nos explicó que incluso este virus puede dañar pulmones, hígado, riñón, o sea, otros órganos, si los pacientes que se enfermen de este virus y tengan una enfermedad grave o a la mejor no tan grave, y se recuperen, si pueden tener secuelas importantes cómo, no sé, fallas renales o cardiopatías adquiridas, parece que hay algunos registros en otros países.
 ¿Y qué estrategia estarían diseñando para entonces atender a los pacientes con esas secuelas?, ¿en qué momento se les da de alta?, ¿cuando ya no tienen el virus o hasta que, por ejemplo, están sin secuelas?
 Gracias.
 ---
 JORGE ALCOCER VARELA
+Sí, gracias. Muy rápidamente para que tengan otros oportunidad de preguntar.
 Esto, como dice muy directamente, muy claramente, lleva a que cada paciente, y es en general en la medicina, no existe una enfermedad, sino existe un paciente, y en el paciente por lo general coinciden los tratamientos, pero siempre hay particularidades; y en este caso, si está acompañado de una de las enfermedades o el efecto de algunos de los medicamentos, por eso, lo puse ahí rápidamente, tenemos que atender a esa complejidad.
 Pero primariamente y en el 80, 90 de los problemas no ligados a otras enfermedades, es el pulmón el órgano, es la insuficiencia respiratoria, es la dificultad para respirar, eso es, y lo demás se va extendiendo de acuerdo al tiempo.
 Y la dificultad para contener, por ejemplo, y ahí termino, si hay problemas de coagulación se le agrega un medicamento que no sea tóxico, que no anticoagule al paciente, que esa es una de las ideas generales, sino en dosis menores, en dosis bajas, heparina, por ejemplo, que es lo que se usa en muchas situaciones virales, infecciosas, de otro tipo, y esto ayuda a que se prevengan las complicaciones posteriores, si no, el paciente termina mal o, como dice, con datos de daño real o daño de otro tejido. Entonces, es una complejidad, no es sólo el pulmón, pero sí es el central.
 ---
+INTERLOCUTORA
+¿Tienen datos de algunas otras secuelas?
+---
 JORGE ALCOCER VARELA
+Sí, desde luego, el paciente, y más aquel que tiene edad mayor, pues sí tiene ya preparados algunos tejidos que no están funcionando desde antes del virus y entonces sí hay problemas óseos, problemas musculares, problemas del corazón y de otros tejidos.
 Pero no es un patrón definido, excepto lo del daño microvascular, por eso le digo de trombosis que hay que contenerlo, y fuera de eso hay muchas posibilidades de la expresión clínica.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
 Adelante, por favor.
 ---
 PREGUNTA
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+¿Factor multiplicador?
+---
+INTERLOCUTORA
+Sí, o sea, esto que explicaba que, por ejemplo, los casos se pueden multiplicar por 8.8 los casos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La vigilancia Centinela. Sí, sí, sí, el próximo viernes, mañana no, porque es el día de los niños y tengo la actividad de niños, pero el próximo viernes vamos a presentar nuevamente la tabla de los casos y vuelvo a explicar con muchísimo gusto la mecánica de la vigilancia Centinela con mucho gusto.
+---
+PREGUNTA
+Buenas tardes a todos.
 Con base en lo que escuchado, veo que sí hay una medida suficiente, por así decirlo, hasta el momento, para combatirlo en el sentido de la medicina.
 Este revisando que ustedes también cuentan con un sistema de sicología haciendo unos pequeños videos y unas recomendaciones, porque sabemos que, como bien dijeron ustedes, pues la salud es bastante amplia y no solamente la salud es dar medicamentos o dar la atención, también requiere la salud mental.
 Entonces, les quisiera yo preguntar y dependiendo su respuesta hacer una segunda pregunta, si ya como tal cuentan con un diseño o una estrategia para hacerle llegar a la población la sicología de una manera más tangible.
 ---
+JORGE ALCOCER VARELA
+Doctor.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor.
 Hay antecedentes. Hemos invitado en dos ocasiones, pero con mucho gusto le volvemos a invitar, a nuestro equipo de salud mental del que nos sentimos muy orgullosos y contentos: el doctor Juan Manuel Quijada, la doctora Lorena Rodríguez Bores, el doctor Gady Zabicky el doctor Julio, Jorge Julio González Olvera, entre otros varios, Evalinda Barrón, Diana Tejadilla, etcétera.
 Yo creo que vamos a tener una nueva sesión con ellos y explicamos nuevamente los distintos recursos que se han planteado para la salud mental. Ha habido capacitación al personal de salud, ha habido estrategias de contención, el propio número de atención que ha explicado el doctor Ricardo Cortés, 800 00 44 800, una porción importante de las llamadas que se hacen son por asuntos de salud mental, contención emocional y otros aspectos, pero ya toca. Vamos a hacer una actualización y se los explicamos.
 ---
+PREGUNTA
+Aprovechando su buena voluntad, y qué bueno que están los dos, yo creo que es parte, me encargué de diseñar un programa de sicología y la verdad sí me gustaría sumarme con ustedes y con algunos colegas a poder esta lucha, porque yo siento que yo siento que tal vez en estas circunstancias se necesitan manos y quisiera ver si me pueden dar autorización de levantarme y entregarles esta hoja.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ahorita al final con mucho gusto lo recibimos.
+---
+INTERLOCUTOR
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Vamos a darle la palabra a usted y a la compañera y al compañero de allá atrás.
 Le comento mientras, ahorita me lo pasa con mucho gusto y sí, en general, damos la bienvenida a cualquiera que quiera sumarse a contribuir en este momento.
 Gracias.
 ---
 PREGUNTA
+Buenas noches, doctor Alcocer. Liliana Noble, de Pulso Saludable.
 Yo le tengo dos preguntas. La primera es si todavía no hay una vacuna, cómo es el mecanismo de la inmunidad de rebaño ¿cómo funcionaría si todavía no hay esta vacuna?
 Y la segunda pregunta es: ¿todos somos pacientes asintomáticos, seremos, fuimos?
 Espero que no. Gracias.
 ---
 JORGE ALCOCER VARELA
+No, la respuesta inmune es más amplia, pero la situación de rebaño, como se dice, es parte de ello.
 Tenemos un grupo de gente que está recibiendo el virus, que está reconociéndolo en toda esa maraña de células y empieza a protegerse produciendo moléculas, las más conocidas son las inmunoglobulinas, los anticuerpos y esos son parte de lo que les señalaba yo, que se guardan en la memoria y dentro de un año vamos a tener un espacio de meses, posiblemente nada más o menos inclusive, no sé cómo está sobrepuesto eso epidemiológicamente donde el virus ya no está activo, ya no tiene presencia, pero no se ha ido, hay enfermedades que tienen 50, 80 años y está el virus, otro virus, ahí presente en los tejidos y ya ahí se queda.
 Y en este caso, y también tenemos el ejemplo de los diferentes virus de la influenza, hay, pero son tantos los virus de las enfermedades respiratorias, que se protege para un grupo de ellos. Y en este caso, en esta experiencia que se está teniendo en estas nuevas células de nuestro organismo que están integrándose para contrarrestar el virus va quedando esa inmunidad.
 ¿Qué tan potente?, ¿qué tiempo?, ¿y por qué unos si y otros no? Esas son preguntas que las tenemos que ir… las están conociendo y se tienen que ir sustentando, y dentro de un año vamos a tener nuevamente la presencia del virus y en algunos de nosotros los que… espero que yo sea uno de ellos, ya protegidos, no sabemos, podemos tener anticuerpos y salir avantes de eso, y nos va a agarrar la influenza, o una influenza que no fuimos vacunados, pero si nos vacunamos en todas las opciones, saldremos adelante en varias de estas enfermedades. Esa es la situación en general.
 ---
+INTERLOCUTORA
+¿Somos pacientes o seremos en algún momento asintomáticos?
+---
+JORGE ALCOCER VARELA
+Somos sanos, vamos a decir, o somos… tenemos otras enfermedades, pero específicamente la de ese virus, la de SARS-CoV-2, esa es la que vamos a estar enfocando, no vamos a descuidar las otras, ustedes preguntaron, no podemos descuidar todo entre la gama de vacunas que tenemos y de inmunizaciones que se logran con tratamiento.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, la compañera, por favor, allá atrás.
+---
 PREGUNTA
+Gracias. Buenas noches. Mi nombre Kena Uribe, de Canal 6.
 Tengo tres preguntas rapidísimo. La primera, nos han llegado las denuncias de desabasto de sangre en cuestión de algunos hospitales, por ejemplo, el Hospital Juárez, en donde dicen que la gente ya no quiere ir a donar sangre ni plaquetas por miedo a que tienen un espacio para atender a pacientes de COVID; aunque estén en una sección específica, pues la gente ya no quiere donar y los pacientes oncológicos sobre todo pues están padeciendo de esto.
 Número dos, he visto algunas investigaciones de países como Chile, ahorita que relaciona estas enfermedades también referentes a que el virus, ya lo habían mencionado, puede entrar quizá por los ojos y esto se va al sistema sanguíneo y puede causar una trombosis. ¿Qué sucede con eso?, ¿es real?, ¿no?, ¿se han hecho las investigaciones?
 Y por último, si me podría mencionar, ¿se va a hacer alguna campaña o algo para poder conocer esta guía para las personas que necesiten una interpretación de señas?, ¿cómo va a funcionar esto de las videollamadas?, ¿se va a hacer una campaña o simplemente con la guía y los médicos?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Sobre las dos primeras preguntas, también hemos invitado a nuestro muy apreciado colega, el doctor Jorge Trejo Gómora, quien es el director general del Centro Nacional de Transfusión Sanguínea, y aquí explicó con detalle cuáles son las previsiones que tomamos hace varias semanas, son prácticamente siete semanas, ocho semanas, para que no hubiera escasez de sangre.
 Y, de hecho, identificamos con antelación que en México solamente tenemos una muy reducida contribución de la transfusión o de la donación altruista. Esto viene de muchos años, se erosionó la capacidad del sistema nacional de procuración de sangre y provisión de sangre, para que hubiera donación altruista, estamos hablando de 37 años más o menos y solamente el siete por ciento de la donación es altruista, es voluntaria, es por deseo de donar.
 Y desde hace muchos años, todos estos años que mencionó, se pasó a una modalidad que no es la más conveniente, que consiste en condicionar la atención hospitalaria a la donación. En forma práctica ha resuelto por casi cuatro décadas la disponibilidad de sangre, pero no es conveniente por muchas razones, entre otras porque desfavorece la donación que hay.
@@ -196,17 +265,28 @@ Entonces, si usted tiene información específica de lo que comenta nos va a ser
 Le pido al doctor si nos comenta de la guía.
 ---
 RICARDO CORTÉS ALCALÁ
+Con muchísimo gusto. La guía está ya publicada en la sección de personas con discapacidad en la página: coronavirus.gob.mx, así también en la sección de documentos de consulta para personal de salud.
 Y lo que vamos a hacer es una campaña específica a través de redes sociales para llegar a la mayor cantidad de personas y poder explicar también con algunos videos y audios cómo es que puede funcionar este vínculo que hacemos con la sociedad civil para que los intérpretes de lengua de señas mexicanas puedan apoyarnos a las personas que así lo requieren para poderse comunicar mejor con los servicios de salud.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Aquí aprovecho para complementar mi respuesta.
 Me escribe el doctor Jorge Trejo precisamente diciéndome que en el Hospital Juárez hoy, hoy, con la estadística de hoy existen 86 concentrados eritrositarios, esto, es decir, glóbulos rojos, son bolsitas de glóbulos rojos y 617 plasmas libres. Entonces, no hay escasez en el Hospital Juárez.
 ---
+INTERLOCUTORA
+Hace unos días nos comentaban que de 50 donadores que llegaban diario ahorita llegan cuatro y son los familiares, los mismos del hospital, están un poco preocupados, pero…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Así, es, gracias por la pregunta. Hacemos un llamado, aprovechamos aquí que nos escucha la ciudadanía, a donar sangre, es muy importante la donación de sangre, más útil es la donación voluntaria, y por supuesto que existe el mecanismo para que se haga donación voluntaria en los distintos bancos de sangre acreditados, sobre todo en las unidades hospitalarias y es muy importante.
 Durante la epidemia de COVID, en el momento en el que se alteran muchas de las actividades diarias puede ser que se reduzca la disponibilidad de sangre y esta disposición de sangre es sumamente importante para múltiples tratamientos que no tienen que ver con COVID y es muy importante que haya
 Entonces hacemos un llamado y le aprecio su pregunta motivar esta inquietud.
 Nos queda… ya se nos acabó el tiempo. Bueno, nos vemos mañana.
 Aquí está el anuncio. Si el doctor Cortés quiere comentar.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias. Solamente para cerrar la conferencia de prensa de hoy.
 Para todas las niñas y niños que participaron, muchísimas gracias. Más de tres mil 500 participaciones de diferentes niñas, niños y adolescentes de diferentes edades, de diferentes culturas con y sin discapacidad de todo el país que están aguantando ahí como campeonas y campeones la Jornada Nacional de Sana Distancia. Mañana es su día, mañana es el día en que van a interactuar con el doctor López-Gatell. Nos vemos mañana en punto de las 7:00
 Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Y cerramos agradeciéndole al doctor Jorge Alcocer, que vino no solamente en su carácter de secretario, sino ahora como maestro, inmunólogo, reumatólogo, internista.
+Muchas gracias, maestro.

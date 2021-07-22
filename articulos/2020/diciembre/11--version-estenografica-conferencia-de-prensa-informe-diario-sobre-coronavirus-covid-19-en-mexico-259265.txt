@@ -1,0 +1,302 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+11 de diciembre de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 del viernes 11 de diciembre de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la epidemia causada por el coronavirus SARS-CoV-2.
+Hoy vamos a tener varios elementos que comentar y para eso nos acompaña nuestro querido compañero y amigo, el doctor Alejandro Ernesto Svarch Pérez, quien es el coordinador médico del Insabi, el Instituto de Salud para el Bienestar, y en su carácter de coordinador médico ha estado en este momento en las últimas semanas recientes coordinando distintos esfuerzos de integración de equipos de salud, de brigadas médicas que solidariamente están apoyando a la Ciudad de México. Todo esto se está coordinando a partir del Insabi y el doctor Svarch es el directamente responsable, le agradecemos mucho a Ernesto, a Alejandro Ernesto, muchas gracias por acompañarnos.
+Hoy vamos a tener otra información que vamos a decir con considerable énfasis, vamos a empezar con una buena noticia y vamos a tener un señalamiento de preocupación.
+La buena noticia es: hoy, hace unos pocos minutos concluyó el proceso de evaluación de la vacuna de Pfizer-BioNtech, que fue sometida para evaluación a la Cofepris, la Comisión Federal para Riesgos Sanitarios, el pasado 26 de noviembre. Y como se conoce y lo platicamos ayer, cuatro países hasta el momento habían aprobado su uso de emergencia, le habían dado la autorización del uso de emergencia en el orden en que fueron apareciendo, es el Reino Unido, después la República de Baréin, después Canadá y ayer mismo la agencia federal, la Administración de Fármacos y Alimentos, FDA, de Estados Unidos; sin embargo, esta última, tenemos que tenerlo claro, lo que realizó fue el proceso de evaluación y de deliberación por parte de su comité asesor y es lo que se presentó públicamente.
+FDA, hasta donde conocemos, todavía no ha conferido la autorización para uso de emergencia. Entonces, estrictamente tenemos hasta el momento sólo tres países, que son Reino Unido, Baréin y Canadá, pero se agrega México como el cuarto país.
+México es el cuarto país cuya agencia de regulación sanitaria, la Cofepris, le ha conferido la autorización de uso en emergencias a la vacuna de Pfizer-BioNtech contra el virus SARS-CoV-2 para la prevención de COVID-19, esto es motivo, desde luego, de esperanza, de tranquilidad y como se ha comentado, como lo hemos dicho varias veces, el presidente López Obrador desde el inicio dio instrucciones muy precisas para que su equipo de trabajo, todos los que somos parte de este gobierno y tenemos una función específica que cumplir trabajáramos coordinadamente, como lo hemos logrado, y que impulsáramos la oportunidad de que México tuviera vacunas contra el COVID en el mismo ritmo de lo que están logrando otros países, particularmente los países más desarrollados o países con mayores recursos, que lo han logrado también desde el principio.
+Estamos en ese mismo ritmo, en esa misma oportunidad y ya hoy la Cofepris dio autorización de uso en emergencias a la vacuna contra el COVID de Pfizer-BioNTech. Buena noticia.
+Vamos a pasar al informe técnico que presentaré yo mismo, enseguida comentaremos un punto muy específico sobre la Ciudad de México que nos interesa destacar con considerable énfasis, como he advertido, y terminamos la presentación con la intervención del doctor Alejandro Svarch antes de abrir para preguntas y respuestas.
+Vamos a procurar terminar el primer bloque antes de las 19:40 para dar al menos unos 20 minutos de preguntas y comentarios.
+Si me pueden pasar la primera, por favor.
+Tenemos aquí, bueno, un recordatorio. Vamos en el día 195 de este proceso de organización de los confinamientos y desconfinamiento guiados por el semáforo de riesgo COVID, 195 días desde que entró en vigor este semáforo y esta orientación del gobierno federal a las entidades federativas, pero también un trabajo muy importante de las entidades federativas cuyos gobiernos son autoridades sanitarias.
+Tenemos el semáforo de riesgo COVID, precisamente el que está vigente del 7 al 20 de diciembre, según los lineamientos en su momento publicados en el Diario Oficial de la Federación que ahora establecen esta periodicidad quincenal.
+Vemos ahí a Zacatecas y a Baja California en color rojo, muchos estados en color naranja, algunos pocos en amarillo y tres en verde en el orden de aparición: Campeche, Chiapas y Veracruz.
+La curva epidémica de agregación semanal que ya todo mundo está familiarizado con ella, lo que nos muestra es, por un lado, esta tendencia creciente, este ascenso que se va presentando después de que llegamos en la semana 29 a los puntos máximos en la frecuencia de los casos confirmados, un descenso durante dos meses, agosto y septiembre, y a partir de octubre empezó a aumentar.
+Lo que tenemos aquí sobre todo es el indicador del porcentaje de positividad que, lo mismo, llegó a un punto máximo, por arriba del 53 por ciento, 53, 54, durante los mismos meses de agosto y septiembre y después, desde octubre se ha mantenido en fluctuación, pero con una tendencia al alza.
+En este momento 42 por ciento para el corte de información de la semana 48, que concluye mañana. Recordar que estamos viviendo la semana 50. Siempre la información que tenemos son los datos estables que tienen un corte hasta la semana dos previas.
+Cuando tenemos los casos estimados podemos ver, y este es el propósito de esta grafica, es la tendencia en el tiempo. Recordar que toda curva epidémica tiene en el eje horizontal el tiempo y en el eje vertical la intensidad del fenómeno. En este caso los casos estimados.
+La manera de interpretar esto es: entre más alta está esta curva, más casos; entre más baja, menos casos. De modo que cuando seguimos en el tiempo fuimos subiendo la cantidad de casos, llegamos a un punto máximo en la semana 29, que es la última semana del mes de julio, y posteriormente tuvimos agosto y septiembre de reducción, llegamos a un punto mínimo local hasta el 1º de octubre y después tuvimos esta tendencia al alza.
+Como hemos comentado repetidamente, en este momento ya superamos al punto máximo de julio y la tendencia sigue siendo ascendente. Para el cambio entre la semana 47 y la 48 cerramos casi la semana con un incremento de uno por ciento, veamos mañana sábado si todavía sube un poco más o este es el incremento máximo para el cambio semanal.
+Seis por ciento de los casos estimados, corresponden a casos recientes, casos activos. Ese es un indicador importante, que habla de la actividad epidémica y el potencial de contagio, que ahorita quiero destacar este elemento.
+También tenemos el indicador de mortalidad, que es muy importante, es la consecuencia más extrema, más lamentable de COVID-19, una enfermedad con enorme potencial de causar un extenso daño pulmonar y desde luego también de hacer que las personas pierdan la vida por esta enfermedad.
+Llegamos a un punto máximo en la semana 28 y posteriormente tuvimos un descenso, lo mismo, a partir de la semana 40 y 41 que es el inicio de octubre, una fase de ascenso.
+En el corte de la semana 47 a 48 casi para cerrar la semana tenemos un incremento de más ocho por ciento.
+La reducción neta, es decir, desde este punto hasta este punto es 34 por ciento en la cuenta de defunciones por semana.
+Recordar que estas curvas tienen una agregación semanal y semanalmente había llegado a tener cinco mil 397 defunciones como punto máximo en la semana 28 y en este momento estamos teniendo tres mil 552 por semana.
+La siguiente nos muestra la ocupación hospitalaria. Otro indicador fundamental y lo que hemos visto es también un incremento, recordar que esto lo habíamos advertido desde marzo que llegaríamos a octubre con una reducción y posteriormente en la temporada fría del año, en la temporada de otoño-invierno, como le ha ocurrido a todos los países del hemisferio norte, tuvimos un repunte, rebrote, exacerbación, cambio de trayectoria, hay muchos términos para designar al mismo fenómeno. En lugar de bajar, sube la epidemia.
+Y tenemos en este momento a nivel nacional una ocupación porcentual de 41 por ciento, cuatro de cada 10 camas destinadas a infección respiratoria aguda grave en el conjunto del país están ocupadas con una persona que está recibiendo atención, por lo tanto, están no disponibles.
+Y si lo vemos por entidades federativas, el orden que se ha presentado, en este momento la Ciudad de México es la zona de mayor intensidad de ocupación hospitalaria. En camas generales, 78 por ciento de las camas están ocupadas, casi ocho de cada 10 camas destinadas para la atención de COVID están ocupadas.
+Y en las camas con ventilador, las camas que son análogas o equivalentes al tratamiento de personas críticamente enfermas, como el que se da en las unidades de cuidados intensivos, tenemos que 34 por ciento están ocupadas, un poco más de tres de cada 10 a nivel nacional.
+Y también en el orden de aparición de las 32 entidades federativas la Ciudad de México es la zona con mayor ocupación, 62 por ciento, más de seis de cada 10 camas destinadas a la atención de personas críticamente enfermas por COVID en la Ciudad de México están ocupadas.
+Esto lo que nos lleva es al señalamiento principal que queremos hacer esta noche, que lo hemos venido comentando ya desde hace varios días y que hoy queremos sumarnos al énfasis que le ha puesto la jefa de Gobierno de la Ciudad de México, la doctora Claudia Sheinbaum en dos mensajes por video que presentó hoy.
+Como ella acostumbra presentar de manera transparente y clara la información, acompañada además de explicaciones a la ciudadanía y de recomendaciones precisas, hoy lo ha hecho con especial énfasis.
+Coincidimos plenamente en sus motivaciones para el énfasis, coincidimos plenamente en las recomendaciones que hace y nos sumamos como Gobierno de México a la inquietud que ha expresado sobre el riesgo de contagios en la Ciudad de México y sobre el riesgo que, de seguir estos contactos, sea sumamente difícil poder limitar el daño que causa esta epidemia.
+Vamos a tomar precisamente como referencia y con el permiso de la doctora Sheinbaum la alerta que ella ha emitido. Coincidimos con ella, estamos en alerta por COVID-19, estamos en emergencia por COVID-19 en la Ciudad de México.
+¿Por qué hacemos este señalamiento de alerta, de emergencia?
+Porque la acción que se requiere tomar no por parte del gobierno solamente, sino por parte de las ciudadanas y ciudadanos es extremadamente urgente, urgente.
+¿Qué es lo que urge?
+Que detengamos los contagios. Hemos explicado en innumerables ocasiones en esta conferencia y otros foros que los contagios no se detienen de un día para otro, los contagios empiezan a perder velocidad en la medida en que nos mantenemos lejos físicamente unos de otros, en la medida en que no salimos cuando no es estrictamente indispensable de nuestras casas, cuando cuidamos de no reunirnos en sitios públicos o lo que ahora es un fenómeno de enorme preocupación, cuando nos reunimos en espacios privados.
+Evidencia reciente en el mundo, particularmente de las grandes metrópolis como Nueva York, la ciudad de Nueva York, revelan que la contribución de las fiestas privadas, de las reuniones que ocurren en los espacios privados están teniendo un papel muy sobresaliente sobre la epidemia.
+No basta con no salir a la calle, no hay que reunirse en este momento con amigos, con familiares o personas perfectamente desconocidas, no importa quien sea, puede ser desconocida o conocida, pero lo importante es no reunirnos, no congregarnos.
+Lo que está ocurriendo en la Ciudad de México es lo mismo que ocurre en otras grandes metrópolis mundo. Comentábamos ayer el caso de Alemania, donde la canciller alemana ha hecho exactamente el mismo señalamiento que hoy hizo la jefa de Gobierno y que el presidente López Obrador hizo el viernes próximo pasado.
+Y el señalamiento es: ‘Necesitamos que todas y todos cooperen, cooperen, colaboren.’ Tengan claro que, aunque todas y todos estamos cansados de esta epidemia por los daños que ha causado por las afectaciones económicas y sociales que también ha causado, la epidemia no se ha acabado y desde octubre en México estamos en una fase de ascenso que describimos al detalle todos los días en esta conferencia.
+En este momento, habitantes de la Ciudad de México, todas y todos tenemos que cooperar, tenemos que unir esfuerzos, tenemos que ser conscientes de la importancia de cuidarnos y cuidar a los demás, siguiendo medidas que claramente han mostrado que si las hacemos todas y todos tienen mayor impacto positivo y se logra reducir los contagios.
+Estamos en alerta por COVID-19, estamos en emergencia por COVID-19 en la Ciudad de México, no debe haber duda alguna. La jefa de Gobierno de la Ciudad de México lo ha señalado con claridad.
+Vean ustedes la evidencia. Como lo hacemos en esta conferencia de carácter técnico, esta es la curva epidémica de hospitalizaciones en los hospitales públicos y privados de la Ciudad de México.
+Lo que ven ustedes en las distintas líneas es la tendencia que guarda a lo largo del año, aquí empieza el 1º de enero o febrero cuando empezó la epidemia a finales de febrero, las hospitalizaciones en las distintas categorías.
+Tenemos el conjunto en azul, las personas no intubadas en verde y las personas intubadas en este color naranja.
+Vean ustedes que llegamos en la Ciudad de México en los meses de finales de mayo, transición entre abril y mayo a un punto máximo antes que el pico máximo del país, después tuvimos un descenso, descenso, descenso, pero en el mes de octubre empezamos a tener un ascenso, ascenso, ascenso.
+Y quiero destacar una característica que hemos señalado aquí en innumerables ocasiones y pedirles la ayuda a ustedes, comunicadores y comunicadoras, para conferir este mensaje a la ciudadanía.
+La velocidad cada vez es mayor, la velocidad de la epidemia cada vez es mayor. Mientras que aquí teníamos esta velocidad de crecimiento, ahora tenemos esta y pronto tendremos una línea vertical hacia arriba, que es una epidemia en extremada aceleración.
+Por eso el señalamiento de la jefa de Gobierno ha sido: ‘Necesitamos cooperar todas y todos.’ Respaldamos este señalamiento.  Si no hacemos eso, puede ser que se rebase la capacidad hospitalaria.
+Como lo va a explicar el doctor Svarch, estamos haciendo múltiples esfuerzos por acelerar el crecimiento en la capacidad hospitalaria más aún de lo que lo hicimos en el verano. Pero la velocidad de crecimiento de la epidemia es sumamente acelerada.
+Vean ustedes, en camas totales, camas generales y camas por intubación el porcentaje de incremento. En este momento tenemos 74 por ciento de promedio, en camas generales 78 y en camas con ventilador 62 por ciento. Los números que acabo de comentar sobre de camas en la Ciudad de México.
+Aquí lo vemos por semana, es un detalle más. Estas presentaciones por supuesto son públicas, la doctora Sheinbaum la hizo pública hoy un poco más temprano. Vean ustedes cómo cada vez el cambio entre una semana y otra va siendo cada vez más grande. Si seguimos en esta congregación en espacios privados y circulación en espacios públicos, el salto para la siguiente semana va a ser mucho mayor.
+El llamado desde luego es este. El objetivo es bajar la curva. Se hace un llamado urgente a la población para cumplir cinco reglas básicas, cinco reglas básicas que hemos señalado una y otra vez, pero que enfatizamos de manera muy puntual en este momento con base en el mensaje de la jefa de Gobierno:
+Quédate en casa. Si no tienes que salir, no salgas. Juzga, evalúa, piensa si realmente tienes que salir. Si no tienes que salir, no salgas, espera, reprograma, pospón, cancela, quédate en casa.
+Lo segundo, si es indispensable que salgas, usa el cubrebocas y mantén siempre la sana distancia. Este tema es crucial, también lo hemos hablado muchas veces. El cubrebocas tiene sus límites. Toda esta discusión absurda que se ha dado de si cubrebocas sí, cubrebocas no, no tiene sentido. El cubrebocas sirve para algunas cosas y hay que usarlo por lo que sirve, pero hay que mantener la sana distancia invariablemente.
+No fiestas, no posadas, no reuniones con amigas amigos, vecinos, desconocidos, conocidos, no, este es un año en donde no hay que hacerlo.
+Agradecemos, mañana es 12 de diciembre, agradecemos la participación de la Iglesia católica de México que nos ha ayudó de manera muy solidaria a evitar que se diera el ritual de la Virgen de Guadalupe en la Basílica, para que vean ustedes la dimensión de las cosas.
+En muchísimos años, en décadas, en más de siglos de hecho, no se había interrumpido este ritual, por primera se suspense y se usa en otras modalidades: por televisión, por redes sociales.
+Seis millones de personas solían llegar a la Ciudad de México para celebrar las mañanitas de la Virgen de Guadalupe. Por primera vez en cientos de años esto no ocurre, porque ese es el nivel de importancia que tiene el no congregarnos.
+Las compras hay que realizarlas aprovechando los recursos existentes cuando esto es posible, con plataformas electrónicas.
+Cuando por alguna razón no es posible, tecnológica, económica, la que sea, que salga una sola persona por el abasto diario. Si se puede ir menos veces al abasto y se puede comprar anticipadamente algunos productos, cómprenlos anticipadamente, pero salgan lo menos posible.
+Y lo último muy importante que señaló también aquí la doctora López Arellano la semana pasada cuando presentamos el plan conjunto de apoyo a la Ciudad de México es que, si tienes positivo a COVID, aíslate, aíslate 15 días completos, aíslate, no veas a nadie.
+Si tienes síntomas y quien crees que te contagió está confirmado por laboratorio, no necesitas hacerte la prueba, asume que tienes COVID-19.
+Pero si además tienes 60 o más años de edad o tienes enfermedades crónicas, diabetes, hipertensión, etcétera, llama a Locatel en la Ciudad de México, 56 58 11 11, para que orienten sobre cómo y dónde te pueden evaluar para que no te vayas a complicar o tu familiar no se vaya a complicar y tenga un desenlace muy desfavorable, potencialmente fatal.
+La siguiente, por favor.
+Nuevamente, quédate en casa. Si no tienes que salir, no salgas. Este es un llamado urgente.
+Me gustaría, si podemos poner el video de la doctora Sheinbaum. Este es un video que se conoce ya públicamente, pero como lo respaldamos íntegramente, lo hacemos aquí presente para escuchar las palabras de la doctora Sheinbaum.
+---
+CLAUDIA SHEINBAUM PARDO, JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO
+Estamos en alerta por COVID-19, en emergencia por COVID-19 en la ciudad.
+Siempre he hablado con la verdad. Están subiendo las hospitalizaciones de manera acelerada. Estamos creciendo la capacidad hospitalaria junto con el Gobierno de México, pero hoy lo más importante es parar los contagios.
+Está comprobado que el crecimiento en el número de casos positivos y hospitalizaciones se ha dado principalmente por el aumento en el número de fiestas y reuniones familiares, donde se pierde la sana distancia, se quitan el cubrebocas y se relajan las medidas de cuidado.
+En la Ciudad de México vivimos casi nueve millones de habitantes y en esta época nos visitan alrededor de tres millones de la zona metropolitana, y depende de las acciones de cada uno de nosotros, las acciones que tomemos todos los días, que bajen los contagios.
+Vean el gran ejemplo que están dando los fieles de la Virgen de Guadalupe al no asistir este año a la Basílica y celebrar a la Virgen desde casa. A eso me refiero con la acción de cada uno de los habitantes.
+Por eso, en alerta COVID-19, en emergencia por COVID-19 en la ciudad, las acciones urgentes son:
+Quédate en casa. Si no tienes que salir, no salgas.
+Si es indispensable que salgas, usa cubrebocas y mantén siempre sana distancia.
+No fiestas, no posadas, no reuniones con amigos y familiares.
+En esta ocasión no invites y no aceptes invitaciones.
+En la medida de lo posible las compras debe de hacerlo sólo una persona.
+Y si eres positivo a COVID-19, aíslate 15 días y recibe apoyo médico, te lo daremos si marcas a Locatel o al SMS 51515.
+Confío en los habitantes de la ciudad. Nos encontramos en alerta por COVID-19. Están subiendo lsa hospitalizaciones y sólo, sólo si todas y todos cumplimos vamos a bajar los contagios en la ciudad.
+Seguiré informando.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Claudia Sheinbaum, por hacer este llamado tan claro, tan preciso y tan urgente a la ciudadanía en la Ciudad de México. Respaldamos enteramente sus palabras, su señalamiento y las acciones que ha tenido a bien disponer.
+Le vamos a pedir ahora al doctor Alejandro Svarch que nos comente cómo hemos venido trabajando en conjunto con el gobierno de la Ciudad de México y su jefa de Gobierno para expandir la capacidad hospitalaria y tener las posibilidades de alcanzar esta apremiante necesidad de atención.
+Doctor Svarch, por favor.
+---
+ALEJANDRO ERNESTO SVARCH PÉREZ, TITULAR DE LA COORDINACIÓN NACIONAL MÉDICA DEL INSTITUTO DE SALUD PARA EL BIENESTAR (INSABI)
+Muchas gracias, señor subsecretario. Es un placer y un honor acompañarlo en esta conferencia de prensa.
+El día de hoy presentaremos un grupo de acciones que henos estado desarrollando que nos permiten responder con mayor efectividad al manejo de esta pandemia por el virus SARS-CoV-2.
+Tenemos una presentación. Por favor.
+De lo que se trata, son unas brigadas médicas, denominadas Médicos del Bienestar. Estas brigadas tienen dos objetivos:
+Por un lado, aumentar las capacidades resolutivas del Sistema Nacional Público en este caso en la Ciudad de México.
+Por otro lado, relevar al personal médico, a nuestras compañeras, a nuestros compañeros, tanto de la rama médica como de la rama de enfermería que han trabajado con profundo coraje, con profundo abnegación, con profunda humanidad en el manejo de esta pandemia.
+De lo que se tratan son brigadas. En el momento tenemos 113 profesionales de la salud de los estados señalados en esta diapositiva, son estados que transcurren con semáforo verde, por lo que pueden acudir al llamado de solidaridad a la Ciudad de México.
+Aquí vemos al grupo de Campeche que llegó hace dos días a nuestra querida ciudad. De Campeche llegaron ocho profesionales de la rama médica y seis enfermeros y enfermeras; de San Luis Potosí, cuatro médicos y 10 enfermeras y enfermeros; de Veracruz hoy llegaron 20 médicos y médicas, cinco enfermeros y enfermeras; de Chiapas hoy en la tarde está aterrizando un vuelo de la Marina que, por cierto, agradecemos el apoyo solidario de nuestras Fuerzas Armadas para el transporte de esta fuerza efectiva para la salud de la Ciudad de México.
+Es muy importante reconocer a este personal que viene a la Ciudad de México arriesgando incluso su vida, trabajando con profundo amor y solidaridad para darle mayor capacidad de atención a la población de la Ciudad de México. La meta que hemos planteado es que ninguna persona en nuestra ciudad se quede sin atención por un equipo multidisciplinario para la atención de la enfermedad.
+En total son 113 profesionales de la salud que ya están asignados en un trabajo continuo que durará 14 días a estos hospitales: al Hospital General de México, al Hospital Enrique Cabrera y al Hospital de Tláhuac. Como ven ustedes, estarán los próximos 14 días trabajando en nuestra ciudad. Esto nos permite aumentar la capacidad, abrir más camas en estos hospitales y relevar a la fuerza médica y la fuerza de enfermería que ha estado trabajando con un componente incesante desde el inicio de esta pandemia.
+Adicionalmente, la estrategia plantea un sistema de telementoría para apoyar la mayor resolutividad de la fuerza humana en salud. Al momento tenemos 212 telementorías impartidas y más de 100 mil profesionales de la salud han recibido esta telementoría que imparten perfiles de muy alta gama de nuestros institutos nacionales.
+Reconocemos y agradecemos a nuestros líderes especialistas en la telementoría, a la doctora y amiga Alethse de la Torre, que aparte es la directora general de Censida; y al maestro Domínguez Cherit, que es el jefe de la Terapia Intensiva de Nutrición. Muchas gracias a nuestros líderes.
+Y por último hacer un llamado a nuestros compañeros, a nuestras compañeras, a que se unan al llamado de Médicos del Bienestar. Es importante relevar a los compañeros y a las compañeras que han estado con un profundo coraje y con una profunda abnegación, una profunda humanidad trabajando en las áreas COVID.
+Estamos contratando, las contrataciones están abiertas, invitamos a los profesionales de la salud a unirse a esta batalla que en este momento está dando la ciudad contra la COVID-19.
+Muchas gracias señor subsecretario.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alejandro Svarch, coordinador médico del Instituto de Salud para el Bienestar.
+Si dejan unos minutitos la última diapositiva para que no se nos olvide el llamado urgente en la Ciudad de México.
+Vamos a abrir a preguntas y comentarios. Vamos a empezar con Héctor García, que quedó pendiente, igual que Juan Carlos Machorro. Adelante, por favor.
+---
+PREGUNTA
+Gracias, subsecretario, muy buenas noches.
+Dos preguntas. Una, por redes sociales salía también que la jefa de Gobierno esperaba que usted declarara o no en color rojo la Ciudad de México. Entonces, nada más queremos que nos aclare sobre eso.
+Y la otra, ayer un compañero de Audiorama le hacía la pregunta de la muchísima gente que sale a las calles, pero ahora vemos que ya no solamente es en la Ciudad de México, sino en ciudades en donde ya estaban en color amarillo, incluso hasta en verdes; por ejemplo, me mandaban acá de Villahermosa, Tabasco, que los grandes centros comerciales están atestados de muchísima gente haciendo compras de pánico y ni siquiera usan el cubrebocas.
+Entonces ¿ahí cuál sería la postura o la reacción de la Secretaría de Salud en cuanto a un llamado, sanciones?, ¿qué nos podría decir, subsecretario?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo mismo que hemos venido diciendo repetidamente, consistentemente todos los días.
+Y vuelvo a pedir su apoyo, ayer se los pedí, se los pido nuevamente a ustedes, no solo como reporteras, como reporteros, sino a sus editores, a sus casas editoriales, periódicos impresos, radio, televisión, canales de YouTube, canales de Facebook, cualquier medio que tengan.
+Sumemos esfuerzos, por favor sumemos esfuerzos. La orientación informativa, qué bueno que sea libre, qué bueno, que quede clarísimo, qué bueno que sea libre, pero suplicamos que la prensa en México, cualquier medio informativo ayude a México.
+El mensaje es el mismo: la epidemia está activa y de la actitud, del comportamiento que tengamos todas y todos depende que la epidemia se acelere o se desacelere.
+Esta idea que se ha ido a lo largo de la epidemia alimentando por cierto medios de comunicación y redes sociales pareciera desconectarse de la realidad, como si el gobierno pudiera mágicamente detener la epidemia.
+Por eso hemos puesto en innumerables ocasiones las comparaciones con otros países. Más allá de que si el número cuatro, el número 10, el número ocho o la suma de casos o defunciones, el fenómeno es el mismo.
+Mexicanas y mexicanos, observen al mundo también. Por eso puse el ejemplo de Alemania porque está muy fresco. La canciller Angela Merkel, la jefa de Estado de Alemania, hace un llamado que es idéntico al que acaba de hacer la jefa de Gobierno de la Ciudad de México, idéntico al que hizo el alcalde de Nueva York, idéntico al que hacen todas las mandatarias y mandatarios del mundo: que toda la población tome acciones por sí misma.
+Es imposible, por innumerables razones desde éticas, hasta legales, hasta prácticas esta idea falsa, ficticia, desvirtuada, de que el gobierno va a llegar y va a meter a su casa a las personas. Eso no tiene sentido, eso no está ocurriendo en ninguna parte del mundo.
+De cuando en cuando aparecen posicionamientos más de carácter político que de un carácter de sentido común, de gobiernos que presentan ideas de que van a actuar con firmeza. No tiene sentido. Aun cuando se pretendiera eso en algún lugar del mundo, físicamente es imposible, porque si se mete a la fuerza a una persona a su casa o a dos o a cinco o a 120 millones, hay que darles los medios para que puedan estar físicamente permanentemente en sus casas.
+Esto es un asunto de conciencia pública y es un asunto de propagar consistentemente el mismo mensaje. Yo les agradezco que aquí digan cuál es el pronunciamiento, el llamado que hace la Secretaría de Salud, pero les pido que ya no sean nada más la Secretaría de Salud la que hace el llamado, nosotros venimos haciéndolo desde febrero, todos los días hacemos el mismo llamado.
+¿Cuál puede ser llamado de la Secretaría de Salud?
+Ahí está el llamado, ahí está el llamado.
+¿Es distinto al que dijimos en marzo?, ¿es distinto al que dijo la jefa de Estado de Alemania?, ¿es distinto al que dicen otras mandatarias y mandatarios?, ¿es distinto al que dicen gobernadoras y gobernadores en México o líderes provinciales en otros países?, ¿es distinto al que dicen las personas que participan en las redes sociales?
+Es el mismo, es el mismo. Ahora, en este momento que estamos en diciembre y que en muchos países es el momento de ciertas festividades, desde luego dependiendo cuál es la cultura o la tradición religiosa de los países, varía, pero en general en diciembre hay una gran cantidad de población que tiene ciertas festividades.
+En México, la Virgen de Guadalupe es una festividad social, no tiene nada que ver con el gobierno, somos un gobierno laico evidentemente, pero hay que reconocer la realidad, seis millones de personas suelen ir a la Basílica de Guadalupe antes del 12 de diciembre.
+Hoy ya logramos, la jefa de Gobierno lo logró, el Gobierno de México lo logró, trabajamos conjuntamente y logramos la cooperación, cosa que agradecemos, de la Iglesia católica en México que administra el templo de la Basílica y hoy no están seis millones de personas en el atrio de la Basílica.
+Agradecemos a todas las personas, todas las personas que hacen su esfuerzo y que saben que queriendo salir, necesitando a veces salir, prefieren quedarse en casa.
+Pero a quienes no lo hacen y todavía pueden hacer un examen de consciencia y reflexionar si realmente esa fiesta a la que les invitaron con tres o cuatro personas o esa fiesta de ocho a 10 personas o esa fiesta de 120 personas, o esa boda que no se quiso cancelar y tiene 300 personas, todas esas actividades están contribuyendo a mover esta epidemia hacia arriba. No debe de haber ninguna duda a estas alturas.
+¿Cuál es el llamado de la Secretaría de Salud?
+Este.
+¿Cuál ha sido durante todas estas centenas de días?
+Este.
+¿Cuál es el llamado en cualquier país del mundo?
+Este.
+Por favor, prensa mexicana, ayuden, ayuden a su país, ayuden a su pueblo, ayúdense ustedes mismos y mismas, ayúdense.
+Descansen un poquito agendas de otra naturaleza; o ténganlas, insisto, no debe, espero que mañana no haya una primera plana que diga: ‘Regañó a la prensa’, no, que haya mañana una primera plana que diga esto nuevamente y en lugar de poner cuentas de casos acumulados, que diga esto, consistentemente, no una vez, todos los días, como lo hacemos nosotros.
+---
+INTERLOCUTOR
+Pero en el caso de las grandes tiendas departamentales como Liverpool, que están haciendo ese tipo de ventas, como lo mencionaba, en Villahermosa, Tabasco, ¿cómo podría ayudar ahí la Secretaría de Salud?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Insisto, esto es una situación de Estado, es algo que le afecta al Estado mexicano. El Estado lo compone su población, su territorio y su gobierno.
+La Secretaría de Salud no va a ir a clausurar físicamente Liverpool o cualquier centro comercial. La población que se abstenga de ir ahí y los gerentes y dueños de todos los establecimientos comerciales también que reconsideren.
+Hay lineamientos precisos, los hemos venido publicando y los hemos anunciado aquí todos los días cuando aparece un nuevo lineamiento. Recuerden que apareció un lineamiento de seguridad sanitaria en espacios públicos cerrados’.
+¿Cuándo lo publicamos?, ¿recuerdan?, ¿recuerdan cuándo lo publicamos?
+En abril lo publicamos, ahí sigue, es el mismo, no puede cambiar, no tiene por qué cambiar, porque los espacios públicos cerrados siguen siendo una zona de riesgo de transmisión del COVID.
+Por favor ayúdenos, por favor ayúdenos todos, ayúdenos, ayudémonos. Es el mismo llamado también que hizo el presidente el viernes pasado, y la mayoría del pueblo lo ha hecho, pero se requiere redoblar esfuerzos.
+---
+INTERLOCUTOR
+En cuanto al color, secretario.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+En cuanto al color es hasta cierto punto intranscendente. Alerta por COVID-19, emergencia por COVID-19, ¿hay alguna duda?
+Por favor.
+---
+PREGUNTA
+Si, gracias. Buenas noches. Arturo Pavón, del Chapucero Network en redes digitales.
+Con respecto a eso que está mencionando el compañero sobre los comercios, hemos notado por andar aquí en el Centro bastante tiempo, hemos notado que los comercios efectivamente sí tienen los protocolos, por eso al parecer hay mucha gente en las calles porque están esperando a entrar, y lo hemos visto que todos son muy respetuosos de esos protocolos, tanto la cantidad de gente que puede entrar en el restaurant, en una fonda o en los centros comerciales. Nada más quería hacer la notación que yo sí he visto que los comercios sí están respetando los protocolos.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien.
+---
+INTERLOCUTOR
+Rápidamente dos preguntas. En promedio en cuanto a la hospitalización sin intubación ¿cuál es el promedio de estancia?, ¿qué tiempo está una persona sin intubación, que no ameritó estar dentro de lo que es una terapia de ventilación?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, gracias por la pregunta. Esto va variando o ha variado a lo largo del tiempo durante la epidemia, también varía de entidad federativa en entidad federativa, también varía de país en país y depende mucho de… la pregunta es sumamente importante, se la agradezco.
+¿Cuánto tiempo va a tardar una persona hospitalizada?
+En promedio ha estado fluctuando de 11 a 12 días hasta 16 días para las personas no intubadas.
+Las personas intubadas han estado en promedio desde 12 días y hasta 24, 25 días a lo largo de la epidemia.
+Pero lo más importante y es un mensaje que repetimos también diariamente es que una persona que se tardó en llegar va a estar más tiempo en el hospital. Una persona que se esperó en casa a pesar de que tenía 60 o más años de edad o a pesar de que tenía hipertensión o a pesar de que tenía obesidad, o a pesar de que tenía diabetes o cualquier condición causante de inmunosupresión, cáncer, insuficiencia renal, si se espera más de 24, 48 horas, es decir, más de un día o dos, va a tener un importante deterioro de los pulmones y si se deterioran los pulmones va a necesitar apoyo con oxígeno suplementario o con intubación para recibir oxígeno a presión durante más tiempo.
+¿Cómo podemos reducir el tiempo de estancia hospitalaria y el riesgo de complicaciones y de muerte?
+Llegando pronto al hospital. Mañana va a venir a la conferencia el doctor Ruy López Ridaura, que le ha estado dando seguimiento como ustedes saben a este tema y va a presentarlo en números, va a mostrar cómo si reducimos el tiempo de llegar al hospital logramos reducir la mortalidad y logramos reducir el tiempo en que van a tener que estar hospitalizados.
+---
+INTERLOCUTOR
+Muchas gracias.
+Y la segunda pregunta es si ha habido algún problema con la aplicación de la vacuna en el Reino Unido, que fueron los primeros que la iniciaron, al parecer hubo algún contratiempo con algunas personas que tenían cierta afección y se ha sugerido por parte de las autoridades del Reino Unido que la gente que tiene alergias a algo, no sabemos exactamente…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto, lo comentábamos ayer, creo que fue Arturo Contreras quien lo mencionó.
+Lo sintetizo respecto a la explicación un tanto más larga que di ayer. Casi todos los productos farmacéuticos igual que muchos productos de alimentos pueden causar alergia en alguien. Las alergias son raras, son raras me refiero a infrecuentes, y cuando se evalúa a un producto farmacológico, en este caso las vacunas, para eso se hace la investigación clínica en etapas, la etapa 1, la etapa 2 o fase 1, fase 2, finalmente los estudios de gran escala con decenas de miles de personas, porque progresivamente se va ir viendo qué tan frecuente que haya alergias, entre otras posibles reacciones, en personas que lo usan, y se empieza a entender cuál podría ser la persona que va a ser alérgica.
+A veces son los componentes mismos de la fórmula del producto y eso hay personas que ya se sabe que tiene un antecedente a algunos de los componentes de la fórmula, y las especificaciones de uso generalmente dicen: ‘No se use en personas alérgicas o con antecedentes alérgicos’.
+---
+INTERLOCUTOR
+Pero ¿modifica de alguna manera la política de…?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es tan infrecuente, lo decíamos ayer, es tan infrecuente las reacciones alérgicas que no modifica, es decir, el resumen es la enorme, enorme, enorme mayoría de personas en México y en el mundo van a poder utilizar esta vacuna.
+Las personas, que son muy pocas, afortunadamente, que tienen alergias graves conocidas con anterioridad no la podrán usar, pero son una minoría muy minoritaria, muy pequeña afortunadamente.
+Muchas gracias.
+Juan Carlos Machorro, AM Noticias, de Querétaro.
+---
+PREGUNTA
+Sí, buenas noches. Juan Carlos Machorro, de AM, de Querétaro.
+Doctor, hace un par de días la gobernadora de Sonora dijo que su estado era prioritario o pidió que su estado sea prioritario. ¿Cómo va a ser esta cuestión o cómo está haciendo esta cuestión para que al rato…? Sabemos que es muy loable que los gobernadores digan que todos quieren ser prioritarios, pues que no sea un jaloneo y acabe siendo no una petición de buena voluntad, sino acabe cayendo en una situación politización, y más que viene un año de elecciones, y todo mundo va a querer decir: ‘Mi estado fue el primero que trajo las vacunas para X o Y segmento poblacional?, ¿cómo está haciendo ese trabajo?
+Y si me permite, al representante del Insabi, ¿cómo van al momento las contrataciones de nuevo personal, cantidades, estados que ya tienen más personal contratado?, porque, aunque estén trasladando equipos de apoyo, tarde o temprano también esas personas van a acabar exhaustas y yo creo que el mismo doctor Gatell ya lo ha dicho, el sector médico ya se está agotado y así como se ve, todavía le quedan meses de trabajo extenso.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Adelante, por favor.
+---
+ALEJANDRO ERNESTO SVARCH PÉREZ
+Hemos tenido… Muchas gracias por la pregunta, nos permite ilustrar que el proceso de contratación de profesionales de la salud no ha parado.
+Desde el inicio de la pandemia hemos reclutado cerca de 55 mil profesionales de la salud para el manejo de esta lamentable situación que enfrenta con gran heroicidad nuestro país.
+Aún seguimos contratando y para el cierre de este ejercicio fiscal aún nos quedan como cerca de mil 800 nuevas contrataciones que seguimos haciendo solamente para el Valle, para la zona metropolitana.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Sí, sobre esto, también ayer y anteayer lo comentábamos y justo esto muestra la importancia de trabajar unidas, unidos todas las mexicanas y mexicanos independientemente de a qué nos dediquemos, y en materia de gobierno, unidos los gobiernos. Por eso hay un solo plan, en todos los países del mundo hay un plan nacional central.
+Uso un ejemplo de nuestro país vecino del norte, Estados Unidos. Estados Unidos es también una República federal igual que lo es México y los estados son libres y soberanos. Independientemente que al interior de cada estado hay planes sobre cómo facilitar la distribución de las vacunas, el gobierno federal de Estados Unidos es el comprador único de todas las vacunas que se usarán en Estados Unido, pongo un ejemplo, por la vecindad en un país también geográficamente extenso y federal.
+Es lo mismo que hay en México, es lo mismo que hay en todos los países.
+Entonces la inquietud de: ‘Mi estado es prioritario’, la respuesta es, hay 32 estados prioritarios en México.
+Muchas gracias.
+Liliana Noble y nos pasamos con usted, y Carlos Abaroa.
+---
+PREGUNTA
+Buenas noches, Liliana Noble, de Pulso Saludable.
+Doctor Svarch, quisiera saber si todavía están solicitando fisioterapeutas, cuántos necesitarían, si van a estar basificados, si solamente va a ser una contratación temporal.
+Y, doctor Gatell me gustaría saber, ya una vez que le aplicaron la vacuna a quien sea ¿cuál es el protocolo o la forma en la que se debe dirigir en su casa socialmente, ¿ya no usar el cubrebocas, ya puede andar besando y abrazando a todos, etcétera?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, con gusto. Por favor, doctor Svarch.
+---
+ALEJANDRO SVARCH PÉREZ
+Efectivamente, necesitamos aún fisioterapeutas. La política de recursos humanos para el manejo de la pandemia siempre ha sido un equipo multidisciplinario que incluye una gama amplia de profesionales de la salud y los fisioterapeutas son muy necesarios, sobre todo para la recuperación del paciente que tuvo COVID-19 y el paciente que tiene COVID-19 y que permanece más de una semana en terapia intensiva.
+La pregunta de contratación regular o no regular, la contratación es regular con un sueldo por encima del promedio nacional, con todas las prestaciones de seguridad social y el compromiso de que esta contratación será continua durante todo el próximo ejercicio fiscal y la promesa de que se puedan regularizar en el Sistema Nacional Sanitario.
+Podemos poner, si me permiten, la diapositiva en el cual es la plataforma de reclutamiento del sector salud, Médicos del Bienestar, es la última. Ahí está, esa es la página, médicosdelbienestar.salud.gob.mx, es una plataforma que permite subir el título, la cédula profesional, da un folio y ese folio se lo damos a la Secretaría de Salud de los estados y una persona de reclutamiento de Médicos del Bienestar se pone en contacto con estos héroes.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Svarch.
+Ya iremos platicando detalles cuando lleguen las vacunas y conforme se vayan utilizando, la campaña de comunicación precisamente está orientada a ello, por ahora quisiera nada más decirlo en términos generales. La mayoría de las vacunas tarda 15 días en promedio en lograr su efecto, entonces aun cuando una persona haya sido vacunada no tiene una protección inmediata, pero lo iremos detallando conforme sea pertinente.
+Por favor.
+---
+PREGUNTA
+Muchas gracias subsecretario. Abraham Nava, de Imagen y Excélsior.
+Si pudiera detallar ahora qué pasa con esta aprobación de Pfizer, bueno, de Cofepris a la vacuna de Pfizer. ¿Cuánto tiempo ya se tardaría en llegar a México?
+Y si nos pudieran dar detalles de cómo va a empezar esta vacunación.
+Y si ya tiene fecha para cuándo se estaría vacunando el presidente Andrés Manuel López Obrador.
+Y también quisiera hacerle otra pregunta sobre esta ampliación que están haciendo de infraestructura. Antier el IMSS declaró que iban a comprar insumos para intubación, medicamentos que se necesitan para intubación por el desabasto que había. ¿Qué sucede en el sector salud, en la Secretaría de Salud, con estos insumos?, ¿hay desabasto?, ¿están las compras listas para atender esta creciente demanda que hay en los hospitales?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Son demasiadas preguntas, dudo que nos dé tiempo en los escasos minutos que nos quedan, pero comentaré sobre algunas que son relevantes en este momento.
+Las vacunas hoy que la Cofepris ha conferido la autorización para uso de una emergencia, específicamente para la vacuna de Pfizer o exclusivamente para esta hasta el momento, ya están en posibilidad de ser utilizadas en el territorio mexicano.
+Y hemos venido trabajando en el proceso de importación, tenemos un grupo de colaboración de gobierno donde participa el Sistema de Administración Tributaria, la Dirección General de Aduanas o la Administración General de Aduanas, la Secretaría de Relaciones Exteriores, la Oficialía Mayor de Hacienda, varias oficinas de la Secretaría de Salud, etcétera.
+Y entonces estamos ya preparados para emitir la orden de adquisición. En todo este momento hemos estado en una estrecha conversación con Pfizer para que Pfizer la otorgue y una vez que se haga la orden de adquisición, Pfizer durante ocho días reconstituye el producto o lo acondiciona como se llama técnicamente y lo envía.
+Los puntos de distribución han sido definidos, los comentamos desde el martes en la mañana, no ha variado, información que dimos el martes en la mañana y que hemos comentado a lo largo de toda la semana es la misma: México, Ciudad de México, Coahuila.
+Los puntos son instalaciones militares exclusivamente, en este momento es irrelevante para la población dónde va a haber un punto de vacunación. Que quede claro, durante diciembre nadie que no sea personal de salud previamente seleccionado por las propias instituciones de salud, incluyendo médicas y médicos y otros miembros del personal de salud de dependencias privadas, nadie más será vacunado.
+Y son muy poquitos por ahora, en el arranque son 125 mil personas de manera continua, sin pausa en el enero y hasta febrero estaremos completando este primer grupo de riesgo.
+Muchas gracias.
+---
+INTERLOCUTOR
+¿El presidente ya tiene fecha de vacunación?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El presidente ya comentó el martes, si quieren la próxima conferencia de prensa le preguntan y ya sobre eso nos vamos.
+Carlos Abaroa.
+---
+PREGUNTA
+Buenas noches, doctor Gatell; muy buenas noches, doctor.
+Dos preguntas. La Ciudad de México con respecto al día de hoy y mañana se pudo retener el asunto de la Basílica de Guadalupe; sin embargo, en el asunto comercial no ha sido posible esto.
+Como decía el compañero de Basta, efectivamente, se hace el llamado de parte de la jefa de Gobierno, de la Secretaría de Salud a que la gente esté en su casa y todo; sin embargo, en la mercadotecnia de las grandes empresas se habla de ofertas, ofertas navideñas y todo.
+Tuve la oportunidad hoy de ir a recargar, hacer una recarga a una plaza y me sorprendí la cantidad que había en esta tienda departamental de Liverpool, filas completas, doctor.
+¿El gobierno tiene alguna medida aparte del llamado a la población para evitar esa situación?, como, por ejemplo, ya está pasando en el Estado de México que el gobernador ordenó, decretó que todos los comercios no esenciales a las 5:00 de la tarde se cerraran. La primera pregunta.
+La segunda es respecto al asunto de las mascotas. Todos los niños tienen mascotas, la mayoría, y conviven con ella hasta ahorita. ¿Hay análisis de la secretaría correspondiente respecto a las mascotas?, ¿es posible que se contamine, que se difunda en esto?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, gracias, Carlos, por ambas preguntas.
+Sobre la primera, la respuesta es sí, definitivamente la propia jefa de Gobierno, la doctora Claudia Sheinbaum en su anuncio de hoy por la mañana comentó que entre las distintas actividades está un acercamiento con los distintos organismos del sector empresarial y comercial.
+Entonces, ella está en la medida. La respuesta sí, igual que en el Estado de México. En la Ciudad de México también la jefa de Gobierno está en conversaciones con las cámaras industriales y de comercio, con el empresariado relevante para la Ciudad de México para establecer límites a estas actividades que inducen o fomentan la llegada de personas.
+Dicho sea de paso, respecto a qué indicaciones da el gobierno, repetimos, desde abril, abril están publicados lineamientos específicos sobre aforo, sobre mecanismos de filtros, sobre concurrencia, sobre distancia, etcétera.
+Varias empresas, y también quiero agradecerlo públicamente, hay varias empresas, una de ellas es la industria del cine, de la exhibición de cine, desde el inicio tomó decisiones, y aunque abrieron cuando habría que abrir han mantenido muy cuidado el aforo en las salas de cine. Y a pesar de que esto seguramente menos lucrativa la actividad comercial de estos establecimientos, han mantenido muy riguroso eso.
+Estoy seguro que el empresariado mexicano le ha escuchado y que están reflexionando sobre cómo pueden ayudar mejor a la ciudadanía, a la población y a sí mismos, a sus conocidos, porque seguramente hay empresarios y empresarias que aún pueden hacer una reflexión sobre cómo tener una colaboración mayor que ayude a sacrificar ganancias económicas, pero salvar vidas.
+Sobre lo que decía y es lo último que nos da tiempo de comentar son las 20:00 horas, ayer, precisamente, salió una noticia, una comunicación, la Secretaría de Agricultura y Desarrollo Rural, específicamente el Servicio Nacional de Inocuidad en Calidad Agroalimentaria, Senasica, presentó públicamente resultados de tres aislamientos o tres detecciones de virus SARS-CoV-2 en mascotas humanas, específicamente caninas y esto causó cierta inquietud o revuelo.
+Quiero comentar, este tipo de informes han existido en el mundo desde que empezó la epidemia, en febrero ya había algunos reportes, en China, después hubo varios en Europa, varios en Estados Unidos, no es un fenómeno estrictamente nuevo.
+En México Senasica en uso de sus atribuciones ha venido monitoreando también SARS-CoV-2 en las especies animales y, por cierto, hace un trabajo excelente, felicitamos a nuestras compañeras y compañeros de Senasica y al secretario de Agricultura y Desarrollo Rural, porque han estado muy al pendiente de esto.
+Lo importante, ¿qué implica para usted, que tiene un perro o tiene un gato o tiene cualquier otra mascota?, le entrará la preocupación de sí puede ser contagiada o contagiado por su querida mascota.
+La respuesta es no, es extraordinariamente improbable que esto pueda ocurrir. Las mascotas y otras especies animales, que no necesariamente son mascotas domésticas, son portadores accidentales de estos virus, lo más probable es que en algún momento un ser humano contagió a los animalitos, afortunadamente hasta lo que se ha descrito, los animalitos no sufren un grave daño y entonces no representa un riesgo mayor a la salud pública.
+Sader sacó una comunicación ayer mismo y hoy planeábamos traer a nuestros compañeros de Senasica a que lo comentaran, pero decidimos posponerlo por la importancia del mensaje central que les pido, por favor, nos ayuden a difundir hoy.
+En resumen, hoy tenemos dos o tres elementos fundamentales:
+El primero es una buena noticia, Cofepris otorgó la autorización de uso en emergencia de la vacuna de Pfizer-BioNTech contra el SARS-CoV-2 para prevenir COVID.
+El segundo es un llamado urgente de alerta de emergencia en la Ciudad de México a seguir una serie de indicaciones, la principal es quedarnos en casa, mantener la sana distancia, desde luego, como siempre, utilizar el cubrebocas.
+Y la tercera es lo que presentó el doctor Svarch. Desde hace dos semanas hicimos un operativo conjunto de apoyo a la Ciudad de México por parte del gobierno federal y estamos con la solidaridad de varios gobiernos estatales, 11 gobiernos estatales que han sido mencionado que están mandando brigadas médicas.
+Y el Insabi a cargo de Juan Ferrer, y directamente a cargo del doctor Svarch, van a estar coordinando todo este operativo.
+Muchas gracias. Buenas noches, 20 horas con tres minutos.

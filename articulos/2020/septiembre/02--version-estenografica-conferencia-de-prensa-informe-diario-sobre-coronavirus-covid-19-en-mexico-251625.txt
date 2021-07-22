@@ -3,6 +3,7 @@ Presidencia de la República
 02 de septiembre de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:01 del miércoles 2 de septiembre de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus, ya no tan nuevo, SARS-CoV-2.
 Hoy tenemos nuestro informe técnico que presentará el doctor José Luis Alomía, director general de Epidemiología de la Secretaría de Salud, y abordaremos un tema que periódicamente conviene actualizar y es cómo se trata a las personas con COVID, cuáles son los tratamientos adecuados.
 En términos generales y como idea principal, no existe, no existe todavía ningún tratamiento específico contra COVID-19, desafortunadamente no existe en el mundo entero, no existe; sin embargo, el manejo médico -le llamamos manejo a los cuidados médicos que se le dan a las personas que tienen alguna enfermedad, en este caso COVID- tienen múltiples componentes que dan la oportunidad de intervenir positivamente para reducir el riesgo de complicaciones de complicaciones y riesgo de muerte en personas con COVID.
 Esto es crucial, lo hemos conversado varias veces, pero por eso consideramos importante actualizar la idea repetidamente para que no la perdamos de vista, tanto el público en general, las personas que habitan en el país, como nuestros colegas, las médicas y los médicos que tratan a las personas con COVID.
@@ -13,7 +14,7 @@ Los pulmones se inflaman, los pulmones se dañan, se llenan de líquido, tienen 
 Además, una persona que tiene fiebre pierde más líquido, y si es una persona adulta mayor más fácilmente puede tener un deterioro orgánico porque la falta de líquido hace que la presión sanguínea no sea la suficiente para dotar de oxígeno y nutrientes a los distintos órganos del cuerpo.
 Entonces, aquí es donde viene la sorpresa, que es muy desafortunada, que una persona pensó que iba a tener una enfermedad leve y se tardó uno o dos días, o tres días y cuando llega al hospital es porque está en un estado muy avanzado del deterioro orgánico, se detecta que tiene una saturación de oxígeno en la sangre muy baja.
 Lo normal es que haya 95 por ciento o más, si baja del 93 por ciento ya es una señal muy preocupante, pero si ya llega con mucho menor porcentaje de saturación de oxígeno, quiere decir que ha pasado varios días en que se han estado dañando los órganos vitales por la falta de oxigenación en la sangre.
-Entonces, el mensaje fundamental que queremos transmitir hoy es, uno, un mensaje de alerta, un recordatorio de un mensaje de alerta que hemos estado formulando periódicamente: no se espere, si usted tiene estos síntomas,        fiebre, tos, dolor de garganta, dolor de cabeza, malestar general, pérdida del olfato, pérdida del gusto, y además es una persona mayor de 60 años o con las enfermedades crónicas que repetidamente mencionamos, diabetes, obesidad, hipertensión, tabaquismo, inmunosupresión, vaya lo más pronto posible al hospital para que sea valorada.
+Entonces, el mensaje fundamental que queremos transmitir hoy es, uno, un mensaje de alerta, un recordatorio de un mensaje de alerta que hemos estado formulando periódicamente: no se espere, si usted tiene estos síntomas,        fiebre, tos, dolor de garganta, dolor de cabeza, malestar general, pérdida del olfato, pérdida del gusto, y además es una persona mayor de 60 años o con las enfermedades crónicas que repetidamente mencionamos, diabetes, obesidad, hipertensión, tabaquismo, inmunosupresión, vaya lo más pronto posible al hospital para que sea valorada.
 Si en la valoración se detecta que no tiene manifestaciones ya sea clínicas o radiográficas o funcionales de COVID grave, será una excelente noticia, pero se podrán hacer varias cosas antes de que presente deterioro. ¿Y cuáles son esas cosas?
 Ese es el manejo médico de COVID y vamos a distinguir hoy en la presentación que hará el doctor Ricardo Cortés las distintas etapas, el COVID leve, que es la manifestación de ocho de cada 10 personas que presentan COVID; un COVID más grave y un COVID francamente grave.
 Que quede claro, no son distintas enfermedades, son potencialmente distintas etapas de la misma enfermedad causada por la infección por el virus SARS-CoV-2, pero distinguir los momentos es importantísimo porque esto permite identificar un gran momento de oportunidad de detección, un gran momento de oportunidad de vigilancia y atención con una serie de medidas que, aunque tienen un carácter general, como la oxigenación no invasiva, como la hidratación, pueden tener una repercusión muy positiva para prevenir el llegar al COVID grave, que es el que puede ser letal.
@@ -21,6 +22,7 @@ Esa es la idea principal, la explicará el doctor Ricardo Cortés en detalle y p
 Doctor Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso señor subsecretario.
 Muy buenas tardes todas y todos. Bienvenidos a esta conferencia vespertina número 187, en el día 95 de la Nueva Normalidad, que, como ustedes saben, está caracterizada por las intervenciones regionalizadas del semáforo de riesgo COVID.
 Vamos a actualizar el escenario nacional. El día de hoy son más de un millón 376 mil las personas que han sido ingresadas a protocolo de estudio para conocer si tiene la presencia del virus SARS-CoV-2 en sus vías respiratorias; por lo tanto, dentro de este protocolo de estudio se incluyó la toma de una muestra, en este caso un hisopado faríngeo o nasofaríngeo en la gran mayoría de los casos, a través del cual se pretende obtener precisamente secreciones en las cuales estaría o no la presencia del virus y entonces poder identificarlo a través de la prueba en cadena de la polimerasa, que es la prueba que se utiliza oficialmente en México y la única que la Secretaría de Salud recomienda para la vigilancia epidemiológica y para el diagnóstico clínico de los pacientes sospechosos con COVID-19.
 De este gran total, el 50 por ciento ya dio un resultado negativo, por lo tanto, son casos descartados y estén representados en las barras de color morado; pero así también el 44 por ciento y la actualización al día de hoy, 610 mil 957 personas son las que componen los casos confirmados acumulados hasta el momento de COVID-19 en México y las vemos también representadas en las barras de color claro en la parte inferior.
@@ -39,9 +41,11 @@ Y la tercera tiene que ver precisamente con las defunciones, la siguiente sería
 Sería la actualización para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Doctor Ricardo Cortés, si nos comentas.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor López-Gatell.
 Muy buenas tardes tengan todas y todos en casa y aquí en Palacio Nacional.
 Vamos a comenzar a ver el tratamiento, el verdadero tratamiento efectivo de esta enfermedad y probablemente de muchas enfermedades respiratorias, infecciosas que no tiene un tratamiento específico y alguna vacuna que pueda prevenirlo.
 La estrategia de atención primaria a la salud, haciendo visitas casa por casa en comunidad de brigadas de Promoción de la Salud, brigadas especiales y brigadas de atención clínica.
@@ -77,6 +81,7 @@ Antibióticos, no vienen aquí, pero tampoco hay que utilizarlos, menos en cuadr
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés, director de Promoción de la Salud.
 Quisiera hacer un señalamiento final después de esta presentación, en particular, sobre la última diapositiva que enumera cuatro -si me la pueden poner- cuatro medicamentos que han sido utilizados, lo sabemos sin una base científica, esto ya lo ha explicado el doctor Simón Kawa, director de los Institutos Nacionales de Salud, en una ocasión hace algunas semanas.
 Enfáticamente hemos destacado estos cuatro por lo frecuente que fue la percepción de que podían ser medicamentos eficaces o efectivos: hidroxicloroquina, ivermectina, tocilizumab y remdesivir.
 Estos cuatro medicamentos, por razones diversas, por fuentes de información diversas, ninguna de ellas científica, ninguna de ellas técnica, se empezaron a difundir en el grupo de médicas y médicos, de profesionales de la salud de México y de otros países del mundo como que se trataba de medicamentos que habían probado su eficacia. No.
@@ -89,6 +94,7 @@ En el caso de tocilizumab el laboratorio suizo Roche presentó ya evidencia de q
 Vamos a abrir a preguntas y comentarios. Vamos a empezar ahora con Nuria Fernández y nos pasamos aquí con Liliana Noble y con usted, luego regresamos a Sonora.
 ---
 PREGUNTA
+Bueno, yo quiero hacer una pregunta un poco global que tiene que ver con el fin de la pandemia. El director de la Organización Mundial de la Salud hace un par de semanas dijo que no había que apostar la inmunidad de rebaño porque solamente en este momento el 10 o el 20 por ciento de la humanidad tenía ya inmunidad probable.
 Estamos en un momento en que estamos llegando a 30 millones de casos reconocidos, porque puede haber muchísimos más, de infección y han aparecido, por ejemplo, casos nuevos en China, en Beijín y en otras ciudades, que el doctor López-Gatell lo comentaba en una revista, que eso podía pasar, y también tenemos el caso, creo, muy grave de la India, que tiene 71 mil infectados diarios.
 ¿Cómo podemos visualizar el fin?
 Una posibilidad es esta inmunidad, ¿hasta dónde tendría que llegar para que la pandemia terminara?
@@ -98,6 +104,7 @@ Y la tercera es lo que mencionaba el doctor Ricardo Cortés, ¿cómo generar sis
 ¿Cómo visualizar este fin de la pandemia? Esa sería la pregunta.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Nuria Fernández, de La Caracola.
 Efectivamente, ese es un elemento muy importante a considerar. Aquí aprovecho para ilustrar, ahorita regreso a la pregunta, pero para ilustrar un poco cómo se genera la desinformación con un elemento muy concreto que tiene que ver con esto.
 Hace un par de días aquí frente a ustedes, frente a todos ustedes comenté, me preguntaba Juan Carlos Machorro, de AM Noticias, Querétaro, sobre la apertura de las escuelas. Le comenté aquí lo que quedó grabado sobre la expectativa de que posiblemente en la primera quincena de octubre o la segunda estuviéramos arribando ya a semáforos verdes en términos de la dimensión del riesgo.
 Al día siguiente veo en primeras planas de un periódico de circulación nacional, generalmente dedicado a deportes, ahora convertido a otros temas, que decía: ‘López-Gatell, casi promete -no decía promete, pero algo muy parecido- semáforos verdes en octubre’. Ya se empieza a ver en las redes sociales que yo ya prometí eso y ya veo que es la cadena a la que va a llevar después que no le atiné al pico, que no promuevo el cubrebocas, etcétera, etcétera y que prometí los semáforos verdes y no se cumplieron.
@@ -124,40 +131,48 @@ Esos son los escenarios que enfrenta la humanidad en su conjunto, ninguno de ell
 Liliana Noble, Pulso Saludable.
 ---
 PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
 Tengo dos preguntas, una para el doctor Ricardo Cortés y otra para el doctor Gatell. Doctor Gatell, algunos expertos en temas de vacunación advierten al gobierno federal sobre tener calma y no apresurarse o no aventurarse a utilizar una vacuna que no responda ante la eficacia y la seguridad. ¿Usted qué opina al respecto, doctor?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No sé quién lo dijo, pero estoy de acuerdo, no sé qué tan expertas sean estas personas, pero pienso exactamente eso.
 Y la advertencia seguramente no es sólo al interior de México, para el gobierno federal de México, que es el responsable de la regulación sanitaria, a través de Cofepris, sino es para el mundo entero. La Organización Mundial de la Salud en fechas recientes ha estado haciendo enfáticos señalamientos a los distintos países, todos potencialmente, que está pensando en adquirir alguna vacuna y lo que les dice es: ‘No se anticipen a utilizarla si no se han agotado los estudios de la fase 3 de investigación clínica, los ensayos clínicos comparados, para tener certeza o evidencia que muestra calidad, seguridad y eficacia’. Estas son las tres condiciones fundamentales que aparan un registro sanitario: calidad, seguridad y eficacia.
 Y los ensayos clínicos fase 3, que habitualmente tienen algunas decenas de miles de personas participantes en el estudio, son diseñados para tener el poder estadístico suficiente para demostrar la seguridad y la eficacia, la calidad es más un fenómeno relacionado con las prácticas de manufactura, entonces se llaman buenas prácticas de manufactura y hay una serie de estándares internacionales al respecto.
 Pero estoy absolutamente de acuerdo con ello. En México no adoptaremos ninguna vacuna, ninguna, que no haya demostrado tener calidad, seguridad y eficacia.
 Por más que uno quisiera tener la vacuna ya, si no existe evidencia de su seguridad y su eficacia es una decisión que es absolutamente improcedente en términos éticos, en términos técnicos, en términos de salud pública. No se debe adoptar una medida, ninguna intervención, pero en este caso una vacuna, que no haya demostrado esos atributos.
 ---
 INTERLOCUTORA
+Gracias.
 Mi pregunta para usted, doctor Ricardo Cortés. En la gráfica que nos enseñaron donde viene la lista de los medicamentos me hizo pensar: ¿qué pasa con estos consultorios adyacentes a las farmacias?
 No sé si mi lógica me habla de que no tienen ellos ninguna injerencia con el gobierno federal, pero también se sabe, yo alguna vez entrevisté a alguien por ahí de un consultorio y le preguntaba si tenían hallazgos de pacientes COVID y me decía: ‘Te puedo dar cifras muy importantes de una semana’. Entonces, ¿qué pasa?
 ¿Ustedes a través del gobierno federal y de todo lo que usted hace dentro del área de Promoción de la Salud habría viabilidad de que promovieran algo, particularmente a los médicos?, no necesariamente a los de los consultorios adyacentes a las farmacias, pero sí a lo mejor a los que no tengan una experiencia para determinar y que no se esté recomendando la utilización de estos medicamentos, que si bien no ayudan al COVID, también contribuyen a que los que sí requieren de estos tratamientos hoy en día es difícil para ellos encontrarlos. Gracias.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias, Liliana. En realidad, lo que ahorita hacemos es un llamado general a todas las y los profesionales de la salud, profesionales de la medicina, a no utilizar este tipo de medicamentos ante un cuadro sospechoso de coronavirus.
 Particularmente para llegar todavía a más de estas personas profesionales de la medicina lo que estaremos trabajando es a través de la Anafarmex, que ya lo hemos hecho desde el principio de la epidemia para mostrar la mejor información sobre sana distancia, sobre lavado de manos, ahora también utilizar a esta Asociación Nacional de Farmacias en México para que les llegue la mejor información a todos los consultorios y a farmacias, y a través de colegios y academias médicas también estar empujando para que las y los profesionales de la medicina utilicen mejor los medicamentos.
 Los antibióticos utilizados sin una indicación específica provocan daños más graves de los beneficios que se pueden obtener como la resistencia antimicrobiana que, dicho sea de paso, es una de los 10 principales problemas de salud pública que puso la Organización Mundial de la Salud, si no me equivoco.
 Entonces, lo que vamos a hacer es eso, la principal arma de la promoción de la salud es la mejor información en el mejor momento a la persona precisa.
 ---
 INTERLOCUTORA
+¿También están contemplando que esta misma información pudiera llegarle a Cofepris? Yo sé que ahora es una de las nuevas encomiendas que usted tiene, pero para que la ley sea como más dura y no se vendan… Yo no sé, pienso que si voy a lo mejor a la farmacia y pido tocilizumab a lo mejor sin ninguna receta me lo pueden vender y que hoy en día todos estos medicamentos, azitromicina sabemos que no la te venden sino tienes una receta, pero también la han utilizado para el tratamiento de COVID.
 Entonces, no sé si también la ley va a ser como más fuerte para que no se vendan estos medicamentos sino hay una receta física que avale la necesidad del uso.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, es correcto, qué bueno que menciona esto, Liliana.
 La regulación de la venta de medicamentos en general y antibióticos en particular ha sido un empeño que se tiene desde hace mucho tiempo.
 En 2010, si no recuerdo mal, Cofepris estableció un mecanismo para regular la venta de antibióticos contra receta médica, desde luego hay un reto grande de lograr que se cumpla la reglamentación en la práctica y esto lo que requiere es reforzar el sistema sanitario federal, el sistema federal sanitario, para tener la suficiente capacidad en términos del número y entrenamiento de las personas verificadoras sanitarias y desde luego ejercer las sanciones que haya lugar para que no se detengan estas prácticas.
 Esto va más allá del reto durante COVID, es un reto de un plazo más largo, pero estaremos trabajando en ello, parte de la encomienda de tener adscrita a Cofepris en la Subsecretaría incluye también este tipo de aspectos. Gracias.
 Rivelino Rueda, por favor, y luego Arturo Contreras.
 ---
 PREGUNTA
+Muchas gracias, doctores, buenas noches. Rivelino Rueda, del portal digital Reversos.mx.
 Doctor Gatell, sobre etiquetado frontal, tomando en cuenta que la industria tabacalera a nivel mundial se tardó de 50 a 60 años en reconocer que su producto era adictivo, enfermaba y mataba, tenía en cuenta que las cifras que se dieron el fin de semana, creo que fue el domingo, de que en México mueren al año 51 mil personas por tabaquismo, teniendo en cuenta que las enfermedades crónico-degenerativas no transmisibles las muertes anuales son de 450, casi medio millón de personas.
 Tomando también en cuenta lo que ayer comentaba usted sobre los impuestos a esos productos y que hoy en la mañana que estaba a favor de estas iniciativas que iba a presentar senadores de Morena y hoy en la mañana el presidente Andrés Manuel López Obrador dice que él no está de acuerdo, sobre todo por esta trampa que hacen ¿no?, que se aumenta los impuestos y ellos le agregan otro porcentaje más para al final de cuentas el consumidor sea el que absorba ese consumo.
 Teniendo en cuenta todas esas cosas, teniendo en cuenta que usted, subsecretario de Salud y que es encargado de despacho de Cofepris y de Conadic, ¿es posible llegar a un punto medio?, porque también Coca-Cola-Femsa, Coca-Cola ya está metiendo amparos, que no quiere poner el etiquetado frontal el 1º de octubre, a partir del 1º de octubre, ¿es viable un punto intermedio en donde el etiquetado frontal sea tan… no tan agresivo, tan radical como el del tabaco? Mata más personas las enfermedades crónico-degenerativas que el mismo tabaco, está comprobado.
 ¿Es viable esto?, ¿se ha considerado?, ¿usted cómo lo ve? Los etiquetados ‘este producto mata’, fotografías de las enfermedades que provoca, de las enfermedades, de todo lo que contiene, los tóxicos que contiene, ¿es viable y se ha tratado?, ¿y cómo vería una solución, una vía de salida por ahí?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no, muchas gracias, Rivelino. Esta es una pregunta interesante.
 Es un fenómeno complejo, complejo porque hay diversidades, digamos diferencias importantes entre los productos del tabaco y los productos industrializados de consumo oral, llamados alimentos cuando no lo son, popularmente conocidos como comida chatarra.
 Una de las diferencias importantes es que si el tabaco cambiara su composición, seguiría siendo tabaco; si el tabaco cambia su presentación, como ahora lo ha hecho la industria global del tabaco, que inventó los productos calentados y vaporizados en vez de los productos que se consumen por combustión, sigue siendo tabaco y sigue siendo, como lo decían los expertos este fin de semana, la experta y los expertos, no hay dosis útil ni dosis saludable de tabaco, no hay, no hay algo que pudiera ser poquito beneficia. No beneficia en nada y todo perjudica.
 Los alimentos o llamados alimentos, comida chatarra, en realidad algunos tienen una proporción de capacidad alimentaria. El origen puede ser un cereal modificado con azúcares añadidas, colorantes, inductores de apetito, inhibidores de saciedad, etcétera, pero tienen un origen en algo que parece, aunque sea muy remotamente, quizá sólo en la etiqueta de la caja, a un alimento.
@@ -174,3 +189,16 @@ Yo le hago broma a mis amigas y amigos economistas de la salud de que el lenguaj
 Y es este fenómeno paradójico de la regresividad. Regresividad es este fenómeno que conocen los economistas, hombres y mujeres, de que las personas con menor capacidad financiera sufren mayores impactos cuando se pone un impuesto; pero si, insisto, el producto al que se le pone el impuesto es desafortunado para la salud, es maligno, es tóxico, pues qué bien, porque entonces disuadir el consumo de algo que es desfavorable a la salud resulta en muchos beneficios. Esta es una conversación que seguramente seguirá abierta en el gobierno.
 Quiero también enunciar, el presidente ha sido extraordinariamente claro desde que empezó el sexenio en su intención de que no se afecten las economías populares, entonces, es una consideración más amplia.
 Desde luego, este tema de los impuestos especiales es una particularidad, pero todos respaldamos la idea de que no queremos que los impuestos afecten las economías populares.
+---
+INTERLOCUTOR
+En este caso la comida chatarra…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Como digo, la comida chatarra depende de la dosis que puede causar un daño. Hipotéticamente si uno consumiera un pequeño, dos gramos de la misma comida chatarra podría no tener un daño, pero la dosis que habitualmente consume el individuo, y más si tiene la composición química, inhibidores de saciedad, estimulantes del apetito o la propia sal y la grasa y el azúcar estimulan el apetito, desde luego que pueden causar un daño y son responsables de la mitad de las muertes en México todos los años desde hace muchos, muchos años.
+---
+INTERLOCUTOR
+(inaudible) tipo cajetilla de cigarro.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Como le digo, son dos condiciones distintas, es una discusión muy compleja, quise simplificarla para interés público, pero en un seminario que me invite con mucho gusto podemos entrar a detalle.
+Son las 20:00 horas, ya no dio tiempo de darle la palabra a Arturo Contreras, de Pie de Página, mañana. Muchas gracias.

@@ -3,6 +3,7 @@ Presidencia de la República
 04 de mayo de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas noches, qué tal, cómo estamos. Hoy es lunes 4 de mayo, son las 19:00 horas, estamos en la Ciudad de México, en el Palacio Nacional y vamos a iniciar la conferencia de prensa diaria sobre la situación de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS-CoV-2. Hoy vamos a tener dos elementos principales:
 El primero es el informe técnico diario, que presentará el doctor José Luis Alomía, director general de Epidemiologia.
 El segundo, que nos da mucho gusto recibirla aquí, nos la presentará Leyla Acosta Miranda, quien es técnica en atención y orientación al derechohabiente del Instituto Mexicano del Seguro Social. Leyla ha colaborado en distintas unidades médicas del instituto y su buen desempeño hizo que colaborara también en la apertura del Centro de Canje de Medicamentos y posteriormente participó en primera clínica de mama que se estableció en el país en el Instituto Mexicano del Seguro Social.
 Hoy nos va a comentar precisamente de esta inquietud que ha habido en los últimos pocos días sobre el esquema de comunicación con las y los pacientes y las familias, que es un aspecto muy importante. Esta misma mañana lo preguntaban y con justa razón sobre qué protocolos existen. Hoy Leyla Acosta nos va a explicar esto. Muy bienvenida, Leyla.
@@ -10,6 +11,7 @@ Posteriormente, pasamos a preguntas y respuestas y todo lo que ustedes quieran p
 Doctor Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Claro que sí, con mucho gusto, señor subsecretario.
 Muy buenas noches todas y todos.
 Vamos a presentar en la parte del panorama, recordando siempre que nos encontramos el día de hoy en el día 43 de la Jornada Nacional de Sana Distancia, nos queda todavía prácticamente todo lo que resta del mes de mayo para la gran cantidad de municipios en el país de tener este resguardo de la Jornada Nacional de Sana Distancia.
 Nos encontramos esta noche en la conferencia vespertina número 66, ya son 66 las conferencias que hemos podido con mucho gusto compartir, muchas de ellas con todos ustedes.
@@ -36,10 +38,10 @@ En la siguiente diapositiva podemos ver la curva epidémica, igual la presentamo
 Estamos precisamente la fase 3 en ascenso de esta curva epidémica, que para este momento es la sumatoria de todos los casos confirmados y sospechosos que se están dando en esas cinco, seis entidades federativas que en este momento están llegando a sus picos epidémicos como tal.
 En la siguiente diapositiva veremos la carga acumulada de casos confirmados, ahí están los 24 mil 905 casos confirmados. Fueron mil 434 los que se confirmaron el día de ayer para hoy, lo cual representó un incremento del 6.1 por ciento.
 En la parte inferior, en lo que son las barras de color naranja, podemos notar un poco la tendencia de cómo se ha estado comportando día con día la cantidad de casos confirmados.
-Enseguida pasamos ahora a revisar lo que es la ocupación y la disponibilidad hospitalaria, que es un dato y es una herramienta importante ahora en fase 3, porque si recuerdan, en fase 3 la incrementarse precisamente la cantidad de casos confirmados, se incrementa a su vez la cantidad de casos que requieren hospitalización, es decir, que presentan una evolución que puede ser tórpida, que pueda ser a la gravedad y por lo tanto necesitan de una cama de hospital y muchos de ellos necesitarán  también una cama especializada en una unidad de terapia intensiva o de cuidados intensivos.
+Enseguida pasamos ahora a revisar lo que es la ocupación y la disponibilidad hospitalaria, que es un dato y es una herramienta importante ahora en fase 3, porque si recuerdan, en fase 3 la incrementarse precisamente la cantidad de casos confirmados, se incrementa a su vez la cantidad de casos que requieren hospitalización, es decir, que presentan una evolución que puede ser tórpida, que pueda ser a la gravedad y por lo tanto necesitan de una cama de hospital y muchos de ellos necesitarán  también una cama especializada en una unidad de terapia intensiva o de cuidados intensivos.
 Por lo tanto, es importante en fase 3 poder tener un seguimiento muy puntual de cómo se está comportando esta ocupación o esta disponibilidad, porque el poder siempre tener una cama disponible para que una persona la pueda usar y pueda recibir la atención correspondiente, pues repercutirá definitivamente en una mejor intervención hospitalaria que permita salvar cada vez más vidas.
 En el corte del día de ayer, recordando que estos son cortes completos, es decir, desde las 00:00 horas de un día hasta las 23:59 de ese mismo día, este es el corte del 3 de mayo precisamente y en el corte del 3 de mayo el reporte dice que existían 13 mil 387 camas disponibles para hospitalización de pacientes con infección respiratoria aguda grave que no necesitaban todavía un ventilador, estamos hablando de camas de hospitalización general, pacientes que sí han tenido algún signo de alarma, alguna complicación, pero que aun así todavía la función respiratoria está bien, está conservada y entonces pueden ser atendidos en una cama de hospitalización general.
-De este mismo grupo, seis mil 22 camas se encontraban ya ocupadas o siendo utilizadas para una de estas personas. La proporción es del 31 por ciento.  Si recuerdan, cuando iniciamos con este reporte, iniciamos con una ocupación del 20, ahorita estamos ya en una ocupación del 31 y esto lógicamente también representa un incremento y cómo la epidemia está evolucionando en México.
+De este mismo grupo, seis mil 22 camas se encontraban ya ocupadas o siendo utilizadas para una de estas personas. La proporción es del 31 por ciento.  Si recuerdan, cuando iniciamos con este reporte, iniciamos con una ocupación del 20, ahorita estamos ya en una ocupación del 31 y esto lógicamente también representa un incremento y cómo la epidemia está evolucionando en México.
 Son 674 los hospitales que notifican a la red IRAG y mantenemos una tasa de notificación, porcentaje de notificación del 95 por ciento, este porcentaje se ha mantenido ya durante varios días, lo que quiere decir que la gran mayoría de las unidades han estado reportando a este sistema.
 Este 31 por ciento en la siguiente diapositiva vamos a verlos distribuido en toda la república y para cada una de las entidades. Aquí en la última barra de la derecha ahí tenemos el 31 por ciento que estábamos mencionando en la diapositiva anterior, que es lo nacional, pero entonces ahora dependiendo de cada entidad federativa vean cómo cambia el porcentaje de ocupación.
 La Ciudad de México vuelve a tener un incremento nuevamente del día de ayer, ahora es del 69 por ciento, es decir, la gran cantidad de sus camas para hospitalización general ya se encuentran ocupadas y lógicamente este porcentaje se va a mover en función de las altas que se estén dando, es decir, las personas que dejen de ocupar esas camas, pero más importante, las personas nuevas que llegarán con una infección respiratoria aguda grave y que si ese balance no es el ideal y son más las que van llegando, lógicamente el porcentaje será incrementando.
@@ -51,14 +53,23 @@ Todos estos sistemas se complementan y ayudan en el día a día a poder estar to
 Ese sería la actualización, subsecretario, del día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Vamos a continuación, y antes de darle la palabra a nuestra apreciada colega, Leyla Acosta, vamos a transmitir un pequeño video, también preparado por el Instituto Mexicano del Seguro Social, en donde la maestra Ivonne Núñez González, coordinadora de Programas de Trabajo Social en la Coordinación de Atención Integral del Segundo Nivel de Atención, nos comentará precisamente sobre las distintas intervenciones que hay de cercanía y comunicación con las y los derechohabientes.
 ---
 IVONNE NÚÑEZ GONZÁLEZ, COORDINADORA DE PROGRAMAS DE TRABAJO SOCIAL EN LA COORDINACIÓN DE ATENCIÓN INTEGRAL DEL SEGUNDO NIVEL DE ATENCIÓN DEL IMSS
+El Instituto Mexicano del Seguro Social está consciente de la necesidad que tienen los familiares para contar con el estado de salud de su paciente que ingresa al hospital por COVID-19.
 Vamos a contar con un área temporal de informes a familiares. No van a poder ingresar, van a estar fuera del hospital y estas áreas son temporales para la atención exclusivamente para el familiar. Se les va a proporcionar el estado de salud del paciente y nuestras compañeras técnicas de orientación y atención al derechohabiente les podrá dar la información en horarios diurnos del estado de salud de su paciente.
 Está ya en disposición en cada uno de los hospitales. Tengamos la seguridad que les va a estar llegando en los turnos diurnos el estado de salud de su paciente puntualmente y quedémonos tranquilos, vamos a estar bien porque vamos a estar en compañía del equipo de salud y el equipo profesional que nos van a estar dirigiendo en qué momento nuestro paciente va a continuar o se va de alta a su domicilio.
-El IMSS está contigo y te va a estar acompañando en cada momento y ten la seguridad que los  profesionales de salud están muy al pendiente de que tengas toda la información que tú necesitas, que tú quieres para que también estés tranquilo en tu domicilio.
+El IMSS está contigo y te va a estar acompañando en cada momento y ten la seguridad que los  profesionales de salud están muy al pendiente de que tengas toda la información que tú necesitas, que tú quieres para que también estés tranquilo en tu domicilio.
+---
+VOZ MUJER
+Gobierno de México.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Le pedimos ahora sí a nuestra compañera Leyla Acosta si nos comenta.
 ---
 LEYLA ACOSTA MIRANDA, TÉCNICA EN ATENCIÓN Y ORIENTACIÓN AL DERECHOHABIENTE DEL IMSS
+Muy buenas tardes. Mi nombre es Leyla Acosta Miranda, yo estoy en el Hospital Regional número 1, en la Ciudad de México, en la colonia Del Valle. Soy técnica en atención y orientación al derechohabiente, los usuarios nos conocen como TAOD porque es la abreviación de nuestra categoría, técnica en atención y orientación al derechohabiente.
 Nosotros somos el enlace entre la unidad médica y los usuarios, buscamos atender de manera pronta, eficiente y oportuna todas las solicitudes de las cuales ellos nos piden.
 Hacemos peticiones, hacemos gestiones, otorgamos información y hoy por hoy el Instituto Mexicano del Seguro Social ha creado mecanismos de información basándose y respaldándose en la tecnología para que por medio de estos, los usuarios o los familiares de pacientes COVID pueda tener acceso a esa información.
 Nosotros manejamos diversos protocolos como son los de buen trato, mucha capacitación sobre ahora el COVID-19, también tratamos de capacitar a otras personas, a familiares, pacientes sobre el correcto lavado de manos, sobre la sana distancia y sobre el efectuar todos los protocolos para salvaguardar su integridad y su salud.
@@ -75,15 +86,18 @@ Estamos siempre para servirles, para ayudar a los usuarios, a la población, a l
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Leyla Acosta Miranda, técnica en atención y orientación al derechohabiente en el Instituto Mexicano del Seguro Social.
 Vamos a abrir ahora a preguntas y respuestas. Bianca Aguirre, Notimex, adelante, por favor.
 ---
 PREGUNTA
+Gracias. Buenas noches.
 Por favor, obviamente esta semana es muy difícil, viene el pico más alto de contagios. Quiero saber por favor, doctor, qué va a pasar a nivel nacional obviamente del 6 al 10 de mayo. ¿Se van a tomar nuevas medidas?
 Y es que hoy no sé qué pasó, pero al menos en la Ciudad de México se vio muchísima gente. Ya lo comentaban en la conferencia anterior, muchísima gente también en los bancos, afuera.
 ¿Qué va a pasar’
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Bianca Aguirre, de Notimex.
 Efectivamente, esto nos da la oportunidad de recordar que la Jornada Nacional de Sana Distancia es un paquete de intervenciones destinadas a reducir la cantidad de contagios de esta enfermedad COVID, esta enfermedad que se transmite por vía respiratoria cuando hablamos, estornudamos, tosemos, gritamos o cantamos y estamos demasiado cerca de otra persona que puede estar en capacidad de ser contagiada.
 La persona que tiene la infección, que tiene la enfermedad COVID, si proyecta sobre otras personas las secreciones respiratorias que salen por nariz, por boca principalmente y que llevan los virus, pueden llegarle a la otra persona en ojos, nariz y boca y entonces causarle el contagio.
 También se transmite por las manos cuando estornudamos en las manos, ‘achú’, en vez de hacerlo sobre el ángulo del codo, esta mano se queda contaminada con los virus y si se la damos a otra persona, esa persona se lleva los virus a la mano y al tocarse los ojos, nariz o la boca se lleva los virus.
@@ -98,7 +112,7 @@ Que las personas salgan de su casa y se movilicen ya sea en auto, en transporte 
 Y, finalmente, ¿cuál es lo que no queremos que ocurra?
 Que al tener esta movilidad en el espacio público existan más contagios. Estamos, efectivamente, en la fase crítica, la fase más alta de la transmisión en donde estamos teniendo una cantidad muy grande de casos nuevos todos los días.
 Los casos nuevos que documentamos hoy se originaron en contagios de la semana pasada, porque el periodo de incubación de este virus es de en promedio siete días. La movilidad que veamos hoy se va a presentar como casos la siguiente semana. Entonces, todo lo que hagamos hoy es para beneficiar a lo que ocurra mañana, pasado mañana, dentro de una semana.
-La capacidad instalada de los servicios de salud, esto es decir cuántas camas, cuántos ventiladores, cuánto personal existe en las unidades de salud, particularmente las hospitalarias es una capacidad limitada. En la fase de preparación, que para México empezó desde el 15 de enero, tomamos una ruta, un plan de expansión de capacidades y esta expansión de capacidades se basa en la reconversión hospitalaria, esto quiere decir  reorganizar físicamente los hospitales, dotar de nuevos espacios para el uso de camas de terapia intensiva en zona de hospitalización general, cancelar o posponer las cirugías y los procedimientos no prioritarios que pueden esperar sin poner en riesgo, desde luego la seguridad, la salud y la vida de las personas, pero para que haya espacios disponibles para la atención de COVID.
+La capacidad instalada de los servicios de salud, esto es decir cuántas camas, cuántos ventiladores, cuánto personal existe en las unidades de salud, particularmente las hospitalarias es una capacidad limitada. En la fase de preparación, que para México empezó desde el 15 de enero, tomamos una ruta, un plan de expansión de capacidades y esta expansión de capacidades se basa en la reconversión hospitalaria, esto quiere decir  reorganizar físicamente los hospitales, dotar de nuevos espacios para el uso de camas de terapia intensiva en zona de hospitalización general, cancelar o posponer las cirugías y los procedimientos no prioritarios que pueden esperar sin poner en riesgo, desde luego la seguridad, la salud y la vida de las personas, pero para que haya espacios disponibles para la atención de COVID.
 Y llegado a este punto también se han instalado espacios temporales. En algunos casos con la colaboración del sector privado, como esta unidad que existe en la Ciudad de México, en la zona norte, es un espacio temporal.
 También, el Instituto Mexicano del Seguro Social está procediendo a la instalación de un espacio semejante en el autódromo de la Ciudad de México y asimismo también se firmó un convenio con el sector privado, a través de la Fundación Mexicana para la Salud para que los y las pacientes, en principio del Instituto Mexicano del Seguro Social, pero pueden también acudir pacientes no derechohabientes o derechohabientes de las otras instituciones de seguridad social, que tienen ciertas enfermedades de alta frecuencia, se puedan atender en instalaciones privadas sin costo, porque las instituciones a las que tienen derechohabiencia pagan en una tarifa fija que fue pactada y fue acordada en este convenio.
 Todo esto nos ha permitido más que duplicar la capacidad instalada, esta es la que informamos precisamente, lo que acaba de señalar el doctor Alomía, y tenemos en algunos casos en las ciudades más afectadas, concretamente la Ciudad de México una reserva que está en el 30 por ciento, en otras entidades existe hasta el 60 por ciento y a nivel nacional tenemos una ocupación todavía limitada, todavía hay reserva.
@@ -107,7 +121,11 @@ Se va a seguir presentando este patrón de gran cantidad de casos, en algunas si
 El viernes pasado con el director del Instituto Mexicano del Seguro Social y la jefa de gobierno de la Ciudad de México, la doctora Sheinbaum, explicábamos que el IMSS abrió sus puertas para que temporalmente y con base en su ley pueda recibir a paciente son asegurados durante esta fase crítica de la contingencia. Esto es lo que pasa.
 Y la recomendación sigue siendo la misma: quédate en casa, quédate en casa, no contribuyas a que te contagies no que tú contagies a los demás.
 ---
+INTERLOCUTORA
+Pero, ¿no podrían implementar nuevas medidas además del quédate en tu casa?, es decir, destaco, sí ha habido mucha movilidad por parte de la gente que no entienden que deben de quedarse en casa.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Yo no diría necesariamente que no entiendan y aquí quiero hacer un reconocimiento y un señalamiento de agradecimiento a la población, al pueblo de México por su enorme capacidad de responder ante un reto como este con disciplina, con entrega, con solidaridad.
 No olvidemos, esto lo hemos dicho también desde el principio, México es un país que tiene condiciones sociales y económicas adversas, es un país donde la mitad de la población vive en condiciones de pobreza.
 Lo que vimos en algún momento por las noticias, lo que ocurrió en los países europeos en donde usó la fuerza pública como un mecanismo de coerción para inducir a que los ciudadanos se quedaran en casa, desde el principio nos pareció inconveniente en México, lo hemos dicho, lo seguimos diciendo, aun en este momento de mayor transmisión, no tenemos plan alguno de militarizar la respuesta de salud pública, no se va a implantar toques de queda, estados de excepción ni se va a usar la fuerza pública como mecanismos de coerción.
 Las intervenciones de salud pública que diseñó el Gobierno de México fueron cuidadosamente analizadas para que restringieran las actividades que hacen que las personas salgan de casa.
@@ -122,6 +140,7 @@ Muchas gracias, Bianca por su pregunta.
 Blanca Valadez, usted, usted, usted y por acá con la compañera.
 ---
 PREGUNTA
+Buenas tardes, subsecretario; buenas tardes a todos.
 Ayer comentaba que entre el 13 y 15 mayo podría darse una tasa aproximada de mil 800 intubados y en un escenario más severo serían dos mil 800 intubados.
 Saber si contamos con estos ventiladores mecánicos para atender este modelo que usted está advirtiendo que puede haber de personas o por esta movilidad que estamos viendo por razones diversas se puede todavía disparar.
 También preguntarle, en una entrevista que usted dio en un periódico extranjero comentaba que podría haber hasta ocho mil decesos en esta pandemia, no sé si es exacto. Saber si nos puede decir exactamente si sería esa cantidad.
@@ -129,6 +148,7 @@ Y nada más por último, ayer hablaba del número de positividad de las personas
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Muchas gracias, Blanca, por estas preguntas.
 Sobre la última, este 5.4 es por 100 mil habitantes, o sea, de cada 100 mil, 5.4 tienen COVID en este momento y esta cifra ha ido cambiando precisamente conforme aumenta el número diario de casos, lo que de manera simple le llamamos el aumento de la curva, o el ascenso de la curva, vemos que ido creciendo y en este momento al corte de ayer o de hoy en la tarde más bien, tenemos 5.4 personas por cada 100 mil que habitan en México tienen COVID en los últimos 14 días.
 Sobre la estimación de mortalidad sí sigue siendo la que hemos proyectado, ahorita como pudieron ver, tenemos dos mil 271 personas que han perdido la vida por COVID y estamos justo en el punto cerca del punto medio de la curva epidémica.
 En el descenso de la curva podemos tener las otras más o menos dos mil o tres mil y con ellos ya tendríamos casi seis mil o un poquito, cinco mil 271 si lo ponemos nada más así simplemente agregar tres mil más.
@@ -137,7 +157,11 @@ Cancún, por ejemplo, que hace unos días anunciamos que estaba en el punto medi
 Ahora, muy importante, esto no quiere decir que ya se pueden suspender las medidas de sana distancia. Si lo hiciéramos en este momento tendríamos el grave peligro de que remerja la epidemia, en la medida en que todavía existen personas infectadas, personas con la enfermedad, estas pueden transmitir a otras personas, causar contagios, y en promedio de siete días después manifestarse como una remergencia local de la epidemia.
 ¿Y su primera pregunta?
 ---
+INTERLOCUTORA
+Tenía que ver con los ventiladores.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Ventiladores. Muchas gracias.
 Efectivamente, de las predicciones o proyecciones matemáticas, tenemos que en el punto medio de la epidemia que se ha estimado que podría ocurrir el 6 para la ocurrencia de casos, el 6 de mayo, y 15 días después del punto máximo de personas hospitalizadas en terapia intensiva hemos considerado que llegaríamos a tener mil 800 personas, hospitalizadas en terapia intensiva.
 ¿Cuál es la explicación de esta diferencia de fechas?
 Que los casos ocurren hoy, tienen un periodo de enfermedad, luego pueden agravarse, se hospitalizan y ya hospitalizadas pueden durar en promedio 10 días en hospitalización. Por eso, el punto máximo de contagios o de casos nuevos diarios está en promedio unos 12 o 13 días detrás del punto de máxima ocupación de las terapias intensivas.
@@ -151,20 +175,30 @@ El maestro Zoé Robledo, titular del Instituto Mexicano del Seguro Social, en un
 También esto, la buena noticia de que la epidemia se presente en parches y no en forma uniforme en todo el territorio nos ha permitido redistribuir principalmente en las instituciones nacionales de salud ventiladores desde ciudades que en este momento no los necesitan y que tenemos además predicciones de cuándo podría necesitarlos los hemos traído aquí, se usan aquí, obviamente en el momento en que esas ciudades pudieran necesitarlos, con antelación y que aquí ya bajara la transmisión se van para allá.
 Es más o menos el esquema que hemos seguido.
 ---
+INTERLOCUTORA
+Entonces, tenemos garantizado…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, sí así es, definitivamente hemos hecho este esfuerzo múltiple.
 Y aquí estoy muy agradecido con los colegas de todo el sector salud y también fuera del sector salud, destaco en particular al canciller Marcelo Ebrard, que nos ha estado ayudando en la parte de la adquisición.
 Ah, que no se me olvide, también tuvimos un esquema de facilitación por parte del gobierno de Estados Unidos que precisamente fue preparado por la cancillería y finalmente culminó en una o dos llamadas entre los presidentes de nuestro país y de Estados Unidos.
 ¿Mande usted?
 ---
+INTERLOCUTOR
+¿Mil?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Se contempló mil, igual mañana les comento yo el dato o el maestro Juan Ferrer de cuál es el número exacto que en este momento ya han sido transferidos a México. Muchas gracias.
 Está usted, luego los dos compañeros, el compañero y si nos da tiempo la compañera.
 ---
 PREGUNTA
+Buenas noches. Lizbeth Álvarez, del diario Basta, del Grupo Cantón.
 Mi pregunta es para la técnica Leyla Acosta. ¿Nos podría dar más información, es decir, los números telefónicos, bueno, el que nos dio, las personas de qué a qué hora pueden llamar? Estos lugares donde ustedes están físicamente ¿también a qué hora ellos pueden acudir?
 Y del buen trato, ¿a qué nos estamos refiriendo?, lo digo porque las personas están preocupadas por su familiar enfermo, constantemente quieren saber qué está pasando con él. Entonces, quizá, sin querer a lo mejor reciben una mala contestación o no sé, también ustedes están cansados quizá, de recibir tantas llamadas.
 Entonces, me gustaría que ahondara más en esa información. Muchas gracias.
 ---
 LEYLA ACOSTA MIRANDA
+Con mucho gusto.
 Los horarios para las llamadas telefónicas son de 8:00 de la mañana a 8:00 de la noche de lunes a viernes y los fines de semana son de 8:00 de la mañana a 2:00 de la tarde. También por correo electrónico va a ser las 24 horas del día, tenemos el personal que va a estar al tanto de dar esa información.
 Nos encontramos también de manera presencial en las unidades hospitalarias con horarios 24 horas completas, turno matutino, turno vespertino y jornadas acumuladas en los hospitales COVID-19. Hay personal las 24 horas del día para atenderlas las peticiones de los usuarios.
 Nosotros es la forma que hemos venido trabajando siempre, no es a raíz de esta contingencia que se generan estos protocolos del buen trato. Nuestra área es reconocida precisamente por ser ese vínculo entre la parte operativa del hospital y el usuario o el derechohabiente.
@@ -173,17 +207,24 @@ En el caso de los hospitales COVID habemos personal las 24 horas y constantement
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
 Usted, por favor.
 ---
 PREGUNTA
+Alejandro Arcos, Plenilunia.
 Con respecto al día de ayer, la Secretaría de Economía nos explicaba algunos planes de la estrategia para el regreso que va a ser en distintas fases. ¿Nos podría detallar algo en especial en tres puntos, el tratamiento que la FDA ya aprobó para uso de emergencia, también respecto a las vacunas, si estamos involucrados en los proyectos como la speed para acelerar el producimiento de las vacunas y cuál sería su postura con respecto al polémico tema de las pruebas?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
 Sobre vacunas, primero, no soy tan optimista de que tengamos una vacuna pronto. Efectivamente, hay algunas iniciativas en el mundo de investigación para el potencial desarrollo de vacunas, pero nunca se ha visto que una vacuna se logre tener en un periodo sumamente rápido, podríamos hablar de cuatro o cinco años.
 Hoy se ha hablado que con los distintos mecanismos de facilitación que hay entre gobiernos con la ayuda, por ejemplo, la Organización Mundial de la Salud se podría reducir este tiempo quizá a dos años o a tres, entonces difícilmente tendríamos la vacuna durante el tiempo relevante de este primer ciclo epidémico; deseo que así ocurra, por supuesto, pero siendo realistas hay que considerar esto.
 Sobre la primera pregunta fue…
 ---
+INTERLOCUTOR
+FDA, el tratamiento.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Eso es. FDA, son las siglas en inglés de la Agencia de Fármacos y Alimentos, lo que es la agencia regulatoria aquí. para referencia de la ciudadanía mexicana, es lo equivalente a Cofepris en México.
 Cofepris es la Comisión Federal para la Protección contra Riesgos Sanitarios y es la agencia gubernamental que se encarga de regular precisamente la autorización del uso de nuevos fármacos en un territorio en el caso que se relata de la FDA es en Estados Unidos.
 La FDA, al igual que Cofepris, al igual que muchas agencias de regulación sanitaria del mundo tienen un elemento específico, vamos a llamarle un protocolo para considerar autorizaciones de emergencia de nuevos productos que pudieran ser prometedores para los tratamientos.
 Esto no quiere decir -y aquí hay una particularidad- que se aprueban para un uso generalizado fuera de la condición de emergencia, se establecen los elementos técnicos y legales muy explícitos de que es solamente en los casos de emergencia.
@@ -201,11 +242,23 @@ Ahora, la gran utilidad de esto es que en su momento nos va a permitir reconocer
 Nos da tiempo para una corta pregunta, última, son las 19:56.
 ---
 PREGUNTA
+Pablo Pérez, de Verificado.
 Hablando de este proceso de regreso escalonado, ¿durante este tiempo se volverá al modelo de vigilancia Centinela?
 Y de ser así, de detectarse un resurgimiento de contagios en alguna región o estado, ¿a qué medidas se tomarán en consecuencia?
 Y si esto será dirigido desde la Secretaría de Salud o habrá algún tipo de independencia o toma de decisiones de los estados, también.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Pablo. Creo que son preguntas muy importantes.
 Efectivamente en el cambio entre la escalada o el ascenso de una epidemia pasamos de la fase 1 a la fase 2 y luego fase 3 y uno podría pensar que después viene la fase 2 y la fase 1 o el análogo, en cierta manera se comporta así en algunas características. Por ejemplo, cuando empieza a disminuir la velocidad de casos por día puede volverse útil el reactivar un mecanismo de vigilancia eficiente como es la vigilancia Centinela y también cuando ya se está en la fase final puede ser útil regresar a las herramientas de contención de centradas en casos. En cierta manera hay una simetría entre el ascenso y el descenso.
 Sin embargo, cuando ya se ve en el conjunto del país, son escenarios diferentes porque, por ejemplo, en el inicio de la curva en nuestro escenario 1 no teníamos circulación del virus en México, mientras que ahorita que estemos en la salida, por ejemplo, en las cinco ciudades que ahorita están con transmisión activa incluyendo la Ciudad de México, en su momento de salida vamos a tener varias otras ciudades con transmisión y eso puede cambiar la situación de la probabilidad de que haya reemergencia.
 Entonces, hay particularidades que se tienen que tomar en cuenta, pero también hay similitudes en algunos aspectos. Es la Secretaría de Salud federal la que es la autoridad sanitaria junto con el Consejo de Salubridad General a nivel nacional y en todo momento los gobiernos estatales también son autoridad sanitaria. En realidad, las acciones que se determinan se hacen generalmente de común acuerdo y la Ley General de Salud marca muy claramente las atribuciones que corresponden a cada una de las autoridades sanitarias, las nacionales y las locales.
+---
+INTERLOCUTOR
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Las medidas que se pueden implantar son precisamente en los territorios o zonas o ciudades o incluso segmentos de los territorios que pudieran estar empezando en la fase de ascenso van a ser muy parecidas a las que se instauraron al inicio.
+Aprecio mucho su pregunta porque una diferencia muy importante es que ya no vamos a tener, lo más probable, ojalá no necesitemos intervenciones generalizadas, ojalá. Ojalá porque básicamente si remergiera la epidemia con la intensidad de su inicio sí necesitaríamos intervenciones generalizadas, de no ser así, lo que podríamos hacer es focalizar, segmentar la movilidad entre comunidades que tienen alta transmisión y baja transmisión.
+De hecho, esto fue la instrucción que dio el Consejo de Salubridad General hace un par de semanas, y hemos estado trabajando con los grupos de asesoría técnica que coordina Conacyt, con un esquema muy interesante que utiliza información sobre la conectividad entre comunidades para tener esquemas de interrupción temporal, temporal de esa conectividad para evitar que haya transmisión de una zona de alta propagación hacia una zona de menor propagación.
+Muchas gracias, Pablo.
+Me parece que aquí acabamos, son las 20:00 horas en punto. Les agradezco su atención, muchas gracias.

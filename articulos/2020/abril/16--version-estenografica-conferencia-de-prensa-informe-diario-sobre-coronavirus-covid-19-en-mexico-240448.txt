@@ -3,11 +3,13 @@ Presidencia de la República
 16 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del jueves 16 de abril de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México, y vamos a iniciar la conferencia diaria sobre la situación mundial y nacional de la pandemia de COVID, la enfermedad causada por el nuevo coronavirus SARS CoV-02.
 Hoy vamos a tratar tres temas, cuatro temas: El informe técnico diario, las estimaciones semanales del Modelo de Vigilancia Centinela y tenemos hoy a un invitado ya muy especial, que ya ha venido en otra ocasión, que es el doctor José Ignacio Santos Preciado, serio del Consejo de Salubridad General, infectólogo, pediatra, investigador nacional. Nos va a comentar los aspectos que tienen que ver con el consejo.
 Después, el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud y creador de Susana Distancia, hoy nos trae una nueva información y es el informe de movilidad relacionado con lo que explicábamos esta mañana. El efecto de las medidas de mitigación se logra a través de reducir la movilidad en el espacio urbano, no sólo en el espacio urbano, también en el rural, pero en el espacio público, es decir, se logra quedándonos en casa. Y estos informes que nos va a presentar nos permite visualizar entidad federativa por entidad federativa si existe o no una reducción y de qué magnitud.
 Le pido entonces al doctor Alomía si comienza y luego abrimos a preguntas y respuestas.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Gracias, señor subsecretario.
 Muy buenas tardes a todas y todos.
 Iniciamos con el panorama internacional de la pandemia. Como ustedes pueden ver, el dato que se encuentra en la mitad del lado derecho es el que le venimos dando seguimiento puntual durante los últimos días. Puntos porcentuales menos nuevamente, ayer estaba en 57 por ciento, ahora está en 55 por ciento; vemos cómo se va acercando al 50, es decir, que en su momento sólo la mitad de todos los casos confirmados en la actual pandemia se han producido en los últimos 14 días, esta cifra continúa disminuyendo.
 El 6.6 por ciento, más o menos estable o ha mantenido, digamos, ese número o esa tendencia, lo que significa la tasa de letalidad a nivel global.
@@ -51,6 +53,7 @@ En la siguiente diapositiva, que es la última del panorama, nuestros casos acum
 Ese sería el panorama para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
 Procedo ahora yo con la estimación semanal de casos derivada del modelo Centinela. Aquí vamos a presentar un mapa que está sobre la misma presentación. La diapositiva que sigue. Muchas gracias.
 Las 475 Unidades de Salud Monitoras de Enfermedad Respiratoria, antiguamente conocidas como Unidades de Salud Monitoras de Influenza. Lo que queremos mostrarles aquí es el mapa de la república mexicana y la localización de las distintas unidades de salud, esto para que ustedes tengan una apreciación visual aquí y quienes nos escuchan y ven por la transmisión de que cubren todo el territorio nacional.
 ¿Qué se pretende con la vigilancia Centinela como lo hemos explicado?
@@ -88,6 +91,7 @@ Esta representa de una manera más justa o más apropiada lo que ocurre con la e
 Le pido a continuación al maestro José Ignacio Santos si cambiamos de tema ahora y nos habla del tema que quedó comprometido en la mañana de la guía -usted lo preguntaba- de la guía bioética.
 ---
 JOSÉ IGNACIO SANTOS PRECIADO, SECRETARIO DEL CONSEJO DE SALUBRIDAD GENERAL
+Gracias, señor subsecretario. Buenas noches a todas y a todos.
 Agradezco la oportunidad de exponer en forma somera los motivos de la guía, el proyecto de guía que se publicó en la página del Consejo hace apenas una semana.
 Lo voy a dividir en cinco pasos y serán breves, hablando de los propósitos de la guía, la naturaleza de la misma, el proceso del mismo y los equipos de triaje y las funciones de los equipos.
 Desde el exhorto del consejo de la sesión extraordinaria del 19 de marzo, el exhorto para que el Sistema Nacional de Salud hiciera el planteamiento de reconversión y expansión de camas para la atención del futuro de la pandemia.
@@ -119,9 +123,11 @@ Entonces, el no prever estas circunstancias sería éticamente fallar a los paci
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Ignacio Santos, secretario del Consejo de Salubridad General.
 Finalmente, le pido al doctor Ricardo Cortés Alcalá si nos comenta sobre la movilidad del espacio público.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor López-Gatell.
 Pasamos las siguientes diapositivas, por favor. Vamos a ver un reporte de movilidad por estado. Esto es importante, es un reporte de movilidad comunitaria de parte de Google que nos ofrece para revisar cuál ha sido la disminución o incremento de la movilidad de la comunidad a través del uso de nuestros teléfonos celulares.
 Cuando uno le da a una aplicación: ‘Sí, sí quiero que me sigas’ mientras está prendido mi celular y yo voy a un lado, voy a otro, yo le estoy dando permiso a estas empresas de registrar por dónde voy y esto nos permite tener este tipo de análisis.
 Muchísimas gracias a Google por esto, así como Apple ha dado otros datos y otras empresas también.
@@ -137,12 +143,15 @@ Recordemos que este seguimiento también se da siempre y cuando uno tenga el tel
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés.
 Tenemos 15 minutos para preguntas. Vamos a empezar con ustedes dos, nos pasamos aquí con ustedes dos.
 ---
 PREGUNTA
+Muchas gracias, doctor. Buenas noches a todos. Bianca Aguirre, de Notimex Televisión.
 En la mañana usted anunció que el primer ciclo de la pandemia sería el 25 de junio, para esto ¿qué quiere decir el primer ciclo? es decir, ¿va a haber otro ciclo y en qué va a constar?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por la pregunta, Bianca.
 En la mañana me quedé con la inquietud de que no me lo hubieran preguntando y que ya no lo precisé.
 Las epidemias en general, las epidemias de enfermedades infecciosas no tienen un comportamiento único, es decir, como lo mostramos en los mapas municipales y ahorita lo volvemos a enseñar, no al mismo tiempo ocurren en todos los 127 millones de personas en el país, sino que están fragmentados, segmentados por los territorios, por cada municipio, por cada zona urbana.
 Esto lo que resulta, la consecuencia de este fenómeno es que puede ser que haya una sincronía, es decir, un desfase en tiempo muy importante entre la primera localidad que fue afectada y la última localidad que fue afectada.
@@ -156,26 +165,49 @@ Entonces, con el nuevo coronavirus SARS CoV-2 no se conoce todavía si este fen�
 Por favor.
 ---
 PREGUNTA
+Buenas noches. Joselyn Arredondo, de Notimex.
 Doctor, preguntarle, en la mañana usted habló algo sobre segmentar la movilización o la población- ¿Esa medida se va a tomar?, y en caso de que se tome ¿cómo sería?
 Y, segunda pregunta, el gobernador de Michoacán hoy dijo que él no va a tomar en cuenta las recomendaciones. Mi pregunta va más hacia si estos estados tienen la autonomía si se levantan o no estas medidas.
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Su pregunta justamente es secuencia de la pregunta que hizo Bianca, por eso es que determinamos como una nueva medida la segmentación, los grupos de asesoría científica al identificar esta asincronía, este desfase de tiempo y esta distribución desigual de la intensidad de transmisión entre los distintos municipios recomendaron utilizar otro de los componentes de la estrategia, que es la contención geográfica en relación a la movilidad interna en el país.
 Entonces, la segmentación básicamente lo que quiere decir es: vamos a tomar un conjunto de municipios, decíamos en el mapa de la mañana, en la zona verde, es decir, en municipios que tienen pocos o ningún caso, y van a ser considerados como una sola zona de riesgo, y se instrumentarán los mecanismos para que las personas sólo estén en la movilidad en esos sitios.
 De tener que moverse más allá de esos sitios por alguna razón apremiante justificada, que existan los mecanismos de filtro de detección de síntomas, como un mecanismo adicional para el control de la epidemia. Esto dicho, sea de paso, fue una propuesta ahora del grupo científico al analizar precisamente los datos y las modelaciones matemáticas; pero no es una medida nueva, esta es una medida que se ha usado por décadas, quizá por siglos para el control de las epidemias de distinta naturaleza.
 Muchas gracias.
 ---
+INTERLOCUTORA
+Entonces, ¿habrá vigilancia para que las personas…?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Todavía tenemos que definirlo. Y como dije en la mañana, la propuesta que hará las autoridades sanitarias, es decir, la Secretaría de Salud será sometida a consideración del Consejo de Salubridad General.
+---
+INTERLOCUTORA
+Mi otra pregunta.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Su otra pregunta sobre el gobernador de…
+---
+INTERLOCUTORA
+Sobre la autonomía para decidir que no van a seguir con esta…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La cuarta autoridad sanitaria, de acuerdo al artículo 4º de la Ley General de Salud, son los gobiernos estatales. Entonces, efectivamente, a cada quien le corresponde un ámbito de competencia, como se define en la ley, y la ley lo que define es una acción de concurrencia, es decir, comparten el espacio físico, en el espacio físico la responsabilidad. Gruesamente, diríamos que las tres autoridades sanitarias nacionales, que son en secuencia el presidente de la República, el Consejo de Salubridad General y el secretario de Salud, toman disposiciones de carácter general y los gobiernos estatales tienen responsabilidad en su territorio.
 Gracias. Ustedes dos, por favor.
 ---
 PREGUNTA
+Pues gracias por la oportunidad. Seré breve, ya que se aclaró que la guía bioética es un proyecto y ahora puntualiza que va a ir evolucionando y es un documento vivo.
 A mí me gustaría preguntarles: dado que desde mi punto de vista pareciera que descansa en un concepto biopolítico del hacer vivir, dejar morir, en ese sentido, si se podría incluir otras perspectivas filosóficas en esta guía, si están considerando incluir a otros especialistas, ¿cuándo se presentará?
 Y si este, al ser un documento que también va a tener preceptos jurídicos, ¿cómo se les va a garantizar el uso de esta guía a la primera línea de los médicos para que se haga efectivo?
 Entiendo que no se haga público, pero ¿cómo se va a difundir?, ¿cómo se les va a hacer presente a la gente que va a entrar en primera línea o esta primera línea?
 Y si ya se estableció algún tipo de diálogo con el rector de la UNAM que se deslindó de la guía.
 Gracias.
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Correcto.
+---
 JOSÉ IGNACIO SANTOS PRECIADO
+Empiezo con lo último. La discusión con el rector está zanjada, creo que hubo malentendido, porque no fue una convocatoria del consejo, sino que es un grupo de trabajo entre la comisión consultiva científica, hay un comité de ética que se autorizó en noviembre del año pasado por el pleno del consejo.
 Y regresando a tus preguntas, gracias por las mismas, el documento no es el hilo negro, todos los países que generalmente han tenido que utilizar a una guía de triaje, eso es realmente lo más adecuado que puede hacerse.
 Y aquí lo que estamos proponiendo como el consejo, tener esto preparado antes de. No estamos anticipando una catástrofe, sin embargo, hay que prepararnos para una catástrofe, o sea, que los recursos son limitados en todo el mundo y lo estamos viendo, lo hemos visto, lo hemos vivido en otros países.
 Así es que la idea es de este proyecto de guía tiene los preceptos éticos, bioéticos y jurídicos definitivamente.
@@ -186,11 +218,13 @@ Entonces, estos una vez que se publique el Diario Oficial de la Federación se v
 Nace en el consejo, porque al consejo le corresponde crear y proponer como lo hicimos con los hospitales privados para que se sumaran al proyecto de nación.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor.
 Nos quedan dos minutos. Vamos a seguir abordando sobre el tema. Espéreme, Laura. Nos quedan minutos.
 Usted mencionaba algo sobre los gobiernos estatales y un gobernador, en particular en Michoacán, el gobernador Silvano Aureoles. Y me informan que tenemos accesible un video que aclara parte de los elementos que usted comentaba, específicamente sobre ,el Instituto Mexicano del Seguro Social. ¿No está listo el video? Bueno, lo ponemos entonces mañana temprano.
 Vamos a dar paso a la siguiente pregunta. Si es sobre el mismo tema continuamos, nos quedan dos minutos.
 ---
 PREGUNTA
+Buenas tardes. Ernesto Ledesma, de Rompeviento TV
 Doctor López-Gatell, respecto a las personas que son más susceptibles a la enfermedad que corren más riesgos, como hipertensión, diabetes, pregunto, con respecto de la enfermedad de la desnutrición si la desnutrición no es considerada una enfermedad de alto riesgo frente al COVID-19 y eso está también relacionado particularmente también con pueblos indígenas.
 En el estado de Chiapas, por ejemplo, hay además documentados por el Centro de Derechos Humanos Fray Bartolomé de las Casas, nueve mil 500 personas desplazadas indígenas que tienen que salir a las ciudades a buscar la papa y regresar otra vez ahí, más los que se tuvieron que ir a Cancún, a otros lugares y regresan, y hay un abandono total.
 No sé si ustedes como Secretaría de Salud están dando una atención especial en lo que toca a desplazados, porque en Chiapas no ha llegado esa atención por parte del gobierno del estado de Chiapas, a tal grado que el Centro de Derechos Humanos Fray Bartolomé de las Casas, frente a lo que dicen los desplazados, dicen, quédate en casa y ellos dicen: ‘¿Cuál casa?, si no tenemos casa’.
@@ -199,6 +233,7 @@ Pregunto si la Secretaría de Salud tiene o está preparando a clínicas y hospi
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Gracias por estas preguntas, me parecen extraordinariamente relevantes por el tema que ocupan.
 Efectivamente, no sería raro, y lo digo en este término, porque no conozco que exista ya una descripción suficientemente rigurosa sobre desnutrición y el riesgo de complicaciones de COVID, pero por analogía con prácticamente con cualquier enfermedad infecciosa, yo diría que sí, que lo más probable es que la desnutrición causada por insuficiencia crónica de alimentos, ya sea en general alimentos o los macronutrientes, resulte en una menor eficiencia del sistema inmune y por lo tanto un mayor riesgo de complicaciones.
 Ahora que la enfermedad, la epidemia fue transitando geográficamente, primero la teníamos en China, luego la tuvimos también en Estados Unidos y Canadá, también la tuvimos en Europa y ahora toca el turno a muchos países en los que tenemos unas proporciones muy grandes de personas que han vivido crónicamente en condiciones de insuficiencia, en condiciones de pobreza, hemos dicho prácticamente cualquier día que es notoriamente consistente que en México tengamos la mitad de las personas viviendo en pobreza y casi el 12 por ciento en pobreza extrema, incluyendo la pobreza nutrimental, lo cual es a todas luces una aberración social y habla de un proceso muy largo de injusticia.
 Ahora, sobre qué hacer. Efectivamente, hay personas desplazadas, hay personas que no tienen casa. Desde luego el concepto de ‘quédate en casa’ es un llamado genérico para la gran mayoría de las personas, pero por supuesto hay condiciones muy adversas que viven las personas en circunstancias de migración, los desplazados internos o sencillamente personas, por ejemplo, las personas que viven en situación de calle, tampoco tienen casa.
@@ -207,7 +242,11 @@ Lo que se puede hacer, y hemos estado haciendo, es acudir a los distintos progra
 Sería un privilegio poder invitarles y que vinieran. Es la Secretaría de Bienestar, la propia secretaria que coordina los distintos programas sociales, también la subsecretaria Ariadna Montiel, Gabriel García, todos los colegas que coordinan todo este aparato del gobierno federal, precisamente para asegurarnos hasta dónde se puede que, con acciones de logística, acciones de comunicación, apoyos financieros, tengamos una atenuación el impacto de la epidemia en las personas.
 Ya está el video.
 ---
+INTERLOCUTOR
+Frente a caos que luego se puede ver en algunos hospitales, ¿hay algún protocolo?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Como no, qué bueno que lo menciona. El concepto de triage o triaje que menciona el doctor Santos para esta situación muy particular, que es la toma de decisiones en el momento de la asignación de recursos crítico, el concepto general de triaje implica la identificación de prioridades.
 En lo que usted relata, que por eso me parece muy importante, estamos visualizando la puerta de acceso a un hospital donde puede haber un influjo grande de pacientes sin necesidad de atención.
 Y lo más probable, por el modo en que se comporta esta enfermedad, es que una proporción grande de estas personas tenga una enfermedad leve, pero algunos tienen una enfermedad moderada y otros, grave.
 Lo que no puede pasar, no debe pasar, es que por orden de aparición lleguen primero las personas con enfermedad leve, eso está correcto, cada quien tiene derecho a llegar en el momento oportuno, pero la prioridad está en quien tiene enfermedad grave.
@@ -216,19 +255,53 @@ Muchas gracias por la pregunta.
 Me dicen que ya tenemos… todavía nos da tiempo de una última pregunta y tenemos a disposición el video del que estábamos hablando. Por favor y usted allá, usted habló hace poquito, se me hace. Vamos a darle primero allá al compañero.
 ---
 PREGUNTA
+Sobre el proyecto de la guía, solamente saber qué ocurre antes, porque entiendo que el proyecto y la guía son similares, o sea, lo único que cambia es que se va a poner a consulta de los vocales en donde entiendo serían secretarios de Estado y también el rector de la Universidad y algunos presidentes de asociaciones médicas.
 ¿Qué ocurre primero?, ¿se discute entre todos los vocales y después se aprueba?, ¿todavía se puede modificar de acuerdo a la opinión de los vocales o se les da a conocer a ellos una vez que se publique en el Diario Oficial de la Federación?
 ---
 JOSÉ IGNACIO SANTOS PRECIADO
+Buena pregunta. El Consejo de Salubridad General consta de 13 integrantes con voz y voto, recientemente se adicionaron seis integrantes más para justamente la elaboración de la contingencia sanitaria.
 El documento se somete a los vocales con voz y voto y a los vocales invitados, en este caso los seis adicionales, que revisarán y se pondrá a consideración en el pleno del Consejo para su aprobación. Así es de que esa sería la secuencia de la guía.
 La guía está jurídicamente sólida, los integrantes que formularon la guía son expertos todos, la mitad de ellos son de la UNAM, diferentes facultades de la UNAM, uno de los co-coordinadores es de la Universidad de Oxford, un filósofo. Ya se ha revisado externamente al grupo y la verdad que el consenso es que la guía tiene todos los elementos necesarios.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Santos.
 Antes de pasar a la siguiente pregunta, el video que les había comentado. Este es sobre el tema de Michoacán y una duda que se había planteado sobre el proceso de reparación de ventiladores en el territorio michoacano.
 Por favor.
 ---
+VOZ HOMBRE
+El Tecnológico Nacional de México Campus Morelia, en colaboración con el Laboratorio Nacional de Sistemas Embebidos, Diseño Electrónico Avanzado y Microsistemas, Sedeam, apoyan al Instituto Mexicano del Seguro Social con el diagnóstico y, en su caso, rehabilitación de 111 ventiladores mecánicos de respiración artificial.
+---
+VOZ MUJER
+Desde la Ciudad de México, el IMSS traslada el equipo a las instalaciones del Instituto Tecnológico de Morelia para iniciar el proceso de diagnóstico. Una vez descargado el equipo, el personal del Tecnológico de Morelia, coordinado por el doctor Juan Alfonso Salazar Torres, contabiliza y desinfecta los ventiladores mecánicos con la utilización del conitizante, solución que fue desarrollada por profesores de ingeniería bioquímica de esta casa de estudios, para lo cual se esparce el líquido con un dosificador y se limpia con tela de algodón utilizando guantes de látex y cubrebocas.
+---
+VOZ HOMBRE
+Después de ser desinfectados, los equipos se clasifican por marca y se asignan al grupo de investigadores y alumnos para su diagnóstico inicial, en el cual se establece el estatus en el que se recibe el equipo.
+---
+VOZ MUJER
+Una vez asignado el equipo a los investigadores, ellos se encargan de habilitar el ventilador mecánico para su prueba de funcionalidad neumática y electrónica; asimismo, se realiza un levantamiento de los consumibles y accesorios faltantes, en este proceso se determina el equipo viable para reparar.
+---
+VOZ HOMBRE
+Para continuar con el trabajo, el personal repara los equipos viables y se complementa con el refraccionamiento y consumibles necesarios, finalmente, con equipos simuladores y medidores de flujo se calibran las variables de control del ventilador que corresponden a flujo, mezcla de gases y presión.
+---
+VOZ MUJER
+Concluido este proceso, se realiza un reporte final de trabajo sobre el equipo reparado y calibrado para ser entregado al Instituto Mexicano del Seguro Social.
+---
+VOZ HOMBRE
+Sin duda, este trabajo no se podría realizar sin la colaboración de alumnos de las carreras de ingeniería en mecatrónica y electrónica, egresados del IT Morelia con experiencia en reparación de este tipo de equipos, profesores e investigadores del licenciatura y posgrado, aunado al apoyo de empresas de exalumnos dedicadas al servicio en hospitales y centros médicos, donde realizan este tipo de trabajo, y que en esta ocasión brindan sus servicios para la calibración del equipo en el Tecnológico de Morelia.
+---
+VOZ MUJER
+De esta manera, el Tecnológico Nacional de México, Instituto Tecnológico de Morelia, fiel a su misión, contribuye en beneficio de la sociedad a través de la formación de profesionistas que inciden en el desarrollo científico, tecnológico, económico y social a nivel regional, nacional e internacional.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Pues esto, digo, parece bastante claro. Se llama Instituto Tecnológico de Morelia, necesariamente está en el territorio del estado de Michoacán y creo que tiene que ver con lo que usted comentaba.
 Aquí yo aprovecharía para decir lo siguiente, y a propósito de lo que usted preguntaba sobre las autoridades sanitarias:
 Los gobiernos estatales son autoridad sanitaria tanto como son tres autoridades del nivel federal. La ley es muy clara sobre cómo ocurre el proceso de colaboración, esto que la ley le llama concurrencia.
 Estamos ante un proceso complejo, un proceso nuevo, un proceso histórico en donde el sistema, no solamente de salud, sino el sistema país, se ve confrontado a un momento de estrés. Esto a veces lleva, y es también parte de las reacciones humanas, a la necesidad de expresarse, a lo mejor expresarse con vehemencia, a lo mejor hacer señalamientos que en un momento de estrés pueden llevar a confusión, sobre todo de una ciudadanía que lo está ávida es de certezas, de calma, de serenidad, de decisiones razonadas.
 Entonces, estas expresiones son parte del acontecer, son parte de los seres humanos, pero yo creo que en los siguientes, nos quedan todavía seis semanas de todo este proceso de la epidemia, en este primer ciclo, y lo mejor que podemos hacer todas y todos es mantener la calma, mantener la serenidad, ser afables y también identificar que somos un solo país, somos una sola república, todos estamos en ella, lo que cada quien haga va a repercutir positivamente hacia todos los demás si tenemos un espíritu positivo, creo que es lo mejor que podemos hacer.
 Muchas gracias.
+---
+PREGUNTA
+Doctor, una última de este lado.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ya no nos da tiempo, lo dejo para mañana, usted empieza mañana.

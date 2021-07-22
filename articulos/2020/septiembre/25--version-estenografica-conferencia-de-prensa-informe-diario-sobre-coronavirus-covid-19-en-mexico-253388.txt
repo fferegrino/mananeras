@@ -1,0 +1,290 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+25 de septiembre de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Buenas tardes de viernes.
+Muy buenas tardes.
+Son las 19 horas en punto del viernes 25 de septiembre de 2020.
+Estamos en el Palacio Nacional de México, en la Ciudad de México, y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, COVID-19 es la pandemia causada por el coronavirus SARS-CoV-2.
+Hoy tenemos el informe técnico y viernes de semáforo.
+Vamos a comentar sobre cuál es el estado que guarda el riesgo epidémico COVID para las entidades federativas de acuerdo al semáforo de riesgo COVID establecido en antelación al 1º de junio, fecha en que empezó el proceso de desconfinamiento organizado, ordenado, cauteloso y dirigido, conocido como la Nueva Normalidad.
+Me acompañan, por supuesto, ya ampliamente conocidos, el doctor José Luis Alomía, director general de Epidemiología del Gobierno de México, y el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud, también del Gobierno de México.
+Les pido si presentan el informe y abrimos a preguntas y comentarios.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con mucho gusto, doctor López-Gatell.
+Muy buenas tardes con todas y con todos, un saludo como todas las noches a la población que sintoniza esta transmisión para siempre estar actualizada en relación al comportamiento de la epidemia en México.
+El día de hoy estamos en la conferencia vespertina número 208 y, a la vez, el día 118 de esta Nueva Normalidad, caracterizada por el semáforo de riesgo COVID, no me detengo a hablar mucho sobre el semáforo ya que el doctor Cortés Alcalá, precisamente, realizará la actualización correspondiente y hablará en relación al mismo.
+Veamos entonces el escenario nacional, la actualización para el día de hoy, prácticamente un millón 651 mil las personas que han entrado a protocolo de estudio por ser casos sospechosos de la enfermedad y que, en su momento, como parte de este protocolo de estudio, fueron muestreados, es decir, se les obtuvo una muestra, ya sea a través de un hisopo nasofaríngeo o faríngeo, para poder identificar la presencia del virus.
+En el 44 por ciento de estas personas se identificó el virus, se aisló SARS-CoV-2, tuvieron un PCR positivo, por lo tanto, son los casos confirmados acumulados hasta el momento, es decir, estos 720 mil 858, que además los vemos representados en las columnas de color café claro que están en la parte inferior de la curva.
+Así también, el 51 por ciento de este total de personas dio negativo, es decir, no se identificó la presencia de SARS-CoV-2 en sus vías respiratorias, representan 843 mil 647 y los podemos ver graficadas en las columnas de color morado.
+Continuamos notando, ya prácticamente al cierre de esta semana, estamos cerrando la semana 39 y está graficada hasta la semana 37, le queda todavía un día, digamos, de movimiento a la semana, que sería el día de mañana, este sábado, pero entonces prácticamente ya al cierre podemos ver este comportamiento que tuvimos en la notificación total de todos los casos sospechosos, independientemente de si se confirmaron o no, en donde vemos un decremento importante de los mismos en la semana 37 en comparación a semanas previas, en donde habíamos visto incrementos ligeros semana con semana.
+Sin embargo, siempre hemos llamado también la atención al comportamiento del porcentaje de positividad que es precisamente la curva de color naranja que vemos hasta la parte superior que, independientemente de que se hayan incrementado los casos sospechosos y por lo mismo se haya incrementado la cantidad de muestras que en su momento se han tomado a estas personas, el porcentaje de positividad continuó con esta tendencia descendente que vemos se mantiene hasta la semana 37 y que para esta semana 37 es de un 39 por ciento.
+Estamos ya pronto a abrir el domingo la siguiente semana, en su momento veremos cuál es el comportamiento o cómo continúa el comportamiento de este porcentaje de positividad.
+Veamos la siguiente lámina, por favor, donde vemos los casos estimados, es decir, tomamos todos los confirmados y agregamos aquellos aun sospechosos que por porcentaje de positividad para cada semana estimamos que también vayan a convertirse en casos confirmados.
+Aquí vemos también, ya casi al cierre de la semana, el comportamiento de la curva epidémica nacional, recordando que la curva epidémica nacional es la sumatoria y, por lo tanto, las diferencias que hay del comportamiento de las 32 curvas de las entidades federativas quienes, además, lógicamente tienen curvas municipales.
+Pero entonces aquí vemos cómo se ha mantenido prácticamente durante toda la semana esta caída, este descenso importante entre la semana 36 y 37, que para el corte del día de hoy es de un menos 16 por ciento y con esto se mantiene la tendencia descendente que inició prácticamente desde la semana 30.
+Las defunciones también tienen este comportamiento, es decir, esta tendencia descendente y la misma se ha mantenido en un menos 41 por ciento en el comparativo de la semana 36 a la 37.
+Cinco por ciento continúan siendo los casos activos estimados; decimos casos activos porque representan precisamente a la epidemia activa en México, son las personas que iniciaron con signos y síntomas de la enfermedad en los últimos 14 días, y estas son solamente un cinco por ciento de todo ese gran total de personas que en algún momento, desde el mes de febrero que se confirmó el primer caso, pues han estado acumulando en función de la cantidad de personas confirmadas, importante resaltar que también al corte de hoy 518 mil 204 personas se han ya recuperado de la enfermedad.
+Veamos las últimas dos diapositivas en donde actualizamos la ocupación y disponibilidad hospitalaria, prácticamente no hemos tenido cambios, aunque en las últimas dos, tres semanas hemos visto cómo también una tendencia descendente se ha presentado en la media nacional, para camas generales al corte de ayer a la media noche es de 28 por ciento, lo cual nos deja 21 mil 478 camas disponibles y al menos todas las entidades federativas tienen al menos la mitad de sus camas disponibles con incrementos importantes de hasta más del 95 por ciento, como son los casos de Chipas y de Campeche.
+Si vemos la siguiente gráfica donde están específicamente las camas con ventilador para los pacientes críticos de la enfermedad, estas también han estado reduciéndose en las últimas semanas, 25 por ciento la media nacional, y al menos 54 por ciento de disponibilidad de este tipo de camas en todas las entidades federativas tienen disponibilidades tan altas como de un 97 por ciento en el caso también de Campeche.
+Y esto también es un indicativo que lógicamente tenemos menos personas que están teniendo signos y síntomas, o evolución grave, y por lo tanto están demandando menos atención hospitalaria, lo cual es también concordante con el comportamiento de la epidemia con esta tendencia descendente que vemos ya desde hace varias semanas.
+Sería la actualización para esta noche.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Alomía.
+Doctor Ricardo Cortés, qué nos puede comentar del semáforo de riesgo COVID.
+---
+RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchísimas gracias.
+Muy buenas tardes a todas y todos aquí en Palacio Nacional y a quienes nos acompañan desde sus casas a través de sus dispositivos electrónicos.
+Estos son los indicadores, son los números de los 10 indicadores que cada uno de los estados de esta República tienen, su puntuación final.
+Este es el semáforo que comienza su vigencia el próximo lunes 28 de septiembre y tiene vigencia durante dos semanas hasta el domingo 11 de octubre de 2020.
+Continuamos con nuestro país sin estados en rojo, tenemos 15 estados en el riesgo alto, el nivel naranja, hay que mantenernos con mucha prudencia, como está aquí Prudencia, nuestra heroína del Escuadrón de la Salud, con mucha prudencia para hacer los ajustes necesarios para ir transitando hacia niveles menores de riesgo.
+Tenemos ya 16 estados en riesgo moderado, riesgo amarillo, representado por Esperanza, tenemos 16 ya en esperanza de estar transitando hacia el semáforo verde, que es el de menor riesgo posible.
+Y hace su aparición, por primera vez, Aurora, el estado de Campeche es el primer estado de nuestra República en llegar al semáforo verde, es el menor de los riesgos.
+Hay que recordar siempre, esto no significa riesgo cero, esto significa que la dinámica de la epidemia ha disminuido lo suficiente como para que las actividades sociales y económicas se vayan regresando casi en su totalidad y en esta Nueva Normalidad que estamos viviendo actualmente.
+¿Qué hay que hacer, siempre hay que recordar qué hay que hacer?
+Si tenemos síntomas quedarnos en casa, avisar a nuestros contactos, sobre todo de los que estuvieron con nosotros dos días antes de que iniciamos nuestros síntomas, y un contacto cercano es aquel que haya estado a metro y medio, a menos de metro y medio y durante al menos quince minutos, es como se ha definido un contacto cercano, hay que avisarles ellos, así ellas y ellos se pueden cuidar, estar pendientes de su salud estando aislados en casa.
+Hay que recordar que una persona que ha sido contacto, una persona que presenta síntomas debe aislarse en casa, y una persona que es contacto de otra que puede ser sospechosa o que ya fue confirmada a COVID-19 debe quedarse en aislamiento en casa vigilando su salud, si inicia con sintomatología y es contacto de un caso ya diagnosticado con una prueba es en automático positivo, en automático es un caso confirmado por asociación epidemiológica.
+Hay que colaborar y seguir las indicaciones de las autoridades locales, la autoridad sanitaria local es la persona titular del gobierno del estado y también en coadyuvancia con las autoridades municipales que han hecho también un extraordinario trabajo los presidentes y las presidentas municipales, estamos en contacto con todas ellas y ellos a través de la Red Mexicana de Municipios por la Salud, cuyo presidente es el presidente de la ciudad de Zacatecas.
+Si tenemos síntomas respiratorios y pertenecemos a alguno de los grupos de mayor riesgo de presentar un cuadro grave de COVID, como ya los hemos mencionado, personas adultas mayores, personas que vivan con alguna condición, alguna enfermedad de cronicidad, como obesidad, sobrepeso, diabetes, hipertensión, enfermedad pulmonar, enfermedad cardiaca, VIH, vivir con VIH, vivir con cáncer, vivir con alguna discapacidad que pudiera generar un mayor riesgo.
+Estas personas deben recibir atención médica de inmediato para que el profesional de la salud de su mayor confianza este vigilando esta condición con la que ustedes viven, ejemplo, la diabetes, que debe estar controlada para mitigar el riesgo de mayores complicaciones.
+Hay que recordar, dice Susana Distancia, siempre los signos de alerta, falta de aire, dolor en el pecho, fiebre persistente, desorientación o somnolencia persistente también, y una saturación, si es que tienen algún pulsioxímetro en casa, la saturación menor al 93 por ciento de oxígeno, si tienen una emergencia marquen al 911 o acudan a una unidad hospitalaria para ser atendidos.
+Finalmente, hay que recordar que para seguir mitigando esta epidemia todo lo tenemos en nuestras manos, hay que tener lavadas nuestras manos frecuentemente, lavado de manos, hay que usar nuestras manos para aplicar la etiqueta respiratoria, cubrir nariz y boca, ya sea con un pañuelo desechable y luego tirarlo o con el ángulo interno del codo.
+Hay que usar nuestras manos para colocarnos correctamente nuestro cubrebocas, cubriendo nariz y boca por completo y hay que usar también nuestras manos para que a través de nuestros dispositivos electrónicos no compartamos noticias falsas.
+Como dice Susana: ‘Si te cuidas tú, nos cuidamos todas y todos’.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Ricardo Cortés.
+Es alentador ver que ya tenemos un primer semáforo verde.
+Quiero felicitar al gobierno del estado de Campeche, al gobernador, el licenciado Carlos Miguel Aysa, y al secretario de Salud, el doctor José Luis González, y todo el equipo, tanto de la Secretaría de Salud de Campeche como del gobierno de Campeche en su conjunto, ese ha sido un trabajo muy coordinado de múltiples secretarías del estado.
+Y reconocemos que han hecho un trabajo muy ordenado, no han caído en ninguna provocación respecto a desviaciones sobre la materia técnica y nos da mucho gusto ver que se cosechan los resultados.
+Los resultados son que ya están en un riesgo menor, como ya enfatizó el doctor Ricardo Cortés, esto no quiere decir riesgo nulo, siempre hay riesgo en la medida en que permanezca activa la epidemia, pero ya tienen una condición de transmisión baja de acuerdo a los parámetros definidos por los 10 indicadores del semáforo COVID.
+Felicitamos, a nombre de todos y todas, a nombre del secretario de Salud, el doctor Jorge Alcocer Varela, al gobierno de Campeche por este logro.
+Y quisiéramos alentar al resto de las entidades federativas a seguir con ese trabajo continuo, constante, dedicado que están haciendo cada quien con las dificultades que implica la complejidad demográfica y social de cada estado, pero para mantener la reducción.
+Y, por supuesto, alentar a la sociedad, al conjunto de la población, a todas las ciudadanas y ciudadanos a que identifiquen la necesidad de mantener muy ordenado el proceso de desconfinamiento, seguir todas estas recomendaciones que decimos continuamente, que están en los materiales de promoción de la salud en todos los rincones del país y que cada viernes enfatiza Susana Distancia sobre cuáles son estas medidas, estas medidas habrá que incorporarlas por un tiempo largo y seguramente la epidemia todavía nos depara varios momentos de intenso trabajo, pero hay que continuar y lo iremos logrando.
+Muchas gracias.
+Vamos a empezar con la ronda de preguntas aquí con Juan Carlos Machorro, de AM Noticias Querétaro; Liliana Noble, de Pulso Saludable; Demián Duarte, de múltiples medios, incluyendo Política y Rock and Roll.
+Por favor.
+---
+PREGUNTA
+Buenas noches, doctor, Juan Carlos Machorro, de AM de Querétaro.
+Doctor, ya mencionó un primer estado en verde, cómo visualiza usted, ya hablamos que de una a dos semanas el estado de Campeche puede empezar a regresar a clases, todavía tiene que verlo la autoridad estatal y la SEP, los eventos sociales, no sé, ya habría más posibilidades de acceso al público, cuál sería, digamos, ese regreso ordenado a sabiendas que, como somos en general los latinos, pues somos más desordenados, está el caso de España, que cuando abrieron empezaron a tener rebrotes y casi todos somos más así, digamos, un poco más relajados, más pachangueros.
+Esa es una primera pregunta.
+Y una segunda, si me permite, usted igual ayer habló sobre un regreso, un pequeño crecimiento de contagios, esto no es, quizá, esperemos que sólo sea uno o dos días, pero esto no es, quizá, el inicio de la punta del iceberg del famoso, y también usted ha dicho, el rebrote de octubre, pues octubre empieza en una semana, no es que el 1º de octubre todo empiece, pero podría ser eso el inicio.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por las dos preguntas.
+Sobre la primera, y específicamente sobre el caso de Campeche, primer estado que entró en semáforo amarillo, primer estado que está entrando en semáforo verde, considero que es importante mantener la prudencia, aunque las indicaciones generales del semáforo indican que se podría empezar a considerar la apertura de los recintos escolares en semáforo verde, considero que es importante guardar la calma, mantener la prudencia, valorar cuidadosamente cuál podría ser el beneficio de abrir los recintos escolares, en contraste de cuáles son los riesgos.
+Es apenas la primera experiencia de una entidad federativa que pasa a verde, considero que sería más prudente esperar, esperar, no apresurar la apertura de los recintos escolares y estar seguros que la transmisión llega a un punto mínimo.
+Y justamente, por lo que indica su segunda pregunta, porque estamos empezando la temporada de influenza y, como hemos dicho repetidamente, en el hemisferio norte la temporada de influenza empieza en octubre, termina en marzo o a veces hasta abril del año próximo, el año siguiente, y entonces sí, por un lado, estamos en la condición de riesgo bajo con el semáforo verde, pero estamos a pocos días de empezar el mes de octubre, considero que sería más prudente esperar respecto a la apertura escolar en el estado de Campeche y, en general, cualquier otra entidad federativa que en las próximas semanas pudiera llegar al semáforo verde.
+Afortunadamente hay un diálogo muy fluido entre la Secretaría de Salud y la Secretaría de Educación Pública a nivel federal, lo hay también en las propias Secretarías de Salud y de Educación en las entidades federativas y a su vez el diálogo entre el gobierno federal y los gobiernos estatales.
+Todo esto se puede ir evaluando, hemos también destacado el papel tan importante del secretario de Educación Pública, el maestro Esteban Moctezuma Barragán, que le ha dado un seguimiento muy cuidadoso al tema de la seguridad sanitaria de todas las trabajadoras y trabajadores del sistema escolar y, por supuesto, de las personas que son educandos de la educación pública en México.
+Si son o no signos tempranos del repunte de la epidemia de COVID eso no lo podemos saber, no hay manera de anticiparlo, nosotros, como hemos comentado siempre, monitoreamos la epidemia 24 horas al día los 365 días del año o los doscientos ochenta y tantos que llevamos hasta ahorita.
+Esto quiere decir que nuestros sistemas de inteligencia epidemiológica están activos todo el tiempo, la vigilancia epidemiológica está activa todo el tiempo, nuestros laboratorios de la Red Nacional de Laboratorios de Salud Pública están activos, tienen una jornada de trabajo, generalmente no trabajan en el turno nocturno, pero están activos en el turno matutino, vespertino; igual el Indre, el Laboratorio Nacional de Referencia, y tenemos nuestras sesiones diarias de análisis de información y vamos identificando estas señales.
+Pero no podemos anticipar que necesariamente sea o que no sea una señal, hasta ahorita el único cambio que tuvimos respecto a la tendencia descendente fue que el porcentaje de positividad, que al inicio de la semana 37 empezó en 39 por ciento, perdón en 37 por ciento justamente, pasó a 39, pero podría ser una fluctuación que no necesariamente implique una tendencia de regreso a la actividad, pero hay que estar expectantes.
+Gracias, Juan Carlos.
+Liliana Noble, Pulso Saludable.
+---
+PREGUNTA
+Buenas noches. Liliana Noble, de Pulso Saludable.
+Doctor Gatell, hoy la jefa de Gobierno, la doctora Claudia Sheinbaum, habla de que no se va a realizar este retorno de los trabajadores el 1º de octubre, que más bien se pospone hasta que no estemos en semáforo verde.
+Yo le quisiera preguntar ¿Qué pasaría, su opinión al respecto, pero también qué pasaría si algunas empresas hacen caso omiso y ya comienzan a solicitarles a sus empleados que regresen a las labores cotidianas y esto pudiera después convertirse en un brote?
+Y una segunda pregunta, me contacto gente del estado de Querétaro y me dice una maestra de esa localidad que en la Universidad Autónoma de Querétaro están haciendo pruebas serológicas y que han dado ya los primeros resultados, los preliminares, y hablan de que el 46 por ciento de los testeados han dado positivo o han tenido algún contacto con el virus del SARS-CoV-2.
+Yo quisiera saber si este resultado pudiera ser una antesala a pensar que la inmunidad del rebaño pudiera ser un indicio, aun sin que exista hoy en día una vacuna.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Empiezo por la segunda pregunta, no conozco los resultados, ni las metodologías que posiblemente esté usando la Universidad Autónoma de Querétaro en lo que usted relata que están haciendo una encuesta serológica.
+Estaremos encantados de conocerlo para saber si esta metodología corresponde con los estándares que se utilizan en general para el uso de pruebas de serológicas y también la metodología del diseño de la encuesta para ver si tiene las características que le permitan tener tanto el poder estadístico, como la representatividad poblacional apropiadas para ser inferencias sobre la seroprevalencia poblacional, pero lo investigamos y si es metodológicamente meritorio les reconoceremos su esfuerzo y, por supuesto, les agradeceremos.
+Esperemos entonces.
+Recordar que sigue activo, empezó en la primera semana de agosto la recolección de información de la Encuesta Nacional de Salud y Nutrición, esta es la encuesta que hace el Instituto Nacional de Salud Pública, y es la encuesta gubernamental del Gobierno de México para reconocer las características de salud de la población, estas encuestas empezaron desde los años 80 en su formato actual, Encuesta Nacional de Salud y Nutrición, han existido cuatro rondas, y ahora se hace anualmente, esta es la primera vez que se hace anualmente.
+Y justo aquí hemos incorporado un esquema o un módulo de COVID, y entre otros componentes tiene la encuesta serológica nacional COVID-19, en la que veremos cuál es la seroprevalencia nacional y estatal.
+La primera pregunta sobre la doctora Sheinbaum, la doctora Sheinbaum es una gobernante muy responsable y es una persona sensata y con una visión científica muy sólida.
+Entonces, si ha tomado esta decisión de prudencia nos parece muy adecuado, consideramos que está haciendo lo correcto.
+Hemos comentado que la Ciudad de México y en general el Valle de México es la zona que por las características poblacionales de tamaño y de densidad, así como de movilidad, es la zona más compleja que entra en control.
+En ese sentido consideramos alentador el hecho mismo de que no haya un descontrol epidémico, sino que se ha mantenido en una meseta, en una continua transmisión, no es deseable ni desde luego alentador que continúe la transmisión, pero ante la complejidad del control epidémico en una zona tan densamente poblada es ya un logro en sí mismo que no se dispare la transmisión.
+¿Qué pasaría si las disposiciones del gobierno de la Ciudad de México no fueran seguidas por los objetos obligados, potencialmente empresas privadas o públicas?
+Pues, desde luego correspondería a la Ciudad de México ejercer las sanciones administrativas que correspondiera al respecto.
+---
+INTERLOCUTORA
+(Inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Pues, invitamos desde luego a toda la ciudadanía de la Ciudad de México, a todos los que residimos en este hermoso valle, a seguir las recomendaciones de nuestra gobernante local, que es la doctora Sheinbaum, jefa de Gobierno de la Ciudad de México.
+Por favor, y Juan Carlos Abaroa.
+---
+PREGUNTA
+Hola. Buenas tardes. Fernando Camacho, del periódico La Jornada.
+Quisiera preguntarle, doctor, de acuerdo a la tendencia que vemos ahora cuáles son los estados que podrían acercarse al semáforo verde de acuerdo a como van y cuáles considera que se están tardando más en evolucionar hacia un estado más favorable, ¿no hay alguno que se esté tardando especialmente?
+Y otra pregunta es: ¿Saben en qué paró el tema de, al parecer, un intento de suicidio de un paciente de COVID en la clínica 30 del IMSS? ¿No sé si saben al final de cuentas qué pasó?
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Lo salvaron nos dicen, yo no tengo información.
+¿Tienen información al respecto?
+No tenemos información al respecto.
+Sobre quién estaría más cerca de llegar al verde, pues los que están en amarillo, en general, y del amarillo los que están en naranja, en general.
+Pero su pregunta me parece muy procedente, porque hay tendencias de la curva en general, y teniendo 10 indicadores del semáforo de riesgo de COVID a veces efectivamente se presentan patrones discrepantes entre los indicadores.
+Pongo un ejemplo: Chihuahua. Chihuahua ha mantenido una transmisión intensa en una de sus regiones, que es la región norte, hacia, particularmente en Ciudad Juárez y la zona de las maquiladoras en el norte, que es consistente a largo de ya muchas semanas, pero en la región de la capital del estado y la zona centro-sur hay una menor transmisión.
+Entonces, estos patrones de diferencias poblacionales en la intensidad de transmisión a veces dan fenómenos paradójicos, en donde algunos de los indicadores están altos en su puntuación y otros están bajos. Entonces, creo que es procedente su pregunta.
+Lo que puede decir es que tenemos 27 entidades federativas, 27 que se encuentran ya en un patrón descendente, es decir, disminuyen diariamente el número de casos registrados, el número de hospitalizaciones, el número de muertes, el porcentaje de positividad, se comportan en general estos cuatro indicadores de manera muy consistente, y en 27 entidades, al menos durante dos semanas, si terminamos esta semana en la misma tendencia serán ya tres, al menos tres.
+Algunas entidades federativas, y es el caso precisamente de Campeche, y también es el caso de Chiapas, también es el caso de Sonora, de Sinaloa, tienen también más de seis u ocho semanas, en el caso de Campeche más de 12 en donde hay un descenso continuo de la intensidad epidémica.
+Y otras pocas que restan todavía con actividad al alza, quedan dos, concretamente son Durango y Querétaro, que han tenido un patrón continuo de ascenso y todavía no se ve con claridad el momento en que empezarán en descenso.
+Dos que están en un estado de meseta, son precisamente la Ciudad de México y Jalisco, Jalisco apenas tiene la primera semana que tuvo descenso y vamos a ver si se mantiene un patrón o sigue siendo parte de una fluctuación en un estado de meseta.
+Gracias.
+Carlos Abaroa, de Unomásuno.
+---
+PREGUNTA
+Muchas gracias. Hola, buenas noches. Buenas noches, doctor. Buenas noches, doctores. Dos comentarios, y me gustaría saber su opinión, doctor.
+Efectivamente, hoy el estado de Campeche pasó al semáforo verde, hacer dos comentarios al respecto de dos declaraciones.
+Al inicio de la semana, el secretario de Educación habló de la posibilidad de que regresaran, una vez en estado verde ese estado, los niños a las clases presenciales, sin embargo, el día de ayer el gobernador del estado declaró que él no arriesgaría precisamente la salud de los niños.
+Me gustaría saber su opinión respecto a esta situación.
+La segunda. La Ciudad de México aún se conserva en el color naranja; sin embargo, nos enteramos el día de ayer que en algunas demarcaciones, concretamente la demarcación Gustavo A. Madero ha autorizado ferias, las ferias patronales, las ferias de algunas colonias y todo, están documentadas.
+Hoy hizo una declaración la jefa de Gobierno al respecto de que no está autorizada ninguna actividad de este tipo, sobre todo porque son actividades masivas, es donde la gente asiste a convivir, a comprar, a divertirse, sobre todo con los niños.
+Me gustaría saber su opinión también al respecto.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto.
+Coincido totalmente con lo que haya dicho la jefa de Gobierno, Claudia Sheinbaum, a ese respecto, lo que ella declaró, cosa que me parece compatible con la prudencia que ella ha tenido a lo largo de todos estos meses, que no es procedente que en Gustavo A. Madero, ni en ninguna de las 16 demarcaciones territoriales de la Ciudad de México ocurran ferias porque estamos en semáforo naranja, considero que hay que enfatizar que tiene toda la razón y esto es lo que corresponde.
+Espero, anticipo que la demarcación o la alcaldía de Gustavo A. Madero, desde luego en un diálogo que mantienen con la jefa de Gobierno pronto se percatarán de que esto es lo más conveniente y tomarán las decisiones al respecto.
+Respecto a Campeche, escuelas, el secretario de Educación, el gobernador del estado, es simplemente el diálogo precisamente que existe, tuve el privilegio de hablar con el gobernador hace un par de días y conversamos al respecto, a su vez le transmití el diálogo que mantenemos en la Secretaría de Salud con el secretario Moctezuma, y la idea básica es la siguiente.
+Desde que empezó la epidemia la Secretaría de Salud se mantiene en diálogo con la Secretaría de Educación Pública y analizamos conjuntamente el riesgo epidémico y los distintos modelos matemáticos que predicen la potencial curva epidémica en las semanas posteriores y que siempre que lo decimos agradecemos a Conacyt, a la doctora Álvarez-Buylla y a los académicos y académicas de la Universidad Nacional Autónoma de México, al Instituto de Matemáticas, así como del Cimat, el Centro de Investigación en Matemáticas, que han mantenido este esfuerzo tan importante de análisis y de predicción.
+Entonces, lo revisamos periódicamente con el secretario Moctezuma, lo revisamos también periódicamente con las autoridades educativas estatales y tenemos el privilegio de que el secretario Moctezuma nos invita a los diálogos que tiene con las autoridades estatales.
+En un momento dado, ya que se presenta el semáforo verde, lo que comenté hace un rato en respuesta a la pregunta de Juan Carlos, considero que es más prudente esperar, en el sentido de que quisiéramos ya reactivar los distintos movimientos que existe en la sociedad, las distintas ocupaciones, desde luego quisiéramos que los escolares, hombres y mujeres, pero particularmente los jóvenes escolares, los del nivel básico, regresaran a la escuelas, pero hay que ponderar el riesgo que eso puede implicar contra el beneficio y, de manera particular, considerando que estamos próximos a entrar en la temporada de influenza, temporada en donde existe una predicción razonada de que podríamos tener un repunte COVID.
+Pero no hay ninguna contraposición, eso sí quisiera declararlo, a veces aparecen noticias, como se pelea un gobernante estatal, de ninguna manera, el gobernador Aysa, insisto, por eso lo dije al principio, al felicitarlo públicamente a nombre del doctor Alcocer, ha sido ejemplar en la conducción, no solamente de COVID, sino en la atención a este diálogo constructivo, siempre basado en técnica, en ciencia, que mantenemos con la autoridad estatal.
+Muchas gracias.
+Demian Duarte.
+---
+PREGUNTA
+Gracias, doctor López-Gatell.
+Dos preguntas, una en particular. Evidentemente, los estados que estábamos en verde, digo, en amarillo, digo, es el deseo de querer estar en verde seguramente, y en particular los que mencionó: Sinaloa, Sonora, Chiapas, pues nos quedamos, así como un pasito de pasar a verde.
+La pregunta muy específica sería: ¿Qué atributos sí tuvo Campeche que no los tuvimos nosotros y qué tenemos que hacer?
+Sería mi primera pregunta.
+La otra, yo me voy a subir mañana a un avión, doctor, y esta pregunta se la quería hacer desde el lunes que llegué, voy rumbo a Hermosillo, cuando llegué de Hermosillo a la Ciudad de México me vine con la contrariedad de que los aviones vienen llenos, y los aviones seguramente de aquí también se van llenos, la demanda de los vuelos está creciendo y las aerolíneas no están haciendo nada, precisamente, para evitar la cercanía o promover la sana distancia.
+Yo les pregunté a los empleados de la aerolínea en la que viajé, en particular Aeroméxico, que qué pasaba, porque en el aeropuerto nos someten a protocolos de mucho cuidado, mucha seguridad y resulta que luego nos suben al avión y estamos como en una lata de sardinas, porque son aviones chicos de tres filas por cada lado, y me ha tocado venir en medio de dos pasajeros, por ejemplo, o en la ventana pegado con los otros dos.
+La pregunta es: ¿Qué se tiene que hacer ahí, puesto que nos han convencido ustedes de que la sana distancia es lo que debe prevalecer y las aerolíneas al parecer hacen caso omiso, obviamente en Sonora queremos pasar a verde?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Demián.
+Ahorita le pediré al doctor Ricardo Cortés si comenta sobre los protocolos en el transporte, pero justamente las aeronaves son ejemplo de transporte público, igual que el transporte terrestre público, en donde es difícil conservar la sana distancia, aun cuando se dejaran sillones vacíos, la proximidad es muy grande entre dos filas y sería muy difícil asumir que eso cumple con la sana distancia.
+Y ahí es donde el cubrebocas es de especial interés, el uso del cubrebocas debe de ser consistente, debe tapar nariz y boca, y recordar que el cubrebocas, su utilidad es evitar o disminuir la salida de los virus, la salida de las partículas líquidas, gotas, gotículas, aerosoles, que son las que tienen al virus y que son las que pueden contagiar a otra persona, usar el cubrebocas es una medida de solidaridad sanitaria.
+¿En qué sentido?
+En el sentido de que yo me lo pongo no para protegerme a mí, sino para proteger a los demás.
+Cuando hay dificultad para conservar la sana distancia, porque estamos demasiado estrechos en el espacio, pues es de mayor importancia.
+Cuando estamos a buena distancia no es tan indispensable utilizar el cubrebocas, es casi imposible que mis partículas líquidas les alcancen a ustedes o alcancen aquí a mis colegas en la medida en que yo me proyecte para allá.
+Entonces, usar el cubrebocas sería la recomendación principal, pero el doctor Cortés nos puede comentar lo que hemos trabajado también respecto a transporte, y le dejo al doctor Alomía la otra pregunta que hizo.
+---
+RICARDO CORTÉS ALCALÁ
+Muchas gracias, doctor.
+En general, los protocolos a los que nos sometemos, empezando por el protocolo personal de si yo voy a salir de casa y tengo algún síntoma respiratorio, ahí empieza el protocolo, no hay que salir de casa.
+Llegando, el ejemplo que pone, al aeropuerto, uno llena una ficha para dar seguimiento en el vuelo en el que se va a viajar, se pasa por el filtro en el que también se pregunta sintomatología, se hace una toma de temperatura, asumiendo que todo está bien calibrado y que todos decimos la verdad a la hora de subirnos a las aeronaves.
+El uso del cubrebocas es muy importante, el saneamiento de la aeronave entre un viaje y otro, recordemos que son las mismas aeronaves las que llegan, descargan a una serie de pasajeros, y luego vuelven a recargar, las aeronaves son limpiadas, sanitizadas entre un vuelo y otro.
+Y también importantemente, desde 2011 en el que tenía yo el privilegio de ser director de área en la dirección general de Epidemiología, y el doctor López-Gatell era el director general de Epidemiología, tuvimos una serie de importaciones de personas que importaron el sarampión desde Europa.
+Ahí estuvimos analizando las situaciones, no hubo casos secundarios de las personas que estaban en la aeronave, dado que aeronaves cambian el aire cada tres minutos, el flujo de aire es de arriba a abajo y la posibilidad de que esté uno contaminando a las personas es menor, además de que si ahora el uso de cubrebocas es obligatorio se mitiga de forma bastante importante.
+Entonces, nos parece que con todos estos protocolos mitigamos casi por completo el riesgo de que haya un mayor o un contagio dentro de una aeronave.
+---
+INTERLOCUTOR
+(Inaudible)
+---
+RICARDO CORTÉS ALCALÁ
+¿Qué tan alta o qué tan baja?
+Bueno, como comentó ahorita el doctor López-Gatell, el uso del cubrebocas, aquí está cayendo probablemente el 95 por ciento de la saliva que yo esté emitiendo, el hecho también de no platicar cuando uno se quita el cubreboca en la aeronave para tomar agua o para tomar los alimentos en los viajes más largos, pues procurar no platicar con la persona con la que está uno a un lado.
+Y la verdad es que no tendríamos una probabilidad específica, pero es lo suficientemente baja para poder realizar nuestros viajes con la mayor tranquilidad posible.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+En relación a la pregunta de qué pudiera haber faltado a algunas entidades federativas para alcanzar un nivel de riesgo menor, digamos, y, por lo tanto, un color diferente.
+Como bien se comentaba hace un momento, aplicaría tanto para las que finalmente no pudieron de un nivel de riesgo amarillo bajar a un verde o de un naranja lograr el amarillo, tiene que ver y está directamente relacionado con el tema, precisamente, de los indicadores que en su momento monitorea y pondera el semáforo de riesgo COVID.
+Recordemos que son ahora 10 indicadores, al inicio de la epidemia iniciábamos con cuatro indicadores que eran los más relevantes y que además tenían en su evaluación y en su ponderación los criterios de máxima seguridad.
+En la medida que la epidemia fue avanzando y empezamos a tener ya curvas descendentes en muchos estados se integraron otros seis, son 10, y ahora todos ponderan el mismo peso, es decir, cada uno de los 10 indicadores tiene el mismo peso.
+Dentro de estos indicadores nuevos hay, por ejemplo, aquellos que miden la tasa de mortalidad, hay aquellos que miden el RT, hay aquellos que miden otro tipo de tendencias también más allá de la de la presentación de casos u hospitalización.
+Entonces, más allá que, por ejemplo, las entidades federativas que están en amarillo y que tiene niveles bajos de transmisión, evidenciados al menos en su curva epidemia, porque ha tenido varias semanas de descenso y se mantiene ese descenso en las últimas semanas, a lo mejor todavía, por ejemplo, la mortalidad no alcanzó el nivel suficiente para que en ese indicador pueda disminuir el riesgo.
+Es posible que los pacientes, por ejemplo, que se hospitalizaron en las últimas semanas todavía se mantengan hospitalizados, lo cual en su momento esté afectando la saturación hospitalaria y entonces que esto no permita que el indicador baje del nivel de riesgo.
+El semáforo de riesgo COVID tiene precisamente una calibración con una sensibilidad en función de esos 10 indicadores que para poder disminuir el riesgo y llegar realmente a un riesgo menor, como en este caso lo hizo Campeche con el verde, tiene que haber cumplido fehacientemente con prácticamente los 10 criterios para poder haber alcanzado ese nivel.
+Entonces, es muy probable que a estas entidades en amarillo les hayan faltado dos o tres criterios de estos 10 indicadores, pero lógicamente también la invitación es que si continúan, por un lado, los gobiernos locales aplicando y recomendando las medidas que hasta el momento han realizado, pero también de manera muy importante si la población en cada una de estas entidades federativas continúa atendiendo estas medidas y continúa llevando a cabo las acciones preventivas, pues entonces es muy probable que en una siguiente evaluación y para dentro de 15 días entidades en naranja puedan lograr el amarillo y ojalá, esperemos, que entidades en amarillo también puedan en su momento lograr el verde.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias doctor Alomía.
+Empecemos aquí con Arturo Contreras, de Pie Página, y luego Héctor García.
+---
+PREGUNTA
+Gracias. Buenas noches.
+Un poco preguntar sobre el plan de vacunación, si ya se tiene como algún avance, sabemos que la vacuna va a llegar y se tiene pensado que llegue a toda la población, pero no podemos o no se puede vacunar a todo el mundo al mismo tiempo.
+China ya dijo, por ejemplo, que en ciudades en las que hay como menor trasmisión de la enfermedad, pues no va a llegar la vacuna tan pronto.
+Entonces, no sé si tenga un poco de avance sobre eso.
+Y otra, sobra las vacunas genéticas, saber si el uso de vacunas genéticas, varias de las vacunas que se han desarrollado ahora para COVID están empleando este nuevo tipo de tecnología en el desarrollo de vacunas, saber si esto abre como algún nuevo, bajo su muy especial ojo profesional, si esto abre como un nuevo panorama en el desarrollo de vacunas y qué podría significar, y si alguna de las opciones en las que está apuntado México usa este tipo de tecnología.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Arturo, por estas preguntas.
+Retomemos, en qué vamos con la vacunación COVID o el plan de vacunar contra el COVID.
+Una buena noticia que fue comentada desde el martes en el Pulso de la Salud y la hemos platicado a lo largo de la semana, es que ayer el doctor Alcocer, nuestro secretario de Salud, firmó ya el convenio con la plataforma Covax, que es la plataforma de colaboración impulsada por las Naciones Unidas, y el doctor Alcocer ya externó con su firma y aprobó la adhesión de México a esta.
+Agradecemos también los buenos oficios de la Secretaría de Relaciones Exteriores y el Servicio Exterior Mexicano que comunicaron esto a las partes correspondientes en la OMS y la GAVI, que es la Iniciativa Global de la Alianza por Vacunas, es una traducción un poco rara, GAVI, pero que es la entidad que está organizando el proceso de Covax.
+¿Qué implica el proceso de Covax?
+Que México ha solicitado una primera dotación de vacunas al mecanismo colaborativo, eso nos da una primera oportunidad de acceso temprano a vacunas, hay otros países que han entrado al mecanismo.
+Y el mecanismo es un mecanismo solidario, es un mecanismo de equidad en el que la Organización Mundial de la Salud, a través de estas fundaciones, hará una compra consolidada, eso va a permitir reducir los costos de las vacunas y precisamente para eso se diseñó este esquema, para tener equidad en el acceso, los países de ingresos altos pagarán más cara la vacuna, la pagarán posiblemente más cercana al precio real.
+Los países que son muy pobres, que tienen ingresos muy bajos, tendrán, quizá, donativos o precios simbólicos, y los países de ingresos medios y medios altos, como es el caso de México, pagaremos diversas cantidades, pero en un esquema que se compensa entre todos los que participan.
+Esto, además, permite que a través de la plataforma Covax se haga una exploración sistemática de las distintas cualidades que tienen las vacunas, las cualidades no se limitan exclusivamente a su seguridad, calidad y eficacia, que son los atributos fundamentales que se consideran en las evaluaciones sanitarias de los países o de los mecanismos regionales, como la Agencia Europea de Medicamentos, sino se consideran otros atributos, por ejemplo, la termoestabilidad.
+La termoestabiilidad, para quien no está familiarizado con esto, quiere decir la capacidad de mantener el producto en buenas condiciones el mayor tiempo posible.
+En casi todas las vacunas, si no es que en todas, se requiere refrigeración, pero dependiendo la tecnología con la que están hechas las vacunas, algunas, como ha comentado el doctor Alcocer en un par de ocasiones que ha venido a explicarnos la ciencia detrás de las vacunas, algunas están hechas de material genético y son muy lábiles al calor y requieren congelaciones extremas, lo que llamamos técnicamente ultra congelación, tienen que estar a 70 grados bajo cero.
+Las que están hechas de proteínas generalmente tienen mayor tolerancia y se pueden conservar durante algunos periodos en congelación y otro tiempo en temperatura de refrigeración convencional.
+Y esto es un atributo muy importante, porque de esto depende también la logística no solamente de importación, almacenamiento, transporte, sino la logística misma del programa de vacunación.
+Todas estas consideraciones a lo que nos llevan es a la importancia de definir las negociaciones que se tienen, en este caso es con Covax, todo ese razonamiento científico se hace a través del Grupo Técnico Asesor Estratégico en Vacunación de la Organización Mundial de la Salud, toda esta exploración de las características.
+Y recordamos con orgullo que el presidente de este Grupo Asesor Estratégico de Inmunizaciones de la Organización Mundial de la Salud es un científico mexicano, el doctor Alejandro Cravioto Quintana, y también de este grupo asesor se creó una unidad específica para la vacuna COVID, y además participa una investigadora mexicana, la doctora Celia Alpuche Aranda, quien es directora del Centro de Investigación sobre Enfermedades Infecciosas del Instituto Nacional de Salud Pública, y a quien tenemos el privilegio de tener ahora en nuestro grupo de trabajo, precisamente asesorando sobre vacunación a nuestro programa de inmunizaciones.
+Entonces, todo esto es la exploración, y hay otra parte. Comentaba el canciller Marcelo Ebrard el martes en el Pulso de la Salud, que son las negociaciones bilaterales directas con los laboratorios farmacéuticos para suplementar la oportunidad de tener vacunas de manera directa.
+Estamos teniendo conversaciones prácticamente con todos los laboratorios que están cercanos a tener una vacuna, o más cercanos, conforme otros vayan terminando sus estudios fase dos, que estos estudios se publiquen, que los resultados sean alentadores, desde luego estaremos gustosos de tener conversaciones.
+Hemos platicado ya con varios, desde luego no puedo revelar los detalles de las conversaciones porque son confidenciales, pero el ánimo es muy positivo, la colaboración que hay entre la Secretaría de Salud, la Secretaría de Relaciones Exteriores es muy benéfica, la colaboración que hay también con los organismos internacionales es muy benéfica.
+Definir el esquema, lo que puedo ratificar es lo que ha dicho el presidente de la República, el propósito del Gobierno de México es tener acceso universal a la vacuna, es decir, nadie va a quedar excluido, discriminado, restringido de tener acceso a la vacuna.
+Los detalles científicos y técnicos, como lo estoy conversando, como lo estoy relatando, todavía en el mundo entero están abiertos a deliberaciones, en ningún país se ha definido un esquema de vacunación, precisamente porque todo depende de los resultados de los estudios, y ninguna de las vacunas ha terminado ya sus ensayos clínicos.
+La vacuna de Johnson & Johnson empezó su ensayo clínico esta misma semana, va a tener un ensayo clínico de 60 mil personas voluntarias.
+La de AstraZeneca empezó hace ya varias semanas un ensayo clínico en el Reino Unido y Brasil, y otro en Estados Unidos.
+Las vacunas chinas están también en curso sus ensayos clínicos.
+Otras vacunas de Estados Unidos todavía no inician sus ensayos clínicos.
+De la vacuna rusa no conocemos, lo hemos dicho, la información; simplemente, el gobierno ruso o el Instituto Gamaleya no lo han dado a conocer, excepto el estudio fase uno, dos, que fue publicado en la revista The Lancet el pasado 4 de septiembre.
+Entonces, en eso vamos, pero el mensaje básico es: El Gobierno de México está empeñado en tener le beneficio de las vacunas contra COVID lo más pronto posible y, en la medida en que esto sea científicamente sólido para garantizar la seguridad y eficacia de las vacunas, y que, en todo caso, en todo momento, sea para garantizar la protección universal del pueblo de México.
+Muchas gracias, Arturo.
+Héctor García, Grupo Cantón, periódico Basta.
+---
+PREGUNTA
+Gracias, subsecretario. Buenas noches a los doctores.
+Le quiero preguntar: ¿Qué noticias tienen ustedes como autoridades de salud del estudio que científicos del Hospital Metodista de Houston hicieron público en el sentido de que hay cinco mil secuencias genéticas del coronavirus que revela un mayor contagio?
+Y si bien no es letal, sí le está pegando más a la ciudadanía, porque señalaron que en marzo, cuando estaba el virus del SARS-CoV-2, eran menos y ahora en junio esta se expandió.
+Y de ser así, que tengan el estudio, algún caso en particular de nuestro país como un cerco sanitario o qué pasaría.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Esto se relaciona con lo que explicó hace un par de días nuestro colega y amigo, el titular del Departamento de Biología Molecular del Indre, el doctor Ernesto Ramírez, y justamente comentábamos cómo hay una enorme cantidad de variaciones o mutaciones del virus que van ocurriendo, los virus RNA, como el de COVID o el de influenza y varios otros tienen una tasa de mutación muy acelerada, este virus que tiene 29 mil, número grueso, pares de bases o secuencias de bases en su secuencia de RNA, desde luego, es también muy propenso a esto.
+No conozco todavía el resultado, porque entiendo que no se ha publicado el documento científico de este estudio, lo conocimos más bien las noticias.
+El Hospital Metodista de Houston tiene fama de ser un centro académico sólido, pero interesaría ver ya la publicación científica revisada por pares para ver si realmente la implicación del estudio es que ciertas secuencias genéticas o ciertas variantes genéticas del virus son más virulentas o no.
+No es fácil determinarlo, es decir, no basta con identificar al virus en sus secuencias genéticas, esto lo hacemos también en México, lo hace el Indre de manera rutinaria, como se explicó, desde las primeras secuencias de los virus que se detectaron en México fueron identificadas, publicamos el artículo en su momento.
+Pero la relación entre variantes genéticas y virulencia requiere estudios poblacionales o estudios clínicos para ser inferencias y no es fácil lograrlo, la razón principal es una restricción metodológica, se requieren tamaños poblacionales importantes para tener el poder estadístico suficiente para atribuir la asociación entre virulencia y secuencias, y generalmente con pocas secuencias, aunque cinco mil parece mucho son pocas para hacer una inferencia consistente en ese sentido, pero vamos a ver cuando salga la publicación.
+No sé si el doctor Alomía quisiera comentar algo adicional.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Solamente referir que esto es precisamente también algo que se monitorea en función de posicionamientos, digamos, oficiales, por parte de la OMS, de la OPS o de este grupo técnico científico que todos los días, prácticamente, está subiendo desde los diferentes países del mundo, las diferentes secuencias genéticas específicamente del virus SARS-CoV-2 y además compartiendo información sobre la investigación o lo que están realizando al respecto.
+Aquí en México también se está llevando a cabo una investigación enfocada precisamente a ver si hay algún tipo de asociación entre algunas de las familias o clados que se han evidenciado en México, grupos de virus SARS-CoV-2, y si estos tuvieran alguna asociación con la presentación clínica más grave, por ejemplo, de estos grupos asociados lógicamente a las personas, en su momento tendremos los resultados de esta investigación.
+Pero de este monitoreo y de la información que se comparte a través de estas plataformas internacionales, precisamente el doctor Ernesto Ramírez nos comentaba la última ocasión que hasta el momento no se ha por lo menos identificado o reportado de manera oficial a todo este conjunto de países que llevan a cabo esta actividad que se haya encontrado alguna de estas características.
+Lógicamente esto no quiere decir que no pueda suceder y que en algún momento sí se pudiera identificar algo relacionado, pero al menos hasta el momento no se había notificado oficialmente.
+---
+INTERLOCUTOR
+(Inaudible) el virus sería la causa de no encontrar la vacuna (inaudible) los expertos de los laboratorios.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+No necesariamente, digamos, esto tiene que ver lógicamente los grados de mutación que en un momento puede haber en relación al virus como tal, pero hasta el momento realmente lo que se ha manifestado por las diferentes empresas farmacológicas o consorcios que están desarrollando las vacunas, al menos en su fase uno y fase dos, es que han podido encontrar la generación de inmunidad en los grupos.
+Estamos esperando, lógicamente, ávidamente todos los resultados de la fase tres, que se verán a fin de año, porque, precisamente, también en la medida del tiempo, y a más tiempo que ha transcurrido de los primeros casos y de la evolución de la pandemia general en el mundo, si estas pruebas de fase tres continúan o terminaran siendo exitosas, pues entonces esto también en su momento reflejaría que no ha habido la suficiente, vamos, magnitud de mutación o cantidad de mutación en virus que haya permitido que una de estas vacunas en desarrollo no fuera, digamos, eficiente, eficaz, pero hasta el momento todavía no es información que se haya evidenciado.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Hoy es viernes 25 de septiembre, son las 20:01 horas. Retomamos:
+La epidemia no ha terminado, seguimos con la epidemia de COVID, en otras partes del mundo; incluso, se ha exacerbado es el caso de Europa occidental.
+La Organización Mundial de la Salud hoy insistió en que la epidemia está en difícil control en el mundo entero porque hay otras regiones que, a diferencia de algunos países que ya estamos en una fase descenso, están teniendo exacerbaciones.
+México no está exento del riesgo de un rebrote, particularmente entre octubre y marzo del próximo año, en la medida en que en el hemisferio norte habrá indiscutiblemente la temporada anual de influenza y las características, tanto de transmisión, como de manifestaciones clínicas del virus SARS-CoV-2 que causa COVID son semejantes al de la influenza, son dos virus diferentes, pero se comportan de manera parecida.
+Pero es importante mantener el orden, la calma, la prudencia y permitir que con las actividades que hace la población de restringir su movilidad en el espacio público, de mantenerse a sana distancia, de lavarse las manos continuamente, de usar el cubrebocas, de usar el estornudo de etiqueta, tapándose boca y nariz con el ángulo del brazo, no salir de casa si es que se tienen síntomas, salir lo menos posible, con esto vamos a seguir teniendo esperanza y además resultados, como acabamos de ver en el caso de Campeche, que ya llegó al semáforo verde, pero en toda la República de disminución.
+Llevamos ya, mañana se cumplirán las ocho semanas consecutivas de descenso de la epidemia que empezó a descender desde la última semana de julio.
+Seguimos, como dice el maestro Alcocer, y nos vemos mañana.
+Muchas gracias.

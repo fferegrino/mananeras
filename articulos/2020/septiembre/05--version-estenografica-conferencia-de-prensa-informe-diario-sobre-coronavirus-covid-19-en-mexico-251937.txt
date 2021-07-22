@@ -3,6 +3,7 @@ Presidencia de la República
 05 de septiembre de 2020
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muy buenas tardes tengan todas y todos aquí en Palacio Nacional y en sus casas. Estamos aquí, en el Salón Tesorería, hoy es sábado 5 de septiembre del 2020. Día internacional de los hermanos, yo tengo dos, les mando muchos besos.
 Vamos a presentar la conferencia de prensa de todos los días sobre la epidemia de COVID-19, enfermedad causada por el virus SARS-CoV-2. Tendremos dos componentes:
 Uno, el clásico, el componente de la actualización del panorama epidemiológico de la epidemia en México.
 El componte temático tratará sobre mortalidad, el exceso de mortalidad. Nos acompaña el doctor Ruy López Ridaura, director general del Centro Nacional de Programas Preventivos y Control de Enfermedades, para presentar el análisis del exceso de mortalidad.
@@ -26,6 +27,7 @@ Muchas gracias.
 A continuación, el doctor Ruy López Ridaura nos comentará sobre el análisis del exceso de mortalidad.
 ---
 RUY LÓPEZ RIDAURA, DIRECTOR GENERAL DEL CENTRO NACIONAL DE PROGRAMAS PREVENTIVOS Y CONTROL DE ENFERMEDADES (CENAPRECE)
+Muchas gracias, doctor Ricardo Cortés. Hola, buenas noches.
 Como comentó ya el doctor Ricardo Cortés, vamos a presentar una actualización de lo que también presenté yo mismo, hace como un mes ya, a finales de julio, a principios de agosto, donde presentamos el primer análisis de exceso de mortalidad a nivel nacional y en aquella ocasión también nos acompañaron -un ejercicio similar que se estaba haciendo o que se hizo y que se sigue haciendo en la Ciudad de México- también nos acompañó el Jean Marc Gabastou, de OPS, dando una perspectiva internacional.
 En esta ocasión vamos a presentar una actualización de este reporte que, además, se está convirtiendo ya en un boletín que estará pronto a publicarse entre mañana o pasado mañana, ya estará en su edición publicada dentro de la página de coronavirus y será un reporte que ya actualizaremos de manera periódica.
 Como se comentó desde aquella ocasión, este es un ejercicio que se realizó por un grupo interinstitucional, mi más profundo agradecimiento por este grupo, en donde además de la Secretaría de Salud, la subsecretaría, con la participación de la Dirección General de Epidemiología, nosotros en el Cenaprece, la Dirección General de Información en Salud, también tenemos la participación muy importante del Instituto Nacional de Salud Pública, que son los que han estado dando el seguimiento puntual de la metodología y el desarrollo gráfico de todas las estimaciones, y con el apoyo muy importante de Renapo, que es quien ha ofrecido el poder utilizar los datos de las actas de defunción y la colaboración también con Conapo, Inegi y la Organización Panamericana de la salud y además del IMSS, que dentro de este grupo interinstitucional cada semana hemos estado revisando los datos para tener una mayor precisión.
@@ -75,10 +77,12 @@ No voy a pasar… Esto son nada más para que sepan, en el mismo boletín vamos 
 Muchas gracias.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias al doctor Ruy López Ridaura por esta actualización. Recordemos que es la segunda vez que se presenta este informe, este análisis de exceso de mortalidad.
 Y antes de pasarle la palabra a la doctora Lorena Rodríguez-Bores, nos gustaría también comentar que un agente biológico nuevo que se introduce a nuestro mosaico virológico, que se introduce del reino animal salvaje a los humanos siempre, siempre va a provocar un exceso de carga de la enfermedad, como lo estamos viendo muy claramente y un exceso de carga de mortalidad, como también lo acaba de presentar el doctor Ruy López Ridaura. Lo que quisiéramos y lo que pretendemos es que esta carga sea lo menor pesada posible.
 Doctora Lorena Rodríguez Bores, titular del Secretariado Técnico del Consejo Nacional de Salud Mental, muchas gracias.
 ---
 LORENA RODRÍGUEZ-BORES RAMÍREZ, SECRETARIA TÉCNICA DEL CONSEJO NACIONAL DE SALUD MENTAL
+Buenas noches. Muchas gracias.
 Buenas noches a todos.
 El día de hoy vamos a platicar un poquito acerca del duelo en estos tiempos de pandemia.
 La idea es bridarles algunas recomendaciones que vamos a ir viendo poco a poco, pero bueno, no sobra recordar que estamos viviendo una situación extraordinaria, una situación fuera de precedentes que realmente ha constituido un desafío, no nada más sanitario, sino a nivel personal, económico, comunitario y por supuesto en el que todos hemos tenido pérdidas, no nada más pérdidas desafortunadamente humanas, sino también pérdidas económicas o pérdida de la libertad de salir sin un miedo a ser contagiado.
@@ -148,6 +152,7 @@ Y, finalmente, siempre promoviendo aquí en el hecho de que si esto no empezamos
 Muchas gracias.
 ---
 RICARDO CORTÉS ALCALÁ
+Muchas gracias, doctora Lorena Rodríguez-Bores.
 Son las 19:50. Antes de pasar a preguntas y respuestas, los duelos los vivimos todos los días, cualquier pérdida nos debe llevar a un duelo, nos lleva a un duelo, la pérdida de la vida de un ser querido, puede ser la mayor de las pérdidas, pero también depende de cada persona, hay que recordar, cada uno de nosotros somos diferentes.
 La pérdida del trabajo, la pérdida de la pareja, de la relación, un divorcio, lleva a un proceso de duelo importante, particularmente ahorita cuando se dio la noticia de un evento de salud pública de importancia internacional que sucedía en la República Popular de China y empiezan las noticias a manejarlo y empezamos a recibir más información, empezamos a tener un proceso de duelo como personas y como país, porque perdemos la salud pública también.
 Perdimos, como lo comentó la doctora Lorena Rodríguez-Bores, la libertad, al momento en que dijimos hay que quedarnos en casa se pierde la libertad, es un duelo diferente.
@@ -156,11 +161,13 @@ Entonces no hay que hacerlo así, hay que darle su lugar a cada pérdida que cad
 Son las 19:53. Si hay alguna pegunta. Adelante, por favor.
 ---
 PREGUNTA
+Buenas noches. Muchas gracias. Arturo Contreras, de Pie de Página.
 Hay ocho estados que no están reportando sus cifras al Renapo, esto ¿por qué pasa?, y ¿cuándo deben de reportarlas?, o ¿por qué deben de reportarlas?
 Y si se tiene todos los años un exceso de muertes por influenza ¿podemos esperar en el futuro tener excesos de muertes por COVID?, no sólo como los que tenemos ahora, sino como una situación estacional continua.
 Y una última, sólo para confirmar, en las gráficas que nos mostraban dos colores, en rojo y en gris en las que se tenían confirmados los casos que sí son por COVID, supongo que se van a confirmar el resto de los que también sean por COVID y de los que sean por otras causas en un futuro cercano ¿como cuándo podría ser esto? Eso nada más.
 ---
 RUY LÓPEZ RIDAURA
+Muchas gracias por las preguntas.
 Los estados… Digo, los registros civiles dependen de los estados y el esfuerzo de Renapo es que empezó desde el año pasado, fue el tratar de coordinar los datos que están siendo incluidos en cada uno de los registros para poder generar esta base de datos nacional.
 Esto es un esfuerzo enorme que Renapo está haciendo con cada una de las entidades federativas y el problema de cómo a partir de un acta de defunción, cómo se genera una base de datos en el registro y ese registro cómo se valida y después pasa a un registro nacional puede tener varias barreras.
 Se está trabajando, no es un problema específico con alguna entidad, sino que esto es un esfuerzo continuo y espero que pronto esas entidades vayan incorporando una información más actualizada para que se puedan incluir a nivel nacional.
@@ -171,14 +178,22 @@ Y este es un proceso que se va completando y posiblemente en los próximos meses
 Gracias.
 ---
 RICARDO CORTÉS ALCALÁ
+Antes de la pregunta sobre influenza y el exceso de mortalidad que causa, el exceso de carga de enfermedad que causa cada temporada, cada periodo otoño-invierno, en realidad decimos, es la temporada de influenza porque es el virus que más se tiene dentro del mosaico biológico, pero en esa carga de enfermedad de años anteriores está influenza, está metapneumovirus, rinovirus para influenza y todos los potenciales virus y bacterias que puedan provocar una neumonía, que al final de cuentas es el cuadro grave que puede resultar en una defunción
 Si y sólo si tuviera el mismo comportamiento que se tuvo con la influenza AH1N1, recordemos que también empezó en marzo-abril y después se habituó al resto de subtipos de influenza, si este coronavirus tiene el mismo comportamiento, lo que en un futuro vamos a ver es las mismas gráficas, cuál es el exceso de mortalidad por influenza y neumonía, que así se catalogan de acuerdo a la clasificación internacional de enfermedades, exceso de mortalidad por influenza y neumonía, y con los datos de la vigilancia epidemiológica Centinela tendremos: Ah, este exceso se debió en tal porcentaje a influenza, en tal porcentaje a SARS-CoV-2 y tales porcentajes al resto de los virus respiratorios.
 ---
 PREGUNTA
+Óscar Sosa, para EnRédate Digital. Buenas noches a todos.
 Mi pregunta es referente a la salud mental. ¿Cómo una persona puede contar con las tecnologías de la información? Acaban de dar un número telefónico y una página electrónica. Quien entra en extrema pobreza y tiene ese problema, ¿qué es lo que puede hacer para poder curarse o de esa enfrentar la situación en materia de salud mental?
 ---
 LORENA RODRÍGUEZ-BORES
+Los números es sobre todo para la asistencia en caso de que alguien necesite o se sienta en crisis, no nada más por duelo, sino, como lo decíamos al principio de la pandemia, por algún tema de pánico.
 Realmente, si nosotros marcamos la Línea de la Vida, también se divide en varias opciones: por ansiedad, la otra es por riesgo suicida, la otra es por alguna situación de violencia y otras son situaciones generales, también estaban habilitadas algunas líneas para personas con discapacidad.
 Realmente de una colaboración interinstitucional a partir de la emergencia de coronavirus, también algunas líneas se han adherido, como el Consejo Ciudadano, entonces también se pueden derivar o canalizar las llamadas ahí.
 Si nosotros nos metemos al micrositio, también está un directorio donde no nada más está la Línea de la Vida y otras líneas asociadas, sino en general muchas asociaciones, está la línea de la Secretaría de Marina, está la de comunidades universitarias y el Politécnico, también varias de las asociaciones civiles que brindan en este momento atención.
 Entonces, la idea cuando uno marca es si existe alguna situación en la que se puede dar en ese momento una atención en crisis, una atención de primera ayuda sicológica, una atención en crisis en ese momento, si no se tiene otro requerimiento muchas veces se puede derivar.
 Si existe la necesidad de alguna atención especializada también se puede derivar algún establecimiento en caso de que sea aquí en la Ciudad de México, o si no, se le puede brindar alguna información de cómo puede obtener servicios de salud mental en otros lugares.
+---
+RICARDO CORTÉS ALCALÁ
+Muchas gracias, doctora.
+Acercarse a los servicios de salud, acercarse a los sistemas estatales y municipales DIF siempre podrá ser una de las opciones que pueda tomar alguien que decide o no, llamar a Línea de la Vida o no tomar las alternativas que se presentan en la página web, siempre hay otras opciones de contacto directo.
+Bien, son las 20:02. Muchísimas gracias. Terminamos aquí. Gracias a todas y todos.

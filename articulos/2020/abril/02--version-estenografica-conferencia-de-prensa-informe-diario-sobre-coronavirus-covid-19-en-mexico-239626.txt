@@ -3,11 +3,13 @@ Presidencia de la República
 02 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 horas del jueves 2 de abril de 2020. Estamos en la Ciudad de México, este es el Palacio Nacional y vamos a iniciar la conferencia diaria sobre la situación del coronavirus, SARS-CoV-2, el nuevo coronavirus y la epidemia de la enfermedad que produce, COVID-19.
 Hoy vamos a abrir un espacio más amplio para preguntas, nos da la impresión de que se han quedado preguntas pendientes, vamos a empezar con usted, que quedó pendiente ayer y nos vamos a ir de atrás para adelante.
 Pero antes, el doctor José Luis Alomía, director general de Epidemiología, va a presentar el informe técnico diario. Hoy tenemos un invitado, a quien apreciamos mucho, que es el doctor Alejandro Svarch Pérez, quien es el coordinador de la formación y reclutamiento de los recursos humanos en el Instituto de Salud para el Bienestar, él tiene la encomienda previo al COVID y mayor razón ahora durante el COVID de asegurarse que existan los profesionales de la salud, enfermeras, enfermeros, médicas, médicos, etcétera en todas las unidades de salud, y nos va a comentar precisamente sobre el progreso acelerado que ha habido al respecto.
 Le pido al doctor Alomía si empieza.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Con su permiso, señor subsecretario.
 Buenas tardes, todas y todos.
 Damos la actualización del día de hoy. Si recuerdan esta nueva gráfica, la iniciamos el día de ayer, consideramos que más allá del mapa en donde prácticamente ya se ven todos los países a nivel mundial pintados de color rojo, lo que significa que hay transmisión comunitaria en los mismos, este nos da una representación un poco más visual de cómo se está llevando a cabo la transmisión en los últimos días y cómo se ha dado esta a través desde el inicio de la pandemia allá en China.
 Como pueden ver, la proporción de casos confirmados en los últimos 14 días, es decir, la pandemia activa, las personas que en los últimos 14 días presentaron síntomas se mantiene prácticamente similar a la última semana, 77 por ciento para el corte del día de hoy, lo cual nos habla de que la transmisión a nivel mundial se mantiene activa, ese 77 no ha disminuido, se ha mantenido entre 75, 76 prácticamente durante las últimas dos semanas.
@@ -25,7 +27,11 @@ Y aquí podemos ver cómo se mantiene esta tendencia, estamos hablando de las co
 Esto es importante en el mensaje a la comunidad, porque esto en su momento confirma precisamente que ser un adulto mayor continúa y va a seguir siendo un factor de riesgo importante, no sólo para desarrollar la enfermedad, sino para en su momento que se produzca algún tipo de complicación y que esto lleve a la persona a demandar atención médica en segundo o tercer nivel, es decir, es una unidad hospitalaria.
 De ahí la importancia de la medida de seguridad en su momento emitida que pide a estas personas, es decir, a los mayores de 60 años, en el tema de grupo de edad de mantenerse en resguardo domiciliario corresponsable para evitar precisamente en estos momentos o en este inicio de la epidemia contagiarse y por lo tanto pasar a formar parte de esta estadística.
 ---
+PREGUNTA
+(inaudible)
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Bueno, eso es lo que sucede en la realidad, es decir, si hay de 60 a 64, eso es lo que tenemos registrado, así se ha producido en la comunidad, es la manera como se registra.
 Sin embargo, vemos que la carga de mayores de 65 rápidamente vuelve a incrementarse, estoy recordando que es a nivel nacional.
 La distribución en función de la evolución, 67 por ciento ha evolucionado de una manera leve y por lo tanto se ha atendido de manera ambulatoria; sin embargo, un 9.4 por ciento tuvo que ser hospitalizado, pero en condición estable, en condición digamos, de seguimiento, pero sí tenemos un 5.6 por ciento que tiene la característica de ser graves y también un uno por ciento en condición crítica que precisamente representan a los pacientes que han necesitado ser intubados por haber falla pulmonar.
 La siguiente. La distribución en su momento de estas defunciones, también por el estado en el cual ocurrieron, igualmente concentradas por cada una de las entidades federativas, esto es información para que ustedes la puedan revisar.
@@ -39,26 +45,32 @@ Durante la última semana, con variaciones un poco mayores o menores, se puede d
 Ese sería el panorama del día de hoy.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor José Luis Alomía, director general de Epidemiología.
 Le pedimos ahora al doctor Alejandro Svarch si nos comenta sobre el reclutamiento y formación de recursos humanos de la salud especializados.
 ---
 ALEJANDRO SVARCH PÉREZ, TITULAR DE LA COORDINACIÓN NACIONAL MÉDICA, INSABI
+Muchas gracias, doctor Hugo López-Gatell por la invitación a este importante espacio.
 El día de hoy quisiéramos que nos ayuden a convocar a todos nuestros médicos generales, especialistas, a todas nuestras enfermeras generales, especialistas a que nos ayuden. El llamado es de ayuda a que todos los profesionales de la salud se involucren en la atención de esta patología a través de este llamado y de esta campaña de reclutamiento.
 Tenemos un video, por favor.
 ---
 VOZ HOMBRE
+Convocatoria especial para la atención del COVID-19. El Instituto de Salud para el Bienestar convoca a médicos o médicas especialistas en terapia intensiva, urgencias, medicina interna, neumología, infectología y anestesiología, también se requieren enfermeras o enfermeros especialistas en terapia intensiva e inhaloterapia.
 En este momento México te necesita.
 Inscríbete en el medicosdelbienestar.salud.gob.mx. Ya estamos contratando.
 ---
 ALEJANDRO SVARCH PÉREZ
+Como ustedes saben, en la fase 2 de la reconversión hospitalaria también tenemos que prepararnos en cuanto a los recursos humanos y este es el llamado a toda la comunidad de médicos y de enfermeras del país a que nos ayuden al manejo de esta entidad patológica. Muchas gracias.
 Hay una presentación también. Este es el banner de comunicación, estas son las especialidades que en este momento más necesitamos, especialistas en terapia intensiva, neumología, infectología y anestesiología, y después enfermeras generales y enfermeras especialistas, particularmente en terapia intensiva y con conocimientos de inhaloterapia.
-La forma de acceder es a través de esta página, medicosdelbienestar.salud.gob.mx, ya estamos contratando, ya estamos enviando a trabajar a diferentes hospitales, a diferentes estados.  La etapa de reconversión en el país ya inició y esto incluye que ya estemos preparados en la capacidad de respuesta de recursos humanos.
+La forma de acceder es a través de esta página, medicosdelbienestar.salud.gob.mx, ya estamos contratando, ya estamos enviando a trabajar a diferentes hospitales, a diferentes estados.  La etapa de reconversión en el país ya inició y esto incluye que ya estemos preparados en la capacidad de respuesta de recursos humanos.
 Entre todos y gracias a ustedes por permitirnos llegar esto a nuestros doctores, a nuestras enfermeras, que seguro seguirán respondiendo a esta convocatoria.
 Es cuanto, señor. Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Svarch.
 Vamos a abrir entonces a preguntas. Usted y luego empezamos por allá atrás.
 ---
 PREGUNTA
+Buenas tardes. Carlos Cabeza, de Diario de Nuevo Laredo.
 En primer lugar, felicitar al señor subsecretario Hugo López-Gatell, porque especialmente nos ha inspirado su dedicación y facilidad de comunicarnos los pormenores de la enfermedad. Un reconocimiento.
 Quiero decir que la opinión en nuestras latitudes al respecto de cómo van ustedes es muy buena y ha inspirado gente de la sociedad civil, y me dieron una carta para que se las hiciera... Muy rápidamente, media cuartilla.
 Se trata de un regidor que es presidente de… es secretario de la comisión de salud, es médico, Juan Manuel Flores Perales, y dirige a usted las siguientes palabras, señor subsecretario:
@@ -71,6 +83,7 @@ La pregunta es, señor subsecretario, ¿hay disponibilidad de la autoridad sanit
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la información, los comentarios y las preguntas y sugerencias de los colegas que ha mencionado.
 Aquí retomo sobre algo que habíamos planteado al inicio de la fase de preparación, antes incluso de tener el primer caso en México y que tiene que ver con las modalidades de la reducción de riesgos, las modalidades de manejo de una epidemia, en este caso de enfermedades infecciosas.
 Aunque en la visión pública general existe la expectativa de que se puede poner una barrera física a las epidemias, no existe demostración alguna, ya no digamos científica, histórica de que este tipo de medidas tengan alguna clase de utilidad.
 Hemos relatado en otras ocasiones que si nos remontamos a la historia de las epidemias, en la era antigua o incluso en la Edad Media, teníamos una manera de organizar en ese momento del mundo los asentamientos humanos, se organizaban en ciudades, en las civis antiguas o en los territorios feudales, en la Edad Media, y luego una gran extensión de territorio, campos cultivables y campos no cultivables entre una feudo, una ciudad y otra, y solían ser por razones militares y políticas ciudades amuralladas. Entonces, había un muro físico de contención cuyo propósito era la defensa militar.
@@ -90,10 +103,15 @@ Y referido a las personas compatriotas de México que están hoy en el exterior,
 La recomendación es: no vengan, esperen, pero por supuesto estamos muy conscientes que los compatriotas, las compatriotas, también enfrentan adversidades en el país en donde se encuentran, y esto puede implicar la dificultad para tener una asesoría de salud.
 Y les recordamos que México tiene el programa de Ventanillas de Salud. Ventanillas de Salud son espacios de asesoría que existen en los consulados mexicanos en Estados Unidos, y a través de las distintas redes de comunicación que existe entre la población migrante de origen mexicano pueden encontrar el acceso a la información, a la orientación, en términos de prevención y promoción de la salud.
 ---
+INTERLOCUTOR
+Era la situación adicional de unos jóvenes inspirados con su trabajo, tienen ya días buscándome, y son unos jóvenes emprendedores que tienen una fábrica, que han creado con otros jóvenes dentro de la escuela, del Poli, han creado un guante de gel que mata microbios y también para sanitación, y lo quieren poner a su disposición para efectos de que en caso les interesa en un enfoque altruista. No buscan lucrar, buscan cooperar.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Correcto. Le pido, si es tan amable, y para no frenar la… me da la información y le damos seguimiento.
 Vamos a tomar a dos personas de aquí y dos personas de aquí, y le seguimos, luego dos personas atrás. Ángeles Cruz, de La Jornada, usted, ustedes dos, y luego nos vamos de atrás para acá.
 ---
 PREGUNTA
+Buenas tardes, subsecretario.
 Yo quisiera preguntarles si han encontrado a estas alturas en los exámenes, en las pruebas de laboratorio, algunas diferencias de la cepa que está circulando en México con la que llegó de China. Hay algunas versiones de que hay cepas distintas.
 Quiero saber cuántas pruebas se hacen por día en el país, en el Indre en particular.
 Y si eso… ¿cómo se explica que haya retraso y se esté mencionando que las personas de pronto evolucionan y no saben realmente qué es lo que tienen? Al parecer están transcurriendo varios días antes de que se confirme.
@@ -102,6 +120,25 @@ Al doctor Svarch quisiera yo preguntarle: ¿cómo van con el programa? Hoy lo vi
 Eso es todo.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, estimada Ángeles. No sé de dónde sacó este número de 50 mil ventiladores, no sé a qué se refiere, pero…
+---
+INTERLOCUTORA
+Eran las pruebas.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, correcto.
+---
+INTERLOCUTORA
+En todo caso, ¿sabe qué?, saber si es de la misma técnica de Berlín o ya es una nueva técnica, que ya entendemos que hay una nueva técnica que también es por PCR y que puede acelerar el diagnóstico.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Empecemos hablando de pruebas
+---
+INTERLOCUTORA
+Gracias, perdone.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, seguro; no al contrario, gracias.
 Pruebas. Vamos a decir tres cosas:
 La técnica, el uso y luego finalmente el número y el significado del número de pruebas.
 Técnica. La técnica, ayer lo comentábamos aquí, la técnica estándar, la técnica deseable, la técnica recomendada por la Organización Mundial de la Salud y que usamos en la mayoría de los países, desde luego incluido México, es una técnica que se llama ‘reacción en cadena de la polimerasa’, por sus siglas en inglés PCR.
@@ -124,7 +161,20 @@ Hasta el momento, el número lo acabamos de ver, hemos hecho cerca de 14 mil pru
 Todas las que se necesiten, todas las que se necesiten para monitorear, para vigilar el curso de la epidemia.
 Y conecto con las 50 mil pruebas que menciona, tuvimos un donativo de 50 mil pruebas, llegaron de China ayer, están siendo evaluadas en el Indre, en el Laboratorio Nacional de Referencia que dirige aquí el doctor Alomía y ahí estamos identificando cuál va a ser la utilidad más práctica, son PCR y se van a distribuir a tanto lugares como tengan que distribuirse en el sistema público para que sean utilizadas eficientemente.
 ---
+INTERLOCUTOR
+¿Se van a seguir (inaudible) decían al principio?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, toda esta tecnología gruesamente. Y las dos que se anunciaron como ultrarápidas también tardan, no es cierto que tardan 15 minutos, porque el factor limitante principal es la extracción del RNA y eso tiene un procesamiento que es como cerca de dos a tres horas.
+---
+INTERLOCUTOR
+Doctor Svarch.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Doctor Svarch.
+---
 ALEJANDRO SVARCH PÉREZ
+Sí, muchas gracias.
 Como ustedes saben, existe un déficit estructural de recursos humanos para la salud en nuestro país. Las cifras ya las conocemos, deberíamos de tener 3.4 médicos por cada mil habitantes y no tenemos más de 1.6.
 Aunado a esto, hay un severo problema de distribución del recurso humano para la salud, hay ejemplos muy evidentes de ello: la Ciudad de México, nuestra querida ciudad tenemos cinco veces más médicos que en Tuxtla, pero a su vez en Tuxtla hay cuatro veces más médicos que en Las Margaritas; en Las Margaritas, Chiapas, debemos de tener la misma densidad de recursos humanos para la salud que puede tener Darfur o Sri Lanka, por ponerlo en perspectiva.
 Ante ello, como bien lo señalaron, hicimos una campaña que desde un principio intentó, y creo que lo ha sido, disruptiva en el sentido que intenta convocar al espíritu solidario que está presente en todos los médicos, en todas nuestras enfermeras, a que nos ayuden al rescate del Sistema de Salud Nacional llevando médicos y enfermeras a donde más se necesita. Nuestro lema es ‘Médicos para todos los lugares, para todas las personas que lo necesiten’.
@@ -137,39 +187,96 @@ Y con ello quisiera tener el mensaje de que el esfuerzo de esta convocatoria es 
 El IMSS tiene un déficit también importante, el Issste, Sedena y Semar. Entonces, el esfuerzo de ellos es sectorial y al día de hoy hemos mandado médicos a casi todas las instituciones, también ya mandamos a Semar, al hospital que vamos a abrir en Amatán, Chiapas, mandamos casi el total de especialistas que requiere la plantilla completa, pero necesitamos aún más, necesitamos todavía que respondan más nuestros compañeros, que se sigan involucrando al llamado por la reconstrucción.
 Muchas gracias.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-La compañera, los dos compañeros aquí.
+INTERLOCUTORA
+¿Cuántos más se requieren?
+---
+ALEJANDRO SVARCH PÉREZ
+¿Cuántos más se requieren? Bueno, el déficit que tenemos para atender esta patología es de cerca de dos mil médicos más necesitamos que se inscriban a la convocatoria de especialistas.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor.
+La compañera, los dos compañeros aquí.
+---
+INTERLOCUTORA
+¿Estos que mencionó ya están contratados?
+---
+ALEJANDRO SVARCH PÉREZ
+Sí, ya.
+---
+INTERLOCUTORA
+¿A partir de esta convocatoria son los números que nos da de los que ya tienen contratados?
+---
+ALEJANDRO SVARCH PÉREZ
+Correcto.
+---
+INTERLOCUTORA
+Me faltó lo de los tipos de virus que han encontrado.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Ah, no. Estamos dando seguimiento a las distintas publicaciones científicas que hablan de la mutación de los virus.
 A diferencia del virus influenza, que es un virus extraordinariamente mutable, el coronavirus como género de virus, no es tan mutable. En general, este gran grupo de virus es demasiado técnico, pero es un virus, las clases de virus RNA son muy mutables, tienen un gran potencial de error en su replicación, pero por alguna razón coronavirus es menos mutable que influenza virus y otros virus también mutables. Entonces, gruesamente es el mismo linaje de los virus que iniciaron la epidemia.
 Usted, ustedes dos y faltan los de atrás. Nos quedan pocos minutos.
 ---
 PREGUNTA
+Yo quisiera preguntarle primero, respecto a las defunciones, si me pudiera comentar. ¿Todos fueron hospitalizados?, ¿alguno murió en casa?, ¿y qué tan rápido se han agravado los pacientes?
 El día de hoy mueren 13 persona, ayer fueron 8, ha incrementado velozmente. ¿Cómo ha sido esta complicación? Esa es mi primera pregunta.
 Si quiere me la contesta y después…
 ---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. Dígame de una vez todo.
+---
 INTERLOCUTORA
+Ah, okey. La segunda es que todavía aquí, al menos en la Ciudad de México, hay manifestaciones, bloqueos, aquí afuera de Palacio Nacional hay una concentración de más de 50 personas. Sabemos que usted, que el gobierno no está a favor de la represión, pero sí, ¿qué llamado le haría al gobierno de la capital, a los gobiernos estatales para evitar este tipo de manifestaciones que sin duda alguna ponen en riesgo a la población?
 Y la otra pregunta que tengo es un poco más técnica. Entiendo que a finales de febrero el INER compró una cepa, distintas cepas, coronavirus todas. Son RNA fase cero, de HK1, Beta coronavirus, y entiendo que se utilizan para hacer pruebas como vacunas, como hacer medicamentos, y ya tiene la marca ATCC disponible la de coronavirus SARS-CoV-2. ¿El gobierno mexicano va a comprar esa cepa para investigación?
 Y ya la última, la última es: ¿qué le responde al gobernador de Jalisco, que lo menciona que usted podría caer en una traición a la patria por no hacer pruebas masivas?
 Muchas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto. Le respondo la última porque es la más fácil. Le mando saludo al gobernador de Jalisco, estoy seguro de que él quiere hacer el bien por su estado y qué bueno que esté dedicado a su trabajo.
 Sobre los distintos reactivos y de investigación que pudiera haber comprado el INER, no tengo información detallada, pero traemos, le vamos a pedir al doctor Reyes Terán que nos comente en día próximo. Tengo la sospecha que no se trata de… bueno, estoy casi seguro que no se trata de investigación para producir vacunas o medicamentos, porque no se hace en un instituto como el INER, ni son las condiciones apropiadas para ello, posiblemente son más bien reactivos para las pruebas de otros coronavirus y son análogos a los que tiene el Indre, y se usan comúnmente, porque hay otros coronavirus.
 ---
-HUGO LÓPEZ-GATELL RAMÍREZ
-Le doy la palabra al doctor Alomía si nos comenta sobre este tema de la mortalidad.  Les recuerdo que nos quedan 10 minutos.
+INTERLOCUTORA
+¿Compraría el SARS-CoV-2? Ya la empresa ya los tiene disponibles, de hecho ya los puede…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+La prueba que se usa en México desde el inicio, y fuimos el primer país en tener una prueba propia, antes de que se estableciera el protocolo Berlín, que después recomendó la Organización Mundial de la Salud, es hacia SARS-CoV-2, es decir, en México ya está desde el inicio y fuimos el primer país en tenerlo.
+Le doy la palabra al doctor Alomía si nos comenta sobre este tema de la mortalidad.  Les recuerdo que nos quedan 10 minutos.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Sí, el promedio que lamentablemente han tenido en una unidad de cuidados intensivos los pacientes, y hablamos de un promedio recordando que son 50 las defunciones que hasta el momento se han presentado, han sido de 10 días, es decir, este es el promedio de atención en una unidad de cuidados intensivos en donde reciben una atención especializada y también la aplicación de un ventilador para poder mantener la respiración, lógicamente algunos han durado menos días, otros han durado más, pero el promedio que nos reporta el área de atención médica es de 10 días en unidad de cuidados intensivos.
+---
+INTERLOCUTORA
+Todos hospitalizados.
+---
+JOSÉ LUIS ALOMÍA ZEGARRA
+Todos hospitalizados.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+---
+INTERLOCUTORA
+La primera, sobre los bloqueos que existen.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+El llamado es a toda la ciudadanía, independientemente de las causas por las que pudiera sentirse la necesidad de expresar la opinión, lo cual es enteramente deseable vivir en un país en donde se pueden expresar libremente opiniones, donde existe el derecho de manifestación, el derecho de petición, el derecho de expresión, la libertad de expresión.
 Entonces, qué bueno, pero estamos en una situación de una emergencia sanitaria en donde requerimos la solidaridad de todas y todos.
 Entonces, mi llamado es a las personas que se manifiestan en este momento que valoren cuidadosamente el sentido de urgencia. No hay duda que la causa que identifiquen como motivadora de su expresión pública es importante, a priori asumamos que todas las causas son importantes y que quien quiere expresarlas es porque identifica la necesidad de expresarlas y hay que respetarlo.
 Pero llamamos a todas las personas, no conozco cuál es la motivación de quienes me relatan que están ahí afuera, pero cualquiera que sea la causa hacemos un llamado también a esas personas que se involucren con este sentido de solidaridad de todas y todos para contener un fenómeno que nos amenaza a todos y todas.
 ---
+INTERLOCUTORA
+Okey
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Las dos colegas. Nos quedan cinco minutos.
+---
 PREGUNTA
+Gracias, subdirector, doctores. Marina Franco, de Telemundo.
 Tengo dos preguntas sobre la población más vulnerable ante la epidemia.
 La primera es: dada la carestía de agua potable que hay en el país ¿qué medidas tiene previstas el consejo de salubridad para asegurar el abasto? o en su defecto, ¿qué sugerencias le puede hacer a esas personas que no tienen acceso ni a agua ni cómo acceder a gel antibacterial para que puedan lavarse las manos?
 La segunda es: ¿qué protocolos están planeados o cuáles sugiere que se adopten en lugares donde hay población vulnerable en alguna de altísima concentración poblacional como son barrios populares, albergues para personas en situación de calle, estancias migratorias, etcétera?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Es una pregunta muy importante, porque cuando uno enfrenta un fenómeno, en este caso una epidemia de enfermedades infecciosas, no debe olvidar la realidad social en la que se vive. México es un país que, teniendo enorme riqueza, México es la economía número 14 o 15 de año, a año a veces varía, pero a nivel mundial en términos de su Producto Interno Bruto y en términos de su balanza comercial de exportaciones y demás.
 Pero trágicamente, y lo cual es indignante, México tiene a 50 por ciento de su población viviendo en condiciones de pobreza. Y la única explicación de esto: el haber vivido por muchos años en una economía o un modelo económico que fue concentrando la riqueza y fue restringiendo los servicios sociales del Estado que ayudan a garantizar ciertos derechos, dicho sea de paso, incluido el derecho a la protección de la salud, que en la letra está consagrado en el artículo 4º de la Constitución, pero que en la práctica se enfrenta a grandes carencias, como ya relató el doctor Svarch, y como lo habíamos comentado en el Pulso de Salud muchas semanas atrás.
 Entonces, es verdaderamente lamentable que teniendo gran potencial en este país tengamos tanta carencia para ciertas poblaciones. Obviamente esta realidad debe cambiar, debe cambiar y sólo puede cambiar cuando un proceso de transformación social con una intención de mejorar las cosas y reducir la pobreza, mejorar el bienestar, expandir los servicios que garanticen los derechos, pero eso no se hace de la noche a la mañana.
 Entonces, cuando uno enfrenta una epidemia, como la enfrentamos todos, porque no la enfrenta el gobierno, la enfrenta toda la sociedad… Dicho sea de paso, ahorita a propósito de que me mencionaron a un gobernador, pero esto aplica a los 32 gobiernos estatales, también los gobiernos estatales son autoridad sanitaria identificada en la Ley General de Salud, la responsabilidad sobre el cuidado de la salud de la población que vive en cada entidad federativa es una corresponsabilidad entre el gobierno federal y el gobierno estatal.
@@ -180,11 +287,16 @@ Entonces, en la medida en que los municipios también contribuyan a este aspecto
 Termino diciendo que la titular de Conagua, nuestra querida compañera, la ingeniera Blanca Sánchez tiene desde el principio, nos ha externado la inquietud de la escasez de agua por el sobreconsumo de agua y ahora tenemos una carencia de 25 por ciento promedio del agua disponible, porque se está usando más; pero volvemos a lo mismo, a la injusticia en la distribución de la riqueza, el uso en zonas urbanas repercute en la carencia también zonas rurales.
 Gracias.
 ---
+INTERLOCUTORA
+Las zonas que no tienen acceso ni a gel, solamente a agua, ¿qué pueden hacer algo con inmediatez desde sus casas?
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+En forma inmediata, desde luego los mecanismos para poderse lavar las manos y evitar la presencia del virus o barrer el virus requiere el lavado de manos. El gel, dicho sea de paso, es un instrumento o una materia auxiliar, lo ideal es el acceso al agua y al jabón.
 En la mayoría de los municipios, aunque ciertamente no en todos, existen provisiones de agua potable centralizadas por lo menos en el municipio o en las comunidades y en algunos casos en algunas zonas rurales incluso existe agua de pozos, agua; aunque no necesariamente es potable para el consumo directo, sí es suficiente para poder usarlo en las manos.
 La última pregunta, nos quedan dos minutos.
 ---
 PREGUNTA
+Carlos Guzmán, de Aba Noticias. Buenas noches para los tres.
 Son dos preguntar y a ver si puede hacer un llamado.
 La pregunta inicial es: se ha hablado estos días de investigación de medicamentos, cinco medicamentos y específicamente un método que tiene el Seguro Social por la cuestión como tipo plasma para trabajar esta cuestión del coronavirus.
 El día de hoy el Politécnico Nacional nos hacía llegar un comunicado en el cual ellos mencionaban un método que se llama Transferón, no sé si lo conozca. Si nos pueden hablar un poco de ello, si es de los que llevan la punta para convertirse en el posible tratamiento en México para coronavirus.
@@ -193,6 +305,7 @@ Tenemos dos ejemplos muy cercanos que han buscado obviamente en la bolsa de trab
 Y la tercera, el día de ayer…
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No nos va a dar tiempo de responderle, entonces, quedémonos en la segunda, ahorita el doctor Svarch comenta sobre eso, que seguramente será muy puntual.
 Sobre los tratamientos. Primero quiero dejar el claro, como lo hemos dicho cada vez que se mencionan tratamientos experimentales, que no existe ningún tratamiento actualmente validado por la evidencia científica ni con registro sanitario para tratar el coronavirus SARS-CoV-2 que causa la pandemia COVID.
 Entonces, nadie se vaya a confundir con que los productos farmacéuticos aquí mencionados ya están a la disposición y hay que ir a la farmacia por ellos. Algunos de los que se han mencionado son productos que existen desde hace muchos años para el tratamiento de otras enfermedades infecciosas, por ejemplo, pero hasta hoy, 2 de abril de 2020, no existe en el mundo entero ningún medicamento que esté validado, autorizado, reconocido científicamente para tratar el COVID.
 Sobre los dos procedimientos que menciona o productos. El factor de transferencia o Transferón, efectivamente, es producto de investigación del Instituto Politécnico Nacional desde hace más de 40 años. Este es un producto que resulta de la -voy a simplificarlo en mi expresión- de la purificación de factores del plasma humano y contiene una combinación muy amplia de moléculas que participan en la respuesta inflamatoria y en el sistema de defensas, en el sistema inmune.
@@ -203,4 +316,8 @@ El principio es el mismo que el Transferón, de hecho, pero es con plasma, de ma
 Hay un largo trecho entre el planteamiento teórico y su uso real para el potencial de una epidemia en forma generalizada, pero esperemos entonces a que venga el doctor Trejo y nos comente al respecto.
 ---
 ALEJANDRO SVARCH PÉREZ
+La convocatoria está abierta para todas las personas, no hay ningún tipo de limitación para ningún filtro.
 Si quiere, me puede pasar los datos de estos casos que seguramente podemos resolverlos hoy mismo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Las 20:00 horas, 2 de abril, aquí terminamos. Muchas gracias, nos vemos mañana.

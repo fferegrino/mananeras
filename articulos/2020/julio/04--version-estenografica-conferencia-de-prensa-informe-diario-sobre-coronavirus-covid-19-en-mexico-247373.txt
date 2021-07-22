@@ -3,9 +3,11 @@ Presidencia de la República
 04 de julio de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas noches. Son las 19:00 del sábado 4 de julio de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el nuevo coronavirus SARS-CoV-2.
 Hoy vamos a tener el informe técnico y vamos a abrir a preguntas y comentarios para abordar los distintos temas que hemos trabajado. Le pido al doctor Alomía si lo presenta. Por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Con mucho gusto, señor subsecretario.
 Muy buenas tardes todas y todos.
 Bienvenidos a la conferencia vespertina 127, ya en el 34 día de la Nueva Normalidad precisamente caracterizada por el semáforo de riesgo COVID que veremos en la siguiente diapositiva, es el semáforo precisamente que está vigente para el día de hoy y estará vigente para el día de mañana, a partir del lunes entrará en vigencia el semáforo presentado el día de ayer.
 Si vemos la siguiente diapositiva. Aquí siempre llamando la atención del público que nos escucha a través de los medios de comunicación y las redes sociales, que precisamente el objetivo que tiene el semáforo de riesgo COVID es alertarnos como población en la entidad federativa en la que nos encontramos residiendo en este momento sobre este riesgo que tenemos de podernos contagiar de la enfermedad dado que los indicadores precisamente apuntan y en su momento nos revelan cuáles son estas características que están presenten y que favorecen a que existan contagios en cada una de las entidades.
@@ -36,12 +38,15 @@ Cuando vemos las camas que son para pacientes graves críticos, que es la siguie
 Sería la actualización para este día.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía, director general de Epidemiologia de la Secretaría de Salud.
 Vamos a abrir a preguntas. Usted, por favor y nos vamos aquí.
 ---
 PREGUNTA
+Gracias. Arturo Contreras, de Pie de Página.
 Hace como dos semanas la Ciudad de México implementó este nuevo programa de detección de casos y de rastreo de contactos. Quería saber si hay algún otro gobernador de algún otro estado, en las juntas que tienen los jueves, que nos informan los viernes, que haya pensado en incorporar este tipo de sistema. No sé si, por ejemplo, el gobernador Del Mazo en el Estado de México, en las áreas conurbadas de la Ciudad de México, que es donde mayor impacto podría tener y donde la curva va parecida a la Ciudad de México por la zona. No sé si haya alguna notificación. No sé si en Nuevo León, por ejemplo, que ya empieza a despegar ya el número de casos.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias por la pregunta. Un programa… permítame comentar, para quien no lo recuerde, o no esté familiarizado en qué consiste este programa que el gobierno de la Ciudad de México presentó hace dos semanas y media, es el programa de detección, cuidado y resguardo, Protección, Cuidado y Resguardo es como se llama formalmente, que consiste en un acercamiento a la comunidad.
 Durante la fase intensa de la epidemia, uno de los elementos fundamentales, posiblemente el más importante, fue el garantizar la disponibilidad de camas hospitalarias para poder atender a toda la población que necesitara ser hospitalizada de acuerdo a las indicaciones médicas, de acuerdo a la situación de salud que presente, pero también existen oportunidades importantes de reducir una brecha de tiempo que hemos estado observando en todo el país.
 Ciertamente de la Ciudad de México no era la más afectada por este problema, pero sí igual que todo el país tenía hasta cierto punto este reto que consiste en que las personas que están enfermas de COVID acudan a atención médica más pronto.
 ¿Por qué acudir más pronto?
@@ -70,12 +75,14 @@ Gracias por la pregunta.
 Vamos a darle la palabra a usted y luego nos iremos acá.
 ---
 PREGUNTA
+Gracias. Hoy dos de mis compañeros en Milenio publicaron que, de acuerdo a reportes oficiales, hay un subregistro de al menos el 50 por ciento en las muertes. Encontraron que, al 19 de junio, desde el inicio de la pandemia en México se han reportado 38 mil 815 muertes por COVID, esto en la base nacional del Registro Civil que administra el registro federal de población.
 Preguntarle: ¿a qué se debe esta diferencia tan enorme de cifras?, es el 50 por ciento. Hace dos semanas ustedes reportaron 38 mil 800 muertes y ahorita lo que nos están reportando son 30 mil muertes en ese sentido.
 La segunda pregunta sería: estamos a poco más de dos meses que lleguen las fiestas patrias. Preguntarle si se van a cancelar, el Grito de Independencia, todas estas festividades, el desfile de siguiente día.
 Y la tercera pregunta, al doctor Alomía preguntarle si ya se adoptó, ya se incluyó al tratamiento estándar pacientes graves hospitalizados con COVID-19 el uso de la dexametasona como ha propuesto la Comisión Coordinadora de Institutos Nacionales de Salud a cargo del doctor Reyes Terán
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias por sus preguntas.
 Sobre esto que nos relata, es un tema que ha sido de gran interés por supuesto a lo largo de varias semanas y con frecuencia lo hemos relatado aquí.
 El martes próximo pasado, este martes reciente en la conferencia matutina primero y después en esta conferencia vespertina comenté que desde hace cerca de tres semanas y media establecimos un grupo de trabajo que permitirá ahora replicar el trabajo que estamos haciendo desde hace cinco semanas con el gobierno de la Ciudad de México.
 Explico de qué se trata.
@@ -95,7 +102,11 @@ Para ese propósito no es necesario tener una contabilidad completa de los event
 También que quede clarísimo y lo hemos dicho muchas veces, lo repito, cada uno de estos datos puntuales era una persona y debemos tener el respeto y el entendimiento de la gravedad que implica que se pierda, tan solo una vida.
 Pero ahí es donde precisamente está la gran diferencia entre estadísticas vitales que sí pretenden tener conteos exhaustivos y por lo tanto sus recursos de información son otros distintos a los de la vigilancia epidemiológica, centrémonos en la historia de COVID.
 ---
+INTERLOCUTORA
+(inaudible)
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Déjeme se lo explico para que ahorita… Lo va a ver.
 En el caso de COVID, esto lo hemos comentado en varias ocasiones, nosotros registramos los eventos fatales a partir de la atención médica, las personas que llegan a atenderse y desafortunadamente fallecen.
 Algunas de estas personas son la mayoría llegan como enfermas, como enfermos, se hace el proceso de vigilancia epidemiológica que incluye la detección y la confirmación por laboratorio y el registro, la notificación, pero desafortunadamente otras más llegan demasiados graves y mueren y no se hizo, no se le tomó una muestra para el diagnóstico de laboratorio, aún más desafortunadamente otras personas mueren en el trayecto entre sus domicilios y el hospital y aún más lamentable, algunas mueren en casa.
 Por eso hemos insistido una y otra vez y hoy lo acabamos de decir, que no se esperen, que vayan lo más pronto a casa.
@@ -118,7 +129,20 @@ El martes comenté que establecimos un grupo de trabajo, un grupo técnico en el
 Y esto complementa el trabajo que también estamos haciendo con un grupo diferente con la Ciudad de México.
 Esa es la situación.
 ---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Una era también para mí o las dos.
+---
+INTERLOCUTORA
+(inaudible)
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Todavía es temprano para saberlo, no hemos tomado una decisión formal, vamos a ir monitoreando el semáforo, las tendencias, la hospitalización, cuando llegue el momento tomaremos una decisión.
+---
 JOSÉ LUIS ALOMIA ZEGARRA
+En relación a la pregunta de la dexametasona, desde el inicio de la epidemia en México y cuando se formaron los diferentes componentes de acción para definir la preparación y la respuesta, uno de ellos fue, precisamente, el componente de atención médica e investigación científica.
 Este componente se conforma por toda una serie de profesionales de la salud, especialistas sobre todo en la materia, investigadores y están coordinados por la CCINSHAE, dirigidos por el doctor Gustavo Reyes Terán y el doctor Simón Kawa.
 Ellos han estado dando seguimiento puntual en este componente, es decir, donde se concentran todos estos científicos, todos estos especialistas, a las diferentes propuestas, opciones de posibles terapias que pudieran tener en algún momento algún beneficio para los pacientes con COVID-19, y han estado un seguimiento muy puntual.
 Precisamente esta semana que está terminando ellos tuvieron una reunión en donde definieron ya un documento que va a ser oficial en los siguientes días, es decir, un posicionamiento oficial de la Secretaría de Salud, en donde se va a publicar cuáles el estatus que guardan muchos de estos nuevos tratamientos que están la gran mayoría de ellos todavía en ensayos clínicos, es decir, en protocolos de investigación; algunos de ellos todavía no han demostrado ningún tipo de utilidad, algunos ya no la demostraron o además, inclusive, generaron algún riesgo implícito en su uso, por eso ya el documento dirá estos no hay que usarlos o estos todavía están bajo investigación.
@@ -128,7 +152,20 @@ No debe de utilizarse en el primer nivel de atención ni en los pacientes ambula
 Y cuando hablamos de dosis bajas, precisamente esta es una dosis que debe de ser calculada y suministrada por profesionales que la sepan manejar, que tengan el conocimiento para hacerlo. Entonces, tampoco y esta es la recomendación para las personas que están en casa, si yo creo ser un caso sospechoso de COVID o ya me diagnosticaron COVID, pero soy un caso leve, que puedo seguir mi evolución en el domicilio, no debo de ir adquirir este medicamento y tomarlo, porque más que un beneficio, que no está demostrado en ese nivel, más bien me puede traer una complicación, sobre todo si no lo sé dosificar, si no es un médico preparado, certificado el que me lo está dando.
 Entonces, el mensaje puntual es: sí, dexametasona ha demostrado ser de beneficio para el paciente COVID, pero solamente se debe de usar en pacientes graves y ser administrado y dado seguimiento por profesionales de la salud capacitados en sus…
 ---
+INTERLOCUTORA
+… la recomendación para su uso en hospitales.
+---
+JOSÉ LUIS ALOMIA ZEGARRA
+Va a ser oficial a partir de que se emita este posicionamiento, ya quedó digamos en los comités consensuado, solamente falta que salga el documento, esto será en los próximos días.
+---
+INTERLOCUTORA
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias. Por favor, ustedes. Adelante, Carlos.
+---
 PREGUNTA
+Sí, gracias. Buenas noches, doctor Gatell, buenas noches, doctor Alomía, buenas noches a todos.
 Al respecto de la pregunta que hace el compañero de Milenio, efectivamente, yo la quería hacer el día de ayer; sin embargo, ya se amplió, solamente quiero hacer una precisión, doctor.
 Efectivamente, yo leí el asunto de Renapo, que había una diferencia en su registro con la Secretaría de Salud. Ya nos está aclarando usted al respecto el trayecto que lleva la diferencia entre lo que es el certificado de defunción y el acta de defunción.
 Yo haría una pregunta. Tengo conocimiento de gente cercana que ha fallecido que, por ejemplo, fallecieron de alguna de las enfermedades que les llaman morbilidad, diabetes, asma, hipertensión, y desgraciadamente fallecieron en trayecto, efectivamente, al ir al hospital y tengo conocimiento de que su certificado de defunción habla de al respecto de… fallecido de algunas de estas enfermedades probable COVID
@@ -138,6 +175,7 @@ Efectivamente, fue algo imprevisto, se empezaron a hacer contrataciones de perso
 ¿Está contemplado entre la Secretaría de Salud y dentro del nivel académico darles las facilidades a todos estos médicos generales en poder entrar a esas especialidades ya que obviamente estás especialidades tienen una serie de candados y requisitos para ingresar?, ¿hay esa posibilidad de que haya esta facilidad para que ellos puedan hacer esta especialidad?, no sólo ahorita, están siendo capacitados, pero no tienen todavía esa amplia experiencia. Nada más eso. Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Sobre lo segundo, yo creo que vamos a invitar al doctor Alejandro Svarch, que es el coordinador de este aspecto en el Instituto de Salud para el Bienestar, Insabi, que tiene un plan, él lo coordina, y desde luego con el apoyo y la supervisión del maestro Juan Ferrer, el director general del Insabi, tienen un plan muy bien estructurado que establecieron desde febrero, la última semana de febrero para hacer este reclutamiento de personal de salud.
 Este plan, a su vez, es una adaptación específica para el ritmo de necesidad de COVID, pero que ya venía de la convocatoria de médicos y médicas del bienestar. Recordarán que esto lo presentamos desde que empezó 2020, porque es una de las cuatro encomiendas específicas que se le hicieron al Instituto de Salud para el Bienestar, Insabi.
 No perdamos de vista que en México había un déficit, sigue habiendo, se calculaba de 240 mil profesionales de la salud, 240 mil personas profesionales de la salud. Esta es la carencia de personal médico que se ha estimado por muchos años, no solamente ahora que nosotros estamos en esta responsabilidad, sino agencias internacionales diversas, la OCDE, la Organización Mundial de la Salud, el Banco Mundial, han hecho este tipo de análisis desde hace mucho tiempo.
 Ya se sabía que México no estaba formando suficientes profesionales de la salud en sus universidades, y por lo tanto no estaba satisfaciendo la necesidad de personal en el Sistema Nacional de Salud público. Entonces, en este momento cuando llegó COVID se aceleraron los esfuerzos de reclutamiento, desde luego los esfuerzos de formación también se van a acelerar.
@@ -148,7 +186,11 @@ Pero podemos traer al doctor Svarch, lo volvemos a invitar y que nos expliqué e
 Hasta el momento se reclutaron 50 mil miembros del personal de salud. No son sólo médicos y enfermeras, incluye otro personal, por ejemplo, de inhaloterapia y otros campus, rehabilitación pulmonar, etcétera que también son parte de los equipos técnicos.
 Gracias, Carlos. Creo que deje una pregunta sin responder.
 ---
+INTERLOCUTOR
+La situación respecto a que cuando el certificado médico dice probable COVID no entra dentro del…
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Cómo se va a registrar? Efectivamente, parte de lo que comentábamos con nuestra compañera de Milenio y es esto. Por cierto, para no dejar ninguna duda al respecto, esto lo he dicho innumerables ocasiones, desde el principio sabemos que los casos que aquí presentamos todos los días no representan la totalidad de las personas enfermas con COVID en México, eso lo he explicado muchísimas veces, desde antes de que tuviéramos el primer caso en México.
 Y la razón es esta que he explicado: ni en México ni en ningún país del mundo es propósito hacer una contabilización exhaustiva de los casos o de los casos fatales.
 También estamos conscientes que la cuenta de muy lamentables defunciones que presentamos todos los días aquí, no representan la totalidad, lo hemos también dicho una y otra vez.
 Por eso un poco me llama la atención estas noticias que de repente parecieran como que descubrieron algo, una sorpresa. Está bien, digo, si como ejercicio periodístico supongo que es parte del trabajo, un poco lamentable cuando le quieren colgar ahí una falsedad, como decir: ‘Están ocultando casos, les descubrieron que tenían más muertes’. Si echaran una revisión de lo que hemos dicho aquí desde enero, se darían cuenta de que no es eso, es un trabajo técnico donde una cosa es la vigilancia epidemiológica, y otra es la estadística vital, que suele ser un proceso de compilación, de análisis más lento y que lo hacen autoridades específicas.
@@ -161,12 +203,24 @@ Entonces, ahí estamos y cuando se considera así, de acuerdo al lineamiento cor
 Usted, por favor.
 ---
 PREGUNTA
+Buenas noches. Rivelino Rueda del portal digital Reversus.mx.
 Retomando un poco lo que se hablaba de comorbilidades y de estos grupos que tienen una realidad paralela a los que es la epidemia, por ahí en la semana en uno de estos periódicos que tienen una realidad paralela le preguntaban sobre falta de ventiladores o de camas en Zihuatanejo le lanzaba la pregunta: ¿cómo está durmiendo el doctor Gatell? Le pregunto ¿cómo está durmiendo?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+¿Cómo estoy durmiendo yo?
 Pues pocas horas, pero intensas, pocas horas en general, desde que empezó este operativo, antes incluso de que tuviéramos el primer caso mi promedio de horas de sueño a la semana es de tres y media, ese es el tiempo que duermo.
 ---
+INTERLOCUTOR
+Y tranquilo.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No tranquilo, todos los días y todas las horas del día estoy enfocado a esto, desde luego tengo que atender otras responsabilidades de mi cargo y encargo como subsecretario, pero esta es mi prioridad mayor y me ocupa la atención continuamente, cada minuto del día.
+---
+INTERLOCUTOR
+Ahora, le pregunto ¿cómo se imagina usted que estén durmiendo los dueños de estas empresas que generan estos productos chatarra, los dueños de estas empresas, de estos medios, pero sobre todo los dueños de estas empresas que crean estos productos, bebidas, comida azucarada teniendo en cuenta que el 70 por ciento de las muertes están relacionadas con esta comorbilidades que causan el consumo de este producto?, ¿cómo piensa usted que estén durmiendo?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Comprendo su pregunta.
 Aquí hemos hablado varias veces de este fenómeno muy conocido, muy bien documentado en innumerables productos de investigación de la salud pública, no sólo en México, sino en el mundo, se conoce que desde los años 80 el mundo entró en una fase de consumo acelerada, en general de todo, que tiene que ver con un fenómeno económico, global que yo no podría explicar por no ser persona experta en el campo, pero donde básicamente empezó a globalizarse la economía.
 Uno de los aspectos que se globalizaron también fue la producción de alimentos, nuestros sistemas agroalimentarios empezaron a transferir productos, no para el consumo local o preferentemente no para eso, que antes era así o más característicamente había el consumo local y se empezaron a desplazar a los mercados globales y en esos mercados globales los productos, por ejemplo, el maíz, se empezaron a utilizar no para el consumo directo, sino para ser procesados o ultraprocesados y producir pequeños componentes mayormente químicos de los productos industrializados, cereales que en realidad son en un contenido grande azúcares añadidas, colorantes, saborizante, pero que se presentan como cereales.
 Los refrescos, las bebidas azucaradas, carbonatadas, que tienen enormes cantidades de distintos azucares y que desde hace varios años el azúcar principal que tienen es fructuosa, que a su vez viene de un producto que es de amplio uso en la industria de alimentos procesados, que es el jarabe de maíz alto de fructuosa, que se utiliza para muchísimos productos, este es un fenómeno muy bien documentado.
@@ -179,4 +233,12 @@ Varios de estos medios esta semana destacaban que México rebasó a España, que
 Entonces, yo creo que hay oportunidad para la reflexión. Ignoro cómo puedan estar durmiendo, pero supongo que hay oportunidad para reflexionar y cambiar nuestro sistema agroalimentario hacia uno que sea más justo, más saludable, más sostenible e incluso más competitivo.
 ---
 INTERLOCUTOR
+Ellos ya tienen responsables, doctor, y bueno, todos los días los manejan y, de hecho, los responsables, ambos tienen el apellido López.
 ¿Ustedes les van a pedir que asuman su responsabilidad?, ¿ellos tienen que asumir su responsabilidad o ustedes les van a pedir que asuman esta responsabilidad que tienen en esta mortalidad tan alta que hay en esta epidemia?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+A mí me parece que la sociedad mexicana es consciente, en su gran mayoría, de cuáles son las realidades que enfrenta y hay aspectos que pudieran parecer muy técnicos como los aspectos de la salud pública, pero en la medida en que tengamos una consciencia clara de dónde vienen, cuál es el origen fundamental, la causa básica, hablamos de causas básicas.
+La causa básica de la colosal epidemia de obesidad, sobrepeso, diabetes en México y muchos cánceres es el patrón alimentario, el patrón de consumo que tenemos en México.
+Y pretendemos cambiar, insisto, del sistema agroalimentario que tenemos a uno que sea justo en términos sociales, saludable, sostenible en términos ecológicos en términos ambientales y que estamos seguros además va a ser más competitivo en términos económicos.
+Son las 20:02 minutos aquí lo vamos a tener que dejar.
+Nos vemos mañana, domingo. Muchas gracias.

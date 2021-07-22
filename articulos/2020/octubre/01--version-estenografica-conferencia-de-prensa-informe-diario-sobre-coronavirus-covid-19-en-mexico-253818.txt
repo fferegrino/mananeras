@@ -1,0 +1,326 @@
+Versión estenográfica. Conferencia de prensa. Informe diario sobre coronavirus COVID-19 en México
+Presidencia de la República
+01 de octubre de 2020
+---
+HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy buenas tardes. Hoy es 1º de octubre, son las 19:01 horas y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2, estamos en el Palacio Nacional de México, en la Ciudad de México.
+Hoy voy a presentar yo el informe técnico, que lo haré de manera breve para dar paso al tema principal, que conducirá la doctora Miriam Veras Godoy, quien es la directora general del Centro Nacional para la Salud de la Infancia y la Adolescencia, centro que tiene a su cargo el Programa Nacional de Vacunación, incluyendo la vacunación contra la influenza.
+En este momento vamos a tener lo siguiente, que lo comento. La doctora nos va a explicar cuáles son las indicaciones de la vacunación contra la influenza, cómo funciona el programa, específicamente sobre un programa que se estableció en 2007 como un programa de vacunación pública, nos especificará por qué se ha definido así y cuáles son los grupos de riesgo a los que se debe de aplicar la vacuna, cuántas vacunas se han comprado, etcétera, etcétera. Doctora, bienvenida.
+También nos acompañan nuestros compañeros de las instituciones del sector salud. Aquí me estoy enterando en este instante, nos iba a acompañar nuestro querido amigo, el director del Instituto Mexicano del Seguro Social, el maestro Zoé Robledo Aburto y ya me está mandando un mensaje de que está en una reunión con los papás y mamás de los niños con cáncer y posiblemente se retrasará, es posible que nos alcance un poco más tarde, pero de momento no.
+Sin embargo, las instituciones están perfectamente bien representadas. Me voy de allá para acá con la doctora Gisela Lara Saldaña quien, como saben ustedes, es la titular del programa IMSS-Bienestar, el programa para población no asegurada, que fue establecido hace 41 años y que ella coordina, ella nos ha explicado muchas veces en qué consiste.
+También está el doctor Ramiro López Elizalde, quien es el director médico del Issste, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Bienvenidos, Gisela y Ramiro.
+Y el doctor Rodolfo Lehmann Mendoza, quien es el director o gerente de los servicios médicos de Petróleos Mexicanos.
+Me dice el maestro Zoé que de todos modos viene en camino, en cuanto se integre pues le daremos la bienvenida.
+También aprovecho para agradecer. Desde el inicio verán ustedes aquí un puesto de vacunación y a nuestras compañeras enfermeras y enfermero que nos hacen favor de apoyarnos para este arranque. Ellas y él son trabajadores de los servicios de salud de la Ciudad de México.
+Le agradecemos también a la doctora Oliva López Arellano, la titular y secretaria de Salud de la Ciudad de México, querida amiga y salubrista ejemplar; y también, por supuesto, a la doctora Claudia Sheinbaum, quien es la jefa de Gobierno de la Ciudad de México… No solamente de la Ciudad de México, que vienen de todo el sector, no solamente del sector salud, ahí ya estoy viendo los logotipos de Pemex. Muchas gracias.
+¿Por qué ponemos el puesto de vacunación?
+Porque vamos a hacer una demostración, no tiene mucha complejidad, pero la importancia de vacunarse, pero esto platicaremos cuando la doctora Veras, presente.
+Me permuto en presentador del informe técnico. Y empezamos recordando un par de cosas no relacionadas con la influenza, no relacionadas con el COVID, pero sí relacionadas con el mes de octubre.
+La primera es: verán que porto -o portamos todas y todos- un listón rosa. Este listón rosa es ya un emblema del mes de la salud de la mujer, que es el mes de octubre, en particular en el énfasis en la prevención del cáncer de mama, el cáncer de mama es una de las lesiones o de las enfermedades malignas que causa mayor pérdida de vida en la mujer, es la primera causa de muerte por cáncer en las mujeres, en México y en muchas partes del mundo, y existen programas preventivos que se basan en la detección temprana de lesiones malignas, lesión maligna nos referimos a tumores.
+Y hay dos intervenciones de tamizaje que son extraordinariamente importantes y no quisiera que empezáramos el mes de salud de la mujer sin mencionarlas, aunque vamos a tener una sesión específica y vendrá la doctora Karla Berdichevsky a comentarnos del programa.
+Lo primero es la autoexploración mamaria. Todas las mujeres deben, es muy recomendable que se revisen las mamas de manera periódica, deseablemente cada mes en búsqueda de lesiones que pudieran ser sospechosas. Las lesiones sospechosas son pequeñas bolitas, pequeñas zonas de endurecimiento que pudiera haber en la glándula mamaria de cualquiera de los dos lados.
+Hay una técnica específica y vamos a hacer un esfuerzo adicional por hacer la promoción de la salud para que todas las mujeres conozcan cuál es esta técnica, no es difícil y se puede aprender fácilmente, y puede ayudar a detectar tempranamente lesiones.
+Y lo segundo es la realización de la mastografía o mamografía. Es un estudio radiológico que se realiza a partir de los 40 años de la vida y se hace periódicamente de acuerdo a un esquema de riesgo que se ha estandarizado en el mundo y también en México.
+Ya hablaremos de ello, pero es para recordar la importancia de la salud de las mujeres durante el mes de octubre y veremos listones rosas y fuentes con iluminación rosa, el propio edificio de la Secretaría de Salud lo vamos a iluminar de rosa como lo hacemos cada año para recordar la importancia de la salud de las mujeres.
+Vámonos al comunicado técnico. Antes, si me pasan a Susana Distancia que ya la había visto recordándonos la cortinilla que estaba al inicio. Aquí está Susana Distancia y Susana Distancia hoy nos recuerda de vacunarnos contra la influenza, pero aquí está.
+Maestro Zoé Robledo, bienvenido, el director general del Instituto Mexicano del Seguro Social y el director de Prestaciones Médicas, el doctor Víctor Hugo Borja Aburto, bienvenido, Víctor,
+Aquí está Susana Distancia con su correspondiente cubrebocas, también portando ya ropa de invierno, un poco más protegida contra el frío, quizá más adelante le podremos una chamarrita porque todavía la veo muy descubierta, pero empiezan los fríos, empiezan los frentes fríos y vamos a tener un invierno que, de acuerdo con las estimaciones del Servicio Meteorológico Nacional y de la Coordinación General de Protección Civil, podría ser más frío o con una mayor frecuencia de frentes fríos.
+El frío puede contribuir, por varios mecanismos que alguna vez hemos comentado, a la facilidad con la que pueden ocurrir las enfermedades respiratorias y esto incluye influenza, incluye COVID, incluye múltiples infecciones respiratorias.
+Entonces, hay que mantenernos tapados, también vamos a hacer una campaña durante el invierno de la prevención de infecciones respiratorias, pero nos recuerda de vacunarnos contra la influenza que empezamos hoy, hoy empieza oficialmente la campaña de vacunación contra la influenza.
+Ahora sí vamos a ver el informe técnico y en 124 días de la Nueva Normalidad seguimos con el proceso del semáforo, estamos en la semana 40 del año.
+Aquí tenemos la curva epidémica semanal. Identificamos un elemento que ya mencionó el doctor Alomía ayer por la tarde que fue el incremento en el porcentaje de positividad. Esto no es agradable en la medida en que habíamos tenido un descenso continuo desde la última semana de julio, la semana 29 que llegamos al 57 por ciento de positividad y había llegado a 38 y tuvo un pequeño desplazamiento en reversa, incrementó el porcentaje de positividad que, ya dijimos, es cuántas personas que tienen síndrome COVID, fiebre, tos, dolor de garganta, dolor de cabeza o las manifestaciones graves y se les toma una muestra para diagnóstico por laboratorio, cuántas de ellas resultan positivas al virus SARS-CoV-2.
+¿Cuántas?
+Cuatro de cada 10, en este momento cuatro de cada 10 en la semana 38, que es el corte de información de hace dos semanas.
+Lo que se ve todavía en la siguiente diapositiva es que hemos continuado ya nueve semanas. Si llegamos a este sábado con descenso o incluso una meseta, un cambio cero en la frecuencia de casos semanales seguiremos en una tendencia de nueve semanas en descenso.
+La semana abrió con menos 10, como suele ocurrir se va borrando esta diferencia en la medida en que llegan datos que actualizan la información, pero el cierre de la semana 38 ocurrirá este sábado, pasado mañana, si llegamos a alguna reducción seguirá la tendencia, cinco por ciento de los casos son de los últimos 15 días.
+La mortalidad también va en descenso entre la semana 37 y la 38, de acuerdo con los datos de ahorita tenemos un descenso de un poco más de la tercera parte.
+Finalmente, la ocupación hospitalaria. Ha tenido pocos cambios, de repente ha habido un incremento, como es el caso de Nuevo León, que regresa a tener porcentajes de ocupación hospitalaria de camas generales destinadas al síndrome COVID, a infección respiratoria aguda grave, arriba del 50 por ciento.
+Recordarán que ya habíamos mencionado que ninguna entidad federativa tenía arriba del 50 por ciento, pues en este momento Nuevo León tiene 52 por ciento; como verán, esto es cambiante.
+La siguiente es la ocupación de las camas destinadas a pacientes críticamente enfermos, camas con ventilador, 23 por ciento, esta cifra no ha cambiado a lo largo de la semana, pero subió también en Colima un poco, pero sin llegar al 50 por ciento la ocupación hospitalaria.
+Cierro el informe técnico comentando la advertencia que hemos hecho desde hace muchas semanas en el verano. Es algo que no queremos que ocurra, es algo que deseamos que no ocurra, pero puede ser parte de la realidad y consiste en que con el inicio de la temporada de influenza, que es seguro que vamos a tener temporada de influenza, casos de influenza y cada día se van a ir encontrando ustedes que vamos a tener más casos de influenza, vamos a incorporar un informe técnico de la influenza al informe COVID de todos los días y vamos a ir viendo cómo van incrementando hasta posiblemente diciembre o enero, donde habitualmente se presenta el punto máximo y después empieza a descender.
+No se queden con la idea que esto es una indicación específica sobre la fecha de ocurrencia del punto máximo de la ocurrencia de casos de influenza, estos varían, a veces es noviembre se encuentra el punto máximo, a veces hasta febrero se presenta el punto máximo, esto varia de año a año y no existen parámetro que nos permitan establecer con certidumbre en qué momento vamos a llegar al punto máximo, pero sin duda a mitad del invierno ocurrirá.
+Cuando esto ocurra es posible, y esta es la advertencia que volvemos a hacer y la hemos hecho por muchas semanas ya, es posible que también tengamos un repunte de los casos de COVID, es posible que esto ocurra.
+¿Por qué razón es posible?
+Porque está ocurriendo en todo el hemisferio norte, porque desde el verano desde el mes de junio existían predicciones en múltiples países y también la Organización Mundial de la Salud de que dado que COVID, aunque lo causa un virus diferente al de la influenza se comporta en términos de la infección, de la vía de transmisión y de las manifestaciones clínicas y de la dinámica de contagios, muy parecido a la influenza, es muy probable que se presente también un repunte. Este repunte, ya lo hemos ilustrado, está claramente ocurriendo en los países de Europa occidental.
+Le pido a la doctora Miriam si conduce ahora la parte de influenza.
+---
+MIRIAM ESTHER VERAS GODOY, DIRECTORA GENERAL DEL CENTRO NACIONAL PARA LA SALUD DE LA INFANCIA Y ADOLESCENCIA (CENSIA)
+Buenas tardes.
+Voy a presentar lo que corresponde a la vacunación contra la influenza desde dos ángulos fundamentales que tiene que ver con qué es lo que vamos a hacer como instituciones de salud, pero también tratar de resolver algunas de las preguntas que nos hacen ustedes frecuentemente en esta situación.
+Una de las situaciones que la población ha identificado es que la vacunación contra la influenza es anual.
+Quisiera enfatizar que no es anual, hacen cara de ¿por qué?, bueno, porque es cada temporada invernal y esto es muy importante resaltarlo toda vez que nosotros estuvimos vacunando de enero, febrero y marzo.
+Es necesario que la población que se vacunó en esos meses acuda a vacunarse en esta temporada invernal.
+¿Por qué?
+Porque como lo mostramos aquí en la diapositiva, las características generales de la vacuna cambian. Aquí estamos viendo que la vacuna es una vacuna trivalente, que tiene dos virus de tipo A y dos virus de tipo B, bueno, antígenos, nos los virus, pero si ven, no quiero que los lean a detalle, pero si ven la composición va cambiando.
+Esto tiene que ver con que a nivel mundial hay puntos en donde se está monitoreando qué tipo de virus está circulando y con base en eso la Organización Mundial de la Salud en febrero emite cuáles son las características de la vacuna para el hemisferio norte.
+Entonces, por favor, toda la población que se haya vacunado que lo haya hecho muy bien y se haya vacunado la temporada anterior pasada es necesario que acuda a vacunarse.
+Otra de las situaciones es quiénes son los que se van a vacunar. Estamos acostumbrados a trabajar vacunación universal y en realidad es una vacunación universal, pero a ciertos grupos, o sea, tenemos que cubrir a toda la población de esos grupos.
+¿Cuáles son esas poblaciones?
+La población blanco, que tiene que ver al 100 por ciento de la población de seis a 59 meses, o sea, de seis meses a menores de cinco años; la población de 60 y más años; embarazadas, no importa si hoy les dijeron el feliz diagnóstico de embarazo, perfecto, mañana que se acudan a vacunar, por favor, no importa la edad gestacional; y los trabajadores de salud.
+Hay hemos hablado mucho ese aplauso que le hemos dado a todos los trabajadores de salud de primera línea, en este caso es muy importante que el personal de salud se vacune porque, primeramente, son los que nos están ayudando a la población a atendernos y, por otro lado, también pueden ser vehículos para la infección.
+Ahora, grupos seleccionados que tienen que ver con lo que ustedes han estado escuchando permanentemente en las conferencias de COVID, que tiene que ver con personas que tienen ciertos factores de riesgo.
+Aquí estoy señalando a las personas que tienen factores de riesgo: enfermedad cardiovascular, excepto hipertensión arterial, diabetes mellitus, obesidad mórbida, enfermedad pulmonar crónica, asma, insuficiencia renal, personas que viven con VIH/sida, personas con cáncer y todas aquellas personas que tienen alguna patología de origen que les genera una disminución de las defensas o inmunosupresión.
+Algo que es muy importante también es que tenemos residentes, personas de 60 y más años que están en espacios, en centros de atención para el adulto mayor, estas personas también se deben de vacunar y los profesionales que las están atendiendo.
+Ahora bien, si han escuchado los medios, ahora hemos planteado acortar el tiempo de vacunación y lo hemos planteado del 1º de octubre, o sea hoy, al 31 de diciembre. Y la pregunta que se están haciendo es: ¿por qué?
+En esta gráfica les estamos mostrando algo que ya había señalado el doctor López-Gatell hace un momento, en donde la temporada más alta de presencia de casos es en diciembre y enero.
+La campaña de vacunación no es para evitar que nos enfermemos, el objetivo fundamental es para evitar que si nos enfermamos seamos un caso grave y disminuir la probabilidad de que seamos una defunción.
+Entonces, el reto del sistema y el reto para la población es que nos debemos vacunar en octubre y noviembre. La vacuna para que genere anticuerpos o titulaciones protectoras se tardan de dos a tres semanas, ¿para qué?, para que cuando lleguemos a la temporada en donde esté circulando más el virus de la influenza estemos protegidos.
+Es por eso que estamos haciendo este planteamiento, aunque también, como ustedes saben, hemos aumentado el número dosis que se van a aplicar, regularmente se han aplicado un promedio de 32 millones de dosis, en esta temporada estamos hablando de 36.4 millones.
+Una de las preguntas que siempre nos hacen es: ¿la vacuna puede generar la enfermedad?
+En este gráfico les estoy tratando de mostrar, primero, qué es una vacuna inactivada o lo que le llamamos muerta también, en donde aquí vemos medio enojado al virus, pero lo estamos tratando con algunas sustancias para quitarle su capacidad de producir enfermedad y entonces lo decantan y aquí lo vemos ya que se cae y aquí está dividido.
+Entonces, lo que le aplicamos a las personas en términos así muy sencillos, la vacuna son partes del virus, el virus se fragmenta y lo único que se le deja es las características que generan anticuerpos, no las que producen la enfermedad. Entonces, la vacuna no produce la enfermedad.
+Yo sé que muchos de ustedes están diciendo: ‘Pero como que eso no es tan cierto, porque yo me vacuné o se vacunó mi abuelito o hace tres años le dio un gripón o le dio una neumonía’.
+Esta diapo tenía animación, pero quisiera mostrarles, piensen que cada uno de estos puntos anaranjados es el punto máximo en donde hay casos de problemas respiratorios, influenza o cualquier otro tipo de enfermedades respiratorias como COVID.
+Regularmente en enero, febrero y marzo hay un alza, pero también noviembre y diciembre, entonces esos van a ser casos.
+Ahora, si nos vacunamos ahorita en octubre todos estos van a ser casos, porque les acabo de decir que la vacuna produce inmunidad de dos a tres semanas.
+¿Qué pasa?
+Si se vacunaron en octubre y a los tres días presenta un problema respiratorio ¿qué pensamos?, no pues es la vacuna, pero no es la vacuna, el proceso… nosotros ya traíamos incubado el problema de salud y por eso presentamos un problema respiratorio, pero no es la vacuna, la vacuna no produce, no tiene ninguna posibilidad de producir síntomas respiratorios o enfermedades respiratorias.
+Pregunta, y aquí me faltó colocarles COVID. Si alguna persona se enfermó ya de influenza en esta temporada invernal o en la interestacionalidad ¿se debe vacunar?
+Sí.
+¿Por qué?
+Porque hay muchos virus de la influenza, del virus de la influenza tipo A hay 18 subtipos de hemaglutinina y 11 subtipos de neuraminidasa, que son las proteínas que nos van a estar generando la enfermedad, además los virus de la influenza no se dividen en subtipos, pero pueden dividirse en líneas, entonces hay otros más. Entonces, si tenemos diagnóstico de influenza sí debemos de vacunarnos de todas formas, por favor.
+La pregunta también: ¿la vacuna evita el 100 por ciento de los casos? Ya se los dije, ya me adelanté.
+Bueno, la verdad, es que no, la vacuna no es para evitar enfermedad, la vacuna es para que si una vez que me enferme tengo mayor probabilidad de ser caso grave y desafortunadamente morir, por eso es que la focalizamos a grupos de riesgo; de tal forma que no pensemos que nos vacunamos y tenemos una escafandra, sino que tenemos que seguir las medidas de sana distancia, tenemos que evitar el saludo de mano o beso, tenemos que evitar tocarnos la nariz o la boca, lavado frecuente de manos.
+Les suena mucho esto, porque esto ya es lo que venimos haciendo con la sana distancia, entonces tenemos que acostumbrarnos a la Nueva Normalidad.
+La última es no automedicarse.
+Y, por último, ya el doctor López-Gatell se me adelantó y ya presentó una imagen de Susana Distancia, de Susy, pero aquí tenemos otro material promocional que va a estar circulando en redes sociales y que ponemos a disposición de todos ustedes.
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Veras.
+---
+MIRIAM ESTHER VERAS GODOY
+Bueno, enseguida, como había dicho el doctor López-Gatell, vamos a hacer una demostración, ya les dije yo que la primera línea somos los trabajadores de la salud.
+Entonces, los funcionarios que todavía no se han vacunado van a pasar a vacunarse.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Es real.
+---
+MIRIAM ESTHER VERAS GODOY
+Es real, sí, la vacuna real, también los vacunadores.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Les agradecemos mucho a nuestras compañeras y compañeros, enfermeras y enfermeros del sector salud, incluyendo los servicios de salud de la Ciudad de México, el IMSS, el Issste y Pemex. Muchas gracias.
+Vamos a abrir a preguntas y comentarios. Liliana Noble, de Pulso Saludable; Juan Carlos Machorro, Otilia Carbajal, vámonos, hay tiempo.
+---
+PREGUNTA
+Gracias. Buenas noches. Liliana Noble, de Pulso Saludable.
+Doctor Gatell, quisiera saber por qué el año pasado sólo fueron cerca de 32 millones y hoy se incrementa como por casi cinco millones más, ¿a qué se debe este incremento?
+Y doctor Zoé, nos acaban de decir que usted estaba en una reunión con los padres de los niños con cáncer. Si nos pudiera comentar cómo le fue y a qué acuerdos llegaron, y si ya no va a haber ninguna marcha respecto a que ya no hay medicamentos.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Liliana. Le pido a la doctora Veras si comenta sobre la vacuna y le damos la palabra al maestro.
+---
+MIRIAM ESTHER VERAS GODOY
+Bueno, se aumentó casi, como bien lo señalabas, casi cuatro millones de más, dado que tenemos que cubrir a la totalidad de población blanco y riesgo.
+En las etapas anteriores las metas se calculaban fundamentalmente con la disponibilidad de vacuna, estamos queriendo llegar a todo el universo de la población de riesgo y blanco, todavía no lo alcanzamos porque estamos en negociaciones para el año que entra cubrir a todos.
+Y punto importante, el que nos dice por qué llegamos al grupo de riesgo y blanco, regularmente las cifras que ustedes han visto de años anteriores se logra 94, 95 por ciento de la meta.
+Sin embargo, en la temporada invernal anterior el 94 por ciento de las defunciones por influenza fueron en personas no vacunadas y que estaban en grupo de riesgo. Entonces, nuestro reto es tirar exactamente vacunar a la población que debemos vacunar.
+Es un reto muy grande, se acorta el tiempo, se aumentan las dosis y vamos a buscar a los grupos blancos y riesgo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+Maestro Zoé Robledo.
+---
+ZOÉ ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUO MEXICANO DEL SEGURO SOCIAL (IMSS)
+Claro que sí, con mucho gusto. Buenas tardes a todas y a todos.
+Efectivamente, como todos los jueves a las 6.00 de la tarde, es una reunión permanente que tenemos con mamás y papás de niñas y de niños con cáncer que se atienden en el Seguro Social.
+Desde el día jueves 10 de septiembre, el 17, el 24 y hoy hemos estado de manera permanente a partir de los primeros acuerdos que tomamos.
+La reunión está en este momento, todavía sigue, platiqué con ellos y les expliqué que venía para acá.
+Hoy estábamos viendo tres temas fundamentales:
+Uno, el modelo de Oncocrean que tiene el Seguro Social, particularmente el hospital de pediatría Centro Médico Nacional Siglo XXI. Es un modelo que ha empezado, que existe ya en Tepic, en La Paz, en Tapachula y en Coatzacoalcos, Veracruz en donde se hacen centros de referencia en hospitales de segundo nivel para atender ciertos tipos de cáncer, sobre todo los que son más frecuentes y que se pueden atender ahí sin necesidad de trasladar a los niños a Centro Médico Nacional para que entonces los casos más complicados sean los que vengan a Siglo XXI.
+Es algo que estamos intentando crecer para todos los hospitales de alta especialidad y empezar a crecerlo por toda la República.
+También estábamos viendo cómo va.
+Un elemento del que se ha hablado poco que es el permiso que da el Seguro Social, los trabajadores registrados en el Seguro Social papás y mamás que tienen hijos con cáncer. Es un permiso que les permite en sus trabajos poder atender a sus hijos sin que esto les afecte en su trabajo por inasistencias y demás, es una forma también solidaria para que ellos puedan siempre acompañar a sus hijos en sus tratamientos, las citas y ese permiso los ampara frente a sus empleadores.
+Y otro de los temas que hemos estado trabajando con ellos es el de una plataforma del Seguro Social que permita ver tratamientos administrados oncológicos, quimioterapias en todo el país, porque nosotros hemos insistido mucho que, efectivamente, pueden existir interrupciones en ciertos medicamentos, en ciertas claves que han sido complicadas y en particular en ciertos lugares. Se busca siempre solucionar con intercambios internos y otras estrategias, pero esta plataforma creemos que es la mejor forma de transparentarlo todo, así lo hicimos también con los pacientes del Seguro Social que viven con VIH, en ese caso eran recetas surtidas, en este caso son tratamientos administrados.
+Y además, ahí también esa reunión se ven casos específicos, se generan folios de casos específicos y también el abasto en diferentes hospitales. La intención es que podamos tener claridad de los tratamientos que se administraron unidad por unidad en el Seguro Social.
+Ha sido un diálogo muy franco, muy abierto, muy transparente, son reuniones largas que agotamos todos los puntos. En este momento había, junto con el doctor Borja, cinco de los nueve directores normativos del Seguro Social porque esto implica el involucramiento de todos, incluso de las farmacéuticas que venden medicamentos oncológicos al Seguro y que se presentan también ahí porque muchas veces ellos también tienen cosas que aclarar.
+Entonces, es un proceso que va bien y que creemos que va a llegar a buen puerto.
+---
+INTERLOCUTORA
+El tema del monopolio de estas compañías.
+---
+ZOÉ ROBLEDO ABURTO
+Bueno, es un proceso largo, complicado, porque son muchos los procesos, desde la fabricación de los medicamentos o distribución, después las centrales de mezclas
+Ahí una de las cosas que en la primera reunión logramos aclarar es que había métricas que tenía una de estas centrales de mezclas que de repente al llegar a manos de las mamás aparecían unos desabastos terribles y ellos mismos, nosotros se los reconocemos, les aclararon que era información de ellos, no del Seguro Social.
+Y una de las cosas que resolvimos es que no pasaran por los medicamentos a los almacenes para llevarlos a la central de mezcla una vez por semana si tenían posibilidad de abastecerse por dos o incluso tres semanas y entonces evitar problemas.
+Este es un asunto que requiere del esfuerzo, la participación y sobre todo el compromiso y el cumplimiento de los compromisos por parte de todos.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, maestro Zoé.
+Doctora Veras y ahora que nos vacunaron ¿cómo queda registrado esto?
+---
+MIRIAM ESTHER VERAS GODOY
+Muy buena pregunta. Esto tiene que ver… si ustedes se dieron cuenta en la mesa hay algunos comprobantes que nos los dan a las personas que nos vacunaron, en este momento se obvió por una situación de rapidez, pero también estamos convocando a la población que por favor cuando acudan a vacunarse lleven su Cartilla Nacional de Salud. Los papelitos a veces los podemos perder, entonces lo ideal es que lleven su Cartilla Nacional de Salud y ahí les va a registrar la dosis.
+También se genera un censo nominal, manual que se queda en la unidad para ir identificando a las personas que se vacunaron.
+Ahorita ustedes, a los que tengan factores de riesgo que los vacunen, no sé si hayan traído su cartilla, pero les entregarán su comprobante.
+---
+PREGUNTA
+(inaudible)… nombre de la vacuna, la fecha, el lugar donde te vacunaron y viene el mes en el que te vacunaron.
+¿Esto se puede transferir a tu cartilla electrónica, por ejemplo, y ahí tenerlo almacenado o se debe de pegar en el carnet?
+---
+MIRIAM ESTHER VERAS GODOY
+Depende de estrategias locales, esa estrategia no es nacional, la están realizando algunos hospitales de la Ciudad de México y se pega en la cartilla.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+Por favor, adelante, estaba Juan Carlos Machorro, pero adelante, nos vamos uno y uno.
+---
+PREGUNTA
+Andrea Meraz, de Grupo Fórmula.
+Solo preguntar si con este aumento también de dosis se modifica también la distribución, si hay algunos estados que tengan, digamos, prioridad o cómo va a ser el reparto de estas dosis en las entidades del país.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Adelante, doctora.
+---
+MIRIAM ESTHER VERAS GODOY
+Bien, la distribución se hace con base en población, no es que haya estados prioritarios a los que les damos más o a los que les damos menos, sino que tiene que ver con la población que tiene y con la probabilidad que tiene de tener casos personas con enfermedades de riesgo, con daños a la salud de riesgo.
+---
+INTERLOCUTORA
+¿Nos puede decir cuáles son esas entidades con mayor población?
+---
+MIRIAM ESTHER VERAS GODOY
+Las entidades que tienen mayor es el Estado de México, la Ciudad de México, son las que tienen mayor población, pero depende de lo que traemos en los cálculos de población de Conapo.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+Por favor, Juan Carlos Machorro.
+---
+PREGUNTA
+Buenas noches, Juan Carlos Machorro, AM, de Querétaro.
+Doctora, ¿tienen alguna campaña o cómo van a ser con esta creciente población que no le gusta vacunarse o que son de los que dicen ‘no creo’, no sólo vacuna influenza, en cualquier tipo de vacuna?, ¿cómo llegar a ellos?, y más que nada cuando son tal vez adultos que tienen niños pequeños, quizá, como dicen, como adulto ya uno es responsable de cada quien, pero con los niños pequeños que nos los quieren vacunar porque dicen que no creen en ningún tipo de vacuna.
+Y si me permite el doctor Gatell, una pregunta para usted. Se ha detectado que la tuberculosis está creciendo mucho, quizá más al doble de lo normal. ¿Qué ha sucedió en el caso de esa enfermedad?, por la cuestión de que muchos hospitales se han vuelto COVID no se ha atendido esa enfermedad, han faltado vacunas, la población se ha descuidado, o sea, no sé qué es lo que tenga usted conocimiento en ese caso.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Con gusto, doctor Veras.
+---
+MIRIAM ESTHER VERAS GODOY
+¿Cuál fue la pregunta?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+La pregunta era sobre cómo estimular a que las personas se vacunen.
+---
+MIRIAM ESTHER VERAS GODOY
+Ah, yo diría no qué van a hacer, sino qué vamos a hacer. Precisamente, el que ustedes nos estén apoyando a que las preguntas salgan a todo el país y lo que yo les presenté es tratar de convencer a la población que acuda a vacunarse.
+Tenemos dos hipótesis en este momento. La primera, que hay mucha más conciencia en la población por la situación que hemos vivido por COVID entonces, la población de riesgo va a acudir más… mayor cantidad de población.
+La otra, estamos trabajando con las entidades federativas, el sector salud en su conjunto, con elementos de promoción de la salud en la intención de que se cubra a esta población.
+Y comentaba que a los niños no los quieren vacunar. Fíjense no es tanto así, el problema que tenemos mayor es embarazadas y adultos mayores los que toman decisión.
+Entonces, lo que nosotros le estamos pidiendo a la población son dos cosas: a sus hijos no les quiten la oportunidad porque ellos no pueden decidir, entonces no les quiten la oportunidad de ser protegidos. Y así como la mamá, el papá, llevan a los niños a vacunar; ahora les pedimos a los niños que lleven a los abuelitos y a su mamá a vacunarse.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No olvidemos que, esto lo informamos periódicamente cada año, más del 87 por ciento de las personas que fallecen de influenza no tenían antecedente de vacunación. Entonces, es muy importante, como lo dijo la doctora Veras al inicio, la vacuna contra la influenza tiene como propósito disminuir la probabilidad de enfermedad grave y muerte en personas que tienen alto riesgo de complicarse, que ya se explicaron cuáles son las poblaciones, ayúdennos, por favor, comunicadoras y comunicadores a dejar muy claramente establecido cuáles son estas poblaciones de riesgo y quiénes son las personas que deben vacunarse.
+Respecto a la tuberculosis, no, no se ha duplicado, pero ciertamente desde hace 12, 13 años ya, tenemos en México un incremento gradual de la incidencia de tuberculosis, las razones son varias, no tiene que ver con la vacuna, la vacuna contra la tuberculosis conocida como BCG, es una vacuna que tiene una eficacia limitada para un propósito muy específico que es disminuir la probabilidad de tuberculosis meníngea, la tuberculosis en el sistema nervioso central de los niños en la primera infancia.
+No es una vacuna desafortunadamente que proteja del riesgo de tuberculosis de la persona adulta ni de la forma pulmonar, que es la forma más frecuente.
+Y tiene que ver con muchos elementos, pero la parte más importante es una condición social adversa. La pobreza desde hace décadas, desde hace más de, quizá, un siglo se ha documentado extensamente como un determinante de la tuberculosis, del riesgo de la tuberculosis. Entonces, el deterioro de las condiciones de vida de México durante los últimos 30 años o 40 años no es sorprendente que contribuya sustancialmente a aumentar el riesgo de la tuberculosis.
+Y como hemos dicho una, otra y otra vez, y lo seguiremos diciendo, el Sistema Nacional de Salud de México no creció en la capacidad o cobertura que necesitaba cubrir y eso también es un elemento importante. Muchas gracias.
+Otilia Carbajal, de La Razón; Natalia Vitela, de Reforma.
+---
+PREGUNTA
+Buenas noches. Otilia Carbajal, de La Razón.
+Preguntarles cómo cerró la temporada interestacional de influenza, porque de acuerdo con los reportes de vigilancia epidemiológica sí hubo una disminución respecto a años anteriores.
+Y si esta disminución puede deberse a estas medidas de prevención que justamente se tomaron por el COVID o que se le dio una mayor vigilancia a esta nueva enfermedad.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, Otilia. Es muy buen planteamiento.
+Los datos de la parte interestacional, la estación o temporada de influenza en el hemisferio norte inicia en octubre, en la semana 40 del año, es arbitrario que uno diga exactamente la semana 40, en realidad es un proceso gradual y termina en la última semana de marzo, también es arbitrario que uno lo plantee en eso porque sigue un poco la transmisión a lo largo del año hasta el siguiente octubre y ese es exactamente el periodo que llamamos interestacional.
+Ha llamado la atención de la comunidad de salud pública del mundo que en el hemisferio sur tuvo una menor intensidad de la temporada de influenza. En el hemisferio sur ocurre la temporada de influenza contrapuesta, seis meses con respecto a la del hemisferio norte.
+¿Por qué razón?
+Porque cuando allá es invierno aquí estamos en la temporada cálida. Y lo que observamos fue que tuvimos en el hemisferio sur, país del hemisferio menor transmisión.
+Una de las hipótesis muy posibles, muy plausible, es que las acciones de prevención de COVID en los países del hemisferio sur coincidió con la temporada de influenza y dado que el mecanismo de transmisión es el mismo, a través de partículas líquidas de la vía respiratoria gotas, gotículas y aerosoles, contribuyó a disminuir la transmisión de influenza.
+Desafortunadamente para el hemisferio norte no ocurre en esa sincronía y es posible que tengamos menos transmisión en la medida en que estemos con las medidas de sana distancia para seguir controlando el COVID, pero hay que mantenerlas constantemente.
+---
+INTERLOCUTORA
+Y otra pregunta. Sobre esta reunión que tuvo con el gobernador de Campeche y el secretario de Educación, mencionaron que aún no hay condiciones para fijar una fecha de regreso a clases presencial, que se deben considerar otros factores como la movilidad en los estados aledaños.
+Entonces, ¿qué factores tendría que haber para que haya un regreso seguro?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Efectivamente, tuvimos una videoconferencia con el gobernador Aiza, de Campeche, su equipo de trabajo, en particular el doctor José Luis González, secretario de Salud; el secretario Esteban Moctezuma Barragán Moctezuma Barragán y su equipo de trabajo, y conversamos, precisamente sobre las implicaciones epidemiológicas de una potencial reapertura del ciclo escolar en Campeche, dado que Campeche es el primer estado que gracias a su dedicación y buenas prácticas en el las medidas de prevención ha logrado tener semáforo verde, fue el primer estado, eso quiere decir, semáforo verde, un menor riesgo de COVID.
+Sin embargo, el gobernador Aiza fue claro en identificar que no quieren sacrificar el éxito por una apertura demasiado temprana. Escuchamos mucho y con gran atención sus argumentos de él y de su equipo de trabajo, nos parecieron unos argumentos perfectamente sólidos, razonados, basados en la evidencia, basados en la constancia que ha tenido el gobernador y su equipo para manejar la epidemia en Campeche y haberla prevenido y controlado.
+Tanto el secretario Moctezuma y su equipo como nosotros en la Secretaría de Salud quedamos persuadidos de que convenía mantener cautela, mantener prudencia y que se ganaba más si somos prudentes que si anticipamos o forzamos una apertura demasiado temprana de las escuelas en Campeche.
+Lo que decidimos es mantener la observación durante los 15 días que dura el semáforo COVID, que inició la nueva calificación en esta semana 40, y hasta la semana 42 identificar cuál es la tendencia. Si la tendencia sigue siendo a la reducción de los indicadores, de los valores de los indicadores de control epidémico, quizá empezaríamos a entusiasmarnos por una apertura del ciclo escolar; de lo contrario, nos mantendríamos todavía en la recomendación de que no se abra.
+Uno de los factores importantes efectivamente tiene que ver con la movilidad interestatal. La población de Campeche tiene movilidad hacia Tabasco, hacia Mérida.
+Y también otro elemento es precisamente el inicio de la temporada de influenza y la predicción que existe para todo el hemisferio norte de que al tiempo que aumenta la influenza, los casos de influenza, podría aumentar COVID.
+Entonces, no queremos correr ningún riesgo. Le agradecemos nuevamente al gobernador Aisa y a su equipo por el excelente trabajo que han hecho, su gran sentido de responsabilidad, y respaldamos sus acciones.
+Muchas gracias. Natalia Vitela, Grupo Reforma.
+---
+PREGUNTA
+Gracias. Buenas noches.
+Bueno, primero, quiero preguntar: ¿cuál es la inversión del gobierno en las vacunas contra la influenza?, creció de, entiendo, 32 millones a 36 millones.
+¿Y qué van a hacer diferente en esta administración o en esta temporada específicamente para lograr vacunar a la mayor parte de la población en diciembre? Lo que entiendo es que temporadas pasadas se terminan de vacunar marzo, abril, y ¿cómo lograr acortar este tiempo?
+Y, por otro lado, también le quería preguntar al maestro Zoé, se siguen llevando a cabo las pláticas y las reuniones, pero aún también sigue habiendo protestas, por lo menos una vez a la semana con respecto al desabasto de medicamentos.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctora Veras, si nos comenta, por favor.
+---
+MIRIAM ESTHER VERAS GODOY
+Bueno, con relación a la inversión sólo en vacunas sin considerar todos los materiales y la parte operativa, el sector salud gastamos en promedio un poco más de mil 800 millones de pesos en esta ocasión.
+¿Qué es lo que vamos a hacer?
+Felicitar y agradecer a los estados que están haciendo lo propio y armando la estrategia operativa para poder alcanzar a los grupos que hemos señalado. Como señalaba en mi presentación, vamos a trabajar con visita dirigida a centros donde está la población de riesgo y pedirle mucho a la población en general, que no se espere a que vayan a sus casas, es muy común que cuando llegan los vacunadores ya en las etapas finales les dicen: ‘Es que no me habían venido a vacunar’, y hasta les reclaman. Entonces, pedirle a la población, por favor, que siguiendo los principios de sana distancia acuda a la unidad de salud más cercana.
+Por otro lado, también las entidades federativas tienen, la mayoría de las entidades federativas tienen teléfonos y elementos de las redes sociales para estarle informando a la población en donde están las vacunas y resolverles dudas.
+Estaremos el día de mañana subiendo a la página web del Censia, del Centro Nacional para la Salud de la Infancia, esta información y cada una de las entidades federativas pedirle por favor a la población que busque las redes sociales o las páginas de los gobiernos de los estados, ahí está la información para que los orienten y que acudan.
+Gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias.
+Maestro Zoé.
+---
+ZOÉ ROBLEDO ABURTO
+Nosotros siempre hemos manifestado el respeto a las personas, a los diferentes tipos de manifestaciones y desde luego que oímos todos los casos y los atendemos.
+Estas reuniones de los jueves justamente lo que buscan es que en el Seguro Social con su servidor y los directores de diferentes áreas se vayan resolviendo los casos, incluso las madres, muchas de ellas que sus hijos se atienden en La Raza son de verdad admirables porque están también buscando como ayudar a otras mamás, incluso de otros estados, y así es como se llevan casos específicos de Tamaulipas, de Veracruz, de cualquier otro lugar, y estamos buscando que ese sea el mecanismo de diálogo y de solución.
+Le pongo un ejemplo, el día de hoy hubo una manifestación de algunos padres allá en Baja California, en Tijuana, en un hospital del Seguro Social, también hay diferentes manifestaciones en diferentes instituciones y lo vemos también de manera sectorial.
+Pero en este caso de Tijuana, justo uno de los elementos que más funciona para resolver los problemas es la transparencia y ahí nos está manifestando la empresa, la central de mezclas, que se llama SAFE, que tuvieron un problema porque no cumplieron con algunos estándares de Cofepris y se las cerraron. Ese es un asunto exclusivamente de la central de mezclas y que entonces está llevando medicamento de Sonora a Tijuana.
+Nosotros no buscamos en estas reuniones echar culpas, sino buscar soluciones entre todos, pero cuando nos dicen las cosas y a las madres se les explican cómo está la situación también les podemos ofrecer una respuesta y generar algo que aunque parezca increíble, creo que es lo que estamos propiciando y es donde queremos trabajar más: confianza.
+Nos pasamos mucho tiempo y dedicación de muchos funcionarios en resolver este problema, no hay indolencia jamás, pero tiene que haber confianza reconociendo cómo está la situación y cómo la estamos solucionando.
+Cada manifestación, como ustedes mencionan, no sé si una vez por semana, pero hay que verlo, porque cada una de ellas no es número, no es una manifestación, es un caso específico de una familia, de un niño o de una niña y así lo atendemos ahí.
+Pronto les estamos… vamos a plantear a los propios padres poder invitar incluso a medios comunicación si quieren asistir, son sesiones de trabajo de varias horas y ahí se están revisando los casos. Es la mejor forma de solucionar, porque son problemas complejos que involucran a muchas participantes, digamos.
+---
+INTERLOCUTORA
+(Inaudible) principales problemas, ahorita usted hablaba de la central de mezclas y el cierre por parte de Cofepris. ¿Qué otros problemas han detectado?
+---
+ZOÉ ROBLEDO ABURTO
+Desde cuestiones de procesos que podrían mejorarse.
+Le pongo un ejemplo, había una situación con algunos medicamentos de soporte que se dan en un formato de una caja que tiene 30 pastillas y que de repente podían faltarle una o dos pastillas al mes; generamos ahora una receta adicional anual para complementar.
+Para llegar a eso se tiene que hacer una serie de procedimientos, pero lo que buscamos siempre es que la burocracia no interfiera, el asunto del carnet digital, esto lleva toda la vida.
+Ahora se ha puesto en la esa la solución, un carnet digital que está sustituyendo un carnet en papel con una grapa que si una madre llegaba a perder ese carnet de su hijo se metía en un serio… en una situación bien complicada; eso en el último mes, resolvimos y ya desarrollamos dentro la propia plataforma ese carnet.
+Yo creo que aquí en un tema tan sensible que a todos nos duele, nos importa es bien importante involucrarse más, no quedarse solamente con la parte superficial de una manifestación que manifiesta que hay desabasto en todos lados.
+No, hay muchos procesos que se pueden mejorar. No contamos todavía con un registro único de pacientes infantiles y adolescencia con cáncer, en eso hay que trabajar.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, maestro Zoé Robledo.
+La última pregunta, Carlos Abaroa, de Unomásuno.
+---
+PREGUNTA
+Gracias doctor Gatell, buenas noches. Carlos Abaroa, de Unomásuno. Doctores, buenas noches.
+Sólo es una pregunta muy sencilla, doctora. Hay que vacunar a los niños, adultos mayores y mujeres embarazadas, entendemos; sin embargo, al respecto de la vacunación a los niños, hoy los niños se encuentran en casa.
+Es relativamente fácil vacunarlos cuando están en la escuela, hay grandes concentraciones. ¿Cuál es la estrategia que se ha pensado al respecto?, aparte de la promoción, ¿qué se ha pensado al respecto para vacunarlos?
+Sería bueno tal vez pensar a lo mejor poner un puesto de vacunación afuera de cada una de las escuelas y promoverlo, es lo más identificable para los papás y para los niños, ¿qué han pensado al respecto?, primero.
+Y segundo, al maestro Zoé Robledo, gracias, se está trabajando la cita que solicitamos para la autoridad de Nezahualcóyotl, qué amable, gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Doctora Veras.
+---
+MIRIAM ESTHER VERAS GODOY
+Para la población que está cautiva en las instituciones de seguridad social es un poco más fácil, dado que ellos tienen forma de darle seguimiento a los derechohabientes.
+Para la población que le llamamos población no asegurada o población, que es responsabilidad de la Secretaría de Salud, lo que estamos planteando son dos cosas:
+Uno, señalizar muy bien los puestos de vacunación dentro de las unidades de salud, convocar a la población como les comentaba, y el trabajo en puestos que le llamamos semifijos en ciertos espacios, pero tenemos que es una estrategia operativa, las entidades federativas tienen, saben en qué colonias o en qué regiones la población está, los horarios, cambios de horarios, y todo esto, entonces, ellos lo saben y lo que se está haciendo es usar métodos locales para poder convocar.
+O sea, dicho de otra forma, perifoneo y aviso de cuándo va a llegar la brigada de vacunación para que la población salga, siempre como lo hemos comentado dentro de la Nueva Normalidad, con la sana distancia. Y vieran qué bien se ha dado, ya para fines de alinear las coberturas, porque hubo un descenso de demanda, algunas entidades federativas están trabajando esto, no para influenza, sino para las demás vacunas, y está funcionando bien con promoción local.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Maestro Zoé.
+---
+ZOÉ ROBLEDO ABURTO
+Sí, bueno, efectivamente, estamos hablando con el alcalde De la Rosa y ahí vamos trabajando, y gracias a usted porque no los hizo ver aquí en dos ocasiones en otras conferencias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Muchas gracias, gracias a nuestras compañeras y compañeros enfermeros, gracias a todo el equipo del sector salud que trabajamos muy unidos.
+Hoy jueves 1º de octubre iniciamos la temporada de vacunación contra la influenza. Invitamos a toda la población que pertenece a los grupos de riesgo ya identificados a que se vacunen lo más pronto posible.
+La meta es terminar la vacunación contra influenza antes del final de 2020. La importancia es evitar que dos epidemias que podrían presentarse en curso, una extraordinaria, como es la pandemia de COVID-19, actualmente en nueve semanas de reducción, pero con siempre la probabilidad, la posibilidad de que pudiera tener un repunte durante el invierno, se combine o se junte con lo que es irremediable que ocurra, que es la temporada de influenza 2020-2021.
+La vacuna tiene como propósito salvar vidas, reducir la probabilidad, la posibilidad, el riesgo de enfermedad grave en personas altamente susceptibles a ello.
+Muchas gracias. Aquí terminamos. Gracias, compañeras y compañeros.
+- - - 0 - - -

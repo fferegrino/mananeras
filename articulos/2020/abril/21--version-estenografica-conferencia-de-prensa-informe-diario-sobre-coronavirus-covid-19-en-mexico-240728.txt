@@ -3,12 +3,14 @@ Presidencia de la República
 21 de abril de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, ​​​​​​SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Muy bien. Buenas noches tengan todas y todos ustedes. Hoy es martes 21 de abril de 2020, son las 19:00 horas, estamos en el Palacio Nacional de México y vamos a conferencia de prensa diaria sobre la situación de COVID, la enfermedad causada por el virus SARS Cov2 en el mundo y particularmente en México.
 Hoy nos vamos a enfocar a dos elementos:
 El primero es el enfoque técnico diario que presentará el doctor José Luis Alomía, director general de Epidemiología.
 El segundo es la presentación de una nueva herramienta que tenemos para orientar a las personas que pudieran presentar signos sospechosos de COVID y la va a presentar el doctor Ricardo Cortés Alcalá, director general de Promoción de la Salud. Yo nada más estaré moderando la sesión.
 Doctor Alomía.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL DE EPIDEMIOLOGÍA
+Muchas gracias, señor subsecretario.
 Buenas noches a todas y todos.
 Vamos a iniciar con la actualización de los panoramas, tanto internacional como nacional. Esta imagen que la venimos ya viendo desde hace un buen tiempo, ya tenemos un puntito porcentual menos, 47 por ciento. Vemos cómo sigue contrayéndose la pandemia, recordando que este 47 por ciento representan a las personas con inicio de síntomas, casos confirmados con inicio de síntomas presidente en los últimos 14 días y que por lo tanto representan la actividad de la pandemia en sí, de las diferentes epidemias que están pasando en los países.
 Prácticamente no hubo un movimiento puntual en la diferencia entre la región de Europa y la región de las Américas, aunque se mantiene aún por poquito todavía la región de las Américas incrementado en concentrar la mayoría, digamos, de los casos en el mundo, 45.6 por ciento.
@@ -46,9 +48,11 @@ Si vemos las barras de color naranja, el día de ayer notábamos una disminució
 Sería el panorama para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor José Luis Alomía, director general de Epidemiología.
 Le pido al doctor Ricardo Cortés, director general de Promoción de la Salud si nos comenta sobre la nueva herramienta.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchísimas gracias, doctor.
 Muy tardes tengan todas y todos en casa y en Palacio Nacional.
 Una de las principales herramientas de comunicación que se usan actualmente es el WhatsApp y a partir de hoy podremos mandarle un mensaje a Susana Distancia.
 Esta es una aplicación cuyo objetivo es informar a la ciudadanía mediante el intercambio sencillo y directo, accesible y gratuito de información útil para encontrar más y más información útil y rápida sobre el coronavirus.
@@ -68,9 +72,17 @@ El teléfono, también si lo quieren guardar, es 55 86338589.
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, doctor Ricardo Cortés, director general de Promoción de la Salud.
 Abrimos a preguntas a y respuestas. Ángeles Cruz, Bianca y usted, y de este lado ustedes dos.
 ---
+PREGUNTA
+Gracias, buenas noches.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Y a usted también ya le debo varias, exacto.
+---
 INTERLOCUTORA
+Buenas noches, Ángeles Cruz, del periódico La Jornada.
 Quisiera yo pedirle. Veo que ha cambiado la modalidad de presentación de los datos y perdimos -entre comillas- el tema los ambulatorios, los hospitalizados y los intubados que yo creo, además de que a nosotros nos gusta mucho los números, efectivamente sí nos ayuda a aterrizar cómo va el tema de la ocupación hospitalaria.
 Y si junto con eso si también nos proporcionan a los datos de la ocupación hospitalaria. Más o menos se ha sabido lo que pasa en la zona metropolitana, pero si con mayor puntualidad pudiéramos tener esa información de cómo van ocupándose, sobre todo las camas para pacientes críticos y lo que va quedando o lo que se va agregando con nuevos ventiladores, en fin, esa información si periódicamente nos la pueden dar. Muchas gracias.
 Y lo otro, sí, diario, si pudiera ser, cómo se distribuyen los pacientes entre ambulatorios y hospitalizados y los críticos.
@@ -82,6 +94,7 @@ Y si también en la información nos incluyen la cantidad de municipios donde ha
 ¿O cómo va a ir también la reconversión hospitalaria?, ¿cuál es la meta?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Son más de las dos preguntas acordadas, pero creo que todas de interés general.
 Y qué bueno, Ángeles, que usted es muy perspicaz y hace estos señalamientos. Desde luego son completamente bienvenidos.
 Hoy precisamente por la mañana anunciamos formalmente el inicio de la fase 3. La fase 3 implica un cambio de modalidad en el abordaje, que es parte de la estrategia, no es un cambio de estrategia, es una nueva fase de la estrategia, así como en su momento transicionamos de la fase 1 a la fase 2 y cambiaron varios elementos de la estrategia.
 Uno de ellos es la vigilancia epidemiológica. Retomo, apelando a su memoria, que cuando pasamos de la fase 1 a la fase 2 activamos el Modelo de Vigilancia Centinela, siempre vigente desde el 2006 para la influenza, pero incorporamos la vigilancia Centinela de COVID.
@@ -106,7 +119,26 @@ Pero entonces la información que ella misma presenta todos los días es la info
 Entonces, por todas estas razones no quisimos meter un elemento de confusión ahorita cuando todavía todo esto está en vías de aterrizarse. El sistema de información existe, lo hemos estado trabajando y piloteando desde hace varios días, pero entrará en funciones; y cuando tenga información estable, lo estaremos presentando.
 Necesita ser en tiempo real porque, si se retrasa 24 horas, empieza el desfase de información con lo que había de ocupación ayer y lo que hay hoy, y no queremos que esto causa confusión.
 ---
+INTERLOCUTORA
+¿No era obligatorio que notificara la ocupación hospitalaria?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+No para este elemento, no era un elemento constitutivo del Sistema de Vigilancia Epidemiológica. Lo empezamos a preparar en fase 2, y ahora ya se piloteó, ya lo estaban utilizando, pero no era un elemento obligatorio.
+---
+INTERLOCUTORA
+Entonces, ¿no sabemos cómo está la ocupación hospitalaria?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Sí lo sabemos, pero con un mecanismo que no es eficiente, era eficiente para fase 2, donde no hay una velocidad de ocupación tan grande, pero definitivamente no sería eficiente para fase 3; entonces, necesitamos el correcto para la fase 3, es esta plataforma y la obligación llevará a que todos los estados notifiquen.
+---
+INTERLOCUTORA
+¿La frontera norte y Tabasco?
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Frontera norte y Tabasco. Le voy a pedir al doctor Alomía si nos comenta sobre frontera norte y Tabasco.
+---
 JOSÉ LUIS ALOMÍA ZEGARRA
+Claro, de hecho comentar que precisamente la transmisión es la que se presenta, es decir, los datos que se están en un momento integrando y sobre todo cuando se enfocan a las últimas dos semanas en donde se están llevando a cabo los casos, precisamente empiezan a revelar a lo mejor tendencias o cargas que en su momento estaban un poco más ocultas, porque estábamos viendo a todos los acumulados desde que inició la transmisión, ese es un poco también de la utilidad de poder enfocar los productos de información a las últimas dos semanas que es donde se tienen los casos activos.
 Y, efectivamente, si en un momento vemos que una entidad federativa, como sería la de Tabasco, tiene un color más oscuro, que quiere decir que su tasa de incidencia acumulada de los últimos 14 días es más notoria que otras entidades federativas, es porque efectivamente está ocurriendo una transmisión más reciente.
 Y la utilidad tanto del mapa de entidad federativa, pero más aún el mapa municipal -que sigue disponible en la página del micrositio de coronavirus y se actualiza también todos los días- tiene el objetivo de poder justo identificar en qué áreas del país, municipales en este caso, y lógicamente junto con las entidades federativas poder en un momento reforzar las acciones que se están llevando a cabo de la Jornada Nacional de Sana Distancia.
 Porque entonces, si yo estoy evidenciando que en ese municipio, en esta entidad en las últimas dos semanas tengo mayor transmisión que comparación a otras áreas, entonces tengo que hacer una revisión puntual de si se están llevando a cabo de una manera adecuada las medidas de sana distancia; o entonces tengo que ajustar y llevar a cabo actividades que ayuden a reforzar estas medidas y que realmente se estén aplicando.
@@ -117,6 +149,13 @@ Hay que recordar que Baja California, específicamente en este caso el municipio
 Y es un poco precisamente lo que quiere revelar este mapa. Más allá de ver cuáles son los estados que están acumulando la mayor cantidad de casos o que estos casos hayan sucedido ya muy atrás en el tiempo, es focalizar en dónde está sucediendo en los últimos 14 días.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias.
+---
+INTERLOCUTORA
+Y la disponibilidad de las camas, la reconversión hospitalaria…
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Todo, todo, nada desaparece, por eso hemos estado poniendo todas estas plataformas de acceso público que ya menciona el doctor Alomía y que están accesibles en todo el sitio de coronavirus. Está integrado todo, está el tablero de control que nos ha fabricado Conacyt, que se alimenta de los datos oficiales de la secretaría, están los mapas de visualización municipal con un mecanismo interactivo donde se despliega exactamente el número de casos de cada municipio.
 Están las bases de datos integras, obviamente sin identificadores personales de datos abiertos para que puedan ser explotadas y analizadas por cualquiera que tenga el interés y la capacidad de hacerlo. Nada desaparece, pero sí queremos irles familiarizando con este cambio de enfoque. Dado que el tiempo es reducido aquí, nos interesa que estén con la información que es más relevante para la fase tres.
 Y aprovecho para hacer tres aclaraciones que tenemos pendientes, bueno, dos aclaraciones y una noticia que nos gustaría celebrar, ahorita seguimos con las preguntas.
 La primera es: hoy tuvimos, como cada martes, la reunión -esta es ya la tercera- con los secretarios y secretarias de Salud de los estados. El doctor Marco Antonio Cantú, secretario de Salud de Morelos, nos hizo un comentario que vengo aquí a presentar.
@@ -132,7 +171,11 @@ Retomo. Recordarán que desde el inicio nos interesó desconcentrar el diagnóst
 Uno, demostrar que las pruebas eran competentes y el Indre, en uso de sus facultades, ha estado haciendo una evaluación comparativa de los estuches diagnósticos, es decir, la tecnología que se utiliza para la PCR y también en su momento para quien lo solicitó del desempeño de los laboratorios, una evaluación comparativa.
 En este momento tenemos 81, ¿cierto, doctor Alomía?, 84 laboratorios que la gran mayoría son ya laboratorios privados, ¿más o menos mitad y mitad?
 ---
+JOSÉ LUIS ALOMIA ZEGARRA
+Digamos un 30 por ciento.
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Un 30 por ciento son laboratorios privados que dan servicios.
 Entonces, regreso a Tamaulipas. La discrepancia procede del hecho de que el laboratorio privado que opera en Tamaulipas produce resultados que nosotros tenemos acceso a los mismos, porque la modalidad de vigilancia para fase 2 era tener incorporados con los datos mínimos, básicamente saber cuántos positivos, cuántos negativos, es decir, cuántas pruebas se hacían, cuántos resultaban positivos, y era uno de los índices de positividad que abonan precisamente a lo que ya hemos presentado.
 Hacia fase 3 vamos a cambiar la modalidad y los laboratorios privados también van a tener una ficha básica para registrar nominalmente sus casos. Entonces, los laboratorios en la medida en que van a ser auxiliares en la parte diagnóstica de esta fase rápida, también nos interesa que lo hagan de una manera más eficiente. Esto explica y quería dejarlo en claro mi respeto y amistad con la doctora Gloria Molina, secretaria de Salud de Tamaulipas.
 Lo tercero no es una aclaración, sino es una felicitación. En el estado de Chihuahua, el señor gobernador tuvo a bien tomar una decisión que me parece sumamente estratégica y sensata, que fue crear la Subsecretaría de Prevención y Promoción de la Salud, a partir de la estructura previa que tenía donde había una Dirección de Prevención y Control de Enfermedades.
@@ -141,11 +184,13 @@ Es una profesional también estupenda, muy comprometida, muy competente. Ella es
 Sigamos con preguntas. Estaba Bianca y nos vamos a ir allá atrás, porque no hemos dado la mano allá atrás, usted de amarillo.
 ---
 PREGUNTA
+Gracias, buenas noches a todos. Bianca Aguirre, de Notimex Televisión.
 Doctor, hace unos días el presidente de México, Andrés Manuel López Obrador, dijo que el peor momento de la pandemia sería del 2 al 8 de mayo. Hoy Esteban Moctezuma, secretario de Educación Pública, dijo que el 1 de junio regresarían los niños a la escuela.
 ¿No sería muy pronto el regreso? Es decir, estaría ya muy relajado todo, ¿qué pasaría?
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, Bianca, por el señalamiento, nos sirve para al menos dos mensajes.
 El primero, esta misma mañana cuando comentamos esto, nos preguntaron lo mismo. Me parece completamente legítima la preocupación si no estamos en tiempo muy cerca del momento cumbre del acmé de la curva epidémica, del momento de máxima transmisión.
 Lo segundo es, cuándo es lo oportuno considerando dos elementos que en todo momento desde el diseño de la estrategia hemos estado cuidando y es el balance de proteger la salud y la vida de las personas, porque pueden enfermar de COVID, pueden contagiarse, pueden enfermedad, pueden tener enfermedad grave y esto es la prioridad.
 Por eso hacemos estas medidas de mitigación, estas medidas de la Jornada de Sana Distancia que son extraordinariamente intensas en términos del efecto positivo que tienen sobre reducir la tasa de contagios; pero como muchas medidas en salud, en salud individual, en medicina, pero también en salud pública puede haber efectos secundarios, efectos adversos, efectos negativos.
@@ -161,6 +206,7 @@ No sería extraño, ojalá que no sea el caso, que necesitáramos extenderlas, E
 Por favor, usted colega de amarillo y usted, que nunca ha participado.
 ---
 PREGUNTA
+Gracias, doctor, buenas noches. Nuevamente me presento, Saturnino Reyes, de Radio Locutor.
 Son dos preguntitas muy sencillas. La primera, esto que acaba usted de mencionar de quédate en casa, en el país, ¿realmente qué porcentaje de la población le está haciendo caso?
 Y sí me gustaría que volviera a dirigirse a la nación porque, si ya estamos en la fase 3, como se declaró hoy en la mañana, ¿por qué hay ese temor de que se pueden saturar los hospitales si realmente la gente no está saliendo de su casa, si solamente es un porcentaje mínimo el que tiene que salir a trabajar por la necesidad económica?, aunque todo el país tiene la necesidad económica, pero solamente un porcentaje, no se puede paralizar esto.
 Y la siguiente pregunta es: hay un dicho aquí en México, que ‘ahogado el niño, se quiere tapar el pozo’. ¿Por qué hasta ahorita salió esta aplicación?, que puede ser muy buena para mucha gente, para todos los mexicanos.
@@ -168,6 +214,7 @@ Y la siguiente pregunta es: hay un dicho aquí en México, que ‘ahogado el ni�
 Y, por último, se ha hablado de la ocupación hospitalaria y todo, pero sí me gustaría y a lo mejor ustedes deben de tener ese listado ¿de qué hospitales son los que están con enfermos del COVID-19 a nivel nacional?, o sea una lista de hospitales, no tanto la ocupación hospitalaria.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Con mucho gusto. Le contesto las tres.
 Empiezo por la tercera, la lista es relativamente fija y son los hospitales COVID, así los hemos designado. Cada institución nacional de salud, pero también cada una de las 32 entidades federativas seleccionó cuáles iban a ser sus hospitales COVID y son hospitales que se dedican a eso. Es conveniente que sean diferentes a los hospitales no COVID que se dediquen a atender todo lo demás, por razones de disminución del riesgo de contaminación cruzada o contagios.
 La lista la vamos a hacer pública indiscutiblemente, tiene que ver con la reconversión hospitalaria.
 La segunda pregunta y la primera pregunta interesantemente están relacionadas, y le agradezco que las haya hecho juntas, porque el fenómeno, su segunda pregunta es: ¿por qué en este momento presentamos una aplicación donde Susana Distancia asesora sobre cuáles son las características clínicas y las condiciones de riesgo y dónde podría ponerse el énfasis de prevención?
@@ -191,3 +238,9 @@ Y la lógica de esto es primero el respeto desde luego a la ley, pero también a
 Pongo un ejemplo. No me extrañaría que la Ciudad de México, ahorita que vimos que hubo un regreso de la movilidad, la doctora Sheinbaum tome disposiciones adicionales para reforzar el cumplimiento de las medidas generales, no me extrañaría que eso pase; y hará lo correcto, lo voy a celebrar por supuesto la proactividad de la jefa de gobierno, otros gobernadores lo harán, qué bueno y no hay más límite que tener el mínimo de las intervenciones generales y obviamente el respeto de las garantías constitucionales.
 Creo que con esto terminamos, es la última oportunidad.
 Mañana empezamos con usted, que ya le debo tres, y todos los que se puedan.
+---
+PREGUNTA
+Sobre el documento que está circulando de los lineamientos para el control de cadáveres masivos de habla de fosas
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Mañana hablamos de él, hoy se publicó, mañana hablamos de él. Gracias.

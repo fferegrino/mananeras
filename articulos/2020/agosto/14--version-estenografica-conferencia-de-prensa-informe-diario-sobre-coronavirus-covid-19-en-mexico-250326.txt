@@ -3,6 +3,7 @@ Presidencia de la República
 14 de agosto de 2020
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ, SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
+Son las 19:00 del viernes 14 de agosto de 2020. Estamos en el Palacio Nacional de México, en la Ciudad de México y vamos a iniciar la conferencia de prensa diaria sobre COVID-19, la pandemia causada por el coronavirus SARS-CoV-2.
 Hoy vamos a tener tres bloques en la presentación:
 El primero va a ser el informe técnico que presentará el doctor José Luis Alomía.
 Después, yo presentaré un elemento específico sobre cómo se han presentado las curvas epidémicas para una pronta referencia respecto a la velocidad con la que crecen las curvas epidémicas y lo que significa nuevamente este concepto de aplanar la curva.
@@ -11,6 +12,7 @@ Enseguida, el doctor Ricardo Cortés nos comentará sobre el semáforo, que hoy 
 Doctor Alomía, por favor.
 ---
 JOSÉ LUIS ALOMÍA ZEGARRA, DIRECTOR GENERAL EPIDEMIOLOGÍA
+Claro que sí, con mucho gusto, señor subsecretario.
 Muy buenas tardes todas y todos.
 Vamos a actualizar el día de hoy el escenario nacional. Más de un millón 156 mil las personas estudiadas, que fueron los casos sospechosos de COVID-19 en su momento. En las barras de color morado están representadas el 48 por ciento de este millón 156 mil 852, que corresponde precisamente a las que ya tienen un resultado negativo hasta el momento; en las barras de color café claro, que están hasta abajo el 42 por ciento de este grupo que dio también positivo al virus SARS-CoV-2 y por lo tanto son los casos confirmados de COVID-19.
 En las barras de color naranja claro el ocho por ciento restante que aún se encuentra pendiente de un resultado, pero en los cuales, si les aplicamos el porcentaje de positivad, que por ejemplo para la última semana es del 47 por ciento, y este ha venido disminuyendo en las últimas semanas de manera congruente con la reducción del total de personas estudiadas hasta el momento, obtenemos nuestra curva de casos estimados, que es precisamente la siguiente diapositiva, la curva de color azul claro.
@@ -22,6 +24,7 @@ Veamos la siguiente diapositiva, que son las camas con ventilador para pacientes
 Serían los números actualizados para esta noche.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias, doctor Alomía.
 Vamos ahora a comentar un poco sobre este tema y actualizar alguna información vigente sobre lo que está pasando en un par de países del mundo que puede ser ilustrativo de los riesgos que vamos a enfrentar todos los países conformen procede el desconfinamiento. Si me pasan la siguiente, por favor.
 Vamos a explicar cuál es el ejercicio que hicimos aquí para ilustrar este concepto. Esta es la curva epidémica real de datos oficiales comunicados por España, y de acuerdo al informe que le presentan los países o que le presentamos los países a la Organización Mundial de la Salud.
 Como se puede ver, esta curva epidémica, igual que todas, es una ocurrencia en el tiempo que está representado por el eje horizontal de lo que ocurre en un fenómeno. En este caso concreto observen que son casos por millón de habitantes, es decir, es la incidencia caso de COVID, está por millón de habitantes y lo que veremos enseguida todo está por millón de habitantes. Esta es la comparación apropiada de lo que ocurre entre países.
@@ -82,6 +85,7 @@ Un recordatorio sobre datos abiertos. En general es muy positivo cuando la socie
 El propósito es: cualquiera que quiera analizar la información que tiene el gobierno de México que lo haga. La información es un bien público, es producto del trabajo que hacen cientos o miles de personas en el Sistema Nacional de Salud en todos los rincones del país y es propiedad de la nación, no de las personas funcionarias que somos responsables de cuidarla, la devolvemos a la nación o incluso a la comunidad mundial y quien quiera y tenga las capacidades y el deseo de hacerlo, que la analice y encuentre qué información útil se puede generar, qué conocimiento útil se puede generar para entender el fenómeno epidémico.
 ---
 RICARDO CORTÉS ALCALÁ, DIRECTOR GENERAL DE PROMOCIÓN DE LA SALUD
+Muchas gracias, doctor López-Gatell.
 Vamos a presentar este sitio que ya todo mundo conoce. Muy buenas tardes tengan todos y todas aquí en Palacio y en sus hogares.
 El sitio es coronavirus.gob.mx. En la página principal hay una primera menú, hay un primer menú en donde dice -a la izquierda hasta arriba de la página- ‘datos’, ahí si uno da click sobre ese menú se despliegan dos submenús, uno de ellos nos trae a este sitio que es el de datos abiertos, un tablero de control específico en el que nos apoyó el Conacyt a través de sus diferentes instituciones públicas para diseñar este tablero de control.
 Cuando uno da click en ‘descargas’, ahí aparecen los datos abiertos, la descarga de la base de datos más actualizada, la del momento en que en esa fecha está disponible y un diccionario de variables
@@ -116,15 +120,18 @@ Entre otros estaría la fiebre persistente, la cianosis cuando labios o cuando n
 Muchísimas gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muy bien. Gracias, doctor Alomía, doctor Ricardo Cortés.
 Tenemos tiempo, vamos a abrir a preguntas y respuestas. Vamos a empezar con Carlos, Juan Carlos Machorro, Daniel Blancas y nos vamos para adelante, por favor.
 ---
 PREGUNTA
+Buenas noches, doctor; buenas noches doctores.
 Ahorita que sacaba el semáforo que inicia el próximo lunes, yo quisiera hacer una pregunta de una nota que viene saliendo y con hoy mayor importancia. El INE acordó programar elecciones en el estado de Hidalgo, el 18 de octubre; hubo alguna controversia y el día de hoy el Tribunal Electoral ratifica que es posible eso, incluso dentro de la ratificación habla de que no es necesario que le pregunten a las autoridades de salud esta parte.
 Estoy viendo que continúa el estado de Hidalgo en color rojo. ¿De qué manera se va a poder hacer esto?, sobre todo porque no es nada más el día de la elección hasta el 18 de octubre, previo a esto tiene haber campañas, tiene que haber eventos masivos, tiene que haber reuniones, tiene que haber una serie de cosas que no van a permitir exactamente la sana distancia, a menos de que sea todo por televisión, ¿verdad?
 ¿Qué respuesta podría haber o qué recomendación de parte de las autoridades de salud?
 Gracias doctor.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Cómo no. Gracias por hacer esta pregunta, Carlos. Es importante que la población que vive en Hidalgo, las personas que viven en Hidalgo y las personas que viven en Coahuila tengan presente esta situación, porque efectivamente van a ocurrir elecciones.
 El periodo electoral tiene sus tiempos establecidos por ley y estos tiempos incluyen la parte de las campañas políticas y después la parte de la emisión del sufragio, el salir a las casillas a depositar el voto. El INE a través de su presidente Lorenzo Córdova ha estado en contacto con la Secretaría de Salud, hubo conversaciones con el doctor Alcocer, nuestro secretario de Salud, y me parece a mí que de una manera muy cuidada, muy con ánimo responsable, el Consejo General del INE y también su presidente tomaron en cuenta el riesgo epidémico.
 Constituyeron un consejo o comité. No es consejo, es un comité asesor científico para el tema de salud, participan en él algunas servidoras y servidores públicos, gente que conocemos bien, gente muy destacada que trabaja en los Institutos Nacionales de Salud y conoce del tema, y han estado asesorando al INE, al Consejo General del Instituto Nacional Electoral sobre qué previsiones habría que tener para disminuir el riesgo de que las personas se contagien durante el periodo electoral.
 Agradecemos a amabilidad del INE de habernos hecho de conocimiento cuáles son los protocolos que recomendó este comité científico y que adoptó el Consejo General del INE, nos percatamos que era una previsión muy bien cuidada y les respondimos que nos parecía muy adecuada.
@@ -135,11 +142,16 @@ Y también lo comentamos, incluso con el presidente López Obrador, y él ratifi
 Y lo único que nos pidió el presidente es: nos preguntó si teníamos, cuál era nuestra apreciación respecto al riesgo; le comentamos todo esto, que nuestro juicio es que el INE había hecho un muy buen trabajo de preparación y estaba en un lado seguro respecto a la organización de las elecciones.
 Entonces, las disposiciones no me toda a mí mencionarlas por supuesto, no le toca al gobierno federal comentarlas, las específicas sobre cómo sería la organización de las elecciones, pero conocemos que han tomado previsiones de modalidades diversas para que este riesgo sea menor, incluyendo el periodo de las campañas, dejemos que el INE en su momento lo haga público, pero ratifico la impresión que tiene el gobierno, en este caso desde el propio presidente, el secretario de Salud, de que se cuidaron bien los aspectos de salud.
 ---
+INTERLOCUTOR
+(Inaudible).
+---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Sí, aunque en este momento estén en rojo, en el momento en que se vayan presentando ya físicamente los eventos propios de las campañas, la previsión es que el riesgo ya será menor.
 Entonces, si en este momento usted vive en Hidalgo le preocupara ver su estado en rojo, Coahuila también en este momento, aunque creo que ya salió en naranja, vamos a corroborarlo, pero en el momento en que ya tengan concreción, se verifiquen las actividades públicas relativas a las campañas, es muy probable que ya tendremos un riesgo sustantivamente menor y es donde se acoplan las previsiones o las disposiciones respecto a la seguridad sanitaria de la Secretaría de Salud con las que en su momento son específicas del proceso electoral y que están a cargo del INE. Gracias, Carlos.
 Juan Carlos Machorro.
 ---
 PREGUNTA
+Buenas noches. Juan Carlos Machorro, AM, de Querétaro.
 Doctor, desde su punto de vista ¿qué es lo que está haciendo bien Campeche para ser el primero en amarillo?, ¿y visualiza usted -ahora sí que un poco ‘futureando’- qué otras entidades sí se pueden ‘futurear’ también, podrían estas más cerca de ese color? y esperemos que no los que están en naranja pasen a rojo.
 Y si me permite rapidísimo una segunda pregunta. Tanto la directora del Hospital General cuando vino aquí alabó mucho la responsabilidad de ciudadanos que han ido de forma altruista a dar donaciones y a agradecer el papel del personal médico.
 Usted habló sobre una donación del gobierno estadounidense para el sector Salud; conocemos casos de empresas, una de electrónica, marca mexicana que ha donado, creo cinco mil o 10 mil caretas al sector médico.
@@ -147,6 +159,7 @@ Este tipo de acciones ¿cómo las visualiza usted como parte de la responsabilid
 Gracias.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Gracias, muchas gracias.
 Respecto a la primera pregunta, para nosotros no tiene lugar el ‘futurear’, tenemos predicciones que se basan en métodos de proyección matemática, los hemos presentado aquí en algunas otras ocasiones.
 Aprovecho para agradecerles, periódicamente lo hacemos, pero vale la pena volverlo a hacer, en primer lugar al Consejo Nacional de Ciencia y Tecnología; a su directora, la doctora María Elena Álvarez Buylla Roses por el extraordinario trabajo que hacen y por la contribución fundamental que han tenido para esta epidemia, no solamente en este caso específico que estoy comentando, al organizar la colaboración de instituciones públicas, centros públicos de investigación que están sectorizados a Conacyt o afiliados a Conacyt.
 También las universidades, concretamente la Universidad Nacional Autónoma de México y su Instituto de Matemáticas, agradezco también a nombre de todo el equipo a las personas especialistas en matemáticas que nos han estado acompañando todos los días.
@@ -168,6 +181,7 @@ Eso es lo que puedo comentar. Muchas gracias, Juan Carlos Machorro.
 Daniel Blancas y Dulce Soto.
 ---
 PREGUNTA
+Muchas gracias. Buenas noches.
 Le quiero compartir dos investigaciones, una tiene que ver con las pruebas rápidas, no moleculares, sino rápidas. Es un hallazgo que compartimos desde el primer momento con Cofepris que sorprende que no se haya… o haya habido acciones de Cofepris respecto a esto, pero bueno, lo dejo en tintero.
 Yo en un trabajo de campo me fue ofrecida entrar a una especie de tanda para obtener pruebas rápidas, se me pidió que juntara 25 personas para que me… porque digamos, la caja de pruebas rápidas venía con 25 productos y ese fue el hilo que me fue llevando a otros hallazgos.
 Pude hablar con distribuidores, con intermediarios, fui jalando el hilo y llegué hasta contactos en la aduana que ofrecían pruebas rápidas.
@@ -176,6 +190,7 @@ Mi pregunta, subsecretario, es ¿cómo se está combatiendo el contrabando o tr�
 Y una segunda pregunta que tiene que ver con esto, ¿cómo se fortalecerá a Cofepris para que haga su trabajo?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Es un elemento muy importante, cuando se vive una emergencia hay tiempos de confusión, hay tiempos de ansiedad y una de las actitudes humanas, esto está descrito en distintos textos que tienen que ver con la preparación y respuesta ante emergencias de salud, obviamente puede ocurrir en otro tipo de circunstancias, hay una tendencia al individualismo, es una de las tendencias que pueda haber en las personas, que ante la incertidumbre, ante el temor, se enclaustren en sí mismas o en sus cercanos.
 Por supuesto también puede haber y lo hay, y es un motivo de enorme satisfacción, es nuestra apreciación, que es la conducta mayoritaria, solidaridad, solidaridad y nos volcamos a ayudar a otras personas en la manera en que podemos, quedándonos en casa, usando nuestro cubrebocas, buscando asistir a alguien que tiene necesidad.
 Digo esto porque con lo que nos relata -y le felicito por la investigación- desde luego es reprobable en todos los sentidos que exista una actividad de contrabando, pero cuando este contrabando involucra un bien para la salud, un producto, puede hacer daño, porque eventualmente no existe con un instrumento potencialmente diagnóstico como las pruebas rápidas, no existe la capacidad de identificar si tienen o no la calidad necesaria. Entonces, es un problema.
 La pregunta directa de ¿qué se puede hacer o qué se está haciendo?, le diría: la maestra Raquel Buenrostro, quien es la titular del Sistema de Administración Tributaria, y Horacio Duarte, quien es el director general de Aduanas, están haciendo un trabajo titánico, titánico, y les mando mi agradecimiento como mexicano, por el trabajo que están haciendo de justamente limpiar un espacio fundamental para el gobierno mexicano, como lo es para cualquier otro gobierno, que es la capacidad de en las aduanas controlar que no haya un mecanismo de contrabando.
@@ -188,17 +203,33 @@ Por ahí supimos, porque lo promocionaron ellos mismos, de una línea aérea que
 Entonces, Cofepris las autorizó, las puede usar alguna entidad privada que las quiera comprar, la Secretaría de Salud no recomienda el uso de pruebas rápidas, las que están autorizadas tienen una baja capacidad de distinguir correctamente quién tiene la enfermedad… perdón, quién tiene inmunidad, versus quién no tiene, y la interpretación de los anticuerpos es historia de infección, no es infección presente. Esa es la situación con las pruebas rápidas.
 ---
 INTERLOCUTOR
+(Inaudible) hizo alusión a otros productos que, digamos, no es el único las pruebas rápidas, entonces, yo lo comento porque es el único, las pruebas rápidas.
 Entonces yo lo comento, porque es el único que documenté y que tengo las pruebas, los testimonios, pero ¿ustedes conocen que hay otros productos relacionados con COVID que están siendo contrabandeados?
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+No, no me lo tome como un informe específico.
 Yo digo que por la fama pública muy desafortunada del sistema de aduanas en sexenios previos y conociendo el trabajo titánico que está haciendo el SAT y la Dirección de Aduanas hoy por cambiar viejísimas prácticas puedo asumir que hay otros productos, no estoy diciendo específicamente que yo conozca producto uno, dos y tres ni que estos estén relacionados con el tema de salud.
 ---
 INTERLOCUTOR
+Y la otra, si usted está diciendo, nos comenta, nos comparte que tienen baja incidencia, que realmente son productos que no están ayudando, ¿no sería mejor que se quitaran del mercado o que Cofepris no participara en estas autorizaciones?
 Porque le comento una situación. Usted sabe que en varias entidades se está… para que las empresas vuelvan a operación económica, operación financiera, se les está pidiendo que hagan pruebas a sus trabajadores ¿y qué está pasando?, que estas pruebas rápidas están siendo el mercado de esas empresas que en un tris quieren hacer estos estudios.
 ---
 HUGO LÓPEZ-GATELL RAMÍREZ
+Es correcto, gracias y lástima que nos queda ya muy poquito tiempo, porque este es un tema que interesa, pero lo vamos a retomar y gracias por ponerlo, pero quiero dejarlo asentado en este momento.
 Esta idea de que hacer pruebas, particularmente las pruebas rápidas, que si fueran de suficiente capacidad distinguirían correctamente quién tuvo a respecto a quién no tuvo infección y se han querido interpretar erróneamente como una garantía de inmunidad, de protección biológica.
 Se ha utilizado la expresión ‘pasaporte inmunitario’ o ‘pasaporte biológico’ o ‘pasaporte sanitario’, refiriéndose a la idea de que yo me hago la prueba o ya me salió positiva, ya tuve infección por SARS-CoV-2, ya no voy a tener. Esto es un error, es un error conceptual.
 La Organización Mundial de la Salud desde el 24 de abril alertó sobre este fenómeno y periódicamente revisa la evidencia y sigue diciendo que su posición hasta el momento es que una interpretación errónea de las pruebas de anticuerpos, con mayor razón las que son rápidas por su baja sensibilidad y especificidad que son los parámetros técnicos que permiten distinguir correctamente quién tuvo versus quién no tuvo infección.
 Entonces sí dejo asentado ahorita agradeciendo la pregunta, pero me va a interesar que lo retomemos. Es un error de interpretación la idea de: ‘Yo puedo garantizar que ya tuve si tengo una prueba de anticuerpos y esto permite decir no voy a volver a tener’.
 Su uso en las empresas no es conveniente porque podrían inducir un riesgo por el hecho de suponer que las personas que tengan pruebas positivas ya no van a tener infección. No debe usarse así, es la postura de la Secretaría de Salud.
+---
+INTERLOCUTOR
+O se usan nada más para cumplir el requisito, pero, por otro lado, se está alimentando un negocio que tiene muchas anomalías.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Puede haber otras motivaciones.
+---
+INTERLOCUTOR
+Muchas gracias.
+---
+HUGO LÓPEZ-GATELL RAMÍREZ
+Muchas gracias. Son las 20:04. Gracias por los tres minutos extras, aquí nos despedimos y nos vemos mañana sábado con temas de interés público. Gracias.
