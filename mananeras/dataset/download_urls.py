@@ -62,7 +62,7 @@ def download_urls(url_list, page):
     while not stop_crawling:
         results = query(page)
         if not results:
-            print("No more urls, no need to crawl anymore")
+            print("No more urls, no need to dataset anymore")
             break
 
         if page % 10 == 0:
@@ -70,7 +70,7 @@ def download_urls(url_list, page):
 
         for link in get_anchors(results):
             if link == last_fetched:
-                print("Found a previously crawled page, no need to crawl anymore")
+                print("Found a previously crawled page, no need to dataset anymore")
                 stop_crawling = True
                 break
             new_urls.append(link)

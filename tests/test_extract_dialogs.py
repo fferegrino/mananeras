@@ -1,11 +1,10 @@
-from urllib.request import urlretrieve
 from pathlib import Path
 
 import pytest
 from _pytest.config import Config
 from bs4 import BeautifulSoup
 
-from utils.extract_dialogs import parse_document, _parse_ps
+from mananeras.crawl.extract_dialogs import parse_document, _parse_ps
 
 
 @pytest.fixture
