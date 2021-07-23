@@ -4,38 +4,27 @@ import logging
 import click
 
 from mananeras.dataset.download_articles import download_articles
-from mananeras.dataset.download_urls import download_urls
+from mananeras.dataset.download_urls import get_new_urls
 from mananeras.dataset.extract_dialogs import extract
 
 
-def setup_logger(log_file):
+def setup_logger():
     logger = logging.getLogger("mananeras")
-
-    # Create handlers
-    f_handler = logging.FileHandler(log_file)
     logger.setLevel(logging.INFO)
-
-    f_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    f_handler.setFormatter(f_format)
-
-    # Add handlers to the logger
-    logger.addHandler(f_handler)
-
     return logger 
 
 @click.command()
-@click.argument("log_file", type=click.Path(dir_okay=False))
-def main(log_file):
-    logger = setup_logger(log_file)
+def main():
+    logger = setup_logger()
 
     logger.info("downloading urls")
-    download_urls("urls.txt", 1)
+    new_urls = get_new_urls("urls.txt", 1)
     logger.info("downloading articles")
-    download_articles("urls.txt", "raw")
+    download_articles(new_urls, "raw")
     logger.info("processing articles")
     extract("raw", "articulos")
     logger.info("compressing articles")
-    shutil.make_archive('data/articulos', 'zip', "../articulos")
+    shutil.make_archive('data/articulos', 'zip', "./articulos")
     logger.info("creating new dataset version")
     api.dataset_create_version("data", "Daily dataset update", dir_mode="zip", quiet=False)
 

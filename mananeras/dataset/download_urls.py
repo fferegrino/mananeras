@@ -1,3 +1,4 @@
+from typing import List
 
 import requests
 from bs4 import BeautifulSoup
@@ -39,7 +40,7 @@ def get_anchors(documents):
         anchors.extend([clean_url(a["href"]) for a in doc.find_all("a")])
     return anchors
 
-def download_urls(url_list, page):
+def get_new_urls(url_list, page) -> List[str]:
     page = page or 1
     url_list = Path(url_list)
     url_list.parent.mkdir(exist_ok=True, parents=True)
@@ -81,3 +82,5 @@ def download_urls(url_list, page):
     with open(url_list, "w") as writable:
         for url in all_urls:
             writable.write(url + "\n")
+
+    return new_urls
