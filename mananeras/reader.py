@@ -11,6 +11,10 @@ def lee_mananera(path: Union[Path, str]) -> Mananera:
         title = next(readable).strip()
         author = next(readable).strip()
         date = next(readable).strip()
+        try:
+            next(readable)
+        except:
+            pass
 
         participaciones: List[Participacion] = []
         speaker: str = None

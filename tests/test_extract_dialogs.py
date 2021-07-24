@@ -29,9 +29,10 @@ def test_2021(sample_docs_path: Path):
     file = sample_docs_path / "conferencia-28-de-junio-de-2021.html"
     all_dialogs, author, date, date_info, title = parse_document(file)
 
-    assert (
-        title
-        == "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 28 de junio de 2021"
+    assert title == (
+        "Versión estenográfica. "
+        "Conferencia de prensa del presidente "
+        "Andrés Manuel López Obrador del 28 de junio de 2021"
     )
     assert date_info == {"day": "28", "month": "junio", "year": "2021"}
     assert author == "Presidencia de la República"

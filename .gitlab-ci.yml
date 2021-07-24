@@ -2,6 +2,19 @@ image: python:3.9
 
 stages:
   - create-datasset
+  - test
+
+test:
+  stage: test
+  variables:
+    LC_ALL: C.UTF-8
+    LANG: C.UTF-8
+
+  script:
+    - pip install poetry
+    - poetry config virtualenvs.create false --local
+    - poetry install
+    - pytest test/
 
 crawl:
 
@@ -19,8 +32,9 @@ crawl:
       LANG: C.UTF-8
 
   script:
-    - pip install pipenv
-    - pipenv install --dev --system
+    - pip install poetry
+    - poetry config virtualenvs.create false --local
+    - poetry install
     - KAGGLE_KEY=$KAGGLE_KEY KAGGLE_USERNAME=ioexception python -m mananeras
     - git add articulos/
     - git add urls.txt

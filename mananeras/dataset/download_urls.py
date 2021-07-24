@@ -7,7 +7,12 @@ from bs4 import BeautifulSoup
 base_url = "https://www.gob.mx"
 articles_url = base_url + "/presidencia/es/archivo/articulos?page="
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; "
+        "Intel Mac OS X 10_10_1) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/39.0.2171.95 Safari/537.36"
+    )
 }
 raw_path = Path("raw")
 raw_path.mkdir(exist_ok=True, parents=True)

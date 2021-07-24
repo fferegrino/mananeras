@@ -1,23 +1,13 @@
-init:
-	pipenv install --dev
-
-patch:
-	pipenv run bumpversion patch --verbose
-
-minor:
-	pipenv run bumpversion minor --verbose
-
-major:
-	pipenv run bumpversion major --verbose
+TOOL_RUN=poetry run
 
 style:
-	pipenv run black .
-	pipenv run isort .
+	$(TOOL_RUN) black .
+	$(TOOL_RUN) isort .
 
 lint:
-	pipenv run pflake8 .
-	pipenv run isort . --check-only
-	pipenv run black . --check
+	$(TOOL_RUN) pflake8 .
+	$(TOOL_RUN) isort . --check-only
+	$(TOOL_RUN) black . --check
 
 test:
-	pipenv run pytest -vv --cov-report term:skip-covered --cov=. tests/unit/api
+	$(TOOL_RUN) pytest -vv tests/
