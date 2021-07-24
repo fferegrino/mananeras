@@ -1,0 +1,33 @@
+[tool.black]
+line-length = 120
+exclude = '''
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+  )/
+)
+'''
+
+[tool.flake8]
+max-line-length = 120
+per-file-ignores = [
+]
+exclude = [
+]
+
+[tool.isort]
+skip_glob = [
+]
+
+# Structure
+default_section = "THIRDPARTY"
+known_first_party = "mananeras"
+
+# Import Style
+line_length = 88
+force_grid_wrap = false
+use_parentheses = true
+include_trailing_comma = true
+combine_as_imports = true
+multi_line_output = 3

@@ -4,6 +4,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+black = "==20.8b1"
+bump2version = "*"
+flake8 = "*"
+isort = "*"
+pyproject-flake8 = "==0.0.1a2"
 
 [packages]
 beautifulsoup4 = "*"
