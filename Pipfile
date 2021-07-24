@@ -12,6 +12,7 @@ html5lib = "*"
 lxml = "*"
 kaggle = "*"
 click = "*"
+dateparser = "*"
 
 [requires]
 python_version = "3.9"

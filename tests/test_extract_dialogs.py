@@ -1,15 +1,9 @@
 from pathlib import Path
 
-import pytest
-from _pytest.config import Config
 from bs4 import BeautifulSoup
 
-from mananeras.crawl.extract_dialogs import parse_document, _parse_ps
+from mananeras.dataset.extract_dialogs import parse_document, _parse_ps
 
-
-@pytest.fixture
-def sample_docs_path(pytestconfig: Config) -> Path:
-    return Path(pytestconfig.rootdir / "tests"/ "sample_docs")
 
 def test_2019(sample_docs_path: Path):
     # https://www.gob.mx/presidencia/es/articulos/version-estenografica-de-la-conferencia-de-prensa-matutina-miercoles-11-de-septiembre-2019
@@ -52,7 +46,7 @@ def test_parse_ps():
     p_content = "<p>Iniciamos esta mesa con el mensaje a cargo&nbsp;" \
                 "del gobernador constitucional del estado de Tabasco, licenciado Ad&aacute;n Augusto " \
                 "L&oacute;pez Hern&aacute;ndez.</p>"
-    soup= BeautifulSoup(p_content)
+    soup= BeautifulSoup(p_content, "lxml")
     _,dialog = _parse_ps(soup.find("p"))
 
     assert dialog == "Iniciamos esta mesa con el mensaje a cargo " \
