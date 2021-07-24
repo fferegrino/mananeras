@@ -14,7 +14,7 @@ test:
     - pip install poetry
     - poetry config virtualenvs.create false --local
     - poetry install
-    - pytest test/
+    - pytest tests/
 
 crawl:
 
