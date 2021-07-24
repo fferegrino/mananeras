@@ -1,5 +1,5 @@
 from pathlib import Path
-from typing import Union, List, Iterator
+from typing import Iterator, List, Union
 
 from mananeras.entities import Mananera, Participacion
 
@@ -13,10 +13,10 @@ def lee_mananera(path: Union[Path, str]) -> Mananera:
         date = next(readable).strip()
 
         participaciones: List[Participacion] = []
-        speaker:str = None
+        speaker: str = None
         dialogs: List[str] = []
         for line in readable:
-            if line.strip() == '---' and speaker is not None:
+            if line.strip() == "---" and speaker is not None:
                 participaciones.append(Participacion(speaker, dialogs))
                 speaker = None
                 dialogs = []
@@ -28,6 +28,7 @@ def lee_mananera(path: Union[Path, str]) -> Mananera:
             participaciones.append(Participacion(speaker, dialogs))
 
     return Mananera(titulo=title, autor=author, date_string=date, participaciones=participaciones)
+
 
 def todas(path: Union[Path, str] = "articulos") -> Iterator[Mananera]:
     path = Path(path)
@@ -41,4 +42,3 @@ def todas(path: Union[Path, str] = "articulos") -> Iterator[Mananera]:
 def lee_todas(path: Union[Path, str] = "articulos") -> List[Mananera]:
     mananeras = [conf for conf in todas(path)]
     return mananeras
-

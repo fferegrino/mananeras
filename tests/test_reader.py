@@ -8,7 +8,7 @@ def test_read_mananera(sample_docs_path: Path):
 
     mananera = lee_mananera(sample_docs_path / "ejemplo.txt")
 
-    assert mananera.fecha == date(2019,8, 2)
+    assert mananera.fecha == date(2019, 8, 2)
     assert mananera.titulo == "Versión estenográfica. Diálogo con la Comunidad del Hospital Rural de Metepec, Hidalgo"
 
     assert len(mananera.participaciones) == 3

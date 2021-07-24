@@ -1,14 +1,13 @@
+from pathlib import Path
 from typing import List
 
 import requests
 from bs4 import BeautifulSoup
-from pathlib import Path
-
 
 base_url = "https://www.gob.mx"
 articles_url = base_url + "/presidencia/es/archivo/articulos?page="
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
 }
 raw_path = Path("raw")
 raw_path.mkdir(exist_ok=True, parents=True)
@@ -17,10 +16,10 @@ raw_path.mkdir(exist_ok=True, parents=True)
 def query(page_to_query):
     response = requests.get(articles_url + str(page_to_query), headers=headers)
     data = [
-        BeautifulSoup(
-            d.strip()[21:-2].replace('\\\"', "\"").replace(r'\/', "/").replace('\\n', "")
-            , "html5lib")
-        for d in response.text.split('\n') if d.strip()[4:10] == 'prensa']
+        BeautifulSoup(d.strip()[21:-2].replace('\\"', '"').replace(r"\/", "/").replace("\\n", ""), "html5lib")
+        for d in response.text.split("\n")
+        if d.strip()[4:10] == "prensa"
+    ]
 
     return data
 
@@ -39,6 +38,7 @@ def get_anchors(documents):
     for doc in documents:
         anchors.extend([clean_url(a["href"]) for a in doc.find_all("a")])
     return anchors
+
 
 def get_new_urls(url_list, page) -> List[str]:
     page = page or 1

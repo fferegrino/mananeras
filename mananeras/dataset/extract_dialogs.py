@@ -1,10 +1,11 @@
-from pathlib import Path
 import re
+from pathlib import Path
 from typing import Tuple
 
 from bs4 import BeautifulSoup, Tag
 
 date_format = re.compile(r"(?P<day>[0-9]{2}) de (?P<month>[a-z]+) de (?P<year>[0-9]{4})")
+
 
 def extract(raw_input, processed_output_path):
     raw_input = Path(raw_input)
@@ -17,7 +18,9 @@ def extract(raw_input, processed_output_path):
 
         all_dialogs, author, date, date_info, title = parse_document(html_file)
 
-        output_file = processed_output_path / date_info["year"] / date_info["month"] / f"{date_info['day']}--{html_file.stem}.txt"
+        output_file = (
+            processed_output_path / date_info["year"] / date_info["month"] / f"{date_info['day']}--{html_file.stem}.txt"
+        )
         output_file.parent.mkdir(exist_ok=True, parents=True)
         with open(output_file, "w") as writable:
             writable.write(title + "\n")
@@ -29,9 +32,11 @@ def extract(raw_input, processed_output_path):
                 for line in lines:
                     writable.write(line + "\n")
 
+
 def _c(txt: str) -> str:
     """Clean a string removing whitespace"""
-    return txt.replace("\xa0", " ").replace('\xc2', ' ').strip()
+    return txt.replace("\xa0", " ").replace("\xc2", " ").strip()
+
 
 def _parse_ps(ps: Tag) -> Tuple[str, str]:
     raw_speaker, _, raw_dialog = ps.text.partition(":")
@@ -40,10 +45,9 @@ def _parse_ps(ps: Tag) -> Tuple[str, str]:
     if raw_speaker.isupper():
         speaker = _c(raw_speaker)
         dialog = _c(raw_dialog or "")
-    if all((character == '-' for character in dialog)):
+    if all((character == "-" for character in dialog)):
         dialog = None
     return speaker, dialog
-
 
 
 def parse_document(file: Path):
