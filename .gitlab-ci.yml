@@ -25,7 +25,7 @@ crawl:
 
   before_script:
     - git config --global user.email "runner@gitlab.com"
-    - git config --global user.name "GitLab Runner"
+    - git config --global user.name "Antonio Feregrino"
 
   variables:
       LC_ALL: C.UTF-8
@@ -38,7 +38,6 @@ crawl:
     - KAGGLE_KEY=$KAGGLE_KEY KAGGLE_USERNAME=ioexception python -m mananeras
     - git add articulos/
     - git add urls.txt
-    - echo
     - git status
-    - git commit -m "Add new documents"
+    - git diff --quiet && git diff --staged --quiet || git commit -m 'Nuevos archivos'
     - git push http://fferegrino:${CI_ACCESS_TOKEN}@gitlab.com/thatcsharpguy/datasets/mananeras.git HEAD:main
