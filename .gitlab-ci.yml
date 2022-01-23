@@ -5,8 +5,6 @@ stages:
   - create-datasset
 
 before_script:
-  - export LC_ALL=C.UTF-8
-  - export LANG=C.UTF-8
   - git config --global user.email "runner@gitlab.com"
   - git config --global user.name "Antonio Feregrino"
   - pip install poetry
