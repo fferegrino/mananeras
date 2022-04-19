@@ -1,7 +1,7 @@
 image: python:3.9
 
 stages:
-  - test
+#  - test
   - create-datasset
 
 before_script:
@@ -11,10 +11,10 @@ before_script:
   - poetry config virtualenvs.create false --local
   - poetry install
 
-test:
-  stage: test
-  script:
-    - pytest tests/
+#test:
+#  stage: test
+#  script:
+#    - pytest tests/
 
 crawl:
   rules:
