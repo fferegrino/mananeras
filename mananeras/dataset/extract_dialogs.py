@@ -54,9 +54,14 @@ def parse_document(file: Path):
     with open(file) as file:
         all_dialogs = []
         soup = BeautifulSoup(file.read(), "html5lib")
-        [article_content] = soup.find_all("div", {"class": "pull-left"})[1:-1]
+        divs = soup.find_all("div", {"class": "pull-left"})
+        if len(divs) == 2:
+            [article_content] = soup.find_all("div", {"class": "pull-left"})[:1]
+        elif len(divs) == 3:
+            [article_content] = soup.find_all("div", {"class": "pull-left"})[1:-1]
+
         title = soup.find("h1").text.strip()
-        author, date = [dd.text.strip() for dd in soup.find("section", {"class": "border-box"}).find_all("dd")]
+        author, date = [dd.strip() for dd in article_content.find("section").text.split('|')]
         all_ps = article_content.find_all("p")
         date_info = date_format.match(date).groupdict()
         current_speaker = None
