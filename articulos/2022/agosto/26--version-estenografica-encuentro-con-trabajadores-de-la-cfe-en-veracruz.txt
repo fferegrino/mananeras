@@ -1,0 +1,260 @@
+Versión estenográfica. Encuentro con trabajadores de la CFE en Veracruz
+Presidencia de la República
+26 de agosto de 2022
+---
+MODERADOR
+Preside este evento, Encuentro con trabajadores de la Comisión Federal de Electricidad en Veracruz, iluminando y conectando a México, Internet para Todos, el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andrés Manuel López Obrador.
+Lo acompañan:
+El gobernador constitucional del estado de Veracruz, Cuitláhuac García Jiménez.
+El director general de la Comisión Federal de Electricidad, Manuel Bartlett Díaz.
+El secretario de la Defensa Nacional, general Luis CresencioSandoval González.
+El coordinador de Estrategia Digital Nacional de la Presidencia de la República, Emiliano Calderón Mercado.
+El coordinador general de Programas para el Bienestar, Carlos Torres Rosas.
+El director general de Ingenieros de la Secretaría de la Defensa Nacional, general Salvador Fernando Cervantes Loza.
+El coordinador regional del Sindicato Único de Trabajadores Electricistas de la República Mexicana en la División Oriente, Servando Díaz Suárez.
+El director general de Altán Redes, Carlos Lerma Cotera.
+La jefa de la Oficina Divisional de Control y Comunicación de la División Oriente. María Fernanda Monterrosas González.
+El subsecretario de Hacienda y Crédito Público, Juan Pablo de Botton Falcón.
+El director general de CFE Telecomunicaciones e Internet para Todos, David Pantoja Meléndez.
+Asimismo, damos la bienvenida a los medios de comunicación y a quienes nos siguen a través de las redes sociales.
+Todas y todos ustedes sean bienvenidos.
+Escuchemos el mensaje de bienvenida a cargo del gobernador constitucional del estado de Veracruz, ingeniero Cuitláhuac García Jiménez.
+---
+CUITLÁHUAC GARCÍA JIMÉNEZ, GOBERNADOR DE VERACRUZ
+Buenas tardes. Bienvenidos, a todo el presídium, particularmente hoy, en el natalicio del general Ignacio de la Llave, de quien el nombre de nuestro estado tomamos su apellido,
+Le damos la cordial bienvenida, presidente. Como usted sabe, el general Ignacio de la Llave fue un liberal que defendió la nación de invasores: primero, de los norteamericanos; después, de los franceses. Procuró la patria, defendiéndola de las intenciones, por lo menos de decir, antidemocráticas del sector conservador que aplaudía los intereses extranjeros y de propio, incluso, dictadorzuelo Santa Anna, que era veracruzano también, que vendió parte del país.
+En las grandes transformaciones, las de fondo, las que hacen verdadera justicia al pueblo siempre habrá una reacción de quienes eran beneficiados por los regímenes que se derrumbaron y, por el otro lado, estarán quienes lucharon por el cambio verdadero para que el beneficio, usufructo de los recursos de la nación sean para el pueblo.
+De estos pasajes están llena la historia y en estas historias de transformación están llenas de veracruzanos que las protagonizaron.
+En Veracruz estamos haciendo nuestro esfuerzo por colaborar en las mismas políticas transformadoras que usted ha impulsado a lo largo de nuestro México, particularmente en el tema de la telecomunicación y la electrificación.
+Hemos acercado a nuestra gente de todos los rincones a las nuevas tecnologías de información, hemos atendido lugares recónditos y que no disponían de estos servicios en 138 municipios donde se encontraban; en nuestro caso, 103 centros de salud, nueve instituciones de gobierno y 45 ayuntamientos sin estos servicios.
+Ahora cuentan con telefonía celular al menos 20 puntos que estaban totalmente incomunicados, 50 localidades con radiocomunicación y 256 con internet a un costo muy bajo, si se considera la importancia de haber logrado comunicar regiones que padecían de la total marginación en telecomunicaciones.
+La inversión que dio estos beneficios fue de 65 millones de pesos y su alcance puede llegar a servir a cientos de miles de personas.
+Este sistema aquí en Veracruz lo recibimos con sólo dos torres con antenas, ahora supera 200 torres que miden entre los nueve y 45 metros de altura.
+En el tema de electrificación rural hemos disminuido al mínimo el rezago y estamos coordinándonos con la Comisión Federal de Electricidad para prácticamente abatirlo en este sexenio.
+Yo quiero hacer un gran reconocimiento hoy, que es todavía agosto, de aquel huracán que azotó hace un año, 21 de agosto del año pasado, agradecerles ahora que veo a los trabajadores que nos ayudaron a levantar las torres de electricidad, que en menos de ocho días ya estaban nuevamente operando gran parte de este recurso en la zona donde golpeó el huracán. Transmitan un agradecimiento a todos los trabajadores de la CFE que hoy están aquí, porque ellos también son parte de esta gran transformación. Muchísimas gracias.
+Extiendo, desde luego, mis felicitaciones y agradecimiento a los colegas ingenieros e ingenieras electricistas y a todos los trabajadores de la Comisión Federal de Electricidad.
+Presidente, siempre bienvenido a la tierra de las grandes transformaciones.
+Muchas gracias.
+---
+MODERADOR
+Pedimos la palabra al coordinador regional del Sindicato Único de Trabajadores Electricistas de la República Mexicana en la División Oriente, Servando días Suárez.
+---
+SERVANDO DÍAZ SUÁREZ, COORDINADOR REGIONAL DEL SINDICATO ÚNICO DE TRABAJADORES ELECTRICISTAS DE LA REPÚBLICA MEXICANA (SUTERM) DIVISIÓN ORIENTE
+Señor licenciado Andrés Manuel López Obrador, presidente constitucional de los Estados Unidos Mexicanos:
+Reciba usted el saludo cordial y afectivo de nuestro máximo líder, Víctor Fuentes del Villar, secretario general del Sindicato Único de Trabajadores Electricistas de la República Mexicana, que por mi conducto le expresa, deseándole el mayor de los éxitos en este encuentro con los trabajadores electricistas de Veracruz.
+Señor ingeniero Cuitláhuac García Jiménez, gobernador del estado de Veracruz.
+Señor licenciado Manuel Bartlett Díaz, director general de CFE.
+Honorable presídium.
+Compañeras y compañeros trabajadores:
+Los saludo con afecto y muy especialmente a los trabajadores de la Sección 53, Coatzacoalcos, por las facilidades que otorgaron al proporcionar sus instalaciones deportivas para la celebración de esta importante ceremonia.
+Señoras y señores:
+Durante ya más de 80 años los trabajadores electricistas han llevado a cabo la intensa labor de generar y distribuir energía de manera eficiente a todo el territorio nacional.
+Su arduo trabajo y compromiso desde aquellos años y hasta la fecha se han convertido, sin duda, en un pilar fundamental para el desarrollo y el crecimiento de nuestro país durante más de ocho décadas.
+En este transitar los trabajadores, técnicos, directivos de la CFE y el Suterm han construido y operado las más grandes e imponentes plantas hidroeléctricas, campos geotérmicos, centrales de ciclo combinado, una central nuclear, plantas eólicas y solares, y en forma paralela también se ha desarrollado una de las redes más poderosas a nivel mundial: la transmisión y distribución de energía, así como el importante desarrollo y aplicación de la fibra óptica.
+Y es precisamente este último aspecto, el de la innovación y las nuevas tecnologías, que hoy adquiere gran relevancia. El anuncio realizado hace unos días por usted, señor presidente Andrés Manuel López Obrador para lograr mediante un esfuerzo conjunto el poder realizar de forma oportuna una red de gran capacidad que cubra la necesidad de conectividad de internet y telefonía en todo el territorio nacional, lo que tendrá como resultado disminuir en forma importante la desigualdad tecnológica, así como atacar los problemas sociales y culturales presentes en comunidades desconectadas.
+Sin duda, estas acciones serán un parte de aguas dentro de la lucha por la igualdad y el beneficio de millones de mexicanos.
+Señor presidente:
+Los trabajadores electricistas de Comisión Federal de Electricidad y miembros del Suterm estamos hoy, como siempre, decididos a servir al pueblo de México. Respondemos a su llamado de manera eficiente y decidida. Pondremos todo nuestro esfuerzo, dedicación y conocimientos para contribuir con este importante servicio, con el compromiso para lograrlo en breve tiempo y llevar a cabo todas las tareas que aporten a la transformación, al crecimiento económico y al bienestar social de este gran país al que, con encendida pasión y entrega, usted dirige, señor presidente: México.
+Muchas gracias.
+---
+MODERADOR
+Procedemos ahora con la proyección del video CFE, iluminando y comunicando a la región oriente-
+---
+VOZ MUJER
+Actualmente, los medios de comunicación, así como la electricidad, son agentes fundamentales para el desarrollo de nuestro país. Para el Gobierno de México es prioritario que las y los mexicanos contemos con acceso a redes de comunicación eficientes, que nos permitan mantenernos conectados, aun en las comunidades más apartadas.
+Para ello, nos ha encomendado a la CFE la importante labor de instalar dos mil 800 antenas en todo el país con tecnología de punta, que se enlazarán para compartir la conexión con los usuarios y puedan hacer uso de la comunicación digital.
+Dichas antenas tendrán una cobertura de hasta seis kilómetros de radio. Instalaremos 224 en Veracruz, 156 en Puebla y 27 en Tlaxcala. Para garantizar su conectividad en caso de algún error, se contará con sistemas remotos para solucionarlo de manera inmediata y, de ser necesario, mano de obra calificada se trasladará al sitio para su reparación. Con ello habrá un equipo listo para ofrecer comunicación en espacios públicos a través de una red inteligente sin fines de lucro.
+En CFE nos enorgullece ser parte de este gran proyecto que significa el desarrollo y progreso de todas las familias mexicanas.
+Gracias, señor presidente, por su confianza, pues para nosotros es una oportunidad de refrendar nuestro compromiso social interconectando los distintos sectores de México.
+CFE, iluminando y comunicando para el bienestar de México.
+---
+VOZ DE MUJER
+Gobierno de México.
+---
+MODERADOR
+A continuación, se llevará a cabo la explicación técnica del proyecto de instalación de antenas para brindar internet para todos a cargo de la jefa de Oficina Divisional de Control y Comunicación de la División Oriente, la ingeniera María Fernanda Monterrosas González.
+---
+MARÍA FERNANDA MONTERROSAS GONZÁLEZ, JEFA DE LA OFICINA DIVISIONAL DE CONTROL Y COMUNICACIÓN DE LA DIVISIÓN ORIENTE
+Bienvenidos a este hermoso estado de Veracruz.
+Señor presidente, licenciado Andrés Manuel López Obrador.
+Ingeniero Cuitláhuac García Jiménez, gobernador constitucional del estado de Veracruz.
+Distinguidos miembros del presídium.
+Compañeros todos:
+Agradecemos, señor presidente, la distinción que usted nos brinda y la confianza depositada en este equipo de trabajo, y los diferentes procesos que conformamos la CFE para sumarnos al proyecto presidencial Internet para Todos.
+Como todos saben, el uso de la información, los productos y los servicios digitales son un derecho de las y los mexicanos, reducir la brecha de acceso a internet y lograr la inclusión digital, brindando una mayor conectividad. Es un reto que enfrentamos en nuestro país y que gracias a su administración hoy estamos llegando a las comunidades más apartadas.
+El gran reto que hoy nos encomienda consiste en la instalación de dos mil 800 antenas de comunicación, de las cuales, a esta región, Tlaxcala, Puebla y Veracruz, corresponden 407 que se convertirán en sitios de repetición bidireccional.
+En el estado de Tlaxcala se instalarán 27 antenas, brindando una cobertura a 352 mil habitantes desde Tlaxcala hasta la sierra nororiental de Puebla.
+En el estado de Puebla darán el servicio darán el servicio 156 antenas, abarcando desde Cuetzalan hasta las grandes ciudades de Puebla, beneficiando a 309 mil beneficiarios.
+En el estado de Veracruz 224 antenas cubrirán desde la Huasteca Veracruzana hasta el Valle de Uxpanapa, beneficiando inicialmente a 589 mil habitantes.
+Haciendo equipo con todos los procesos que conforman a la CFE, las antenas de comunicación se están construyendo o instalandosobre infraestructura ya existente de la CFE, también en edificios o instalaciones públicas, con la finalidad de realizar la instalación en el menor tiempo posible y optimizando los recursos, considerando las diferentes etapas, desde actividades previas y obras civil hasta obra electromecánica y puesta en servicio de cada uno de los puntos de acceso.
+El funcionamiento de las antenas para el servicio de Internet para Todos consiste en la orientación satelital a una estación receptorabase, la cual a su vez envía la señal a las antenas sectoriales, quienes radian 360 grados la cobertura de CFE Internet para Todos a cada punto de acceso instalado en las redes generales de distribución.
+La funcionalidad del equipamiento en las 263 sucursales del Banco del Bienestar en esta región consistirá en enlaces satelitalescontrolados desde una base matriz hasta cada sucursal, brindando el servicio de internet.
+Para las y los trabajadores que representamos a esta empresa, es un orgullo ser parte del desarrollo tecnológico de nuestro país. Llegaremos a comunidades con difícil acceso, cruzaremos ríos, valles y montañas, orografía peculiar de estos estados. Trabajaremos día y noche hasta llegar a donde nadie había llegado. Beneficiaremos escuelas, hospitales, clínicas y localidades olvidadas que actualmente no cuentan con el acceso a internet.
+No tenga duda, señor presidente, que estamos comprometidos para atender la encomienda que hoy usted nos designa para seguir iluminando y comunicando para el beneficio de México.
+Compañeros:
+¡Vivo seguro!
+---
+VOCES A CORO
+¡Vivo seguro, seguro vivo!
+---
+MARÍA FERNANDA MONTERROSAS GONZÁLEZ
+Muchas gracias.
+---
+MODERADOR
+Solicitamos ahora las palabras del director general de la CFE Telecomunicaciones e Internet para Todos, David Pantoja Meléndez.
+---
+DAVID PANTOJA MELÉNDEZ, DIRECTOR GENERAL DE CFE TELECOMUNICACIONES E INTERNET PARA TODOS
+Buenas tardes, señor presidente, señor gobernador, miembros del presídium, compañeros electricistas.
+Estamos sumamente entusiasmados por estar ante ustedes. Y en este sentido, a manera de introducción para tratar de entender la magnitud del esfuerzo a realizar, es que quisiéramos compartirles un poquito de historia del porqué la Comisión Federal de Electricidad va a repetir la hazaña que ya hizo anteriormente.
+Como bien saben, en 1937, bajo el mandato del entonces presidente de la República, general Lázaro Cárdenas del Río, se creó la Comisión Federal de Electricidad, con el objetivo de organizar y dirigir un sistema nacional de energía eléctrica, voy a citar, ‘sin propósitos de lucro y con la finalidad de obtener con un costo mínimo el mayor rendimiento posible en beneficio de los intereses generales’, fin de la cita, como se inscribe en la ley promulgada en la Ciudad de Mérida, en Yucatán, el 14 de agosto de 1937.
+En aquel entonces nuestro país tenía 18.5 millones de habitantes, de los cuales únicamente siete millones tenían luz, además con dificultades, es decir, sólo el 38 por ciento de la población tenía acceso a este servicio básico.
+La oferta no satisfacía la demanda, las interrupciones en el servicio eran constantes y las tarifas muy elevadas. Hace un siglo las empresas privadas se dedicaban principalmente a los mercados urbanos que generaban más rédito y no contemplaban la expansión del servicio a áreas rurales.
+Hoy la historia parece repetirse, ya que tenemos una alta cobertura de internet, principalmente en zonas urbanas del país, mas no así en las zonas rurales.
+Como decía, la sumatoria de estos problemas fue el principal impulso para la creación de la Comisión Federal de Electricidad. Casi 80 años después de que se instalaran las primeras lámparas eléctricas en el Zócalo capitalino, más de la mitad de la población aún no contaba con luz en sus hogares y para ese entonces la electricidad ya era un pilar fundamental para el desarrollo de cualquier nación.
+La industria eléctrica aun no era soberana hasta que en 1960 se tomó la decisión de que el gobierno fuera quien se hiciera cargo de dotar energía eléctrica en toda la población, en un año en el que solamente el 44 por ciento de la población tenía cobertura.
+En su discurso del 27 de septiembre de 1960, el presidente López Mateos emplazó a la nación y a sus trabajadores, en cuyas manos ya se encontraba la industria eléctrica, a llevar energía a todos los hogares mexicanos para que todo el pueblo gozara de los beneficios de la industrialización. Básicamente se tenía un objetivo común: el beneficio de la nación, que era de todas y todos los mexicanos para que tuvieran electricidad, sin importar el costo de operación.
+El bienestar no debe medirse por el costo que implica, sino por el beneficio y la dignidad que les aporta a las personas, no importa el precio. Así es como se reducen las brechas de desigualdad.
+El acceso a la electricidad no debía ser exclusivo de las ciudades o de quienes pudieran pagar el servicio, sino de todos los mexicanosque pudieran disfrutar sus beneficios.
+A la historia de esas medidas, hoy más de 99 por ciento de la población cuenta con energía eléctrica. Y así como en su momento la nacionalización de la industria eléctrica fue motivo de lucha y su distribución equitativa a todos los hogares un esfuerzo nacional, hoy tenemos otro servicio básico, más intangible en la actualidad, pero igual de necesario, que es el acceso a internet.
+En el año 2021, según datos del propio Inegi, el 75.6 por ciento de la población mayor de seis años era usuaria de internet. En las zonas urbanas, el acceso para estas mediciones que hace el instituto, el 81.6 por ciento de la población en zonas urbanas tenía cobertura, tienen cobertura, y en zonas rurales va ascendiendo hasta que ahora llega a ser del 56 por ciento.
+En el caso de la cobertura de movilidad telefónica, cerró en cerca de 78 por ciento. Eso quiere decir que hay millones de mexicanas y mexicanos que aún no cuentan con este servicio, y no porque no se pueda, sino porque no es rentable para las empresas llevar la infraestructura para la conexión a internet a las áreas alejadas, que son rurales en su mayoría.
+Quiero recalcar esto, hay millones de personas en nuestro país que no tienen acceso a este servicio de internet. Ello es básico para el bienestar, mucho más después de la creciente digitalización forzada a la que nos orilló la pandemia.
+Y es por eso que básicamente la provisión está hecha con una lógica de mercado; en los lugares que no son rentables no son candidatos para ser iluminados.
+Hoy, por mandato de nuestro presidente Andrés Manuel López Obrador, a través de CFE Telecomunicaciones e Internet para Todos, se está confiriendo el gran encargo a la Comisión Federal de Electricidad, dirigida por el licenciado Manuel Bartlett Díaz, de darle cobertura universal de internet a todos los mexicanos y darlesla posibilidad a todos, y recalco, a todos de poder conectarse al mundo. Hoy, el Gobierno de México está haciendo una inversión histórica para dotar de internet a las áreas donde ninguna empresa se ha animado a realizar la conexión.
+Ya se han instalado puntos de conexión gratuita en 42 mil puntos, que incluyen clínicas, plazas, escuelas, edificios e instalaciones gubernamentales en todo el país.
+La tarea no es fácil, es un desafío, pero sabemos que contamos con toda la fuerza de los trabajadores de la comisión para lograrlo.
+Muchas gracias.
+---
+MODERADOR
+Procedemos con las palabras del director general de la Comisión Federal de Electricidad, licenciado Manuel Bartlett Díaz.
+---
+MANUEL BARTLETT DÍAZ, DIRECTOR GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE)
+Señor presidente, señor secretario de la Defensa Nacional, gobernador, desde luego compañeros, dirigente del Suterm en la región:
+A todos ustedes, nuestro respeto y el compromiso de los trabajadores de la Comisión Federal de Electricidad.
+Aquí se ha recordado lo que el presidente ha comentado muchas veces, el proceso que se dio de llevar la electricidad a los pueblos, las comisiones de electrificación, la participación entusiasta de la población que iba a recibir la electricidad por primera vez en toda su existencia.
+Fue una verdadera revolución, sacudió al país, generó un sentimiento importantísimo para quien, desde la Presidencia, como el general Cárdenas, impulsó la creación y el desarrollo de la Comisión Federal de Electricidad.
+Hoy el presidente Andrés Manuel López Obrador nos encarga una función similar. Sí es muy importante, fundamental, es una cuestión de vida, de cultura, de existencia, de derecho humano, la electricidad, pero también ahora es fundamentalmente importante llevar la comunicación, el Internet para Todos es una revolución tan importante como fue aquella. ¿Y por qué no entregarle esa tarea fundamental a quien sí puede hacerla, a quien sí está en todo el país, a quienes conocen metro a metro, kilómetro a kilómetro las zonas en donde se está trabajando? Es así como el presidente, que ha expresado su confianza en la CFE, nos encargó esa tarea.
+Hoy hay que hacer un enorme esfuerzo: construir torres de comunicación, de telecomunicaciones en todo el país. A ustedes les toca una parte importante. Y estoy seguro, señor presidente, que lo van a hacer con el mismo entusiasmo que sus anteriores miembros de la CFE lo hicieron para llevar la electricidad.
+¿Cuál es la importancia del internet?
+Ustedes los saben, ya lo comentó aquí el director de CFE Internet para Todos, que es una subsidiaria de la CFE con la que estamos absolutamente ligados, Transmisión está totalmente vinculada con Internet para Todos a través de la fibra óptica, que va avanzando para llevar a todo el país. Es llevar un instrumento moderno al que no tienen acceso una gran cantidad de millones de mexicanos y que no pueden utilizar esas herramientas de desarrollo personal y de las comunidades porque no ha llegado ese internet, ni va a llegar, a través de las inversiones privadas.
+Concesiones se han dado una y otra vez, inclusive privatizaron dos fibras ópticas, dos hilos de fibras ópticas para los privados y no han hecho más que hacer dinero. Nadie lo va a hacer más que ustedes, esa es una clara determinación del presidente de la República.
+¿Por qué vamos a pensar o a aceptar que un joven en estas zonasaisladas de la República, en Veracruz, en Tabasco, en todo el territorio, por qué vamos a aceptar que un joven no pueda tener lo que otros jóvenes en la ciudad?
+Que un joven de esas poblaciones marginadas pueda acudir a informarse, estudiar a través del internet, intercomunicarse, abrevar en la información internacional global que llega a través del internet y de esa manera equilibrar y establecer una posibilidad de desarrollo igual a los jóvenes de esas poblaciones marginadas con los que viven en las ciudades, en las grandes urbes, en donde sí es negocio y por eso están ahí establecidas las grandes empresas de internet.
+Esto es, como decíamos hace un momento, una verdadera revolución que ustedes van a llevar a cabo por la confianza que le tiene a la CFE el presidente de la República.
+Tenemos un enorme afecto por el presidente Andrés Manuel López Obrador. Cuando llegamos al gobierno y me confirió la gran distinción de ser director de esta gran empresa nacional, la empresa más grande del país, la más importante desde todos los puntos de vista, la CFE se encontraba, sin exagerar, amenazada por la reforma energética del gobierno anterior.
+La reforma que instalaron tiene y ha tenido como propósito la desaparición de la CFE, para ser suplantadas por las empresas extranjeras que se han introducido. Por otro lado, esas empresas estratégicas, esas empresas extranjeras, tienen, además, una convivencia con los grandes consumidores de electricidad.
+¿Ustedes saben que las grandes empresas nacionales, los grandes consumidores de electricidad del país no pagan la red? Son despachados sin ninguna competencia, tienen ventajas absolutas sobre la CFE y el peligro de la desaparición ahí estaba.
+Ha sido el presidente el que dio instrucciones al rescate de la CFE. El rescate de la CFE, se dice así como si fuera un simple eslogan, pero ha sido una tarea cotidiana que el presidente ha hecho para que se vaya consolidando la CFE y se evite que cumplan el propósito que establecieron en la reforma energética del pasado sexenio y la CFE siga existiendo como la gran empresa nacional que va a darle la garantía de la electricidad, y ahora el internet, a todos los mexicanos.
+Por eso hay una gran vinculación con el presidente de la República. La relación que él ha tenido con los trabajadores ha sido muy intensa en estos años. El presidente se encuentra a cada rato con grupos de esta empresa, ya sea durante el periodo trágico de los huracanes o en diversos lugares en donde están los trabajadores corrigiendo, preparando, reparando lo que había que reparar. Esa relación, señor presidente, que usted ha establecido con la CFE, ese compromiso y esa voluntad de rescatar a la CFE, los trabajadores la sienten suya.
+Tenemos aquí, señor presidente, un grupo importante de trabajadores que saben y sienten que el presidente López Obrador está con ustedes, está con nosotros. Yo considero que es importante, presidente, presentarlos aquí porque, si no los presento se van a enojar.
+Entonces, tenemos aquí a una zona CFE, pero siendo una zona CFE, cada una se siente diferente. Mire, aquí al frente están, vamos a decir, trabajadores de Distribución ¿En dónde está Distribución? Doscientos cuarenta y nueve trabajadores. Esos son los que se trepan a los postes, señor presidente, son los que andan colgados ahí en los cables, son verdaderos atletas además y realizan una labor fundamental. Sin ellos, no le llega la electricidad a todo el país. Así es que muchas gracias a este grupo.
+Creo que por ahí andan los de Transmisión. ¿Vinieron? Ya, ya, bájenle, bájenle. Transmisión es la conducción de los grandes bloques de electricidad en todo el país. Es fundamental y además sus…
+---
+INTERVENCIÓN
+(inaudible)
+---
+MANUEL BARTLETT DÍAZ
+¿Qué dijo? ¿A quién?
+Bueno, por eso, señor presidente, estamos en un estadio de béisbol, para que lo pueda usar el presidente cuando ande por aquí.
+Está también Construcción. El presidente sabe que mejor entidad de construcción del país, los ingenieros de la CFE son los mejores ingenieros de la República mexicana. ¿Sí o no?
+En la reunión anterior le pedía yo disculpas al presidente porque él dijo que quería venir a entrevistarse con los trabajadores que iban a hacer esta tarea de llevar las torres, construirlas, conectarlas, etcétera. Entonces, sería nada más los tres primeros, ¿no?, ustedes, Distribución, Transmisión, Construcción, pero se nos colaronSuministro Básico, presidente. No les pudimos impedir, presidente, que vinieran, y le voy a decir por qué.
+Me había dicho Nevárez que se habían colado, que ahí venían, pero, señor presidente, son los que se encargan del dinero, son los que cobran. Además, señor presidente, tienen una característica muy especial, ellos no se suben a las torres, pero se visten correctamente, camisita blanca, pantalón azul o falda azul, muchas mujeres, por cierto, y se distinguen de todos los mugrosos que están aquí de este lado.
+Esos son, señor presidente, quienes creen en usted, quienes se sienten muy orgullosos de que CFE va a tener el reforzamiento que significa la construcción de todas esas torres, porque va a ser la empresa más grande, como siempre lo ha sido, de telecomunicaciones en el país con CFE Internet, comunicación que va a dar a todos los pueblos que están marginados actualmente.
+Y con eso termino, señor presidente, porque en realidad, y subrayo, cuando nos preguntó: ‘¿Oiga…? Nos dice a los dirigentes que estábamos con él, los técnicos, los ingenieros, nos dijo: ‘Oigan, ¿ustedes pueden, la CFE puede construir esas torres?’ Y le digo: Bueno, faltaba menos. ¿Verdad que sí podemos?
+Y dijo que venía no a oír discursos, venía a entrevistarse con ustedes porque les tiene un afecto muy profundo y es quien va a rescatar y fortalecer a la CFE.
+Muchas gracias.
+---
+MODERADOR
+Solicitamos las palabras a cargo del secretario de la Defensa Nacional, general Luis Cresencio Sandoval González.
+---
+LUIS CRESENCIO SANDOVAL GONZÁLEZ, SECRETARIO DE LA DEFENSA NACIONAL
+Licenciado Andrés Manuel López Obrador, presidente de México y comandante supremo de las Fuerzas Armadas.
+Gobernador de estado de Veracruz.
+Director general de la Comisión Federal de Electricidad.
+Apreciables miembros del presídium.
+Compañeros de gabinete.
+Funcionarios del gobierno federal.
+Coordinadores sindicales y trabajadores de la Comisión Federal de Electricidad.
+Medios de comunicación.
+A todos, muy buenas tardes.
+En la actualidad es indispensable el uso de herramientas tecnológicas que agilicen el intercambio y procesamiento de datos, la realización de actividades bancarias, de negocios, escolares, personales, profesionales y de todo tipo, no sólo en las ciudades, sino también en las pequeñas comunidades. Por ello, para garantizar el derecho de las personas al acceso a las tecnologías de información y comunicación, banda ancha internet, el gobierno de la República implementó el proyecto Internet para Todos. La finalidad es beneficiar a las familias mexicanas poniendo a su alcance servicios de calidad en materia de telecomunicaciones, aun en localidades apartadas.
+En este sentido, es importante el esfuerzo que realiza el Gobierno de México para integrar toda la infraestructura que se requiere. Por ello, cumpliendo las instrucciones del señor presidente, la Secretaría de la Defensa Nacional, a través de nuestros ingenieros militares que cuentan con la experiencia y capacidad técnica, estará colaborando con la Comisión Federal de Electricidad para determinar aquellos lugares donde sea factible colocar las torres y antenas que garanticen una amplia cobertura territorial.
+Para el efecto, en primer lugar, se analizarán los terrenos donde existen sucursales del Banco del Bienestar, con el fin de seleccionar a aquellos en los que, de acuerdo al espacio, consideraciones técnicas y normativas se puedan instalar las estructuras y dispositivos necesarios.
+En segundo lugar, se considerarán los cuarteles de la Guardia Nacional y campos militares que por su ubicación y disponibilidad cuenten con sitios adecuados que puedan albergar torres y antenas, así como paralelamente se preservará su seguridad física.
+Estamos seguros que, bajo el esquema de trabajo colaborativo, este importante programa social podrá alcanzar sus objetivos.
+Los soldados de tierra y aire agradecemos la confianza del señor presidente y de todo el pueblo de México para participar en este tipo de proyectos que tienen como fin último el bienestar de la sociedad.
+Tengan la certeza de que nuestros ingenieros militares trabajarán en estrecha coordinación con el personal técnico de la Comisión Federal de Electricidad para tener a la brevedad posible el censo de las ubicaciones que permitan la instalación de la infraestructura de telecomunicaciones.
+Muchas gracias por permitirnos servirles y muchas gracias a todos por su atención.
+---
+MODERADOR
+Estimado público, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andrés Manuel López Obrador.
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Amigas, amigos de la Comisión Federal de Electricidad, trabajadores del Suterm:
+Me da mucho gusto estar con ustedes. Hoy comenzamos una gira para impulsar este programa de internet universal para todas y todos.
+Estuvimos en Tuxtla, ahora con ustedes, mañana con trabajadores, compañeras, compañeros, de la Comisión Federal de Electricidad en el Estado de México y por la tarde en Jalisco, vamos a estar el domingo en Sinaloa y en Nuevo León.
+El propósito ya se dio a conocer, es contar con el apoyo de ustedes para que podamos comunicar con internet a todos los pueblos.
+Es, como se ha dicho, recurrir a ustedes como se hizo en el pasado, cuando un buen presidente, Adolfo López Mateos, en 1960, decidió nacionalizar la industria eléctrica para que todos los pueblos de México tuvieran acceso a la electricidad.
+En ese entonces, como aquí se ha dicho, no llegaba al 50 por ciento de la población el servicio eléctrico. Y a partir de que se nacionaliza la industria eléctrica empiezan a contar con este servicio todos los pueblos. Al día de hoy, gracias a la Comisión Federal de Electricidad, el 99.6 por ciento de la población tiene energía eléctrica en nuestro país. Fue una hazaña.
+Esto no se hubiese logrado si no se toma la decisión de nacionalizar la industria eléctrica, porque en ese entonces quienes daban el servicio eran empresas particulares, y como es natural, la empresa privada busca la ganancia, la utilidad, a veces el lucro porque no se conforman con una utilidad razonable, obtienen más, mucho más de lo debido, y también dan el servicio en donde está el dinero.
+Se electrificaban las ciudades, porque ahí estaban los consumidores que podían pagar, pero en una comunidad, en un ejido, en un pueblo, muy difícil contar con el servicio de energía eléctrica, porque ¿quién iba a financiar la instalación de los postes, las líneas? Ni modo que la gente, si la mayoría de nuestro pueblo desgraciadamente vive al día.
+Por eso es que se tomó la decisión de que el Estado cumpliera con su responsabilidad social, pero eso es distinto lo privado de lo público. El Estado tiene que ocuparse de garantizar los derechos fundamentales del pueblo, el derecho a un salario justo, el derecho al trabajo, el derecho a la educación, el derecho a la salud, el derecho a servicios básicos como la electricidad, el agua y ahora el internet, que es también un derecho, así está concebido a nivel mundial.
+Pero siempre va adelante el discurso de los hechos y se habla mucho del derecho al internet como se habla del derecho a la salud o el derecho a la educación; incluso está hasta escrito en la Constitución, pero es letra muerta, porque en la realidad no se cumplen esos derechos.
+Cuando comenzó este programa con el presidente López Mateos se avanzó mucho, eso lo saben quienes tienen más edad, los más veteranos, como el que habla.
+Yo soy originario de un pueblo que se llama Tepetitán, que pertenece al municipio de Macuspana, del estado de Tabasco. Entonces, teníamos luz de niños por una planta de diésel que entraba la noche y la prendían y a las nueve, 10 de la noche se apagaba. Si andaba uno en la calle, el primer aviso era un apagón, el segundo aviso ya sabía uno, y ya el tercero había que estar ya en la casa porque no había energía eléctrica. Bueno, después ya se tuvo energía eléctrica permanente.
+Fíjense que con Adolfo López Mateos también llegó a mi pueblo, y así a todos los pueblos de México, el libro de texto gratuito, los libros, en ese entonces. Por eso hablaba yo de que fue un buen presidente.
+Cuando decidió que iba a entregar los libros de texto gratuito, se opusieron los conservadores, hicieron manifestaciones, porque no querían que la gente despertara, querían que la educación fuese un privilegio, no un derecho de nuestro pueblo.
+Ahora con esta historia, con estos antecedentes, decidimos vamos a comunicar al país con internet, porque no hay este servicio, sólo en las ciudades.
+En el caso de Veracruz, son 212 municipios y hay cabeceras municipales donde no sólo no hay internet, no se puede hablar por teléfono, no hay telefonía móvil, no hay telefonía celular. Y en las cabeceras municipales, donde hay internet o telefonía móvil sale uno de esos pueblos más grandes, a veces ciudades, y ya no hay señal, hay que andarse subiendo a las lomas, a los cerros para agarrar la ansiada señal y poder hablar.
+Nosotros queremos que todos tengan acceso al internet porque va a ser una revolución en el marco de la revolución de las consciencias. Porque estamos haciendo muchas cosas, pero lo más importante que se está haciendo es el cambio de mentalidad, esa es la contribución principal de nuestro movimiento, de lo que llamamos Cuarta Transformación, porque cuando cambia la mentalidad del pueblo,cambia todo.
+Eso es lo más difícil de lograr, a veces hay hasta revoluciones y la gente sigue pensando igual; ahora no, ahora el pueblo está completamente despierto, concientizado, avispado, ya no se deja manipular.
+Entonces, con el internet se va a tener más información y esto va a avivar más la consciencia del pueblo. Y se va a tener también información para la educación, para la salud, imagínense los niños que puedan tener acceso al internet. Es un cambio de fondo, radical, en el entendido que la palabra radical viene de raíz. Por eso recurrimos a ustedes para que nos apliquemos todos.
+Decía yo en Tuxtla que no es una relación laboral entre el patrón, que es el Estado, y los trabajadores y su sindicato, no, eso tiene que ver con el servicio a la comunidad, el servicio al pueblo, todos nos vamos a sentir muy orgullosos. Esto no tiene que ver con lo material, esto tiene que ver con la bondad, con la fraternidad, con el amor al prójimo, con lo que tenemos que hacer todos, darle la mano al que se quedó atrás para que se empareje y caminemos juntos, eso es lo que vamos a hacer.
+Y por eso cuando se hable de internet el día de mañana se le va a vincular a los trabajadores electricistas. ¿Quiénes fueron los que crearon la infraestructura de internet el país? Los trabajadores electricistas.
+Es hacer historia, como la están haciendo los trabajadores petroleros, porque yo me apoyo en ustedes en todo lo que tiene que ver con la industria eléctrica, y me apoyo con los trabajadores petroleros en lo que tiene que ver con la industria petrolera.
+En el caso de ustedes, como lo mencionó el licenciado Bartlett, yo creo que están conscientes de que había la intención perversa de destruir a la Comisión Federal de Electricidad, estaban cerrando plantas, subutilizando plantas, no permitiendo a la Comisión Federal de Electricidad subir energía a las líneas.
+No había despacho porque supuestamente la Comisión Federal de Electricidad producía energía sucia y los particulares, Iberdrola, de España, y otras empresas extranjeras, ah, esas producían energía limpia y por eso había que darles trato preferencial a estas empresas.
+¿Saben que los mandamos al carajo? Usaban lo de energía limpia para hacer negocios sucios, eso es la realidad.
+¿Y cómo? Ni siquiera en igualdad de circunstancias se competía con ellos, porque esas empresas recibían subsidio, muchísimo dinero del presupuesto, que es dinero del pueblo, para apuntalarlas. Desde que se creaban las empresas particulares, financiamiento de la banca del desarrollo, se les devolvían los impuestos, todo a favor de las empresas particulares y cada vez la Comisión Federal generando menos energía, iba a la quiebra total.
+Y por eso estamos hablando de rescatar y se está llevando a la práctica este propósito a la Comisión Federal de Electricidad, y es muy sencillo, nada más que el que tiene una mentalidad conservadora y está acostumbrado a saquear está muy difícil de que cambie de parecer. Pero, ¿cómo va a ser lo mismo una empresa privada que una empresa pública? Nunca. ¿Cómo va a tener la misma condición de igualdad Iberdrola, de España, que la Comisión Federal de Electricidad? Jamás.
+Nosotros tenemos que cuidar la empresa pública, porque no tiene propósitos de lucro, es una empresa de la nación para beneficio de nuestro pueblo. Por eso vamos ahora a cumplir con esta tarea de conectar al país con internet.
+Y les decía yo que se recuerde eso, que fueron ustedes. Así como electrificaron sus antepasados el país, así ustedes van a comunicar con internet al país.
+Y decirles que no vamos nosotros a fallarles, que estamos muy conscientes de que no se va a poder sacar adelante al país sin los trabajadores. Y lo vemos, cada vez que hay un desastre natural, que hay un huracán, ustedes. Lo que pasó aquí en Veracruz, como lo recordaba el gobernador Cuitláhuac, en una semana restablecieron el servicio, y así en todo México, son de los mejores trabajadores electricistas del mundo.
+Como decimos los veracruzanos, porque ya saben que yo también soy veracruzano, soy choco-jarocho, porque mi padre nació en Veracruz, en la cuenca del Papaloapan, y mi madre tabasqueña, entonces somos paisanos; además, de acuerdo a la Constitución de Veracruz, en el artículo 11, los hijos de veracruzanos son veracruzanos.
+Por eso decirles que estamos muy, muy agradecidos con ustedes y van a ser siempre correspondidos.
+Cuando llegué al gobierno… Aquí me llevaría mucho tiempo explicarles de cómo me fui formando, desde que estaba yo en 1º de la Facultad de Ciencias Políticas, 1973. ¿Saben que participaba yo en marchas con los trabajadores electricistas?, pero había una corriente democrática del Suterm, un gran dirigente, Rafael Galván, gran dirigente. Entonces, yo estaba en 1º de la carrera de Ciencias Políticas y empecé a ir a las marchas para democratizar al sindicato. En ese entonces decíamos: ¡Suterm, apaga la luz!; ahora ya tengo que decir: ¡Suterm, enciendan la luz!’
+Pero cuando llegué al gobierno, les decía, tuve una reunión con compañeros de ustedes y lo primero que me plantearon es: ‘Nos mutilaron el contrato colectivo y nos aumentaron la edad de jubilación’. Hice el compromiso de que íbamos a reparar ese daño y lo cumplimos, y así vamos a seguir, así vamos a seguir trabajando juntos.
+Les decía yo que, con los petroleros, los trabajadores petroleros estamos sacando adelante esa industria, que también la dejaron convertida casi en chatarra, acabaron con las plantas petroquímicas. Bueno, aquí en Cosolea lo saben bien, todo este corredor, todo lo que era la petroquímica, las refinerías estuvieron a punto de acabarlas, nos la dejaron seis refinerías, incluida la de Minatitlán, al 30 por ciento de su capacidad de producción.
+¿Qué hemos hecho?
+Bueno, hemos invertido en rehabilitar las seis refinerías y ahora ya están produciendo a más del 60 por ciento de su capacidad. Pero no sólo eso, ya terminamos y estamos sólo integrando la nueva refinería de Dos Bocas, Paraíso, Tabasco. Compramos una refinería en Texas.
+¿Y por qué todo esto?
+Porque ya no vamos a vender petróleo crudo y a comprar gasolinas en el extranjero, ahora vamos a procesar toda nuestra materia prima, y aquí vamos a producir los combustibles.
+¿Y con qué propósito?
+Que no aumente el precio de las gasolinas, el diésel. Como también, y esa política ustedes ya la están percibiendo, lo saben, sobre todo los que se encargan de hacer los cobros, no ha habido aumento en el precio de la luz desde que llegué a la Presidencia en términos reales. Y por eso es con los electricistas, es con los petroleros, es con las maestras, los maestros.
+¿Se acuerdan cómo había una campaña en contra del magisterio nacional, echándole la culpa a las maestras, los maestros que eran unos flojos y que por eso el atraso en lo educativo, y querían imponer la mal llamada reforma educativa?
+Dijimos: No, no podemos nosotros ningunear, ofender a nuestras maestras, a nuestros maestros. Y lo que se tiene que hacer es darles el trato que merecen. ¿Saben que no hemos tenido un solo problema? Nunca han dejado de ir a dar clases maestras, maestros.
+Se suspendieron las clases por la pandemia, pero si no estaban suspendidas o no están suspendidas las clases, como ahora que vamos a regresar a clases, ya el lunes próximo para educación básica, ahí están las maestras, ahí están los maestros, con ellos, juntos, los trabajadores de la educación.
+Lo mismo estamos haciendo con los trabajadores de la salud, porque también nos dejaron tirado el sistema de salud, sin centros de salud, sin hospitales, sin equipos, sin medicamentos, sin médicos, sin especialistas y estamos levantando. Ya que pasó la pandemia, el propósito es tener el mejor sistema de salud pública que se haya tenido en el país y uno de los mejores del mundo, y eso con los trabajadores de la salud.
+¿Saben cuántos trabajadores de la salud estaban contratados de manera eventual?
+Ochenta mil. A todos se les va a basificar, a todos los trabajadores de la salud.
+Juntos, con los trabajadores, es que estamos sacando adelante a México.
+Y quiero nada más terminar diciéndoles que me han ayudado mucho. Y no es para celos ni sentimientos, no es para herir susceptibilidades, porque aquí se dijo que los mejores ingenieros eran los de la Comisión Federal de Electricidad, son muy buenos también los ingenieros militares.
+¿Saben qué hicieron los ingenieros militares?
+Un aeropuerto, que es el mejor de América Latina.
+¿Saben que tenían pensado, porque era un gran transa, hacer un aeropuerto en el lago de Texcoco con un costo estimado de 300 mil millones de pesos? En un lago, donde más se hunde el Valle de México, pero estaba de por medio un negocio inmobiliario, porque iban a cerrar el actual aeropuerto y se iban a quedar con todo ese terreno, 600 hectáreas, y lo iban a fraccionar, iban a cerrar ese aeropuerto e iban a cerrar también el aeropuerto militar de Santa Lucía, dos aeropuertos, más 300 mil millones en la peor zona del Valle de México, donde hay más hundimientos.
+Dijimos: No, no, vamos a consultarle a la gente, y el pueblo es sabio, y se hizo una consulta y dijeron: ‘No, que se cancele esa obra’.
+Y pagamos 100 mil millones por contratos que se habían hecho, porque cuando gané se apresuraron a hacer contratos y a dar anticipos pensando que ya de esa manera ya no iba yo a poder hacer nada, sino seguirle hacia adelante.
+¿Cuándo iban a terminar ese aeropuerto?
+En el 2025, o sea, me iba yo a llevar todo el sexenio construyendo el aeropuerto.
+Pero no sólo eso, estimaban que iba a costar 300 mil millones. Pagamos 100 mil y los ingenieros militares hicieron el nuevo aeropuerto ‘Felipe Ángeles’, que, ya dije, es el mejor de América Latina, con 75 mil millones; es decir, nos ahorramos 125 mil millones de pesos.
+Y no quiero picarles la cresta, pero ese aeropuerto lo hicieron en dos años y medio. Entonces, poner las dos mil 800 antenas no es nada, es como tamalitos de chipilín, son tamalitos de chipilín.
+Me da mucho gusto, la verdad, estar aquí con ustedes paisanos, aquí en el Cosol. Y vamos adelante y cuando tengamos la comunicación por internet lo vamos a celebrar entre todos. ¿Aquí mismo o en el Zócalo?
+---
+VOCES A CORO
+¡Aquí!
+---
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR
+Aquí, pues. Regreso, voy a regresar para que me digan: ‘Misión cumplida’.
+También decirles que ya tenemos el presupuesto, no hay ningún problema. Cuando no hay corrupción, el presupuesto alcanza y rinde. Entonces, vamos hacia adelante.
+¡Y que vivan los trabajadores electricistas!
+Muchas gracias.
