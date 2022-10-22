@@ -1,11 +1,12 @@
 name: Scrape information
 
 on:
+  workflow_dispatch:
   schedule:
   - cron: "20 19 * * *"
 
 jobs:
-  tweet:
+  Scrape:
 
     runs-on: ubuntu-latest
 
@@ -19,8 +20,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        python -m pip install poetry
+        pip install --upgrade pip==22.2.2
+        pip install poetry==1.1.15
         poetry config virtualenvs.create false --local
         poetry install
 
