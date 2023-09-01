@@ -1,0 +1,432 @@
+Versión estenográfica. Conferencia de prensa de la Comisión Federal de Electricidad
+Presidencia de la República
+31 de agosto de 2023
+---
+LUIS BRAVO NAVARRO, COORDINADOR DE COMUNICACIÓN CORPORATIVA DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE)
+Muy buenos días. Muchas gracias a la gente que nos acompaña, la gente que nos hace favor de seguir esta transmisión y a los compañeros y compañeras de los medios de comunicación.
+Atendiendo las instrucciones de nuestro señor presidente, nos encontramos aquí por parte de la Comisión Federal de Electricidad y por instrucciones también de nuestro director general, el licenciado Manuel Bartlett Díaz, para explicar con mucha presión, con todo detalle, lo que surgió a partir de ciertos cuestionamientos y ciertas versiones periodísticas que apuntan que hay algunas interrupciones en el suministro de energía eléctrica en Sonora y en algunos puntos del país. Para ello, vamos a dar una explicación en ese sentido y también en relación al tema de las tarifas eléctricas que también se dar una explicación muy vasta en relación a esto.
+Y para ello presento al contador José Martín Mendoza Hernández, quien es director general de Suministro Básico de la Comisión Federal de Electricidad, y también al ingeniero José Antonio Vega, quien es coordinador de CFE Distribución. El contador Mendoza explicará la parte de las tarifas y el ingeniero Vega estará explicando acerca de los, digamos, las interrupciones en las distintas partes de la República mexicana.
+Adelante, contador.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ, DIRECTOR GENERAL DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS
+Muchas gracias. Muy buenos días a todas y a todos, un gusto saludarlos y estar aquí en el encargo del señor presidente el día de hoy en la mañana.
+Y pues, bueno, platicarles sobre los comentarios que se han vertido en la semana, específicamente el día de ayer, en el cual se señala un tema asociado a falla del suministro en el estado de Sonora, principalmente, y temas asociados también a facturaciones de altos consumos y problemas de pagabilidad. En ese sentido, preparamos para ustedes una información muy básica, en el cual trataremos de explicar en ese sentido las notas aclaratorias.
+En ese sentido, un contexto muy general platicarles que en la Comisión Federal de Electricidad actualmente atendemos a 47.8 millones de clientes en todo el territorio nacional, en ese bloque de necesidades de todos estos clientes 42.6 millones de clientes son asociados al sector doméstico, estamos hablando de medidores o servicios que tenemos para cada domicilio. Eso representa que el 89 por ciento del padrón de los clientes que están asociados al sector doméstico, eso pues demanda un nivel de infraestructura muy específica para poder llevar la energía eléctrica a cada uno de estos consumidores.
+Nosotros en el tema del consumo monitoreamos el comportamiento tanto de la generación como la condición del consumo para la venta, y al mes de julio tenemos facturado 125 mil 260 gigawatts hora. Vamos a exponenciarnos un mercado del cierre del año alrededor del 215 mil gigawatt horas
+Si hacemos un zoom nada más a lo que representa el estado de Sonora, el estado de Sonora cuenta con un millón 170 mil clientes, es un impacto del 2.4 por ciento del total de los clientes que tiene la CFE en todo el país.
+Sin embargo, en el consumo de energía eléctrica que representa para todos los consumidores del estado de Sonora, tenemos que al cierre del mes julio hemos entregado cinco mil 990 gigawatt horas y estamos exponenciando cerrar al cierre de diciembre con 10 mil 300; eso va a representar un volumen del 4.8 por ciento del total del consumo que se genera en el país. O sea, Sonora representa alrededor del cinco por ciento del consumo total del país.
+En ese sentido, bueno, la CFE presenta sus instalaciones de generación donde la demanda se está generando para poder tener la demanda local. Sonora ha sido un territorio muy benéfico para el tema de generación de energía y pues, bueno, se tiene excedentes que se importan o se distribuyen al interior al país donde la demanda es mayor asociado al consumo, obviamente.
+¿Qué se tiene para cubrir la necesidad de todos los clientes de la Comisión Federal de Electricidad?
+Bueno, pues actualmente la Comisión Federal trabaja con un call center, un call center nacional que es el teléfono del 071, es un teléfono único, exclusivo, otorgado por la Secretaría de Comunicaciones y Transportes, similar al 911, y este teléfono pues está canalizado para lo que son fallas de suministro, aclaraciones, contratos, etcétera.
+En este mecanismo la mayor parte de los clientes entran por ese sentido para poder atenderse cualquier escenario. Tenemos 14 ramas o 14 centros en todo el país, asociado a que de ahí se distribuye toda la demanda nacional.
+Contamos también con mil 275 centros de atención personalizada, también, distribuidos en todo el país, donde en esos se hace la atención personalizada para pagabilidad, para aclaraciones, para facturas, etcétera, etcétera; pero son las condiciones en las cuales el cliente prefiere ir presencialmente a hacerlo a través de la condición telefónica o hacerlo también a través de una app, que ya está en operación desde hace cuatro años y ha tenido un crecimiento fuerte para el tema de pagabilidad y para el tema de lo que son atención de servicios y solicitudes.
+Manejamos también un portal, el portal de la Comisión Federal, donde se maneja todo el esquema informativo, de condiciones extraordinarias, de efectos metodológicos, condiciones de tarifa y ese portal también da mucho insumo a toda la información que requieren nuestros clientes tenerlo a la mano.
+Y el último de los medios es el tema de las redes sociales. La red social ha sido un mecanismo en el cual la CFE incursionó en los últimos años asociado a todo el tema de seguidores y clientes que se tienen a través de un reporte o a través de una demanda, a través de ese mecanismo.
+Pasando ahora sí al escenario exclusivo del tema tarifario, hacemos un estrato en el cual las tarifas domésticas que se tienen en aplicativo en todo el país, hay que hacer mención a que estas tarifas se establecieron en el acuerdo 123 del 2017, fueron refrendadas después de que se promulgó la Ley de la Industria Eléctrica por la Secretaría de Hacienda y Crédito Público y se definen tan igual como estaban anteriormente de la Ley de la Industria Eléctrica.
+Hablamos de la tarifa 1F, el cual es un mecanismo similar; sin embargo, tienen diferentes escalafones o diferentes escalones con mayor número de kilowatt horas con beneficio subsidiario.
+Podemos ver la tarifa 1, en el cual son a razón de temperaturas y esas temperaturas son las que nos proporciona la Comisión Nacional del Agua, que es la entidad encargada de definir esa medición. La CFE no mide temperaturas, recibimos las temperaturas de la Comisión Nacional del Agua y las metemos al modelo matemático para ver que esas temperaturas medias mínimas sean las adecuadas y, en su caso, si se brinca, pues, bueno, reclasificarla inmediatamente en ese sentido.
+Aquí ahorita podemos ver en el mapa de calor cómo están distribuidas las tarifas eléctricas domésticas, en el cual hace sentido el tema de la facturación asociado al tema de temperaturas.
+Es de mencionar que, efectivamente, en este último año el tema climático ha sido muy representativo, la onda de calor que paso en julio y agosto eso va a original que el próximo año las mediciones que tenemos de los últimos tres o de los últimos cinco vayan a mover a varias localidades en el país, algunas muy particular de los estados del norte y del sureste, sur, sureste, en el cual vamos a tener que reclasificarlas a las tarifas o las temperaturas que continúen de la siguiente.
+Menciono también que en el año 2020, cuando se promulgó la contingencia sanitaria, trabajamos o la CFE trabajó con la Secretaría de Hacienda y Crédito Público para abrogar el acuerdo que se tenía para la migración de clientes domésticos a la tarifa doméstica de alto consumo, en el sentido de que el consumo doméstico iba a ser muy representativo y se iban a llevar a cabo actividades de educación, actividades de trabajo, y en el consumo doméstico se iban a inflar los consumos en los cuales íbamos a afectar a una gran población en el sentido de brincarla a una tarifa superior con ningún nivel de subsidios.
+Entonces, ese acuerdo lo tenemos todavía en vigencia. El presidente de la República nos instruyó mantenerlo todavía en el sentido de no liberarlo, asociado a que esos consumos todavía siguen siendo muy representativos porque hay todavía mucha condición de labor en casa, y la ola de calor que se nos acaba de presentar. En ese sentido, estamos ubicando que vamos a tener todavía acuerdo en el cual no migremos servicios domésticos de tarifa ordinaria a la tarifa de alto consumo.
+Para darnos una idea, cuando estábamos en previo de la pandemia teníamos 495 mil clientes en la tarifa de alto consumo, hoy tenemos 99 mil usuarios, y de esos 99 mil usuarios tan sólo tres mil 182 corresponden al estado de Sonora.
+¿Qué quiere decir?
+Que en todo el estado nada más tres mil 182 clientes están en la tarifa de alto consumo, y eso representa un pequeño bloque en el cual proporcional están en los demás estados del país. A nivel nacional pues ese bloquecito de usuarios representa el .02 por ciento asociado al total de los clientes. Esos, por sí, son clientes que tienen un esquema de consumo muy superior a la media nacional doméstica, y pagan facturaciones en promedio de 6.4 pesos por cada kilowatt hora en el cual excede hasta los costos que tenemos en el mercado. Sin embargo, está limitado y va a seguir detenido para la migración hacia el incremento y no hacia el decremento en ese sentido.
+¿Qué se hace hecho a través del mandato presidencial?
+En el cual se determinó que las tarifas eléctricas no crezcan en términos reales. Crecer en términos reales es que no tengan un impacto el tema de su producto, o sea, simplemente hacer el impacto inflacionario, o sea, la condición de desviación inflacionaria hacia arriba o hacia abajo tendría que tener esa condición.
+Aquí podemos ver en esta gráfica asociado, a previo a esta administración, se liberaron las tarifas eléctricas por medio de la Comisión Reguladora, en el cual hizo una conjunción de las 45 tarifas que tenía anteriormente la CFE a 20 tarifas. Las unió en grupos y en esa condición el mercado tuvo distorsiones porque es un mercado volátil asociado a los costos de generación; y en el mes de diciembre del 2018 para enero 2019 se mitigaron, y lo que se hizo fue —este es un ejemplo de una tarifa industrial— bajar el costo obviamente asociado a los costos que se tenían actualmente y de ahí empezar a hacer la mitigación de costos asociados a los términos reales sobre el tema de inflación.
+Si hacemos un recuento, la inflación acumulada de diciembre de 2018 a mayo de 2019 —a 2023, perdón— traemos una inflación del 24 por ciento y hemos tenido un incremento en esta tarifa aproximadamente del 16 por ciento. Ahorita, si queremos ver un caso específico, lo validamos, justamente para ver cómo hemos mantenido el tema inflacionario, tanto en la tarifa doméstica como en la tarifa industrial, comercial o de servicios, que es por parte de la comisión reguladora.
+En ese sentido ¿qué ayudó en este bloque? el haber manejado con la comisión reguladora un modelo específico para dosificar ese crecimiento tarifario, permitió que en el año 2021, fue en el 2021 cuando fue el vórtice polar en el estado de Texas, en el cual hubo una escasez tremenda de gas, las centrales de CFE consumen gas para generar energía eléctrica; de hecho, los estados o las poblaciones del sur de Texas duraron alrededor de cuatro, cinco semanas, sin energía eléctrica; nosotros tuvimos colapsado el estado de Chihuahua, el estado de Nuevo León, no más de una semana.
+¿Qué pasó ahí?
+Como hubo reservas de gas o escasez de gas, el precio del MBTU se fue de 380 a 300 dólares o una exposición del mil por ciento y eso significaba, uno, o dejar de consumir gas y parar centrales o consumir ese gas e impactarlo a la tarifa en un mil por ciento y con esta condición de matrices que hicimos con la comisión reguladora fue impactarla solamente en esa condición e ir buscando el mecanismo para recuperar ese excedente que tenemos de costos de generación, sino tuviésemos que haber hecho un sentido estricto de poder jugar con los costos de generación.
+Hubo productores independientes que trabajan el modelo de generación y para usos… Porque no tenían manera de poder costearlos o decir: ¿sabes qué? no voy a pagar a ese precio el costo del MBTU del gas porque no me va a salir, porque la tarifa no me lo va a pagar, y esta es una gran garantía.
+También tuvimos otro evento en el año 2022, cuando se vino la guerra de Ucrania. La guerra de Ucrania también empezó a liberar precios de gas muy costosos, porque nos fuimos de 3.80, nos fuimos a 16 dólares, o sea, estamos hablando de un impacto también del 100, 200, 300 por ciento, pero este mecanismo no fue traslado a las tarifas.
+En ese sentido, insisto, es un acuerdo que tenemos con la CRE, hay una condición específica en el cual se mantiene por el mandato presidencial de dosificar únicamente en el tema inflacionario el costo, los otros costos se están manejando sobre excedentes y sobre mecanismos en los cuales se permita tener una recuperación a futuro.
+Aquí podemos ver la tarifa doméstica, la tarifa doméstica tiene una referencia similar a la dosificación del tema tarifario de la inflación. En ese sentido, podemos ver que el precio medio.
+¿Por qué sacamos el precio medio?
+Porque recordemos que la tarifa doméstica ―ahorita la vamos a ver adelante― tiene diferentes costos en diferentes escalones. Un cliente puede consumir el 80 por ciento en el costo básico y el otro 20 en el costo intermedio, y en ese sentido no paga los dos costos, porque si los pagara 100 y 100 sí tendría ese impacto; pero como paga un 80 al costo más bajo y el otro 20 al costo intermedio, el precio medio lo hace más beneficio.
+Por ese sentido, el precio medio va por debajo de la inflación invariablemente que el costo del kilowatt hora per se del escalón uno contra el escalón uno del año pasado a este año pueda tener un siete por ciento de incremento obviamente en el tema inflacionario actual lo mantiene abajo en el precio medio.
+Entonces, ¿cuánto paga el cliente por cada kilowatt hora que consume? Sin embargo, bueno, en ese juego de escalones es cuando se hace la mitigación. Hay un ejemplo adelante, por si lo queremos validar.
+Entonces, en este sentido, también la tarifa doméstica, que lo vemos con la Secretaría de Hacienda, en el cual hace las corridas inflacionarias cada año, por ejemplo, Hacienda en el mes de noviembre determina la inflación del año y esa inflación es la que les aplica a todos los insumos energéticos, no nada más energía eléctrica.
+¿Qué quiere decir?
+Que el año pasado a noviembre, que es cuando hace el acuerdo para poder para poder promover o promulgar la Ley de Ingresos de la Federación y el Presupuesto de Egresos de la Federación, determina el impacto tarifario,
+¿Qué quiere decir?
+Que si el año pasado en noviembre anduvo al 7.8 la inflación, ese es un impacto que van a tener los costos asociados a los servicios en el siguiente ejercicio, nunca por arriba, siempre va por ese medio de tope, pero, sin embargo, en el precio medio se tiene ese beneficio.
+Aquí podemos ver enseguida dentro de todo el ejercicio en el tema de Sonora, específicamente para ser más cuantitativos, las diferentes gamas tarifarias que tenemos en el estado, y contemplando que desde diciembre de 2018 a julio 2023 traemos un impacto en la inflación acumulada del 25 por ciento, y aquí podemos ver cuánto se ha impactado a cada tarifa o a cada sector dentro del esquema de costos.
+La tarifa que más ha tenido es la tarifa doméstica con un 23, sin embargo, traemos un tope del 25 por ciento en el tema inflacionario.
+En el siguiente explicativo podemos ver aquí el mapa de calor, donde se puede ver la distribución tarifaria, desde la tarifa con mínimo subsidio hasta la máxima, que es de la tarifa 1 a la tarifa 1F, y podemos ver que todo el corredor central hasta una gran parte del norte contamos con la tarifa 1.
+De los 42.6 millones de clientes que tenemos en nuestro padrón doméstico, el 54 por ciento están en la tarifa 1, en esa proporción son servicios que tienen un consumo muy por debajo de lo que son las otras tarifas de mayor nivel escalafonados y subsidiarios.
+Aquí el segundo bloque es la tarifa 1C, con 5.8 millones de clientes, lo que representa el 14 por ciento.
+Y el tercer escalón es la tarifa 1B, con el 11 por ciento. Estamos hablando que con estas tres tarifas, la uno, la 1B y la 1C, tenemos alrededor del 75, 78 por ciento de los clientes.
+Tan sólo un pequeño estrato, lo tenemos clasificado en la tarifa 1F, que son de las más grades, y la 1E, con el seis y el tres por ciento del total de los clientes.
+Sin embargo, haciendo un escenario en el cual el beneficio que tiene la tarifa doméstica con el subsidio, hemos otorgado 59 mil 500 millones de pesos al cierre de junio. Vamos a llegar a cerca de 103 mil millones de pesos más o menos al cierre del ejercicio donde el mayor beneficio se lo lleva la tarifa 1, con el 38 por ciento de ese subsidio que hemos otorgado, pero disminuye en el costo del 53 por ciento.
+¿Qué quiere decir?
+Que ese subsidio se inyecta a los escalones, porque si no estuviera tendríamos que cobrar al escalón excedente, que es el precio promedio del mercado que se tiene ahorita asociado al costo de generación y a los costos de todo insumo de generación.
+¿Entonces qué quiere decir?
+Que estas tarifas aún bajo este mecanismo siguen siendo muy benéficas por el subsidio que recibe la Comisión Federal de Hacienda cada año y ese subsidio lo traslada la CFE a cada usuario, o sea, somos participes de entregarlo en cada recibo de acuerdo a su consumo.
+Recuerden que en el consumo de cada usuario no hay un límite para que lo consumas. O sea, tú puedes consumir los 10, los 100, los mil, los 10 mil, pero vas a tener una consecuencia: si tú brincas los umbrales bajos o medianos o altos, no hay un límite como un servicio en el cual te prohíba, limitado, no lo puedes usar a las 10 de la noche, no lo puedes usar a las 11 o no puedes consumir más de 100.
+El contrato de suministro de energía eléctrica es abierto porque puede usarse en cualquier hora, en cualquier periodo y no hay un límite para poderse suministrar energía eléctrica, puedes usar en la mañana, en la noche o en la tarde. Entonces, en ese sentido, es un tema en el cual el cliente tiene que tener un hábito de consumo para poder moderar su costo, asociado a su ingreso.
+Entonces, pues, bueno en ese sentido, comentar que las tarifas domésticas, desde la uno a la 1F, salvo la DAC, que es la de alto consumo, cuentan y se estimulan alrededor del 50 por ciento del subsidio asociado al costo real que existe actualmente en la generación de energía eléctrica.
+Obviamente, la tarifa 1F es la subsidiada de consumo y aplica en las regiones más calurosas del país, asociado a las mediciones que tenemos de temperaturas.
+¿Qué lo hace gran consumidor? Los equipos de aire acondicionado y ventilación principalmente.
+¿Por qué?
+Porque no es factible estar en una casa o en un negocio en temperaturas arriba de 30, 40, 45 grados.
+Podemos ver también el tema del perfil tarifario a nivel nacional, este es el estrato nacional, donde podemos ver que el 54 por ciento de los clientes que está en la tarifa doméstica 1, su facturación promedio mensual anda en 122 pesos, estamos hablando de 250 pesos en promedio cada recibo de estos clientes sin impuestos, y podemos ver el margen de la tarifa 1F.
+¿Qué quiere decir?
+Que los usuarios que están en localidades de temperaturas muy altas y que se facturan con la tarifa 1 andan pagando en promedio 820 pesos, en promedio bimestral, o 411 pesos mensuales. Ahorita podemos ver el estrato asociado, es decir: ‘Ah, caray, yo conozco casos que pagan 10 mil o yo conozco casos que pagan 20 mil’, esos casos vamos a ver cuáles son su clasificación de consumo, porque todo lo hace la clasificación de consumo.
+Recientemente también por ahí en redes sociales, el día de ayer, antier, salió un periodista en el estado de Sonora, creo que, en Hermosillo, asociado a que la CFE está cobrando excedentes de más en los recibos porque ahora los consumos los manejamos con un dispositivo y con eso ya la cargamos lo que nosotros queramos. Este es una total… Esa es una aseveración, porque la extracción de consumos de los medidores para poder sacar una factura está establecido por ley, son las disposiciones administrativas de carácter general que rigen para el suministro de energía eléctrica, y ahí se define bajo qué mecanismo la CFE tiene que extraer la medición de esos medidores para poder atender el tema.
+El que la CFE haya migrado a un tema tecnológico está asociado para que no exista la intervención de un criterio o de la mano de un trabajador, simplemente se conecta a un dispositivo y se extraen. Es como cuando ustedes pueden ir a cargar gasolina, pues yo prefiero cargar una gasolinera que tenga una bomba electrónica a una que sea manual porque me daría una duda si estuviera en un tema manual, o una bomba de esas mecánicas, vaya.
+Esos dispositivos son avalados en las mesas de calibración de CFE y en cada uno de los momentos por la Procuraduría Federal del Consumidor para las condiciones, y siempre se hacen validaciones aleatorias y revisiones para ese sentido. Entonces, diferimos de lo que este periodista señaló porque obviamente puede causar mucho furor en el tema de las personas que dicen: ‘Ah, caray, pues es que la CFE me cobra como quiere’.
+Ahorita podemos ver también el tema asociado a las quejas, que tenemos asociado a los altos consumos y a la falta de pagabilidad y el mecanismo que estamos manejando para con ello.
+No decimos que no hay, obviamente sí hay y va a haber en el sentido de que puede haber un consumo excesivo o un consumo adicional, perdón, en los inmuebles o equipos que se tuvieron en todo el país, no nada más en el estado de Sonora, en todo el país durante esta época de calor.
+Aquí podemos ver en la siguiente el perfil del estado de Sonora en donde, pues, bueno, podemos ver que el 52 por ciento de todos los clientes del estado de Sonora, domésticos, ya cuentan con la tarifa 1F, que es la de mayor subsidio.
+Sin embargo, podemos considerar que tenemos poblaciones todavía de 100 mil clientes con la tarifa 1 o la tarifa 1A, que son los municipios que están en el norte del estado de Sonora, como es Agua Prieta, como es Cananea, como es Nogales y todas esas regiones, que a estas regiones les puede afectar también el calor como el frío, porque es un extremo frío.
+Ha habido años en los cuales las temperaturas de invierno han sido terribles y la única manera de abatir el frío también ha sido con equipos eléctricos, con calefacciones y más en las regiones de Agua Prieta y Nogales, porque son fronteras.
+Y el tema de frontera es consumir un insumo eléctrico o un equipo eléctrico de Estados Unidos por la economía que eso te representa; sin embargo, tiene un riesgo también en el sentido de poder tener esta condición.
+Se está trabajando con el gobierno del estado para poder validar que con esos estados, con esos municipios, perdón, hacer un estímulo dentro de los esquemas de fuera de verano.
+¿Por qué?
+Porque son muy representativos para ellos el tema de la ola de invierno.
+Y cabe mencionar que este gráfico se pone tal y cual es la mitigación o la nominación de las tarifas que tenemos actualmente; sin embargo, a partir del mes de mayo a octubre tenemos un convenio con el gobierno del estado de Sonora en el cual todos los municipios… De hecho, incluso hace tres años metimos los del norte porque no estaban, los municipios del norte, y metimos todos los municipios del estado de Sonora para que se graven en el periodo más cálido del año y tengan la tarifa 1F.
+Por ese sentido salieron todos los servicios de la tarifa DAC porque ya los ve con un consumo de la tarifa 1F y por eso se quedó un bloquecito de tres mil clientes asociado a que todos salieron con este beneficio de este estímulo.
+El pasado mes de abril formalizamos ese convenio con el gobernador y está aplicando a partir del 1º de mayo y va a salir a partir del día último del mes de octubre.
+¿Qué quiere decir?
+Que ahorita no va a tener esas manchas que ustedes ven en verde pastel van a estar ahorita mitigándose en el tema de la tarifa 1F. Por ese motivo, la tarifa 1 sale un poquito alta, ¿por qué?, porque son los consumos que tiene ahorita con la 1F, que son más, pero que se cobran con la tarifa 1F en todo este periodo.
+Aquí podemos ver un ejemplo muy claro de lo que yo comentaba en el tema del exceso del consumo, este es un ejemplo de cómo se desglosa el costo de un recibo en una práctica manual, esta es la tarifa 1F que aplica ahorita en el estado de Sonora.
+A un usuario el tope máximo es de cinco mil kilowatt horas, hablando de una bimestralidad, porque la tarifa son cuotas mensuales. Mucha gente piensa que dice: ‘Ah caray, yo quiero que me cobren mensual porque me vas a duplicar el costo del escalón’, no, lo único que se duplica es el consumo, pero el costo se deja tan igual para poderse afectar. O sea, tú tienes el mismo precio multiplicado por dos, y en ese sentido tiene no afectación mayor al tema de la pagabilidad del cliente.
+¿Qué quiere decir?
+Que un cliente que consuma cinco mil kilowatts horas en un bimestre y no tuviera la condición de subsidio, estuviera pagando alrededor de 3.49, tres pesos con 49 centavos y pagaría un recibo de 17 mil pesos. La tarifa que aplica ahorita, de esos cinco mil kilowatts horas estará pagando siete mil 800 pesos, cinco kilowatts horas sería el equivalente a siete mil pesos y tiene un estímulo de subsidio de 56 por ciento.
+Son pocos los clientes, ahorita lo pueden ver en la tabla que está acá abajo, que andan arriba de los cinco mil kilowatts horas.
+¿Qué quiere decir?
+Que ahorita, en ese escenario, la tabla que ven abajo, es un esquema de ejercicio que hacemos cada mes con cuotas mensuales. Y por ejemplo el caso 1, 2 y 3, que ustedes ven ahí, que son los usuarios que consumen hasta 600 kilowatts horas bimestrales o consumen 300 mensuales. Un usuario de estos en la ola de calor si tuvo un incremento adicional, subrayo, adicional del 20 por ciento pues tiene un impacto del 20 por ciento más en su tarifa o en su recibo, ¿por qué?, porque están no brincan ese umbral de lo que es el primer escalón.
+Pero ¿qué pasa con el umbral del caso 4?, en este umbral del caso 4, que son usuarios que consumen hasta mil 200, si se fijan, que es el escalón segundo. Tenemos nosotros, del total de los usuarios de los domésticos del estado de Sonora, que son 546 mil, el 14 por ciento está en ese umbral que representan 73 mil clientes.
+Si esos clientes consumen 20 por ciento más de lo que consumían en el bimestre o en el mes, van a tener una repercusión del 59 por ciento en la factura, ¿por qué?, porque brincan del escalón que cuesta de 70 centavos a 90, y esos son las condiciones que ahorita, a lo mejor, pueden salir de la gente que metió equipos de aire acondicionado adicionales, porque se dice también que con lo mismo, la Canacintra, nosotros tuvimos un acuerdo con ellos recientemente y nos informa y pública abiertamente de que hubo escasez de aires acondicionados aquí en la Ciudad de México y hubo escasez en varios estados en el cual la ola de calor agotó los insumos y, obviamente, esos equipos se tuvieron que haber conectado en algún lugar.
+Pero si ese equipo, si tú tienes tres minisplit o dos minisplit y pones uno más, incrementas un 20 por ciento y estás en el umbral de los mil 200, ese 20 por ciento de va a representar un 50 por ciento en el costo porque brincas al escalafón.
+Igualmente, en el otro caso, que es el caso número 6, que es el tres por ciento, son 18 mil clientes que están en el umbral de los dos mil 500, ahí es peor.
+¿Por qué?
+Porque ya brincas al excedente, que ese sí ya no tiene ningún costo o ningún estímulo de subsidio.
+¿Qué quiere decir?
+Que ese 20 por ciento te va a representar un 40 y tantos por ciento.
+Esas condiciones es la mecánica que tiene la tarifa, así está definida la tarifa, o sea, no se le puede decir: Oye, voy a mantener el mismo umbral porque la tarifa automáticamente lo clasifica en ese sentido. Entre más consumes, bueno, tienes un tema de más costo y tienes brincando de umbral, hay que cuidar que el cliente no brinque el umbral.
+¿Qué quiere decir?
+Que afortunadamente el 46, 60 por ciento de los clientes está en el primer umbral.
+¿Qué quiere decir?
+Que ese bloque de clientes no es tan benéfica la tarifa 1F, porque sus consumos son menores a ese esquema, sí hay otro bloque en el cual intensifica e incrementa los consumos.
+¿Qué hemos hecho con el gobierno del estado de Sonora?
+Bueno, pues como lo comenté yo ahorita, ratificamos el estado con el estado de Sonora, pues bueno, el convenio de apoyo específico a la tarifa donde a todos los municipios de este estado les aplicamos la tarifa 1F, no hay un distingo, es un tema que hacemos por sistema y se aplica del 1º de mayo al día último del mes de octubre.
+Y, bueno, lo ratificamos cada año en el mes de diciembre y, en ese sentido, lo cerramos y eso nos ayuda a mitigar mucho el tema de las quejas.
+¿Cómo están las quejas?
+Finalmente, bueno, informarles, este es el panorama que hemos recibido de todas las quejas, principalmente, de la Unión de Usuarios de Hermosillo, que es un colectivo que está liderado por el señor Peinado y, en ese sentido, bueno, él cada año hace actividades fuertes ahí con el gobierno municipal y del estado, y, bueno, con él tenemos un mecanismo para poder atender a todos los usuarios que vayan a este colectivo o que vayan con nosotros a nuestros centros, y, bueno, tenemos ya una gama de condiciones asociados a verificaciones, a cortes, a plazos, etcétera, etcétera.
+Podemos ver que en el 2018 traíamos alrededor de cinco mil quejas anuales, o sea, estamos hablando anuales. Y hablo de las quejas de alto consumo, plazos para pagar, etcétera, e implementamos el modelo del convenio en el 2020 y las quejas se fueron asociadas hacia abajo.
+Ahorita, al cierre del mes de agosto, traemos solamente 627 solicitudes que vamos a cerrar más o menos en 950 quejas más o menos en el año, que el mismo año, eso nos da un promedio de tres quejas diarias por día, en el cual se atienden inmediatamente.
+¿Qué quiere decir?
+Que esos mil o mil 500 clientes son de los que están en los estratos que brincan de escalafón. No se dice que no hay quejas, simplemente cuántas quejas pueden hacer, pueden ser 100, 200, 300, pero nuestro umbral ha sido desde las tres mil 500 anuales hasta las 950.
+Para darnos una idea del impacto que tiene este bloque de quejas, hay que decir: no las minimizamos porque una queja es una queja, o sea, hay que atender una queja, puede ser tan mayor impacto, de menor o muy grande.
+Para que se den una idea, en el estado de Sonora emitimos al año 6.3 millones de recibos porque a cada cliente le facturamos seis veces al año, o sea, es un bimestre, o sea, le cobramos alrededor seis bimestres al año, o sea, en ese sentido emitimos 6.3 millones de recibos, y cada recibo puede ser potencialmente una queja, cuando llega puede ser por alto, por bajo, y en ese sentido la recepción de las quejas representa un bloque porcentual muy bajo al tema que tenemos.
+Insisto, esta asociación es la que más peticiones nos piden, invariablemente de todo lo que se genera a través de las líneas de atención, como es el teléfono, como es la condición presencial, y en ese sentido atendemos este mecanismo.
+Si hay algo fuera del contexto, nosotros no manejamos un tema manual, todo está registrado en sistemas y todo lo tenemos manejado en escenarios asociados a que todo se tiene definido para poder llevar a cabo la estadística precisa y todo el tema operativo que requiere la Comisión Federal de Electricidad.
+En ese sentido, puedo platicarles que se está trabajando con el tema tarifario y se está trabajando con el tema de quejas, y yo le pediría ahorita, salvo que exista un tema para aclaraciones o preguntas y dudas, platicar el tema de quejas.
+---
+LUIS BRAVO NAVARRO
+Yo, perdón, vamos a atender, desde luego, todas las preguntas que quiera hacer la gente, nuestros compañeros de la prensa, pero si no tienen inconveniente yo le cedería la palabra al ingeniero José Antonio Vega, que es el coordinador de CFE Distribución, y al final de la exposición, abriremos la sesión con preguntas. ¿De acuerdo? Muchas gracias.
+Adelante.
+---
+JOSÉ ANTONIO VEGA GARCÍA, COORDINADOR DE CFE DISTRIBUCIÓN
+Muchas gracias. Un gusto saludarles. Gracias por acompañarnos y darnos esta oportunidad de aclarar algunos temas.
+La parte que me corresponde a nombre de CFE es ver la parte de las interrupciones. En este sentido, comentar que no hay sistema en el mundo que esté aislado y que no tenga fallas, y el nuestro pues así se comparta.
+En las siguientes diapositivas lo primero es decirles que tenemos un sistema eléctrico nacional para atender 48 millones de usuarios, ese es nuestro universo y sobre eso es de lo que les estaremos hablando. Haré alusión a dos municipios que fueron mencionados, y a un estado, y posteriormente entraré a nivel nacional para explicarles el funcionamiento de CFE.
+En esta primera parte de Hermosillo, comentarles que tuvimos una afectación ahí el día 26 de agosto a las 18:56 horas. Fue un vandalismo que se presentó en una red. Cabe mencionar que tenemos red subterránea. De los 891 mil kilómetros que tenemos, un seis por ciento es subterráneo, ese tiene una tasa menor de fallas, pero todavía no está curado contra el vandalismo, de tal manera que intentaron ahí un robo con una segueta y provocó esa falla, la cual afectó a alrededor de cuatro mil 500 usuarios, esto es lo que tenemos en un circuito.
+A nivel nacional en promedio en un circuito tenemos tres mil 840 usuarios, aquí fue un poco más, los promedios al final son nacionales, pero en este en particular esa fue la condición.
+En una hora con dos minutos habíamos restablecido el 75 por ciento, esto porque nuestro sistema es robusto y lo podemos estar transfiriendo a otras partes de nuestra red, y el resto, pues hay que reparar la falla, hubo que reparar el cable de potencia, hubo que hacer una actividad y nuestro personal trabajó toda la noche para que a las siete de la mañana ya regresara la luz, es decir, con este alcance en menos de 12 horas ya teníamos restablecido.
+Asimismo, comentar que en comparativas que tenemos, tenemos una disminución de la duración de interrupciones en ese municipio de un 48 por ciento y una disminución en la frecuencia de 22 por ciento, comparado el 2020 con el 2023.
+Asimismo, comentarles que los usuarios promedio, es decir, cuántos usuarios afectamos en cada interrupción, también se ha visto disminuido y esto es gracias a las inversiones que se hacen, ya sea que instalamos nuevos equipos, dividimos más red o instalamos más cable.
+En la siguiente diapositiva, en la parte de Mexicali, ahí no se refirió en algún aspecto a algo en particular, entonces quisimos mencionar que a nivel internacional todos los sistemas tienen fallas, algunos son atribuibles al propio desgaste de la infraestructura, al propio actuar de la empresa, pero otros están ajenos, como es el caso de fenómenos meteorológicos, ondas de calor, choques y otro tipo de afectaciones que pueden atenderse y ver si hay casos específicos.
+Para esto en este municipio tenemos una disminución de 22.5 en la frecuencia de interrupciones, es decir, cada cuánto le ocurre una falla a un cliente en particular, ha disminuido un 22 por ciento, y la cantidad de usuarios promedio también ha tenido una disminución.
+Si se presentara una interrupción en este municipio, en promedio estaríamos afectando el 1.3 por ciento de usuarios, así es como se maneja. Evidentemente, cuando tenemos un fenómeno meteorológico, una tormenta, una borrasca, ventisca, todo lo que se presenta en esa región o un huracán como Hillary que se presentó recientemente, pues ya afecta a una mayor cantidad de usuarios, pero está fuera del control la afectación, no está fuera de control la duración, donde sí somos referencia internacional.
+Nada menos, presenté el meteoro, nuestra gente ya estaba restableciendo. Y antes de que el meteoro se retirara de las costas de Baja California ya llevábamos un 62 por ciento de los usuarios establecidos en un día y en tres días logramos en 100 por ciento con nuestro personal.
+Lógicamente las condiciones las tenemos que evaluarlas correctamente y nuestro personal está facultado para, si nota un riesgo a su seguridad, no haga la actividad, primero es la seguridad de nuestro personal y luego la continuidad del suministro, es un principio. Y aun así, nuestro profesionalismo de cada uno de los 50 mil trabajadores es estar dando el extra y hacer jornadas nocturnas y prolongadas.
+En ese sentido, para esta región, para seguir fortaleciendo, este año, nada menos, estamos invirtiendo 102 millones de pesos para seguir fortaleciendo y seguir mejorando. Y en cuanto a la energía que se consume, este es cíclica, van a percibir entre julio, agosto, todos los años que sube la tarifa, pero no sube la tarifa, sube lo que consumimos cada quien, y lógicamente al consumir más se cobra más.
+Y como lo explicó el contador Martín, aparte cambias de escalón, pues se te va a duplicar ese efecto, y esto es cíclico y es en todos los sistemas, así funciona.
+También, en la siguiente diapositiva tuvimos una información ahí del estado de Tamaulipas, en el que decía que la gente productiva se estaba yendo, que ya no querían, porque CFE les daba un mal servicio. Nuestra información es totalmente diferente, nosotros en esa región tenemos una capacidad que actualmente se consume el 76 por ciento, es decir, tenemos capacidad para darle otro 24 por ciento, energía; esto sería: si no hiciéramos más inversiones estaríamos con toda tranquilidad tres años más supliendo.
+Y, como pueden ver ahí en la gráfica, la parte productiva cada año ha ido creciendo, aún en pandemia. Entonces no es cierto que se están retirando y no es cierto que damos un mal servicio, lo que sí es cierto es que tiene un crecimiento constante, tanto en clientes como en consumo, a nivel nacional crecemos casi un millón de usuarios por año, entonces esto habla de un crecimiento y de una fortaleza de la empresa para seguir dando esta electricidad.
+Ahí también dimos datos, la duración promedio en esta región ha disminuido un 10 por ciento, la frecuencia con que se presentan las interrupciones un 28 por ciento y estamos invirtiendo casi 300 millones de pesos este año en ese estado para seguir fortaleciendo la infraestructura.
+El crecimiento continúa, esto es permanente. Nosotros queremos comentarles que tenemos la visualización de cada uno de los estados y, si me permiten, les explicaré, porque tenemos el conocimiento como empresa, no como individuos, como empresa, de lo que pasa con cada uno de los 48 millones de usuarios.
+Me voy a permitir levantar, si me permiten. La siguiente diapositiva, explicar muy rápidamente: aquí en esta parte que nosotros tenemos 158 centrales de generación, es decir, donde se produce la electricidad para llevar el servicio, luego tenemos dos mil 800 subestaciones que elevan el voltaje para transmitirlo a través de 161 mil kilómetros de la red nacional de transmisión y luego de ahí tenemos tres mil 283 transformadores de potencia para bajar a niveles de consumo de media tensión y baja tensión, y llevarlo a través de 891 mil kilómetros y 12 mil 500 circuitos, la electricidad.
+Y posteriormente, a través de un transformador de distribución llegar a cada uno de los hogares. Esto nos da en total para dar una cantidad de 48 millones de usuarios.
+Y en esta parte sí me detengo un poquito más. Nuestro lenguaje coloquial, nosotros un transformador de distribución nuestro personal lo conoce como un ‘sector fuera’. De tal manera, que cuando ustedes escuchen esto en la calle más de alguno dirá: ‘Tengo afectado un transformador de distribución’, y otro puede estar diciendo: ‘Un sector’. Si no se capitaliza bien, se pensaría que un sector es muy amplio. Y, sí, son importantes, pero son 30 usuarios los que alimenta ese sector; es en promedio a nivel nacional.
+Uno de los que veíamos ahorita se afectaron 16 usuarios.
+Entonces para que dé el promedio unos pueden tener 10, otros 15, otros 40, pero el promedio nacional son 30 usuarios. Y para cuando se nos afecta un circuito la afectación es a tres mil 840 usuarios en promedio. El que vimos hace rato tenía cuatro mil 500, sin lugar a duda, uno va a tener mil, dos mil, pero el promedio es ese.
+Y cuando se nos afecta un transformador de potencia tenemos 14 mil 612 usuarios, de tal manera que cuando es una subestación, un circuito o de los 2.5 millones de medidos inteligentes antes de que el cliente sepa que está afectado, nosotros ya también lo tenemos registrado en nuestros sistemas, porque tenemos un seguimiento constante.
+Y esta parte inferior, tenemos las principales causas: ramas, animales, descargas atmosféricas, choques, objetos ajenos sobre la línea y vandalismo.
+Son de las principales causas por las que se presenta.
+Y para esto nosotros tenemos desplegados en todo el país, solamente como CFE Distribución 49 mil trabajadores de los 90 mil que somos en la empresa y estos están dedicados a atender a los 48 millones de usuarios, gracias a que tenemos casi mil 800 centros de trabajo en todo el país, de tal manera que tenemos una dirección general, 16 divisiones, 150 zonas, 632 áreas de distribución y 951 agencias comerciales.
+¿Esto qué nos permite?
+Estar cercano a la población para atenderle. Es decir, cuando se le va la luz a un poblado, sin lugar a duda en esa parte hay un trabajador de CFE, que es el primeramente impulsa y va a hacer las labores de restablecimiento. Esto nos da esta ventaja de ser una empresa de alcance nacional y que aparte está alineada con la parte de generación, transmisión y suministro básico.
+En la siguiente diapositiva resaltar el tema importante de cómo vamos en las interrupciones. Saidi y Saifi son referencias internacionales para medirnos en forma internacional, esto se refiere a interrupciones mayores a cinco minutos. Y del 2010, que empezamos esta medición, a la fecha hemos disminuido un 86 por ciento en la duración, y hemos disminuido un 80 por ciento en la frecuencia de interrupciones, y cada año estamos ahorita mejorando, cada vez será más difícil porque ya andamos en una referencia internacional muy importante, sin desconocer que esto se logra gracias a los casi 15 millones de horas hombre que dedica la empresa a dar mantenimiento a estos equipos, a esta infraestructura.
+En la siguiente diapositiva nosotros de aquí podemos ir desglosando, y les platico: tenemos 263 mil transformadores de distribución que cada uno afecta a 30 usuarios, es tres por ciento menor a lo que tuvimos el año pasado.
+Y aquí podemos ver en cada uno de los meses cómo se comportó. Y efectivamente, en julio hay una pequeña diferencia, ahí como la pueden observar, pero en los demás meses prácticamente en todos tenemos menos interrupciones incluido el mes de agosto, comparado los mismos periodos. Entonces, el nivel nacional esto es lo que tenemos.
+Y luego, de ahí lo podemos nosotros desglosar y ver a través de las 16 divisiones, y de las 16 divisiones podemos bajar a las 150 zonas, y de ahí a las 616 áreas, y alguien de la empresa sabe con claridad lo que pasa con cada uno de los 48 millones de usuarios.
+En la siguiente, lo mismo pasa para lo correspondiente a usuarios individuales, vean el comportamiento. Ahora bien, ¿por qué se presenta en julio y agosto esto?, es cuando más consumo hay, es cuando empiezan las lluvias, es cuando hoy se junta con una ola de calor y es cuando el usuario conecta más servicios. No le culpamos al usuario de ninguna manera, estas son cuestiones ajenas tanto al usuario como a las empresas, y como tal nosotros respondemos, igual lo clasificamos.
+En la siguiente diapositiva muy específico para el estado de Sonora. Este es el comportamiento, tenemos un ocho por ciento, un 8.4 por ciento menor que el año pasado. Y sí, efectivamente, ahí se repite en el estado nuevamente los sectores más en el mes de julio, pero el esto menos, y así cada uno de ellos podemos observar. Entonces, tenemos a nivel de detalle para llegar.
+En la siguiente diapositiva, servicios individuales, lo mismo, aquí tenemos Baja California y tenemos los servicios individuales. Entonces, podemos llegar a nivel de RPU que es la manera como controlamos y tenemos acceso a la información para saber cada cliente qué le pasó. Evidentemente, si nos lo preguntan, de memoria no lo sabemos, pero consultando nuestros sistemas podemos nosotros accesar.
+En la siguiente diapositiva, esta parte es muy importante. ¿Por qué podemos hacer esto? Nosotros mantenemos un monitoreo en tiempo real a través de 88 centros de control, los cuales nos permiten estar monitoreando en tiempo real lo que pasa con cada uno de esos 48 millones de usuarios, de tal manera que con estos es como si todo el tiempo estuviéramos vigilando el sistema a través de 37 mil 500 equipos instalados en las redes de alrededor de todo el país a lo largo y ancho.
+Y esto nos permite estar identificando a través de un 36 por ciento de automatismo, en algunos casos y ustedes lo verán, en su casa se va a la luz y en menos de un minuto regresa, eso es cuando opera nuestro automatismo en el cual ya tenemos un 36 por ciento o cinco minutos en lo que hacemos telecontrol y ya donde se presenta el daño ahí tardamos hasta que se repara.
+Y esto, finalmente, nos da las ventajas para tenerlo todo sistematizado, cuando es un solo usuario lo más seguro es que no lo tenemos visualizado y hay que llamar al 071 o cuando son sectores.
+En la siguiente diapositiva comentar también muy rápidamente para cerrar esta parte, decirles que la CFE hoy por hoy sigue invirtiendo para el progreso de México, que es parte del legado social que tenemos.
+Traíamos un histórico de cuándo inició la electrificación, cómo estábamos cuando se hizo la CFE, ahí traíamos un 36 por ciento, cómo cuando se hizo la nacionalización en 1960, traíamos un 44 por ciento y hoy traemos un 99.34, ya rompimos el hito.
+Ya son menos de un millón los habitantes que no tienen luz y para ellos hay un programa específico en el cual solamente este año esperamos llegar a más de 16 mil 258 obras, esto es siete veces más que en cualquiera de los años previos, siete veces más se está invirtiendo y lo mismo estamos haciendo en la demás infraestructura para asegurar que quien ocupe electricidad la tenga y esto nos dé esta ventaja.
+Sería los comentarios de nuestra parte.
+Quedo a sus órdenes.
+---
+LUIS BRAVO NAVARRO
+Muchas gracias, José Antonio.
+Vamos a iniciar con las preguntas, vamos de este lado, aquí. Adelante
+---
+PREGUNTA
+Muchas gracias. Buenos días.
+Soy Shaila Rosagel, corresponsal de Grupo Healy: El Imparcial, de Sonora; La Crónica, de Mexicali, y Frontera, de Tijuana. Yo fui quien planteé ayer esta problemática en Sonora.
+Preguntarle nada más para precisar o si ustedes me pueden precisar. Ahorita vi en la diapositiva que traen estos dos eventos nada más lo que ya había comentado el presidente en la mañana, de interrupción.
+Ayer hubo también otro apagón que se registró en La Victoria, que es también parte de Hermosillo. Se reportó que duró varias horas este apagón. No sé si ustedes tengan información, porque no aparece en la dispositiva de este apagón.
+Y, también, hubo otro apagón que fue reportado ahí en Sonora, también en Hermosillo que fue el 4 y 5 de agosto en la colonia Los Naranjos.
+O sea, son apagones de varias horas, ¿no?, estos que tenemos registrados nosotros como periodistas, pues, allá que luego se va a cubrir cuando hay los reportes de la gente. En esta ocasión la gente informó que tuvieron que salirse en la noche, ¿no?, a dormir afuera, porque estaba haciendo muchísimo calor por este apagón.
+No sé si ustedes tengan conocimiento de este apagón del 4 y 5 de agosto en la colonia Los Naranjos y el que ocurrió ayer en La Victoria. Eso por parte de los apagones.
+También preguntarles, bueno, si la red eléctrica de Sonora es suficiente para asegurar este abasto sin problemas en los hogares y en las empresas, que nos pudieran hacer un comentario.
+Y si las fallas que hay, las interrupciones en el servicio son solamente por esto que comentaban que de vandalismo o fenómenos meteorológicos y los otros que comentaban al final, si solamente es por esto los apagones.
+También, en otros estados si tienen ustedes más o menos en qué otros estados se dan apagones por varias horas o si nada más es Sonora, Baja California por los eventos meteorológicos.
+Y si también es por las mismas razones, vandalismo, fenómenos meteorológicos cuando se dan en otras entidades. ¿Cuáles entidades serían?
+En cuanto a las tarifas, me gustaría nada más saber en qué porcentaje calculan que se elevó el consumo en Sonora ahora con esta temporada de calor que sí es atípica para todo el país. Y, bueno, en Sonora sí ha estado muy fuerte, ¿no?, el calor y, en cuanto a la facturación, o sea, ¿qué porcentaje creció en Sonora el consumo y la facturación?
+Y, bueno, serían por lo pronto.
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Muchas gracias por la pregunta. Nosotros tenemos esto, como le explicaba, a través de mil 800 centros de trabajo. Afortunadamente, esta, por haber durado más de cinco horas, tenemos una regla: que cuando es más de cinco horas, aunque sean pocos los usuarios, tienen que informarlo a nivel nacional.
+De tal manera, que el día de ayer su servidor fue enterado de esto. Es una condición meteorológica, y hablaron ahí de dificultad de acceso. Evidentemente a las cinco horas quedó atendido, un poco menos de cinco horas, encontraron 18 estructuras de media tensión caída.
+---
+INTERLOCUTORA
+¿En la Victoria?
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Me dicen, son varias poblaciones. No veo la Victoria, pero me dicen que es de esa región. Y esta, le digo, un evento meteorológico, vientos, aires, lo que sea, y nos tumba estructuras.
+A nivel nacional es un comportamiento, nosotros no tenemos un trato diferencial y decimos: A este déjalo que ocurran más fallas, aquí no inviertas, cosa de esas, eso no ocurre en esta empresa. Para nosotros los 48 millones de usuarios los tratamos igual, y el reporte y la intervención de nuestro personal es igual.
+Entonces, ahí le, si me permite, le complementamos la información, esto es lo que tengo.
+---
+INTERLOCUTORA
+Entonces, ¿si dura más de cinco horas es cuando se reporta a nivel nacional?
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Son varias los criterios, uno de ellos es la duración y otro es la cantidad de usuarios afectados.
+---
+INTERLOCUTORA
+Por eso, quizás, el de los…
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Y a nivel local inmediatamente que ocurre, uno de nuestros mil 800 centros de trabajo, uno de nuestros 50 mil trabajadores va a ir a atenderla, y tanto así que nos informaron.
+---
+INTERLOCUTORA
+Ah, las tarifas, nada más, el aumento del consumo en Sonora en esta temporada, y la facturación cuánto aumentó.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Sí, bueno, es muy relativo porque magnificarlo a nivel estado de Sonora es dejar fuera a los que tuvieron un impacto mayor a los que tuvieron impacto menor; entonces, mitigarlo así sería como que muy impreciso, pero, bueno, a nivel nacional dentro de lo que fue el consumo en el sector doméstico, saco los estratos industriales y comerciales porque tienen un perfil distinto, en una casa habitación ya es un hábito, la familia llega a una hora, se levanta a una hora, o sea, tiene una rutina de lunes a domingo.
+A nivel nacional nosotros tuvimos un crecimiento de julio 2023 a julio 2022, asociado a que agosto lo estamos manejando en estos días de cierre, tuvimos un incremento del 3.5 en el consumo y con un impacto del 12.7 en el total del recibo.
+Sin embargo, el hacer este estrato a nivel localidad, hay localidades que sí tuvieron experimentos del 20 por ciento en el sector doméstico, hablando de condiciones municipales, porque Hermosillo es diferente a Nogales.
+Si sacamos Sonora, vamos a tener esa condición de discrepancia. Si decimos: ah, pues lo más fuerte del calor fue en Hermosillo, fue en Obregón y, no sé, Navojoa, si usted quiere, ahí tendríamos que sacar ese perfil porque ahí sí pudiéramos haber considerado un experimento de 15, 18 por ciento adicional, como la gráfica que yo presenté, y puede haber exposición en algunos estratos hasta del 15 o el 20 por ciento también en su pagabilidad.
+Pero a nivel nacional el crecimiento sí lo experimentamos con un 3.5 y con un 12 o 13 por ciento en el tema del costo.
+---
+INTERLOCUTORA
+Ya nada más para finalizar, las personas ahí en Sonora, en Hermosillo, estaban reportando que para hacer el reporte de cuando no hay luz se tienen que comunicar hasta acá, hasta la Ciudad de México, hablar al centro del país, porque allá no les reciben el reporte. ¿Qué es lo que les han informado? No sé si nos puedan comentar sobre eso.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Bueno, el teléfono 071 es un teléfono nacional, ese teléfono nacional lo atienden, tenemos 14 call center, que son call center regionales, pero es un solo nacional, o sea, la demanda de llamadas se distribuye en nacional.
+¿Qué quiere decir?
+Que entra la llamada al 071 y ve a cualquier ejecutivo que esté disponible en todo el país, porque tenemos un call center en Hermosillo precisamente, otro en Monterrey, otro en Puebla, otro aquí en el Estado de México, en Morelia y en ciertas cabeceras de estado. Al ejecutivo que lo ve disponible lo canaliza y lo manda; invariablemente, si habló de Hermosillo, lo puede atender un ejecutivo de Veracruz o lo puede atender un ejecutivo de Oaxaca.
+No es cierto que no se atienda ahí localmente, se distribuye justamente para aprovechar la fuerza de trabajo.
+Hemos tenido una sobredemanda, sí, de llamadas, eso es una realidad, estamos hablando de que recibíamos alrededor de 3.5 millones de llamadas mensuales y ahorita tenemos cerca de cinco, asociado a necesidades todos, contratos, fallas del suministro, etcétera, etcétera, y en eso hay tiempos de espera para poder enlazarlo.
+¿A qué se le da prioridad?
+Obviamente, cuando tenemos una contingencia, lo comentaba el ingeniero Vega, en el cual, ah, caray, tuvimos un circuito fuera, un circuito fuera es cuando se va cuatro mil usuarios y que se fue una colonia completa o dos colonias, eso tiene alta prioridad porque estás hablando de que tienes tres mil clientes sin energía eléctrica y potencialmente te van a estar hablando, y tiene una maniobra inmediata de restablecimiento, a diferencia de decir: Ah, caray, me habló un cliente que está en una colonia fuera y tiene una afectación, se le da un poquito de tiempo de espera más para poder atender una emergencia, es una emergencia y una falla local.
+Sí tenido ese experimento y posiblemente los tiempos de espera han sido mayor cuando menos en el mes de julio y en el mes de agosto, porque nuestra demanda también ha demandado y ha pasado los bordes de capacidad diaria que tenemos en el call center.
+---
+LUIS BRAVO NAVARRO
+Gracias, Martín.
+Adelante.
+---
+PREGUNTA
+Sí, buenos días.
+Demián Duarte, de Sonora Power.
+Bueno, a ver, es que hay muchas cosas y evidentemente el tiempo es corto. No es que tengamos nosotros una queja generalizada por suspensiones al suministro, la verdad eso es peccata minuta, respecto de lo que ocurre, se entiende que hay cortes por exceso de demanda, por la cuestión climática, por vandalismo o por lo que sea, ¿no?
+Y seguramente habrá a quién le ha tocado padecer esto en la noche, a mí me tocó en la tarde recientemente, pero es algo que al final de cuentas lo damos por hecho, ¿no?, y, además, damos por hecho que se va a reparar el suministro, lo cual es importante.
+No, no, no. Aquí, mire. Yo vivo en Hermosillo, ¿no?, voy y vengo, entonces creo que nos hemos visto aquí en alguna ocasión anterior debatiendo sobre el tema del uso de aires acondicionados.
+Bueno, hoy estamos en la Ciudad de México, estamos a 19 grados centígrados, una temperatura muy cómoda. Yo vivo en Hermosillo, ahorita allá estamos a 38 grados, estamos en la temporada de calor.
+La temporada de calor no empieza en mayor, en Hermosillo empieza desde marzo a darse temperaturas arriba de los 30 grados. El lunes pasado tuvimos 50 grados, el martes tuvimos 49, hoy la expectativa es que tengamos 48 grados.
+Esta es una cuestión muy sensata, es decir, en Hermosillo, en Ciudad Obregón, en San Luis Río Colorado, en Caborca, en Puerto Peñasco, en distintas comunidades que tenemos alrededor de estas que son las ciudades grandes.
+Es imposible estar sin el auxilio de un equipo de aire acondicionado o algún otro equipo. Nos dicen: ‘Prende el abanico’; no, el abanico no funciona para eso, no enfría, pues, el ventilador, por ponerlo en términos coloquiales.
+El asunto de fondo y la queja generalizada que tenemos es que, en efecto, hemos percibido, y yo analicé correctamente, un incremento relacionado con la inflación, que estuvo muy alta la inflación el año pasado. Afortunadamente ahorita ya bajó al cuatro por ciento.
+Se subió en un ocho por ciento las tarifas, al menos es lo que yo saqué proporcionalmente. Usted dice que el siete por ciento, me estoy refiriendo a usted, Luis Martín.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+7.6.
+---
+INTERLOCUTOR
+7.6, es básicamente la media.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+De julio a julio a 7.6
+---
+INTERLOCUTOR
+Exacto.
+Y hemos —naturalmente por una temporada atípica de calor que, de acuerdo con la Conagua, es la mayor ola de calor en la historia, por lo menos registrada— hemos tenido que prender más tiempo nuestros aires acondicionados.
+Quienes sabemos cómo funcionan esos equipos sabemos que el compresor, cuando hay mucho más calor, pues obviamente opera durante más tiempo y eso implica pues un exceso de consumo superior.
+Esto obviamente ha disparado las mediciones hasta el cielo.
+Ahora, es imposible que yo usuario o cualquier ciudadano tenga una idea de qué es lo que está pasando con el consumo, o sea, uno simplemente prende el aire acondicionado y espera tener cierto nivel de confort en su casa o en su oficina o donde sea que esto ocurra.
+El asunto de fondo —también entendemos todo lo que usted explicó de la 1F, la 1D, etcétera, etcétera, lo conocemos de fondo, vivimos allá, entonces, ya sabemos cuándo va a entrar, que es mayo y que es hasta octubre, qué tipo de consideraciones hay, los escalones y todo esto— el asunto de fondo: el gobernador está planteando la posibilidad que se amplíe la vigencia de la tarifa 1F, creo que ustedes ya están al tanto, él está pidiendo que se amplíe a los meses de abril y hasta noviembre. Esa es una pregunta en específico, si se puede hacer esto.
+La otra pregunta muy particular es: tenemos ya el problema encima, es decir, no queremos una explicación, la explicación creo que la conocemos, se la acabo yo de referir, la pregunta es: ¿qué vamos a hacer con todos estos usuarios que nos han llegado recibos inusualmente altos, de cinco mil 800, de siete mil 200, de 15 mil pesos, etcétera, etcétera. Porque ustedes, de acuerdo a la lógica de lo que hace la CFE, van y cortan, no preguntan, y creo que eso es contrario incluso a los criterios del gobierno humanista que manifiesta el presidente.
+Es decir, usted no puede estar en Hermosillo sin electricidad, sin aire acondicionado, sin un cooler, sin un abanico o lo que sea, y esto pone en riesgo la vida de los niños, de los adultos mayores, de los enfermos.
+Hace poco, vamos, ustedes mismos se dan tiros en el pie, le fueron a cortar la energía al Instituto Nacional de Antropología e Historia en Hermosillo. Ahí hay materiales sensibles, incluso manifestaban los responsables que hay unas momias ahí con una cuestión de atención especial. Entonces, la pregunta es: ¿sensiblemente qué se puede hacer respecto a todos los usuarios que ya tienen el problema y que no tienen el dinero para pagar este exceso de consumo que tenemos en esta temporada?
+Naturalmente que la expectativa que tendríamos nosotros pues que se amplíen las tarifas, que nos mejoren los costos, etcétera. A veces es imposible, tenemos equipos viejos en nuestras casas, tenemos la necesidad de usar el suministro, pero hay una diferencia de fondo tajante, miren: entre el clima que tenemos aquí, por eso dije cuánta temperatura está aquí y la que tenemos allá, allá es imposible estar así.
+Y la otra cuestión: no es cierto lo que usted dice, perdone. A nosotros nos cobran mensualmente los recibos, a todos, en Hermosillo yo no conozco a nadie que pague bimestral, es un asunto que es claro y tajante. Y yo conozco gente a la que llegan, vamos, lo menos, dos mil 500 mensuales, son cinco mil pesos al bimestre. Comparado con lo que se paga aquí en el centro del país, pues hay una diferencia tajante y de fondo.
+Entonces, la verdad es que lo queremos son respuestas. A lo mejor ustedes no pueden dar las respuestas completas, hacer compromisos en este momento, pero sí es importante poner estos temas sobre la mesa porque son soluciones de fondo las que se necesitan.
+Las explicaciones, pues son buenas, pero no sirven para nada, es decir, el consuelo es que ya tengo que pagar el recibo, dijera alguien en Hermosillo, de seis mil pesos por el mes de consumo pasado y ahorita están llegando ya los consumos del 20 de julio al 20 de agosto y obviamente la gente tiene el grito en el cielo.
+Muchas gracias.
+Demian Duarte, de Sonora Power.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Bien, señor Duarte, de nuevo, gusto en saludarlo, sí me acuerdo perfectamente de usted.
+En atención a la primera pronunciación que usted hace, efectivamente, se está trabajando con el gobernador Durazo, el escenario para poder ampliar ese convenio a modo tal en el cual se tenga la viabilidad de ampliarlo dos meses más, de abril a noviembre.
+Este convenio que se está aplicando ahorita fue porque es reiterativo y el presidente de la República…No es que no queramos nosotros atenderlo ni tengamos esa facultad, pues simplemente son convenios presidenciales que los valida Hacienda, tienen ya una mecánica: cambiarlos, tienen que pasar por un protocolo asociado al tema de la condición operativa de cada entidad.
+Entonces, esperemos que el próximo ejercicio trabajemos con el gobernador Durazo y con toda su gente para poder tener esa ampliación. Esa ampliación tiene sentido porque, bueno, como usted señala, en abril empieza la onda de calor y puede ampliarse hasta el mes de octubre.
+Estamos trabajando en ello, yo creo que próximamente el gobernador estará dando su pronunciación, porque es el encargado de hacerlo a través de su medio, es viable.
+El otro, el corte del servicio. El corte del servicio para la Comisión Federal representa el único mecanismo para poder recuperar la energía eléctrica. Si usted no tiene dinero para cargar gasolina, no le van a cargar gasolina; si usted no tiene dinero para cargar datos de su celular, no le van a cargar su celular.
+Yo expliqué ahorita justamente que el contrato de suministro de energía eléctrica es un contrato muy bondadoso porque no lo limita a usted para nada. Usted tiene un contrato y dice: ‘Quiero consumir hasta cinco’ y puede consumir hasta 20 y el día y a la hora que usted quiera, bajo una condición en la cual se pueda exponer a un costo fuera de su promedio de gasto, como el celular o como la gasolina, por hablarlo así.
+En ese sentido, pues, bueno, sí, efectivamente, el corte lo define la Ley de la Industria Eléctrica y dice: ‘Bajo el sistema de corte la CFE recuperará sus adeudos’.
+¿Por qué?
+Porque en ese sentido es el mecanismo que tiene la Comisión Federal de Electricidad para que ya no me sigas debiendo, primero págame y no me sigas debiendo, porque vas a tener una condición de impagabilidad.
+¿Qué se hace con esas condiciones?
+El corte es el último de los temas que se agotan, porque en Hermosillo estamos manejando con la asociación y con toda la población, incluso acabamos de formalizar un convenio con la Canacintra donde se están dando facilidades para pagar, asociado a la problemática y capacidad financiera que tiene cada cliente que así lo exponga.
+Entonces, está abierto el modelo de pagabilidad y verificación previamente a la condición de que el servicio pueda o pueda estar bien.
+El otro punto es: esa es la sensibilidad que estamos manejando, porque nosotros preferimos recuperar el adeudo que cortar, caray, pues a eso nos dedicamos, a vender energía eléctrica.
+Las tarifas, insisto, usted lo explicó, dijo que ya las conoce, qué bueno, porque tiene una noción de lo que está sucediendo y conoce también sus consumos y conoce usted la deficiencia que pueda o no tener en sus aparatos eléctricos.
+No lo explicó el ingeniero Vega, pero de la mayor parte de las fallas que tuvimos y que él expuso en el mes de julio y agosto, la mayor parte de las quejas fueron individuales y fueron asociados a que la instalación eléctrica del cliente sufrió daño por una sobrecarga: el fusible se quemó, se quemó la instalación.
+¿Por qué?
+Porque esa condición es instalación del cliente. Su coche, si quiere que gaste menos gasolina, lo tiene que tener usted plenamente afinado para que pueda jalar y pueda funcionar correctamente, ¿no?
+En la instalación eléctrica, usted me lo… nos dio a una cátedra aquí a todos muy padre, pero asociado a que, si ese es el perfil de los usuarios de Hermosillo, pues tenemos un problema.
+¿Por qué?
+Porque son instalaciones que tienen y la CFE no va a poder arreglar la instalación, le va a insistir y le va a sugerir que la arregle para que usted tenga beneficios en el consumo y tenga un estímulo en la tarifa.
+La sensibilidad de la CFE es: claro que sí, estamos abiertos a las facilidades, tenemos mecanismos, tenemos protocolos para hacerlo.
+Es falso que no exista la facturación bimestral en Hermosillo, tenemos un mix. Yo dije que la prioritaria es la bimestralidad.
+Se hicieron modelos de facturación mensual, porque se vendió el tabú en aquella época de que como los facturábamos mensual, cobramos el doble las cuotas. Y la gente fue a pedirnos la facturación mensual. En ese sentido, no es lo mismo pagar mensual que bimestral, para nosotros es mucho más cómodo tener un financiamiento mensual que bimestral, o seas, es mejor que me debas un mes a que no me debas un bimestre. ¿Me explico?
+Pero se hizo ese cambio, por ese tabú que existió y alguien socialmente lo vendieron en que el cual CFE duplicaba los costos de las tarifas y se hicieron ciertos estratos de consumo de Hermosillo que son de una clasificación mediana o alto, se pasaron a la condición mensual por una condición específica.
+En ese sentido, tenemos un mix de facturación bimestral y mensual en todo el estado de Sonora. La mayor parte de la facturación de la CFE es bimestral y es una opción y una alternativa.
+¿Cuál es la mensual?
+Tenemos un mecanismo de recargas en el cual usted va y lo puede hacer hasta por 15 días o por 20 días o por 30, usted define la fecha de corte que se requiere y, también, es una modalidad que tenemos aceptada en ese sentido.
+---
+INTERLOCUTOR
+¿Cuántos usuarios reciben su facturación mensual y cuántos bimestral?
+Ahora, no es una queja, ¿eh? Yo prefiero que me cobren mensual a tener que pagar 15 mil pesos al bimestre, ¿no?, la verdad, o sea, así las cosas, pero es una cuestión simplemente de precisar el dato, y al final de cuentas puede resultar incluso irrelevante para nosotros, pero el tema es que sí los recibos están muy disparados.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Sí, pero lo hace el consumo, y usted lo explicó claramente, el consumo lo hace asociado a que te infla el tema del costo y te infla el tema de… A nivel nacional el 98 por ciento, por decirlo así, es bimestral.
+¿Por qué?
+Si usted se fijó en el mapa de calor, toda la condición de servicios de tarifa doméstica es la tarifa 1, y el costo que tenemos operativo pues es mejor ya tomar una lectura cada bimestre por el costo que representa de salarios, de gastos de gasolina, de combustibles, a cobrar 200 pesos por mes o 400, es optimización de costos para que la CFE tenga eficiencia y darle un margen de pago al cliente de dos meses, por eso lo hacemos bajo esa condición asociado al tema operativo y de costos y de beneficio al cliente.
+Un cliente que quiera pasarse a la mensual no tiene mayor problema y le damos esa mensualidad, solamente lo quería aclarar en el último tema que usted señaló.
+---
+LUIS BRAVO NAVARRO
+Bien, allá atrás. Perdón, antes le voy a pedir al contador y al ingeniero que seamos lo más breve posible porque tenemos el tiempo encima, por favor, sí, en las respuestas, por supuesto.
+---
+PREGUNTA
+Yo soy Tere Mora Guillén y vengo del corporativo Imagen del Golfo, del puerto de Veracruz, señor.
+Y yo quisiera… Hay constantes apagones que se han incrementado en los últimos meses en la región sur de Veracruz. Añaden que esto pasa cada año.
+Y los habitantes de la comunidad de Salinas, perteneciente al municipio de Alvarado, ante la falta de energía eléctrica en sus domicilios, determinaron dando anoche bloquear el tramo carretero Paso del Toro-Alvarado.
+Y quisiera saber cuántos usuarios tiene el estado de Veracruz y por qué este año se han registrado tantos problemas en el suministro eléctrico, en el corte de energía en la entidad, aparte por los fenómenos meteorológicos.
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Mire, en la División Oriente, que es la atiende esa parte, prácticamente es todo el estado de Veracruz, atiende muy poquito Puebla y muy poquito otros, le voy a dar los datos de la división.
+En la División Oriente los sectores, este año, han andado alrededor de los cuatro mil y solamente tenemos aumento en julio y agosto y el mes de enero, los demás meses están dentro por debajo de la anterior, de tal manera que el acumulado es menor al año pasado, sin decir que no existen, tan lo decimos que decimos que traerían un promedio de cuatro mil por mes, hay una mejora en lo global.
+Y en cuanto a servicios individuales, ahí solamente en el mes de enero fue cuando se tuvo más y después de eso se tiene ya menos interrupción.
+Entonces, tenemos esta facilidad y tenemos ahí ahorita, seguramente nuestro general en esa división está escuchando y preparará algo al respecto para darles información.
+Y, quizás, si no lo permiten, sería conveniente hacer reuniones locales, donde el gerente, nuestros superintendentes tienen la información fresca, yo ahorita aquí tengo información general, a lo mejor dice: Paso del Toro, ah, sí sé que ha tenido este y este problema en general, pero la particularidad, a lo mejor no llegamos a ese punto. Si nos dan oportunidad, llegamos, o la otra es provocar allá reuniones locales también.
+INTERLOCUTORA (Inaudible) y en los apagones en todo el estado.
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Sí, aquí lo tenemos de esta manera.
+---
+INTERLOCUTORA
+¿Cómo le hacemos para tener la respuesta?
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Prepararíamos, si nos permiten, es una nota general.
+---
+LUIS BRAVO NAVARRO
+Una nota general, nos dan los datos para establecer ese contacto con ustedes y dar la explicación.
+Lo que sí es importante señalar es que la palabra ‘apagón’ la aplican cuando se va la luz dos segundos, ¿no? Entonces sí es importante dejar muy en claro que los sistemas eléctricos en cualquier parte del mundo tienen estas situaciones. Pero, por supuesto, que vamos a atenderlo de esa manera.
+---
+PREGUNTA
+Buen día.
+Manuel Temoltzin, de Liberal Metropolitano, de revista Cúspide y Asociación Nacional de Locutores.
+Traigo un tema aparte, sé que la Comisión Federal de Electricidad va a resolver bien los temas, los problemas de los compañeros en diversos estados de la República mexicana porque, como dice el presidente, la Comisión Federal de Electricidad es uno de los mejores equipos con los que cuenta el gobierno de la Cuarta Transformación.
+Mi pregunta es acerca de los autos eléctricos. ¿Las zonas de carga van a ser concesión de Comisión Federal de Electricidad o van ustedes a interactuar con empresas privadas para dar ese servicio de carga eléctrica a los autos eléctricos?
+¿Y qué futuro ven la llegada de autos eléctricos ante este avance tecnológico?, porque en Estados Unidos dice que dentro de dos años la mayor parte del país tendrá ya autos eléctricos.
+Esa es mi pregunta.
+Muchas gracias.
+---
+JOSÉ ANTONIO VEGA GARCÍA
+Esta parte no está en nuestro control, hay un ente regulador, la Comisión Reguladora de Energía que estará emitiendo los lineamientos.
+Al día de hoy nadie puede revender energía, entonces es una regla y ya se están viendo esos mecanismos.
+Sabemos de buena fuente que la CRE está haciendo lo propio. Entonces estaríamos imposibilitados ahorita para dar una respuesta. Sí se está preparando.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Y en adicional a ello, ahorita no está inhibido que usted pueda hacer un contrato para una unidad de recarga, siempre y cuando usted sea el beneficiario de ese automóvil.
+Usted puede poner una estación de carga en su coche para que no se le incremente el consumo de su casa y ahí se le da una tarifa de uso general y específica, pero lo que está prohibido como dice el ingeniero Vega, es que se pueda poner en una estación de gasolina y usted vaya y recargue y la gasolinera le cobre a usted un costo adicional, porque ahí sería reventa de energía eléctrica.
+Entonces, no hay tarifa regulada como la hay para las casas, para la industria. Y está trabajando la Comisión Reguladora con las disposiciones administrativas para emitir eso, donde en las estaciones de recarga públicas ¿cuánto sería el costo que pueda tenerse?, porque está inmerso en la condición del contrato.
+De hecho, ahorita ya tenemos varias peticiones, una de ellas es la de Tesla que está ubicando un universo en… aquí principalmente en la Ciudad de México, en el Estado de México y algunas ciudades como Monterrey y Guadalajara, pero en tanto salga la revolución tarifaria se va a liberar el tema de su contrato.
+---
+LUIS BRAVO NAVARRO
+Vamos a una última pregunta, ¿verdad?
+Aquí.
+---
+PREGUNTA
+Gracias. Buenos días a todos.
+Liliana Noble, de Pulso Saludable.
+Quisiera que me ayudaran a entender un poco qué pasa con la tarifa DAC, sobre todo en Nacozari y en Agua Prieta. ¿Habrá algún compromiso por parte de la CFE para ayudar a estos usuarios a que sus costos se reduzcan?, porque entiendo que pagan recibos bastante onerosos; entiendo el tema del cambio climático y esta ola de calor, pero ¿habrá algún tipo de apoyos?
+Esa sería una primer pregunta. Gracias.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Sí, bueno lo comenté ahorita y, efectivamente, lo que es Nacozari y Agua Prieta, Cananea e inclusive tenemos considerado hasta Nogales que es la parte norte, trabajamos y lo que hicimos con la tarifa DAC cuando implementamos este convenio, sacamos a todos los usuarios que estaban en la DAC, justamente, porque en el 2019 fue una ola gélida muy fuerte que le pegó a esa región y clasificó a muchos en esta tarifa, incluso no tenían ni convenio.
+Ahí trabajamos con la gobernadora en aquella ocasión, justamente para poder hacer un modelo y sacarlos y, ahora sí, poderles dar ese estímulo.
+Ahorita los tenemos en la tarifa 1F y la tarifa DAC, que está inhibida, no nada más para esos municipios, para todo el país.
+En el acuerdo que hicimos con Hacienda está inhibida de que todos migren, o sea, están dentro de la tarifa normal u ordinaria, y está inhibida que pasando el umbral de su consumo vayan DAC; pueden salir, pero no pueden entrar, y el presidente nos dio el mandato de que así se mantuviera hasta el próximo ejercicio para poder quitar esa tarifa y poderla meter en las tarifas normales.
+---
+INTERLOCUTORA
+Okey, gracias.
+Y en segunda pregunta, acá en Ciudad de México nos han llegado algunas denuncias de exfuncionarios que trabajaron en el gobierno anterior que tienen consumo o instalaciones trifásicas, es decir, que están consumiendo la energía de las áreas comunes, no pagan el servicio, pero se les adjudica a los demás usuarios de los inmuebles, y ellos dicen que es un servicio que se les otorgó en los gobiernos anteriores, y entonces están pagando su servicio todos los demás usuarios. ¿Ahí que se puede hacer?
+Gracias.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Bueno, opino a título personal, no debería haber funcionarios de CFE haciendo este tipo de…
+---
+INTERLOCUTORA
+No son funcionarios de CFE, pero sí de otra dependencia.
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Ni de CFE ni de ninguna otra.
+---
+INTERVENCIÓN
+Pero explico, aquí en la Ciudad de México hay una procuraduría que se llama la Prosoc, que es la Procuraduría Social. En ese sentido, en cada inmueble, inmueble hablando de que existan más de seis, siete, 10, 100 inquilinos, se determinan los usos propios del inmueble, como es elevadores, como es alumbrado ornamental, como es alumbrado público del propio inmueble.
+En ese sentido, se determina un administrador de ese inmueble, y él es el que se encarga de cobrar los servicios. Entonces, la CFE sí otorga un servicio independiente a la vivienda, porque este mide los elevadores, este mide el alumbrado, y sale un recibo y ellos se encargan de pagarlo.
+Cuando hay una discrepancia en el pago de ello, se hace a través de la Prosoc, y hay un modelo que tenemos en el cual ellos asumen y están de acuerdo en que cada recibo de cada vivienda les carguemos esa parte proporcional, y se llama el traslado proporcional de los usos propios o de los usos comunes, y se lo cobramos a cada cliente, y nosotros compensamos ese servicio.
+Hay dos modalidades: uno independiente y otro a través del propio recibo del cliente y lo valida la Prosoc.
+---
+INTERLOCUTORA
+Pero estando dentro de ese (inaudible) hay discrepancia, hay otro usuario o un grupo de usuarios que porque son funcionarios públicos tienen trifásico cuando debería tener bifásico y no pagan el servicio, y lo tiene que pagar los mismos de los condóminos. ¿Ahí qué se puede hacer?
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Valdría la pena revisarlo porque están en irregularidad y hay que regularizarlos. La CFE lo que hace: cuantifica lo que estuvo en irregularidad, porque hace un cobro a posteriori y se regulariza el servicio.
+---
+INTERLOCUTORA
+¿Con quién se podría acudir?
+---
+JOSÉ MARTÍN MENDOZA HERNÁNDEZ
+Con nosotros. Si usted nos da los datos de cuál es el inmueble, se manda a verificar el inmueble completo y se hace la validación de cada medidor y en específico los usos comunes.
+---
+LUIS BRAVO NAVARRO
+Hay muchas inquietudes, perdón, hay mucha gente todavía de compañeras y compañeros de la prensa, pero el tiempo apremia, me están haciendo aquí ya la indicación que tenemos que suspender. Sin embargo, yo les invito, les convoco a que estaremos periódicamente informando, porque la CFE es un monstruo de mil cabezas y requiere que mantengamos a la opinión pública informada.
+Entonces, estaremos convocando, desde luego no aquí, en las instalaciones de la Comisión Federal de Electricidad para despejar las inquietudes. Me pondré de acuerdo con ustedes para hacer ruedas de prensa periódicas y sobre todo destacando, por un lado, los temas que inquietan a la opinión pública, que inquietan a la sociedad mexicana y, por otro, también, pues es una oportunidad para nosotros para desmentir muchísimas versiones periodísticas falsas en las que atribuyen a la CFE que se genera caro y sucio, cosa que es falsa, y muchas otras atribuciones que le ponen a la CFE que son contrarias a la realidad.
+Entonces, creo que es muy sano ejercicio poder tener esta comunicación circular con los medios de comunicación y nosotros para poder a través de ustedes mantener a la sociedad mexicana informada.
+Muchísimas gracias. Muchísimas gracias por su presencia. Gracias, contador, ingeniero. Y gracias a todos ustedes.
+Buenos días.
