@@ -28,6 +28,7 @@ def extract(raw_input, processed_output_path):
             writable.write(date + "\n")
             for speaker, lines in all_dialogs:
                 writable.write("---\n")
+                speaker = speaker or "???"
                 writable.write(speaker + "\n")
                 for line in lines:
                     writable.write(line + "\n")
@@ -78,5 +79,7 @@ def parse_document(file: Path):
 
         if dialogs and current_speaker:
             all_dialogs.append((current_speaker, dialogs))
+        elif dialogs:
+            all_dialogs.append((None, dialogs))
 
         return all_dialogs, author, date, date_info, title
