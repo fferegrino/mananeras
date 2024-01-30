@@ -1,0 +1,725 @@
+Versión estenográfica. Conferencia de prensa: Acceso no autorizado al  Sistema de Acreditaciones de Presidencia
+Presidencia de la República
+29 de enero de 2024
+---
+LUISA MARÍA ALCALDE LUJÁN, SECRETARIA DE GOBERNACIÓN
+Hola, qué tal, buenas tardes a todas, a todos, periodistas que nos acompañan y también quienes nos ven a través de las redes sociales. Vamos a iniciar esta conferencia de prensa.
+Esta mañana, por indicaciones del presidente Andrés Manuel López Obrador, abrimos este espacio para dar a conocer la información que se cuenta al momento respecto al acceso no autorizado al Sistema de Acreditación de Periodistas, que vulneró datos personales de personas que cubren la fuente de Presidencia.
+Nos acompaña el día de hoy Jesús Ramírez Cuevas, coordinador general de Comunicación Social de Presidencia; está también con nosotros Carlos Emiliano Calderón, coordinador de Estrategia Digital Nacional; y también nos acompaña Arturo Medina Padilla, subsecretario de Derechos Humanos, Población y Migración; y una servidora, Luisa María Alcalde, secretaria de Gobernación.
+Vamos a iniciar primero dándole la palabra a Jesús Ramírez, coordinador de Comunicación Social, para que pueda detallarnos acerca de lo sucedido. Adelante, por favor.
+---
+JESÚS RAMÍREZ CUEVAS, COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y VOCERO DE PRESIDENCIA
+Sí. Muy buenas tardes.
+Primero, precisar que el acceso no autorizado a información no fue a la base de datos de los periodistas acreditados en la Presidencia de la República, sino a un archivo que contenía una información parcial de periodistas que han sido acreditados en la fuente presidencial. Esto es importante para que, digamos, acotar esta información, porque no fue a la base de datos, sino a un archivo que se encontraba en una página, que se va a detallar cuál era su tarea, bueno, cuál es su labor.
+Voy a hacer un recuento de los hechos. Ustedes han sido informados desde el viernes de esta…. Y como nosotros, alrededor de las 2:00 de la tarde nos enteramos, tuvimos conocimiento de la probable vulneración de información del Sistema de Acreditación de Prensa de la Presidencia de la República, como de conocimiento público.
+A partir de ese momento se notificó a la Dirección General de la Coordinación de Estrategia Digital Nacional, quien de manera inmediata coordinó cerrar cualquier acceso al Sistema de Acreditación de Prensa de la Presidencia de la República.
+En segundo lugar, se aplicó el Protocolo Nacional Homologado de Gestión de Incidentes Cibernéticos, que es el que se aplica en estos casos en cualquier dependencia que ve vulnerado su sistema de información y se realizó, al mismo tiempo, la notificación correspondiente del incidente ante el Centro Nacional de Respuesta de Incidentes Cibernéticos, adscrito a la Guardia Nacional.
+Al mismo tiempo, de manera paralela, el Mecanismo de Protección de Periodistas y Activistas actuó a petición de parte de manera inmediata, hubo periodistas que contactaron al mecanismo y ya desde ese momento el mecanismo de protección ya está actuando en función de lo que se le denunció.
+Enseguida, la Guardia Nacional procedió a cerrar el sitio donde se alojaba la información extraída ilegalmente, de tal manera que ya la información, al menos del sitio que lo estaba brindando, comercializando o compartiendo, ya no se está haciendo, ya ese sitio se dio de baja. Así que, a partir de este incidente, de acuerdo a la ley, la autoridad tiene —correspondiente— tiene 72 horas para notificar al Instituto Nacional de Acceso a la Información y Transparencia, el INAI.
+De tal manera que hoy por la tarde, hace un par de horas, se notificó a esta instancia, al INAI, y se le entregó el reporte técnico que tanto la Guardia Nacional como la Coordinación de Estrategia Digital Nacional elaboraron respecto a este incidente.
+Asimismo, de manera paralela, se notificó a todos los periodistas afectados cuyos datos fueron expuestos de manera ilegal y que pudieran sufrir alguna vulneración en sus derechos. En tiempo y forma se hizo esto.
+Y de tal manera que el Gobierno de México está actuando, primero, para evitar que se prolifere esa información; en segundo lugar, está realizando la denuncia correspondiente ante la Fiscalía General de la República contra quien resulte responsable por esta extracción ilegal de información del sistema del Gobierno de México.
+Al mismo tiempo, como aquí se va a exponer, el Mecanismo de Protección de Periodistas va a garantizar y proteger la seguridad de quienes sientan y crean esta vulneración de datos puede afectar su seguridad o su situación personal.
+Esta es la información que tenemos de los hechos y, bueno, lo que podemos señalar para precisar esta información que se extrajo ilegalmente y que es parcial, afecta a 263 periodistas que vieron vulnerados sus datos; aunque en la base de datos hay 309 personas que estaban ahí expuestas, sólo 263 había sus datos personales en su conjunto; es decir, había 186 credenciales de elector que tenían los datos de domicilio completo, había 63 pasaportes, uno más ilegible, que no se puede ver el contenido, ni la identificación; había dos currículums, que se habían presentado ahí, que de manera… se habían puesto en ese sitio; había una licencia de Estados Unidos, que un periodista utilizó para acreditar su identidad; una CURP y 10 documentos que había expedido el Instituto Nacional de Migración, que era de periodistas de origen extranjero que trabajan en México o que se habían acreditado para participar en estas conferencias del presidente de la República aquí en Salón Tesorería.
+Hay cuatro personas más, que sólo aparece su fotografía, sin ningún dato más, ni su nombre ni ningún tipo de identificación, aunque son cuatro fotografías de periodistas de la fuente presidencial.
+Estos son los datos que fueron vulnerados, digamos, de estas 263 personas a las cuales se expuso de manera ilegal al dar a conocer sus datos.
+---
+PREGUNTA
+¿Usted sabe…?
+---
+LUISA MARÍA ALCALDE LUJÁN
+Muchísimas gracias. Un segundito, si nos permite, vamos a concluir con la exposición y luego ya damos entrada a preguntas y respuestas.
+Vamos a pasarle la palabra a Emiliano Calderón para que pueda platicarnos sobre los sistemas de seguridad se tienen en la Presidencia de la República.
+---
+CARLOS EMILIANO CALDERÓN MERCADO, COORDINADOR DE ESTRATEGIA DIGITAL NACIONAL, PRESIDENCIA DE LA REPÚBLICA
+Hola, qué tal. Muy buenas tardes a todos.
+A mí me toca explicar qué es lo que se hace diariamente en el gobierno federal y particularmente platicaré lo que sucedió con este Sistema de Acreditación.
+Bueno, el gobierno federal, particularmente la Presidencia de la República, tiene seguridad y disponibilidad en todos los sistemas que presenta al público, cuenta con una plataforma de seguridad en una nube privada que cuenta con las siguientes características:
+Servicio de firewall de aplicaciones web para proteger contra ataques basados en aplicación con alto desempeño y la funcionalidad de limitación de velocidad para visitantes con comportamiento sospechoso.
+También tenemos servicio de DNS autoritativo con el máximo nivel que existe en este tipo de servicios de nombres de dominio.
+Un servicio de caché y entrega de contenidos con capacidades diferenciadas de optimización.
+Plataforma de nube de cómputo distribuido, que soporta la entrega de al menos un petabyte de información por día y la disponibilidad de los servicios de gob.mx es del 99.9 por ciento.
+En cuanto a medidas de seguridad internas, la Oficina de la Presidencia cuenta con un firewall perimetral, tiene implementadas VPN diversas dependencias y usuarios para el acceso controlado a los activos y servicios,
+Tiene un monitoreo todo el tiempo y detección de campañas de spam.
+También tiene monitoreo, análisis y correlación de eventos de seguridad. Ahorita les explicaré un poco lo que se vio en particular en este sistema y la identificación de tráfico malicioso y bloqueo de manera proactiva, esto significa que en cuanto se encuentra cierto tráfico malicioso los detectores y los sistemas paran este tráfico de las IP, la detección de vulnerabilidad de las aplicaciones de gob.mx.
+Ahora, nada más para dar una idea de lo que se maneja en la página de gob.mx, que son las páginas de todas las dependencias, solamente pusimos los datos de un solo mes, de enero de 2024, y se han tenido 125 millones 400 mil páginas visitadas en esta plataforma, más la serie de posibles peticiones que son potencialmente maliciosas. En el mundo existen motores de búsqueda que se la pasan buscando dónde hay vulnerabilidades y en un solo mes hemos tenido 119 peticiones hacia estos escáneres que buscan las vulnerabilidades de todos los sistemas de gob.mx.
+Ahora, hubo intentos de ataques que se ven en los logs a este aplicativo de la página de prensa de Presidencia, que son ataques que sufren la mayor parte de los aplicativos que tienen las dependencias bajo el dominio de gob.mx. Parte de estos ataques que fueron mitigados por todas las herramientas que yo les he comentado son, por ejemplo, secuencia de comandos en sitios cruzados, eso es que intentan poner la cara de un sitio y pedir los datos de otro.
+Descubrimiento de archivos y directorios. Son escáneres que ven todo lo que nace de esos dominios de web.
+Ataques de inyección, esto implica robots que inyectan un código para ver qué pueden sustraer de las páginas.
+Ataques de escaneo de vulnerabilidades.
+Explotación de aplicaciones públicas.
+Eso cómo… Y parte de los ataques que recibieron las páginas, y específicamente esta también, y todos fueron mitigados.
+Ahora, particularmente la aplicación de la acreditación de prensa, aparte de la infraestructura general con la que cuenta el gobierno, tiene obviamente, como toda aplicación, partes específicas para también resolver el tema de seguridad en términos generales.
+La aplicación funciona sobre el protocolo seguridad https, esto ya desde hace unos meses, casi un año, es una exigencia mundial.
+El acceso a la aplicación obviamente por medio de autenticación protegido por usuario y contraseña.
+Uso de servicios web y autenticación por medios de llaves de seguridad.
+Pongo entre paréntesis el término semitécnico de este servicio: autorización por medio de roles de acceso definido; esto significa que, dependiendo el rol, tiene o no acceso a diferentes partes de los datos.
+Uso de cookies de seguridad para la descarga de archivos adjuntos. Esto impide la descarga directa por medio de una URL sin autenticar. ¿Qué significa? Que ustedes, cuando llegan a la página, si no pasan el paso de usuario y contraseña, no pueden obtener estos datos.
+Ahora, después de la mitigación, ¿qué es lo que sucedió? Como lo explicó el vocero Jesús Ramírez, se activó el Protocolo Nacional Homologado de Gestión de Incidentes Cibernéticos, dando obviamente aviso a la Guardia Nacional, específicamente al área de Policía Cibernética.
+Se cerraron los accesos a la aplicación alfa.gob.mx, que es un sistema de preproducción, que es de dónde se obtuvieron los datos, los sistemas de preproducción son los sistemas donde se hacen cambios antes de usar el sistema de producción final.
+Se realizó cambio de contraseñas de acceso para todos los perfiles de usuarios, se dio de baja el sitio afectado, se realizó bloqueo geográfico para el ambiente productivo, esto significa que cerramos todas las IP de dónde no se consulta ese sitio, por políticas generales los sitios de gob.mx están abiertos al mundo, pero particularmente, en este caso por el tema que ahorita les comentaré, lo cerramos y se puso un bloqueo geográfico.
+Y se realizó una detección de vulnerabilidades al sitio, cosa que se hace de forma periódica, pero nuevamente se hizo una detección para ver si había habido una falla en el aplicativo.
+Ahora, el diagnóstico del incidente de seguridad, se revisaron los registros y comportamiento en la aplicación de producción, que es distinta a alfa.gob.mx, para descartar una intrusión a esa aplicación, es decir, un usuario se metió a la aplicación de alfa.gob.mx y se revisó si la aplicación de producción había tenido ese mismo acceso y no existió ese acceso. Entonces, como lo explicó Jesús, se tuvo acceso a datos ya del 2022 que estaba en este aplicativo de preproducción.
+El ataque fue sobre el servidor de preproducción de la aplicación de acreditación de prensa, que es lo que les explico. Se verificó que no se vulneraron ni el aplicativo ni el servidor, que es la base de datos, ya que se encuentran los registros precisos de los archivos que fueron sustraídos; es decir, el sistema va registrando los archivos que fueron sustraídos y con eso nos damos cuenta también, después de haber corrido todas las baterías de vulnerabilidad, nos damos cuenta que se ingresó al sistema por medio de un usuario.
+Se utilizó una cuenta de usuario, que ya no trabaja aquí, para extraer ilegalmente estos documentos.
+Se identificó que el acceso a la aplicación durante la extracción fue desde direcciones IP registradas en España, es decir, que los datos a los cuales se tuvo acceso con esta contraseña de forma ilegal fue desde España y obviamente se está cooperando con todas las autoridades correspondientes en la investigación.
+Entonces, es un tema muy importante saber que el aplicativo como tal no fue vulnerado, lo que sucedió es que alguien ingresó al aplicativo por medio de una cuenta y esa cuenta extrajo la información.
+Eso es todo por el momento. No sé si haya algo más que agregar.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Muchísimas gracias.
+Dos elementos adicionales:
+El primero es que se presentarán las denuncias penales correspondientes.
+Lo segundo que queremos también informar, y aprovechamos este espacio, es poner a disposición de los 263 periodistas que fueron afectados, cuyos datos fueron vulnerados, que se sientan amenazados o que consideren que pueden estar en riesgo, vamos a poner a disposición el Mecanismo de Protección de Periodistas y Defensores de Derechos Humanos que llevamos en la Secretaría de Gobernación.
+Y antes de abrir a las preguntas, le vamos a pedir al subsecretario que pueda detallarnos un poquito más respecto a este mecanismo, y después con mucho gusto abrimos a preguntas.
+Va a haber una precisión.
+---
+JESÚS RAMÍREZ CUEVAS
+Sí, nada más una precisión, para que no haya ambigüedades: no se trató una filtración, no fue que alguien ingresó legalmente al sistema y filtró esta lista, o de materiales, fue una extracción ilegal desde fuera del sistema, utilizando una contraseña y un usuario; pero es una extracción ilegal, o sea, esto es importante.
+Y aclarar que la página, la cual fue afectada, ese alfa.gob.mx, que no es la base de datos del gobierno, sino una página de preproducción que se utiliza para justo generar una página o la base de datos ya de uso, es donde se hacen pruebas y se utiliza para correr el sistema y probar que sí funciona, nada más; es decir, estaba inactiva esa página a la que accedieron, nada más.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Adelante, Arturo.
+---
+FÉLIX ARTURO MEDINA PADILLA, SUBSECRETARIO DE DERECHOS HUMANOS, POBLACIÓN Y MIGRACIÓN, SEGOB
+Sí, gracias, secretaria. Muy buenas tardes a todas y a todos.
+Comentar que, desde la Subsecretaría de Derechos Humanos, Población y Migración, y del propio Mecanismo de Protección Defensoras de Derechos Humanos y Periodistas del Gobierno de México condenamos este acceso ilegal y la vulneración que se dio a los datos de algunas personas periodistas, como ya se ha referido, de esta base de datos.
+Estamos seguros que la Fiscalía General de la República, en atención a lo que ha señalado la secretaria de Gobernación, y una vez que se presenten las denuncias correspondientes, y se lleven a cabo las investigaciones se permita localizar a los responsables de este acto de vulneración de datos personales de las personas periodistas.
+Asimismo, comentarles que desde el día viernes 26 de enero del 2024, que se tuvo conocimiento de este acceso ilegal a estas bases de datos, se iniciaron las acciones inmediatas de atención. Como lo señaló hoy en su conferencia matutina el presidente de México, el licenciado Andrés Manuel López Obrador, se está elaborando un informe, como se señaló, y se busca se determine la responsabilidad y eventualmente se sancione a los responsables.
+Con independencia de ello, se nos instruyó proporcionar todo el apoyo a las personas periodistas que lo necesiten.
+Informamos, en ese sentido, que el equipo del Mecanismo de Protección a Periodistas y Defensores de Derechos Humanos ha tenido comunicación con las personas periodistas desde la misma tarde del viernes que ya cuentan con medidas de protección por este mecanismo, ofreciendo reforzar las medidas asignadas, los monitoreos y los seguimientos desde el área correspondiente, esto para quienes ya son parte de las medidas de protección del mecanismo.
+Y para los casos de personas periodistas que no cuentan con protección del mecanismo actualmente, reiteramos que en caso de presentar alguna agresión, ya sea en el marco de esta coyuntura grave, este hecho grave o por su labor, siempre pueden acercarse al mecanismo y estamos para atender sus peticiones, por lo cual ponemos a disposición los datos de contacto del mecanismo, los teléfonos de emergencia 24 horas, los siete días de la semana, que es el 55 39 58 56 29; al correo del mecanismo, que es mecanismo@segob.gob.mx; a través de la red social X, como @mecanismo_mx; Facebook, Mecanismo de Protección Federal.
+De igual forma, mencionar que estamos ubicados en Londres 102, colonia Juárez, en la alcaldía Cuauhtémoc, de lunes a viernes, en atención de oficina de 9:00 a 18:00 horas, pero por los otros medios las 24 horas.
+Al mismo tiempo quisiera comentarles que el mecanismo de protección, ya que habrá algunas personas, quizá periodistas o defensoras y defensores de derechos humanos, que nos están viendo que no podrían conocer bien el trabajo de este instrumento. Es un área que se encarga de proteger a las personas defensoras de derechos humanos y a los periodistas que han sufrido alguna agresión, amenaza o situación de violencia al ejercer su labor, ya sea de comunicar o de defender derechos.
+Las agresiones, vale la pena señalar que pueden ser físicas, sicológicas, morales o económicas; incluyen amenazas u hostigamiento por el simple hecho de realizar su trabajo, y estas agresiones pueden ser dirigidas tanto a los comunicadores como a su familia, compañeras compañeros del gremio o de organizaciones.
+Desde el mecanismo conocemos algunos casos que son urgentes, algunos en los que los mecanismos y las formas de atención nos obligan a atender esto en cuestión de horas. En algunos casos hay tiempo de realizar una evaluación detallada y de manera ordinaria; proponer un plan de protección, es decir, con más calma; e informar a las autoridades competentes sobre las medidas propuestas y el seguimiento de los casos.
+Queremos decirles que las medidas que se otorgan en este mecanismo no las decide un funcionario, sino que hay una junta de gobierno y que hay un análisis de riesgo que se hace por personal especializado para ello, y que estas medidas pueden ser urgentes para salvaguardar de forma inmediata la vida, la seguridad y la integridad.
+Pueden ser medidas de protección, que pueden ser medidas físicas o políticas, y preventivas, que tienen que ver con otorgar medidas materiales o medidas de autoprotección.
+Bueno, también es importante mencionar que todas las medidas que se otorgan serán confidenciales y que cada plan de protección tendrá que ver con el nivel de riesgo que presente cada uno de los periodistas.
+Esta información se las damos con la finalidad de que, si alguna persona periodista siente que con la vulneración de sus datos personales, como ya se ha referido, por este acceso ilícito a las bases de datos que se ha precisado y porque contienen información personal, pueden acercarse con nosotros a través de los medios que les hemos señalado o al concluir esta conferencia y podemos atenderlos, no solamente a las personas, al número de personas periodistas que se mencionó, sino también en cualquier otro caso.
+Para nosotros, es fundamental que sigan ejerciendo su derecho a la información o su derecho a defender derechos.
+Estamos atentos. Gracias.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Muchísimas gracias.
+Ahora sí, si le parece bien, empezamos por acá. Compañera.
+---
+PREGUNTA
+Perdón, compañeros. Muy buenas tardes. Soy Carlos Pozos, de mi canal Lord Molécula.
+Yo quisiera preguntarles cuántas personas tienen acceso a esta base de datos aquí en Palacio Nacional.
+Y quisiera saber cuál es el número o los nombres de las personas que han dejado de trabajar en Palacio Nacional en el área de Comunicación, porque estos documentos son muy sensibles.
+Y la pregunta es si consideran ustedes que esta es una estrategia para causar miedo en los reporteros y dejar de asistir y hacer un vacío en estas conferencias de prensa en el último tramo del presidente Andrés Manuel López Obrador.
+Eso sería todo de mi parte.
+---
+JESÚS RAMÍREZ CUEVAS
+¿De una vez? Bueno, vamos rápido: son tres personas las que tienen acceso a esta base de datos de la acreditación.
+---
+INTERVENCIÓN
+¿Quiénes?
+---
+JESÚS RAMÍREZ CUEVAS
+No podemos dar nombres, eso es parte de la investigación.
+---
+INTERVENCIÓN
+(Inaudible)
+---
+JESÚS RAMÍREZ CUEVAS
+No, es que es… Pero aquí también algo muy importante es que también los periodistas y medios tienen acceso a esta aplicación porque los medios acreditan a los periodistas. De hecho, esa información que se vulneró fue aportada por los medios de comunicación que acreditaron a sus reporteros, eso es lo que se puede decir.
+Y ha habido, de las personas que tenían acceso a esta base de datos, es sólo una persona que ya no trabaja aquí.
+---
+INTERVENCIÓN
+¿De qué área?
+---
+JESÚS RAMÍREZ CUEVAS
+Vamos a… Eso es parte de la investigación. Les pedimos, por favor.
+---
+INTERVENCIÓN
+¿Se cancelaron las cuentas?
+---
+JESÚS RAMÍREZ CUEVAS
+Ahorita todas las aclaraciones técnicas sí se deben… Están canceladas las acreditaciones. O sea, hay una base de datos, el Sistema de Acreditación no reconoce más que a tres personas. Esta página a la que se accedió no es una página que esté públicamente accesible, pero, bueno, en fin, ahorita se explicará por qué se contaba con ese acceso.
+Pero no está, el Sistema de Acreditación de Prensa no está vulnerado; no hay esta cuenta, este nombre no tiene acceso a la base actual de acreditación, que además hace poco se volvió a actualizar los datos, se les pidió a los medios actualizarla, de tal manera que esa está totalmente limpia y protegida.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Vamos con una mujer. A ver, adelante, la compañera, y luego vamos acá, a la izquierda.
+---
+PREGUNTA
+Buenas tardes.
+Sobre el tema de estos datos de los periodistas, pues, primero, es una situación muy grave que al Gobierno de México le haya pasado esta situación, cuando ha recibido en ciertos momentos hackeos de estas plataformas o de ciertas dependencias.
+Además de esto de los Mecanismos de Protección de Periodistas, no a todos les marcaron en estos mecanismos. El mecanismo se ha criticado mucho en el tema de esta situación de periodistas que están en vulnerabilidad, los que están dentro del mecanismo y los que aun todavía no pertenecen a estos protocolos de seguridad.
+Después de esto que pasó, al final los datos de los periodistas están no sabemos en qué bases, estén en manos de quién, en criminales.
+Y también, si el Gobierno de México va a poder hacer, no nada más con Presidencia de la República, sino también con otras dependencias como Hacienda o el Instituto Nacional Electoral, porque esas bases de datos dan acceso a los domicilios de todos nosotros, ¿no?
+Al final, estos 200 y tantos periodistas que filtraron no sabemos de quién, y si el día de mañana hay un delito contra uno de nosotros, ¿cómo va a ser la responsabilidad?
+Entonces, sería que los periodistas denuncien y denunciemos cada una de las personas que filtraron sus datos a una dependencia, ya fuera la Fiscalía General de la República, porque al final la administración ahora está, y al final si la administración que está ahorita se va y a nosotros nos pasa algo, a cualquiera de nosotros que está aquí, pues va a ser muy, muy complicado.
+Además, esta base de datos no sé si ustedes tienen conocimiento de cuánto tiempo estuvo en esta plataforma. Y además no sabemos si estos datos que filtraron, o hackearon o como sea, son por partes, si esta es la primera parte que se pudiera dar a conocer.
+Y que también los periodistas no sean una carnada electoral.
+---
+JESÚS RAMÍREZ CUEVAS
+No hay tramos de información. Era una página de preproducción que contenía sólo esa información, no tenía más información. Y está probado en la investigación de qué tipo de archivos, cuáles son los archivos que se extrajeron del sistema, de tal manera que no…. Bueno, esto forma parte de la investigación, pero en el reporte técnico, tanto de la Guardia Nacional como del área digital del gobierno, no hay más tipo de archivos ni fotografías, ni otro tipo de información que haya extraído en esta ocasión.
+---
+INTERLOCUTORA
+¿Cómo se va a proteger a los periodistas en este sentido con lo que le comentaba de los delitos? A partir del momento en que se filtran estos datos, ¿cómo están protegidos los periodistas? Si no sacan un crédito a nombre de esto, porque a algunos ha pasado. ¿Y cómo los van a proteger ante esto? Por eso son las denuncias.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Como dijimos, vamos a presentar una denuncia ante la fiscalía. La idea es que se abra una investigación para podernos allegar de toda la información y dar con los responsables.
+Arturo, si quieres dar detalles sobre la denuncia que habremos de presentar el día de mañana, entiendo.
+---
+FÉLIX ARTURO MEDINA PADILLA
+Sí, claro. Importante este planteamiento.
+A nosotros también nos interesa, primero, decir que se hará todo lo posible para evitar que ocurra en el futuro.
+Y ante los hechos que ya se han presentado, y ante el posible delito informático que pudiéramos tener enfrente, se presentará esta denuncia ante la Fiscalía General de la República por esta sustracción ilícita de datos personales mediante la vulneración ilícita, posiblemente, de dichos sistemas informáticos, como ya se ha precisado.
+Cabe precisar, primero, que esta denuncia habrá de detallar cuál fue la información sustraída, así como la titularidad de la misma, a efecto de que la autoridad ministerial tome conocimiento de las personas afectadas y consecuentemente genere un antecedente legal de una futura afectación que pudiera sufrir por el mal uso de su información ilícitamente sustraída. Es decir, primero, al mismo tiempo vamos a denunciar que se tuvo un acceso ilícito o ilegal a esta información, y dejar también asentado que cualquier uso distinto al que realiza la persona titular quede ya asentado que fue vulnerada en sus derechos para prevenir cualquier acto ilícito.
+Asimismo, en aras de dotar de eficacia la investigación, desde el escrito de denuncias se solicitará también a la fiscalía la intervención inmediata de servicios periciales en materia de informática, a efecto de profundizar en lo que ya se mencionó, y que se analicen los sistemas informáticos ilícitamente vulnerados, y adicionalmente los periodistas pueden acceder a las medidas del mecanismo que son independientes a la presentación de la denuncia.
+---
+INTERLOCUTORA
+Perdón, pero creo que esa denuncia ustedes la están haciendo para protección de ustedes. Disculpen, pero, la verdad, eso es una cosa que, bueno, lo va a hacer el Gobierno de México, pero nosotros tendríamos que acompañar en esa denuncia.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Claro que sí, y eso es muy importante. Es decir, la denuncia que pueda presentar el Gobierno de México es independiente a las denuncias que se puedan presentar por parte de las personas periodistas.
+Y también recordar que en este proceso puede haber medidas cautelares que pueda determinar el juez en el proceso de investigación. Eso es independiente del mecanismo que se tiene por parte de Gobernación y que, independiente de la investigación, ponemos a disposición a partir de hoy.
+---
+INTERLOCUTORA
+Entonces necesitaríamos —perdón— el nombre de la persona de las 216 personas que fueron vulneradas en sus derechos para que nosotros vayamos a la Fiscalía General de la República a denunciar estos hechos.
+---
+FÉLIX ARTURO MEDINA PADILLA
+Nosotros ponemos a la orden el mecanismo para que las personas que quieran, no solamente para las medidas de protección, sino también para quienes quieran presentar la denuncia, sean asesoradas y acompañadas desde el propio mecanismo para que presenten su denuncia por la utilización, la posible utilización o no de su información, o el uso que se le dé a los datos personales.
+Con independencia de la denuncia que presentaremos, en la que se tomará esa previsión, también ponemos a su disposición los abogados del mecanismo para que les ayuden en la presentación de esta denuncia y que se tomen esas previsiones.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Y se va a analizar la información; es decir, toda aquella información que pueda ser compartida y que no vulnere la investigación la vamos a compartir. Aquí la idea es proteger la investigación y que no resulte que por dar una información indebida después pueda ser una dificultad en el proceso y en la investigación, y nos lleve finamente a que no pueda la autoridad determinar una responsabilidad.
+---
+INTERLOCUTORA
+Es que si mañana yo no sé si un criminal tiene un nombre mío porque pues tan fácil tener una credencial de elector de unos periodistas. ¿Yo a quién voy a denunciar?
+---
+LUISA MARÍA ALCALDE LUJÁN
+No, lo entiendo, lo entiendo, pero la idea, es decir, lo que queremos decirles es: nosotros vamos a compartir toda la información que podamos poner a disposición, simplemente tenemos que ser cuidadosos en esta etapa, precisamente para no vulnerar una posible presunción de inocencia que después nos juegue en contra en la investigación.
+Entonces, eso es todo. Pero la información que se pueda compartir, se compartirá con muchísimo gusto.
+JESÚS RAMÍREZ CUEVAS; Con una precisión; todos los periodistas cuyos nombres aparecen en estos datos ya están notificados.
+---
+VOCES A CORO
+¡No!
+---
+JESÚS RAMÍREZ CUEVAS
+Ya se notificó por correo al medio y se notificó al periodista.
+---
+PREGUNTA
+A los que siempre andan en las giras, ¿a dónde nos dejan? Vulnerados, igual. eso no se vale.
+---
+JESÚS RAMÍREZ CUEVAS
+Ahora puedo precisar el número de personas que se comprobó que sí se les entregó la información, ahorita, al terminar la conferencia.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Con mucho gusto compartimos esta notificación, los correos que se han venido enviando.
+Vamos acá con el compañero y luego algunos de atrás.
+---
+PREGUNTA
+Emir Olivares, de La Jornada.
+Preguntar, o varias precisiones: este portal de donde se extrajo ilegalmente la información, hablan de que es una preproducción. ¿A quién corresponde ese dominio, ese portal? ¿Por qué estaba esa información ahí? ¿Bajo qué responsabilidades o bajo responsabilidad de quién está ese sistema que fue vulnerado? ¿Hasta dónde cabe la responsabilidad de autoridades o de quién pueda estar involucrado en ese sentido?
+La otra es: si ingresaron con una cuenta o un usuario de una persona trabajadora en alguna área del gobierno de la República, el asunto es por qué existía esa cuenta, ese usuario, y no se eliminó en el momento que esta persona dejó de colaborar para la Presidencia de la República.
+Y un tercer caso: me parece, al subsecretario a lo mejor le dieron mal los datos, subsecretario, porque yo sé de muchos compañeros beneficiarios del mecanismo que no han sido notificados desde el vienes de este posible riesgo a su integridad, aun cuando son beneficiarios del mecanismo. Entonces, si lo pudieran checar.
+Muchas gracias.
+---
+FÉLIX ARTURO MEDINA PADILLA
+En cuanto a las personas del mecanismo, por lo menos de la información que teníamos al viernes, ya sea por fuentes abiertas o por la que se hizo de conocimiento de nosotros se estableció contacto con los periodistas o defensores, en este caso de periodistas que estaban sujetos ya a alguna medida de protección. Si faltó alguno, lo estamos completando al día de hoy, porque estamos justamente contando con la información completa.
+El día viernes, recordar que circuló alguna información que hizo que se activaran todas estas acciones de manera inicial, pero lo corregimos. Si falta alguna persona, lo vamos a completar. Esperamos que sea una excepción solamente y que podamos resolverla rápidamente.
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Rápidamente, el tema: la aplicación la desarrolla un área de desarrollo específica de Presidencia que se encarga de hacer aplicativos en general a todas las áreas, como sucede en todas las dependencias. Este aplicativo ya, como ustedes sabrán, se usó desde hace mucho.
+¿Y por qué estaban los datos?
+Porque es un sistema antes de sacar el sistema de producción donde se hacen cambios y por eso también tenía datos que no son actuales, porque después para sacarlo a producción se tienen que actualizar los datos ya reales para que pueda ser el preproductivo de producción y después el de producción se baja. Entonces, estábamos en esa transición, por eso aparecen datos que no son los últimos y que no son todos.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Vamos acá con la compañera. Adelante.
+---
+PREGUNTA
+(Inaudible)
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Porque en la transición del preproductivo al de producción es donde se hace una limpieza total de los datos y se actualizan ya los nuevos datos. El usuario en el sistema de producción, que es el que usan ustedes, sí está dado de baja. La clave que se usó en el de producción no existe; en el de preproducción, por ser un sistema antiguo, sí existía.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Digo, nomás para aclarar: se dio de baja en el de producción, ¿no?, ahí sí.
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Sí, en el actual no está dado de alta esa clave.
+---
+PREGUNTA
+Quisiera saber cómo se dieron cuenta de esta extracción ilegal de información de este sistema de preproducción, y qué día se dieron cuenta, porque tengo entendido que expertos en ciberseguridad dieron a conocer que desde el 22 de este mes estaba en una página posteados los datos de estos 263 periodistas.
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Desde el 22 se hizo la extracción.
+¿Por qué el sistema no arroja alertas?
+Porque pues se metió un usuario, entonces el sistema, como sistema, siente que está bien el tema. Ya después nosotros nos dimos cuenta, cuando se publicó y se hizo ya una búsqueda en todos los sistemas, en el de preproducción y en el de producción, para también nosotros garantizar que en el de producción no hubo esta extracción, y es donde el de preproducción es donde encontramos las consultas y los accesos.
+---
+INTERLOCUTORA
+Pero, ¿entonces se dieron cuenta hasta que alguien más empezó a hacer ruido sobre esta filtración?
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Sí.
+---
+INTERLOCUTORA
+Muy bien.
+---
+LUISA MARÍA ALCALDE LUJÁN
+A ver, vamos acá atrás.
+---
+PREGUNTA
+Buenas tardes.
+A ver, hay aquí una inquietud, la inquietud es que, independientemente de los periodistas que ya se mostraron los datos, también aquí hay la inquietud de lo de los otros periodistas que no han sido mencionados de entrar en este sistema de mecanismo de protección.
+Aquí la pregunta es: ¿quién determina o cómo se determinan en este caso las medidas de protección a los periodistas? Dicen que en grado de mayor o menor grado de vulnerabilidad, según se entendió. O sea, explíquennos bien cómo es eso.
+Hay la suspicacia de que, ya sean pro4T o anti4T, todos los reporteros aquí presentes, o sea, todos, están expuestos precisamente a una agresión; o sea, independientemente de quienes han sido mostrados sus datos y los que no, pues existe, precisamente, esa incertidumbre de decir, mis datos están mostrados, los datos de ellos están mostrados, esa es la inquietud. Esa es una.
+Dos, seguimos insistiendo con esta cuenta porque, por lógica, es: si alguien se va, eliminas esa cuenta; si hay un reportero que hace su alta o su baja, pues dan de baja nuestro usuario o, en este caso, lo actualizan.
+¿Qué está pasando ahí? ¿Estamos hablando ahí de negligencia? O sea, realmente que se clarifique bien esta parte para que no queden suspicacias.
+Y en todo caso aquí recojo el sentir de que todo mundo se siente vulnerado y se siente con incertidumbre, porque, bien, ya mencionaron aquí los reporteros que fueron vulnerados sus derechos, sus datos, pero también hay esta parte, que los que quieren saber qué pasa también con sus datos, con su información, todos estamos expuestos a una agresión, ya sea por anti o por pro4T.
+Entonces, eso sería a grandes rasgos el planteamiento.
+---
+LUISA MARÍA ALCALDE
+Muchísimas gracias. Adelante.
+---
+FÉLIX ARTURO MEDINA PADILLA
+Comentar, en complemento a la información de la anterior pregunta, si me lo permiten, es: se ha notificado, se ha tenido conocimiento que 26 periodistas que acuden o que estaban en esta base de datos y cuyos datos fueron vulnerados se ha intentado localizar, que son la totalidad, al menos de los que tenemos identificados. Con 20 se ha establecido comunicación y siete pidieron recomendaciones para poder enfrentar esto, pues expresaron su preocupación del manejo de la información.
+Al respecto, se realizaron recomendaciones de seguridad digital diversas, se implementarán monitoreos por parte del personal de mecanismo y a través del botón de asistencia, y en dos casos se reforzarán rondines por parte de las policías locales a petición de parte.
+Con seis personas de estas 26 no se ha logrado establecer comunicación vía telefónica; sin embargo, se han dejado mensajes por otras vías, como correo electrónico, mensajes de WhatsApp, para poner a su disposición los números de contacto del personal de seguimiento, así como el número de emergencia del mecanismo.
+Y también se ha reforzado de seguimiento con la finalidad de poder responder oportunamente a cualquier incidente que nos reporten los usuarios, y sobre todo en los próximos días.
+Ahora, respecto a lo que planteaban de la medida, hay una junta de gobierno en la que también forma parte la sociedad civil, en este mecanismo hay representantes de colectivos o periodistas con los que se discuten las medidas de protección y los planes de protección, dependiendo del análisis de riesgo.
+Decía yo que, al tener una solicitud, esta área especializada lleva a cabo un análisis de riesgo con elementos objetivos que están en las propias disposiciones en la propia Ley de Protección a Defensores de Derechos Humanos y Periodistas, se evalúa ese nivel de riesgo y se discuten después por esta junta de gobierno. Si son urgentes, se da de manera inmediata, en horas; y si no, y si es ordinario, que es la otra forma, pues se lleva a la revisión de estas medidas para que el plan de protección conforme al análisis que se ha hecho se discuta con los servidores públicos y con la representación del gremio que participa en esta junta de gobierno. Ese es el mecanismo que tenemos.
+Obviamente que puede haber amenazas o temor o alguna agresión, dependiendo, que no es… Derivado de esto, no tenemos un conocimiento de un hecho de agresión, pero, entonces, se volverían urgentes y tendríamos que resolver en un plazo máximo de tres horas las medidas.
+---
+LUISA MARÍA ALCALDE LUJÁN
+En ese caso, Juan, la idea es: a ver, el mecanismo existe para cualquier periodista que se vea amenazado, que esté en riesgo, eso en general. En el caso particular de lo sucedido, por eso hablamos de estos 263 que se abre y se pone a disposición el mecanismo, precisamente por la posibilidad de estar en riesgo por haberse vulnerado sus datos personales.
+A ver, aquí vamos con el compañero y luego los demás.
+---
+PREGUNTA
+Buenas tardes. Tengo una pregunta para el coordinador de Estrategia Digital. Habló sobre que esto fue un sistema de preproducción. Al mismo tiempo, el vocero comentó que era una página inactiva. Se supone que parte de las buenas prácticas en cualquier tema de ciberseguridad o de desarrollo de software tiene que ver con dejar en un sistema de preproducción datos falsos porque… Y aparte tienes un sistema cerrado en líneas generales.
+Mi pregunta es: ¿para qué —nótese, no es ‘por qué’— para qué dejar un sistema con información real, aunque desactualizada, abierto a internet sin las medidas recomendadas por las prácticas de seguridad informática?
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Se estaba haciendo una sincronización ya de los datos, entonces fue una ventana en la que los datos ya se estaban comparando y el preproductivo iba a quedar ya productivo.
+Entonces, cuando la actualización y los usuarios se empiezan a sincronizar, lleva esto un tiempo y como el sistema tenía que estar las 24 horas arriba, entonces se empiezan a hacer migraciones para que solamente se haga un switch de URL y quede el de preproducción como productivo. Entonces, fue una ventana de tiempo donde lograron entrar en la sincronización de los datos.
+---
+INTERLOCUTOR
+Pero en ese contexto dejan entonces a discreción de alguien para hacer esos cambios, hay un proceso para hacer los cambios en producción, porque, insisto, las mejores prácticas indican que esos datos de preproducción en principio tienen que estar en un lugar cerrado y, en segundo lugar, tienen que ser datos no reales, más cuando son de personas en este caso acreditadas a Presidencia. Entonces, insisto con la pregunta de para que dejar esa información.
+Y la última pregunta que le quiero hacer al vocero es: ¿quién es el guardián de los datos del registro de periodistas acreditados en Presidencia?
+Gracias.
+---
+JESÚS RAMÍREZ CUEVAS
+El sistema del Gobierno Digital, eso no está en manos de la coordinación. Una vez que los medios o los periodistas ingresan sus datos no los tenemos en la coordinación, entran al sistema general y por eso la coordinación de Gobierno Digital es la que atiende la administración de los datos dentro del gobierno, incluido el sistema de acreditación.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Vamos allá atrás, con la compañera.
+---
+PREGUNTA
+Gracias. Preguntar en qué tipo de responsabilidad incurrió Presidencia como sujeto obligado.
+¿Y a qué sanciones o castigos se hará acreedor justamente esta área o este funcionario por haber, digo, tenido esta omisión con los datos personas de los reporteros que nos encontramos aquí?
+---
+LUISA MARÍA ALCALDE
+Bueno, eso ya se va a determinar por parte del INAI y las autoridades responsables.
+¿Qué es lo que estamos haciendo?
+Dando toda la información que tenemos tanto al instituto, como ya dijimos, lo haremos en una denuncia penal, y vamos a compartir todo lo que podamos compartir también con ustedes, con periodistas y con la ciudadanía en general.
+Pero vamos a esperar qué es lo que determina el INAI. Hoy, esta tarde, se entregó toda la información por parte de la Coordinación General de Comunicación Social y tienen ciertos plazos para que ellos puedan, en todo caso, determinar lo conducente.
+---
+INTERLOCUTORA
+Entonces, ¿el protocolo de protección de periodistas va a ser para todos, aquellos que asistimos aquí a la mañanera, se nos haya confirmado o no el estar en esta lista de difusión de datos?
+---
+LUISA MARÍA ALCALDE LUJÁN
+Sí, o sea, todos los que lo soliciten, que consideran que se encuentren amenazados, que están en riesgo, entonces hay que solicitar el mecanismo. Y hay procesos legales a través de este mecanismo que serán evaluados por este consejo, que ya informó el subsecretario, que es el procedimiento normal que está establecido para esta herramienta a cargo de la Secretaría de Gobernación.
+---
+INTERLOCUTORA
+Entonces, ¿todavía va a haber una evaluación para ver si alguno de nosotros podemos tener las medidas de protección a pesar de haberse vulnerado nuestros datos?
+---
+LUISA MARÍA ALCALDE LUJÁN
+Hay distintas herramientas. Arturo, si quieres explicarles un poco más.
+---
+FÉLIX ARTURO MEDINA PADILLA
+Sí, miren, considero que la ley establece el mecanismo de que tenemos que defender sus derechos, en este caso el derecho a los periodistas, y nos dice que, ante un riesgo en el cual persona que ejerce el periodismo se encuentre, puede solicitar la protección del Estado a través del mecanismo. Y basta solicitarlo y aportar elementos mínimos, como un contacto, y además tendremos que revisar. Pongo un ejemplo: fuentes abiertas y en el que se dará cuenta de lo que está ocurriendo el día de hoy, información que nos pueda proporcionar usted respecto a su situación o de su domicilio o una inspección de campo para poder tener la información mínima necesaria para darle una medida adecuada. Y las medidas son diferentes.
+Entonces, sí es necesario someter, hacerle un plan de protección, que es como un traje a la medida, lo más rápido primero, uno urgente, si es que hay una medida que lo requiera, un acto que lo requiera. Y después, con un poco más de tiempo, hacerle este traje a la medida para garantizar su protección o su seguridad, dependiendo de estas condiciones que se detecten en el plan de protección.
+Y reitero, son analizadas por esta junta gobierno, por este grupo de expertos que analizan estos elementos que se aportan. Y sí pueden acceder todas las personas que sienta una amenaza o vulnerada su función como periodistas en los términos que ya mencioné al inicio.
+---
+LUISA MARÍA ALCALDE
+Vamos acá con el compañero.
+---
+INTERLOCUTORA
+Secretaria, nada más, finalmente, ya teniendo identificado quién fue el funcionario que hizo esta difusión, ¿se le va a pedir la renuncia, va a ser removido de su cargo?
+---
+JESÚS RAMÍREZ CUEVAS
+Como esto es producto de la investigación, lo que sí podemos decir es que estamos comprometidos con llegar hasta las últimas consecuencias de estos hechos.
+Si hay responsabilidad oficial, tendrá que procederse en consecuencia; si un funcionario está involucrado, también. De acuerdo a la información hasta ahora, hay indicios de una vulneración externa, pero está abierto.
+Incluso el compromiso personal como coordinador de Comunicación Social es llegar hasta las últimas consecuencias. No se va a proteger a nadie, no se está protegiendo a nadie, yo mismo soy parte de la investigación porque soy un funcionario del área correspondiente, y tengan la garantía de que no habrá impunidad en cuanto se determinen las responsabilidades.
+Por el otro lado, hay un compromiso personal y del gobierno de llegar a la verdad con todas sus consecuencias.
+Entonces, creo que esto es algo en lo que compartimos. Tanto la protección de periodistas como la defensa a la libertad de expresión es un compromiso del gobierno, pero también es un compromiso de ustedes como periodistas, y en esta tarea tenemos que ir unidos. Creo que es importante combatir la impunidad y cualquier vulneración, ataque a la libertad de expresión.
+En eso, si es una responsabilidad oficial y personal de algún funcionario, se va a castigar; si es externa, también se va a llegar hasta las últimas consecuencias.
+---
+LUISA MARÍA ALCALDE
+Vamos acá con el compañero, adelante.
+---
+PREGUNTA
+Gracias. Buenas tardes.
+Alejandro Alemán, del diario Plaza Juárez.
+Para entender un poco lo que pasó: sería, después de lo que el ingeniero Emiliano nos explica sobre VPN, firewall perimetral, firewall en la red, mecanismos de autenticación, en fin, toda una serie de medidas que nos hizo el favor de explicarnos de seguridad cibernética, podemos concluir que lo que pasó fue que se dejó el coche a media calle con la puerta abierta y con las llaves puestas. ¿Esta es la ilegalidad? Eso es, por un lado.
+Por otro lado, en la mañana el presidente dijo: ‘Esto fue un ataque de los de Guacamaya’. La verdad es que hay mucha diferencia entre una cosa y la otra.
+¿Qué información se le dio al presidente para que él aseverara que había sido un ataque como el que sufrió la Secretaría de la Defensa Nacional, donde se bajaron cinco petabytes de información y se vulneró realmente el sistema?
+Muchas gracias.
+---
+EMILIANO CALDERÓN MERCADO
+Bueno, en la analogía del coche, en realidad el coche estaba estacionado y cerrado con llave, y alguien agarró una llave y lo abrió. O sea, no es que hubiera estado con la puerta abierta.
+Y el tema de la ciberseguridad es un tema que a nosotros preocupa mucho, y por eso se hizo una exposición de que los sistemas están protegidos y la vulneración fue el tema ilícito, fue una tomar una contraseña y entrar al sistema. Ese es el gran tema ilícito, que alguien entró un sistema que pide contraseñas con una contraseña que no era su identidad.
+---
+JESÚS RAMÍREZ CUEVAS
+Pues obviamente en esta investigación está abierta la vertiente del uso político, de lo que señalaba el periodista. Si hay una intención de intimidar o de atacar al gobierno, pues también es parte de las investigaciones, pero nosotros, vamos a decirlo de antemano, en la medida en que tiene que ser producto de una investigación de la Fiscalía General de la República, como de las autoridades correspondientes, como el INAI, que tienen que determinar cómo fue la vulneración.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Y los motivos que pudieran llevar a llevar, es decir, por eso se abre toda esta investigación y por eso se entrega toda la información, para poder llegar a entender quién fue, y en todo caso por qué motivos.
+Vamos allá atrás con la compañera.
+---
+PREGUNTA
+Yo nada más tengo una pregunta: si nos van a dar a cada uno… A mí en lo personal ya me notificaron que fui vulnerada, entonces quiero saber si nos van a dar a cada reportero el nombre de esa persona, de la que utilizó la clave para entrar a vulnerar nuestros datos, para una demanda, porque yo en lo personal sí quiera demandar, pero necesito toda la información, hacia a quién voy a dirigir esa demanda. O sea, es clave por supuesto esa persona o esa clave que usaron para entrar al sistema y bajar los datos.
+Entonces, ¿quién es esta persona que ya no trabaja aquí, de la que se utilizó? Porque ustedes dicen: ‘Se utilizó de manera ilegal’, pero ¿saben ustedes ya si fue esta persona o ya están completamente seguros de que no fue la persona y alguien más utilizó la clave?
+O sea, ¿qué es lo que se sabe en concreto y cuál es el nombre?
+---
+LUISA MARÍA ALCALDE LUJÁN
+Se va a llevar a cabo la investigación.
+¿Qué va a entregar la autoridad?
+Todo lo que tiene disponible, todo lo que sabe, todo lo que consta en actuaciones, todo se va a entregar. Y la investigación, la idea es que nos pueda arrojar esta información que se señala, quién fue y con qué motivos.
+Pero ya lo decía Jesús Ramírez, el compromiso del Gobierno de México es con la libertad de expresión, es con la protección de periodistas. Entonces, vamos a llegar hasta las últimas consecuencias; aquí no va a haber con que se entrega una parte y se deja de entrar otra, todo lo que tengamos lo vamos a entregar porque los primeros interesados también somos nosotros, en conocer qué fue lo que sucedió y cómo es que se pudo haber vulnerado este sistema para poder extraer esta información y poner en riesgo y vulnerar así periodistas de la fuente.
+Vamos acá con la compañera y después vamos con usted.
+---
+PREGUNTA
+Gracias. Buenas tardes.
+Yo quiero preguntar: ustedes acaban de decir que la extracción se hizo desde el 22. Quiero saber cómo fue que se detectó. Si no lo detectaron y se enteraron nada más porque empezó a surgir en las redes sociales, ¿por qué desde antes no se hizo una denuncia?, ¿por qué no nos notificó desde entonces, ya una semana?, pues se tuvo tiempo para hacer cualquier cosa.
+Quiero saber estas especificaciones, cómo fue que lo detectaron. O si no lo detectaron, entonces, ¿de qué ha servido, ha funcionado este mecanismo de una cuestión irregular?
+Y si tiene una semana, ¿qué fue lo que hicieron en esa semana?
+¿Y por qué nos enteramos hasta que nos dimos cuenta en las redes sociales que nuestra cara estaba rondando por todos lados?
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Lo que pasa es que, como lo expliqué, se ingresó al sistema con una contraseña y entonces el sistema no puede alertar que es algo indebido dado que se está entrando por el lado que el sistema permite ese acceso.
+Entonces, el tema de detección de vulnerabilidades y de intrusión se detecta con log de algo que es anómalo, pero haber entrado en un sistema de preproducción con una contraseña de forma auténtica, aunque el que lo hizo no es esa persona, pues entonces no se dispara ningún tema de algo anómalo.
+---
+INTERLOCUTORA
+Entonces, ¿cómo estamos seguros de que eso no ha sucedido antes si no se detectó de una forma anómala como tal?, ¿cómo es que no estamos seguros de que se pudiera dar antes hasta que, bueno, pues empezaron a surgir todas estas situaciones?
+¿En qué momento ustedes se dieron cuenta de que había algo anómalo y con qué elemento?
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Bueno, el tema es que particularmente en este sistema pueden estar seguros que se hizo ya un estudio de todos los datos que se han extraído, y de forma particular no encontramos ninguna extracción de forma anómala por un usuario bajando todos los archivos, como sucedió en este caso particular.
+Entonces, en el caso de registro no hay una situación anómala como esta. Se revisaron los logs del sistema, y ahí es donde se encontró que un usuario que accedió de forma casi simultánea a varios registros. Eso no sucedió porque ya se revisó también en el sistema de producción ni antes.
+---
+INTERLOCUTORA
+Queremos saber, bueno, qué día exactamente se dieron cuenta ustedes de que sucedió esto.
+---
+EMILIANO CALDERÓN MERCADO
+Ya se informó, el día de…
+---
+JESÚS RAMÍREZ CUEVAS
+El día viernes.
+---
+EMILIANO CALDERÓN MERCADO
+Sí, el día viernes.
+---
+INTERLOCUTORA
+¿Y se dieron cuenta a partir de las denuncias que se hicieron?
+---
+JESÚS RAMÍREZ CUEVAS
+A partir de que se hizo público y que se difundió, es en ese momento.
+---
+INTERLOCUTORA
+Ah, entonces es por eso la pregunta: si fue desde el 22, como lo habían mencionado, entonces, ¿cómo es que se enteran una semana después?, y eso porque surge en redes sociales.
+Y la preocupación y el ruido que se hizo, que, además, hubo un silencio de todo un fin de semana en el que no supimos qué estaba sucediendo con toda nuestra información. No nos quedó más que observar cómo nuestras credenciales estaban vueltas por todos lados y toda nuestra información, que muchas veces es también es una situación que acaparan nuestras propias familias, que por supuesto están mostrando preocupación en torno a que ya saben dónde vivimos, ya saben de qué nos rodeamos.
+Entonces, yo quisiera saber cómo es que no se dan cuenta desde antes de que se hace público en redes sociales. Entonces, ¿qué falló en su punto de detección? O sea.
+¿Y cómo sabemos que no pasó antes? ¿Y cómo podemos estar seguros y tener la confianza? ¿Y quién nos va a regresar la tranquilidad y tener la confianza de que podamos dar nuestros datos abiertamente de nuestros propios hogares para que no se haga un mal uso?
+---
+EMILIANO CALDERÓN MERCADO
+Es un tema, la analogía no va a ser la de un auto, va a ser la de un correo electrónico: ¿uno cómo sabe que alguien no tiene la contraseña de su correo electrónico? Es difícil, si no recibe un correo de él mismo. O sea, si alguien está leyendo nuestro correo electrónico porque esto entró con una contraseña nuestra, no tenemos la forma de saber hasta que hubo un aviso de ese correo de que ya alguien lo está usando; es algo parecido es algo parecido, al sistema entraron con una contraseña y el sistema la aprobó.
+Entonces, ese es el tema que nos pregunta. ¿Cómo se supo? Al exponer lo que esa contraseña sacó.
+---
+INTERLOCUTORA
+¿Y en qué momento, entonces, de alguna manera se pone freno a que eso no suceda? O sea, ¿cómo estamos seguros de que no vuelva a suceder y toda la información que ya se pudo haber sustraído? Porque ustedes están diciendo que no se dieron cuenta hasta que surgió toda esta situación de protesta, también de denuncia pública.
+Si desde el 22 surgió y nos hubieran notificado, y se hubiera llevado a cabo toda una investigación desde entonces, bueno, tendríamos la seguridad de que por lo menos saben qué sucedió y cómo. Pero si surge a partir de todo este embrollo que se da en redes sociales, pues entonces ¿con qué seguridad se puede decir que se están atendiendo este tipo de redes?
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+Sabemos cómo sucedió, es lo que les explicamos, se entró con una contraseña válida, de un usuario que seguía en el sistema.
+¿Y cómo se tiene que mitigar este tema?
+Pues se tienen que hacer cambios de contraseña más seguido, cosa que es un tema general, de todos los usuarios, tanto de correo electrónico como de sistemas como este, y dar un seguimiento puntual del movimiento que hay en el sistema por dentro.
+---
+INTERLOCUTORA
+Hablan de que ya tienen usuarios, o sea, ¿ustedes saben cuál es el usuario que se utilizó?
+---
+LUISA MARÍA ALCALDE
+Es la información que vamos a proporcionar, por supuesto, a la autoridad. Toda la información ya se proporcionó en el caso del INAI. Se va a incorporar en la denuncia penal en el caso de la Fiscalía General de la República. Entonces, se conoce a través de qué cuenta y esa es la información que habremos de dar para que se pueda hacer toda la investigación.
+---
+INTERLOCUTORA
+¿La cuenta de la persona sigue activa? ¿Sigue la persona dentro del gobierno?
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+No, esa persona ya no trabaja aquí y la cuenta ya no está activa. Como se los explicaba en el sistema de producción, se dio de baja desde hace mucho tiempo y en este sí seguía activa.
+---
+LUISA MARÍA ALCALDE
+Se tiene que dar la investigación y vamos a saber qué fue lo que sucedió.
+Vamos acá con el compañero.
+---
+PREGUNTA
+Buenas tardes.
+Emiliano, preguntarte puntualmente: ¿por qué desde el 2009 a la fecha no se ha gastado en seguridad para el sistema de cómputo de Presidencia?, ¿por qué no se puede actualizar de manera…? Hay sistemas que avisan en cuanto alguien utiliza o sustrae información.
+En la mañanera se lo decíamos al presidente; no lo contestó. ¿Por qué no se ha gastado en ciberseguridad? Este hecho no es el primero, ya es el segundo que ocurre. ¿Por qué no han gastado en ciberseguridad? ¿Esto es producto de la austeridad republicana o qué ha pasado?
+El Sol de México acaba de hacer una revisión del gasto del sistema de cómputo y no han hecho más que gastos que en servicios de internet. ¿Por qué no se ha gastado en seguridad?
+Y segundo, no sé si tuvo que ver con una apreciación de carácter político o porque el presidente ya cuenta con información, pero hoy se aventuró a señalar a la oposición como responsables de este ataque. Jesús, secretaria, yo quisiera saber en qué se basó el presidente en señalar a la oposición sobre este ataque, robo, sustracción, hackeo, para que diga que se trató de una persona en particular o de toda la oposición.
+Gracias.
+---
+JESÚS RAMÍREZ CUEVAS
+Sí, eso hay que preguntárselo al presidente de la República. Esta conferencia es para brindar la información que existe y que está a disposición del público y de los periodistas, y que se va a poner a disposición de la autoridad.
+La autoridad determinará la responsabilidad de quién o quiénes están detrás de esta extracción ilegal de datos. En tanto no haya una declaratoria de la autoridad, pues lo demás será opinión de que quienes la emitimos, pero no es…
+---
+INTERLOCUTOR
+Fue una opinión del presidente.
+---
+JESÚS RAMÍREZ CUEVAS
+Por eso. Hay que preguntar qué elementos tiene, pero esta conferencia está precisando justo que la responsabilidad la va a determinar la autoridad correspondiente después de una investigación de los hechos.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Y es dos ámbitos:
+Una desde la parte del INAI, hay que recordar que ahí incluso se hace esta valoración que algunos de ustedes preguntan de qué pasa, quiénes son los responsables de tener esa información, cuáles son los protocolos que deben de llevar a cabo los funcionarios.
+Entonces, el propio INAI haciendo una evaluación respecto a ese tema puede presentar denuncias ante Función Pública para que se pudiesen llevar a cabo algunas sanciones administrativas, si así fuese el caso.
+Y después está el terreno penal, que es por eso que nos interesa tanto que se abra una investigación para conocer quién fue y cuál fue realmente la intención de publicar 263 mujeres y hombres que cubren la fuente de Presidencia, cuáles eran los motivos, por qué se utiliza, finalmente, el acceso de manera indebida, porque ya no, incluso, teniendo la contraseña, es ilegal que la utilice. Entonces, en ese sentido, quién la utilizó y cuáles eran los motivos, es lo que vamos a saber a través de esta investigación.
+---
+INTERVENCIÓN
+(Inaudible)
+---
+LUISA MARÍA ALCALDE LUJÁN
+Eso también se va a investigar, es decir, todo es parte de la investigación. A ver, dentro de los protocolos, ¿se debió o no se debió en ese momento, que se estaba en transición de haber dado de baja con anterioridad?, todo eso es lo que se va a analizar y es la información que se está compartiendo por parte de las diferentes autoridades, tanto en el caso de Estrategia Digital como la información que hoy posee y tiene Comunicación Social, pero que ustedes se sientan tranquilos que hay el compromiso de que se conozca la verdad.
+Vamos nada más a contestar lo del gasto, que aquí el compañero preguntó de por qué no se ha invertido. Si nos puedes compartir, Emiliano.
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+En el tema del gasto no siempre pagar más significa seguridad. Yo acabo de exponer: imagínense tener en los sistemas y en general poder dar un petabyte diario de información por lo menos, no es un sistema barato.
+Lo que se hizo fue buscar infraestructura ya existente para poder usarla y no tener que gastar en infraestructura nueva. Que Presidencia no haya gastado en estos años no significa que no se use infraestructura que ya existía y que no se haga una muy buena repartición de esa infraestructura.
+Entonces…
+---
+INTERLOCUTOR
+(Inaudible)
+---
+CARLOS EMILIANO CALDERÓN MERCADO
+No, claro que no. O sea, si ustedes ven, particularmente los que han visto los sistemas de Presidencia, este de acreditaciones, todos corren con sistemas de programación nuevos que no aceptarían infraestructura obsoleta.
+Entonces, en términos generales lo que ha hecho el gobierno en tecnología es buscar toda la tecnología que no se usó y por la cual se gastó, y poderla distribuir de la mejor forma, no significa que no se use tecnología de punta.
+Imagínense, los servidores de hace cinco años pues son ahorita servidores donde no correría nada. Entonces, el gobierno usa tecnología de punta y particularmente Presidencia, busca por medio de convenios con otras instituciones esa distribución equitativa de la tecnología.
+Entonces, no es tecnología vieja, es tecnología de punta.
+---
+LUISA MARÍA ALCALDE LUJÁN
+A ver, vamos acá con Meme Yamel. Adelante.
+---
+PREGUNTA
+Buenas tardes. Un par de precisiones:
+El tema del RFC, ¿se compartió, no se compartió el RFC? ¿Iba con o no iba con homoclave?
+Otra cosa, ¿entenderemos entonces que aquellos a los que no les han notificado entonces no están en esa lista o van a compartir la lista de quiénes sí estuvieron vulnerados?
+Y otras dos precisiones:
+En el caso del mecanismo, ¿hasta dónde realmente va a acompañar el mecanismo?, porque, por ejemplo, por experiencia, cuando se van a hacer denuncias a la fiscalía supuestamente acompañadas por el mecanismo, el mecanismo no puede ni entrar, o sea, la fiscalía dice que no tenían conocimiento de que iba a ir alguien y no los dejan ni entrar.
+Y ya teniendo medidas, hay que recordar también que hay compañeros que vienen del interior del estado, de la república, perdón, y que las medidas de protección se acompañan también con los estados. Entonces, si aquí viene un compañero hace una denuncia de un gobierno o de un presidente municipal, las medidas en su lugar de residencia dependen también de ese estado y del municipio.
+Entonces, ¿cómo se va a garantizar que realmente se vaya a acompañar a los compañeros cuando están bajo estas circunstancias?
+---
+LUISA MARÍA ALCALDE LUJÁN
+Adelante, Arturo.
+---
+FÉLIX ARTURO MEDINA PADILLA
+Bueno, primero, reiterar que tengan la certeza de que vamos a trabajar para garantizar su derecho de libertad de expresión y que sigan realizando su trabajo. Este es el objeto del mecanismo y en eso estamos trabajando también desde la Subsecretaría de Derechos Humanos.
+Ya se ha dicho que se va a trabajar en la prevención y también en la no repetición. Vamos a acompañar as denuncias, para eso estamos poniendo a su disposición el mecanismo, no solamente para las medidas o los planes de protección, sino en este acompañamiento más próximo, más cercano, para quien lo determine acuda y acompañemos su denuncia, es decir, les ayudemos a la presentación de la denuncia, y claro que también establezcamos comunicación con la Fiscalía General de la República, y contactar al titular de la Feadle, que es el área encargada de la fiscalía de conocer sobre estos asuntos; es decir, sí va a haber un acompañamiento.
+Y, efectivamente, el trabajo el mecanismo parte de una coordinación también con las entidades federativas. Vamos a afinar estos procesos de coordinación y de comunicación para que, si las medidas inciden fuera del territorio de la Ciudad de México, pues podamos contar con ellas, como lo hemos hecho con los otros cientos de periodistas que tenemos actualmente incorporados al mecanismo y que le damos un seguimiento puntual a cada uno de ellos, con la supervisión y las medidas de verificación de la vigencia de estas medidas.
+---
+LUISA MARÍA ALCALDE
+Vamos acá con la compañera.
+---
+PREGUNTA
+Buenas tardes. Aquí mismo en este foro se ha hablado, se ha cuestionado incluso, la existencia de organismos como el propio INAI, incluso el Mecanismo de Protección de Periodistas. Quisiéramos saber cuál va a ser la verdadera situación una vez que se tomen decisiones graves al respecto de la existencia de estos dos organismos.
+Asimismo, también consultar, sobre todo ahora que se hizo ya la reactualización de nuestros datos, de nuestros movimientos, por qué se pide escaneado. Y si pudiéramos solicitar que se eliminen del archivo de Presidencia los documentos que recién acaban de pedir escaneados, tanto pasaporte, como de credencial de elector, tanto lo que es la parte frontal como la posterior, por las circunstancias que estamos observando en estos momentos y que bien podrían ser sustituidos por una fotocopia de nuestra identidad. Es lo que yo solicitaría.
+Gracias.
+---
+JESÚS RAMÍREZ CUEVAS
+Lo que se solicita es una identificación, una copia de una identificación, no…
+---
+VOCES A CORO
+¡No!
+---
+INTERLOCUTORA
+Me parece que ya no pueden permanecer nuestros documentos el día de hoy en el (inaudible) que se eliminen.
+---
+JESÚS RAMÍREZ CUEVAS
+Nada más una precisión para la pregunta que hizo la compañera sobre el RFC: sí se difundió el RFC, pero no tiene homoclave, son las primeras claves.
+Tenemos los documentos, para el compañero que ríe, tenemos los documentos y por eso estamos diciendo que no se transmitió la homoclave. En su momento, cuando pueda preguntar, sí, cuando pueda preguntar, cuando le toque preguntar.
+---
+LUISA MARÍA ALCALDE
+Con mucho gusto vamos a analizar, vamos a analizar estas propuestas y se analizarán por parte del área correspondiente qué es lo estrictamente necesario para poder conocer la identidad y también proporcionar seguridad a los que acuden en el acceso, entonces qué es lo necesario y en ese sentido se van a escuchar todas las propuestas.
+Vamos aquí con la compañera.
+---
+PREGUNTA
+Gracias. Yo tengo varias preguntas de todo lo que han estado diciendo. Estoy tratando de entender qué pasó.
+Primera pregunta: ¿en qué año se dio de baja la persona de la clave?, ¿en qué año dejó de trabajar aquí, si saben?
+---
+JESÚS RAMÍREZ CUEVAS
+Sí sabemos, pero lo que pasa es que forma parte de la investigación.
+---
+INTERLOCUTORA
+A ver, a ver, un año, bueno, no me digas ‘el año 2015’, dime cuántos años hace ¿Tres, dos?
+---
+JESÚS RAMÍREZ CUEVAS
+Hace menos de dos años.
+---
+INTERLOCUTORA
+Más menos dos años.
+---
+JESÚS RAMÍREZ CUEVAS
+Menos de dos años.
+---
+INTERLOCUTORA
+Entonces, ¿hay un protocolo?, ¿tiene esta área de sistema digital, se llama, entiendo hay un protocolo para cuando alguien que tiene información sensible deja de trabajar aquí. ¿Qué se hace cuando una persona se….? O si existe un protocolo, ¿y qué se hace para que no se lleve información sensible?
+---
+JESÚS RAMÍREZ CUEVAS
+Existe un protocolo para cuando alguien se da de baja, se despide o renuncia, y se hace un procedimiento administrativo para cancelar todos los accesos de información. Se le da de baja en todas las listas de posibles… En otras dependencias, si tuvo acceso a otras dependencias, y por supuesto en el sistema se da de baja su nombre de usuario y su contraseña.
+---
+INTERLOCUTORA
+¿En este caso no pasó?
+---
+JESÚS RAMÍREZ CUEVAS
+Si pasó. Precisamente lo que aclaró el compañero Emiliano es que el sistema alfa.gob.mx, que fue el vulnerado, que es este de preproducción, no estaba dada de baja esa contraseña y ese usuario; en el sistema normal de acceso, dónde están los datos, en general, ahí está dado de baja desde el principio, desde el momento en el que dejó de laboral en el gobierno.
+---
+INTERLOCUTORA
+¿Por qué están tan seguros? Ahorita dijo alguien que, ¿cómo dijeron?, aunque el que lo hizo no es esa persona, o sea, que la persona de la clave no es la que sustrajo la información. ¿Por qué están tan seguros de que esa persona no fue?
+---
+LUISA MARÍA ALCALDE LUJÁN
+No, no, pero no lo sabemos. O sea, nosotros vamos a esperar a las investigaciones; entonces, por eso tampoco podemos dar nombres, porque desconocemos esa circunstancia, y eso es lo que nos va a dirigir la investigación. Vamos a dar toda la información disponible, hay que esperar.
+---
+INTERLOCUTORA
+Entonces, ¿se le está investigando también a esa persona?
+---
+LUISA MARÍA ALCALDE LUJÁN
+Bueno, todo se tiene que investigar, paso a paso, qué fue lo que sucedió.
+---
+INTERLOCUTORA
+Bueno, pero ¿se le está investigando a esa persona?
+---
+LUISA MARÍA ALCALDE LUJÁN
+A todos.
+---
+INTERLOCUTORA
+Es que no me dice ‘sí’, sólo dice ‘a todos’, y eso es muy ambiguo.
+---
+JESÚS RAMÍREZ CUEVAS
+Sí, incluyen a la persona, en la clave.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Claro, incluye esa persona.
+---
+INTERLOCUTORA
+Bueno, cuando ustedes dicen que desde el 22 se extrajo la información y que el sistema no les alertó, ¿qué fecha…? ¿Lograron entrar al…? Cuando se enteran de que esta información anda por ahí, está en un sitio, ¿logran ustedes entrar a ese sitio?
+---
+JESÚS RAMÍREZ CUEVAS
+Sí, como los que accedieron a ese sitio y vieron las listas.
+---
+INTERLOCUTORA
+Entonces, ya que entran a este sitio, ¿de qué fecha se subió la información ahí, desde qué fecha?, ¿desde el 22?
+---
+JESÚS RAMÍREZ CUEVAS
+No tenemos conocimiento, eso fue en la parte de la investigación, lo que sí podemos decir es que desde el 26 se procedió a cerrar ese sitio, una vez que fue notificada la autoridad correspondiente para, de acuerdo al Protocolo Nacional Homologado en caso de Incidentes Cibernéticos.
+---
+INTERLOCUTORA
+Entonces, sí, ¿ese sitio ya no existe, ya la información no está ahí?
+---
+JESÚS RAMÍREZ CUEVAS
+Está cerrado ya.
+---
+INTERLOCUTORA
+¿Y tampoco está en esa área de preproducción como le llaman?
+---
+JESÚS RAMÍREZ CUEVAS
+También es ya está cerrado y cancelado.
+---
+INTERLOCUTORA
+Y en el caso, bueno, estoy ya lo dijeron, del mecanismo qué podría ayudar, o sea, cada persona, dice, van a hacer un análisis de riesgo de cada persona.
+---
+FÉLIX ARTURO MEDINA PADILLA
+Sí, de cada persona que considere que hay una afectación, sienta que hay una amenaza o que le preocupa el tema y quiera iniciar una, solicitar una medida de protección lo puede hacer, no es algo que se detone en automático, claro que está disponible para todas las 263.
+---
+INTERLOCUTORA
+¿Sólo para los que se acerquen?
+---
+FÉLIX ARTURO MEDINA PADILLA
+Sí, es que es el mecanismo.
+---
+LUISA MARÍA ALCALDE LUJÁN
+El mecanismo tiene reglas que ya están establecidas. Entonces, lo que queremos pedirles es que puedan, con la información que aquí se entregó, que se pueda solicitar; no todo mundo necesariamente se siente amenazado, se siente en riesgo.
+¿Quién que acudir a este mecanismo?
+Todos aquellos que se sientan…
+---
+INTERVENCIÓN
+(Inaudible)
+---
+LUISA MARÍA ALCALDE
+Sí, pero no hablemos por todos. Cada uno de ustedes, de sentirse amenazado o de sentirse en riesgo, puede acudir a este mecanismo que debe de activarse conforme a los protocolos.
+Entonces, ya hay medidas, por ejemplo, de emergencia y, después, como aquí explicaba el subsecretario, hay una serie de pasos posteriores: después de existir una emergencia se determinan ciertos criterios y después se tiene con los mecanismos y expertos que evaluar caso por caso para poder determinar cuáles son los elementos que deben aplicar, porque hay distintas medidas, no para todos los periodistas son las mismas medidas dentro del mecanismo.
+Si les parece bien, vamos a ir concluyendo esta parte, porque es toda la información que tenemos disponible hasta ahora. Eso no significa que no vayamos a seguir informando, la idea es que contemos con más elementos y que podamos seguir informando.
+Vamos a iniciar con la denuncia penal. Como les dijimos, hoy por la tarde ya se dieron todos los elementos al INAI, que también abrió ya esta investigación.
+Y vamos a seguir informando, o sea, la idea no es nada más esta conferencia, sino seguir informando toda la información adicional que vayamos teniendo.
+Si les parece bien, vámonos, por último, si les parece bien, con dos compañeros. Aquí está adelante. A ver, una aclaración. ¿cuál?
+---
+PREGUNTA
+Yo creo que sería fundamental mencionarlo. Es que, la verdad, ustedes dicen que se subió a un servidor, la compañera dice que andaban rondando las credenciales en redes sociales.
+¿La información se compartió directamente al buscador de Google o a las redes sociales, que son X, Facebook, Instagram?, porque no me queda claro.
+Yo sé perfectamente, y no es por ponerme las coronas ni nada de eso, de saber un poquito más o menos de dónde está enfocado todo ese tema del hackeo. El hackeo viene programado en una deepweb, que es una red oculta donde precisamente se venden los datos.
+Es que no me queda claro. Si está ahorita la…Como ustedes dijeron, que bloquearon ya la información de ese servidor, y si ustedes ya detectaron que se están compartiendo esos datos en redes sociales, que estoy hablando de las redes abiertas.
+Es mi única duda. Y si ustedes tienen…. Bueno, yo siento que ustedes tienen la capacidad de bloquear precisamente a esos usuarios que comparten los datos personales de todos nosotros.
+---
+JESÚS RAMÍREZ CUEVAS
+Es importante dos cosas:
+Uno, que todos los reporteros revisen su correo. Que revisen el spam, porque estamos recibiendo información de que no habían recibido notificación, porque estaba en spam.
+Y lo segundo, que si es muy importante, y esto va para los periodistas, medios de comunicación, usuarios de las redes y cualquier persona que comparta esta información, les queremos decir que, no porque lo digamos nosotros, divulgar datos personales es un delito. Entonces, quienes divulguen esta lista, las fotografías, los… completas, y esta información que vulnere los datos personales de cualquier persona, es un delito.
+Entonces, pedimos de manera encarecida a los medios de comunicación, a los periodistas, a usuarios de redes, que no compartan esta información porque van a ser parte de la investigación también por difundir información que es considerada personal y que vulnera la intimidad y la seguridad de las personas.
+---
+INTERLOCUTOR
+Hablando de ese tema, Jesús, hay un programa de tele, que es Imagen de la noche, ahí sacaron todas las credenciales, ¿eh? Ahí yo sí siento que tú o no sé quién, sea de ese medio, debería decirle al titular de ese espacio que sí sacaron las credenciales, ahí las pusieron así, como si fueran baraja.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Bueno, pues de manera indebida, y por eso queda aquí, de una vez, la aclaración por parte de Jesús, de que no se puede compartir esta información porque se trata de datos personales, y habrá de incluirse dentro de la misma investigación.
+Entonces, si les parece bien, aquí dejaríamos esta parte de la conferencia. Vamos a seguir informando, cuando tengamos información adicional para no estar compartiendo la misma… Algo nuevo, a ver, algo nuevo que se quiera saber.
+Ahorita acabamos de compartir ya toda la información que tenemos disponible, no hay más información al momento. Entonces, lo que les pedimos es que podamos seguir con estos espacios para poder irles actualizando de lo que vaya sucediendo, hasta el momento no hay más que compartir con la prensa.
+A ver, algo nuevo.
+---
+PREGUNTA
+(Inaudible)
+---
+LUISA MARÍA ALCALDE
+Sí, a ver. ¿Nos pueden apoyar?, sí, pero por eso ya mencionamos a través de qué mecanismos, ese es el mecanismo a través del cual queremos darle seguimiento y apoyar en este momento, porque es la herramienta que tiene la Secretaría de Gobernación, en específico la subsecretaría, para poder dar acompañamiento.
+Entonces, en ese sentido, sientan la confianza de, como ya dijimos, cualquiera que considere o se sienta amenazado, se sienta en riesgo, ya están los datos. Aquí si nos ayudan a compartir los datos del mecanismo para que todos los tengan a la mano.
+Entonces, este es un mecanismo, insisto, general. Cualquier periodista que pudiese sentirse en riesgo o amenazado puede acceder a él. En este momento estamos hablando de un número en específico que por cuestiones que aquí ya se explicaron pudiesen sentir este riesgo, porque se compartieron sus datos de manera indebida.
+Ya se explicó toda la información que se tiene.
+---
+PREGUNTA
+Todavía no se sabe si el usuario es de la persona a la que correspondía, entonces todavía no puede hablar de un hackeo.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Hasta el momento ya dimos toda la información, aquí ya explicó Estrategia Digital qué es lo que tenemos.
+---
+JESÚS RAMÍREZ CUEVAS
+Es importante, sí es importante, y la precisión yo la hice: no es una filtración de alguien que trabajó o trabaja en el gobierno, se trata de una extracción ilegal de la información a través de una cuenta.
+¿Cómo obtuvieron esa cuenta?
+Es lo que la autoridad tiene que determinar. Pero eso sí está claro y lo precisamos, que es una extracción ilegal, externa, de esa información, eso sí ya está probado. Entonces, por eso…
+---
+PREGUNTA
+(inaudible) esta persona del gobierno.
+---
+JESÚS RAMÍREZ CUEVAS
+No, desde el año pasado.
+INTERLOCUTOR ¿Pero por qué? ¿Renunció?
+---
+JESÚS RAMÍREZ CUEVAS
+No, no podemos este… Bueno.
+---
+PREGUNTA
+Si fue esa persona, no fue un hackeo, él tenía acceso a esa cuenta.
+---
+JESÚS RAMÍREZ CUEVAS
+Bueno, sí, todo lo que podamos decir alrededor en este momento forma parte de la investigación, no estamos protegiendo a nadie, eso sí se los queremos decir.
+---
+PREGUNTA
+¿La contraseña que se utilizó correspondería a una persona viva o fallecida?
+---
+JESÚS RAMÍREZ CUEVAS
+Esa es una muy buena pregunta, pero esa la autoridad la va a responder.
+Muchas gracias.
+---
+LUISA MARÍA ALCALDE LUJÁN
+Vamos a dar todos los elementos a la autoridad. Y si les parece bien, nos seguimos encontrando y seguimos compartiendo con ustedes.
+Muchas gracias.
