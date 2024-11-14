@@ -1,0 +1,537 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de noviembre de 2024
+Presidencia de la Republica
+14 de noviembre de 2024
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días.
+Bueno, el día de hoy nos acompaña el maestro José Antonio Peña Merino, él es titular de la Agencia de Transformación Digital y de Telecomunicaciones; Jorge Luis Pérez Hernández, ingeniero Jorge Luis Pérez Hernández, es el titular de la Unidad de Infraestructura Pública, también de la Agencia; y la licenciada Norma Solano Rodríguez, que es también de la Agencia, titular de la Unidad de Transformación Digital.
+Hoy, Noemí tenía otra tarea, y nos acompaña Rosario —Rosario, ¿verdad?— Margarita Vásquez Montaño, que nos va a presentar la sección al final de la conferencia, de “Mujeres en la historia”.
+Hoy vamos a hablar de la Agencia de Transformación Digital.
+–Pepe–.
+---
+JOSÉ ANTONIO PEÑA MERINO, TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y DE TELECOMUNICACIONES
+Buenos días. Con su permiso, Presidenta.
+Les queremos contar un poco de qué va la Agencia de Transformación Digital y de Telecomunicaciones, las agendas de algunos de los proyectos con los que estamos iniciando o iniciaremos nuestra actividad.
+El motivo o los motivos centrales que dan nacimiento a la Agencia, y como lo ha mencionado la Presidenta varias veces, es unificar las capacidades tecnológicas del gobierno federal para su mejor aprovechamiento, generar autonomía tecnológica, de modo que las soluciones de tecnología del gobierno se generen dentro del propio gobierno, y eso, por supuesto, implica austeridad, es decir, ahorros presupuestales.
+Y esta es la misión, digamos, central que motiva mucho de lo que queremos hacer: entender que la tecnología pública sirve para que las personas accedan con mayor facilidad a lo que tienen derecho; es decir, tiene una motivación de utilidad pública y de cerrar brechas de acceso entre la población.
+Entonces, nuestro trabajo se guiará a partir de siete puntos centrales, y ya iré detallando algunos de estos:
+Lo que existe presencialmente, es decir, un trámite que existe de manera presencial puede también existir de manera digital, y es nuestra tarea habilitar que esto ocurra.
+Reducir al mínimo la carga regulatoria sobre personas y empresas.
+Generar ahorros, como lo mencioné; a la vez, cerrar también espacios de oportunidad de corrupción y, por supuesto, que los sistemas públicos, los sistemas de información, puedan hablarse entre sí, de modo que podamos habilitar y generar servicios digitales.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Oportunidad para la cero corrupción.
+---
+JOSÉ ANTONIO PEÑA MERINO, TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES
+Oportunidad para la cero corrupción, exactamente.
+Un solo número de atención ciudadana que resuelva todos los problemas que no sean emergencias —emergencias, sabemos, es el 911— todos los días y a toda hora.
+Inteligencia de datos, es decir, análisis de datos para fortalecer capacidades públicas.
+Autonomía tecnológica, generar nosotros soluciones propias, y que esas soluciones las tengan en resguardo adecuado en términos de seguridad.
+Y un principio central, que el internet en México es un derecho.
+Y esto descansa sobre sobre dos pilares en términos organizacionales:
+Uno, el pilar de Transformación Digital; en donde estamos es un área principalmente centrada a cuidar los productos que tienen una salida ciudadana.
+Simplificación, de manera muy importante.
+Digitalización.
+Llave MX.
+El Centro de Atención del Bienestar, que es el número único.
+Dictaminación tecnológica, esto es muy importante. Las adquisiciones de tecnología tienen que pasar por una aprobación de la Agencia, de modo que se eviten contratos abusivos, sobrecostos, y que se garantice que lo que se adquiera pueda a la vez ser reutilizado y se hable con sistemas existentes. Y esa es un área que está a cargo justamente de Norma Solano.
+Y un área que nosotros entendemos como habilitadora, que se llama “Infraestructura Pública Digital”, que es realmente donde están los fierros, digamos, ¿no?, es la fábrica de software , en donde hay un equipo de desarrolladores que ahorita les voy a explicar.
+Infraestructura tecnológica, ¿no?, los centros de datos, las redes locales.
+El área de análisis de datos.
+Ciberseguridad.
+Y política de telecomunicaciones.
+Y un poco para que entiendan ustedes cómo tiene sentido, porque este es un modelo realmente único en el mundo en términos de organización y de unificar bajo un solo lugar todas las capacidades de infraestructura tecnológica, esto lo que crea es un sistema de soluciones tecnológicas, ¿no?
+Al final, realmente lo más importante es el producto final que nosotros podemos entregar a las mexicanas, mexicanos para poder interactuar con autoridades y resolver trámites y acceder a derechos. Entonces, esto tiene tres grandes momentos.
+El primer momento es el de habilitadores, que eso está mucho más centrado en el tema de infraestructura digital: ciberseguridad, la fábrica de software, el análisis de datos.
+Luego, hay un área mucho más pensada como en términos de producción, pensémoslo así, que es simplificación y digitalización que es en donde se generan estos servicios digitales.
+Y en el centro de esto, está Llave MX como el mecanismo de identidad digital.
+Pero a la vez, estos habilitadores no solo sirven para lo que nosotros producimos, también sirven para lo que otras autoridades de la Administración Pública Federal producen; la Agencia, como fue el caso de la Ciudad de México, es un área que interactúa permanentemente con todas las autoridades y recibe requerimientos de todas las autoridades, ahorita voy a abundar un poquito más en eso.
+Y queremos, además, expandir, por supuesto, este modelo a estados y municipios mediante el Centro Nacional de Tecnología Pública. Ha habido ya un acercamiento de muchos estados, con los que ya empezamos a hablar, que ya tienen incentivos y proyectos propios, y que nosotros buscamos acompañar y fortalecer.
+Y al final, por supuesto, generar soluciones ciudadanas y atención ciudadana.
+Y dos acotaciones:
+Lo primero, la política de Telecomm, que hoy tiene la Secretaría de Infraestructura, Comunicaciones y Transportes entre sus atribuciones que pasarían a la Agencia, es el piso que permite poder hacer que esto tenga adopción entre la población, que se cierren brechas de desigualdad en acceso.
+Y Correos, que estaría sectorizado también a la Agencia, en donde lo que buscamos es acompañar en lo que se nos requiera, sobre todo, para fortalecer la parte logística de esta institución.
+Un muy breve paréntesis. La Presidenta lo ha anunciado varias veces, la sustitución de la Ley General de Mejora Regulatoria por la Ley de Simplificación y Digitalización, y les quiero explicar muy rápido algunos puntos que está ley abordará:
+Uno, reducción de trámites, requisitos y tiempos de solución, que realmente es su propósito.
+Dos, eliminación de barreras para el bienestar social, barreras burocráticas para el bienestar social y la prosperidad económica.
+Homologación de procesos y requisitos entre autoridades y niveles de gobierno.
+Una política muy agresiva de digitalización.
+Llave MX y Expediente Digital. Llave MX, además de ser un mecanismo de autenticación digital –que ahorita les voy a explicar–, tiene un expediente donde los documentos digitales que el gobierno genere, automáticamente se cargan en el expediente de cada persona que tenga Llave. Y cuando esta persona haga un trámite digital el documento digital simplemente se consulta o se jala desde este expediente digital, y no tenemos que andar cargando documentos, ni andar nosotros viajando de ventanilla en ventanilla, más bien los documentos viajan entre servicios que se hayan habilitado.
+Desarrollo de capacidades tecnológicas propias. No solo es el tema de desarrollos propios, es crear un cuerpo de profesionistas, ingenieras, ingenieros mexicanos que puedan especializar sus habilidades en la generación de soluciones públicas.
+Un catálogo único de trámites y un portal ciudadano de servicio.
+Un repositorio de tecnología pública para poder garantizar que lo que se haga con dinero público pueda también ser adoptado por cualquier otro gobierno, cualquier nivel de gobierno y cualquier autoridad.
+Y mecanismos de solución y atención ciudadana, es decir, un sistema de acompañamiento permanente en la provisión de estos servicios digitales como se hizo… Y perdón, voy a hacer referencia constante a la Ciudad de México, o sea, porque es realmente, de ahí venimos y es la experiencia que tenemos. Locatel se convirtió en un centro de ayuda de servicios digitales.
+Y 10 principios centrales que guían el espíritu de esta ley:
+Uno. La mayor carga regulatoria, es decir, los mayores costos para la provisión de servicios los tiene que asumir la autoridad, no el ciudadano.
+Dos. No solicitar documentos que la propia autoridad o el propio gobierno generan. Para eso se pueden habilitar sistemas de consulta y eso ahorra que las personas tengan que presentar o exhibir documentos que el gobierno genera.
+Tres. Fusionar trámites y crear flujos simultáneos. Cuando uno dice “eliminación de trámites”, no es que se elimine la regulación asociada al trámite, lo que ocurre es que se hace una reingeniería que permite, por ejemplo, entender que si tres trámites para construcción —doy el ejemplo— comparten casi los mismos requisitos, pues eso se puede simplificar en un solo trámite, ¿no? Entonces, permanece la regulación, pero se fusionan los procesos y los flujos.
+Cuatro. Eliminar requisitos no indispensables. Es decir, hacer un diagnóstico muy claro de qué es lo indispensable para poder garantizar que el trámite proceda y que la autoridad tenga la certeza de estar autorizando algo que merece ser autorizado.
+Cinco. Documentos digitales tienen la misma validez que un documento físico. Y para eso es tarea de la Agencia garantizar que le demos la certeza también a las autoridades, que son las dueñas sustantivas de que el documento digital es válido y es original.
+Seis. Todo trámite digitalizado debe ser previamente simplificado. No tiene sentido mover un trámite engorroso de manera digital, el proceso debe ser simultáneo, por eso, son dos áreas que conviven permanentemente.
+Siete. Homologar vigencias en trámites cuando dependen uno de otro. Ocurre hoy, por ejemplo, que tienes dos trámites que son secuenciales, que uno depende del otro, y cuando estás resolviendo el segundo ya se te venció el primero. Entonces, cuando sea el caso de que sean trámites que estén asociados, pues garantizar que las vigencias estén homologadas.
+Renovar vigencias cuando proceda en lugar de reiniciar el trámite. Si nada ha cambiado, pues no tiene sentido volverlo a hacer; simplemente una vigencia, es algo que se hizo en la Ciudad de México.
+Sustituir permisos por avisos. También en los casos en los que proceda.
+Y de manera muy importante, aunque es el décimo, que no están ordenados por importancia, pero es importante enfatizar esto, es priorizar los trámites de mayor volumen de uso entre las personas, de modo que tengamos un mayor impacto entre ciudadanas, ciudadanos, y, sobre todo, aquellos que sean de mayor frecuencia entre grupos de mayor vulnerabilidad.
+Y lo que quiero de manera muy rápida es mencionarles algunos de los proyectos estratégicos con los que estamos ya iniciando y varios de ellos que se han mencionado en este mismo espacio por secretarias, secretarios y otras autoridades:
+Llave MX es el mecanismo de identidad digital, garantiza un ingreso único a todas las plataformas de gobierno, además de que permite autenticarnos. Realmente una parte importante del requerimiento de ir a una ventanilla presencialmente es que el servidor público verifique que tú eres tú, y esto es algo que se puede hacer de manera remota con Llave y el expediente que les mencionaba.
+Llave en realidad nace este mismo año –hemos venido trabajando Jorge y su equipo, y Norma y su equipo, desde hace un par de meses– y se va a lanzar en las siguientes semanas junto con Llave para persona moral; Llave está asociada a una persona física, pero también queremos generarla para la persona moral, para que las empresas también puedan utilizarla, y nacería junto con la App del Gobierno MX.
+Y la integración; nosotros creemos que el 100 por ciento de los trámites, los concluiríamos en 2026.
+Y creemos que también puede ser un mecanismo importante para que privados puedan usar Llave como un mecanismo de confianza, para habilitar servicios digitales privados y abrir la oferta a segmentos de la población que hoy no acceden.
+La fábrica de software es apostarle a la autonomía tecnológica, generar desarrollos propios. Son ingenieras, ingenieros, matemáticas, matemáticos, físicos, físicas mexicanas, realmente egresados, la mayoría, de escuelas públicas, muchísimos del Tecnológico Nacional y que están poniendo sus capacidades y su talento al servicio de la tecnología pública.
+Y la Plataforma Pública de Digitalización —me detengo muy rápido—, este es un digitalizador automático de trámites que nos permite hacer en una décima de tiempo y de costo, generar un trámite digital, y que queremos a la vez compartir con otras autoridades, de modo que ellos mismos se vuelvan digitalizadores de sus propios procesos.
+El Programa Espacial Mexicano lo ha anunciado también la Presidenta. Está el objetivo de poner un nuevo satélite estacional en órbita para 2027, 2028, que siga proveyendo servicios críticos para autoridades del gobierno, pero que también dé servicios de conectividad en áreas remotas. Y no se trata solo de salir a adquirir un satélite, se trata de generar un proceso de transferencia tecnológica, que haya componentes con diseño y ensamblaje en México; y que el satélite, por supuesto, tenga contenido nacional, y esto implica una colaboración muy importante con la Secretaría de Ciencias, Humanidades, Tecnología e Innovación, a cargo de la doctora Rosaura Ruiz.
+Y también estamos evaluando generar una constelación de satélites de información, que son de mucho menor costo, que toman imágenes que son de uso recurrente, por ejemplo, para temas de desastres naturales, usos de suelo, temas ambientales. Y que puede ser, ese sí de principio a fin, y en el mismo esquema junto con universidades, instituciones de educación superior, hecho de principio a fin en México.
+El Centro de Atención para el Bienestar, el CABI, es un número único; estamos en conversaciones con el IFT, creemos que el número va a ser el 079. Y cualquier tema de una emergencia podrá ser resuelto ahí, sea informativo, sea un trámite de principio a fin, o sea un tema que merezca ser despachado a otra Secretaría. De modo que con un solo número, todas las mexicanas y mexicanos sepan que van a ser atendidos y que se va a resolver el tema que requieran que sea resuelto.
+El Centro Nacional de Tecnología Pública. Es expandir esto a estados y municipios. Y tiene tres componentes centrales: un repositorio de código público que pueda ser compartido, acompañamiento técnico para echar a andar este código, y una escuela de tecnología para servidores públicos. De modo que, gobiernos locales que no tengan un equipo dedicado a tecnología puedan tener parte de su equipo capacitado para dar mantenimiento a los sistemas.
+Inteligencia de datos. Ahí está el tema de Datos Abiertos y la parte, dos partes importantes:
+Uno. Política publicada basada en evidencia y el tema del uso de inteligencia artificial para fortalecer capacidades, sobre todo, en recaudación. Por ejemplo, el tablero que mostró aquí de seguridad hace un par de días o ayer, justamente nace de esta área, ¿no?
+El Plan Nacional de Ciberseguridad. Es simplemente garantizar que todos los sistemas de información en todas las autoridades estén bien resguardadas y que tengan protocolos mínimos de garantías de seguridad.
+Y Nube México, que es poder garantizar el mejor uso de la infraestructura de los centros de datos para garantizar que los servidores digitales que se habiliten puedan tener infraestructura para salir a productivo.
+–Ya muy rápido, voy concluyendo–.
+El Programa Federal de Simplificación. Hay más de 7 mil trámites federales que queremos reducir a la mitad, el número de trámites, el número de requisitos y el tiempo de resolución, y que, por lo menos, el 80 por ciento de frecuencias de uso estén digitalizados.
+Muy rápido, algunos de los proyectos que se han mencionado aquí, no me detengo en el detalle:
+La Ventanilla Nacional de Inversiones, asociado a los Polos de Bienestar, que ha anunciado la Presidenta. Es un solo acceso para garantizar que esa inversión transite todos los trámites de los tres niveles de gobierno.
+Servicios Consulares. Recientemente parte del equipo fue a…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+–¿Por qué no explicas ahí, por ejemplo, de cuántos trámites a cuántos trámites han pasado?–
+---
+JOSÉ ANTONIO PEÑA MERINO, TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES
+En el caso de los trámites de los paisanos y paisanas, son 59 trámites en total, uno de los más importantes son Registro Civil.
+Aquí realmente no es tanto reducir los trámites, son de 59 al 45, sino garantizar que el tiempo de resolución sea casi inmediato, y eso implica generar una Ventanilla Consular Única, de modo que nuestras hermanas, hermanos, fuera de México, y centralmente en Estados Unidos, puedan resolver de manera muy fácil, a veces sin necesidad de acudir al Consulado, el trámite que están requiriendo.
+El más frecuente, por supuesto, es Registro Civil: Acta de Nacimiento, en su caso, Acta de Defunción, pero no solo, hacen muchos trámites con Infonavit, IMSS, y realmente este es un proyecto integral que ya va bastante avanzado, junto con Relaciones Exteriores y el canciller Juan Ramón de la Fuente. Y justamente fuimos a algunos Consulados a hacer un diagnóstico con paisanos y paisanas.
+Conagua. Lo ha mencionado también la Presidenta, es unificar un solo sistema que gestione el tema de concesiones, generar un expediente digital y, por supuesto, una Ventanilla de Trámites del Agua.
+El Sistema de Compras Públicas. Lo anunció aquí la secretaria Raquel Buenrostro, generar un nuevo sistema de adquisiciones públicas de punta a punta, Aduanas y SAT. Es generar también sistemas unificados y, sobre todo, un sistema de inteligencia de datos que permita generar alertas y elevar recaudación.
+RAN. De manera importante, el tema de la ventanilla de la Procuraduría Agraria, y este mismo año saldremos con la Constancia de Vigencia de Derechos.
+Cofepris tiene un sistema de trámites bastante complejo, son más de 353, queremos reducir a la mitad requisitos y pasar el tiempo de resolución de 54 días hoy a 20 días.
+El Expediente Clínico Digital, lo anunció el subsecretario Eduardo Clark y también el director del IMSS, Zoé Robledo; el IMSS tiene desarrollos bastante robustos, entonces queremos hacer esa traslación hacia el resto del sistema de salud.
+–Y creo que ya–.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+–Los pasaportes, cuántos papeles que tienes que entregar–.
+---
+JOSÉ ANTONIO PEÑA MERINO, TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES
+En el caso de pasaportes vamos a reducir a la mitad el número de requisitos.
+Y de manera muy importante, hacer una validación previo a la cita, que nosotros diagnosticamos junto con el canciller y su equipo; es una de las cosas que genera más molestias en algunos casos, ¿no? Entonces, tú puedes subir los documentos previo a tu cita, se validan, y una vez que se validan, se otorga la cita. Y realmente el proceso ya presencial en las oficinas de pasaportes va a ser muy, muy rápido y muy ágil.
+Sería todo, Presidenta. Muchas gracias.
+---
+PREGUNTA
+¿(inaudible) y cuál sería el monto de los ahorros que esperan obtener con esta Agencia?
+---
+JOSÉ ANTONIO PEÑA MERINO, TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES
+El tema de corrupción, y agradezco la pregunta, cuando uno digitaliza procesos de punta a punta, y que es una de las apuestas que mencionó la secretaria Buenrostro, realmente reduces muchísimos los espacios de oportunidad porque reduces muchísimo arbitrariedades y posibilidades; y, además, todo deja un registro digital.
+Todos los esfuerzos que va a encabezar la secretaría Buenrostro y, por supuesto, el gobierno de la Presidenta en temas de corrupción, combate a corrupción, pues van acompañados de un proceso muy agresivo de digitalización.
+En cuanto a los ahorros, estamos haciendo la estimación, pero hago una referencia y lo hago nada más para dar un poco de contexto: En la Ciudad de México hicimos poco más de 400 desarrollos propios, además de la renegociación del contrato de conectividad, y eso implicó ahorros por más de 3 mil 500 millones de pesos en el caso de la Ciudad de México; nosotros creemos que aquí la magnitud va a ser sustantivamente mayor, pero cuando tengamos un estimado o una proyección la podemos compartir.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, esta es la Agencia de Transformación Digital. Y el objetivo es simplificarle la vida a las mexicanas y a los mexicanos, evitar cualquier forma de corrupción que pueda haber en una ventanilla, que cada ciudadano… La Llave tiene… Si alguien abre una cuenta de banco y después tiene la cuenta digital en su teléfono, entra a su cuenta con un correo, un número y una contraseña, y ahí viene toda su información.
+Llave MX tiene ese objetivo, que si uno va a hacer un trámite pone su nombre, su contraseña y ahí viene la historia de los trámites que uno ha hecho con el gobierno. Si uno necesita el Acta de Nacimiento, ya está ahí depositada el Acta de Nacimiento; así que si el siguiente trámite digital quiere hacerlo uno, pues ya vienen los documentos que se utilizaron para los trámites anteriores.
+Entonces, desde Llave MX hasta todos los desarrollos que van a beneficiar a las y a los mexicanos en México y en el extranjero, y también las inversiones. Y vamos a trabajar conjuntamente con municipios, estados, para que también esos trámites puedan digitalizarse y avanzar en el desarrollo tecnológico de nuestro país. Ese es el objetivo.
+Bueno, antes de las preguntas —vamos a ir uno por uno para que no…—, ayer no mencioné la renovación del PACIC, el PACIC 24-25, es muy importante. Entonces hicimos un video pequeño para información de todas y de todos. Adelante.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Listo.
+Bueno, vamos a las preguntas.
+–A ver, acá–.
+---
+PREGUNTA
+Buenos días. Liliana Piña, de ATiempo.com.mx y PuenteLibre.mx, en Ciudad Juárez.
+Presidenta, en respuesta a las recientes declaraciones del embajador de Estados Unidos, Ken Salazar, sobre la efectividad de la estrategia de seguridad “abrazos, no balazos”, la Secretaría de Relaciones Exteriores emitió una nota diplomática expresando el extrañamiento de nuestro país ante dicho comentario.
+¿Cuál es la posición del gobierno frente a estas declaraciones y qué diálogos se planean con Estados Unidos para abordar la cooperación del tema de seguridad?
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Primero, vale la pena decirlo, hay diferencias entre lo que dice el embajador de Estados Unidos, un día con lo que dice otro día. Tal fue el caso, por ejemplo, de la reforma al Poder Judicial, en una ocasión dijo que “le parecía bien”; una semana después dijo que “iba a ser muy malo para México”.
+Les voy a poner una declaración de Ken Salazar hace algún tiempo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+–Hay por ahí una nota también, ¿no?–
+Entonces, ¿cuál declaración escuchamos, la de ayer o la de hace unos meses? Ese es primer tema. Porque tiene que haber consecuencia, tiene que haber lógica en las declaraciones que hace uno; no puede uno declarar primero una cosa y luego declarar otra. Primer tema.
+Segundo tema. México es un país libre, independiente, soberano. Nos coordinamos.
+Con el presidente Biden, el Presidente López Obrador tuvo un diálogo de alto nivel, que le llamaron el “Diálogo Bicentenario”, en distintos temas: tráfico de drogas, tráfico de armas, porque es de un lado y del otro, migración, seguridad.
+Hay coordinación y va a seguir habiendo coordinación, porque es muy importante, porque tenemos una frontera común. Entonces, tiene que haber coordinación, tiene que haber diálogo de alto nivel que nos permita coordinarnos en diferentes temas que importan a uno y a otro país; además, somos socios comerciales.
+Pero no subordinación, eso no. México es un país libre, independiente, soberano. Nos coordinamos, trabajamos juntos, pero no hay subordinación.
+Es una relación distinta, es una relación de iguales, entre dos países independientes, soberanos, que compartimos mucho: compartimos familias, porque hay familias de un lado y de otro lado de la frontera; compartimos cultura; compartimos economía, comercio; y también compartimos problemas y esos problemas nos coordinamos para resolverlos.
+Entonces, ayer hubo una nota diplomática. Pero, sobre todo, es esta disparidad de declaraciones de la misma persona; y, por otro lado, la coordinación, más no la subordinación.
+---
+PREGUNTA
+¿Ha tenido algún contacto con el embajador o va a tener algún mensaje?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El canciller tiene ahí relación con el embajador.
+---
+PREGUNTA
+Muchas gracias, Presidenta. En otro tema, el relación con el proceso de asignación del Examen Nacional de Aspirantes a Residencias Médicas, los aspirantes han recibido recientemente la noticia de que el ingreso a especialidades se realizará mediante el sistema de asignación directa, esto ignorando el proceso que se ha llevado en los hospitales con entrevistas y exámenes.
+Dadas dichas especulaciones y dudas de los médicos, ¿podrían aquí, en este espacio, explicar a los médicos y aspirantes cuál es el proceso para la asignación de hospitales a los nuevos residentes?
+Y también, en dado caso de que se llegue a hacer un cambio, alguna modificación a los médicos que van a entrar a especialidades, ¿en cuánto tiempo se va a dar este anuncio?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No tengo en este momento la información sobre este tema, pero a ver si en este mismo momento nos contesta el doctor Kershenobich o alguno de los subsecretarios; y si no, les pedimos que hoy mismo puedan dar respuesta a esto que preguntas.
+---
+PREGUNTA
+Muchísimas gracias. Y para cerrar, Presidenta, el INE ayer mandó una carta a la Presidenta en el cual justificó y explicó los precios, los gastos, perdón, para las siguientes elecciones. Preguntarle si, ¿ya recibió la carta? Y también, ¿qué mensaje les envía?
+Muchísimas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues el mensaje es que no es justificable el presupuesto que están enviando. Lo vuelvo a explicar: es más presupuesto en el 2025 que el del 2024 lo que están pidiendo; estamos hablando creo que de 39 mil millones de pesos lo que están pidiendo.
+Ahora, sí va a haber una elección el próximo año para las personas del Poder Judicial, pero, a diferencia de las elecciones del 2024, no hay financiamiento a partidos políticos especial por campañas electorales porque no hay financiamiento para la campaña de jueces, juezas, magistrados, magistradas o ministros, ministras; no hay recurso público para las campañas, es mínima la campaña que van a establecer, a través de sus redes, de volantes.
+Pero no hay financiamiento público, no hay financiamiento a los candidatos, candidatas. Entonces, ¿por qué tanto recurso?
+Hemos dicho que es un año especial, porque el objetivo es disminuir el déficit del 2024, y las elecciones se pueden hacer sin necesidad de tanto gasto.
+Ahora, hasta ahora, en la mañana todavía no tengo notificación de…
+–Acá–.
+---
+PREGUNTA
+Presidenta, buenos días. Gustavo García, de Comunicante.mx, somos un medio de Baja California, y Alerta Multimedia.
+Presidenta, y aprovechando que está Pepe Merino, igual y tiene que ver con lo que nos acaba de explicar. Hay un caso muy sonado en las redes sociales de una doctora en Puebla, Marilyn Cote, que todos sabemos, Cofepris ya intervino, también las autoridades de Puebla ya clausuraron este consultorio. Sin embargo, llama la atención que, así como ella, esta semana se han dado a conocer otros casos de médicos que probablemente su profesión no les acredita ser cirujanos:
+En Durango acaban de detener a una química y a un enfermero que realizaban liposucciones; o algunos licenciados en estomatología, dentistas propiamente, que están realizando cirugías sin ser cirujanos maxilofaciales.
+Aquí la pregunta es si, ¿el gobierno federal, la Agencia que dirige Pepe Merino, tienen proyectado que exista una plataforma donde los mexicanos —más allá de entrar al Registro Nacional de Profesiones, porque ahí podemos validar por cédula profesional qué estudió, pero no podemos ver qué le da derecho a ese profesionista realizar ya propiamente la actividad profesional—, que pudiéramos nosotros los mexicanos verificar con quién nos estamos atendiendo?, ¿quién es la persona que nos está recetando propiamente algún medicamento?
+Y obviamente, este Registro Nacional de Profesiones curiosamente está en la SEP y no está en la Secretaría de Salud, específicamente el área médica.
+Entonces, esa sería la primera pregunta, Presidenta, si, ¿tiene algún proyecto para que nosotros podamos de alguna manera prevenir este caso tan sonado, que ya se están tomando acciones, pero al final del día fue mediático?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, podemos mejorar… ¿Por qué está en la SEP? Porque es la Secretaría de Educación quien da los títulos y las cédulas profesionales, pero podemos trabajar con Secretaría de Salud también para que la gente conozca si realmente tiene la cédula profesional.
+Este es un caso de fraude, pero, además, vinculado con temas de salud, que es muy grave; entonces, aparte de un tema administrativo, es un tema penal.
+Entonces, no puede una persona ofrecer servicios de salud, que es algo delicado, cuando no tiene la cédula profesional para ello. Entonces, sí es importante que el ciudadano se informe, pero también todas las denuncias que tenga que haber, porque puede ser muy grave; además, en este caso eran medicamentos controlados, entonces imagínense.
+---
+PREGUNTA
+Es correcto. Como segunda pregunta, Presidenta, sé que esta semana a usted le puso feliz esta Ley de Protección Animal que se aprobó en las Cámaras, y sé que también hay un compromiso del gobierno federal para que los animales, las mascotas que existen en México tengan este cuidado y protección.
+Con datos propiamente del Inegi, nos dicen que 57 por ciento de los hogares mexicanos tienen mascotas y designan un promedio de su ingreso para el cuidado de estas mascotas, pero específicamente cuando se enferman estas mascotas se destinan entre 300, 800 pesos por consulta con un veterinario, y podría ser más cuando se requieren análisis específicos.
+Le quiero preguntar, Presidenta, si, ¿hay planes también del gobierno federal para crear clínicas veterinarias para los mexicanos que no pueden pagar estas consultas que podrían, insisto, ser muy altas y que en muchas ocasiones se toma la decisión de dormir al animal o a la mascota, porque no hay el recurso para salvar su vida?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+La mayoría de esta atribución se quedó en los estados. Hay un aparte que corresponde en el IMSS-Bienestar a la federalización de los servicios de salud cuando se firma por convenio, pero la mayoría de esta atención a mascotas, animales queda en las entidades de la República, incluso en municipios, son parte, inclusive cuando se haya firmado el IMSS-Bienestar se queda esa atribución en los estados. Y ahí podemos colaborar y apoyarles para ver qué más se necesita.
+---
+PREGUNTA
+De acuerdo, Presidenta. Y, finalmente, en Tijuana el día de ayer visitó la secretaria de Turismo, la licenciada Josefina Rodríguez, visitó Tijuana junto con el alcalde Ismael Burgueño.
+Recorrieron el renovado Centro Histórico de Tijuana, un Centro Histórico que tiene mucha historia, mucha cultura, una ruta gastronómica impresionantes, de las mejores de México; el Museo de la Lucha Libre, el Museo del Juguete. Sin embargo, Presidenta, creo que Tijuana merece una oportunidad, por los mexicanos, para que se impulse esta ciudad como un lugar de destino turístico.
+Usted ha estado varias veces, en el último año ha estado varias veces en Tijuana. Y justamente le quiero preguntar, Presidenta, si, ¿usted recomendaría a los mexicanos que le den esa oportunidad a Tijuana para estos recorridos turísticos que se planean en familia, que se planean en viajes?, ¿y cuál es su lugar favorito ahí de Tijuana?
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tijuana es una ciudad muy especial, porque es crisol del país, así como la Ciudad de México se hizo con migración de muchísimos lugares.
+Hoy el principal crecimiento de la Ciudad no es por migración, sino el propio crecimiento poblacional, aunque es muy poco de la Ciudad de México, de quien nació en la Ciudad de México. Pero en la capital es un crisol cultural de todo el país.
+Y Tijuana tiene esta característica porque llegaron muchos oaxaqueños o oaxaqueñas, hay una comunidad ahí muy importante; y entonces conservan su cultura, pero al mismo tiempo, hay un sincretismo con otras culturas, y llegan muchos mexicanos y mexicanas de distintos lugares del país, y esto ha hecho de esta ciudad un lugar muy rico en cultura.
+Mucha gente llega a ahí para buscar pasar la frontera, pero muchos se quedan en Tijuana. Entonces, estamos trabajando con la gobernadora, con Marina del Pilar, para mejorar algunos servicios públicos e importantes. Por ejemplo, agua potable, hay un plan de una planta desaladora en Rosarito que permita también suministrar agua a Tijuana, pero Tijuana por sí misma, tiene una riqueza cultural enorme.
+Entonces, pues claro que recomiendo ir a cualquier lugar del país, y en particular, a Tijuana.
+---
+PREGUNTA
+Gracias. Presidenta. Qué gusto saludarla. Buenos días a todas y a todos.  Mi nombre es Juan Carlos Sagredo, soy reportero de Siker, vengo del estado de Jalisco. Le agradezco mucho el espacio.
+Presidenta, el nuevo gobierno del estado de Jalisco entrará en funciones en tres semanas. A la fecha, no se ha realizado una reunión entre usted y el nuevo gobernador, el gobernador electo, Pablo Lemus Navarro. Quisiera preguntarle: ¿ya hay una fecha para que se realice ese encuentro? Y, de ser así, ¿qué proyectos destacaría en ese encuentro en beneficio para las y los jaliscienses?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Si tenemos… nos reuniremos, ya que él tome posesión, para poder trabajar; igual que con todos los gobernadores del país que, cuando vamos a su entidad, nos reunimos en Gabinetes, su Gabinete y nuestro Gabinete, para poder definir los proyectos estratégicos.
+Hay varios temas en Jalisco, desde el saneamiento del Lerma-Santiago —que se hizo algo, por cierto, en este sexenio— hasta otros proyectos importantes.
+Entonces, ya habrá momento para reunirnos con el gobernador.
+---
+PREGUNTA
+Muchas gracias.
+Como segunda pregunta, Presidenta. Jalisco será sede del mundial en 2026, junto con la Ciudad de México y el estado de Nuevo León. El gobierno de Jalisco, el nuevo gobierno, contempla una asignación presupuestal en 2025 para la creación de un sistema de transporte público que conecte el Aeropuerto Internacional de Guadalajara con el estadio Akron; esto permitiría que miles de visitantes que vengan por el mundial puedan dirigirse directamente del aeropuerto al estadio de las “Chivas Rayadas” de Guadalajara.
+¿Está usted al tanto de este proyecto? Y si, ¿la federación contempla destinar recursos para este sistema?
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya platicaremos con el gobernador electo, que pronto ya será gobernador constitucional.
+Aprovecho para decir que, de manera honorífica —con un pequeño, mínimo apoyo—, decidí nombrar a Gabriela Cuevas para ser la representante ante distintas instituciones, junto con la Secretaría de Turismo, para atender el tema del Mundial 2026.
+---
+PREGUNTA
+Gracias, Presidenta. Muy buenos días a todas y a todos. Liliana Noble, de Pulso Saludable.
+Presidenta, preguntarle, en el tema de la digitalización, si, ¿están pensando echar mano de herramientas propias, de creadores, desarrolladores propios? O si, ¿están pensando en contratar a proveedores externos?, ¿y cómo funcionaría este proceso de hacer más eficientes los recursos que se tienen actualmente?, y si, ¿están pensando en utilizarse CRM, etcétera?
+Esa sería mi primer pregunta, gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Quieres contestar, Pepe?
+---
+JOSÉ ANTONIO PEÑA MERINO, TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES
+Sí, la apuesta es generar soluciones, ¿no?, que el gobierno solucione, soluciones propias y hacerlo con un equipo de servidores públicos, en este caso ingenieros, ingenieras que se dediquen al desarrollo de estas soluciones.
+En el caso… Habrá algunos casos en los que se requieran algunas contrataciones, sobre todo, para poder hacer el tránsito entre servicios que hoy están contratados con privados y su sustitución por un servicio propio, y garantizar que, evidentemente, la atención a las personas no pare, y que en esta transición sea lo más suave posible.
+Pero, sí, la apuesta, como lo hicimos en la Ciudad de México a iniciativa de la Presidenta, es que el gobierno genere sus propias soluciones.
+---
+PREGUNTA
+Gracias.
+Y como segunda pregunta, Presidenta, hoy se conmemora el Día Mundial de la Diabetes Mellitus. Se calcula que en el país existen alrededor de 12 millones con esta enfermedad.
+En el Hospital General de México hoy habrá una, alrededor de las 12:00 del día, 1:00 de la tarde, habrá jornada de detección gratuita, oportuna, para esta enfermedad.
+Yo quisiera preguntarle, Presidenta, si, ¿ha considerado la posibilidad de que, adicional al tema de no saleros en la mesa, los etiquetados frontales; y el tema que recientemente se autorizó, y por fortuna, que ya no se vendan estos productos con ingredientes críticos, que le llaman la “comida chatarra” en las escuelas, están pesando en que se pudiera hacer —no me gustaría utilizar la palabra— “obligatoria”, pero que si se pueda realizar de forma, en tiempo y forma la actividad física en las escuelas sí o sí?
+Porque hay veces que de pronto… Entiendo que el tema del invierno es un irritante y puede dañar las mucosas, pero a veces hay algunos otros factores que no le dan tanta importancia al ejercicio. Y los expertos dicen que una de las maneras de prevenir la obesidad —que pudiera ser el inicio de varios desencadenantes metabólicos, entre ellos la diabetes mellitus— es justamente ejercitarnos; y, desafortunadamente, las encuestas mencionan que México es uno de los países en donde más gente prefiere no moverse.
+¿Qué hay al respecto?
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Son varios programas y varias, digamos, metas:
+Por un lado, es la prevención. Prevención significa evitar el consumo o la alimentación o alimentarnos con productos chatarra, desde la niñez, pero, en general, también adolescentes y adultas, adultos mayores. Entonces, la prevención, que tiene que ver con alimentación, tiene que ver con disminuir la vida sedentaria, como bien tú dices, con ejercicio, caminar y hacer cualquier tipo de ejercicio que permita tener una vida más sana.
+Entonces, para ello está la materia que ya existe de “Vida Saludable” o el área ya dentro de la Nueva Escuela Mexicana, que tiene que ver con ello, el que ya no haya productos chatarra en la venta de las cooperativas en las escuelas públicas y privadas, y también una campaña que como parte de los lunes de “Vida Saludable” vamos a desarrollar.
+Miguel Torruco está en la Secretaría de Educación Pública y él se va a encargar de esta parte del deporte comunitario. Tiene varios proyectos que ya va a venir a presentar.
+Por ejemplo, la “Clase de Box más grande del mundo” que hicimos en la Ciudad de México la vamos a llevar a nivel nacional. Eso significa que no solo sea un día que en las plazas públicas se haga este ejercicio, sino prepararnos desde antes para poder llegar a este día, y que se visualice la importancia de hacer ejercicio a través de estas prácticas relacionadas con el box.
+Pero tiene también un proyecto para futbol, tiene un proyecto para Olimpiadas Escolares, que permitan trabajar con los maestros de educación física, maestras, para poder hacer torneos a nivel nacional; existe ya una parte, pero los vamos a reforzar y algunas otras acciones que tienen que ver desde la niñez hasta ser adultos, con esta parte.
+La otra parte tiene que ver con detección. A veces tenemos niveles altos de azúcar y no lo sabemos, y al no saberlo a tiempo, entonces se va a agravando. Para ello, una parte es el programa de “Salud Casa por Casa”, aparte del fortalecimiento del sistema de salud, para las y los adultos mayores. Recuerden que todos los adultos, adultas, de 65 años y más que reciben su pensión, a partir del próximo año van a recibir una visita por siempre, porque va a ser un programa permanente, de trabajadores de la salud, trabajadoras de la salud, enfermeras, enfermeros, médicos, médicas, que los visiten una vez al mes o una vez cada dos meses.
+Van a pasar a su casa y les van a tomar sus signos vitales, a hacerles varias preguntas. Si detectan algo, los llevan al centro de salud; si detectan algo que tiene que ver con una prescripción que ya tienen, pueden incluso tener la licencia para poderlos recetar, el fortalecimiento de las Farmacias de Bienestar que vamos a hacer.
+Entonces, de esta manera vamos a detectar. Porque también lo que pasa es que hay quien ya tiene principios de diabetes y no lo sabe, entonces este programa nos va a ayudar para que particularmente a las y los adultos mayores lo puedan saber, puedan ser medicados o también desarrollar todas las actividades preventivas.
+Entonces, son las dos: prevención y detección temprana para evitar complicaciones posteriores.
+---
+PREGUNTA
+Gracias, Presidenta. Y, finalmente, ayer, en la presentación de “Original”, vimos que las artesanas vieron con mucho agrado que usted decía que se va a hacer cuatro veces al año y no una, como actualmente se hace. Tanto la Secretaría de Cultura como la subsecretaria también estuvieron muy contentas al respecto.
+Y yo quisiera saber si ahora que se hace esta edición… También decía la jefa de gobierno, Clara Brugada, que también ahí iba a haber una relación. ¿Cómo va a ser ese tema de la relación? Si, ¿solamente se va a quedar la exhibición y la venta en Los Pinos o se moverá eventualmente a alguna otra parte de la Ciudad?
+Y también, conocer cuáles serían estos estados con los que han pensado en iniciar esta muestra textilera, que vale la pena ir a ver.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya vendrá la Secretaría de Cultura. Es algo que hemos estado trabajando. Las mujeres que vienen de comunidades de pueblos originarios de pueblos indígenas, también hombres, pero principalmente las mujeres, desarrollan distintas, lo que llamamos “artesanías” o “arte popular”, que son bellezas extraordinarias. Son textiles, pero también hay trabajo en madera; por ejemplo, el amate, si se fijan, ya prácticamente no hay amate porque ya esté árbol se ha ido terminando, y muchas otras formas de expresión cultural.
+Parte del problema es que no tienen espacios de comercialización, entonces muchas veces son víctimas o del intermediarismo que adquieren los productos a bajo costo, y después los venden a mayor costo y quien gana es el intermediario, también pasa con los productos agropecuarios.
+Entonces, lo que queremos es disminuir ese paso para que pueda haber una comercialización, puedan vender las artesanías a los precios justos, sin regateos, porque también hay esa práctica; y que se recupere, porque “Original” también tenía el objetivo de evitar los plagios de muchas empresas que plagian los dibujos tan bellos y que ni siquiera llevan los derechos de autor de muchas mujeres, comunidades o pueblos indígenas.
+Entonces, tiene ese objetivo y, además, llevar la comercialización, de tal manera que se conserve esto que es maravilloso y que es parte de nuestra cultura y que es la riqueza cultural de México.
+Hay muy pocos países en el mundo que tienen esta riqueza cultural que se expresa a través de esta forma de cultura, de arte popular, de artesanía. Entonces, queremos presumirla, pero que le llegue el beneficio a quien la realiza, entonces por eso son mecanismos de comercialización, tanto en “Original” en Los Pinos o en otros lugares, con ferias, espacios, como también fortalecer a FONART, que es una institución que nació hace muchísimo tiempo y que tenía ese objetivo, y que ahora queremos potenciar y al mismo tiempo seguir defendiendo los diseños originales.
+Tiene todos esos objetivos y ya lo informaremos.
+---
+PREGUNTA
+Buenos días, Presidenta de la República, funcionarios, servidoras públicas. Buenos días a todas y todos. Zósimo Camacho, de Luces del Siglo.
+El día de ayer se conoció que, de manera preliminar, México habría perdido el panel en materia de maíz transgénico; toda vez que, para nosotros, nosotras, los mexicanos, el maíz es un asunto no solamente es el alimento básico, es un asunto de identidad, de cultura, de biodiversidad.
+¿Qué va a hacer México en ese sentido, si es que ahora se ha levantado, digamos, o se levantara esa prohibición de la importación de maíz transgénico?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay que hacer la diferencia entre el maíz blanco y el maíz amarillo. México es autosuficiente en maíz blanco.
+Y nosotros tenemos por obligación, porque es una obligación de los gobiernos, conservar nuestra biodiversidad. Y la biodiversidad no solamente es en la diversidad animal, vegetal, sino genética.
+Todas las razas o variedades de maíz, nuestra obligación es conservarlas, porque el maíz es producto de la domesticación de los pueblos originarios o de antes, incluso, de las grandes civilizaciones de México que fueron domesticando esta planta que hoy alimenta no solo a México, sino al mundo entero.
+Los organismos genéticamente modificados lo que hacen es que en laboratorios modifican los genes, supuestamente para mayor alimentación; hay quien no piensa que es así, que puede tener daños a la salud.
+Pero tiene un problema adicional, que es que el campesino depende siempre de la semilla. O sea, cuando uno siembra un maíz híbrido —que no es genético, está modificado, pero no en laboratorio con los genes, sino como parte de la mejora de un cultivo—, compra la semilla y depende de la semilla para poder seguir cultivando el maíz. Pero además se pierde la diversidad genética de los maíces que surgieron de nuestros pueblos y que se han seguido conservando.
+Nosotros tenemos la obligación principal de que el maíz blanco que se siembra en México no sea transgénico, y eso va a quedar en la Constitución. Esa es la mejor defensa que tenemos para la conservación de la biodiversidad y de la salud también.
+Ya en la parte comercial pues ya se verá, sobre todo, la parte de maíz amarrillo, que principalmente alimenta a aves o cárnicos, para la producción de cárnicos; pero la parte fundamental de la conservación de nuestro maíz, de nuestras razas de maíz, esa va a quedar en la Constitución.
+---
+PREGUNTA
+¿Estará enviando una iniciativa al respecto?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya está ahí, la envió el Presidente López Obrador, está por aprobarse en los próximos días, espero, en la Cámara de Diputados.
+---
+PREGUNTA
+Presidenta, y con respecto del maíz amarillo, por supuesto que se utiliza más hacia el ámbito forrajero; sin embargo, durante el sexenio anterior había la intención de que México también alcanzara la autosuficiencia en este tipo de maíz. ¿Continuará con esta política en la actual administración?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, se va a buscar. También estamos ahora destinando un esfuerzo muy importante al frijol, porque la alimentación básica de las y los mexicanos, nuestra alimentación básica tiene que ver con la alimentación de la milpa. La milpa era la alimentación principal de los pueblos originarios y en muchos lugares de México lo sigue siendo.
+La milpa es la siembra de maíz, pero en el mismo lugar de frijol, de calabaza, lo cual, además de la diversidad alimentaria, tiene la gran virtud que conserva los suelos. El frijol, por ejemplo, fija nitrógeno.
+Entonces, queremos avanzar mucho en la autosuficiencia de frijol, porque importamos 300 mil toneladas de frijol. Por eso, este programa que anunció aquí Julio Berdegué y su equipo, de la Secretaría de Agricultura y Desarrollo Rural, y también lo anunciamos en Zacatecas, de recuperar la Planta Productora de Semillas para ir mejorando la semilla, pero no en laboratorio genéticamente, sino la mejora que se da en los propios cultivos a partir de las distintas instituciones públicas de México y con los campesinos.
+Y después, ya también iremos sobre otros cultivos.
+---
+PREGUNTA
+Presidenta, y en otro tema, si, ¿tiene usted fecha de reunión con los padres y madres de los estudiantes de Ayotzinapa, de los 43 que fueron desaparecidos? Y también, ¿qué estrategia estaría usted planteando en su administración para lograr verdad y justicia?, algo que todavía se ha demorado, no obstante, los avances que se pudieron realizar en el sexenio anterior, pero que también, bueno, pues quedaron precisamente en pendiente.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Nos vamos a reunir pronto. Estamos ahí con el subsecretario Arturo Medina ya buscando un día de posible reunión.
+Y lo platicaría con ellos primero, creo que nuestra responsabilidad primero es hablar con ellos, que lo platiqué en su momento cuando era Presidenta electa todavía, cómo fortalecer la investigación de este caso.
+---
+PREGUNTA
+Doctora, y también en ese sentido, con respecto de las Escuelas Normales Rurales, pues este ataque a los normalistas, a los 43, pues no fue solamente resultado de lo que ocurrió esa noche, sino de una campaña que hubo durante mucho tiempo, sobre todo, en el ámbito del neoliberalismo con este programa educativo en el que todo mundo tenía que pagar por la educación, así como por los servicios de salud, etcétera.
+Pues las normales rurales eran un modelo totalmente contrario, digamos, a estas directrices neoliberales porque el modelo es que son escuelas que se señala para pobres, no se paga por la educación, por el contrario, se les da una beca, hay comedor, hay dormitorio y hay cinco ejes del normalismo rural que se generaron desde la época de la Revolución.
+Se ha señalado todo el legado que México le debe a las normales rurales en materia de alfabetización de las comunidades más apartadas, y durante el sexenio pasado hubo la posibilidad de que se protegiera este modelo educativo de las normales rurales desde la Constitución.
+Sin embargo, bueno, pues ya no se llegó, digamos, a presentar una iniciativa al respecto. Preguntarle si, ¿usted tendría la intención, o su administración, de retomar esta iniciativa?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es parte de lo que está trabajando el secretario de Educación y parte del programa que tenemos para la SEP, y ya lo informaremos en particular.
+---
+PREGUNTA
+Buenos días, Presidenta. Aarón Díaz, del canal de El Chapucero Finanzas, representando a Aguascalientes y a Tabasco.
+Yo tengo tres preguntas, la primera de ellas es en relación con el bitcoin. En primer lugar, en Estados Unidos Donald Trump anunció que iba a ser el bitcoin la siguiente moneda de reserva nacional. Y en El Salvador, el bitcoin ha servido para lograr financiar su gobierno sin más deuda, ahorita tienen una ganancia de 200 millones de dólares.
+¿Usted ha hablado con alguien al respecto para ver si México podría hacer exactamente lo mismo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Por lo pronto, no lo tenemos contemplado.
+---
+PREGUNTA
+Y eso me lleva a una segunda pregunta, ahorita aprovechando que está el joven, el encargado de Telecomm. La CBDC, ahorita que hablaron sobre Llave México ¿se estaría utilizando Llave México como una forma de identidad digital y de alguna forma conectarlo al peso mexicano digital que está desarrollando Banxico?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Son temas distintos.
+---
+PREGUNTA
+¿No tiene nada qué ver una cosa con otra?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No. Son temas distintos.
+---
+PREGUNTA
+Y la última pregunta, sobre la “ley influencer” que ahorita se está hablando aquí en la Ciudad de México ¿cuál es su opinión al respecto?, ya que en las redes se habla mucho sobre la regularización de la libertad de expresión.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No conozco la propuesta que está en la ciudad, como comentas, pero yo creo en la libertad de expresión.
+---
+PREGUNTA
+¿Usted está a favor de la libertad de expresión?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí.
+---
+PREGUNTA
+Muy amable. Gracias.
+---
+PREGUNTA
+Presidenta, el ministro de Canadá, bueno, uno de los ministros, dice que su propuesta es anular a México del T-MEC.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No. Es una propuesta que no tiene futuro.
+Recuerden —fíjense— recuerden que cuando se firmó el T-MEC, México abogó por Canadá porque había, en algún momento de la negociación, la intención de Estados Unidos de que la firma solo fuera con México, y en aquel momento México dijo: “No, somos tres países”, y se firmó nuevamente con tres países.
+Entonces, no tiene futuro esa propuesta.
+---
+PREGUNTA
+Está generando mucho ruido, sobre todo, en redes sociales. Mucha gente sí lo ve como preocupante.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No. No tienen de qué preocuparse.
+Los beneficios para Estados Unidos, principalmente del T-MEC, son muchísimos. Por eso, en la revisión —que no es renegociación, por cierto— del 2026, uno de los grandes temas y en los que estamos trabajando es los beneficios del T-MEC, no solo para México, que claro que nos beneficiamos, sino los beneficios en Estados Unidos; igual que los beneficios para la economía de Estados Unidos, del trabajo de las mexicanas y mexicanos allá, porque nuestros paisanos, héroes y heroínas no solamente ayudan a México y a sus familias, sino que sostienen en mucho la economía de Estados Unidos.
+Entonces, toda esa información, cuando nos sentemos en su momento con el nuevo gobierno de Estados Unidos, previo ya sea que entre o cuando entren, pues es muy importante, porque a veces… O sea, no se puede hablar sin los datos y los beneficios comunes.
+Igual, Canadá se beneficia. Hay un programa muy importante, por ejemplo, de mexicanos y mexicanas que van a trabajar a Canadá, que le beneficia mucho a Canadá. Entonces, nos complementamos, no competimos entre nosotros.
+–Acá–.
+---
+PREGUNTA
+Buenos días, Presidenta, buenos días a todos. Jorge Díaz, del CNR de Lánzate, de Ensenada, Baja California.
+Quiero comentarle, voy a ser muy breve en este tema, que tiene que ver con el ser humano. Seguramente usted recuerda a sus maestros, yo recuerdo a los míos. En el tiempo del sexenio del expresidente López Obrador atendió, resolvió y escuchó, de la mano de la gobernadora Marina del Pilar, un problema de cajas de ahorro, que el gobierno del estado, en administraciones anteriores, retenía y no se les entregaba; resolvió la mayoría.
+Quedó una pendiente, que tenía como ocho años, que ahí lo estaban nomás, como luego decimos, “pateando el bote”. Dio la instrucción del Presidente. Se tocó hablar y platiqué con —en ese momento— la secretaria de Educación, Leticia Ramírez.
+Y el desviar la información de parte del gobierno del estado, quiero aclararle que Marina del Pila ha estado al pendiente de ese tema, pero entendemos que la gran cantidad de problemas o de temas a veces no le llega la información de primera mano o no se la quieren hacer llegar como tal.
+Es el caso este de la caja de ahorro ASOMA, en donde se les ha dado puntualmente toda la información, porque no les han querido dar la solución ya de respuesta de un dinero que es de un grupo de maestros jubilados y en activo de esta caja de ahorro ASOMA, llevan más de un año; hace un año estuve aquí y ya tiene un año anterior en que se había estado dando.
+Se tuvieron unas pláticas y decían: “Vamos a hacer una auditoría”, pero una auditoría de un periodo donde no había problema. No hay la disposición, no hay la voluntad y, lógico, cuando no hay una continuidad se generan problemas del tipo de la Fiscalía, generados por el gobierno del estado.
+Se le dijo hace poco a la gobernadora, así como estamos usted y yo, que este tema no lo han querido atender y resolver; se sorprendió, al verle yo su cara. Y yo le quiero pedir a usted, que sé que hay muy buena relación y que hay la disposición de parte de usted, que ya se atienda y se resuelva, porque no le han querido regresar el dinero que les corresponde.
+Insisto y le reitero, la caja de ahorro ASOMA le entregó toda la información, ahora lo que quieren hacer —y no lo quieren hacer de una manera correcta— es un muy marcado acto de desigualdad, y sé que también usted es una persona humanista. Le pregunto: ¿va usted a influir para que se atienda de una vez por todas este tema?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Lo vamos a revisar. Es importante que se conozca un poco cómo ha sido, no solo el proceso en Baja California, sino en otras entidades de la República, que viene de hace tiempo.
+Cuando se descentraliza la educación por motivos políticos y no educativos… La educación pública estaba federalizada, la educación básica; en la época de Zedillo se descentraliza, se envía a los estados la responsabilidad; entonces, se les envían, digamos, los recursos que correspondían al año. Y después, con los aumentos, aumento de maestros, etcétera, son los propios estados quienes se hacen responsables de una parte de la nómina. Esto vino por mucho tiempo.
+Y siempre había problemas porque al final del sexenio, a veces algunos gobernadores —no es el caso, no es este caso— gobernadores del pasado destinaban los recursos para la nómina de maestros a otras cosas y después, al final del año, no tenían los recursos para pagarle a los maestros, porque hay una parte federal y otra parte que asumían los estados.
+Con la reforma educativa del 2013, uno de los objetivos para el control de los maestros ni siquiera era un objetivo de educación, desde mi punto de vista, sino de control laboral, federalizan una parte de la nómina educativa, pero se quedan todavía algunas estatales, por distintas razones, muchas veces por gobernadores del pasado que no quisieron federalizar.
+Les pongo el caso, creo que es Telesecundarias en San Luis Potosí, no está federalizado, entonces tienen problemas todos los años para poder cubrir la nómina.
+Es un caso similar a este que planteas, de una caja de ahorro asociada a algunos maestros en Baja California que fue un tema estatal. Entonces, ¿qué es lo que se hace en estos casos? Mesas de trabajo.
+El Presidente López Obrador dio un apoyo y falta otra parte. Entonces hay mesas de trabajo entre Secretaría de Hacienda, el gobierno del estado y la Secretaría de Educación para poder revisar el tema y ver cómo se apoya. Y es el caso como en otros casos.
+---
+PREGUNTA
+Le quiero yo agradecer. Y ahorita usted toca algo muy importante con el tema de la educación.
+Desafortunadamente, ahorita se está viendo un tema de la reforma, un proyecto de reforma de ley en Baja California, de la Ley de Issstecali, ya prácticamente el secretario de Hacienda local o de Baja California ha comentado que se va a colapsar ya el sistema de salud por medio de la Ley de Issstecali.
+Muchos del magisterio y la burocracia están en contra de esto porque, mire, ahorita nada menos en Mexicali una madre de familia está con su hija de 23 años y tiene una semana buscando al doctor en Issstecali para que puedan trasladar a su hija. Y le pongo el caso porque no hay medicinas, no hay estudios, no hay maestras o personas sindicalizadas de la burocracia que puedan atenderse.
+¿Cómo resolver este tema?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es muy buena gobernadora, Marina…
+---
+PREGUNTA
+Le quiero decir algo, es la primera…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Y ella está…
+---
+PREGUNTA
+Perdón, es la primera que pagó lo que otros gobernadores no hicieron. Pagó una deuda histórica en la cuestión del magisterio.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es muy buena gobernadora, muy sensible, está muy cerca de la gente, es una extraordinaria gobernadora. Y están buscando los mecanismos en el estado para resolver este problema.
+Y en la medida de lo posible, que la federación pueda apoyar, que el Gobierno de México pueda apoyar, la vamos a apoyar, siempre vamos a apoyar al pueblo. Una parte le toca a los estados, a los municipios, otra parte nos corresponde, pero siempre vamos a estar coordinados y, en la medida de lo posible, ayudar.
+---
+PREGUNTA
+¿Contamos con usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Estamos, es una mesa de trabajo. Por eso, necesitamos revisar antes de poder aprobar cualquier cosa.
+---
+PREGUNTA
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es responsabilidad de cualquiera.
+–Bueno, vamos un poco más, porque quiero tocar un tema que… No, a ver, aquí ya preguntaste; acá, no sé quién levantó la mano. Adelante–.
+---
+PREGUNTA
+Presidenta, muy buenos días. Julián Mazoy, de Noticias Telemax, la televisora pública del estado de Sonora.
+Presidenta, han sido huracanes incendios, forestales, lluvias torrenciales, sequías, que han empezado a suceder por todo el mundo producto de este fenómeno, esta crisis mundial, el cambio climático que estamos sufriendo todos.
+Hace una semana veíamos —unos días— estas imágenes impresionantes, le dieron la vuelta a todas las redes sociales, Arabia Saudita, uno de los países más preparados para enfrentar este tipo de crisis, con una nevada histórica en pleno desierto.
+Y, sobre ello, pues México no será excepción, el noroeste del país este año lamentablemente está sufriendo una sequía importante, no llegaron las lluvias como nos hubiera encantado allá en Sonora, y en el resto de la región del país una sequía sin precedentes, francamente.
+Esta semana, el secretario de Agricultura, Julio Berdegué, se reunió con el gobernador y con distintos representantes agrícolas de la zona, de la región del estado; llegaron a varios acuerdos para apoyar al campo.
+Primero que nada, pues agradecerle la gestión que realizan desde el gobierno federal en favor de las y los sonorenses.
+Pero con esta introducción, Presidenta, preguntarle: ¿qué más podemos esperar para enfrentar la sequía en la región? Una situación complicada, los campesinos tienen mucha necesidad para recibir algo más de apoyo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+En la medida de lo posible se va a apoyar a Sonora y a los productores de Sonora.
+Digamos que las medidas de adaptación al cambio climático son diversas y en ellas está trabajando Julio Berdegué para distintos sectores y particularmente para la agricultura. En algunos casos tiene que ver con cambio de cultivos, en otros casos con esquemas que permitan seguir con la productividad o incluso aumentarla, en otros casos tiene que ver con el riego eficiente para que pueda esa misma agua alcanzar para más cultivos o para el consumo humano.
+Entonces, se está trabajando con el gobernador y las distintas Secretarías.
+---
+PREGUNTA
+Aprovechar el foro también para exponer el caso de lo que sucede en la ciudad de Hermosillo, más allá del campo, en donde el alcalde de ahí, me parece que es del PRI, Antonio Astiazarán, del PRIAN está gastando más de 100 millones de pesos para rentar 10 camiones, en un esquema de privatización.
+Pero más allá de eso, mientras eso sucede, pues ya empezaron una serie de tandeos para distribuir el agua, y hay una profunda desigualdad, se toman decisiones para distribuir el agua, como sucede en varios municipios del país, para que no le llegue principalmente a las colonias más pobres.
+En las colonias donde hay dinero, en donde sí usan Twitter, pues ahí sí llega el agua; en donde no hay ni pavimentación pues es en donde la gente se queja todo el tiempo de que luego no llega.
+Pero, en contraste a eso, el gobierno estatal y federal ya ha iniciado obras. Se inauguró un acueducto hacia el sur del estado para poder ahí también distribuir y llegar a las poblaciones más necesitadas, a los pueblos yaquis, por ejemplo.
+Pero más allá de este caso en específico, ¿cuál es la responsabilidad de los gobiernos municipales en torno a la distribución de este vital líquido para garantizar el derecho humano que hay al agua?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+En general, los organismos de “gestión del agua”, se llama, están en los municipios, la Constitución lo establece así, que es el municipio quien tiene que encargarse de la gestión del agua; a veces malgastan y hay corrupción.
+Pero en otras ocasiones no tienen los municipios, a veces, el suficiente recurso para poder atender las necesidades, entonces tienen una responsabilidad en distribuir equitativamente el agua y en mejorar sus sistemas de distribución.
+En Hermosillo particularmente, el gobernador tiene un proyecto y lo vamos a apoyar, está ya en coordinación con la Comisión Nacional del Agua.
+Vamos a presentar, creo que el jueves de la próxima semana, creo que en ocho días, el Plan Nacional Hídrico.
+Así como presentamos el Plan Nacional de Energía Eléctrica, el Plan Nacional de Hidrocarburos, vamos a presentar los lineamientos generales del Plan Nacional Hídrico, ahí vienen varios temas. Justo ayer lo revisamos, porque llevamos varios meses trabajando, y entre otros uno de los temas es proyectos estratégicos.
+En esos proyectos estratégicos queremos juntar recursos municipales, recursos estatales y recursos federales, y uno de los proyectos estratégicos es justamente unas presas que tiene planteadas el gobernador para poder mejorar el abastecimiento de agua potable para los habitantes de Hermosillo.
+Entonces, ya en su momento lo vamos a presentar, pero es uno de los proyectos estratégicos con los que vamos a apoyar a Sonora.
+---
+PREGUNTA
+Una más, muy, muy breve. Hace ocho años, el domingo pasado, se cumplió el aniversario número ocho de la detención de un personaje allá en Sonora, Guillermo Padrés, exgobernador. Tenía en su rancho, cuando era gobernador en funciones había mandado a construir una presa adentro de su rancho personal sin ningún tipo de estudio de impacto ambiental, sin permisos de construcción, uno de los muchos motivos que después llevaron a su detención; parece que continúa aún su proceso. ¿Tendrá usted información de sus condiciones jurídicas?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues hay que preguntarles a las Fiscalías.
+---
+PREGUNTA
+Muchas gracias, presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Quiero comentarles algo, porque me llama la atención —y, además, la verdad es increíble— esta interpretación que se hace, como campaña, de la nueva presidenta o que repite la presidenta de la Comisión Nacional de Derechos Humanos.
+Ayer estaba leyendo algunos temas en redes de la comentocracia, y ahora resulta que, desde Palenque, López Obrador está dictándole a los senadores y senadoras: quién va a ser la presidenta de la Comisión Nacional de Derechos Humanos. Ya se retiró de la vida pública, está escribiendo su libro, está en otras tareas de la Transformación.
+¿Ustedes creen de veras que le interese, desde Palenque, estar pensando quién va a ser la presidenta de la CNDH?
+Pero fíjense nada más, porque es muy interesante: la mayoría de ellos, también hay otros, eh, que hasta me sorprenden, ni voy a dar los nombres, pero me sorprende, porque ¿de dónde tienen esa información?, o sea, ¿de dónde la sacaron?, ¿cuáles son sus fuentes?, ¿cuáles son sus pruebas?
+Porque ustedes son periodistas, saben que para dar una nota, comentar algo, pues no es producto de la invención de alguien, sino tienen que tener alguna fuente.
+Bueno, pero los que son… Ya saben, ¿no?, es la campaña; que ni siquiera son creativos porque todos dicen lo mismo, o todas, todos y todas. Entonces es: “AMLO puso a…”, “en contra de la Presidenta, además”.
+Bueno, primer punto, critican ahora la reforma constitucional al Poder Judicial porque dicen que va a perder independencia el Poder Judicial.
+Entonces, ¿quién nombra con la anterior Constitución a los ministros o ministras?, el Senado, ¿no?, a partir de una terna que envía o que enviaban los presidentes.
+Pero sí tienen independencia —¿si me entienden?—, aún y cuando los enviaban los presidentes y eran electos o elegidos en el Senado, pero no había “línea” entonces, ¿verdad? De los anteriores presidentes, previo al Presidente López Obrador, había independencia del Poder Judicial. O sea, ¿dónde quedan los senadores y las senadoras?, ¿o qué, no son adultos o adultas ahora para poder tomar una decisión?
+Entonces, en un caso hay independencia, cuando se nombra; y en otro caso no hay independencia, cuando se nombra.
+O sea, a fuerzas tiene que ver una “línea” del Ejecutivo o del exejecutivo. No pueden creer que los senadores y senadoras puedan tomar una decisión. Pero en un caso defienden la independencia de los senadores y en el otro no hay independencia. Entonces, ¿cómo?
+Está como… las declaraciones que pusimos al principio. Primer punto.
+Segundo punto, ¿por qué no criticaban a los anteriores presidentes de la Comisión Nacional de Derechos Humanos, estas organizaciones o estos defensores de los derechos humanos? El anterior presidente de la Comisión de Derechos Humanos fue subprocurador en el caso Colosio, pero no era criticable.
+Ofensas a Rosario Piedra, “se toparon con la misma piedra”, pero ¡qué manera, de verdad, de dirigirse a una persona!
+¿Cuánto gastaban antes de la Comisión Nacional de Derechos Humanos, en el pasado, para comidas, para cenas, para viáticos, los salarios?
+Entonces, por supuesto que la Comisión Nacional de Derechos Humanos tiene que funcionar. ¿Quién decide quién es la presidenta? El Senado.
+Y la otra, Rosario Piedra, defiende, y eso es lo que les molesta. Y ella misma, por su historia personal, porque tiene un hermano desaparecido en la época donde había represión desde el Estado y la desaparición forzada venía desde el Estado; ella representa esa generación y esa historia que quieren ocultar, quieren ocultar las desapariciones forzadas del pasado o aquella época de la represión desde el Estado.
+Entonces, primero, es increíble, de verdad, increíble. Vean todas las notas: “AMLO decidió quién es la presidenta de la Comisión”.
+Déjenlo descansar en Palenque, tranquilo.
+Segundo, las y los senadores son mayores de edad y tienen la atribución para poder decidir.
+Y, tercero, respeto a Rosario, la titular de la Comisión Nacional de Derechos Humanos.
+Y, cuarto, pues que se fortalezca la Comisión para la defensa de los Derechos Humanos.
+Y, quinto, ya no es como en el pasado, desde la Cuarta Transformación, que la represión venía desde el Estado.
+Entonces, es interesante mencionar todo esto.
+Cerramos con #Mujeres en la historia”.
+---
+MARGARITA VÁSQUEZ MONTAÑO, HISTORIADORA
+Muy buenos días, Presidenta; buenos días a todas y todos.
+Como ya se señaló, soy la historiadora Margarita Vásquez Montaño, y como investigadora y especialista de la historia de las mujeres es un honor estar en este espacio que se ha generado para conocer el pasado de las mexicanas.
+Estamos próximos a conmemorar 114 años del inicio de la Revolución Mexicana, y en este espacio dedicado a la historia de las mujeres queremos compartirle la historia de las hermanas Serdán. Carmen y Natalia Serdán fueron dos mujeres que buscaron transformar la situación política y social de México en el contexto de la dictadura de Porfirio Díaz. La familia Serdán, y con ella Carmen y Natalia, fueron protagonistas de uno de los acontecimientos que detonaron el movimiento revolucionario del 20 de noviembre de 1910.
+El núcleo que habían formado los Serdán era el corazón de la revolución maderista en Puebla y en el centro del país. La resistencia que ofrecieron al ser descubierta su conspiración fue heroica y gran sacrificio.
+Como ellas, muchas otras mujeres se comprometieron en la lucha contra el régimen, creían fervientemente en la necesidad de transformar el estado de las cosas en el país; ya habían sufrido la persecución, el encarcelamiento y la censura.
+Por mucho tiempo, las mujeres fueron invisibilizadas o borradas de la narrativa de la Revolución Mexicana, pero la Revolución Mexicana no se entiende sin las mujeres. Por ello, les invito a que me acompañen a ver y a escuchar esta cápsula que hemos preparado para ustedes.
+---
+MARGARITA VÁSQUEZ MONTAÑO, HISTORIADORA
+Las mujeres enfrentaron sus propias batallas colectivas e individuales, antes, durante y después de la Revolución. Carmen y Natalia Serdán son una muestra del compromiso en el activismo revolucionario de las mexicanas y son un referente histórico para la memoria colectiva de todas y de todos.
+Y, bueno, también nos gustaría aprovechar este espacio para hablar de otra mujer revolucionaria, Sor Juana Inés de la Cruz, pues el pasado 12 de noviembre, Día Nacional del Libro, se conmemoró su natalicio y esta es parte de su historia.
+Juana de Asbaje Ramírez de Santillana nació en San Miguel Nepantla, en el Estado de México, el 12 de noviembre de 1648 o 1651, no hay certeza en el dato entre los historiadores. Era hija de una familia criolla, y desde niña desarrolló un talento especial para indagar, conocer y preguntarse sobre el mundo. De muy pequeña, y deseosa de adquirir conocimientos, se ilusionó con asistir a la Universidad de México, a la que sólo podían asistir los varones.
+Sor Juana creció en una época en donde las mujeres no tenían muchas posibilidades para desarrollarse, podían ser esposas, madres o monjas. Sor Juana se incorporó a la Corte de los Virreyes a la edad de 15 años y así, inició una relación muy estrecha con las altas esferas del poder novohispano y con figuras tan especiales como las virreinas.
+No obstante, después de cuatro años de permanecer en la Corte, Sor Juana tomó la gran decisión de su vida y convertirse en monja a los 19 años e incorporándose al Convento de San Jerónimo.
+Sor Juana fue una prolífica escritora, su obra tocó ámbitos como la filosofía, la teología, la estética, la ciencia, la música, el teatro y la poesía, por lo que es más conocida.
+A través de dos de sus más alusivas obras, La Carta Atenagórica y Las respuestas a Sor Filotea de la Cruz, defendió con ahínco su voluntad de saber, de conocer, de pensar siendo mujer y además, defendió el libre albedrío.
+Era admirada y conocida más allá de lo que en ese entonces era la Nueva España, porque su obra era leída y compartida.
+Al final, las estructuras del mundo en el cual le tocó vivir a Sor Juana Inés de la Cruz la llevaron a la censura y a la autocensura. Eran tiempos complejos, difíciles para las mujeres; aun así, su legado pervive hasta nuestros días. Sin duda, es un referente para las letras españolas, claro está, pero también para las generaciones de mujeres que le sucedieron hasta el día de hoy, porque defendió nuestro derecho al saber.
+Muchísimas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Muchas gracias a todos, a todas. Nos vemos mañana.
+---
+PREGUNTA
+¿A qué hora llegan (inaudible)?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+A las 10:00 más o menos van a estar aquí.
+Gracias.
+---
+PREGUNTA
+¿Para qué es la reunión?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Voy a darles un aplauso por todo su trabajo. Gracias.
+—000—
