@@ -1,0 +1,226 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de febrero de 2025
+Presidencia de la República
+06 de febrero de 2025
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, hoy estamos de manteles largos, nos acompaña un grupo muy nutrido de la comunidad científica de nuestro país.
+Vamos a presentar el día de hoy, así como presentamos el proyecto Olinia, hoy vamos a presentar dos temas:
+Uno es el proyecto del Centro de Diseño de Semiconductores, que ya nos van a platicar cuál va a ser su nombre.
+Y después, están aquí Raquel Buenrostro y el doctor Santiago Nieto —Santiago es hoy director general del Instituto Mexicano de la Propiedad Industrial—, y nos van a presentar una modificación que vamos a hacer a Ley de Registro de Patentes, que va a permitir el registro de más patentes, disminuir tiempos, y varios temas que nos van a platicar.
+Entonces, le voy a dar la palabra a la doctora Rosaura, secretaria de Ciencia, Humanidades e Innovación; y después al doctor Edmundo Antonio Gutiérrez Domínguez, coordinador nacional del proyecto de semiconductores; y después Ranquel Buenrostro y Santiago Nieto.
+Pero voy a presentar a todos los que están aquí, orgullo nacional:
+Maestro Manuel Parra Michel, responsable en Guadalajara del Centro de Diseño.
+Alejandro Bautista Castillo, responsable en Puebla del Centro de Diseño.
+Alberto Sánchez Hernández, director general del INAOE… del Cinvestav, —aquí me lo pusieron mal—.
+David Sánchez de la Llave, director general del INAOE.
+Carlos Rubio González, director general del CIDESI.
+Cecilia Noguez Garrido, Instituto de Física de la UNAM.
+Leticia Torres Guerra, directora general del CIMAV.
+Alfonso Torres Jácome, responsable del Laboratorio de Semiconductores del INAOE.
+Celina Peña Guzmán, secretaria de Ciencias, Humanidades, Tecnología e Innovación de Puebla.
+Patricia Guzmán Velázquez, subsecretaria de Desarrollo Tecnológico, Vinculación e Innovación en Puebla.
+Cindy Blanco Ochoa, secretaria de Desarrollo Económico de Jalisco.
+Miguel Rocha Pérez, diseñador senior del INAOE.
+Y Rocío Jáuregui, Laboratorio Nacional de Materia Ultrafina e Información Cuántica de la UNAM.
+Bueno, vamos a dar paso a esta emocionante presentación.
+—Adelante, Rosaura—.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ
+Con su permiso, Presidenta.
+Buenos días todas y todos.
+Miren, le hemos puesto a este programa, en acuerdo con la Presidenta, “Programa Kutsari”.
+¿Por qué le pusimos “Kutsari”?
+Porque quisimos utilizar una lengua originaria, por supuesto, y kutsari quiere decir “arena” en purépecha. Y, bueno, la arena es fundamental en este tema, porque, por ejemplo, el silicio es uno de los materiales importantes en este trabajo para crear los dispositivos, y está en la arena. Entonces, este es el sentido de la palabra.
+No se concibe la comodidad de la vida diaria sin dispositivos electrónicos que utilicen semiconductores.
+Ese es un tema de suma relevancia para la industria y la economía. Y aunque se antoje meramente tecnológico, su desarrollo proviene de la física cuántica y se dispara con el nacimiento del transistor bipolar de contacto de punto de 1947, inventado por los físicos estadounidenses John Bardeen, Walter Brattain y William Shockley, quienes obtuvieron el Premio Nobel de Física en 1957 por sus investigaciones sobre la conducción eléctrica controlada mediante semiconductores.
+Este primer transistor es el ancestro de la electrónica moderna que reemplazó a los tubos de vacío conocidos como “bulbos” —que seguramente ya ustedes no los conocieron—. Se decía: “Se fundió el bulbo” y era un lío.
+Se trata de un claro ejemplo de cómo la ciencia básica —que busca el conocimiento por el saber mismo, no porque se vaya a aplicar y después se aplica— diera lugar a los grandes adelantos tecnológicos.
+Por ello, este gobierno impulsará el avance por igual tanto de la investigación básica, en este caso, —que pongo de ejemplo— como de innovación, de base científica-tecnológica; pero también de las humanidades porque son indispensables, por ejemplo, en este campo para entender los cambios que se producen en la forma en que aprendemos, pues amplía nuestras capacidades cognitivas y de percepción.
+Pero también afectan el medio ambiente, la economía, las relaciones sociales, y eso tenemos que analizarlo desde una perspectiva filosófica, desde la ética; por eso, el nombre tan largo de la Secretaría que está integrado esta forma de ver la Ciencia, la Tecnología, las Humanidades y la Innovación.
+Por la importancia que tiene el tema de estos dispositivos, este es uno de los proyectos estratégicos que la Doctora Sheinbaum ha encargado a la nueva Secretaría. Precisamente, tratamos de fortalecer la cadena de valor de semiconductores en el país.
+Este tema fue iniciado desde hace dos años por la Secretaría de Economía del gobierno del Presidente Andrés Manuel López Obrador.
+México cuenta con una experiencia de más de 40 años en el diseño de dispositivos semiconductores, o “chips”, como se les conoce, y esta capacidad no está limitada a tecnologías antiguas u obsoletas.
+Nuestras instituciones como el Cinvestav, el INAOE, el CIMAV, la UNAM, el Politécnico, la Universidad Veracruzana, entre otras, son capaces de diseñar, incluso, los dispositivos más modernos, los que tienen los teléfonos celulares o las computadoras.
+De hecho, en algunos de estos laboratorios, además de diseñar, se fabrican ya algunos chips, como memorias, sensores y dispositivos de control de potencia, amplificadores de audio y muchos otros, como también microprocesadores, incluso. Pero esto es a nivel de prototipos, es a nivel de laboratorio, lo que tenemos que hacer hoy es que en una segunda etapa sería el escalamiento industrial.
+El proyecto cubrirá varios aspectos:
+Proponer un marco legal y normativo, para fortalecer la maduración y transferencia de tecnología en el tema.
+Promover ecosistemas que incluyan toda la cadena de proveeduría en Polos de Desarrollo.
+Incentivar la producción tecnológica en electrónica de semiconductores.
+En una primera etapa —como lo señaló la Presidenta—, se creará un Centro de Diseño que aproveche la experiencia de las personas científicas y tecnólogas mexicanas.
+Para una segunda etapa, se incursionará en la fabricación de chips tipo tradicional o legacy como se dice su origen en inglés, para satisfacer la demanda nacional en la industria electrodoméstica, automotriz, equipos médicos, sensores y otros dispositivos estratégicos para el país.
+En este proyecto participan académicas y académicos muy reconocidos. Que algunos de ellos nos acompañan, ya los presentó la Doctora Sheinbaum, y aprovecho para darle las gracias por su presencia y por el trabajo que han realizado todos ellos para poder llegar a esta presentación, a construir este proyecto. Nos acompañan, ya los presentamos.
+Solamente quisiera decirles que la misión que nos hemos planteado con este grupo de estas instituciones, encabezados por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la misión que nos hemos planteado es consolidar las capacidades de desarrollo de dispositivos basados en semiconductores en México, mediante la creación de un Centro de Diseño con viabilidad comercial inmediata, y a mediano plazo un Centro de Fabricación con una visión estratégica.
+Con el permiso de la Presidenta, le voy a dar la palabra a Edmundo.
+---
+COORDINADOR NACIONAL DEL PROYECTO DE SEMICONDUCTORES Y DIRECTOR GENERAL DE INNOVACIÓN BIENESTAR DE MÉXICO, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ
+Buen día.
+Voy a hacer uso de la tecnología para no quedarles mal.
+Justamente gracias a los semiconductores es que podemos tener este tipo de instrumentos y tecnología para tener esta comunicación el día de hoy.
+—Si bien, las memorias se fabrican con semiconductores, mi memoria no está hecha de semiconductores, por eso me voy a apoyar en este instrumento para irles platicando un poco sobre la situación—.
+Bueno, muy buenos días a todas y todos.
+Estimada, Doctora Claudia Sheinbaum Pardo, Presidenta de México, Presidenta de México, perdón.
+Doctora Rosaura Ruiz Gutiérrez, secretaria de Ciencias, Humanidades, Tecnología e Innovación, la SECIHTI.
+Estimados colegas directores, directoras, investigadoras, investigadores, representantes de gobiernos estatales, audiencia que nos escucha y ve aquí, y de manera virtual.
+La misión… Los circuitos integrados comúnmente conocidos como “chips”, que se fabrican utilizando tecnologías basadas en materiales semiconductores —y de ahí el nombre genérico que se utiliza para esta tecnología, semiconductores—, se han convertido en una componente presente transversalmente, en casi todos los sectores industriales y en productos y servicios de uso cotidiano, lo que los ha llevado a convertirse en la tecnología en disputa estratégica y comercialmente a nivel global.
+En ese entorno global, México se prepara para participar activa y efectivamente en el desarrollo de la cadena de proveeduría de semiconductores. Y por ello, hemos establecido la misión de consolidar las capacidades de desarrollo de semiconductores en México mediante la creación de un Centro de Diseño con viabilidad comercial inmediata y a mediano plazo un Centro de Fabricación con una visión estratégica.
+¿Cómo funciona la industria?
+La industria de semiconductores tiene una cadena de proveeduría de tres eslabones:
+El primero de ellos consiste en el diseño de chips, lo cual se realiza con personal altamente capacitado, en general, personal con posgrado que define la función del circuito o sistema, y mediante un software especializado convierte dicha función en un patrón geométrico para su posterior fabricación a nivel de oblea.
+—Como se puede ver aquí en esta oblea que les estoy mostrando, esta es una oblea de silicio, de un proceso de fabricación de dispositivos semiconductores, ahí podrán ver una retícula con varios cuadritos, cada cuadrito corresponde a un chip—.
+El segundo eslabón, la fabricación del diseño, es la más costosa de toda la cadena y consiste en la reproducción reticular de cada diseño individual a través de procesos químicos, fotolitográficos, mecánicos y térmicos que involucran el uso de más de 45 elementos de la tabla periódica, esto les da una idea de la complejidad de una fábrica de dispositivos semiconductores.
+Estas fábricas que pueden producir miles de obleas por semana, donde en cada oblea se reproduce el mismo chip en centenas o miles, llegan a costar desde los 300 millones de dólares, las tradicionales o tipo legacy, hasta cerca de 20 mil millones para las más avanzadas, las de alto rendimiento.
+En el tercer y último eslabón, cada uno de los chips se separan de manera individual de la oblea, se prueban, se encapsulan y se ensamblan.
+—Aquí les voy a mostrar un ejemplo de uno de esos chips que ha sido separado individualmente de esta oblea y ha sido encapsulado en este tipo de formato, que pueden en muchas ocasiones, observar en algunas tarjetas—.
+Una vez que tenemos el chip separado de manera individual, se tiene que desarrollar una aplicación, en la cual se hace el ensamble y el encapsulamiento.
+—Aquí está un ejemplo—.
+Aquí pueden ver una tarjeta PCB. El chip que ha sido separado de la oblea está aquí y con esto tenemos ya una función.
+Ese es el tercer eslabón de la cadena de semiconductores y en la cual también se validan y se entregan al usuario final.
+Este eslabón afortunadamente en México ya se encuentra desarrollado en parte, por el sector industrial, y de ello hay ejemplos en la frontera norte, occidente y otras regiones.
+Como referencia, para poder situarnos en el contexto global de los semiconductores:
+En el año 2024, las ventas globales de los semiconductores fueron del orden de 700 mil millones de dólares, dentro de los cuales, el diseño agrega el 58 por ciento del valor total de la fabricación; la fabricación agrega el 36 por ciento; y el ensamble, pruebas y encapsulamiento el restante, 6 por ciento. Y esto es consistente con una tasa de incremento anual del 20 por ciento de este mercado.
+Ahí podrán ver entonces que uno de los grandes eslabones de gran valor económico-intelectual es el diseño, y por esa razón empezamos en este proceso en México con el diseño de circuitos integrados, aprovechando —como ya bien se dijo— la experiencia de más de 40 años que se tiene en México en diferentes centros de investigación y universidades.
+¿Por qué un Centro de Diseño?
+Primero, por la ubicuidad de los dispositivos y sistemas basados en semiconductores, de los cuales cada vez dependemos más. Lo que estamos viendo en este momento es resultado de la tecnología de semiconductores, todas las componentes, todos sus celulares que tienen ahí.
+Además, porque ya tenemos más de cuatro décadas de inversión en investigación, desarrollo tecnológico y formación de personal a nivel de maestría y doctorado, principalmente en el Instituto Nacional de Astrofísica, Óptica y Electrónica, el INAOE; el Centro de Investigación y Estudios Avanzados, el Cinvestav; la Universidad Nacional Autónoma de México, la UNAM; el Instituto Politécnico Nacional, el IPN; pero también en varios otros centros públicos e instituciones de educación superior.
+Porque se ha tenido y se tiene vinculación con el sector industrial a través de convenios específicos entre centros públicos y la industria.
+Porque ya se tiene experiencia haciendo diseño de chips para instrumentos científicos con especificaciones de muy alto nivel. Ejemplo de ello, son los instrumentos para los observatorios astronómicos o la instrumentación para detectar partículas de alta energía en el CERN en Suiza, lo cual prueba la competitividad global del diseño mexicano.
+Porque en México la industria local importa más de 20 mil millones de dólares al año en chips para la industria automotriz, para la industria de dispositivos médicos, de electrodomésticos, de productos de informática y computación.
+Y porque queremos empezar la sustitución de importaciones de alto valor intelectual y comercial.
+Porque se tiene capacidad, además, en INAOE y CIDESI, no solo en diseño, sino también para fabricar prototipos de diversos tipos de sensores y chips con aplicación en satélites, telecomunicaciones, equipos médicos, lo cual se puede articular a plazo medio con la instalación de una fábrica de semiconductores que lleve la manufactura de nivel prototipo a escala industrial en nuestro país.
+—Lo que está aquí es un ejemplo de ello—. Este es un circuito integrado que ha sido fabricado en INAOE en Puebla, ha sido encapsulado y alambrado para pruebas, pero esto se hace a nivel de prototipo.
+¿En qué segmento del mercado podemos diseñar?
+A grosso modo, el mercado de semiconductores se divide en dos sectores:
+El de la tecnología tradicional, legacy, en inglés, con aplicación en la industria automotriz, electrodomésticos, equipos médicos y otros —lo que está mostrando a la izquierda—, los cuales se realizan con tecnologías de fabricación de nodos tecnológicos de 65 nanómetros y mayores hacia atrás.
+Cuando hablamos de nanómetros es importante hacer una referencia: en una micra caben mil nanómetros y, para que tengan idea, el grosor promedio de un cabello humano es de 100 micras, eso significa que podemos tener mil… Si tenemos, por ejemplo, un transistor, que es la unidad de procesamiento digital y analógica más pequeña en una tecnología de semiconductores, eso significa que podríamos meter 10 mil transistores de 10 nanómetros cada uno alineado en el diámetro del cabello humano. Controlar esas dimensiones a esa escala casi atómica es realmente un gran reto y por eso la complejidad de las fábricas de dispositivos semiconductores.
+El sector de tecnología de alto rendimiento —mostrado a la derecha— que incluye microprocesadores de alto desempeño, memorias de alta densidad y velocidad, sensores de imágenes de alta resolución y otros específicos; en ese sector los productos se realizan con tecnologías avanzadas de 28 nanómetros y menores, hasta las actuales de 7 nanómetros.
+Es necesario mencionar que las tecnologías de fabricación tradicionales son menos caras que las tecnologías de fabricación de alto rendimiento.
+Y por ello, es comercialmente relevante la capacidad de diseñar sistemas de relativo alto rendimiento con tecnologías tradicionales; en pocas palabras: sacarle jugo al conocimiento y la tecnología, que eso es algo que en México, en este campo particular, se hace muy bien.
+En México las y los diseñadores han mostrado capacidad para diseñar en todo el rango de tecnologías disponibles. Y por ello, el Centro de Diseño se enfocará en una primera instancia en proporcionar soluciones para el mercado local del sector tradicional, pero también para el global. Y cuando se tenga el Centro de Fabricación en México, entonces hará diseños que se realizarán en México enfocados a satisfacer las necesidades del mercado local con la intención de cubrir a nivel nacional los tres eslabones hacia el año 2030.
+El Centro de Diseño, además de su capacidad para diseñar, está desarrollando un Programa de Capacitación Acelerada de diseñadores, con lo cual se busca no solo consolidar el Centro, sino proporcionar servicios de capacitación a otros Centros de Diseño, tanto del sector público como del privado.
+Y aquí quiero mencionar que ya tenemos noticia y tenemos petición de varios estados de la República para iniciar este Programa de Capacitación Acelerada.
+Quiero hacer mención especial al apoyo que estamos recibiendo y recibiremos en esta primera etapa de los Gobiernos del estado de Puebla y Jalisco para la instalación de las unidades en Puebla y Guadalajara de este Centro de Diseño; al interés manifestado por otros estados para hacer lo mismo; y, por supuesto, al decidido apoyo del Gobierno Federal de México.
+¿Cuál es la estrategia?
+Para el desarrollo del Plan de Semiconductores en México hemos establecido como estrategia:
+Primero. La elaboración de una política pública que dé sustento al programa para el desarrollo de la industria de semiconductores alineado con el Plan México.
+Esto incluye —como ya se mencionó en la misión— en una primera instancia, para el 2025, la creación del Centro de Diseño de Semiconductores Público con apoyo del Gobierno Federal y de instituciones académicas como el INAOE, Cinvestav, UNAM, IPN, centros públicos y otras instituciones de educación superior.
+Consideramos que el Centro de Diseño estará consolidado en el año 2027. Toma tiempo porque estamos hablando de una tecnología de competitividad global.
+En una segunda instancia. Hacia mediados del año 2026, la definición del modelo de fabricación de semiconductores más apropiado; es decir, considerar una empresa pública, privada o mixta. En este caso se está considerando una iniciativa del sector privado para montar una fábrica en México, la cual podría iniciar operaciones en el año 2026 y consolidarse hacia el año 2029.
+Y, finalmente, cuando alcancemos la consolidación en los eslabones de diseño y fabricación, completar el tercer eslabón de ensamble, pruebas y empaquetamiento, con lo cual habremos establecido los tres eslabones de la cadena de proveeduría de semiconductores hacia el año 2030.
+Déjenme terminar entonces con un comentario:
+La sociedad humana tiene un comportamiento cíclico, marcado por acontecimientos dramáticos, algunos, como las guerras o pandemias, o revolucionarios otros como los de la industria o los grandes descubrimientos. Este comportamiento cíclico viene acompañado por crisis o cambios económicos, sociales y políticos.
+En estos tiempos estamos pasando por otro de esos ciclos marcados por los por las disputas comerciales y políticas, un ejemplo de ello es la guerra de los semiconductores.
+Los semiconductores se han vuelto un elemento ubicuo que está definiendo la forma en que la gente se comunica, en la que se realizan transacciones comerciales, la forma en la que se administran los servicios, y será un elemento importante para hacer uso eficiente de la energía, de la producción de alimentos y de la conservación de nuestro planeta. Por ello, es ahora o nunca.
+Muchas gracias por su atención.
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Alguno de ustedes quiere tomar la palabra? Director del INAOE—
+---
+DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ASTROFÍSICA, ÓPTICA Y ELECTRÓNICA, DAVID SÁNCHEZ DE LA LLAVE
+Buenos días, Presidenta. Buenos días a todos.
+Realmente no venía preparado para hablar de este tema, pero sí quiero decir que en el INAOE estamos muy agradecidos. Es un honor y un privilegio la confianza que nos brinda la secretaria de Ciencias, Humanidades e Innovación, y el Gobierno de la República.
+Yo lo que puedo mencionar es que haremos todo lo que esté en nuestras manos para corresponder la confianza que nos han brindado y trabajaremos fuerte para que todo este plan que se ha elaborado con un equipo liderado por el doctor Edmundo Gutiérrez llegue a buen fin y realmente México en un futuro, relativamente cercano, forme parte importante de la carrera de semiconductores a nivel mundial.
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—El director del Cinvestav—.
+---
+DIRECTOR GENERAL DEL CENTRO DE INVESTIGACIÓN Y DE ESTUDIOS AVANZADOS (CINVESTAV), ALBERTO SÁNCHEZ HERNÁNDEZ
+Yo también haré uso de la tecnología —como dice el doctor Edmundo— porque mi memoria tampoco es tan buena como la de los semiconductores.
+Es para Cinvestav un gran orgullo ser partícipe de esta iniciativa.
+Y vengo aquí con profunda responsabilidad representando a Cinvestav.
+Como director general de Cinvestav, nos honra mucho participar del lanzamiento de este Centro de Diseño, un proyecto de suma importancia para nuestra nación hacia la autosuficiencia tecnológica y la competitividad global. Este Centro representa un audaz paso adelante hacia el desarrollo estratégico del país.
+Durante más de seis décadas Cinvestav ha participado en el desarrollo de ciencia y tecnología en ciencias duras especialmente y en los últimos 40 años en semiconductores.
+Desde finales de la década de los ‘80, nuestra unidad en Guadalajara —aquí tenemos de representante al doctor Parra— ha sido pionera en el desarrollo de estos circuitos impresos o chips, formando profesionales altamente capacitados y formando empresas innovadoras en el sector.
+Este Centro de Tecnología de Semiconductores, que se encuentra ya en la Unidad Guadalajara de Cinvestav, ha colaborado también con empresas nacionales internacionales ofreciendo servicios desde diseño de PCV y sistemas electrónicos.
+Esta historia de innovación y colaboración posicionan al Cinvestav como un actor clave en esta iniciativa nacional.
+El Centro de Diseño de Semiconductores usará la experiencia de Cinvestav para fortalecer su participación en este Centro para México.
+Este esfuerzo es crucial porque la industria de semiconductores se ha convertido en un sector fundamental para la economía global —como ya lo ha manifestado el doctor Edmundo— impulsando la innovación en áreas como la inteligencia artificial y la robótica, la internet de las cosas y la automatización.
+Reconociendo el creciente o la creciente demanda global de semiconductores, México está en la posición para convertirse en un actor clave gracias a su ubicación global estratégica y a su creciente infraestructura y desarrollo.
+Nuestra visión es clara: establecer a México como líder en el diseño de innovación de semiconductores. Y Cinvestav, usando toda su experiencia y capacidad acumulada en estos 40 años, pondrá todo su empeño para que este proyecto sea un éxito total.
+Agradezco que hayamos sido considerados.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Listo.
+—Raquel. Y luego Santiago—.
+---
+RAQUEL BUENROSTRO SÁNCHEZ, SECRETARIA DE LA FUNCIÓN PÚBLICA
+Con su permiso, Presidenta.
+Para no repetirme mucho con Santiago, voy a permitirme hacer un poco de ámbito general.
+Como dijo la secretaria Rosaura, desde hace dos años empezamos visualizando que semiconductores podría ser un sector estratégico; estábamos viendo el tema de todo lo que es la relocalización de las industrias.
+Nosotros sabemos que la tercera parte del déficit comercial de México es de electrónicos.  Entonces, ahí vimos un gran potencial para que se desarrolle México. Y también —como lo acaban de mencionar todas las personas que nos precedieron— el mundo moderno no se imagina en los próximos años sin semiconductores.
+Entonces, semiconductores es una apuesta segura, tenemos un déficit comercial.
+Y, además, la otra característica que tiene el sector de semiconductores es que necesita mucha gente preparada a nivel técnico, técnico especializado, técnico profesional, maestros y doctores. Entonces esto también ofrece una buena parte de empleos de alto nivel para los mexicanos.
+Entonces, por eso se consideró como un sector que podíamos empezar, estratégico, y que agradecemos muchísimo a la Doctora que le está dando, la Presidenta, un gran impulso como un sector estratégico.
+Para esto se requieren impulsar varias cosas y aprovechar las ventajas comparativas de México. Una de las grandes ventajas comparativas de México son sus instituciones públicas y sus centros de investigación. Si bien, es cierto no existe la comercialización que nosotros quisiéramos de transferencia de tecnología en México y que es lo que tenemos que ir construyendo, lo que sí existe es una fuerte formación muy sólida de ingenieros, de doctores y de maestros en estas materias.
+Si nosotros comparamos a México con otras partes del mundo, lo que llaman las carreras STEM, por sus siglas en inglés, que son Ciencias Tecnología, Ingeniería y Matemáticas, México destaca. En México hay más ingenieros, por ejemplo, que Alemania que fue una potencia durante años, destacó, como los mejores ingenieros del mundo.
+Y también por cantidad de población, si nos comparamos, por ejemplo, con Brasil, también tenemos muchos más ingenieros egresados en México que en Brasil.
+Entonces, esto le da una gran oportunidad a México para desarrollar industria que requieran este tipo de profesiones.
+Si le agregamos la experiencia que han tenido estos institutos de mucho tiempo —como lo mencionó el doctor Edmundo— que tienen casi cuatro décadas trabajando en materia de semiconductores, pues esto da una gran oportunidad y representa, digamos, tierra fértil para desarrollar esta industria. Y esta industria tiene que abarcar muchos sectores del Gobierno y del Estado mexicano y también del propio país, porque también hay mucha participación del sector privado.
+Se han desarrollado varias cosas en paralelo, no solo se cambiaron planes de estudio a nivel media superior y superior; se generaron y ampliaron carreras, se promovieron más disciplinas relacionadas con programación, con sistemas, inteligencia artificial, manejo de base de datos, minería de datos. Pero también ingenierías y también ya existen las carreras de semiconductores.
+Entonces, se ha hecho un esfuerzo que se ha trabajado con este equipo de investigadores que han participado también en la modificación de planes-estudio para ir perfeccionando también la preparación de nuestros estudiantes.
+También se ha trabajado con el sector privado, para también vayan viendo inversiones.
+Y ahorita es el lanzamiento del primer Centro de Diseño.
+Como lo mencionó el doctor Edmundo, el diseño del semiconductor es la parte intelectual más compleja y requiere de gente muy preparada, y que es de lo que nosotros tenemos mucho en México.
+Por eso, es importante el lanzamiento del día de hoy, porque lo que hace es potenciar las capacidades existentes en México, y finalmente, llevarlas y ponerlos al servicio también del propio país y que empiece a generar también ingresos.
+Entonces, se desarrolló la parte académica para formar jóvenes, pero también se están desarrollando los Centros de Diseño.
+Y la otra parte bien es cómo hacemos esto un rentable para el pueblo mexicano, para México, para el Gobierno.
+Entonces, tenemos que comercializar, digamos, esa transferencia de tecnología, sacarle provecho y que realmente esto tenga una rentabilidad para todos y todas. Y por eso también viene acompañado de modificaciones en la Ley de la Industria… bueno, de la Propiedad Industrial.
+¿Ahí qué es lo que tenemos?  Yo voy a la mencionar nada más algunas cuestiones generales:
+Lo que observamos es que, por ejemplo, la propiedad industrial no está tan desarrollada en México, ese concepto. Entonces, mucha gente, aunque tengamos científicos muy buenos y aunque tengamos industrias aquí en México que ya hacen semiconductores y que son muy buenas y son reconocidas internacionalmente, no patentan aquí en México.
+¿Por qué no patentan aquí en México?
+Porque a nuestra ley todavía le faltan algunas condiciones para competir a estándares internacionales y que la industria o el dueño de una patente se sienta protegido realmente para registrar en México, y que no sienta que si hace un trámite aquí en México se le pueda robar su innovación.
+Entonces, eso es lo que tenemos que ver.
+La otra es la velocidad y el tiempo con que se hacen las patentes. A nivel mundial, en promedio se hacen en tres años, 3.5 años; en México tardamos 4.3, tenemos que bajar los tiempos.
+Pero además en estándares internacionales hay como un apartado de la patente.
+¿Qué quiere decir?
+Que, si yo tengo una innovación, voy a hacer una patente, hago el registro, pero tiene que tomar un tiempo razonable porque gente, investigadores, tienen que hacer el estudio y ver si realmente es algo innovador, algo nuevo, y darle una patente. Eso lleva un tiempo razonable.
+En ese tiempo lo que puede suceder, y que a mucha gente le preocupa, es que alguien se adelante, haga el registro en alguna otra parte del mundo, en otra parte del mundo se reconozca antes su innovación y que pueda ser resultar un plagio.
+Entonces, lo que se hace es, también se proponen modificaciones a la ley para ponerla en los estándares internacionales, es decir, que haya como un derecho de apartado. Es decir: yo, desde que voy y hago mi innovación, en ese momento queda registrado; y tengo un periodo de 12 meses para que en ninguna parte del mundo lo puedan registrar como una innovación y no se robe.
+Entonces, eso ya, en lugar de ir a patentar a otras partes del mundo, porque mucha gente aquí en México va al extranjero, pues que se haga aquí en México.
+Y ahí le voy a dar la palabra a Santiago para que termine de platicarles las otras modificaciones.
+---
+DIRECTOR GENERAL DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL, SANTIAGO NIETO CASTILLO
+Con su venia, Presidenta.
+Secretaria Buenrostro, secretaria de Rosaura Ruiz, compañeros y distinguidas personas que encabezan los Centros de Investigación en nuestro país.
+Como ya fue mencionado, México en este momento tiene 84 solicitudes de registro y 28 pendientes en materia de semiconductores presentadas por mexicanas y mexicanos.
+Por otro lado, tenemos 343 solicitudes de patente de extranjeros, de los cuales se encuentran pendientes de resolución 120.
+A esta problemática habría que añadirle un diagnóstico que se elaboró por parte del IMPI, la Secretaría de Economía, en colaboración con la Secretaría de Ciencias, en donde se recibieron, durante 2024, 16 mil 189 solicitudes de patentes, de las cuales: se concedieron 10 mil 899; y de esas, el 6.38 por ciento era de solicitudes de personas de nacionalidad mexicana; y el resto, 93.62, de personas extranjeras.
+Gracias a la instrucción que recibimos de la Presidenta Claudia Sheinbaum, hemos logrado incrementar el récord histórico de patentes mexicanas: 695 en el año 2024.
+Sin embargo, evidentemente falta mucho por hacer.
+Encontramos que falta una cultura de patentamiento, ya se está trabajando en las modificaciones reglamentarias con la Secretaría de Ciencias, Humanidades, Tecnología e Innovación.
+Y también estamos pensando en estas modificaciones normativas:
+La primera es que en México, cuando alguien presenta una solicitud del Registro de Patente tiene una expectativa de derecho, no un derecho como tal. Lo que se está planteando con la patente provisional es poder tener un derecho al apartado de fecha para que en cualquier parte del mundo no pueda ser vuelto a registrar esa innovación, esa invención de la persona inventora o de grupo de inventores.
+Segundo. El tema de la reivindicación de la titularidad de los derechos, cuando se acredite que hubo un plagio en la generación de una patente y que se registró a nombre de una persona, una compañía o una persona física o moral que no tendría derecho absoluto sobre la patente registrada.
+En ese contexto, de manera paralela se está trabajando con la Consejería Jurídica, con la Secretaría de Economía que encabeza el secretario Marcelo Ebrard, para la generación de un Consejo Consultivo que permita generar la transferencia tecnológica —de la cual ya se ha hablado— con integrantes del sector empresarial, del sector académico, de personas científicas y que puedan generar esa transferencia de la tecnología de las patentes hacia el empresariado tanto a nivel mexicano como a nivel internacional.
+Por supuesto, tenemos un tema importante de patentes. China genera un millón y medio de patentes al año y tiene 15 mil examinadores, por supuesto, la realidad de China es distinta.
+En México estamos trabajando ya con la Secretaría de Ciencias, Humanidades, Tecnología e Innovación para poder, a través de algún tipo de contrato, ya sea del IMPI o sea del Sistema Nacional de Investigadores, poder generar qué personas con una cláusula de confidencialidad puedan examinar las 48 mil patentes que se encuentran pendientes de análisis de fondo en nuestro país.
+Bueno, finalmente, tenemos ya un procedimiento acelerado de patentes de personas mexicanas para lograr esta transformación en ciencia y tecnología que ha planteado nuestra Presidenta, la Doctora Claudia Sheinbaum.
+Es cuanto, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—A ver, présteme su semiconductor, su chip; el otro, el chiquito—.
+¿Este lo hicieron en el INAOE?
+---
+COORDINADOR NACIONAL DEL PROYECTO DE SEMICONDUCTORES Y DIRECTOR GENERAL DE INNOVACIÓN BIENESTAR DE MÉXICO, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ
+Sí.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Este es el del INAOE.
+Son dos temas muy importantes.
+—Les faltó Sonora, por cierto—.
+Es Puebla, Jalisco y Sonora, en donde está el Plan Sonora y es parte del desarrollo de semiconductores. Y además Cinvestav o INAOE tienen una unidad allá —¿verdad?, ¿INAOE?—
+---
+COORDINADOR NACIONAL DEL PROYECTO DE SEMICONDUCTORES Y DIRECTOR GENERAL DE INNOVACIÓN BIENESTAR DE MÉXICO, EDMUNDO ANTONIO GUTÉRREZ DOMÍNGUEZ
+Sí.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+INAOE tiene una unidad en Sonora.
+El Centro de Diseño de Semiconductores Kutsari o Proyecto Kutsari, Centro Nacional de Diseño de Semiconductores, es la unión de muchos científicos, desarrolladores tecnológicos, de instituciones públicas de educación superior, que van a poner toda su inteligencia, diseño, creatividad, para generar nuevos diseños de semiconductores.
+Estos tienen que patentarse. Entonces, vamos a acelerar todo el proceso de patentes para que puedan venderse, combinarse con la empresa pública, con la empresa privada, para el desarrollo; que no solamente se quede en el diseño, que ya sería suficiente, porque entonces está patentado por una institución de educación superior y sus investigadores, y puede comercializarse o puede incorporarse a una empresa pública, privada o mixta para una línea de producción de semiconductores.
+Es algo muy bueno para el país.
+Ya hay mucha investigación en México, ahora, lo que estamos haciendo es poniendo todas estas mentes juntas, y se coordina a partir de dos institutos de investigación, dos centros de investigación, el INAOE y el Cinvestav, con la participación de la UNAM también, algo del Politécnico y de otros investigadores que tengan desarrollos en este sentido y que puedan ponerse juntos.
+Entonces, es parte de este proyecto de desarrollo nacional, de desarrollo científico, de hacer de México una potencia científica y tecnológica.
+Ya hemos presentado el Proyecto Olinia y ahora presentamos este Proyecto Kutsari, Centro Nacional de Diseño de Semiconductores.
+—Bueno, ahora sí vamos a las preguntas. A ver, sobre el tema—.
