@@ -1,0 +1,532 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de mayo de 2025
+Presidencia de la República
+14 de mayo de 2025
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días. ¿Cómo están?
+---
+PREGUNTA
+Bien. ¿Usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bien, muy bien.
+Bueno, el día de hoy está con nosotros, están con nosotros compañeros —siéntense, porfa— de la Agencia de Transformación Digital y Telecomunicaciones: está su titular, José Antonio Peña Merino; y está Norma Solano, que es coordinadora nacional de Transformación Digital; y Jorge Luis Pérez, coordinador nacional de Infraestructura Digital.
+Ellos nos van a exponer los elementos centrales de la reforma que enviamos a la Ley de Telecomunicaciones: qué es lo principal, cuáles son los cambios para bien de nuestro país y del pueblo de México, en torno a las diferentes áreas que regula la Ley de Telecomunicaciones. Entonces, lo va a exponer Pepe Merino.
+Y hacia el final de la conferencia, como siempre, el “Detector de Mentiras”.
+—Adelante, Pepe—.
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Buenos días. Muchas gracias, Presidenta. Con permiso.
+Como adelantaba la Presidenta, les queremos contar de la nueva Ley en Materia de Telecomunicaciones y Radiodifusión: qué es lo que regula, cuáles son los cambios importantes de la nueva propuesta y algunas precisiones y unos datos sobre conectividad.
+Que es lo que les decía: lo que regula la nueva Ley —perdón, si regresamos—, el acceso a internet en México para que ustedes tengan una idea comparativa con otros países, qué cambia, qué contiene la nueva ley, y algunas precisiones a la iniciativa.
+¿Qué es lo que regula la ley? Básicamente, todo el ecosistema de telecomunicaciones.
+¿Qué es telecomunicaciones? Cómo distintas cosas se conectan entre sí para transferir información. Entonces, por ejemplo, lo más conocido, satélites, antenas, torres. Entonces, de un satélite a una torre, de la torre a una computadora o a un celular.
+O bien, puede ser también por cable: se hace un cableado, lo que conocemos como fibra óptica, puede ser de fibra óptica a una torre, de la torre a una antena, de la antena a un celular. De hecho, así es como nos conectamos y estamos conectados todos hoy aquí en nuestros celulares, a una torre de celular que seguramente está conectada a un cable de fibra óptica.
+Esto, además, no solo funciona para internet, que es lo que usamos en los celulares, sino también para televisión abierta, televisión por cable y, en el caso de radiodifusión, para radio, tanto AM como FM.
+Entonces, toda la ley justamente regula todo este ecosistema de datos y dispositivos.
+Otra forma de decirlo es que se regula el acceso y el uso de señales de comunicación, es decir, quién accede a las formas de transmisión e información, sea por el aire —lo que llamamos “espectro”— o sea cable, torres, etcétera, y qué uso se hace de esta infraestructura.
+Entonces, en el caso de acceso lo más conocido son:
+Concesiones de espectro, es decir, quién puede usar espectro para dar servicios, por ejemplo, de conectividad, telefonía celular.
+Despliegue y explotación de infraestructura: torres, antenas, etcétera.
+Y las posiciones orbitales, es decir, los satélites. Esto es muy importante y voy a dar un poquito más de detalle.
+Y el uso. Puede ser comercial en el caso de una empresa que se dedique a dar servicios de telefonía celular o de televisión por cable, por ejemplo; social o público.
+Además, interconexión, esto es importante, esto es la posibilidad de que una red de una empresa se conecte a otra red de otra empresa y de esa forma puedan conectarse todos los usuarios. Si yo soy un usuario de una empresa “x” y mi mamá es usuaria de una empresa “y”, yo cuando le marco a mi mamá, se interconectan las redes de mi empresa, la empresa con la que yo tengo el contrato y la empresa de mi mamá; a eso nos referimos.
+Compartición de infraestructura. Es decir, si una empresa construye una torre, que se permita con un costo que otra empresa pueda usar esa misma torre para poner una antena, por ejemplo.
+Calidad de los servicios: que no haya intermitencia, que haya frecuencia, que la velocidad sea la indicada.
+Gestión de posiciones orbitales. Esta es una facultad del Estado mexicano, que los satélites geoespaciales tengan una órbita dedicada para el país.
+Y derechos de audiencias y de usuarios, que también lo voy a explicar un poquito más adelante. Es decir, que los televidentes, por ejemplo, en el caso de televisión abierta tengan acceso a contenidos que respeten derechos humanos, no discriminatorios, etcétera.
+Y por supuesto, el tema de supervisión y sanciones, es decir, si se violara en algún sentido tanto el uso como el acceso.
+Entonces, de manera muy rápida les cuento algunos datos de acceso a internet en México que creo que son ilustrativos de por qué esta ley y cómo la planteamos:
+Lo primero, en el verde oscuro ven las zonas de cobertura de 4G en México, en el verde clarito las zonas que no tienen cobertura. Efectivamente, algunas zonas que no tienen cobertura son zonas de baja o muy baja densidad poblacional, pero no es siempre el caso.
+Nosotros estimamos, por lo menos, que hay 10.2 millones de personas en México mayores de 14 años que viven en zonas sin cobertura 4G; es decir, son 10 personas que, aunque…. 10 millones —perdón— que, aunque tengan un dispositivo, no se pueden conectar a internet y todo lo que eso implica, porque ustedes… lo hemos dicho aquí:
+El internet es un derecho, pero, además, es una habilitador de derechos: si uno tiene internet, tiene la posibilidad de expresarse, acceso a educación, libre manifestación de ideas, etcétera; una persona que no tiene acceso a conectividad es una persona que, además, no puede ejercer todos esos derechos de la manera oportuna y rápida que los demás.
+Y estimamos, en al menos, 4.4 millones el número de personas que viven en zonas que sí tienen cobertura, pero que no tienen de su bolsillo el recurso para poder adquirir datos.
+Entonces, esto para nosotros son personas también sin cobertura porque, aunque vivan en una zona en donde hay señal de celular o del servicio que sea, si no pueden pagar de su bolsillo el servicio, pues no tienen acceso a estos datos.
+Entonces, estamos hablando de por lo menos 15 millones de mexicanas y mexicanos.
+Y este es un comparativo que nos parece útil: elegimos un grupo de países de tamaño, nivel de ingreso, población, territorio, más o menos similar al caso de México:
+Y vean la evolución del precio, la primera gráfica es la evolución del precio por Gigabyte, esto es en dólares. La fuente es la Unión Internacional de Telecomunicaciones, estos no son datos nuestros, son datos de la organización internacional que ve todo el tema de telecomunicaciones.
+Y si ustedes ven en este grupo de países, hay una caída en el precio de datos en México, pero hacia el final del periodo México tiene —entre este grupo de países— el precio más alto por Gigabyte, que está en 5.22 dólares —está en dólares para hacer la comparación—, seguido de Sudáfrica, por ejemplo, con 4.18.
+Pero hay países como Egipto, aunque Egipto tiene una densidad urbana muy alta, la inmensa mayoría de su población vive en tres ciudades, el costo es 0.52, es una diferencia notable; pero lo importante es la diferencia en la tendencia, nosotros nos estacionamos y no ha habido realmente una caída en el precio.
+Ha habido un incremento en la penetración, el porcentaje de hogares con internet, en el caso de México, pero ha sido un poco más lenta que en otros países. De hecho, si ven la comparación, todos los países que están ahí, con excepción de Colombia, nos rebasaron en términos del porcentaje de hogares que tienen internet; que, en el caso de Colombia es 59 por ciento y en el caso de México es 68.5
+Hubo un esfuerzo importantísimo en la administración anterior bajo la Presidencia del Presidente Andrés Manuel López Obrador vía CFE-TEIT, de instalar muchísima infraestructura, antenas, cables, fibra de gobierno para dar conectividad a zonas sin conectividad.
+Fíjense ustedes el dato: de 2018 a 2024, pasaron de 13 mil a 141 mil localidades conectadas, esto es con una red pública, que es la red de 700 Megahertz, y de 40 mil a 90…. perdón, de 40 millones —ahí faltó una “l”, una disculpa— a 97 millones de personas.
+Esto permitió que, por ejemplo, el año pasado se lanzara un programa que se llama “Conectividad para el Bienestar”, que entregó 2.9 millones de tarjetas SIM para celulares con un servicio gratuito para 2.9 millones de dispositivos, de personas, con 5 Gigas mensuales y mil 500 minutos; esto es para conectar justamente a personas que viven en zonas con cobertura, pero que no tenían medios económicos para solventarlo.
+Aún con ello, al día de hoy, 92 por ciento del territorio nacional en términos de población o 92 por ciento de la población nacional vive en zonas con cobertura esto es:
+96 por ciento en localidades de más de 2 mil 500 habitantes.
+Pero fíjense, es 62 por ciento en localidades con 2 mil 500 habitantes o menos, lo cual significa que más de una tercera parte en estas localidades viven en una zona sin cobertura.
+Y es apenas 26 por ciento en el caso de localidades de menos de 200 habitantes, que son muchísimas localidades muy pequeñitas en donde solo una cuarta parte tiene conectividad.
+Y en donde hay conectividad, el gasto en el promedio nacional es de 721 pesos. Pero en el caso del 10 por ciento más pobre, de los hogares más pobres del país, se gastan 247 pesos, que representan casi el 6 por ciento del total de su gasto, o sea, sí es un gasto oneroso en términos del ingreso y gasto del 10 por ciento de menores ingresos.
+Esto les da un contexto que a mí me parece importante, ilustrativo, de por qué los cambios que incluimos en la nueva ley.
+Esta, la que presentamos, que presentó la Presidenta, es una ley para conectar a todas las mexicanas y mexicanos gradualmente, con medios públicos, las empresas privadas, pero que proporciona —nosotros creemos— el marco normativo que justamente va a permitir llegar a una meta de conectividad, en donde el acceso a internet no excluya a los 15 millones que les mencionaba.
+Lo primero, espectro para uso público. Esto quiere decir espectro que pueda usar una autoridad de gobierno, centralmente CFE, que ha consolidado CFE Internet, CFE-TEIT, CFE Telecomunicaciones. Internet gratuito, como el programa social que adelantaba. Oficinas gubernamentales, que en lugar de tener un contrato puedan acceder a internet vía este espectro. Y sitios públicos, como los que instalamos en la Ciudad de México cuando la Presidenta era jefa de gobierno.
+O bien, espectro para uso comercial, también en el caso de CFE, en igualdad de condiciones que una empresa privada.
+Entonces, si es para proveer cobertura social, servicios gratuitos, espectro gratuito, si es para comercializar, igual que cualquier otra empresa, sea privada o pública.
+Cobertura social y carretera —esto es importante, y la Presidenta nos lo ha enfatizado—, por empresas de Telecom a cambio de descuentos, por ejemplo, en el pago de espectro.
+Operadores comunitarios, sociales y públicos podrán conectarse —esto de veras se los quiero reiterar, es muy importante— a las redes de los grandes operadores a costos accesibles.
+Les doy un ejemplo que me parece ilustrativo: hay algunas —en la Sierra Mixteca, sobre todo, no solo, pero quizá son los casos más conocidos de Oaxaca—, hay algunas redes locales en municipios, localidades, que sirven para que los habitantes tengan algunos servicios de conectividad o bien, de telefonía local, que puedan hablar dentro del mismo espacio.
+Si esta red, usando esta red, quisieran usarla, por ejemplo, para hablar con su hermano que quizá vive en Estados Unidos o en la Ciudad de México, donde sea, es imposible si no existe esta interconexión. Y para estas redes comunitarias a veces es imposible porque los costos de interconexión son muy altos.
+Con la ley lo que queremos es que esta interconexión ocurra, en el caso de redes comunitarias, sociales y públicas, a un costo accesible y que usando la redcita local puedas hacer llamadas a las redes de los grandes operadores.
+Compartición de infraestructura bajo tarifas accesibles y no discriminatorias. Es lo mismo, si hay una torre de Altán, Telcel, de la empresa que sea, que la puedan usar otros operadores.
+Acceso fácil a espectro —esto es bien importante— para otros fines que no son fines comerciales. Por ejemplo, educación, investigación; a veces hay universidades, investigadores que hacen experimentos usando espectro; no podemos pedirles las mismas cosas que le pides a un operador muy grande.
+Industria y automatización. Esto es bien importante y se vincula muchísimo con el Plan México, que se ha presentado aquí varias veces. Por ejemplo, si es una industria en semiconductores o etcétera que tiene procesos automatizados, estos son procesos que usan espectro para poder conectarse.
+Y pequeñas empresas de Telecom, como lo que mencionaba de operadores comunitarios.
+7. Menos requisitos —también esto es bien importante— para acceso a espectro a radios públicas y comunitarias, sobre todo, indígenas y afromexicanas. Importantísimo, esto no es para servicios de conectividad, eso es para servicios de radiodifusión, la radio local con frecuencia en lenguas originarias, pero que, además, en la modificación permite que accedan a patrocinios y publicidad local; es decir, a lo mejor no se va a anunciar una empresa global, pero sí se puede anunciar la papelería, la tienda de abarrotes, cosas de la localidad, de la comunidad, que puedan aprovechar la radiodifusión para ello, y eso sirve para que estas radiodifusoras se financien un poquito.
+Y, por supuesto, simplificación y homologación —que, bueno, a eso entre otras cosas nos dedicamos en la Agencia— para trámites de despliegue e infraestructura. No puede ser complicado si queremos conectar a todos los mexicanas y mexicanos, poner trabas burocráticas para que se despliegue la infraestructura cumpliendo todas las normas que haya que cumplir.
+Entonces, digamos, el mensaje que yo espero haber sido exitoso comunicando es:
+Esta es una ley para conectar a mexicanas y mexicanos; a los 15 millones, por lo menos, que hoy no tienen acceso a datos y que, por tanto, no pueden ejercer su derecho a internet y todos los derechos derivados de acceder a internet.
+Otros cambios importantes — me voy más rápido— derechos de audiencias. Estos son derechos que se adquirieron en 2014, luego se eliminaron en una reforma del 2017 de una reforma que ustedes conocen, y luego la Corte Suprema declaró regresar… bueno, declaró inconstitucional la reforma del ’17.
+Códigos de ética y defensorías de audiencias. Y esto permite, por supuesto, que las organizaciones de audiencias puedan defender derechos de audiencias.
+Segundo. Derechos de usuarios, muy importante. Yo no tengo por qué tener un dispositivo, un celular, que está amarrado a un solo proveedor de telecomunicaciones, yo tengo el derecho de acceder a un dispositivo que está abierto, que le puedo poner la tarjeta, el chip, la SIM, de cualquier empresa y va a funcionar. Y que no tengo que estar buscando dónde recargo el saldo de una empresa en específico; yo tendría que poder recargar el saldo de cualquier empresa, del tamaño que sea, en cualquier establecimiento que venda saldo.
+Tercero. Medidas para no perder recursos orbitales. Es decir, que el país no pierda órbitas que hoy están a nombre de México.
+Y en su caso, planes de contingencia y reemplazo. A veces los satélites se mueven, se desvían, se desorbitan —es el término que usan los expertos—; entonces, el plan de contingencia para poder reemplazar y no perder, por supuesto, la órbita.
+Lineamentos para ordenamiento y retiro de cableado, es algo que iniciamos en la Ciudad de México también a instrucción e iniciativa de la Presidenta cuando era jefa de Gobierno. Gradualmente, de manera ordenada, sin que implique grandes erogaciones, pero que sí es importante tener lineamientos básicos para bajar cables en desuso; por ejemplo, eso es muy común en la Ciudad, que tú ves un poste con una maraña de cables y resulta que 80 por ciento de esos cables ni siquiera tienen un uso.
+Bloqueo de señales en centros penitenciarios a cargo de las empresas de Telecom. Esto es, por supuesto, para evitar mal uso de telefonía celular y llamadas al exterior; por ejemplo, casos de extorsión.
+Una cosa bien importante que creemos que vale la pena enfatizar. El IFT se divide —y lo ha mencionado también la Presidenta repetidamente— centralmente en dos funciones, y en este caso así se va a separar:
+La autoridad de telecomunicaciones, con lo que yo les acabo de explicar.
+Y aparte, el tema de competencia económica, que se iría a la nueva Comisión Antimonopolio, que estaría en la Secretaría de Economía.
+Entonces, no es una iniciativa de ley que concentre más atribuciones en un solo lugar. De hecho, al contrario, separa las dos atribuciones: cobertura, para el regulador de telecomunicaciones; y competencia, para la Comisión Antimonopolio, que, además, esperamos, por supuesto, tenga un efecto en una caída del precio de servicios que no se ha observado en los años recientes, como los mostré en la gráfica.
+Ya con esta termino, algunas precisiones a la iniciativa que es importante señalar, que la Presidenta ya adelantado algunas:
+1. Impulsar decisiones colegiadas, un órgano desconcentrado sectorizado a la Agencia.
+Que tenga independencia técnica, muy importante, esto implica no solo el Consejo de manera colectiva, sino que haya capacidades técnicas instaladas en el organismo, porque este es un tema —como ustedes se imaginarán— muy técnico, de muchas cosas: mediciones, etcétera.
+Con cinco consejeros propuestos por el Ejecutivo —la Presidenta— y ratificados por el Senado.
+Segundo. La aclaración que ya hice, pero que vale la pena enfatizar, de espectro para el gobierno, en específico CFE.
+Gratuito para temas de cobertura social.
+En igualdad de condiciones para temas comerciales.
+Tercero. El artículo 109, que causó cierto malentendido, polémica. Esto era un artículo pensado para acompañar un artículo que ya existe hoy en la Ley del IVA, que es el 18-H para plataformas de venta de bienes, pero, bueno, para que no haya ningún espacio a duda y como lo mencionó la Presidenta, aquí no hay censura; al contrario, una ley que promueve conectividad, que promueve que más personas puedan usar datos y manifestar sus ideas y usar redes sociales, es una ley que claramente va en el sentido contrario.
+Pero para que no haya ningún espacio de duda, malentendido, se elimina.
+Y se queda —como también ya lo había anunciado la Presidenta— la imposibilidad de transmitir propaganda de gobiernos extranjeros, excepto, por supuesto, temas turísticos, culturales y deportivos; por ejemplo, ahora que viene la Copa del Mundo, que vamos a compartir sedes con nuestros dos vecinos del norte.
+Entonces, eso sería. Espero haber disipado algunas dudas. Por supuesto, abierto a sus preguntas.
+Y muchas gracias, Presidenta, por todo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Vamos a seguir las reglas de “La mañanera”. Bueno, vamos primero, a ver, por acá—.
+---
+PREGUNTA
+Buenos días, Presidenta. Jennifer Barba, de México Comunica.
+Presidenta, ¿cuál es su postura respecto al ingreso del youtuber, MrBeast, a zonas arqueológicas que están restringidas al público ya que pueden dañar su interior?
+La Secretaría de Cultura ya informó que se aplicarán sanciones. ¿Puede adelantarnos qué tipo de medidas se contemplan?
+El video tiene más de 50 millones de vistas, sin sumarle nada a México, más que la promoción de este youtuber estadounidense.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Entiendo que hubo permisos para la transmisión.
+Si uno entra a un lugar que está protegido por el Instituto Nacional de Antropología e Historia, tiene que recibir un permiso para poder transmitir, y entiendo que en este caso hubo permiso.
+Y ya en particular, hay que ver exactamente del contenido. Pero no es que haya entrado sin el permiso del INAH. Entonces, vamos a averiguar exactamente… O más bien, que informe. La información es que tenía permiso del INAH, y ya que el INAH nos diga bajo qué condiciones se dio este permiso. Y si se violó el permiso, entonces qué sanciones provienen.
+---
+PREGUNTA
+Gracias, Presidenta.
+En otro punto, en Tijuana la policía municipal y las fuerzas élite han decomisado casi 4 armas al día este mes, lo que parece indicar avances contra los generadores de violencia.
+¿Le preocupa que los cárteles puedan tomar represalias contra el alcalde Ismael Burgueño, el secretario de Seguridad Pública o inclusive, hacia los policías élite?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se está trabajando en coordinación. Nosotros en el Gabinete de Seguridad trabajamos en todas las entidades de la República, y hay algunas entidades que tienen mayores índices delictivos en donde se pone mayor énfasis.
+Por ejemplo, en Baja California se trabaja de manera coordinada. Y en particular, en algunos municipios se trabaja de manera coordinada; un caso es Tijuana, en donde hay mucha coordinación con el Gabinete Federal.
+El secretario de Seguridad de Baja California es un General que está haciendo un muy buen trabajo y está en coordinación permanente con el presidente municipal y con las actividades que se desarrollan en todos los ámbitos, pero en particular en lo que tiene que ver, junto con la Fiscalía estatal o General de la República, con las detenciones que se hacen a partir de carpetas de investigación.
+Entonces hay un trabajo muy coordinado en Tijuana.
+Otro caso es, por ejemplo, Acapulco. De todo Guerrero, Acapulco es quien tenía más homicidios, es el municipio con mayor número de homicidios; ahora ha ido disminuyendo gracias a una colaboración muy grande entre el Gobierno Federal, que incluye: la Secretaría de Seguridad, las fuerzas federales, Defensa, Guardia Nacional, Marina, que también participa de manera muy importante en Acapulco, y la presidenta municipal, la gobernadora. Entonces hay un trabajo coordinado.
+Incluso, por ejemplo, el municipio de Tijuana, igual que el de Acapulco, se dividió por cuadrantes y hay responsables por cuadrante en cada una de las zonas de Tijuana.
+Entonces, hay un trabajo coordinado para proteger a los servidores públicos y, sobre todo, para disminuir la violencia en todos estos municipios. Y va bajando.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+Por último, ¿qué opina de que el PRI haya hecho comentarios en torno de burla sobre la situación de la gobernadora Marina del Pilar, mientras guarda silencio sobre los casos de corrupción y detenciones que involucran a figuras de su propio partido? O, ¿los del PAN, que exigen la renuncia, pero se les olvida que el secretario de Seguridad de Felipe Calderón era un narcotraficante?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Yo creo que aquí vale la pena detenerse un poquito.
+Cuando llega el Presidente López Obrador al gobierno cambia de maneras muy importante la manera en que venían relacionándose los gobiernos federales del periodo neoliberal con las distintas instituciones del gobierno de los Estados Unidos o con el propio… lo que eran los presidentes de antes.
+Aquí hemos mencionado el caso de Zedillo.
+—A ver otra vez pon el libro de Labastida—.
+Porque es importante, o sea, Zedillo entra al gobierno en 1994. Se viene una crisis económica que provoca una devaluación y que las tasas de interés de los créditos suban más de 100 por ciento, muchísimo. Entonces, se encuentra frente a una circunstancia donde decide pedirle dinero a Estados Unidos y a las agencias financieras internacionales. Primer capítulo.
+Segundo capítulo. Año 2000 —pasan muchas cosas en el periodo, incluido, evidentemente, el Fobaproa—, viene la elección Presidencial del año 2000. El periodo de Zedillo es de 1994 al año 2000. En el año 2000 gana Fox y viene “no, pues la transición a la democracia”, “el gran cambio”, “por primera vez no va a haber un gobierno priista después de tantos años”. Mucha gente, la verdad, creyó en un cambio que iba a ocurrir; unos años después, se vio que realmente no hubo cambio.
+Pero resulta que, tiempo después, el que era candidato del PRI en el año 2000, Labastida, digamos, el que perdió en el año 2000, hace sus memorias y en esas memorias pone esto:
+¿Fue casual que Zedillo me entregará el partido quebrado financieramente?
+Porque en aquella época partido y gobierno eran lo mismo, y después también, durante el periodo PRIANista, porque en realidad es eso, el periodo neoliberal es el periodo del PRIAN, porque hay una alianza que después fue manifiesta en el 2021, pero, en realidad, era el mismo modelo económico y casi las mismas personas.
+¿Fue casual que Zedillo me entregara el partido quebrado financieramente? También dudo de que fuera fortuita la falta de solidaridad al negarse que se difundieran desde mi campaña los logros económicos de su gobierno y sus instrucciones a los gobernadores para que torpedearan mis giras. O sea, que Zedillo les decía a los gobernadores: “No vayan a apoyar a Labastida”.
+La razón principal podría ser esta: cuando el gobierno de Estados Unidos le hizo a México el préstamo de 40 mil millones de dólares para afrontar la crisis desatada por el “error de diciembre” —negociación que el presidente Zedillo gestionó personalmente—, se le demandó el compromiso de propiciar la transición democrática y que, para ello, el PRI dejara de gobernar y él entregara la presidencia a la oposición.
+O sea, el propio candidato del PRI lo que está diciendo es: “No ganó el PRI en el año 2000 porque Zedillo en el ‘94 hizo un acuerdo con el gobierno de Estados Unidos para que entrara el PAN. Es dicho de Labastida. Bueno, ¿qué más entreguismo que ese?
+Pero hay muchos otros ejemplos de ese periodo.
+Por ejemplo, el “comes y te vas” del periodo de Fox: estaban muy preocupados porque iba a venir Fidel Castro a México y no querían que se fuera a enojar el presidente de los Estados Unidos; entonces, lo invitan y le dicen: “Pero por favor te vas rápido, porque no vaya a ser que te encuentres…”
+México es un país soberano, independiente. El pueblo de México decide en México, no tienen por qué decidir los otros. Y México tuvo durante años una política exterior muy reconocida que, después se subsumió en, por un lado, mucho entreguismo y por otro lado, también a todo lo económico, todo lo político, lo social, lo diplomático —eso lo dice el Presidente López Obrador en su libro ¡Gracias!— se subsumió en lo económico.
+Bueno, Calderón, recuerden aquella vez que hay una ejecución —porque eso fue— extrajudicial de un narcotraficante, de una persona de la delincuencia organizada en Morelos y que sale el embajador de Estados Unidos a decir: “Fuimos nosotros, fue la DEA”. No estoy diciendo nada, más que lo que es público.
+“Rápido y Furioso” que vale la pena… —A ver si podemos hacer una serie de lo que fue “Rápido y Furioso”— Que es este acuerdo que se tiene para que armas de Estados Unidos entren a México, supuestamente —después, se supo por WikiLeaks— era para darle seguimiento a los cárteles de la droga. Y no es hasta que fallecen servidores públicos de Estados Unidos que empieza una investigación en Estados Unidos, y después, sale en esa investigación que sí hubo un acuerdo con la entonces Procuraduría General de la República.
+Todo esto es muy relevante, porque cambiaron las cosas, en el 2018, cuando entró el Presidente López Obrador.
+Y la esencia de la coordinación, de la colaboración, porque claro que nos interesa colaborar y coordinarnos con Estados Unidos para evitar que llegue la droga a Estados Unidos por razones humanitarias y de todo tipo, y también para disminuir la violencia en México, que fue generada durante el periodo de Calderón, ese aumento tremendo que hubo en homicidios y que ya con todo el trabajo que se ha venido haciendo va disminuyendo.
+Pero la relación cambió y la relación esencial es: nos coordinamos, colaboramos, pero no nos subordinamos, es una relación distinta a lo que fue todo el periodo neoliberal. Y esa es la relación que hemos establecido como Gobierno de México con el gobierno de Estados Unidos.
+Por eso siempre decimos: ¿qué pedimos para México? Negociar, dialogar, en igualdad de circunstancias; no de sometimiento, en igualdad de circunstancias. Coordinación, colaboración, comunicación, sin subordinación.
+Y eso es lo que llevó al cambio en la Ley de Seguridad Nacional que hizo el Presidente López Obrador, decir: “A ver, hay agentes y agencias en México de los Estados Unidos, pero tienen reglas”.
+Y también, en el momento que decide Estados Unidos declarar a las organizaciones de la delincuencia organizada como “terroristas” nosotros llevamos a la Constitución una modificación, es decir: A ver, si van a entrar aquí los agentes es con permiso y siguiendo todas las reglas, no… Nuestro territorio es inviolable.
+Entonces, eso es lo que cambió, sí cambiaron las cosas en mucho: hay Programas de Bienestar, hay un modelo económico distinto; el país, además, está bien económicamente.
+Y en la relación con nuestro vecino, nuestro socio comercial, es una relación de respeto, de entendimiento, de buscar que a los dos nos vaya bien, pero no esta relación que, con algunos de los ejemplos que puse aquí, marca lo que fue antes a lo nuestro, que es respeto, porque somos un país soberano, libre e independiente.
+Entonces ese es el marco.
+Ahora, también hay que decir que, por ejemplo, ayer… Lo digo por el PRIAN o algunos comentócratas, ¿no?, que: “¡Ay, qué bárbaro! Están esperando que Estados Unidos intervenga en México, así, por favor, por favor, por favor”.
+Como no pueden, o sea, no son… Sus ideas, sus posiciones políticas, su historia ya no engaña al pueblo de México, entonces están buscando que de otro lado venga a afectar al proyecto. Y no va a ocurrir, porque nosotros tenemos muy claro lo que representamos, nuestros principios, nuestra historia, nuestras causas, nuestra patria; entonces, eso no va a ocurrir.
+Y hay veces que estamos más de acuerdo que en otras con Estados Unidos, pero hay una relación de respeto y es lo que siempre vamos a pedir, una relación de respeto con México. Esa es la diferencia.
+Ahora, aprovecho, porque ya que agarré el micrófono:
+Ayer se planteó en el… creo que es el Senado, en una Comisión del Senado, la posibilidad de gravar las remesas con el 5 por ciento. Y fíjense, ahí estamos de acuerdo todos en que “no”.
+Ayer envió —a ver si lo ponen— una carta el Senado con todos los partidos políticos diciendo: “No, eso no. A ver ¿cómo van a gravar, si ya pagan impuestos los mexicanos allá?” Todos los mexicanos que viven en Estados Unidos pagan impuestos, tengan documentos o no tengan documentos, todos pagan impuestos; incluso hay estados que ya gravan las remesas.
+Ahí todos dijeron: “No, a ver, eso no. No, no estamos de acuerdo en que… en esta injusticia, que es discriminatoria”.
+O sea, hay otras cosas, en la defensa de los mexicanos, y qué bueno que ahí estos partidos dijeron: “No, pues sí firmamos”, porque fue bajo iniciativa de Morena en el Senado.
+—A ver si la ponen la carta—.
+Dice:
+Desde el Senado de la República, haciendo uso de las facultades en política exterior, conferidas en el artículo 76 de la Constitución, expresamos nuestro desacuerdo con la iniciativa promovida por el republicano Jason Smith en la Cámara de Representantes —ah, es la Cámara de Representantes, perdón, yo dije Senado— de Estados Unidos en el marco del proyecto denominado The One, Big, Beautiful Bill en el que, entre otras medidas, se busca imponer un impuesto del 5 por ciento sobre el monto de las remesas que envían las y los migrantes.
+Es relevante destacar que, en Estados Unidos, todos los trabajadores, más allá de su estatus migratorio, pagan de manera cotidiana sus impuestos, por lo que esta medida supondría una injusta doble tributación sobre ese 20% del ingreso laboral de los trabajadores migrantes que, reiteramos, ya tributado, abandona el país. Estos impuestos, además, no se traducen en un gasto social para el grupo poblacional que los genera, en muchos casos imposibilitado para acceder a las políticas sociales...
+—A ver si vamos al final—.
+Hacemos un llamado a la mesura ante esta propuesta, ya que proyecciones técnicas realizadas demuestran que la imposición de un impuesto o arancel a las remesas solo desincentivaría el uso de las vías regulares y formales.
+Desde el Senado, sostenemos que las remesas son un fruto del esfuerzo de quienes, a través de su trabajo honesto, fortalecen no sólo la economía mexicana, sino también a la de los Estados Unidos, por lo que consideramos esta medida como arbitraria e injusta, y hacemos un llamado al Legislativo estadounidense a reconsiderar reflexivamente esta propuesta que dañaría la economía de ambas naciones. Y que, además, es contraria al espíritu de libertad económica que dice defender el gobierno de los Estados Unidos.
+Desde nuestro punto de vista, las relaciones entre pueblos hermanos se fortalecen desde el diálogo y el entendimiento mutuo, tendiendo puentes y no levantando muros ni barreras económicas.
+Y firman todos los partidos políticos.
+—Ahora sí—.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+De nada.
+—A ver, vamos por acá—.
+---
+PREGUNTA
+Muy buenos días, Presidenta, y funcionarios y funcionaria que la acompañan.
+Presidenta, sobre este mismo tema, el día de mañana en El Soberano voy a publicar una columna que titulé: “La hipocresía de la política”.
+¿A qué me refiero con esto?
+Es porque Estados Unidos le está pidiendo a su gobierno que combata el fentanilo y que no deje llegar más migrantes a la frontera norte, incluso, el gobierno norteamericano ya tachó de “terroristas” a las organizaciones criminales, pero hace 2 días nos enteremos que les dieron asilo a los integrantes de una familia de un delincuente bajo el sistema parole, mientras su gobierno tiene que seguir combatiendo la inseguridad que estas acciones provocan.
+Presidenta, en la revisión que harán del Tratado solicitado por el presidente de Estados Unidos, Donald Trump este año ¿su gobierno buscaría que Estados Unidos coadyuve no dándole asilo a las familias de los delincuentes?, porque el desastre lo dejan aquí, pero ellos se van a refugiar a Estados Unidos y como si no hubiera pasado nada con esas familias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Como saben, pues está todo el tema también de un miembro de la delincuencia organizada que fue presuntamente detenido en los Estados Unidos y que… Si quieren, en otra ocasión ya también hablamos de eso. Pero sí es cierto.
+Esto que decía, de la relación que hay de los gobiernos del pasado y lo que planteamos nosotros, que tiene que ver con el respeto y la comunicación permanente.
+Porque, por cierto, el tema de “Rápido y Furioso”, este operativo que hubo de entrada de armas de Estados Unidos a México en la época de Calderón tuvo seguimiento, por parte del Senado de los Estados Unidos y después, ya no pasó nada; ya no hubo seguimiento a esa investigación, se cerró, a pesar de que hubo muerte de mexicanos, muchísimas, producto de esa terrible irresponsabilidad, pero ya no se investigó.
+Y ahora, esto que mencionas, que vamos a ver… Hablamos ya después, en otra ocasión, con más de esto, pero es cierto, o sea, ¿cómo declaran “terroristas”…? O sea, porque ellos han dicho que “no negocian con terroristas”.
+Entonces, ¿qué pedimos, en general? Respeto, colaboración, coordinación.
+Hay muchos periodos en la historia de México en donde ha habido una gran colaboración y coordinación, y respeto entre Estados Unidos y México. Y yo diría que ahora, hemos logrado una relación de respeto con el presidente Trump en muchos, muchos temas.
+El Presidente López Obrador logró una relación de mucho respeto con el presidente Trump y con el presidente Biden, y nosotros ese es nuestro objetivo, tener una buena colaboración, una relación de respeto y hasta ahora, siempre habrá momentos en los que no estés de acuerdo en una u otra cosa, pero hemos logrado una relación de mucha comunicación, y eso es lo que estamos planteando.
+Viene ya el embajador de los Estados Unidos, viene el nuevo embajador, y ya estamos poniéndonos de acuerdo cuándo van a hacer la entrega de las cartas credenciales, la aceptación. Y eso es lo que vamos a plantearle cuando lo veamos: mucha coordinación, colaboración y relación de respeto.
+Ahora, incluso, hay muchos temas.
+Por ejemplo, en la frontera norte nuestra y en la frontera sur de Estados Unidos hay mucha comunicación para evitar la entrada de tráfico de drogas a Estados Unidos y la entrada de armas a México, que eso es algo también histórico que hemos logrado. Las declaraciones del presidente Trump de decir: “Mano dura para la entrada de armas de Estados Unidos a México”, y recientemente también, el Congreso lo planteó. Eso es algo muy bueno.
+¿Cómo se ha logrado eso? Pues, comunicando, coordinándonos. Entonces, eso es lo que estamos planteando.
+Recuerden que, en el caso de esta persona que va a declarar, fue enviado por México en una extradición.
+Entonces, es la comunicación entre las instituciones lo que debe prevalecer siempre.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+Presidenta, la semana pasada en la Cámara de Senadores hubo una conferencia de prensa donde se dieron a conocer nuevas denuncias contra el exgobernador de Tamaulipas, Francisco Javier García Cabeza de Vaca. En esta se reveló una red de corrupción de jueces que lo protegen, como son Faustino Gutiérrez Pérez, Juan Fernando Alvarado López, Mauricio Fernández de la Mora y la magistrada Amalia Fernández Barquín.
+Presidenta, el exgobernador panista modificó la Constitución local a unos días de concluir su mandato para asignarse 43 elementos de seguridad fuertemente armados con al menos 10 camionetas entre Pickups y blindadas.
+Y estos juzgadores corruptos lo han amparado para que el gobierno actual, presidido por el doctor Américo Villarreal, no le quite este esquema de protección pagado con el dinero de los tamaulipecos, pues además de lo costoso, los utiliza para cuidar sus propiedades y negocios en el estado, porque él vive prófugo en Estados Unidos.
+Presidenta, preguntarle: ¿es válido que un exgobernador prófugo goce de estos excesos que, él mismo, se autootorgó y que hoy el gobernador Américo Villarreal busca borrar de la Constitución local esos privilegios de unos cuantos y que por eso lo atacan?, ¿no es mejor que los elementos regresen a resguardar a la población, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues estoy de acuerdo. Pero lo importante es la diferencia entre lo que había antes, privilegios, corrupción; y el cambio que inició con el Presidente López Obrador y lo que representamos nosotros, eso no se debe olvidar nunca, de dónde venimos.
+---
+PREGUNTA
+Bueno, Presidenta, también, desde la llegada de la Cuarta Transformación al Gobierno de la República, una de las principales políticas del expresidente Andrés Manuel López Obrador para evitar prácticas de corrupción ha sido la negativa de conceder más permisos para apertura de casinos y este tipo de comercios de sorteos.
+Hoy, en Naucalpan, sobre Periférico y a un costado de la capital del país, se construye y está próximo a inaugurarse el que se ha se denomina “el casino más grande y moderno de Latinoamérica”, de nombre Jubilee Casino, propiedad de la familia Saidé, de Nuevo León.
+Se sabe que en la pasada administración municipal panista de Naucalpan, encabezada por Angélica Moya Marín, autorizó, en junio del 2022, el permiso de funcionamiento para la construcción y operación de este casino sin contar con facultades legales para hacerlo por este hecho. El actual gobierno municipal de Naucalpan presentó una denuncia penal contra la exalcaldesa por el delito de abuso de autoridad.
+Presidenta, de concretarse la apertura de este enorme casino, se trataría del primero en su tipo inaugurado en tiempos de la Cuarta Transformación, esto, pese a que la titular de la Secretaría de Gobernación ha reiterado en diversas ocasiones que no están concediendo permisos para ese tipo de negocios.
+Y aquí le voy a hacer tres preguntas sobre el mismo tema:
+¿Qué opinión tiene acerca de este tema?
+¿Y cómo le hicieron los hermanos Saidé para obtener el permiso para construir y poner en operación este enorme casino que conlleva una millonaria inversión?
+Y, por último, ¿ya cambió la política de la 4T de no otorgar más licencias para que se abran más casinos en el país?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, no ha cambiado, no. Hay que pedirle a Rosa Icela que revise este caso, porque no ha cambiado, no hay más permisos ni licencias; incluso se están poniendo más vigilancia, controles.
+Entonces, vamos a ver este caso, porque no tendría por qué.
+---
+PREGUNTA
+Tenemos los videos y las fotos. Si me permite, a través de Paulina…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, por favor. Y que lo atienda la secretaria de Gobernación.
+---
+PREGUNTA
+Muchas gracias, gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Carlos—.
+---
+PREGUNTA
+Buenos días a todas y todos. Carlos Navarro, de Heraldo Media Group.
+Presidenta, ¿no es una incongruencia lo que está haciendo Estados Unidos en este actuar de recibir a ciertos personajes y, por otro lado, señalar a las organizaciones como “terroristas”?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tienen que dar la información, primero.
+Y segundo, ¿por qué es la información?, no han informado, ¿no?: ¿por qué entraron? No tenemos la información oficial o pública que diga por qué entró esta familia.
+Hay que recordar de nuevo el tema de la extradición.
+Y, sí, en efecto, es… O sea, hay una política de ellos de no negociar con terroristas. Ellos, en una decisión de ellos, deciden nombrar algunas organizaciones de la delincuencia organizada como “terroristas”.
+Entonces, pues que informen si hay un acuerdo, si no hay un acuerdo, tienen que informar. Y tienen que explicarle al pueblo de Estados Unidos también cómo es que, si están llegando a un acuerdo, cómo es que lo hacen.
+Y a México, obviamente, ¿por qué razón?:
+Primero. Son mexicanos.
+Y segundo. Uno de sus familiares fue enviado con extradición, es decir, tiene una carpeta de investigación aquí, incluso más, hubo elementos del Ejército que fallecieron en ese operativo.
+Entonces, por eso decimos: información, porque nosotros no… El tema no es si combatimos a la delincuencia organizada o no, sino queremos que se cumpla, eso por supuesto que sí y nosotros estamos haciendo nuestro trabajo. El tema aquí es qué información hay y cómo explican esto.
+Entonces, tienen que informar, tienen que informar.
+---
+PREGUNTA
+Presidenta, ayer en Estados Unidos se hizo la primera imputación por “narcoterrorismo”. ¿De qué forma va a actuar el Gobierno de México?
+Señalan a dos personas que están prófugas. ¿Van a ayudar a perseguirlos? ¿De qué forma va a estar colaborando el Gobierno de México ante esta primera imputación por narcoterrorismo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, uno de ellos fue enviado. Ya lo puede explicar más el secretario de Seguridad.
+Nosotros trabajamos, las fuerzas de seguridad del Gobierno Federal: la Secretaría de Seguridad, el Ejército, la Marina, la Guardia Nacional, tienen comunicación, ¿por qué?
+Primero, porque somos vecinos.
+Segundo, porque nosotros acordamos conjuntamente —desde antes, nada más que en una relación de respeto— que nosotros vamos a evitar que pase la droga a Estados Unidos y también lo que queremos es disminuir los índices de violencia en nuestro país, en el marco de la ley. Entonces, en ese proceso se colabora, nos coordinamos, pero no en el esquema de antes, donde quienes operaban todo eran ellos, entonces tenían una injerencia distinta.
+Nosotros no, nosotros lo único que hacemos es defender nuestra patria, así, tan sencillo como eso, nuestra soberanía, nuestro pueblo.
+¿Y cómo nos relacionamos? En una relación de respeto, de colaboración y de coordinación. Entonces, en este, en otros casos, hay colaboración, hay coordinación, pero con respeto siempre, y sin subordinación.
+---
+PREGUNTA
+¿Desde Estados Unidos ha habido un requerimiento de información oficial ante esta primera acusación por narcoterrorismo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Normalmente es del Departamento de Justicia de los Estados Unidos a la Fiscalía General de la República. Es, cuando hay una detención, es natural que haya esta comunicación.
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Perdón?
+---
+PREGUNTA
+¿Algún personaje que está señalado?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya que lo informe el Gabinete de Seguridad.
+---
+PREGUNTA
+¿Pero está dispuesto a entregarlos a Estados Unidos?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya que lo informe, todo relacionado con este caso, el Gabinete de Seguridad.
+---
+PREGUNTA
+Preguntarle: también con esta nueva Ley de Telecom, ¿qué experiencia retoma usted de su etapa como jefa de Gobierno al lograr que la Ciudad de México fuera la más conectada con esta meta de 15 millones?
+Y con la eliminación de este artículo, ¿entonces ya se difumina cualquier señalamiento de censura?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El objetivo de la ley… Primero, recuerden que desaparece Cofece y el IFT, eso ya pasó en la Constitución; entonces, tenemos que hacer algo que una institución o instituciones, que hagan las funciones que tenían la Cofece, que es un organismo que, hasta ahora, todavía existe, que garantice la competencia en México.
+¿De qué sirve la competencia? Que haya disminución de precios, que haya más oportunidades para las empresas, que no haya monopolización de servicios, de productos, etcétera.
+Entonces, como sustitución de la Cofece entra un nuevo organismo que es el organismo Antimonopolio.
+Por otro lado, todo lo que regulaba la Ley Federal de Telecomunicaciones o el organismo que lo regulaba era el IFT. Ese organismo desaparece y algunas de sus atribuciones se van a la misma Comisión de Competencia de Antimonopolio, otras se van a la Agencia de Transformación Digital, otras se quedan en la Secretaría de Infraestructura, Comunicaciones y Transportes. Eso es, digamos, lo primero que tiene que ocurrir.
+Lo segundo, por primera vez se está dando oportunidad de sobrevivencia y promoción de las radios comunitarias, particularmente porque existen en las comunidades indígenas, de pueblos originarios; pero se les está dando, todo lo que se les había quitado y limitado para que no pudieran desarrollarse, hoy se abre. Entonces, se les da esa oportunidad. Eso, por un lado.
+Segundo. Se recupera lo que en 2014 se llamó “el derecho de las audiencias”. Todos los mexicanos y mexicanas tenemos derecho a una información veraz y a que se diga: qué es información y qué es opinión, pero ¿quién defiende al que escucha, al que ve la televisión? Pues ahorita, se quedó borrado eso.
+Entonces, estamos recuperando el que te puedas quejar: tú eres un ciudadano normal y escuchas una cosa que es mentira, que no tiene nada que ver con la realidad, pues te quejas, ¿no? Así como en Profeco, porque están los precios muy altos, porque no te dieron buen servicio. Se recupera el derecho de las audiencias, eso es muy importante.
+Luego, en el caso del internet, particularmente, y todos se quedan con sus… O sea, no se está quitando concesiones ni mucho menos, y la validación, porque las concesiones de todas las televisoras, de las radiodifusoras se dan por tanto tiempo.
+¿Quién las va a validar?
+Un organismo colegiado que se va a crear dentro de la Agencia de Transformación, para que no se queden en una persona, esa validación, que puede ser subjetiva su opinión o decisión. Se hace en un organismo colegiado donde van a participar ciudadanos que van a ser propuestos y designados por el Senado para que sea un organismo colegiado.
+Ahora, en el caso del internet, ¿cuál es la novedad? Antes no se permitía que CFE-Internet pudiera dar servicio, más que en las zonas de no cobertura. Ahora sí, ahora se le va a permitir, ¿cómo?, en igualdad de circunstancias que, en el caso comercial, que los privados, para que no digan que hay un favoritismo de unos; no, en igualdad de circunstancias.
+¿Qué queremos con esto? Que se genere más competencia y que bajen los precios también del internet.
+¿Qué otras cosas se dicen?
+Hay muchos lugares —como mencionaba Pepe— que no tienen cobertura… Pues queremos que en esos lugares haya cobertura. ¿Cómo? Hay una legislación en Brasil —de ahí lo tomamos— en donde el privado, por ejemplo, puede decir: “Yo te pongo cobertura en toda esta zona y de manera gratuita sobre los derechos de concesión”; se puede hacer eso. La otra es que CFE-Internet, Internet para Todos, pueda tener más facilidad para su cobertura.
+Entonces, eso es en esencia lo que estamos planteando. ¿Es fuerte en términos de los cambios? Pues sí hay cambios, pero es para el bien de México y de las y los mexicanos, pero al mismo tiempo, se permite que los privados sigan haciendo todo su trabajo, toda su labor. Esos son esencialmente los planteamientos.
+---
+PREGUNTA
+¿No hay censura, como lo habían señalado algunos?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, ese artículo que generó confusión se elimina por completo.
+Y se pone también que ningún gobierno extranjero puede hacer propaganda política o ideológica en México, pagada, como comercial, como propaganda pagada; pueden subir a su internet en Estados Unidos un comunicado y se puede ver en México, no hay problema, el tema nada más es que no se puede pagar un comercial de propaganda ideológica, política, de un gobierno extranjero.
+Si van a promover un lugar turístico, no hay problema; si van a promover una actividad cultural, no hay problema; una actividad deportiva, no hay problema, y eso se deriva de lo que ya sabemos, de lo que ocurrió de este anuncio que indignó al pueblo de México.
+---
+PREGUNTA
+Por último, preguntarle, Presidenta: ganaderos solicitan que se cierre la frontera sur para frenar esta plaga del gusano barrenador. ¿Qué responderles, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se están fortaleciendo las medidas sanitarias para evitar que pueda haber una propagación. Y también ahí hay coordinación con la Secretaría de Agricultura del gobierno de Estados Unidos, y hay varias acciones que queremos tomar también, que ya las vamos a ir informando.
+Cerrar la frontera es muy difícil, pero aumentar todas las medidas sanitarias, pues sí lo vamos a hacer.
+---
+PREGUNTA
+Muchas gracias. Buen día a todas y a todos.
+---
+PREGUNTA
+Presidenta, buenos días. Angélica Guerrero, de El Financiero Bloomberg Televisión.
+Nada más para terminar también con este tema de telecomunicaciones: ¿en cuánto tiempo verían reflejadas las personas esta disminución de costos en internet?, bueno, ¿en cuánto tiempo se podría ver reflejado?, ¿y cuándo llegaría, digamos, esta nueva medida?, ¿o cuánto tiempo prevén que se puedan ver reflejados estos beneficios?
+Y, perdón, si me dice también ¿qué porcentaje lo van a notar ellos?
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Hay que hacer las estimaciones precisas, pero una de las cosas que yo creo que es importante enfatizar es que uno de los temas que ha generado hacia la baja el promedio del precio recientemente es, justamente, Altán que usa la red de 700 Megahertz.
+Entonces, como anunciaba la Presidenta, si CFE-Telecom, o CFE-TEIT, puede brindar en igualdad de circunstancias servicios comerciales, creemos que eso, de manera relativamente rápida, va a poder empujar los precios a la baja.
+Y, por supuesto, en las resoluciones que emita la Comisión Antimonopolio en temas de competencia, preponderancia, etcétera, seguramente tendrá también un impacto, pero…
+---
+PREGUNTA
+¿No hay estimado?
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+No, no te podría dar un estimado, pero en cuanto tengamos una idea con todo gusto la comunicamos.
+---
+PREGUNTA
+Gracias.
+Presidenta, regresando al tema de Estados Unidos, ya dijo que ya después se explicará mejor, pero ¿cómo ayudaría la reforma que usted envió para blindar la soberanía nacional? O, es decir, ¿cómo impactará en esta medida que está… o en este anuncio que están haciendo desde Estados Unidos, de tener esta acusación directa contra integrantes de un cártel por “terrorismo”?, ¿cómo impacta esta reforma?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay algunos temas que impactan en Estados Unidos. En la relación con México lo estamos estudiando con detalle, qué implicaciones.
+Lo importante aquí —y eso es para el pueblo de México— es que no se use como pretexto la definición de un grupo de la delincuencia organizada como “terrorista” para intervenir de alguna forma en México o tener mayor injerencia, eso no. Por eso, modificamos la Constitución y por eso, la ley que, en su momento, cambió el Presidente López Obrador.
+Entonces, otros temas de colaboración, coordinación, esos se dan, en muchos temas.
+Por ejemplo: lavado de dinero. Hay mucha comunicación entre el secretario de Hacienda y el secretario del Tesoro de los Estados Unidos. Si se encuentra que hay recursos económicos que van de Estados Unidos a México, de México a Estados Unidos, ya de por sí hay una legislación muy fuerte en México contra el lavado, pero si se encuentra que hay, pues hay comunicación entre las distintas instituciones, en México, la UIF, por ejemplo, para poder congelar cuentas, para poder sancionar e incluso poder presentar ante del Departamento de Justicia o la Fiscalía General de la República alguna denuncia en esos temas.
+En los temas en donde tiene que ver con personas de la delincuencia organizada que tienen orden de extradición, pues se ha colaborado desde hace años, lo hizo el Presidente López Obrador y nosotros lo hemos hecho. Entonces, hay una colaboración, una coordinación.
+Lo que siempre dijimos es que: no se vaya a usar este tema como un argumento, porque lo que hemos puesto nosotros es, reglas en esa relación, reglas que tienen que ver con el respeto.
+O sea, no somos lo mismo que los gobiernos neoliberales, ni lo vamos a ser, cambió la manera de… ¿cómo?, defensa de la soberanía y respeto, y al mismo tiempo, colaboración y coordinación.
+Ese es, digamos, el tema que siempre hemos puesto sobre la mesa.
+---
+PREGUNTA
+Presidenta, pero ¿cómo actuaría el Gobierno de México?
+Y más allá de lo que se ha hablado a nivel política, a nivel administrativa y la relación con Estados Unidos, la noticia sí causó impacto, incluso en el ciudadano de a pie que no entiende qué implicaciones tendría esto que se anunció ayer.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tiene que decidir… O sea, es a partir de la definición del Departamento de Justicia.
+Así como en México, la Fiscalía General de la República abre una carpeta de investigación y la presenta ante un juez, y solicita órdenes de cateo, órdenes de aprehensión y en un juicio las medidas que deben tomarse frente a una persona, presunto miembro de la delincuencia organizada o de otro delito; de igual manera, es el Departamento de Justicia de los Estados Unidos quien va a determinar ante un juez en los Estados Unidos qué sanciones tendría una persona detenida de la delincuencia organizada que, además, de acuerdo con ellos, tiene la característica de ser parte de un grupo que ellos determinaron como “terrorista”.
+Entonces, eso depende del Departamento de Justicia. Y a su vez, lo llevan a un juez y el juez determina en un juicio. Y el acusado tiene derecho a defenderse, como en cualquier lugar del mundo donde haya sistemas de justicia de presunción de inocencia.
+Entonces, no hay nada en este momento que nos diga qué significaría, lo tiene que determinar el Departamento de Justicia de los Estados Unidos.
+---
+PREGUNTA
+Y al estar clasificado como “terrorismo”, la gran pregunta de todos es: ¿cómo respondería el gobierno mexicano?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Nuestro gobierno responde frente a lo que son los delitos aquí, no frente a la característica de los delitos allá.
+Nosotros nos regimos por la Constitución y las leyes de México; no nos regimos por la Constitución y las leyes de Estados Unidos, no. Nosotros nos regimos por nuestra Constitución y nuestras leyes.
+Si hay un presunto delincuente de la delincuencia organizada, lo detiene la Fiscalía con una carpeta de investigación, ¿a partir de qué?, pues del Código de Procedimientos Penales; o una Fiscalía Estatal, del Código de Procedimientos Penales de los estados; aquí es del Código de Procedimientos Penales. Si fue por homicidio, pues hay las sanciones por homicidio; si fue homicidio y otro delito, pues entonces se suman las penas.
+¿Y eso de quién depende?
+Pues de la Fiscalía General de la República y las pruebas que tenga frente a un delincuente, y de un juez; que hemos visto recientemente que los jueces liberan, entonces, por eso es el cambio en el Poder Judicial.
+Pero nosotros nos regimos por nuestras leyes.
+Y en la relación, hay relación de colaboración, de coordinación, pero nosotros no nos regimos por las leyes de ellos, nos regimos por las nuestras.
+---
+PREGUNTA
+Es decir, ¿en caso de que se llegara a capturar al restante de personas que señala el gobierno de Estados Unidos o de este juzgado, en caso de que solicitaran su extradición, se haría, pero no bajo este término que ellos están planteando?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bajo los términos de coordinación que existen con Estados Unidos y con otros países de extradición. Nosotros también pedimos extradiciones a otros países. Entonces, eso no ha cambiado en nuestras leyes, no ha cambiado.
+Nosotros… El delito de terrorismo, tiene un catálogo muy distinto en México del que ellos le pusieron a la delincuencia organizada. Eso no quiere decir que nosotros hagamos nuestro trabajo, la Fiscalía también, y en su momento, los jueces, para detener a responsables de delitos; ese trabajo lo hacemos todos los días, incluida también la Atención a las causas, pero cada quien tiene su legislación.
+---
+PREGUNTA
+Presidenta, y en este caso en específico sobre la negociación o el acuerdo al que llegó Ovidio Guzmán, ¿ustedes han solicitado información específicamente sobre este tema?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Primero, no sabemos qué acuerdo.
+¿Quién lo tiene que solicitar?
+La Fiscalía General de la República formalmente, porque fue extraditado. Entonces, quien tiene que solicitarlo, más allá de un asunto diplomático, formalmente es la Fiscalía General de la República al Departamento de Justicia de los Estados Unidos, porque fue detenido aquí y extraditado allá, además de que es ciudadano mexicano.
+---
+PREGUNTA
+Y Presidenta, cambiando un poco de tema, pero que ya comentaba también alguna de mis compañeras, sobre las visas y sobre estos señalamientos que se le han hecho a la gobernadora de Baja California; incluso el PRI, bueno, personas de oposición en el estado han pedido o solicitado que la gobernadora no participe en las Mesas de Seguridad hasta que no se aclare.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Y por qué? Ahora sí: ¿y por qué?, ¿qué argumento tienen?
+O sea, lo que sabemos es lo que ella informa, de que le fue retirada la visa.
+Y la Embajada de Estados Unidos dice: “A ver, todo lo que tiene que ver con las visas es un asunto privado”.
+No es que no nos quieran dar la información, sino que ellos tienen una regla sobre el tema del visado, en donde dicen: “Bueno, a ver, ese tema no se comparte porque es un asunto privado”. Eso es todo lo que sabemos.
+Pero es que estos que entregaron al país, que permitieron la injerencia, entonces ahora sí: “que Marina no participe en las Mesas de Seguridad”, ¿qué argumento tienen? Ninguno.
+---
+PREGUNTA
+Presidenta, ¿y usted ha tenido notificaciones o le han informado de alguien más, algún gobernador o funcionario?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, y no lo van a informar, por este tema. O sea, el comunicado de la Embajada de Estados Unidos dice: “El tema de las visas es un tema privado”. Entonces, no es algo que tenga que ver con… Así lo tienen ellos en su regla.
+Entonces, no tendrían por qué, según ellos, eh. Ahora, si es un tema político, si es un tema de otro tipo, bueno, pues tendrían que informarlo, ¿verdad?
+---
+PREGUNTA
+Me refiero a ¿directamente ellos a usted no le han notificado funcionarios ni gobernadores que les hayan revocado su visa?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, no.
+---
+PREGUNTA
+¿Ninguno hasta ahora?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No hay ninguno.
+---
+PREGUNTA
+Y ya, por último, Presidenta, en un tema económico: su propósito o una de sus grandes metas que ya anunció es que, en enero de 2030, sea ya, prácticamente quede consolidada la reforma de las 40 horas.
+¿Ha tenido ya este acercamiento con el sector empresarial? ¿Qué es lo que ellos le han comentado para que se concrete esta meta? Y, sobre todo, porque estamos a un mes de que…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Lo está llevando el secretario del Trabajo. Y la idea es que sea… Ha habido una gran transformación en el mundo laboral; o sea, si nosotros vemos, del 2018 al 2025, ha habido una transformación muy grande para beneficio de los trabajadores.
+¿Qué cambios ha habido? Aumento salarial; desaparición del outsourcing; un cambio completo, profundo, en la justicia laboral para que pueda ser más expedita; mejora en las pensiones.
+Entonces, entre otras… Ahora, todas estas medidas —antes de eso— se han tomado por consenso, o sea, hay mesas de trabajo. Por ejemplo, el último aumento salarial del 12.5 por ciento al salario mínimo fue un acuerdo, que coordina el secretario del Trabajo y habla con empresarios, y habla con sindicatos, con organizaciones de trabajadores.
+Ahora, recién, por ejemplo, hicimos lo de plataformas digitales, y hay mucha comunicación con las plataformas digitales.
+Entonces, lo que anunciamos es que inician las mesas de trabajo para la semana de las 40 horas. Y la idea es que se genere un acuerdo que mantenga, que permita que siga manteniéndose el aumento salarial y que, al mismo tiempo, se vaya poco a poco cumpliendo las 40 horas.
+Pero tiene que ser un acuerdo, y están en ese ánimo, en ese ámbito, están también las organizaciones de las y los trabajadores. Entonces, lo que inició fueron las mesas de trabajo y las coordina el secretario Marath Bolaños.
+---
+PREGUNTA
+¿Directamente le han dicho los empresarios si tienen alguna inquietud sobre esta medida?, sobre todo, porque ya se discutió mucho en la legislatura pasada e incluso también en ese primer parlamento abierto que hubo, se mencionaba lo difícil que sería hacerlo de la noche a la mañana.
+Pero para que también las personas entiendan y han preguntado mucho sobre ¿por qué toman la medida de hacerlo de manera gradual?, ¿qué les diría y cuáles son las inquietudes que ha presentado el sector empresarial?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Nuestra propuesta es que sea de manera gradual justamente por eso, para evitar que haya daño a los trabajadores o al propio empleo. Entonces, por eso es una mesa de trabajo, en donde vamos viendo.
+Ahora, todas las reformas que ha habido han sido para beneficio del trabajador, a diferencia del pasado, donde las y los trabajadores acababan siempre pagando por todo. Esto es también una medida en beneficio a los trabajadores, pero hay que hacerlo de manera que no tenga, no haya afectación económica en prejuicio de los trabajadores; o en perjuicio, más bien.
+---
+PREGUNTA
+¿Los empresarios están de acuerdo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí.
+---
+PREGUNTA
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, ya son 09:09 y viene el “Detector de Mentiras”.
+—A ver, vamos aquí y ya con esta cerramos. Nos quedamos para mañana, si les parece—.
+---
+PREGUNTA
+Le agradezco mucho, Presidenta. Ximena Mejía, de Grupo Imagen.
+Preguntarle dos cosas. La primera es: ¿con qué mensaje se queda del expresidente y humanista Pepe Mújica? Esa sería la primera pregunta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+José Mujica fue un hombre, en muchos sentidos ejemplar.
+Primero, tenía esta característica que nos deja —además, a través de todos sus discursos, sus escritos— en palabras muy sencillas y breves decir pensamientos muy profundos, muy profundos, siempre en beneficio de los pobres, de los desposeídos, de los que menos tienen.
+Entonces, esa sabiduría muy pocos la tienen y esa, es un legado que nos deja por siempre.
+La otra es su visión de que lo material no es lo que da la felicidad, que es muy parecido a nuestro pensamiento. Él con su modestia, sencillez, pocos lujos, que marcó a lo largo de su vida, y también con sus dichos, mostró eso, que no se trabajaba para ganar dinero y cada vez más dinero, que, al final, te vas solo. Entonces, ese ejemplo de una vida modesta, sencilla, también fue un ejemplo, comparado con esas parafernalias que había en el pasado del “poderoso”.
+Y la otra, es que fue un hombre que deja mucho para el movimiento progresista de América Latina. Y, afortunadamente, vio triunfar nuevamente al Frente Amplio en Uruguay.
+Entonces, nuestro cariño, solidaridad y pensamiento para Pepe Mujica.
+---
+PREGUNTA
+Gracias, Presidenta.
+Y la segunda pregunta sería: este lunes se conoció que usted tuvo una reunión en la Secretaría de Gobernación con la secretaria Rosa Icela. Saber, ¿cuál fue el motivo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Me invitó Rosa Icela. Se hizo todo un… “Voy a Gobernación”, porque normalmente la secretaria de Gobernación viene a Palacio Nacional, y Rosa Icela me dijo: “¿No conoces la…? Quiero que conozcas mi oficina”.
+Entonces, una serie de… un acuerdo que teníamos, pues lo llevé allá. Y estaban algunos compañeros también en la reunión.
+Pero no hay nada particular, especial, de la visita.
+---
+PREGUNTA
+¿No se tocó el tema de las madres buscadoras, seguridad, algo en especial?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Muchos temas se tocaron, porque tiene que ver con los acuerdos que tengo con la secretaria Rosa Icela. Que, aprovecho para decir que es una gran secretaria de Gobernación; es una mujer ejemplar también, muy trabajadora, con mucho método de trabajo, muy sensible, muy sencilla, y da muchos resultados.
+---
+PREGUNTA
+¿Considera que rompió un poco el protocolo de otros presidentes?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues sí.
+---
+PREGUNTA
+No es común, ¿no?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues sí, es que dicen: “¿Cómo va a ir la Presidenta a una Secretaría?” Pues, ¿qué tiene de malo? No tiene nada de malo.
+---
+PREGUNTA
+¿Piensa visitar otras?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí. Por ejemplo: bueno, a la SEP ya fui, es que quedan cerquita, ¿verdad?, eso es una ventaja.
+Pero si los secretarios me invitan a ir en alguna ocasión a su oficina, pues vamos; sirve uno que también conoce a todas las trabajadoras y trabajadores, y los saludamos.
+---
+PREGUNTA
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+Bueno, cerramos con el “Detector de Mentiras”.
+---
+COORDINADOR DE INFODEMIA, MIGUEL ÁNGEL ELORZA VÁSQUEZ
+Con su permiso, Presidenta.
+Buenos días a todas y todos.
+Conforme se acerca el 1º de junio, el día en que se realizará la elección judicial, un coro desinformador de comentócratas, medios de información y políticos arrecian el ataque contra este ejercicio democrático con las mismas mentiras con las que intentaron evitar la reforma judicial que, dicho sea de paso, fue un mandato del pueblo de México a través de las urnas.
+¿Qué intereses persiguen quienes con mentiras atacan a la democracia?
+Por otro lado, a pesar de que en el Senado de la República se realizan conversatorios sobre la Ley de Telecomunicaciones y Radiodifusión continúan las mentiras contra esta ley; incluso hay comentaristas que, en pleno uso de su libertad de expresión, afirman que este derecho está en peligro, sin percatarse que, al hacer estas afirmaciones, ratifican que vivimos en una democracia donde el gobierno garantiza este derecho.
+Veamos el video del “Detector de Mentiras” de esta semana.
+---
+COORDINADOR DE INFODEMIA, MIGUEL ÁNGEL ELORZA VÁSQUEZ
+Muchas gracias. Hasta la próxima semana, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Nos vemos.
+Mañana contesto, inicio con las preguntas que faltaron.
+Gracias.
+—000—
