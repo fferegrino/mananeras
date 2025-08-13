@@ -1,0 +1,339 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de agosto de 2025
+Presidencia de la República
+13 de agosto de 2025
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días.
+---
+PREGUNTA
+Buenos días, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se nos hizo un poco tarde, disculpen a quienes nos ven, nos oyen y a ustedes.
+Bueno, el día de hoy vamos a hablar de dos de los proyectos de investigación y desarrollo tecnológico, que es parte del Programa de Nación, de los 100 puntos de compromiso con el pueblo de México.
+Para ello, está con nosotros la doctora Rosaura Ruiz, secretaria de Ciencia, Humanidades, Tecnología e Innovación; está también el doctor Arturo Reyes Sandoval, director general del Instituto Politécnico Nacional; el maestro Ramón Jiménez, director general del Tecnológico Nacional de México.
+Y como parte, o el liderazgo que llevan los dos proyectos que vamos a presentar hoy está Roberto Capuano y Rafael Garayoa, que son: Roberto es el coordinador general del proyecto Olinia y también Rafael es coordinador del proyecto.
+Y después, Edmundo Antonio Gutiérrez Domínguez, que es director general de InnovaBienestar, y que nos va a hablar del proyecto del Taller de Diseño de Semiconductores, que van muy avanzados.
+Y nos visitan el día de hoy investigadores e investigadoras que son parte de ambos proyectos.
+Estamos muy contentos. Va muy avanzado y el día de hoy presentamos estos avances.
+Y está Miguel Elorza, también, para cerrar con el “Detector de mentiras”.
+—Lo dejaron ahí atrás, doctor, a usted. Pásese para adelante, para que…—
+—Bueno. Rosaura—.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+Con su permiso, Presidenta.
+Buenos días, todos y todas.
+La Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la Secihti, además de dar continuidad y fortalecer todos los programas que tenía el Conahcyt, como becas de posgrado, posdoctorado, el Sistema Nacional de Investigadores e Investigadoras, los proyectos de investigación, el apoyo a todas las instituciones, entre otros, estamos impulsando nuevos proyectos en los que colaboramos con las Secretarías de Estado y las entidades federativas.
+Asimismo, estamos impulsando la formación de cuadros especializados desde el bachillerato hasta el posgrado en temas prioritarios para el país; conducimos las nuevas universidades también, de Rosario Castellanos.
+Además, conducimos proyectos estratégicos encargados por la Presidenta, que nacen de una articulación inédita entre las necesidades reales de la sociedad mexicana e instituciones como la UNAM, Instituto Politécnico Nacional, el Tecnológico Nacional de México y de más universidades, y también los Centros Públicos de Investigación de la Secihti.
+Por ejemplo, hoy les vamos a presentar el estado actual de dos de esos proyectos: Kutsari, para el diseño y la fabricación de semiconductores; y Olinia, para la construcción de un vehículo eléctrico.
+Es importante destacar que el desarrollo de las ciencias básicas, como la física, las matemáticas, la química, la biología, etcétera, también las ciencias sociales, son indispensables para el avance de la tecnología.
+Por ejemplo, los semiconductores del proyecto Kutsari son el resultado fascinante de la física de partículas: los chips, los microprocesadores, que son como pequeñísimas computadoras con miles o millones de transistores integrados apenas en un área pequeñísima como la que tiene nuestro teléfono celular y otros instrumentos, surgen precisamente de los semiconductores de ese estudio de la mecánica cuántica.
+Por su parte, Olinia nace del principio rector que guía este gobierno: “La ciencia como fuente de bienestar social y prosperidad compartida”. Esta tecnología está pensada para ser un vehículo para múltiples usos, más seguro, más ecológico y más accesible para miles de personas.
+Este proyecto propone soluciones hechas en México, para México, y lo hace con un propósito claro de mejorar la vida de quienes lo utilizan.
+Lo que verán adelante sobre Olinia y Kutsari, además de ser avances de los proyectos prioritarios, son el inicio de una nueva etapa del país, en donde la ciencia y las humanidades se convierten en justicia social, y la tecnología en soberanía.
+Muchas gracias.
+Va a empezar Kutsari con Edmundo. —Por favor. ¿Puedes pasar?—
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Vamos a ver el video.
+—Pasa, Edmundo―.
+---
+DIRECTOR GENERAL DE INNOVABIENESTAR DE MÉXICO, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ
+―Por favor, el video―.
+---
+VOZ MUJER
+Kutsari, que significa “arena” en p'urhépecha, es un proyecto estratégico impulsado por la Presidenta Claudia Sheinbaum Pardo y coordinado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti), que busca incorporar a México en la cadena de proveeduría de semiconductores y avanzar hacia la soberanía tecnológica.
+---
+DIRECTORA DEL INSTITUTO DE FÍSICA DE LA UNAM, MERCEDES RODRÍGUEZ VILLAFUERTE
+Los semiconductores son materiales que tienen propiedades muy interesantes. A diferencia de los materiales conductores, en donde los electrones transitan libremente o los aislantes como plásticos en donde los electrones no pueden transitar en ese material, en los semiconductores, a través de diferentes estímulos externos, podemos permitir o detener el tránsito de los electrones.
+---
+DIRECTOR GENERAL DEL INAOE, DAVID SÁNCHEZ DE LA LLAVE
+Y esa propiedad la hace muy útil para muchos de los dispositivos y muchos de los avances tecnológicos que hoy gozamos en la sociedad.
+---
+CINVESTAV JALISCO, RAMÓN PARRA MICHEL
+Quizá el circuito más conocido es el microprocesador, que está en todos los equipos electrónicos que realizan cierta inteligencia. La computadora, los celulares, las tablets,en las pantallas, todo lo que vean con electrónica, que tiene algún grado de interacción con el ser humano, todo conlleva semiconductores.
+---
+COORDINADOR DEL PROYECTO KUTSARI, EDMUNDO GUTIÉRREZ DOMÍNGUEZ
+Los semiconductores se utilizan para fabricar circuitos integrados o chips. En México tenemos aproximadamente 4 décadas de experiencia a nivel académico y de investigación en el diseño de circuitos integrados.
+El objetivo principal de Kutsari es tomar estos grupos, estas personas con capacidad de desarrollo tecnológico de alto nivel y concretar un centro que pueda competir a nivel industrial y nivel global.
+---
+UNIVERSIDAD DE SONORA, ROBERTO GÓMEZ FUENTES
+Fabricar nuestros propios semiconductores, tener nuestra cadena de diseño y fabricación de estos circuitos para poder generar nuestra propia tecnología.
+---
+VOZ MUJER
+Kutsari articula capacidades existentes en tres nodos para conformar el Centro Nacional de Diseño de Semiconductores en Puebla, Jalisco y Sonora.
+---
+VOZ HOMBRE
+El grupo es multidisciplinario, porque llegar a generar un circuito integrado es una tarea ardua que requiere mucho talento y mucho compromiso. Estas personas son, yo diría, las más talentosas como grupo de este país.
+---
+INSTITUTO NACIONAL DE ASTROFÍSICA ÓPTICA Y ELECTRÓNICA, JULO NOEL HERNÁNDEZ PÉREZ
+Y creo yo que cuando quieres realizar o afrontar un reto, como lo es el proyecto Kutsari, tiene que escogerse al mejor equipo.
+---
+GLOBAL FOUNDRIES, FERNANDO GUARÍN
+Este proyecto Kutsari es verdaderamente una apuesta muy inteligente, por parte del gobierno mexicano, para entrar a competir en el ámbito de diseño de semiconductores y tener presencia a primer nivel en el mundo actual.
+---
+INSTITUTO NACIONAL DE ASTROFÍSICA ÓPTICA Y ELECTRÓNICA, ALEJANDRO BAUTISTA CARRILLO
+Estamos en un momento muy importante porque tenemos la gran ventaja de que a nivel gobierno se tiene la voluntad de hacer. Hay industria que está teniendo ganas de venir y nosotros, los investigadores o la academia, estamos colaborando.
+---
+VOZ HOMBRE
+Por primera vez, esta parte del diseño de circuitos integrados, se está tomando la relevancia que realmente tiene en el mundo.
+---
+INSTITUTO NACIONAL DE ASTROFÍSICA ÓPTICA Y ELECTRÓNICA, ALEJANDRO SILVA
+Ser parte de un proyecto estratégico de la primera Presidenta de México es un reto que todos en Kutsari estamos dispuestos a llevar a buen fin, para lograr la soberanía de México en el área de diseño de circuitos integrados.
+---
+DIRECTORA DEL INSTITUTO DE FÍSICA DE LA UNAM, MERCEDES RODRÍGUEZ VILLAFUERTE
+Tenemos las bases, tenemos el entusiasmo y tenemos la capacidad humana y de infraestructura para poder desarrollar y llegar a algo real que nos empuje como país en donde comencemos a hacer este gran desarrollo que es más que necesario.
+---
+VOZ MUJER
+Gobierno de México.
+---
+DIRECTOR GENERAL DE INNOVABIENESTAR, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ
+Muy buenos días a todas y todos. Muy buenos días, Presidenta.
+Es un honor y es un placer estar aquí por segunda vez y darles un reporte de actividades.
+Muy buen día, doctora Rosaura Ruiz Gutiérrez, secretaria de Ciencia, Humanidades, Tecnología e Innovación.
+Buen día a todos los que nos acompañan aquí al frente y a la audiencia en general.
+El día de hoy voy a hacer un reporte de actividades realizadas, del mes de febrero al mes de julio. Voy a presentar cinco puntos de manera breve.
+Voy a hablar sobre las tres unidades de diseño del Centro Nacional de Diseño de Semiconductores Kutsari, ubicadas en en el estado de Puebla, en particular en la ciudad de Cholula; en el estado de Jalisco, en la ciudad de Guadalajara; y en el estado de Sonora, en la ciudad de Hermosillo.
+Les hablaré también un poco sobre ejemplos, un ejemplo de innovación ―por favor, si regresan a donde estábamos―. Les hablaré también sobre un ejemplo de innovación que nos ha permitido llevar la investigación y el desarrollo tecnológico del nivel académico a un prototipo que puede ser aplicado en el sector salud.
+Les mostraré también un poco sobre vinculación, lo que hemos hecho en vinculación, las acciones en proceso hacia diciembre del año 2025, actual.
+Y, finalmente, un cronograma de actividades.
+Bien, lo que quiero comentar aquí básicamente es que tenemos tres unidades con las cuales hemos trabajado.
+Y quiero, en este momento, reconocer a los gobiernos de los estados de Puebla, Jalisco y Sonora por el apoyo decidido que nos han estado dando, no solamente con apoyo económico, sino con todo el apoyo logístico, en apoyo en infraestructura y, sobre todo, lo más importante, el apoyo en recursos humanos de alto nivel tecnológico.
+En este momento, en Puebla estamos listos para la inauguración, Doctora, Presidenta, estamos listos. Lo van a ver en las imágenes siguientes.
+En Jalisco estamos trabajando de manera articulada con el Cinvestav, Unidad Guadalajara. Tenemos también ya un espacio disponible ahí para empezar a trabajar.
+Y con Sonora, firmamos un convenio que nos va a permitir la instalación de la unidad en la Universidad de Sonora, en la ciudad de Hermosillo.
+Esto fue lo que hemos realizado durante el mes de julio… perdón, de febrero a julio en cuanto a establecer las condiciones básicas, el diálogo y los convenios con estos tres gobiernos para iniciar operación en estas tres unidades.
+¿Por qué Puebla?
+Lo que están mirando ahí son unas imágenes del espacio físico con el cual ya contamos en Puebla, gracias al apoyo decidido del gobierno de Puebla. Estas instalaciones están ubicadas en la ciudad de Cholula. Y básicamente hemos elegido Puebla por ser un polo académico generador de talento de alto nivel en diseño de dispositivos semiconductores.
+Conjuntamente en estos tres lugares tenemos una experiencia de más de 4 décadas en el sector académico, de investigación y de desarrollo tecnológico.
+Cholula. Cholula  representa mucho. Es la combinación del rescate de toda una tradición, una cultura, reflejada en la ciudad milenaria, la ciudad más antigua del Continente Americano que ha estado continuamente habitada y que ha sido un pilar para el desarrollo de la cultura, el desarrollo de la identidad de México; y sobre todo, porque se caracterizó por ser un centro religioso —en su momento—, por ser un centro de gobierno y por ser un centro de intercambio comercial.
+Hoy en día rescatamos eso ubicando el centro en Cholula, además de que contamos con centros de investigación y la Universidad Autónoma de Puebla, que nos permite nutrirnos de recursos humanos.
+Guadalajara. El estado de Jalisco, en general y la ciudad de Guadalajara se han caracterizado desde hace ya muchas décadas de ser un polo de atracción de la industria de la electrónica y de los semiconductores en general.
+Y las universidades y los entes académicos que están en Guadalajara, como es la Universidad de Guadalajara, el Cinvestav y muchos otros, como el ITESO también en el sector privado, han realizado un trabajo de interacción con el sector industrial que ha establecido las condiciones mínimas necesarias para poder hacer ese enlace entre la academia y la industria. Por esa razón elegimos también Guadalajara, porque complementa el desarrollo de talento humano en Puebla.
+¿Por qué Sonora?
+Sonora básicamente es un estado que tiene un proyecto muy interesante, el Plan Sonora, que básicamente, en el caso específico de electrónica y semiconductores tiene una relación estrecha con el estado de Arizona, en Estados Unidos, donde se está dando un desarrollo de la industria de semiconductores muy fuerte.
+En Sonora contamos no solamente con el apoyo del gobierno del estado de Puebla, sino de la Universidad de Sonora, del Tecnológico Nacional de México y muchas otras instituciones locales con las cuales vamos a estar participando para generar y para empezar, en este mes de agosto, con un programa de capacitación acelerada, no solamente para los investigadores que se están uniendo en Sonora, sino para otros investigadores y estudiantes de todo el país.
+En cuanto a la innovación, es importante mencionar aquí que este es un asunto inédito en México, al menos en el caso de la electrónica y los semiconductores. Es la primera vez que, gracias a la iniciativa y a la decisión política del actual Gobierno Federal de México y la participación de varios estados de la República, se está logrando enlazar todo ese conocimiento y desarrollo de talento humano, que ha venido generándose en el sector académico con el sector industrial para identificar algunos casos donde se requiere generar soluciones.
+Aquí me refiero al caso específico, solamente como un ejemplo de muchos que tenemos en México: la investigación básica en materiales del Centro de Investigación de Materiales Avanzados, ubicado en Chihuahua, y que es uno de los centros públicos de la Secihti; junto con el desarrollo tecnológico de un chip, de un circuito integrado diseñado en INAOE.
+Y finalmente, hacer la parte de desarrollo de ingeniería para terminar con la creación de un prototipo de un instrumento para detección de creatinina en saliva para el sector salud.
+Y estas son unas imágenes que les muestran lo que hemos estado haciendo en esta etapa de articular y enlazar de manera complementaria nuestras actividades en México.
+Lo que ven en la parte central es investigación básica, investigación fundamental en ciencia de materiales. Y eso es algo que en México hemos hecho por muchas décadas, la investigación y el desarrollo tecnológico en México está muy bien reconocido y ahora, es el momento de enlazarlo para resolver problemas que tengamos a nivel nacional o a nivel global.
+Ahí lo que ven ustedes es una imagen del desarrollo de un sensor de creatinina que detecta la presencia y la concentración o las características de la creatinina en saliva del ser humano.
+¿Qué se hizo?
+Ese sensor, la información que genera ese sensor tiene que ser leída por un chip y procesada por un chip; el chip fue diseñado en INAOE. Lo ven ahí arriba en la imagen, a la derecha, y ven que es un circuito integrado, es un chip que apenas tiene 2.5 por 2 milímetros, es extremadamente pequeño, y ahí se integran todas estas funcionalidades.
+Finalmente, esto se integra en una tarjeta PCD.
+Y como ven, en la parte izquierda, tenemos el desarrollo del instrumento para censado universal, en este caso, de creatinina.
+Y ese es uno de los ejemplos de la integración y la articulación complementaria de estas actividades.
+Y solamente para darles un ejemplo; cuando yo era estudiante en la escuela secundaria y en la escuela preparatoria, tomé talleres de electrónica y me tocó estudiar, analizar y construir circuitos con esto, con bulbo. Un bulbo…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Ya somos de otra época—.
+---
+DIRECTOR GENERAL DE INNOVABIENESTAR, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ
+Sí, desafortunadamente esto delata nuestra edad.
+Fíjense, voy a poner un número en cuestión de tiempo, esto probablemente dejó de usarse hace 40, a 45 años, aunque todavía se puede encontrar en algunas aplicaciones específicas.
+Pero imagínense construir ese chip con bulbos. Ese chip que ven ahí tiene del orden —es un chip muy sencillo, eh— solamente tiene del orden de unos 5 mil o 10 mil transistores; imagínense montar ese circuito integrado, ese chip, con 10 mil de estos bulbos, sería una cosa tremendamente enorme.
+Con esto lo que quiero comentarles es que apenas en unas 4 o 5 décadas el desarrollo tecnológico ha sido impresionante; impresionante porque hoy en día podemos integrar —como ya lo comenté— en un circuito integrado como este. Aquí tengo dos ejemplos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Estos los hicieron aquí en…—
+---
+DIRECTOR GENERAL DE INNOVABIENESTAR, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ
+Eso está ahí.
+Esos son algunos de los chips de ejemplo que se han diseñado y algunos fabricados en México y otros fuera de México. Cuando digo “fabricados en México” me refiero a un prototipo de un laboratorio de investigación que hay en el INAOE, en Puebla; en el CIDESI, en Querétaro; y parcialmente también la Universidad Autónoma de Ciudad Juárez, y en algunos otros espacios y lugares en México.
+Entonces, con esto quiero remarcar que introducirse en el sector de semiconductores implica mantener la investigación, el desarrollo tecnológico y la formación de talento de manera dinámica y permanente, para que nutra de nuevo conocimiento al desarrollo de la industria y sirva ésta, para sustentar el desarrollo de México.
+En vinculación, estamos conscientes de que este proyecto para que tenga un beneficio en nuestra sociedad, en el entorno nacional y global, tenemos que vincularlos. Y por eso, hemos tenido diálogos con la Asociación Coreana de Semiconductores; con ellos estamos explorando posibles colaboraciones en el ámbito de diseño y fabricación de chips, de circuitos integrados.
+Hemos iniciado también diálogos con otras empresas, no solamente con empresas de Asia, sino también en Europa, con la empresa Siemens en una posible colaboración en diseño; y sobre todo, apertura a la cartera de clientes para empezar a darle una salida e iniciar el proceso de autosustentabilidad económica del Centro Nacional de Diseño de Semiconductores.
+En Bélgica también tenemos conversaciones con el IMEC, que es un Centro de Desarrollo Tecnológico de Semiconductores. Estamos trabajando, estamos en diálogo con ellos.
+Internamente, en el país hemos estado trabajando con la CANIETI, con la Cámara Nacional de la Industria de la Tecnología y la Información; con la Secretaría de Economía, con la Embajada de Estados Unidos en los foros binacionales de semiconductores para tratar de integrar también esta iniciativa de manera más allá de nuestras fronteras.
+Y también se firmó un convenio con la empresa Intel con la posibilidad de acceder a su tecnología de 18 ángstroms, es decir, 1.8 nanómetros.
+Bien, estas son las acciones que tenemos hacia finales del año ´25.
+Vamos a tener una reunión con personas de la Unión Europea.
+Tenemos unos primeros diálogos con una empresa mexicana que se llama Circuify Semiconductors, pero no lo voy a mencionar aquí.
+―La que sigue por favor, para cumplir con el tiempo―.
+Y estas son las acciones que tenemos hacia para finalizar el año 2025 y el cronograma que tenemos hacia el 2030 ―por favor―.
+Esto es en el 2025; no se ve muy bien, pero el objetivo es llegar a finales de este año con la firma de al menos un convenio o un contrato para el diseño del primer chip comercial de nuestro Centro.
+Hacia el 2030 estamos estimando que tendremos autosustentabilidad del Centro de Diseño, cuando ya tenga del orden de 100 diseñadores en el 2027.
+Y finalmente, hacia el 2030 seremos un Centro que no solamente prestará servicios, sino también generará mucha propiedad intelectual que podrá ser comercializada.
+Esto es en cuanto a la Fábrica de Semiconductores, la cual podremos… Es la segunda fase del proyecto Kutsari, y la podremos analizar en otro momento.
+Muchas gracias por su atención.
+Y solamente quiero terminar mi intervención haciéndole un pequeño obsequio a nuestra Presidenta: le quiero regalar este libro que habla un poco sobre la industria de semiconductores y su impacto a nivel social.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Es de él. Gracias, Edmundo—.
+Adelante, Roberto.
+---
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP
+Buenos días. Señora Presidenta. Con su permiso.
+Hace unos meses, desde este mismo lugar expusimos nuestra misión de crear la primera armadora mexicana de minivehículos eléctricos diseñados por ingenieros e ingenieras mexicanas. Hoy venimos a dar una actualización de cómo estamos convirtiendo Olinia en una realidad.
+Desde el inicio entendimos que la misión no podía ser simplemente fabricar un vehículo eléctrico; nuestra misión contenía una promesa fundamental: ofrecer una movilidad sin emisiones, al alcance de millones de mexicanos y mexicanas.
+Olinia tiene un propósito profundo: usar la ciencia y la tecnología para mejorar la vida de las personas, específicamente la forma en la que nos movemos.
+La necesidad más latente la encontramos en lo que se llama “movilidad de primera y última milla”. Son esos trayectos cortos, pero vitales, que millones de mexicanos realizan todos los días para llevar a los niños a la escuela, para hacer el mandado o para conectar con vías principales de transporte; son viajes que hoy dependen de soluciones con un ingenio admirable, pero que frecuentemente carecen de seguridad y formalidad.
+Para diseñar vehículos que realmente sirvan a México, sabíamos que la respuesta estaba en la gente.
+Por eso, nuestro equipo de ingenieros y diseñadores se sumergió en la realidad, viajamos en mototaxi en varias ciudades del país, hemos conversado durante horas con conductores, pasajeros y dueños de flotillas. Documentamos sus jornadas de trabajo, que a menudo superan las 10 horas; sus frustraciones cuando los vehículos se descomponen o porque son inseguros; pero también su ingenio y la fuerza con la que buscan salir adelante.
+Nuestro acercamiento al diseño no es desde la ingeniería, sino desde la empatía, centrados en torno a las necesidades de los y las mexicanas.
+Para atacar este reto, nuestra estrategia se enfoca en el diseño de una plataforma vehicular modular que permite construir dos herramientas de trabajo:
+La primera es un vehículo de transporte de pasajeros que represente una verdadera alternativa al mototaxi, una opción más segura tanto para quienes la conducen como para quienes la usan para viajar.
+Para las personas usuarias ofrecerá mayor comodidad y amplitud, se adaptará a la variedad de usos que hoy demandan y tendrá un costo igual o menor al de hoy.
+Para las y los conductores será un vehículo más cómodo para sus largas jornadas, más moderno, pero, sobre todo, más rentable gracias a una reducción drástica en el costo de operación.
+La segunda, un vehículo de uso comercial para reparto, orientado a atender la creciente necesidad de transporte de mercancías en entornos urbanos.
+Queremos crear una herramienta para acelerar el crecimiento de los pequeños comercios, que son un motor clave en nuestra economía; y también, que las empresas que tienen necesidades de logística urbana tengan un vehículo que esté diseñado para nuestras calles, que lleve productos hasta zonas de difícil acceso y que sea más rentable.
+Tras décadas de operar en México, la industria automotriz ha florecido y con el paso del tiempo se ha formado un talento excepcional, tanto en la industria como en la academia.
+El proyecto Olinia ha sido recibido con los brazos abiertos y gran expectativa, por parte de los mexicanos que trabajan en la industria automotriz. Todos nos dicen lo mismo: “México ya se había tardado en lanzar un proyecto así”.
+Nos hemos reunido con clústers automotrices y empresas mexicanas que nos han hecho evidente las impresionantes capacidades de fabricación y diseño de partes que hay en México.
+Olinia será orgullosamente un coche Hecho en México. Y nuestro país podrá tener una marca de vehículos que refleje nuestro talento y nuestra cultura, primero aquí y más adelante en otras partes del mundo.
+Ahora, para hacer realidad este proyecto hemos recurrido a los mejores. Conformamos un equipo multidisciplinario con el mejor talento del Tecnológico Nacional de México, del Instituto Politécnico Nacional, la UNAM y los Centros Públicos de Investigación a cargo de la Secihti, en un ejercicio nunca antes visto en México: Todos colaboramos en un solo equipo para lograr la misión y cumplir la promesa de Olinia.
+Algunos miembros del equipo me acompañan el día de hoy aquí, por lo que aprovecho para dar un reconocimiento a las más de 70 personas de 17 estados de la República, de todas estas instituciones que hoy conforman nuestro equipo de trabajo. Todos, ellos y ellas, son personas de gran talento y quienes cargan en sus hombros, junto conmigo y con Rafael la responsabilidad de cumplir. Confiamos en su capacidad de ingenio para demostrar que lo hecho en México está bien hecho.
+Señora Presidenta:
+Hoy comparto que hemos pasado de la planeación a la acción. Ya establecimos nuestro Centro de Diseño e Ingeniería en el Tecnológico de Puebla, un espacio de innovación que ya está en pleno funcionamiento y cuyo edificio se encuentra en construcción dentro del campus del mismo Tecnológico de Puebla. Esto lo logramos con ayuda de la secretaria Rosaura Ruiz, el apoyo fundamental de las instituciones que ya mencioné y sus directores que hoy nos acompañan aquí, así como el compromiso que hemos recibido de los estados de Puebla y Sonora.
+Hoy quiero mostrar una prueba de ese trabajo. Es un vistazo a la seriedad, la disciplina y el corazón con el que este equipo de mexicanos está trabajando para ustedes.
+—Adelante—.
+---
+COORDINADOR DEL PROYECTO, JAVIER RAFAEL GARAYOA GUAJARDO
+Estamos desarrollando un vehículo para que todos en México puedan acceder a una forma de transporte que sea sustentable, que sea accesible y que sea amigable con el medio ambiente.
+---
+LÍDER DE SISTEMA DE GESTIÓN INTEGRAL, CYNTHIA LEMUS
+Es un minivehículo eléctrico ensamblado en México con mexicanos, desde cero, desde la parte de diseñarlo, trabajar hacia prototipos y posteriormente, la producción para el armado en un primer término.
+---
+LÍDER DE DISEÑO AUTOMOTRIZ, FERNANDO OCAÑA ESPINOSA
+Tenemos que diseñar un vehículo ultraligero, y ese es un reto considerable. Tenemos que integrar muchas tecnologías que ya existen, y estamos trabajando ya en la construcción de un prototipo que nos va a llevar a una flotilla piloto que se va a presentar en junio de 2026.
+---
+VOZ MUJER
+Olinia es desarrollado en las instituciones de educación superior del país y coordinado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti), mediante un modelo de colaboración interinstitucional que articula las capacidades científicas y tecnológicas nacionales.
+---
+COORDINADOR DEL PROYECTO, JAVIER RAFAEL GARAYOA GUAJARDO
+Olinia se ha vuelto un proyecto emblemático en el área de ciencia y tecnología porque le ha dado orientación a diversas instituciones, y a sus programas académicos y de investigación alrededor de un propósito común, que es desarrollar un vehículo que logre llegar al mercado, generar ingresos, y que podamos reinvertir esos ingresos en nuevos programas de innovación para tener más desarrollos tecnológicos exitosos en el futuro.
+---
+VOZ MUJER
+Actualmente, los trabajos del proyecto se realizan en el Centro de Diseño Olinia, ubicado en el Instituto Tecnológico de Puebla. Aquí convergen más de 50 especialistas de instituciones como el TecNM, el IPN, la UNAM y los Centros Públicos de la Secihti.
+---
+LÍDER DE CADENA DE SUMINISTRO, KAREN ITZEL VÁZQUEZ SAN AGUSTÍN
+Creo que nos quitamos la camiseta de cada institución, y en este lugar y en este momento somos Olinia y eso nos hace que, digamos, dejemos a un lado la burocracia porque tenemos claro que nuestro objetivo es el desarrollo del vehículo.
+---
+DISEÑADOR CAD, MAURICIO A. MANJARREZ JIMÉNEZ
+El proyecto se encuentra en un estado de conceptualización ya más avanzado, ya no es solo una idea. Estamos entrando en lo que sería la ingeniería a detalle, de cómo y en qué forma van a ir cada una de esas piezas.
+---
+DISEÑADOR INDUSTRIAL, GUILLERMO E. BAUTISTA ORDUÑA
+Pero ya aterrizándolo más en ingeniería, ya teniendo modelos tridimensionales, pensando más en los procesos de fabricación para poder validar con estos usuarios, obtener ese feedback necesario.
+---
+VOZ MUJER
+El Centro de Diseño Olinia, que pronto contará con instalaciones definitivas, es el corazón donde la ciencia y la tecnología se transforman en bienestar para las y los mexicanos.
+---
+LÍDER DE INTEGRACIÓN MECÁNICA, JOSÉ LUIS RUEDA ARREGUÍN
+Confiar este proyecto a gente mexicana va a demostrar que México tiene esa capacidad de poder diseñar o trabajar como un país de primer mundo, y demostrarle a todos los demás que tenemos conocimiento, la capacidad.
+---
+INGENIERO DE PROCESO, FRANCISCO REFUGIO TORRES CHÁVEZ
+Veo muchísimas capacidades, veo muchas ganas. El tiempo apremia, y los minutos y las horas son escasos, pero los ánimos están muy por arriba.
+---
+INGENIERA DE PROCESOS, IMELDA VEGA PLATAS
+Es un orgullo muy grande, pero creo que está directamente relacionado con el nivel de responsabilidad para poder estar a la altura de lo que se exige de nosotros.
+---
+LÍDER DE INTEGRACIÓN DE SISTEMAS, DAVID ALONSO TAPIA ABREGO
+Nos mueve el hecho de realizar un proyecto que va más allá de nuestra propia institución, sino va por toda la nación.
+---
+VOZ MUJER
+Gobierno de México.
+---
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP
+Lo que acaban de ver es el cerebro detrás de Olinia, la estrategia de colaboración y la unión entre la ingeniería, la tecnología y el diseño para crear un producto viable, factible y emocionante.
+Hoy queremos compartir que este septiembre próximo estaremos develando el diseño de los primeros vehículos Olinia. Les puedo adelantar que serán eléctricos, ligeros, pero con la potencia suficiente para subir las pendientes; que podrán recargarse en cualquier enchufe convencional, y su costo de operación será menor al de cualquier coche a gasolina e inclusive que al de una moto.
+Pero, además de la ingeniería, un proyecto de esta trascendencia para que realmente se convierta en un Proyecto de Nación necesita algo más.
+Nacimos con el nombre “Olinia”, derivado de ollin, la palabra náhuatl para “movimiento”. Es un recordatorio permanente de que existimos para crear tecnología para mover a los mexicanos, pero también refleja nuestro arraigo y el orgullo en la herencia de nuestro pasado.
+Este logotipo que ven aquí es nuestra firma comercial. Cada trazo de este logotipo fue pensado para evocar un equilibrio entre la precisión de la ingeniería y de la calidez humana. Cuando vean este logotipo verán nuestra promesa de crear tecnología centrada en las personas.
+Pero una firma no es suficiente; los grandes proyectos tienen un símbolo, un ícono, que resuena sin necesidad de palabras. Por eso, buscamos ese ícono en el corazón de nuestra cultura, y lo encontramos, lo encontramos en la magia, el color y el ingenio de los alebrijes, esas criaturas fantásticas nacidas en Oaxaca, de los sueños, en ellos vimos la combinación perfecta de fuerza, fantasía y movimiento.
+Por lo que hoy, señora Presidenta, quiero pedirle el honor de develar el emblema que irá en todos los vehículos Olinia.
+—Por favor, Rafael—.
+Este emblema es nuestra liebre alebrije. ¿Por qué una liebre? Porque es un animal que simboliza perfectamente la inteligencia práctica, la adaptabilidad, el aprovechamiento eficiente de la energía. Nos identificamos con su dinamismo que, como México, es imparable.
+Y sus alas representan la libertad de moverse, de trascender obstáculos, de nuestra capacidad de soñar. ¿Son un guiño a nuestra águila?, sí, pero una forma única y propia, simbolizan un nuevo tipo de vuelo, el vuelo de la innovación.
+Este alebrije será el sello que garantiza que es un producto auténtico, un símbolo de calidad y de la transformación de México.
+Señora Presidenta:
+Esto es Olinia, un esfuerzo en equipo, con el alma de México. Y aquí estaremos de regreso pronto.
+Muchas gracias.
+¿Presentamos a los directores, que pasen los compañeros?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Sí. Vénganse acá de este lado—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Quién va a hablar primero, Poli o…?, ¿Poli?
+―Ándale―.
+---
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP
+—Traemos unas gorras que mandamos a hacer especialmente para este evento. Se las vamos a entregar después del evento, a todos los que están aquí—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Adelante el Poli, doctor―.
+---
+DIRECTOR DEL INSTITUTO POLITÉCNICO NACIONAL, ARTURO REYES SANDOVAL
+Con su permiso, querida Presidenta. Buenos días a todas y a todos.
+En nombre del Instituto Politécnico Nacional quiero expresar nuestro orgullo por ser parte de Olinia, un proyecto trasformador que posiciona a México como líder en innovación y en la movilidad eléctrica.
+Sin duda, las instituciones de educación superior, como el Instituto Politécnico Nacional y el Tecnológico Nacional de México, son claves para que Olinia sea una realidad viable. Ambas instituciones estamos aportando soluciones basadas en el conocimiento científico, pero también en la aplicación práctica de ellos.
+Hay que recordar, y es algo que poco se sabe, que en los años de 1973 y 1974, el Instituto Politécnico Nacional hizo la conversión, por primera vez en México, de un auto de combustión a un auto eléctrico. Ese auto eléctrico circuló durante 60 minutos por las calles de la Ciudad de México a una velocidad de 50 a 60 kilómetros por hora.
+A 50 años de que eso sucediera, ahora somos parte de este gran proyecto. Y hemos formado una gran cantidad de estudiantes y de investigadores, de científicos con la capacidad suficiente para participar en un proyecto de talla mundial.
+De las seis áreas principales que conforman el desarrollo de este vehículo, el Instituto Politécnico Nacional ha asumido el liderazgo en tres de ellas: el diseño exterior; el diseño interior; y el desarrollo de los sistemas embebidos, ello consiste en el software a través del cual será posible el control, comunicación, operación y monitoreo de una unidad.
+Es importante destacar que nuestras labores no se limitan al diseño. Estamos generando un catálogo integral de infraestructura y equipos para la construcción y prueba de todos los componentes; también, desarrollando el cargador del vehículo; además, hemos asumido la responsabilidad de crear un sistema de gestión integral de calidad para todos los procesos.
+Sin duda, Presidenta, el corazón de este proyecto es la gente que está participando en él, con la firme convicción de mostrar que en México hay capacidad tecnológica y mucha capacidad para la innovación también.
+De las 82 personas que colaboran a nivel nacional, 33 pertenecen al Instituto Politécnico Nacional. Ellos incluyen investigadores e investigadores de primer nivel; pero también nos da gusto que participan alrededor de 12 estudiantes de excelencia del posgrado del mismo Instituto Politécnico Nacional; y una persona como parte de los PAE, del Personal de Asistencia a la Educación.
+También participan como consultores expertos, mostrando el prestigio en el sector automotriz que hemos forjado a lo largo de nuestra historia, pero también nuestra capacidad para asumir los retos actuales, como la movilidad sustentable.
+Y hay que destacar que contamos con una escuela específica para esos fines: la Unidad Profesional Interdisciplinaria de Energía y Movilidad, la UPIEM; que surgió siguiendo una idea, y nosotros la tomamos como una instrucción de la Doctora Claudia Sheinbaum, en aquel entonces como jefa de Gobierno de la Ciudad de México, inicia actividades la UPIEM.
+Además, a partir del 18 de agosto de este año, se impartirá la especialidad de vehículos híbridos y eléctricos.
+En las próximas semanas este semillero de talento Politécnico dará un primer resultado: el diseño exterior ya concluido.
+Por otra parte, para garantizar la viabilidad a largo plazo, algunos de los especialistas involucrados en Olinia han viajado a China y Taiwán con el objetivo de explorar el mercado de proveedores y también tejer alianzas estratégicas.
+El Instituto Politécnico Nacional está a cargo del análisis también del mercado y plan de negocios para minivehículos eléctricos en México; de este análisis, tengo el placer de informar que tenemos ya un avance del 90 por ciento. Una vez que se concluya, nos permitirá dimensionar el tamaño y la localización del mercado.
+Además, trabajamos en el anteproyecto de un plan de negocios para una planta armadora, que incluye la logística, la identificación de ubicaciones estratégicas, la disponibilidad de mano de obra calificada, entre otros aspectos.
+Aunque la sede principal del proyecto se encuentra en el estado de Puebla, quiero destacar que dos de las sedes operativas se ubican en la Ciudad de México, y son coordinadas directamente por el Politécnico, esto nos permite una integración profunda y una supervisión que sea constante.
+Finalmente, quiero decirles que Olinia no es solo el resultado de la ingeniería, sino de la investigación, el análisis de datos y una colaboración que está siendo muy efectiva entre las diversas instituciones que participan.
+Es un proyecto transformador que posiciona a México en el desarrollo de la movilidad eléctrica como un líder regional y centro de innovación tecnológica, donde el Instituto Politécnico Nacional refrenda su misión histórica como brazo científico y tecnológico del Estado mexicano, cumpliendo con su compromiso de poner la técnica al servicio de la patria.
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+―Adelante, Ramón―.
+---
+DIRECTOR GENERAL DEL TECNOLÓGICO NACIONAL DE MÉXICO, RAMÓN JIMÉNEZ LÓPEZ
+Gracias. Buenos días. Con su permiso, Presidenta.
+Para nosotros, como Tecnológico Nacional de México, es un gran orgullo participar en este proyecto estratégico que ha diseñado la Presidenta de nuestro país.
+Nos recuerda aquellos años en que el Instituto Politécnico Nacional, después de la Expropiación Petrolera, tuvo la capacidad con la formación de ingenieros, técnicos de alto nivel para sacar adelante a nuestro país.
+Hoy es un momento nuevo, donde la historia aparentemente se repite, pero sobre una base superior, en el desarrollo técnico, científico independiente de nuestra patria. En ese terreno, el Tecnológico Nacional de México, de los 254 Institutos Tecnológicos que lo conforman: 20 de ellos están participando activamente con 34 investigadores y científicos de alto nivel.
+Aquí están algunos de los compañeros en la primer fila. Quiero decir que el Tecnológico Nacional de México:
+Como líder de Calidad y Productos está Rafael Lara Hernández.
+Como líder del Tren de Potencia, Pedro Martín García, del Tecnológico de Ciudad Madero.
+El líder de Diseño de Plataforma aquí está con nosotros, Marco Antonio Meraz Melo, del Instituto Tecnológico de Puebla.
+El líder de Escalamiento, René Romero Sánchez.
+El líder de Integración, David Alonso Tapia Abrego.
+Y la líder de Cadena de Suministro, Karen Itzel Vázquez, que están con nosotros.
+Quiero decirles que 34 científicos e ingenieros del Tecnológico Nacional de México han dejado su lugar de residencia, algunos desde el norte, otros desde el sur del país, para concentrarse de tiempo completo en esta tarea de Estado, que es el proyecto Olinia.
+Yo, en primer lugar, quiero agradecer mucho la buena disposición de todos los científicos e ingenieros.
+Y quisiera leer un Acta de inicio, porque son el corazón del proyecto.
+Acta de inicio de actividades del equipo de trabajo convocado por el Tecnológico Nacional de México para el diseño del prototipo de vehículo eléctrico —para ver también y resaltar el cariño, el amor a nuestra patria, el amor por construir un México mejor, que no deje a nadie atrás—:
+En la ciudad heroica de Puebla de Zaragoza de los Estados Unidos Mexicanos, a los 8 días del mes de noviembre del 2024, un grupo de nacionales patriotas, convencidos de que los grandes logros nacionales se cimentan en la colaboración y el compromiso, unidos por los conocimientos científicos y tecnológicos adquiridos en diversas casas de estudios, provenientes del Instituto Tecnológico de diversos rincones del territorio nacional, destacados, entre otros, por la calidad de sus logros académicos en el área de electromovilidad, reunidos en este lugar por convocatoria del Tecnológico Nacional de México.
+En armonía con la propuesta de la Presidenta Constitucional México, la Doctora Claudia Sheinbaum Pardo, de lograr en un mediano plazo la creación de un vehículo eléctrico integrado por tecnología nacional que se ha denominado por ella misma como “Olinia”, que es una forma del verbo náhuatl “para mover”, los firmantes de este documento declaran su propósito de contribuir al desarrollo del vehículo eléctrico Olinia, que será un hito en la independencia científica y tecnológica de México en el ámbito de la electromovilidad, inspirados por la historia de los grandes movimientos nacionales y la determinación del pueblo mexicano.
+Los firmantes visualizan en este proyecto un medio para consolidar la revolución científica y tecnológica de nuestro país hacia un futuro de innovación y sostenibilidad, donde la industria nacional coexista en una sinergia imparable con la academia y con el Estado mexicano.
+Esta acta representa no solo un acontecimiento que quedará registrado en la historia, vivido por las partes aquí presentes, sino una promesa implícita con el pueblo de México, por parte de sus representantes, que han propiciado que este hecho tenga lugar y quede asentado para la posteridad de las generaciones, que tendrán el día de mañana la responsabilidad de mantener esta luz de independencia científica y tecnológica en sus manos, y les permita atravesar por la senda del desarrollo de la humanidad.
+La tinta y el papel que impregnan este documento será testimonial eterno de que este día cada uno de los participantes ha aportado su experiencia, conocimiento y visión de la mejor manera que las condiciones actuales les brindan en la primera mesa de trabajo para la creación del vehículo eléctrico mexicano.
+Los presentes han incitado los acontecimientos para que México se posicione como una nación próspera, que avanza en la historia, fortaleciendo cada día su soberanía e independencia nacional.
+Bajo la directriz de la Presidenta de nuestro país, con la guía de nuestro coordinador general, Roberto Capuano, a quien agradecemos mucho todas sus orientaciones, y en colaboración sistemática y permanente con los científicos e investigadores del Instituto Politécnico Nacional estamos poniendo lo mejor de nosotros para lograr contribuir de manera efectiva a la independencia científica y tecnológica de nuestra patria.
+Muchas gracias. Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Muchas gracias.
+Bueno, como ven, es un proyecto muy hermoso. Son más de 100 científicos, científicas, tecnólogos, tecnólogas, que se están concentrando ya en Puebla, desde hace ya meses; y su objetivo es tener los primeros vehículos Olinia a mediados del próximo año.
+Esa fue la tarea que les dimos, para que, a partir de ahí, podamos empezar a desarrollar la producción de estos vehículos.
+¿Qué características tienen? Eléctricos, no contaminan, se pueden conectar en cualquier conexión de cualquier hogar o de cualquier lugar, y deben tener las características del tipo de vehículo que usamos los mexicanos.
+Entonces, por eso hicieron una investigación de campo tan profunda. De ahí viene el diseño, la ingeniería de detalle, todo lo que están desarrollando.
+Y el costo del vehículo tiene que ser menor a cualquier vehículo comercial en su tipo.
+Entonces, es un reto bastante importante, pero que estamos seguros, o segura, que lo van a cumplir.
+Eso por el vehículo Olinia.
+Y, por otro lado, el Centro Nacional de Diseño de Semiconductores, que también ya va muy avanzado, que tiene tres sedes y que ya comienza a generar diseños de semiconductores, particularmente para el diseño de equipos médicos.
+Estos son 2 de los 12 proyectos estratégicos que planteamos para el gobierno, y ya vamos a ir presentando poco a poco los que siguen.
+Bueno, esta es la información.
+Ahora sí, agradecemos al Poli, al TecNM y a todos los que participan.
+---
+PREGUNTA
+Sobre el tema
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sobre el tema.
+—A ver, el compañero—.
