@@ -1,0 +1,835 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 25 de septiembre de 2025
+Presidencia de la República
+25 de septiembre de 2025
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días. ¿Cómo están, bien?
+---
+PREGUNTA
+Bien, ¿y usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Qué bueno. Bien.
+Bueno, hoy es jueves de Plan México.
+Y tenemos el gusto de tener con nosotros a Keith Harney, que es jefe de Operaciones de CloudHQ —lo voy a decir en español—; José Fraga, que es el vicepresidente para Latinoamérica de la misma empresa; Luis Lugo, director México de la misma empresa; y, por supuesto, el secretario de Economía, Marcelo Ebrard, para platicarnos de una inversión muy importante en nuestro país.
+Sin más, les dejo, primero, al secretario de Economía y luego la presentación de esta inversión nueva, muy importante, de una ruta económica para el país.
+—Adelante, Marcelo—.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Con su permiso, Presidenta. Muchas gracias.
+Bueno, muy buenos días.
+En efecto, el día de hoy vamos a presentar una inversión que tiene implicaciones muy grandes para México, positivas, primero, por su monto; pero, segundo, igual de importante es que lo que nos van a presentar es una inversión para tener un centro de datos con seis diferentes instalaciones, ahora lo va a explicar mister Harney —and thank you very much for your presence here, mister Harney—, voló desde Washington para acompañarnos esta mañana.
+Bueno, y esto va a construir como una carretera para todo lo que signifique Inteligencia Artificial en México.
+Para darnos una idea, cuando utilizamos Chat GPT, cuando utilizamos nuestro celular, los vuelos de los aviones, el servicio de tu refrigerador, bueno, si lo tienes conectado a internet, todo eso depende de centros de datos —como el que ahora nos va a presentar—; y hace posible que la nueva economía que vamos a vivir estos próximos años vinculada a Inteligencia Artificial, México tenga la carretera necesaria; estamos construyendo como la carretera, los puentes, para que pueda funcionar esa nueva economía.
+Entonces, es una inversión de 4.8 billones de dólares que se va a llevar a cabo a partir de ya, en los próximos años. Su sede va a ser en Querétaro. Debo decir que el gobernador Kuri y su equipo han ayudado mucho para que esta inversión se diera.
+Genera 7 mil 200 empleos, 600 empleos de tiempo directo de muy buen nivel.
+Pero, además de ese número, tengan en mente que prácticamente todos los servicios en nuestra vida cotidiana van a estar conectados con ese tipo de centrales de datos, todos, casi todos los servicios: tu laptop, tus sistemas para enviar mensajes, tu acceso a consulta de inteligencia artificial, tus bases de datos de clientes, todo está vinculado a los centros de datos.
+Por eso es muy importante, por el monto, por el número de empleos y por el efecto que tiene.
+Bueno, le vuelvo a dar la bienvenida a mister Keith Harney, y le cedo el uso de la palabra.
+—Por favor—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―¿Alguien va a traducir?―
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+―Sí, ya le dije—.
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (Interpretación del inglés al español): Muy buenos días.
+Mi nombre es Keith Harney, soy director general de Operaciones de CloudHQ.
+Y gracias, señora Presidenta Claudia Sheinbaum, por permitirme presentar en esta ocasión, no solo nuestra empresa CloudHQ aquí en México, sino, también, que les voy a presentar en esta ocasión un campus con seis centros de datos a hiperescala ubicados en Querétaro.
+Permítanme decirles algo sobre nuestra empresa: que es uno de los principales desarrolladores de centros de datos del mundo y alquilamos también nuestros servicios a las empresas tecnológicas digitales más grandes del planeta.
+Hemos estado en funcionamiento ya unos 10 años con 1.5 gigawatts de capacidad contratada, 23 campus globales y también con una inversión global de unos 17 mil millones, incluso un poco más de estos 17 mil millones de dólares estadounidenses.
+Desde 2021, CloudHQ ha colaborado con el estado de Querétaro y, obviamente, también con el gobernador de ese estado, el gobernador Kuri, y ellos nos han brindado su apoyo durante el proceso de adquisición de terrenos y desarrollo previo a CloudHQ.
+Por otro lado, nuestra empresa ha trabajado de manera constructiva con la CFE y con Cenace para garantizar el suministro eléctrico inicial. Y seguiremos colaborando a medida que aumente esta capacidad.
+La infraestructura crítica de los centros de datos requiere una alimentación eléctrica y esta es crítica, como ya lo dije.
+Tras una importante inversión de capital, CloudHQ se enorgullece en haber asegurado la energía inicial para alimentar los primeros 200 megawatts de los 900 megawatts de carga eléctrica del campus CloudHQ —como ya les dije—, ubicado en Querétaro.
+Como ya les dije, nuestro desarrollo está en el Campus de Querétaro y también pensamos que a través de esto reforzaremos no solo eso, sino que también ampliaremos la posición de México en la economía digital.
+Con la energía inicial asegurada, CloudHQ avanzará en la obtención de un contrato de arrendamiento, una empresa líder mundial de tecnología a largo plazo en el campus, y procederá con la construcción del mismo.
+Nuestro centro en Querétaro estará en 52 hectáreas. Estamos hablando ―como ya les dije― de seis centros de datos, la mayor parte en la nube y, obviamente, también en la inteligencia artificial. Esos constarán de unos 900 megawatts de carga informática crítica.
+Hemos entonces hecho un cálculo de una inversión de unos 250 millones, estamos hablando de capital antes del desarrollo. Y de hecho, ya empezamos a invertir estos montos.
+Como ya les dije, hemos estado colaborando, ya empezamos a colaborar con la CFE y con Cenace ―como ya se los expliqué― a través de una subestación de maniobras de unos 2 gigawatts para apoyar, para respaldar la expansión de la red regional y el campus en Querétaro. Estamos hablando de que tenemos una fecha para el segundo trimestre de 2027.
+Y en estas 52 hectáreas que les mencioné tendremos una subestación privada de hasta 900 megawatts en el campus de Querétaro.
+Estamos hablando de una inversión, de los seis centros de datos, de aproximadamente 4.8 mil millones de dólares.
+Pensamos, por ende, poder crear unos 7 mil 200 empleos, es decir, puestos de trabajo altamente calificados en el sector de la construcción.
+Y somos muy respetuosos del diseño sostenible o sustentable y, por ende, estaremos utilizando refrigeración sin agua y estándares del diseño LEED de oro y plata.
+Estamos nosotros —como ya les dije hace unos minutos— haciendo esta inversión, pero realmente también las empresas digitales —que les llamamos tenant companies  o empresas inquilinas— ellas están también invirtiendo, por ejemplo, en términos de los costos de construcción, usando CloudHQ por supuesto; incluso estos beneficios aumentan cuando se usa la inteligencia artificial, pues estas empresas digitales que están alquilando, están haciendo inversiones de 3 a 5 veces mayores de nuestra propia inversión inicial en cuestiones como la construcción y también en la creación de empleos.
+Como ya les dije, tenemos este efecto multiplicador: las empresas contribuyen 3 veces más la inversión en capital en CloudHQ. Y esta es la inversión, por ejemplo, en empleos digitales.
+Estamos realmente muy confiados de que podremos avanzar en este proceso de manera muy fluida, puesto que también estamos fortaleciendo las cadenas de suministro mexicanas.
+Aquí tenemos en la pantalla ustedes pueden ver —¿qué seríamos nosotros no usando imágenes?, ¿verdad? Somos desarrolladores, y aquí tienen ustedes la imagen— está realmente al lado oeste del aeropuerto en Querétaro.
+Aquí tenemos 9 megawatts. Aquí están, al lado izquierdo de la pantalla, tenemos los seis centros que ya describimos en este campus.
+Y 2 gigawatts a la derecha, la extrema derecha, eso es la capacidad de la subestación.
+Entonces, lo que ven ustedes en la parte en medio es nuestra línea de transmisión. Lo que queremos es: a partir de esto, que esté exactamente en el centro, utilizar estas subestaciones, y de allí pasar toda la energía a los seis campus que tenemos en el lado izquierdo.
+Lo que ustedes ven entonces en las otras partes son las subestaciones que, esperamos terminar todo lo demás, aparte lo que les expliqué, lo terminamos para 2027.
+Muchas gracias por su atención.
+Nuestros clientes decidirán exactamente lo que ellos vayan a hacer en términos de sus proyectos, pero nosotros también estaremos colaborando.
+Espero que ustedes puedan analizar posteriormente esta diapositiva a su comodidad, a su propia conveniencia.
+Pero agradecemos mucho por permitirnos estar aquí para explicarles lo que hace nuestra empresa CloudHQ.
+Gracias.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, nada más consultas sobre sus preguntas respecto de esta exposición, sobre este tema.
+---
+PREGUNTA
+Sobre el tema. Alberto Marroquín Espinoza, de EsAhoraAm.com Querétaro y Cancún, y 10Am.mx.
+Sobre ese tema, sobre todo la planeación urbana, la movilidad y la presión de la infraestructura que va a estar en el estado de Querétaro: el área que menciona va a estar por el municipio de El Marqués, es una zona realmente de carencia, de movilidad.
+No sé cómo lo va a solucionar el Gobierno Federal porque también conlleva el tema del Tren México-Querétaro, que también ya se hablaba que va a ser por la zona donde va a estar supuestamente la estación.
+No sé si la Presidenta… Digo, aún no lo han confirmado. En Querétaro ya se habla de que ahí va a estar, en la zona de Los Héroes, la estación principal de Querétaro.
+¿Cómo solucionar eso? ¿O por qué no dividir?, porque esos proyectos generan una gran movilidad; sobre todo, porque va a llegar Amazon, Google.
+Entonces, ¿cómo solucionar esa parte de estrés, hasta hídrico?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, primero, el primer criterio que se ha tomado es que sea de muy bajo consumo de agua, que ya lo expuso Keith.
+Segundo, lo que es movilidad y el plan urbano, lo tiene ya listo el gobierno de Querétaro. Y esa fue una de las condiciones para todo el proceso.
+Entonces, vas a tener 7 mil 200 empleos durante las diferentes fases de construcción y después en forma permanente alrededor de 900. Son empleos de muy alto nivel.
+Y el impacto para Querétaro es muy positivo porque convierte a esa región y al estado, en una de las avenidas principales de inteligencia artificial.
+Pero, sí, hay ya un plan urbano local para eso.
+---
+PREGUNTA
+Y no sé si, bueno, con la Presidenta, el tema del Tren México-Querétaro, digo, relacionado con el tema de la movilidad de la zona, del municipio de El Marqués y de Colón, porque hablan que está casi frente al aeropuerto; entonces, no si sea parte de Colón o de El Marqués.
+Y si nos puede confirmar, Presidenta, si ¿ahí va a estar la estación principal de Querétaro?, porque incluso hay muchos pronunciamientos en Querétaro de la estación, donde va a estar la estación vieja, La Corregidora, que es una zona muy estresada, o sea, es una zona muy complicada para el acceso.
+No sé si nos pueda comentar algo la Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Si quieren, cuando venga el equipo de SICT puede presentar nuevamente dónde están todas las estaciones del Tren México-Querétaro.
+Evidentemente, no queremos con ningún proyecto generar un impacto negativo, sino todo lo contrario: qué se hace para que un proyecto de este tamaño, con tanta importancia para el país.
+Iniciar con inversiones en centros de datos es importante para México: nos da capacidad en el país de procesamiento de datos relacionado con la inteligencia artificial y, en general, con el uso de tecnologías de la información; pero, además, nos abre una nueva posibilidad de inversión en México.
+¿Qué se requiere?
+Energía, como ya se presentó. Y para eso hay un plan de trabajo con Comisión Federal de Electricidad y el Centro Nacional de Control de Energía.
+Y se requiere, también, que estas inversiones traigan beneficios a la comunidad. Y para ello ―aprovecho para saludar al gobernador de Querétaro, al gobernador Kuri, que, obviamente, ha estado impulsando esta inversión― con el gobierno de Querétaro y los gobiernos municipales se desarrolla un plan de infraestructura para el municipio que no genere impactos negativos, sino todo lo contrario, que ayude a la comunidad.
+---
+PREGUNTA
+Gracias, Presidenta.
+En ese caso, obviamente, para Querétaro es un gran beneficio el crecimiento de toda esta zona, de El Marqués y Colón. Ya hace poco también el gobernador de Querétaro, Mauricio Kuri, hablaba de que ya “el proyecto de El Batán ya no va”, así lo anunció él.
+No sé si, en base a estos proyectos que se están desarrollando en Querétaro, el Gobierno Federal tenga contemplado algún proyecto en materia de aguas, de cómo llegar agua, que eso es un estrés hídrico que vive Querétaro, como bien usted lo sabe, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, hay distintos proyectos.
+El Proyecto de El Batán era un proyecto muy ambicioso —o es un proyecto, porque no está… digamos, sigue en estudio— que tiene que ver con reciclamiento de agua.
+El gobernador, lo platicamos juntos, él sale en el 2027 y dijo: “Ya no va a dar tiempo, no quiero dejar una obra a la mitad, y se tiene que hacer una consulta pública, etcétera”. Entonces, por lo pronto ese proyecto está en suspensión o, por lo pronto, cancelado; pero estamos trabajando con Querétaro para ver nuevas opciones de abastecimiento de agua para la zona.
+Querétaro ha crecido mucho en términos de desarrollo industrial en distintas áreas y va a seguir creciendo, entonces requerimos darle todas las condiciones a quien vive en Querétaro desde hace años y a quien va a llegar a vivir a Querétaro para que haya todos los servicios.
+---
+PREGUNTA
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Quieres seguir dando la palabra?—
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+—Sobre el tema. A ver, el de azul claro, sobre el tema. A ver si es del tema—.
+---
+PREGUNTA
+Muy buenos días. Juan Hernández, de Diario Basta, Tabasco Hoy, Campeche Hoy y Quintana Roo Hoy, de Grupo Cantón.
+Preguntarles: dentro de este anuncio que acaban de hacer ustedes, ¿cómo van a hacerle para atraer el talento joven a esas industrias?, ¿cómo lo tienen contemplado?, ¿cómo van a hacer que esta inversión también se expanda a otros estados?, ¿cómo va a ser su forma de trabajo?
+Esa sería, digamos que para los dos.
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (Interpretación del inglés al español): Excelente pregunta.
+Lo que usted dice tiene muchísimo sentido porque realmente estamos tratando de que este impacto sea amplio y durable.
+Me parece muy interesante su pregunta porque usted tiene toda la razón del mundo, es decir, la capacitación es definitivamente importante.
+Virginia, el estado de Virginia, tiene uno de los principales centros de capacitación; sin embargo, no es suficiente. Necesitaríamos vincular lo que está pasando en ese centro con diferentes colegios de todos tamaños, universidades, etcétera, porque —como usted dice— poder atraer a la juventud es sumamente importante, pero no se puede hacer así como así, se le tiene que capacitar.
+Esto, pensamos que es un punto que nosotros tendremos que desarrollar a través de la capacidad que ya tenemos en Estados Unidos.
+---
+PREGUNTA
+¿Usted está convencido completamente en la marca “Hecho en México”?
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (interpretación del inglés al español): ¿Usted dice a nivel de…
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+(Inaudible)
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (Interpretación del inglés al español): Nosotros somos de bienes raíces, al final de cuentas, pero hay toda la cuestión del suministro, el equipo y, a fin de cuentas, también el producto final. Hay muchas etapas en este proceso.
+Somos una empresa que se especializa en bienes raíces. Lo que nosotros estamos construyendo está siendo construido en México, hecho en México, como usted dice. Obviamente, las empresas que van a estar alquilando, arrendando, esto que estamos construyendo son empresas que ya están basadas en México, que ya tienen tiempo aquí, y también la mano de obra.
+En ese sentido, sí, por supuesto que es una combinación de lo que nosotros podemos ofrecer y, sí —como usted dice—, hecho en México.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+—A ver, estaba el de Sonora, atrás de ti—.
+---
+PREGUNTA
+Gracias. Buenos días. Demian Duarte, del Sonora Power.
+Bueno, se habla de este proyecto de manejo de datos. Y, evidentemente, en este tema el manejo y, sobre todo, abastecimiento de energía, de fuentes renovables, es muy importante.
+Mi planteamiento, mi pregunta es: el Gobierno de México se ha venido preparando a lo largo de los años recientes con un proyecto estratégico para abastecer de energía limpia a este tipo de industrias, me refiero, evidentemente, al Plan Sonora.
+Mi pregunta para el señor Richards es precisamente en el sentido de la relevancia que tiene para este tipo de negocios la disponibilidad de fuentes de energía renovable.
+En el caso de Sonora, como sabemos, se trata de un proyecto enorme que se sustenta en plantas solares de alta capacidad que, justamente, se integran al Sistema Nacional de Energía y que terminan por abastecer y ser punto de atractivo para este tipo de planes de inversión.
+Preguntarle la relevancia que tiene para ellos la disponibilidad de este tipo de accesos a la energía eléctrica.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Ok. Enseguida le paso la palabra, pero si me permites un comentario respecto a la anterior pregunta:
+Nos instruyó la Presidenta Sheinbaum —y lo estamos haciendo con el secretario de Educación Pública— que avancemos hacia especialidad en datos e inteligencia artificial.
+Antier tuvimos la reunión. Ya hay una estrategia ambiciosa, porque solo tener en mente que de lo que estamos hablando es una nueva economía, es una economía basada en los datos, en la velocidad de los datos, en la inteligencia artificial.
+Entonces, nos pidió la Presidenta que lo trabajáramos así porque —como bien lo dijo mister Harney— no existe en las escuelas hoy. Todo esto, esta nueva economía, todavía no, porque es muy reciente, incluso en Estados Unidos.
+Entonces, lo vamos a hacer ahora como un gran esfuerzo para que nuestros jóvenes tengan esa oportunidad, estén a tiempo, justo, justo, es lo que nos pidió la Presidenta, que lo hiciéramos con la SEP, y también está Conalep y otras instituciones.
+Ahora, respecto, tú hablas respecto a energías limpias, ¿no?
+Mister Harney.
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (Interpretación del inglés al español): Buena pregunta.
+Sí, realmente la energía limpia es muy importante. Y tenemos que hacer, entonces, comparación o el uso de energía limpia con todos estos sistemas digitales, que avanzan tan rápidamente y que ya están aquí.
+Nuestros clientes tienen una posición muy contundente en relación con la energía limpia. A veces no tiene esa velocidad que se está requiriendo. Tenemos que ver todo esto porque también tenemos la situación de que nosotros requerimos la energía, pero con esa rapidez en toda la red. Esto es lo que nosotros tenemos que analizar.
+---
+PREGUNTA
+Es importante apuntar que, en el caso de Sonora, bueno, ha estado desarrollando este campus enorme de generación de energía a partir de la luz del sol.
+Y es importante decir que, bueno, como parte de la visión que tiene la Presidenta es que se incorporan dos plantas adicionales que tienen incluso el respaldo del que usted habla. Es un tema importante, porque esto permitiría el abasto 24 horas, como lo refiere el señor.
+Entonces, simplemente pedirle un comentario sobre la relevancia que tienen este tipo de proyectos; en particular, lo que mencionamos nosotros que aquí denominamos “el Plan Sonora” de energías renovables.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Para el uso de la inteligencia artificial se requiere procesamiento de datos.
+Para que haya procesamiento de datos, a mucha velocidad y con la administración de la cantidad de datos que se requieren cada vez que una persona consulta, usa o desarrolla inteligencia artificial, se requieren centros de datos en el país. Si México quiere entrar a un proceso de avanzar en inteligencia artificial, necesitamos centros de datos.
+Para que haya un centro de datos se requiere mucha energía; aquí están hablando de 900 megawatts, e iniciar con 200 megawatts.
+Nosotros tenemos un plan de crecimiento en los próximos 6 años de 26 mil megawatts en todo el país, más aparte la capacidad instalada que se tiene ahora. De esos 26 mil megawatts, al menos 35 por ciento son renovables; más aparte 6 mil megawatts adicionales de generación privada, que todos son renovables.
+Para que se sostenga el Sistema Eléctrico Nacional requieres energía a todas horas en todo momento, y es una combinación de distintas tecnologías.
+Lo bueno de aquí es que estamos resolviendo las dos cosas al mismo tiempo: la cantidad de energía, la capacidad de transmisión y el centro de datos, para tener una primera etapa y después las siguientes etapas.
+Entonces estamos en ese proceso.
+Sonora tiene el objetivo de tener 5 mil megawatts de energía solar, eso es parte de lo que estamos haciendo; hoy tiene mil megawatts, este año se licitan cerca de 700 más.
+Entonces, lo que se genera en Sonora de energía solar, evidentemente, va a inyectar a la red y va a permitir el desarrollo de más centros de datos.
+---
+PREGUNTA
+Presidenta, si me permite preguntarle un tema que tiene que ver con desarrollo económico, pero es de infraestructura: mire, en su Informe de Gobierno usted habló de la obra que se está completando en Nogales, justamente de la vinculación…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Si le parece, vamos sobre los temas de los centros de datos para aprovechar la presencia...
+---
+PREGUNTA
+Ok. Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―¿Quién más? A ver, aquí la compañera—.
+—Adelante, Marcelo, adelante. Ah, de otro tema; ah, no, sobre el tema—.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+―Del tema, del tema. De este lado nadie ha preguntado. A ver tú. Tiene que ser sobre el tema―.
+---
+PREGUNTA
+Muchas gracias. Arturo Arellano, de Canal Once.
+Secretario, preguntarle: ¿cómo va la iniciativa de “Hecho en México”?, ¿cuántas empresas se han sumado?
+Y esta inversión, bueno, que también es importante para México, ¿cómo ha crecido el portafolio de inversión? Se hablaba ahorita de 4.8 millones, mil millones de dólares. Si ¿nos podría rectificar bien esa cifra, bien?, por favor.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+La inversión del día de hoy alcanzará 4.8 billones de dólares, como lo acabas de… Billones, o sea, para nosotros son mil millones de dólares, casi 5 mil millones de dólares, en Estados Unidos le dicen “billones”.
+Y del tema Hecho en México, si quieres, luego lo tratamos. Yo quisiera que agotáramos el tema de hoy.
+—Tú, por favor—.
+---
+PREGUNTA
+Bueno, reiterar nada más, una pregunta: se habla de que se van a generar 7 mil 200 empleos. Igual, reiterar un poco, que usted nos dijera: ¿cómo se van a vincular estos empleos, bueno, con los jóvenes que están egresando de las escuelas públicas? Es muy importante.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, como ya lo explicó, hay empleos en lo que se menciona, 7 mil 200 empleos, que tiene que ver con procesos de construcción sofisticados.
+Y tienes otros empleos que son los que van a ser permanentes. Permanentes, según lo que nos acaban de explicar, tendrás, cuando menos, 900 muy bien pagados.
+Se requieren ciertas especialidades para ello. Y ya están trabajando ―como también ya se explicó― en incluso vincularse con las universidades, centros de educación superior, y les vamos a ayudar en ello para que tengamos la opción para los jóvenes de que puedan trabajar ahí.
+Ahora, esos empleos, a su vez, están vinculados a este sistema con miles de empleos de muchos servicios. Necesitas tener estos 6 centros de datos para atender muchas de las empresas principales que manejan data y que manejan todo el mercado.
+Entonces, esos 600 tienen bajo su responsabilidad, mediante su trabajo, de apoyar miles, tal vez millones de empleos debía decir, que van a estar vinculados a inteligencia artificial y al manejo de data.
+---
+PREGUNTA
+Ok.
+Otra pregunta, rapidísimo, preguntarle nada más. La Presidenta ha dicho que “México tiene que entrar a la inteligencia artificial y para eso se necesitan centros de datos”. Estos centros de datos también ¿en qué más aplicaciones se podría desarrollar México, no solo a lo mejor en la economía?; pero, igual, preguntar: ¿en qué áreas del gobierno podrían ayudar estos centros de datos aquí?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+—Pones la última lámina, por favor, la última—.
+Este cuadro explica algunas de las aplicaciones que la empresa con va con sus servicios, que hace posible:
+Esto es computación en la nube.
+Inteligencia artificial.
+Internet de las cosas, dispositivos conectados. Todos los dispositivos conectados a internet, necesitas este tipo de centros de datos. Es uno de los servicios que van a dar.
+Transmisión de video, que ahorita ustedes lo están utilizando, eso para hacerlo más rápido, de mayor capacidad, es indispensable.
+Realidad virtual y aumentada.
+Comercio electrónico.
+Aprendizaje automático.
+Procesamiento de pagos, todos los pagos.
+Aprendizaje en línea, incluyendo el inglés o lo que quieras aprender en línea.
+Vehículos conectados autónomos, que es lo que viene, todos los vehículos autónomos.
+Y desde luego, a la Agencia Digital también le sirven estos servicios para los servicios públicos.
+---
+PREGUNTA
+Muchas gracias.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+No sé si te quedó… Gracias.
+—La de blanco, por favor, ¿sobre el tema, verdad?
+---
+PREGUNTA
+Sí. Buenos días a todos, secretario, Presidenta. Soy Tania Damián, de Ángulo 7, de Puebla.
+Hablando de los temas tecnológicos, secretario, se habla principalmente de Guadalajara, ahorita Querétaro, de la Ciudad de México, como ciudades que tienen hubs tecnológicos.
+¿Cómo está previendo —bueno, también varias del norte, Nuevo León—… ¿Cómo está previendo para otros estados la instalación de empresas tecnológicas, el desarrollo tecnológico en el país?
+Por ejemplo, Puebla, que había hablado de… Bueno, tienen ahí en San José Chiapa, su centro de innovación, se fue la IPN.
+¿Cómo lograr que haya más startups —como se les llama— tecnológicas, pequeñas empresas en el país que puedan desarrollar tecnología, información?
+Esta es una empresa que viene a México para, pues sí, para promover sus servicios, pero ¿cómo lograr también que haya empresas más mexicanas?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+La Presidenta nos indicó que tuviésemos la previsión de 15 Polos de Desarrollo, los 15 Polos de Desarrollo, después vendrán más.
+Ya tenemos varias inversiones que tienen que ver con esto precisamente: con la infraestructura, con los servicios educativos de apoyo. O sea, todos los estados van a tener acceso a inteligencia artificial porque tienes que crear. Una de las bases principales es el talento para las decisiones que toman las empresas.
+Entonces, tenemos los Polos de Desarrollo.
+Y tenemos iniciativas de carácter general como, por ejemplo, el acceso a inteligencia artificial ―que te acabo de comentar― para los jóvenes del Sistema Educativo Mexicano.
+Y acelerar todo lo que tiene que ver con proveer los servicios ahí donde los tenemos, donde podemos tenerlos. Por eso están los Polos de Desarrollo, porque tienen agua, tienen energía y están en localizaciones adecuadas. Puebla está incluido, ya estuvimos allá en Puebla, por donde está la Ciudad Modelo.
+---
+PREGUNTA
+¿Se tiene una previsión de las inversiones en este rubro en el país?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, son inversiones muy grandes, yo diría que es casi… Es una economía que va a crecer, que hoy no la tienes registrada como tal, pero es un sector que va a ser cada vez más, más, más; imagínate, nada más esta son 5 mil millones de dólares, entonces probablemente se convierta en uno de los principales motores de la economía.
+---
+PREGUNTA
+¿Cuánto representan actualmente del PIB? O sea, ¿cuánto representan estas empresas tecnológicas actualmente, digamos, de…?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+¿Cuánto qué?
+---
+PREGUNTA
+Representan actualmente estas empresas tecnológicas del Producto Interno Bruto.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Eso, la inteligencia artificial, los centros de datos, lo que estás viendo es el inicio, ya tenemos, pero este es el despegue, porque es algo muy nuevo en todo el mundo, esto está hoy ocurriendo.
+Lo bueno es que estamos en esa ola. Lo importante es que, en México, con la previsión que se ha tomado por parte de nuestra Presidenta, las empresas, los gobernadores que están participando, todos haciendo equipo, estamos a tiempo en la ola.
+Estos centros de datos nos van a permitir estar a tiempo, formar a tiempo a nuestra gente, integrar los servicios, integrar las empresas y facilitar que ocurra ese fenómeno positivo en nuestro país.
+Esa es la meta, y Puebla está incluido.
+---
+PREGUNTA
+¿Y se tiene alguna previsión de cuánto podrían representarnos al final de este sexenio?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Es muy difícil darte una cifra, pero yo pienso que va a ser uno de los principales motores de la economía, del país y de todo el mundo.
+---
+PREGUNTA
+Y, bueno, también quisiera preguntarle de “Hecho en México”: Allá en Xoxtla —no sé si se pueda preguntar— hay productores de chamarra. Ellos piden entrar a “Hecho en México”.
+Ellos comentan que han bajado sus ventas por los productos chinos. Ahorita están tomando medidas y, bueno, no tanto por China, sino es parte de la protección de los países, de las economías de los países. Pero ellos comentan que han bajado sus ventas en 40 por ciento y que han incrementado la calidad de las chamarras.
+¿Cómo pueden apoyarse con “Hecho en México” estos productores?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Si me permite, cuando la Presidenta lo disponga presentamos “Hecho en México” para no entretener a nuestro invitado especial.
+—Bueno, sobre el tema. Por favor, pásale el micrófono. Ahora me regreso para acá, a Molécula, ahorita voy para allá—.
+---
+PREGUNTA
+Buenos días, secretario. Soy Yesenia Peralta, de Business Energy.
+Presidenta, lo importante de señalar es que la respuesta importante que ha dado la Comisión Federal porque, sin asegurar estos 200 megawatts sería imposible —¿me explico?— haber comenzado este gran proyecto.
+¿Podría comentarme, secretario y Presidenta, el reconocimiento y la respuesta que ha tenido la Comisión Federal para responder sobre los 200 megawatts?
+Y otra pregunta, para el señor Harney: ¿cómo ve, desde su perspectiva en el extranjero, la inversión en México?, ¿y cómo le hizo tomar la decisión para estar aquí?
+Aparte, si estos centros, ¿es la primera vez que se hacen aquí en México o tiene algunos otros en Latinoamérica?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, yo diría que hemos estado trabajando muy de cerca con CFE y también con la Secretaría de Energía, y llegaron a ese acuerdo sobre esos 200 megawatts, y es una parte sustantiva de todo este proyecto. Ha habido una gran cooperación y colaboración por instrucciones de la Presidenta.
+---
+PREGUNTA
+Sobre todo, porque… ¿Se tiene garantizado los restantes? Son 900.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Van a ir creciendo conforme vaya pasando. Pero es un trabajo común, hay inversiones para subestaciones, todo lo necesario, se está haciendo equipo.
+---
+PREGUNTA
+Un equipo importante para responder a este tipo de inversiones.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Claro que sí, para que tengamos el crecimiento.
+---
+PREGUNTA
+La pregunta para el señor Harney. Señor Harney: desde su punto de vista del extranjero, ¿cómo ve la importancia de México y la estabilidad con la que usted pudo ver para tomar la decisión en esta inversión?
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (Interpretación del inglés al español): Llevamos aquí 4 años.
+Hemos estado creciendo a nivel mundial. Nosotros somos una empresa muy disciplinada, vamos construyendo esto por bloques y podemos ir así trabajando con nuestros clientes. Esto es lo que hemos hecho a nivel mundial.
+Este es nuestro primer proyecto en México; sin embargo, también tenemos en Río, en Sao Paulo. Nosotros vamos hablando esto con los clientes y es como se va decidiendo.
+Nosotros pensamos que México, como otros países, querrán dar un salto a la economía digital. Y ustedes, para esto, necesitan los cimientos necesarios, ¿y cuáles son esos cimientos?, son ―como ya se dijo aquí― los centros de datos.
+Hemos sido muy bien recibidos; nos sentimos muy contentos. Sabemos que entre México y Estados Unidos, de donde nosotros provenimos, tenemos una relación estratégica, una relación comercial, lo cual por supuesto que nos da mucho gusto.
+---
+PREGUNTA
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Yo creo que la última, ya, la última pregunta―.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+―Vamos a hacer la última pregunta. Molécula que estabas así, estabas así antes del tema, estaba así―.
+---
+PREGUNTA
+Good morning a los invitados. Su servidor Carlos Pozos. My name es Carlos Pozos, from LM News. Thank you, mister Patrick.
+Usted anuncia esta importantísima inversión de 4.8 billones de dólares para nuestro país. Ayer, Citibanamex también anuncia esta importante operación bancaria.
+Yo quiero escuchar de su voz, señor Patrick, si ¿esta confianza en México se debe a la buena administración de la Presidenta, a los buenos resultados en el manejo de las finanzas, a la paz social que hay en nuestro país?, ¿a qué se debe —de su propia voz— para poder invertir en nuestro país esta cantidad?
+Gracias.
+DIRECTOR DE OPERACIONES DE CLOUDHQ, KEITH PATRICK HARNEY (Interpretación del inglés al español): Ya sé cuál es la respuesta correcta.
+Nosotros no estaríamos aquí si no sintiéramos que está bien estar en México; nos sentimos bien al hacerlo.
+Y, obviamente, no estaríamos invirtiendo este tipo de cantidades si hubiese un gran riesgo en el sentido de que estamos tomando todo esto en cuenta en las etapas preparatorias, no lo estaríamos haciendo si no estuviésemos seguros de dónde estamos.
+Y sí, tenemos una relación constructiva, colaborativa, con la señora Presidenta. Y pienso que en esta travesía que estamos iniciando —como ya se los dijimos ahora— esta relación será de suma importancia y continuará.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Yo creo que ya terminamos con esto, porque ya es tarde.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Muchas gracias a todos por sus preguntas.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, vamos a otros temas o sobre esto ya relacionado.
+—A ver vamos, la compañera que está aquí y luego para acá―.
+---
+PREGUNTA
+Muchas gracias, Presidenta. Rocío Jardínez, de W Radio y TeleUrban.
+Presidenta, preguntarle: en el tema de los medicamentos, ayer ya se dieron diversas respuestas por parte de representantes del sector farmacéutico; sobre todo, la Canifarma que, bueno, recuerda también al Gobierno Federal que tiene por ahí un adeudo de 14 millones de pesos a este sector. Dicen que también esto puede estar afectando la operatividad.
+Y también les recuerdan que, de estas 34 empresas farmacéuticas, solamente 10 corresponden a este sector y otras no están aquí.
+También, en este mismo tenor, se comenta que hay algunas de las farmacéuticas a las que se les dio, a las empresas que les otorgaron estos contratos, son de la India y que incluso ofrecieron precios irrisorios, difícil para poder cumplirle al Gobierno Federal.
+Mis preguntas son, Presidenta, primero:
+Saber ¿cuándo se les va a terminar de dar esta deuda? Algunas son incluso del gobierno anterior, del Presidente López Obrador.
+Saber ¿cuándo se va a tener ya concluida esta deuda?
+Y si ¿hubo algún tipo de error, Presidenta, para poder entregar estos contratos al exterior?, ¿cómo se va a evitar que esto vuelva a ocurrir?
+En primer lugar, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, uno, obviamente, si hay deudas, se pagan. No hay, digamos, ningún problema para pagar las deudas.
+Se está haciendo una revisión y hay pláticas con todas las empresas para ver la manera en que se van a ir saldando las deudas, sobre todo, del 2024 que todavía hay algunos pagos que se tienen que hacer. Entonces, se hizo una revisión y ahora se está en el proceso de pago.
+Ahora, cuando se hace un concurso para la compra de alguna clave de medicamentos, en el concurso ellos: quien gana el concurso, se compromete a entregar el medicamento, independientemente si tienes una deuda en el pasado; si no, pues no concursas, ¿verdad?
+Entonces, cuando te comprometes, ganas una licitación y tiempos de entrega, tienes que cumplir con el contrato que estableciste con el Gobierno de México, con alguna de las instituciones de salud, independientemente de la deuda.
+Entonces, sí se va a pagar la deuda, pero ellos también tienen tiempos de entrega de los medicamentos.
+Lo otro, hay muchísimos medicamentos que no se producen en México, muchísimos. Los principales productores de medicamentos hoy en el mundo están en India y en China, y de insumos médicos.
+Obviamente —y eso es lo que se va a licitar el próximo año— se está dando una calificación mayor a quien tenga plantas en México, aunque no sea del medicamento que se adquiere, pero de algún otro medicamento o insumo médico para fortalecer el Plan México. Esa es la licitación del próximo año.
+Pero muchísimos medicamentos no se fabrican aquí. De hecho, 80 por ciento de las bases para fabricar los medicamentos de los más comunes están en la India; entonces, se tiene que importar.
+¿Quién lo importa? Directamente la empresa de la India o alguna empresa mexicana que se dedica a la importación de medicamentos. Y ahí se ve en la licitación, se priorizó a los fabricantes frente a los distribuidores.
+Entonces, por eso hay muchos medicamentos que son importados.
+¿Qué requieren para la importación? Un permiso de Cofepris para poder garantizar que cumplen con todos los requerimientos de la regulación sanitaria en México.
+Entonces, por eso hay medicamentos que son importados.
+---
+PREGUNTA
+Entonces, más allá del precio que haya dado la India, ¿es porque es ese país el que puede garantizarla?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Los precios…No solamente se da la resolución de una licitación por precio, tienen que cumplir ciertas condicionantes y se revisa el precio.
+Birmex, que es quien hace la licitación, también, si se da un precio que es imposible de cumplir, si hay un medicamento que cuesta 10 pesos y te lo están ofreciendo en 1, dentro de la propia licitación, con el apoyo de la Secretaría Anticorrupción, se revisa que 1 peso es imposible de cumplir. Y entonces, sobre esa base se define a qué empresa se le da el contrato de los medicamentos.
+---
+PREGUNTA
+Gracias, Presidenta.
+Y en este escenario de la entrega de medicamentos: el 22 de septiembre hubo una narcomanta que fue encontrada en Mexicali, Baja California, donde se pide a Juan José Ponce Félix, alias “el Ruso”, que pertenece al grupo criminal precisamente de Los Rusos, del Cártel de Sinaloa, su intervención para poder tener abasto de medicamentos en el Hospital General de Mexicali.
+Saber ¿qué información tiene al respecto, Presidenta?, porque incluso en este en este mensaje se señala que hay un desvío de recursos, por parte de la gobernadora.
+No sé qué información tenga al respecto. Si ¿hay desabasto en este hospital y si se está atendiendo también?
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Como se informó el martes, tanto a los centros de salud como a los hospitales les están llegando los medicamentos. Aquellos medicamentos que no han llegado tienen que ver con estas empresas que no han cumplido en la entrega de medicamentos.
+Pero, como se presentó aquí, el abasto está por encima del 90 por ciento. En caso de que falte un medicamento, hay esquemas para poder completarlo.
+Ya en todo caso el Gabinete de Seguridad tendrá que contestar cuál es, con base en la investigación, el origen de esta manta.
+Y no hay ningún conocimiento de algún mal manejo en el estado de Baja California.
+---
+PREGUNTA
+Gracias.
+Y, por último, Presidenta, preguntarle: El Departamento de Seguridad de Estados Unidos habla de que han sido autodeportados casi 600 mil migrantes, que ellos han decidido salir del país; se señala esto, no presentaron ningún tipo de pruebas para demostrar que realmente estos migrantes se han autodeportado directamente.
+Saber ¿qué información tiene usted con base a los datos que le han entregado los Consulados?, ¿si realmente dentro de este número hay mexicanos?, y ¿si es posible creer estas cifras?
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No conozco la declaración.
+¿600 mil en todo el mundo, a todo el mundo?
+---
+PREGUNTA
+Desde el país, sí, en Estados Unidos, dice el Departamento de Seguridad. Perdón, alrededor de 1.6 millones de migrantes, perdóneme, que son irregulares, ellos decidieron por su propia cuenta salir del país.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Cuando un connacional regresa al país, se da una carta de repatriación,
+—A ver si te da Rosa Icela para el día de hoy el número de repatriados. La gráfica, si te la pasa, para que…—
+—¿Cuál es el número, José Alfonso?—
+---
+ASESOR POLÍTICO DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL DE PRESIDENCIA LA REPÚBLICA, JOSÉ ALFONSO SUÁREZ DEL REAL
+109 mil.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+109 mil, desde el 20 de enero, de la entrada de la administración del presidente Trump, 109 mil a México.
+—¿Pero ahí son todos mexicanos?  A ver si te pasa la gráfica para que podamos…—
+Ahorita se las ponemos, la gráfica.
+---
+PREGUNTA
+Pero este número que me dice usted es por decisión del gobierno de Estados Unidos, es decir, no por…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pero, aunque vengan, quieran entrar a México, tienen una carta de repatriación; entonces, se mide por el número de cartas de repatriación.
+De todas maneras, pudieron haber entrado otros connacionales a nuestro país; pero 1.6 millones, por lo menos a México no son 1.6 millones.
+---
+PREGUNTA
+Sí, porque dice, son 1.6 millones que se han autodeportado de Estados Unidos. De estos, 600 mil en el gobierno de Donald Trump.
+Pero mi pregunta es si ¿realmente los mexicanos han —en el caso de nuestros connacionales— han dado a conocer al Gobierno de México…?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Aunque sea voluntario. Claro que pueden entrar con la demostración de que son mexicanos, pasaporte principalmente, tienen que entrar a nuestro país, y puede no saberse a la hora de la entrada si llevaban mucho tiempo en los Estados Unidos o no.
+Si no, requieren una carta de repatriación. Y la carta de repatriación está muy controlada por el Instituto de Migración. Por eso sabemos cuántos repatriados hay en el país.
+Y ahora que nos pongan la gráfica, se las presento.
+---
+PREGUNTA
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―¿Ya la tienes? ¿No? Sí. Pero hay una que nos presentaron hoy de día con día el número de repatriados―.
+Miren cómo, por administración, el número de repatriados al país. El mayor momento fue con Clinton, llegaron a entrar a México: 1.1 millones de mexicanos en un año.
+Hoy tenemos, en todo el 2025, a partir del 20 de febrero… 20 de enero, perdón: 108 mil 813.
+Tiene que ver también con que están entrando muchísimo menos, ¿verdad? Los encuentros en la frontera llegaron a ser en diciembre del 2023: 15 mil; y hoy son 300, 200, dependiendo del día, y muchos no son mexicanos.
+―A ver acá. Ahora vamos a la…―
+---
+PREGUNTA
+Buenos días, Presidenta. César Huerta, de la revista Polemón.
+Presidenta, ayer el Grupo Salinas afirmó que usted: calumnió y difamó a Ricardo Salinas Pliego “con dolo y —cito— desde la más supina ignorancia”.
+Además, la amenaza con emprender demandas y acciones legales por daño moral en su contra, tanto en México como en Estados Unidos.
+¿No es absurdo, Presidenta…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Y por qué sería en Estados Unidos? Pues sí, ¿no?
+---
+PREGUNTA
+¿No es absurdo, Presidenta, que…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Cómo es demanda de difamación en Estados Unidos? Ajá.
+---
+PREGUNTA
+…de este empresario, que le debe al pueblo más de 74 mil millones de pesos y tiene deudas millonarias en Estados Unidos, pretenda hoy hacerse la víctima mientras convierte sus deudas en ataque político?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, incluso más allá de las deudas, la difamación que él hace todos los días a través de la televisora o de sus redes sociales.
+A ver, yo les voy a dejar una tarea a todos los de aquí, los que nos están viendo: ¿Por qué no se investiga —a ver— cómo compró la televisora?
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, es una tarea para todos, quien quiera.
+¿Cuánto fue beneficiado con el Fobaproa?  Pregunta, eh, es pregunta.
+¿Quién lo demandó para que regresara el dinero por la compra de la televisora?
+¿Cómo tiene ADN 40?
+---
+PREGUNTA
+El “Chiquihuitazo”.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Qué otra pregunta?
+¿Cómo adquirió una parte de las acciones de Mexicana?
+Pregunta. Solo son preguntas, para que también se conozca.
+Ahí lo dejamos hoy, hasta ahí, hasta ahí.
+---
+PREGUNTA
+Presidenta, y ayer se anunció que el empresario mexicano Fernando Chico Prado compró Banamex.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pardo.
+---
+PREGUNTA
+Una parte. Ajá.
+Y el expresidente López Obrador había planteado aquí en “La mañanera” que Banamex fuera adquirido por el gobierno o por empresarios mexicanos, es decir, que no hubiera capital extranjero quien lo comprara.
+¿Qué piensa de esta adquisición o de esta parte?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, es un empresario mexicano, es un hombre de buena reputación.
+Llegaron a un buen acuerdo, entiendo, con Citi.
+Me buscaron para informarme, eso es importante que se sepa. El día anterior tuve una videollamada con ellos para que me informaran lo que iban a anunciar al otro día.
+Entonces, regresa a un empresario, Banamex regresa a un empresario mexicano en una transacción legal que comienza a darse en un 25 por ciento.
+Yo considero que es una muy buena, es una buena noticia.
+---
+PREGUNTA
+Y Presidenta, en estos días el empresario Claudio X. González Laporte, quien en 2006 encabezó campañas negras contra el expresidente AMLO y que fue parte del fraude electoral de ese año, afirmó que “en México, con el nuevo sistema judicial, se carece de certidumbre” y que “por eso las inversiones fluyen solo lo necesario y no lo que se requiere”. O sea, que por eso no…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues no oímos nada que tuviera que ver con el Poder Judicial, ¿no?, en la inversión que se anunció hace un momento.
+México tiene un potencial de crecimiento enorme; y de desarrollo, no solo de crecimiento, sino de desarrollo. Y hay mucha confianza en el país de la inversión extranjera: en centros de datos, en industria manufacturera, en infraestructura, en varios temas.
+Entonces, obviamente, no coincidimos.
+Es más bien su posición política expresada fuera. Entonces, no.
+Estuvo aquí quien fue el secretario de… Lighthizer, fue el secretario, representante…
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Fue con quien en el sexenio anterior se negoció el T-MEC, y creo que le hicieron una pregunta también sobre la reforma al Poder Judicial y él dijo: “No tiene nada que ver con la revisión del Tratado”, en una conferencia que dio.
+Hoy es, digamos, asesor externo del presidente Trump, no tiene un puesto como tal.
+Entonces, más bien son, quien no estuvo de acuerdo aquí, que lo manifiesta en el exterior.
+Pero no hemos recibido realmente, ya de la mayoría de los empresarios nacionales y de empresarios extranjeros, alguna preocupación relacionada con la reforma al Poder Judicial.
+---
+PREGUNTA
+Por último, Presidenta: según la encuesta de Enkoll, usted tiene entre los simpatizantes del PAN el 60 por ciento de la aprobación y entre los simpatizantes de MC el 64 por ciento, así como los del PRI el 65.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Y eso… ¿Cuándo salió esa encuesta?
+---
+PREGUNTA
+Recientemente.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ah. Está buena ¿no?
+---
+PREGUNTA
+Estos porcentajes de la aprobación se dan a pesar de que los líderes de esos partidos políticos la critican a diario, tanto a usted como a su gobierno, y afirman que “es autoritario”, “que no funciona”, “que hace todo mal”.
+¿Qué piensa de esto, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Yo creo que nosotros tenemos mucho apoyo popular, lo he planteado varias veces.
+Uno, porque no nos hemos separado de nuestros principios, de lo que somos, de lo que siempre hemos sido, ni de lo que nos comprometimos con el pueblo de México, que iba a ser nuestro gobierno.
+Y que también hay continuidad en una Transformación que inició en diciembre del 2018, con un impulso adicional, por eso le llamamos el “Segundo Piso de la Transformación”.
+Y la gente ve que las cosas van bien en el país.
+Entonces, la preocupación de un sector muy pequeño se queda realmente en un sector muy pequeño: en quien lee algunos medios, quien escucha algunos medios.
+Pero, realmente, si uno va por el país, hay una aprobación muy grande al trabajo que se está haciendo en todos los sectores, todos los sectores, desde el sector empresarial hasta los pequeños comerciantes, hasta las personas más humildes del país, hay aceptación de que México va bien y que vamos a seguir avanzando.
+Y eso es lo que da el apoyo popular.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―A ver, la compañera de atrás, que desde hace rato está pidiendo la palabra, que tenía una pregunta para el secretario de Economía―.
+---
+PREGUNTA
+Muy buenos días. Rosa León, de Grupo Imagen Mexicali.
+Para el secretario Marcelo Ebrard, la primera: ¿qué avances existen, secretario, dentro de su dependencia en relación a la autorización de permisos IMMEX para nuevas inversiones e inversiones ya establecidas, que son ampliaciones y que lamentablemente ahorita están sumamente rezagadas?
+Al ver la información que tengo aquí de Inegi, a diciembre del 2024, había 6 mil 524 establecimientos IMMEX; a marzo del 2025 tenemos 6 mil 525; y el reporte que tenemos con relación a los ingresos que ha tenido el Gobierno Federal, a junio del 2025, son más de 6 mil… más de 670 mil 246 millones de pesos.
+Está muy preocupado el sector, no solamente IMMEX Mexicali, secretario, sino de todo el país porque, si lo vemos en el Plan México usted planteó —y la Presidenta— la modernización IMMEX 4.0.
+Entonces, ¿qué está pasando con los avances en esta manera?
+Primer pregunta.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Sí, con mucho gusto.
+Estamos haciendo un registro de una evaluación de cada IMMEX porque ha habido mucha falsedad, mucho abuso. Detectamos muchas empresas que engañan a la autoridad: traen productos supuestamente para exportación que no son para exportación.
+Entonces, la indicación que tenemos y lo que estamos haciendo ahorita es revisar el padrón, porque hay muchas empresas incluso que no tienen movimiento. O sea, sacan cinco permisos y el día que les cancelas uno porque hicieron algo indebido, ya tienen cuatro, ¿no?
+Entonces, lo que te da la eficiencia no es el número de permisos, sino que, efectivamente, se estén usando para lo que fueron diseñados.
+Entonces, la indicación que tenemos es revisar el registro: todas las empresas que están cumpliendo con las normas, que no tengan ninguna dificultad.
+---
+PREGUNTA
+¿Falta personal dentro de la Secretaría para que lleve a cabo esta tarea?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+No, no falta personal.
+La verdad de las cosas es que lo que necesitamos, lo que estamos viendo es un nivel de mentira, de falsedad en los reportes superior al que preveíamos, es decir, el número de empresas que te están diciendo una cosa y hacen otra es superior.
+¿Qué estamos haciendo? Trabajando con los gobiernos que están en los estados.
+Entonces, no es un problema de personal, es un problema de poner orden, y te va a tomar un tiempo.
+---
+PREGUNTA
+Porque hay permisos que antes, se llevaban entre en 30 días, ahorita están 6 meses.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Proliferaron los IMMEX, nada más que muchos, un buen número, mintiendo a la autoridad…
+---
+PREGUNTA
+Porque lo que queremos es que sigan las inversiones.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+…mintiendo a la autoridad, es decir, utilizando importaciones, dizque “temporales” para exportar.
+Lo presenté incluso hace poco aquí, en materia de calzado y textiles, tremendo.
+Por decirte, una empresa IMMEX con importación en un año de 20 mil millones de pesos, checamos las exportaciones: muy menor.
+Es decir, como que se acostumbraron muchas empresas, no digo que todas porque es un programa muy importante, pero muchas empresas se acostumbraron a que nadie verificaba.
+---
+PREGUNTA
+¿Y qué avance lleva entonces el IMMEX 4.0?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Lo vamos a presentar, lo vamos a presentar pronto.
+---
+PREGUNTA
+¿Pronto?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Sí.
+---
+PREGUNTA
+¿Este año?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Sí, claro.
+---
+PREGUNTA
+Ok.
+La segunda pregunta, Presidenta, para usted ya que va a estar en Mexicali este viernes: sabemos que el proyecto que es para nuestra ciudad, los paneles solares, que es el “Panel Norte”, ¿este proyecto lo va a expandir a otras partes del estado, lo va a expandir al resto del país en el 2026?, ¿qué plan tiene para el Sol Norte?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Van 4 mil paneles instalados —me lo presentaron justo el martes—, van 4 mil paneles con el objetivo de… Mexicali es la ciudad con mayor temperatura en el verano, por eso iniciamos en Mexicali. Es subsidiado completamente el panel solar. Y tiene el beneficio de que, al utilizar energía solar, se reduce la factura para quien tiene los paneles y no representa tanta carga para Comisión Federal de Electricidad.
+Una parte va a seguir igual y otra parte estamos trabajando en un esquema en donde el que adquiere el panel pueda irlo pagando, poco a poco, a partir de la tarifa eléctrica o de lo que paga a CFE con una disminución.
+Es decir, si tú pagas una factura de mil pesos —por decir— al bimestre; al tener tu panel solar, vas a tener una tarifa o vas a tener que pagar… no tarifa, sino tu factura será de 200 pesos. A lo mejor por 3 años pagas 400, con eso se paga el panel y puede difundirse a mucho mayor escala.
+Entonces, estamos trabajando en la segunda propuesta para avanzarlo a otras ciudades del país.
+---
+PREGUNTA
+Así es.
+¿Y el proyecto del puerto El Sauzal está cancelado, Presidenta? ¿Se va a realizar la consulta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Por lo pronto, se va a mejorar el de,  donde llegan los cruceros.
+---
+PREGUNTA
+La terminal turística.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay una parte que los pescadores nos están pidiendo, que es una parte muy desordenada en Ensenada, para resolverlo.
+Y por lo pronto, el de carga grande no va a avanzar.
+Y más bien, vamos a hacer una serie de mejoras para la ciudad de Ensenada que permitan sacar toda la carga que, de por sí, llega en este momento a Ensenada.
+---
+PREGUNTA
+Sí, es complejo. Recientemente el gobierno…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+De todas maneras, el proyecto como tal, el proyecto en papel.
+---
+PREGUNTA
+Existe.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se está terminando, pero, evidentemente —como me comprometí en Ensenada— no se va a hacer nada que la gente no apruebe.
+Entonces, lo que sí queremos es mejorar la llegada de los cruceros, el ordenamiento de los pescadores para que tengan un mejor lugar y terminar el proyecto. Y en todo caso, se pondría a consulta.
+Pero cualquier cosa antes de eso, tendría que hacerse una obra para poder sacar la carga que, de por sí, ya llega a Ensenada.
+---
+PREGUNTA
+Y que ha complicado la movilidad.
+Y, por último, Presidenta: ¿qué apoyo tendrá, por parte de la Federación, la nueva concesión que le otorgó la Secretaría de Marina para el puerto Punta Colonet?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Desde hace años había pedido la gobernadora Marina del Pilar la concesión estatal para el desarrollo de Punta Colonet.
+Se hicieron los estudios; finalmente ya se le entregó al estado; y ya el estado tiene que presentar su propuesta a la Secretaría de Marina y, obviamente, dentro del marco legal, para ver cuál sería este desarrollo a partir de diferentes empresas que lo quieran desarrollar.
+Es el caso, por ejemplo, de Matamoros, en Tamaulipas: se otorgó hace algunos años, con el Presidente López Obrador, la concesión del puerto al gobierno del estado y ellos han estado desarrollándolo; llegó recientemente una carga de vehículos, y están ampliando incluso la carretera para llegar a Matamoros.
+Entonces, es una concesión al estado y ellos ya tienen que presentar su propuesta para el desarrollo de Punta Colonet.
+---
+PREGUNTA
+Así es.
+Y bueno, ayer se presentó el tema del agua. En un momento más voy a participar en un foro donde se va a analizar este aspecto porque —como usted sabe— estamos muy ocupados con el tema del río Colorado. Va a haber una reunión binacional aquí en la Ciudad de México y, bueno, estaremos muy atentos, y esperemos tener el borrador.
+Los agricultores del Valle de Mexicali están preocupados porque no han tenido acceso o no se les ha acercado la información de cómo vienen estas modificaciones a lo que son para ellos su patrimonio, que es básicamente las concesiones del agua a la que usted ayer fue muy clara y dijo que “agua que no sea utilizada, la nación será quien la tenga que distribuir y asignar”.
+Entonces, nada más estaríamos esperando información.
+Ojalá que nuestros diputados federales la socialicen con la población y ellos también puedan ser parte de la solución que necesitamos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Aprovechamos para decirles que se incorporen al Programa de Eficiencia en Distrito de Riego. Es prácticamente el único distrito de riego…
+---
+PREGUNTA
+¿Faltó oficio político?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, no, no.
+---
+PREGUNTA
+¿No?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, no, no. Ahí ha estado el director de Conagua y el equipo buscándolos. De hecho, no se ha aprobado.
+Hay solamente 45 agricultores que han decidido entrar, de todo el distrito de riego.
+Es muy importante que avancen en la tecnificación del riego agrícola para que puedan beneficiarse de las bondades de mayor productividad en la zona.
+Entonces, de los pocos distritos de riego que no ha aprobado. De hecho, hay otros distritos que nos están pidiendo entrar. Pero este, que es muy importante, no quiso, no quisieron entrar. Y es muy importante que se acerquen a la Conagua para que pueda ser impulsado.
+Este año también se licita, todavía en estos meses se va a licitar, la Desaladora de Rosarito.
+---
+PREGUNTA
+Así es, que es muy importante y necesaria.
+Gracias, Presidenta. Buen día.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Bueno, a ver, ¿quién más?, ¿quién más? A ver, segunda fila, aquí el compañero. Tú, hasta te extrañaste―.
+---
+PREGUNTA
+Gracias, Presidenta. Aprovechando que habló del tema: la Desaladora de Rosarito, si ¿nos puede decir más cómo va el tema?
+Le preguntamos a Alicia Bárcena, como ella dijo que lo están valorando y…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, ya está listo el proyecto, ya tiene el impacto.
+Se están tomando algunas decisiones importantes para… El problema de las desaladoras al final es qué haces con la sal. Entonces, se están tomando acciones adicionales, bueno, aparte del precio y todo lo que significa, pero en términos ambientales tiene ese problema de dónde queda la sal y hasta dónde se envía, en todo caso, de que una parte se envía al océano, que pueda cumplir con todos los impactos ambientales.
+Entonces, ya está el estudio, se tomaron algunas cuestiones adicionales en el proyecto ejecutivo que ya existía, y este año sale la licitación de la primera parte.
+Es un proyecto de 3 años, porque se va a pagar entre el gobierno del estado y el Gobierno Federal.
+---
+PREGUNTA
+¿Cuál sería la inversión, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—A ver si Efra nos lo envía. Si mal no me acuerdo, son como 14 mil millones, pero a ver si...—
+---
+PREGUNTA
+También se manifestaron en la Secretaría de Relaciones Exteriores padres del caso de Ayotzinapa, estaban pidiendo la extradición del extitular de la Agencia de Investigación, Tomás Zerón.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se han enviado varias cartas al gobierno de Israel y a través de los canales diplomáticos para la extradición de Tomás Zerón.
+Eso existe desde el Presidente López Obrador, que se está pidiendo, y ahora se está insistiendo en esta extradición, además de dos personas que solicitamos al secretario del Departamento de Estado de los Estados Unidos, que están en Estados Unidos y que estamos solicitando su extradición a México.
+---
+PREGUNTA
+Y ya por último: Va a ir a Baja California. Históricamente Baja California, Morena ha ganado las tres elecciones, “carro completo”.
+¿También va a hablar sobre los líderes que hay en Morena para que se mesuren en gastos o los que quieran participar, que sea una campaña limpia?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Todavía falta tiempo…
+---
+PREGUNTA
+Pero ahí andan activados ya, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Eso le corresponde a Morena.
+Nosotros vamos al Informe, que nos ha ido muy bien, la verdad, en toda la República. Y ahora, vamos al Informe en los estados que nos faltan para cerrar el 5 de octubre aquí, en el Zócalo.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+—Vamos ya, yo creo que la última pregunta. A ver el compañero, el compañero, tú, y cerramos—.
+---
+PREGUNTA
+Javier Pérez, de HC Noticias.
+Presidenta, ahorita usted preguntaba ¿cómo logró Salinas Pliego toda esta riqueza, no, de manera ilegal?
+—Me voy a sentar por respeto a los compañeros—.
+En 1993, Salinas Pliego adquirió TV Azteca vía licitación pública por 650 millones de dólares con un grupo de inversión, financiamiento incluido, préstamo de 29.7 millones de dólares de Raúl Salinas de Gortari, que fue repaid, o sea, no regresó.
+ADN 40, proveniente de Canal 40, la adquirió TV Azteca tras conflicto en el 2002 en la toma del transmisor que se le llamó “el Chiquihuitazo”, disputas legales; fue relanzado como Proyecto 40 en 2006 y ADN 40 en 2017.
+El tema del Fobaproa; sus empresas, como Salinas y Rocha, Elektra, recibieron beneficios de rescate bancario de los ’90.
+Y esto nada más es el principio, porque en los últimos meses, bajo investigaciones periodísticas, se dio a conocer que incluso no paga, no nada más los impuestos, sino lo que se paga al Seguro Social por cada trabajador.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues ahí está, para que sigan las respuestas.
+---
+PREGUNTA
+En otro tema, Presidenta, y aprovechando que… O sea, no quiero dejar pasar el momento que está el secretario y lo que usted comentó hace unos días acerca de la tarjeta Finabien, es la remesadora número 1, en donde esta tarjeta tiene dinero, ya hay en la nube prácticamente la inversión de mexicanos que mandan remesas a sus familias acá.
+A mí me nació ahorita una pregunta, porque también usted proponía que en nuestro país se deje de usar un poquito más el efectivo, el tema de los e-commerce, y que nuestro país desde el 2024 ha tenido un avance muy importante en lo que es el gasto en cuestión de e-commerce, alrededor de —no me quiero equivocar— de 700 mil millones de pesos aproximadamente, repunta.
+Y la compra en nuestro país, Presidenta, ha avanzado muchísimo en este tema, cada año se van generando más compras en la web, en línea.
+Pero hay un tema: México, desde el 2003 aproximadamente, 2007, avanza a 2012 en estos temas, pero el mexicano también decide ir a ver lo que compra, palpar físicamente.  Entonces, está esta dualidad.
+Y tomando en cuenta lo que acabamos de ver ahorita, la inversión tan importante en cuestión de información, ¿por qué no, Presidenta, usar esta tarjeta, que ya tiene remesas? Digo, si es que fuera posible, pensar en esta situación, llevarla a la compra de los e-commerce.
+Hay empresas en nuestro país como Walmart, como Mercado Libre, algunas otras empresas que son líderes e-commerce y dan apertura a ciertas tarjetas.
+¿Y por qué no esta tarjeta, Finabien, llevarla a este nivel en donde ya se manejan cantidades grandes? Y México es el primer país que recibe miles de millones de dólares que se convierten en pesos, y que las familias pueden gastar en e-commerce plantados ya en nuestro país.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, a ver, nada más, la información: son 12 mil millones, dije 14 mil, son 12 mil millones de la inversión en la planta de Rosario, la Desaladora de Rosarito.
+Nuestro objetivo es seguir avanzando en la digitalización en México. Hay países como Brasil o la India ―lo platiqué hace poco― en donde tiene muchas ventajas el no usar el efectivo y que puedas pagar digitalmente. El problema que tenemos hoy es que hay muchas comisiones en el pago digital.
+Hay una aplicación que desarrolló Banco de México hace tempo que se llama CoDi, que no se usa, entre otras razones, porque no lo impulsan los bancos porque no tiene comisión.
+Entonces, tenemos que ir avanzando para regular.
+Por ejemplo, cuando fui jefa de Gobierno todos nos decían: “No se van a poder quitar los boletos del Metro nunca”. Pues no hubo problema, ya se usa la tarjeta, se quitó el boleto, y eso quita fugas de que se malutilicen los boletos del Metro.
+Cuando se hizo el Metrobús también decían: “No, no, es que se van a necesitar comprar”. Y se usa la tarjeta en el transporte, ¿no?, con la tarjeta de Movilidad Integrada.
+Y así tenemos que ir avanzando hacia el pago electrónico.
+Ahora, ya muchas veces ni se necesita la tarjeta, sino que con el celular se puede pagar de manera directa con QRs, formas muy seguras de pago.
+Entonces, nuestro objetivo es seguir avanzando en ello. Para ello, se requieren procesamientos de datos. La banca mexicana tiene sus propios centros de datos; empresas como Telcel, por ejemplo, tiene un centro de datos muy grande. Y nosotros queremos ir, seguir impulsando centros de datos para que la gente pueda avanzar en la digitalización.
+Entonces, es uno de los proyectos que tenemos.
+Y sí, Finabien puede ser una de las tarjetas que puede entrar en este proceso de digitalización, sea con la tarjeta o con una aplicación telefónica, y eso da muchas ventajas.
+---
+PREGUNTA
+Quiero nada más puntualizar el dato de cómo ha avanzado este sistema: 789 mil millones de pesos en 2024 y con compradores digitales del 84 por ciento, y avanzando.
+Esto, se prevé un aumento en los próximos años, del 2023 a la fecha y rumbo al 2026, de un 20 por ciento más de avance de compras de este sentido.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Va a seguir avanzando, es la tendencia mundial.
+Lo que queremos es que no se convierta en algo excluyente, que haya una parte de la población que siga usando efectivo, porque no tiene acceso al internet o a un esquema digital de pagos; que sea masivo y que todo mexicano y mexicana pueda tener acceso al proceso de digitalización para que no sea una forma de exclusión social y, los que sí lo usan y los que no lo usan.
+Entonces, de eso depende avanzar en la conexión a internet en todo el país, los centros de datos, los procesos de digitalización.
+Entonces sí, hacia allá queremos seguir impulsando.
+—No sé si quieras comentar algo, Marcelo, adicional—.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Sí, con mucho gusto.
+Como dice nuestra Presidenta, México lo que está haciendo es una expansión muy acelerada del basamento de toda la economía digital.
+La Agencia Digital tiene como objetivo digitalizar buena parte de nuestra vida cotidiana. Eso va a ser uno de los elementos sustantivos para que nuestro país le vaya cada vez mejor y tenemos más bienestar.
+Entonces, todo el esfuerzo que estamos haciendo es que todo el país quede cubierto con la infraestructura que va a necesitar para el manejo de datos —que es la que acabamos de ver el día de hoy—, y ese es el objetivo final.
+La digitalización lo que te permite, ¿qué es?:
+Te permite el acceso, primero, al mercado. Acabamos de hacer una un acuerdo de Amazon con “Hecho en México”, luego vamos Mercado Libre y así, todas las plataformas, porque hoy en día el mercado digital es el que crece más rápido.
+Entonces, digitalizar al país y que todos tengamos acceso a esa infraestructura digital, eso es el camino que tenemos que seguir para el bienestar, es lo que estamos haciendo.
+---
+PREGUNTA
+Gracias.
+Y bueno, por último y rápido, Presidenta, de mi parte: ha habido muchísimos detenidos, miles de detenidos ahora con el Plan Estratégico de Seguridad a nivel nacional.
+Y me lleva a un punto: la revisión de los penales, por ejemplo, con la llegada del exsecretario de Seguridad allá en Tabasco, Hernán “N” —vamos a decirle—, al Penal del Altiplano, mismo en el cual donde se fugó, pues Guzmán Loera ya hace algunos años y que precisamente hace 2 días o poco menos de 48 horas hubo una fuga en uno de los penales de aquí, de la Ciudad de México.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya fue detenido, por cierto; al fugado ya lo detuvieron otra vez.
+---
+PREGUNTA
+Bueno, la fuga en 2015 de Guzmán Loera.
+¿Se ha revisado la discusión sobre la capacidad de condiciones operativas de los penales de máxima seguridad en México en este contexto?
+¿El Gobierno Federal, Presidenta, contempla activar más centros de alta seguridad como el Cefereso de Papantla, por ejemplo, para concentrar en el país a los internos de mayor peligrosidad, o la estrategia de seguridad, privilegiando las extradiciones como las que vimos concretamente en agosto de estos casi 50 delincuentes? ¿Se prevé?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es una línea de trabajo del Gabinete de Seguridad, tanto la seguridad en centros de detención, como reinserción social; también cómo atender a los primodelincuentes, es una línea de trabajo que tenemos.
+No lo hemos presentado, pero muy pronto lo presentaremos.
+Mucho del trabajo que se tiene que hacer es en Centros de Detención estatales, son los que requieren mucho apoyo; los de alta seguridad de una u otra manera están en mejores condiciones. Y necesitamos también apoyar a los estados en fortalecer estos centros en los estados. Y se está valorando si se requieren más.
+Pero es un proyecto integral que también tiene que ver con reinserción.
+---
+PREGUNTA
+Muchas gracias, Presidenta.  Buen día.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+Cerramos ya, vamos a “Humanismo…” No, no es “Humanismo”; “Mujeres en la historia” nos toca hoy.
+—Noemí—.
+---
+SUBSECRETARIA DE EDUCACIÓN BÁSICA, NOEMÍ JUÁREZ PÉREZ
+Muy buenos días a todas y a todos.
+¿Cuándo se imaginan que fue la primera vez que en nuestro país una mujer escogió libremente con quién casarse? Quizá esta pregunta no tenga una respuesta clara.
+Pero sí podemos preguntarnos: ¿cuándo fue que las mujeres adquirieron derechos en el matrimonio? o ¿cuándo fue que la unión de dos personas dejó de ser un destino fijado por la religión y pasó a convertirse en una elección protegida por el Estado?
+Como sabemos, uno de los destinos durante siglos para las mujeres fue el del matrimonio, esto marcaba sus vidas; pero la reforma liberal del siglo XIX, nuestra Segunda Transformación, contribuyó también a la elección de estas decisiones.
+Conozcamos cómo fue.
+---
+SUBSECRETARIA DE EDUCACIÓN BÁSICA, NOEMÍ JUÁREZ PÉREZ
+Como escuchamos, la Ley del Matrimonio fue en su momento un paso importante para que las mujeres adquirieran derechos.
+Como parte de las reformas liberales, buscó arrebatar del poder de la Iglesia un asunto que debía competir al plano civil, ayudó a fomentar una sociedad laica y fue un antecedente para que después las mujeres no solo decidieran con quién casarse, sino que, en caso de que el matrimonio no fuera una unión feliz, las mujeres tuvieran derecho a decidir si querían compartir sus vidas con otra persona.
+Un dato cultural: el primer Registro Civil de un de un natalicio es precisamente la hija de Margarita Maza y Benito Juárez, es el primer registro, es la primer niña en ser en ser registrada, también como parte de nuestra Segunda Transformación, este derecho a la identidad.
+Así es que, sin duda, la Reforma Liberal del siglo XIX contribuyó a que en ese momento las mujeres también continuaran ampliando sus derechos hasta el día de hoy.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+—000—
