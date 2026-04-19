@@ -25,6 +25,9 @@ jobs:
         poetry config virtualenvs.create false --local
         poetry install
 
+    - name: Install Playwright Chromium
+      run: poetry run playwright install chromium --with-deps
+
     - name: Execute workload
       env:
         KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}

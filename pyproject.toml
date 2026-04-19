@@ -6,7 +6,7 @@ authors = ["Antonio Feregrino <antonio.feregrino@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 beautifulsoup4 = "^4.9.3"
 requests = "^2.26.0"
 html5lib = "^1.1"
@@ -14,7 +14,8 @@ lxml = "^4.6.3"
 kaggle = "^1.5.12"
 click = "^7"
 dateparser = "^1.0.0"
-fake-useragent = "^1.4.0"
+playwright = "^1.40.0"
+packaging = ">=24.2"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.9.2"
