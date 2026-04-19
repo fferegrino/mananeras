@@ -1,0 +1,792 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 19 de noviembre de 2025
+Presidencia de la República
+19 de noviembre de 2025
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días. ¿Cómo están?
+---
+PREGUNTA
+Buenos días, Presidenta. Bien, ¿y usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bien, muy bien.
+—Pásenle, los invitados—.
+Bueno, hoy tenemos al secretario de Economía, Marcelo Ebrard, que nos va a dar una muy buena noticia: México rompe récord en Inversión Extranjera Directa. Nos lo va a platicar.
+Y después, está con nosotros la doctora Rosaura Ruiz, que es secretaria de Ciencia, Humanidades, Tecnología e Innovación; está José Antonio Peña Merino, titular de la Agencia de Transformación Digital y Telecomunicaciones; el doctor Luis Antonio Salazar, director general del Instituto Potosino de Investigación Científica y Tecnológica; el licenciado Jorge Luis Pérez Hernández, coordinador nacional de Infraestructura Digital de la Agencia de Transformación.
+Y tenemos el agrado de tener aquí, y nos da muchísimo gusto, al doctor Mateo Valero Cortés, que es director del Barcelona… bueno, lo voy a decir en español: director del Centro de Supercómputo de Barcelona, que vamos a firmar un convenio con ellos.
+Y también está Raúl Soto, director ejecutivo de Infotec; y Ulises Cortés, director de Área de Investigación en Inteligencia Artificial.
+Bueno, entonces, la primera parte es Secretaría de Economía.
+Y como parte del Plan México —por eso es algo que hemos venido trabajando juntos— es esta red de supercómputo que se va a desarrollar en nuestro país con una supercomputadora, la más grande de América Latina en México.
+Y vamos a iniciar, aunque ya hemos trabajado con ellos, con un convenio muy importante, con el Centro de Supercómputo de Barcelona, en España.
+Bueno, entonces primero va Marcelo, luego va Jorge y luego va Rosaura, y luego le pedimos al doctor Mateo Valero que nos dé sus impresiones, y después firmamos el convenio.
+—Adelante, Marcelo—.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Con su permiso, Presidenta.
+Muy bienvenido, Mateo.
+Rosaura.
+Saludo a todos los invitados.
+Muy buenos días.
+Bueno, cuatro buenas noticias. Antes de entrar a las cifras, cuatro buenas noticias:
+La primera, aumento de la Inversión Extranjera Directa en México. Vamos a alcanzar récord histórico este último trimestre, ya con el registro nacional de inversión extranjera, vamos a llegar casi a 41 mil millones de dólares. Si comparamos 41 mil millones de dólares —es lo que llevamos este último trimestre— si lo comparamos con 2024, creció 15 por ciento.
+Todas las expectativas es que no tuviéramos un crecimiento de ese tamaño. Quisiera yo detenerme un poco en esa primera noticia, que es muy buena, para explicarles por qué es tan importante: porque significa, ese ritmo de Inversión Extranjera Directa significa que los inversionistas de todo el mundo están decidiendo invertir por México en mayor proporción a la que habíamos incluso esperado. Por eso es muy, muy buena noticia.
+De lo que más crece en esta cifra, casi 41 mil millones de dólares, comparado con el año anterior, ¿qué es lo que más crece?, nuevas inversiones: pasan de 2 mil millones a 6 mil 500 millones de dólares.
+Nuevas inversiones en el país; o sea, que no son reinversiones, sino inversiones duras, esa es la segunda muy buena noticia.
+Y bueno, si lo comparamos, aquí les puse: desde el 2018 al 2025, la Inversión Extranjera Directa en México ha crecido casi 70 por ciento, 69 por ciento para ser muy exactos. Es un crecimiento constante, pero se está acelerando.
+Eso significa confianza en el Gobierno de la Presidenta Sheinbaum.
+Eso significa expectativa positiva en favor de México, porque de otra manera sería impensable tener esos números.
+Y eso consolida una tendencia, porque ustedes recordarán que el trimestre anterior también tuvimos muy buenos números. Bueno, pues vuelve a crecer. Entonces, creo que es muy buena noticia para nuestro país.
+Y felicidades, Presidenta.
+Bueno, la siguiente buena noticia que me pidió la Presidenta que las comparta: siguen creciendo nuestras exportaciones.
+Muchos pensaban que por la nueva circunstancia y porque tenemos, hay nuevos aranceles, etcétera, tendríamos dificultades en nuestras exportaciones. Siguen creciendo, México sigue creciendo en su ritmo de exportación al exterior, evidentemente.
+Entonces, aquí les puse nada más la cifra de cómo ha ido creciendo, cuál es la tasa anual de crecimiento y cómo han pasado las exportaciones cada año hacia arriba, hacia arriba, hacia arriba.
+Ahí tienen ya un desglose.
+Bueno, y finalmente la otra buena noticia que me pidió la Presidenta que les diera es ―ya se comentó― que vamos a tener, vamos a ser la sede de APEC.
+¿Qué es APEC?
+Es una organización de todos estos países, les puse las banderitas.
+En resumen: está China, está Estados Unidos, está Canadá, está Corea del Sur, está Japón, está Australia, está México, está Perú, en fin, la cuenca del Pacífico.
+Significa el 61 por ciento del Producto Interno Bruto de todo el mundo; o sea, es la esfera económica más relevante del mundo.
+Y la sede va a ser aquí en 2028. Se aprobó por unanimidad; si no, no podría ser la sede.
+Y me parece que también es muy buena noticia, por el rol que México está jugando respecto a todos esos países, porque significa diversificación, significa estar presentes entre las Américas y Asia; y significa, también, una muestra de confianza, de respeto, reconocimiento a lo que México está haciendo y a cómo está conduciendo nuestra Presidenta los destinos del país.
+Esas son las buenas noticias.
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias, Marcelo.
+―¿Quién sigue? ¿Pepe o Luis? Jorge―.
+---
+COORDINADOR NACIONAL DE INFRAESTRUCTURA DIGITAL DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JORGE LUIS PÉREZ HERNÁNDEZ
+Con su permiso, Presidenta.
+Hola, buenos días.
+Estamos aquí para presentar el Centro Mexicano de Supercómputo. Hoy vamos a mostrar o presentar tres puntos importantes de éste:
+El Clúster Nacional de Supercómputo dentro de la Secihti, que es algo que estamos trabajando con el equipo de la secretaria Rosaura.
+El Centro Mexicano de Supercómputo que iniciará operaciones en Barcelona.
+Y que próximamente, es decir, la siguiente semana, estaremos anunciando la creación de la supercomputadora más grande de América Latina, aquí en nuestro país, será 100 por ciento mexicana y tendrá una diferencia brutal con la más grande actual, que está en el sur del continente, y que no es de un gobierno, es de una empresa privada.
+¿Por qué con Barcelona?
+Barcelona es uno de los centros de supercómputo no solamente más avanzados de España o de Europa, sino a nivel mundial. Justamente la semana pasada cumplieron 20 años de existencia. Es la quinta supercomputadora que ellos van actualizando desde estos 20 años que han iniciado con el doctor Mateo Valero —que hoy nos acompaña—.
+Y ha apoyado en varios proyectos a nuestro país. Simplemente el año pasado tuvo una aportación de 440 proyectos en esta supercomputadora, desde cuestiones como: chips, desarrollo de gemelos digitales, planetas, cuerpos humanos, investigación en clima, que es algo que estaremos desarrollando también aquí en nuestro país, y que en unos minutos seguramente el doctor Mateo podrá explicar de mejor manera.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Por qué no explicas qué es el supercómputo?—
+---
+COORDINADOR NACIONAL DE INFRAESTRUCTURA DIGITAL DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JORGE LUIS PÉREZ HERNÁNDEZ
+Ok. En una computadora normal como la que tenemos en casa no es posible procesar la cantidad de datos que hoy en día se generan. Simplemente incluso nosotros juntando toda la capacidad de cómputo que tenemos, hay operaciones que nos toman hasta 30 días resolver.
+Juntar información, por ejemplo, del SAT, procesarla es bastante complicado en el cómputo normal que tenemos con las computadoras que todos conocemos. Una supercomputadora, como la que tienen en Barcelona, permite hacer 314 billones de operaciones por segundo como máximo en capacidad teórica, si no me equivoco.
+Una computadora normal no, le tomaría eso bastantes años lograrlo resolver. Problemas que aquí se pueden resolver en horas o días en una computadora normal, nos tomarían un par de años, si es que fuera posible.
+Digamos que el orden es un 1 y 9 ceros, es lo máximo que se puede en el cómputo normal; una supercomputadora como estas es un 1 y 15 ceros, para tener una aproximación de la cantidad de operaciones.
+Este acuerdo que hoy vamos a firmar o que van a firmar el Centro de Investigación Potosino, Infotec y, obviamente, el Centro de Supercómputo en Barcelona ​​lo que pretende es arrancar ya. Porque construir una computadora de este tamaño toma de 24 a 36 meses; si hacemos eso, estaríamos hasta el 2028 resolviendo problemas que ya tenemos el día de hoy.
+Para mitigar esto, hemos hablado con el Centro de Supercómputo de Barcelona y vamos a iniciar esta colaboración para empezar a resolver estos problemas ya; es decir, a partir del siguiente año ya podríamos estar trabajando en conjunto.
+Los datos estarían a resguardo del gobierno mexicano, de los investigadores, los datos no estarían en control de nadie más.
+Y estarían participando investigadores, sobre todo, de Secihti, del Instituto Politécnico Nacional, obviamente de la Agencia de Transformación Digital, de Infotec y del Instituto Potosino.
+Esto es justamente lo que explicaba.
+¿Qué proyectos queremos resolver ya?
+El primero que nos interesa y que nos han encargado es el modelo del clima en México. Como saben, hemos tenido algunos casos importantes con el clima en nuestro país, algunos cambios, y tenemos que mejorar estos pronósticos. Para mejorarlos se necesita supercómputo, precisamente.
+Si bien, hay varios investigadores, tanto en la Secihti, en la Agencia, en el Sistema Nacional Meteorológico, en la UNAM, lo que les falta es capacidad de cómputo para mejorar estos modelos.
+Las manos, la capacidad técnica la tenemos en nuestro país, nos falta esta parte. Y Barcelona, ​​desde luego, nos ha brindado la mano para apoyarnos en esta parte de capacidades técnicas, de infraestructura.
+Pero no nos vamos a quedar ahí. También tenemos varios proyectos para procesar información del SAT, de las aduanas, para mejorar el semáforo aduanero, para el procesamiento de imágenes. Por ejemplo, ya estamos trabajando con la Secretaría de Agricultura imágenes satelitales en donde podemos ver qué tipo de sembradío le falta agua, le sobra, dónde están sembrando, en dónde no.
+Esto nos está tomando bastante tiempo porque lo estamos haciendo con el cómputo normal. Son más o menos 2 millones de imágenes las que tenemos que analizar, llevamos un 10 por ciento en este tiempo. Con eso queremos alimentar un modelo de Inteligencia Artificial que nos ayude a procesar el 100 por ciento de las imágenes.
+Y no nos vamos a quedar ahí. También hay modelos de lenguaje masivo para asistencia virtual, que están trabajando, sobre todo, en la Secretaría de Ciencia y Tecnología. Son proyectos ya avanzados, pero que les falta capacidad de cómputo para poder ejecutarlos al 100 por ciento.
+Muchas gracias.
+Sería todo de mi parte.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+Buenos días a todos y todas. Con su permiso, Presidenta.
+Es una gran noticia, evidentemente, para la ciencia mexicana este gran avance que está presentando nuestra Presidenta.
+Y para iniciar todo este proceso estamos trabajando con todas las universidades mexicanas que tienen, entre todas, podríamos decir, algún pequeño supercómputo, estamos trabajando en ello.
+Pero vamos a firmar un convenio con Barcelona Supercomputing Center, que es la computadora más importante de España. Y el convenio lo vamos a firmar entre la Secihti, representada por el IPICYT, por el centro de nosotros en San Luis Potosí; va a estar la Agencia Digital.
+Y vamos a empezar todo un proceso para fortalecer esta área en México e indudablemente aprovechar las buenas prácticas para el desarrollo de las capacidades institucionales.
+Por ejemplo, este convenio tiene que ver con la investigación científica y la tecnológica en general, con la formación de recursos humanos especializados en estos temas, la transferencia tecnológica y la innovación, el desarrollo de capacidades en investigación en cómputo de alto rendimiento e Inteligencia Artificial.
+Algunas áreas de cooperación son:
+El intercambio de conocimientos y buenas prácticas de gestión.
+Operación y sostenibilidad de infraestructura de cómputo de alto rendimiento especializadas en Inteligencia Artificial.
+El acceso compartido a infraestructura de cómputo de largo rendimiento en ambas partes. Evidentemente, en este momento ellos tienen la computadora, que es la número 9 —ya lo explicará Mateo— de Europa y la 19 del mundo. Explicarán. O sea, es una computadora muy poderosa.
+Y el acuerdo que estamos firmando es tener un grupo de investigadores e investigadoras en este campo del supercómputo y la Inteligencia Artificial en Barcelona, que es el sitio donde está esta computadora española.
+Entonces, el convenio tiene que ver con intercambio, con proyectos conjuntos que vayamos a elaborar. Particularmente se mencionaba este tema que le ha preocupado mucho a la Presidenta: la prevención de los posibles desastres que pueden desarrollarse por fenómenos naturales si no estamos preparados para ellos, y tenemos que tener cada vez mejores formas de predicción.
+Es entre muchos: en salud, en educación, en prácticamente todas las áreas, por supuesto el trabajo con las empresas también.
+Pero en este momento lo que vamos a firmar es ese convenio con este Centro para que todas las instituciones de México, que están representadas en Secihti y en la Agencia Digital, colaboren, formemos más gente, necesitamos formar mucha más gente, mandar allá postdoctorantes, doctorantes, etcétera.
+Y en este momento podemos firmar el convenio.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Pero que venga Valero.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+Primero hablaría Mateo —Mateo, por favor—, él es el director del Centro de Barcelona, la computadora española.
+---
+DIRECTOR DEL BARCELONA SUPERCOMPUTING CENTRE (BSC), MATEO VALERO CORTÉS
+Señora Presidenta.
+Querida Rosaura, Marcelo, Juan Luis.
+Los que me conocéis sabéis que es un honor para mí venir a mi querido México, es el viaje 110. Y llevo con mucho cariño el águila azteca, la llevo por todos los sitios que voy. Y he venido muchas veces a trabajar.
+Entonces, ahí es una capilla donde hemos tenido los supercomputadores que hemos denominado “MareNostrum”. MareNostrum es el Mediterráneo.
+Yo lo que tengo que decirles es que, no sé si por la ubicación donde está, que es una capilla, no ha fallado ni el hardware ni el software, pero bueno.
+―La siguiente, por favor. No está, no es la presentación―. Bueno, da igual.
+Pero quiero decirles que un centro de supercomputación es un centro donde se hace ciencia utilizando supercomputadores.
+Y ya se ha dicho que es un supercomputador: son las máquinas más rápidas del mundo haciendo ciencia, porque las más rápidas están en los data centers, ¿de acuerdo?, pero las más rápidas haciendo ciencia están en los centros de computación.
+Le pongo a mis charlas un título aquí, porque yo creo que el objetivo de la ciencia es hacer un mundo mejor. Trabajamos mucha gente intentando resolver problemas de la sociedad, y eso nos anima realmente a seguir trabajando.
+Aquí lo que intento explicar es cómo se hace ciencia de muchas formas, pero en los centros de supercomputación tenemos computadores muy rápidos, tenemos ahora la ayuda de la Inteligencia Artificial, tenemos programas y tenemos personas. Y con esos ingredientes, yo digo, se pueden hacer muy buenas paellas.
+Ahora, las jóvenes y los jóvenes no tienen excusas para no soñar, para no intentar resolver problemas que hace unos años era impensable.
+Este es el Barcelona Supercomputing Center, es el centro español, ubicado en Barcelona. Es un producto —yo siempre digo— de la colaboración entre instituciones, es muy importante que las instituciones colaboren, entre el gobierno de España, el gobierno de Cataluña y mi universidad, la Universidad Politécnica de Cataluña. Pero también es un punto de encuentro entre la ciencia y la sociedad, como decía.
+Y ahí estamos, llevamos 20 años, teníamos otros 20 años de otro centro, y estamos muy animados.
+—La siguiente, por favor. Iré rapidito. La siguiente—.
+Este es el MareNostrum 5. Hemos tenido cinco supercomputadoras. El MareNostrum 5 son cuatro computadoras a su vez; la segunda línea fue el número 8 hace 2 años, ahora es el 14, los clasificaron ayer en San Luis, los gringos, y la primera fue el número 19.
+Para ver cómo va la tecnología, del MareNostrum 5 al 1 es 10 mil veces más rápido, 10 mil veces más rápido, desde el año 2004 hasta 2024.
+Y la otra cosa es que cada chip de los que hay aquí es 3 veces más rápido que todo el MareNostrum 1 que estaba en la capilla. La tecnología ha evolucionado a una velocidad tremenda.
+¿Qué hacemos?
+Hacemos gemelos digitales. Y los gemelos digitales son muchos tipos de gemelos digitales, son representaciones virtuales de aquello que queremos ver por primera vez o que queremos ver mejor y mejor.
+Por primera vez les diré que estamos haciendo el gemelo digital del centro de fusión, el ITER, porque nadie sabe cómo el plasma se va a comportar, irá a 15 millones de grados, tremendo.
+Pero el gemelo digital más importante que estamos trabajando en muchos centros de investigación es un gemelo digital del cuerpo humano. Tenemos ya la parte del gemelo digital, por ejemplo, del aparato circulatorio personalizado, tenemos muchas partes.
+Gemelo digital importante: se hablaba antes del cambio climático. Para estudiar el cambio climático el único instrumento que hay es un supercomputador.
+Tenemos gemelos digitales de las ciudades. Se ha hablado de la calidad del aire en las ciudades. Las smart cities no son más que calidad del aire y movilidad, y son dos conceptos que están muy relacionados.
+Se ha hablado del lenguaje natural. Es nuestra obligación proteger nuestros idiomas, todos ustedes han tenido en México, todos los que tenemos en España, tenemos 4, porque no podemos dejar esto en manos de Amazon o Google, porque van a decirnos cómo se van a construir las frases en el futuro, y eso lo tienen que decidir nuestros académicos.
+Este es un proyecto, Presidenta, que va a ir a la cumbre, y queríamos que nos ayudara para hacerlo con México, Brasil y Portugal. Rosaura está detrás de ello, está muy animada.
+Hay una cosa: que cuando uno mira los supercomputadores, todo el hardware es de los americanos, esto no puede ser, dependemos totalmente de ellos.
+Entonces, en el Barcelona Supercomputing Center tenemos un grupo muy grande diseñando chips, con la idea de que los siguientes MareNostrum, el 6, dentro de 4 años tenga chips europeos. Aquí tienen ustedes algunos.
+Y lo que tengo que decirles es que: ¿dónde empezó la historia? Pues empezó aquí en el Politécnico, en el CIC con 2 de mis doctorandos, que están allá, brillantísimos, Luis Alfonso Villa y Marco Antonio Ramírez. Y estamos haciendo ahora chips con Intel de 3 nanómetros, que es muchísimo.
+Aquí están ellos, guapos.
+Bueno, estaré acabando ya.
+Presidenta, nosotros somos un centro de investigación; no debemos olvidar la investigación. Y usted sabe que, como decía Mandela, a mí me gusta mucho decirlo, “la educación es lo más importante” porque nos alinea a todos, independientemente de nuestro origen. Pero la investigación es el mecanismo que tenemos los países pobres, como España, para intentar hacer algo.
+Nosotros somos fundamentalmente un centro de investigación que publicamos en las mejores revistas y congresos, somos mil 400 personas, mil 200 investigadores.
+Pero también tenemos que producir puestos de trabajo en nuestros países. Somos un centro que trabaja con las empresas, que les ayuda y que, además, creamos empresas spin-off, y esto lo hacemos bastante bien.
+En estos 20 años hemos traído 600 millones de euros de empresas competitivas. Y cuando vienen es porque lo que hacemos les hace ganar mucho más dinero. El ejemplo más claro fue para Repsol, para decirles dónde pinchar en ambientes difíciles de obtener petróleo, como es el Golfo de México; ganaron centenares de millones de euros.
+Tenemos las spin-off.
+Y luego… —Pasamos, la siguiente. Estas son las spin-offs, pasamos—
+Bueno, empezaría aquí ―había otro slide― de que en Europa es tan importante la Inteligencia Artificial. Yo digo que tenemos un centro de Inteligencia Artificial, Barcelona Supercomputing Center es un centro de Inteligencia Artificial, que tenemos la suerte de tener máquinas muy poderosas; por lo tanto, podemos hacer investigaciones, desarrollos tecnológicos que en otros sitios no los pueden hacer.
+Y Europa se ha dado cuenta también de eso y, además de los centros de supercomputación, ha establecido una política de tener factorías de Inteligencia Artificial y Gigafactorias.
+El BSC también tendrá una AI Factories y estamos luchando por la Gigafactories, que son máquinas más potentes que las que tenemos.
+Con México, ¿qué les voy a decir?, yo vine a mi querido México en el ‘95 colaborando en proyectos europeos con el CIC De hecho, junto con el profesor Ulises Cortés, ayudamos a definir el CIC en el Politécnico y no hemos parado de venir.
+Aquí ya se han nombrado, hay cuatro proyectos grandes en los que hemos colaborado.
+Bueno, hemos tenido becas por doctorado desde el Conahcyt.
+Hemos formado a gente, que luego han venido por aquí bastantes de ellos.
+Y en cuanto a aplicaciones a gemelos digitales, hemos tenido proyectos como el ENERXICO, que ahorró mucha plata a Pemex explotando un pozo de petróleo.
+El CALIOPE, que es la calidad del aire.
+Y el otro día, Presidenta, seguramente usted supo que hacíamos la simulación del Urgent Computing, simulamos con el computador un posible terremoto en México y qué consecuencias podía tener, son máquinas prodigiosas.
+Y resulta que nos han dado el premio en el Congreso de Supercomputación, que hay ahora en San Luis, nos han dado el premio a la colaboración entre México y el BSC.
+Este es Ciudad de México, el CALIOPE —estoy acabando ya—.
+Esto es la calidad del aire, ya hemos hablado.
+Este es el simulacro. Y esto es lo que he dicho aquí abajo, que hemos obtenido un premio mundial de los resultados que obtuvieron. Y ese software ha sido realizado por gente de México utilizando el MareNostrum.
+Las posibilidades de utilizar estos supercomputadores con Inteligencia Artificial son enormes para un país.
+La siguiente, el ENERXICO, un proyecto de energía.
+Y esta es la última. Perdón, sí me he extendido, pero me gustaría haber estado dos horas explicando realmente más cosas.
+Decirles que hay un tema muy importante: hace unos años se decía que el país que no computa, no compite. Y eso más o menos era verdad.
+Ahora hay una cosa mucho más fuerte: el país que tenga el cálculo, computadores y datos propios podrá hacer cosas que, de otra manera, se las harán y no será soberano.
+Y por eso, es muy importante tener estas máquinas, tener estas máquinas que se dedican a la Inteligencia Artificial de supercomputación, tener gente preparada y resolver problemas para la sociedad, ¿para qué?, para hacer un mundo mejor, como he dicho, que es el objetivo para mí de la investigación.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias, Mateo.
+—¿Quieres comentar del…—
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Solo para recapitular: como parte del Plan México, es un programa de supercómputo mexicano, que —como explicaba Jorge— nos permite resolver problemas públicos, también privados, que requieren una capacidad de computación muy elevada y que nos permitan, además, hacerlo en un tiempo bastante reducido.
+La semana siguiente anunciaremos la creación de la supercomputadora más grande de América Latina, que será una supercomputadora mexicana. Ya tendremos oportunidad de regresar a este espacio ―Presidenta, gracias― para anunciarlo que, la verdad, es un proyecto que desde la Agencia de Transformación Digital y en colaboración, por supuesto, con la Secretaría a cargo de la doctora Rosara Ruiz nos entusiasma muchísimo.
+Y hoy lo que estamos anunciando es la firma de un convenio con el Centro de Supercómputo de Barcelona, que crea, dentro de las instalaciones de este Centro de Supercómputo, el Centro Mexicano de Supercómputo.
+Es decir, en paralelo, en lo que vamos a crear esta supercomputadora, que anunciaremos, ya vamos a poder empezar, desde enero, a poder utilizar capacidad de cómputo —y estamos, de verdad, muy agradecidos— para poder ir resolviendo algunos temas que, por instrucción de la Presidenta Claudia Sheinbaum, resultan apremiantes, como es el tema, por supuesto, de predicción meteorológica.
+Entonces, el convenio que hoy se firma es justamente para crear en Barcelona el Centro Mexicano de Supercómputo.
+Es, la verdad, un esquema de colaboración único, intensivo, que incluirá, por supuesto, a cargo de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación y de la Agencia de Transformación, vía Infotec, que especialistas mexicanos, investigadores mexicanos, vayan a Barcelona con total soberanía, en términos del manejo de los datos, y puedan ya ir utilizando la capacidad para ir resolviendo problemas —reitero— públicos y apremiantes.
+La verdad, es un momento, es un paso histórico, en términos de la capacidad de cómputo y supercómputo en México. Estamos muy agradecidos.
+Y ya les daremos el detalle de la computadora, supercomputadora mexicana, la semana que entra.
+Sería eso, Presidenta.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Adelante. Vamos a firmar el convenio.  Marcelo, todos, vénganse; los invitamos a todos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, estas son las buenas noticias de hoy:
+Rompimos récord en Inversión Extranjera Directa.
+Y si recuerdan, en los 100 puntos que presentamos en el Zócalo cuando llegamos al gobierno, hay un punto que dice: “Hacer de México una potencia científica”.
+Hoy por hoy no podríamos… Además, obviamente, de los grandes investigadores, investigadoras, científicos, científicas, que hay en México, para poder dar un siguiente paso necesitamos capacidad de cómputo, que se puedan procesar los datos mucho más rápido.
+En eso hay supercomputadoras en México, en la UNAM, en el CICESE en Ensenada y en muchas otras universidades. Todas esas supercomputadoras, que son pequeñas comparado con lo que tiene Barcelona o con lo que queremos construir, también las vamos a conectar. Mientras tanto, esta firma es importantísima.
+Fíjense, para poder analizar los datos de clima, para hacer predicciones meteorológicas, si tuviéramos una red de supercómputo, podríamos analizar los datos mucho mejor y poder predecir mejor, entre otras muchas cosas.
+En lo que se construye la supercomputadora en nuestro país, que va a dar un impulso enorme al desarrollo de México y a la capacidad científica y tecnológica de nuestro país, nos abren la puerta en la supercomputadora de Barcelona.
+Ya habíamos tenido con ellos muchos convenios, pero ahora nos abren la puerta para que investigadores e investigadoras mexicanas se vayan allá un tiempo ―que, por cierto, han formado, han pasado muchos mexicanos por la supercomputadora de Barcelona―, pero nos abren la puerta para tener ahí un espacio del Centro Mexicano de Supercómputo allá, en lo que lo construimos aquí.
+Y podemos comenzar a procesar un montón de información que —como bien dijo Jorge o Pepe— nos lleva meses, meses y meses poder tener información relacionada con muchos temas en nuestro país.
+Entonces, mientras tanto, estamos allá. Uno de los grandes temas es clima, meteorología y otros temas que vamos a desarrollar con ellos.
+Y ya la próxima semana les vamos a presentar lo que es la supercomputadora mexicana, que vamos a iniciar su construcción el próximo año.
+Bueno, pues estas son las buenas noticias del día de hoy.
+Vamos.
+---
+PREGUNTA
+Del tema.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Del tema. A ver, del tema, Adelante. Sí, tú―.
+---
+PREGUNTA
+¿Yo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí.
+---
+PREGUNTA
+Muy buenos días. Bertha Alicia Galindo, Alcanzando el conocimiento y El regreso de Donald Trump.
+Presidenta, la felicito porque esto ya es un paso muy importante en la política científica.
+Pero bueno, también quisiera preguntarle: ¿cómo…? Han mencionado también a la iniciativa privada, ¿cómo la van a tomar en cuenta?
+La semana pasada, la secretaria Rosaura Ruiz, en el evento de Inteligencia Artificial en Santa Fe, les hizo un llamado a todos los empresarios para, justamente, que se sumen a todas estas iniciativas. Y ¿cómo piensan sumarlos?, porque, bueno, también se necesita de la iniciativa privada.
+Por otra parte, también, le quisiera preguntar al secretario Marcelo Ebrard, bueno, de su visita en la APEC. Es un logro que también la APEC se celebre aquí en México.
+Y bueno, también hay desafíos para el T-MEC. En una reunión en donde estuvieron ellos en el T-MEC, también los empresarios, decían: “Bueno, hay asuntos con las universidades, asuntos burocráticos que no podemos trabajar con ellos”.
+¿Cómo van a resolver estas burocracias que los centros de investigación y las universidades por muchos años han tenido para trabajar como parte de la innovación, como hacer las cosas más rápidas, como se necesitan para un desarrollo más rápido?
+Y también, la caída de la industria manufacturera. Ya ayer el secretario de Economía decía que “México necesita una política industrial muy fuerte”. Bueno, ¿cuáles son los pasos?
+Estos son mis temas.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, en la primera pregunta, este es un centro público, y es muy importante.
+Las empresas privadas, hay grandes empresas telefónicas, por ejemplo, que tienen sus propias computadoras, sus centros de datos. Pero es muy importante que México tenga un centro público, una supercomputadora pública, que pueda estar, que esté al servicio de la gente, del desarrollo del país, de la investigación científica, del propio Gobierno, de gobiernos estatales y también de la iniciativa privada, que si quiere desarrollar algo, pudiera llegar a contratar al centro de supercómputo que tendríamos más adelante.
+Eso, por un lado.
+Pero es importante que haya un centro público, que el Estado mexicano, más allá del Gobierno, y la comunidad científica tenga acceso a una computadora que permita el desarrollo de nuestro país.
+Ahora, hay mucha relación con la iniciativa privada en muchos temas. Por ejemplo, también en la construcción de centros de datos en México.
+Recientemente estuvo aquí también el secretario de Economía, hay una empresa que está instalando un centro de datos en Querétaro.
+Y hay muchas solicitudes para instalar centros de datos. Centros de datos también es para el almacenamiento de la información que se requiere ahora con la Inteligencia Artificial.
+Entonces, hay mucha relación, pero en particular la supercomputadora es muy importante que sea pública.
+Bueno, y Marcelo para...
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Con su permiso, Presidenta.
+Bueno, brevemente diría: está en curso. El Plan México, lo que establece es vincular, ¿qué cosa?, innovación, financiamiento, empresas del sector público y empresas del sector privado, para que esa capacidad que tenemos en nuestro país tenga cada vez mayor posibilidad de generar riqueza.
+Todo eso está en curso, para eso son los aranceles, es un instrumento.
+Otro instrumento es lo que ayer anunciamos, que es un convenio con la banca comercial para que el acceso a financiamiento llegue a 50 mil empresas pequeñas que hoy no tienen esa posibilidad. Eso fue lo que firmamos ayer.
+Aumentar la capacidad de oferta de nuestra industria, en este caso. Ayer fue textil y calzado, pero va a ser en muchos otros, en muchos sectores.
+Entonces, todos esos instrumentos tienen un solo objetivo, se llama “política industrial”, que es desarrollar más rápido nuestras capacidades, tanto en los sectores que ya conocemos, como nuevos sectores. Por ejemplo, semiconductores; por ejemplo, lo que hoy estamos… que nos abre la puerta para muchísimas cosas en la economía, está autoplaneación de energía, investigación de muchas nuevas iniciativas que vamos a tomar.
+Entonces, todos los instrumentos para generar empleo y riqueza, eso es la “política industrial”, es lo que estamos tratando de hacer.
+---
+PREGUNTA
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—-Adelante. A ver—.
+---
+PREGUNTA
+Muchas gracias, Presidenta. José Manuel Fuentes, de Capital 21.
+Preguntarle, en primer lugar, ¿cómo se va a aprovechar el Plan México, ahora en la cumbre que estuvo el secretario de Economía, Marcelo Ebrard, con la APEC?
+Y, además, quedó pendiente, también que nos dijeran la importancia de que México va a ser sede en 2028 de la APEC, que es una cumbre muy importante en materia geoeconómica y geopolítica.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Marcelo—.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, estimamos que los países representados en la APEC para los próximos 30 años tendrán la más alta tasa de crecimiento económico.
+México tiene… Bueno, está Estados Unidos, Canadá, pero también está China —como ya mencioné—, Japón, Corea del Sur, Indonesia, Tailandia, también estuvo invitado Malasia, hizo uso de la palabra. O sea, son economías que están creciendo muy rápido.
+México tiene —Vietnam— México tiene Tratados Comerciales con algunos de ellos y con otros no, pero somos como un puente. Somos el principal socio de Norteamérica y somos uno de los principales socios también de varios de esos países; por ejemplo, de Japón, de Corea del Sur, de China, en fin, de varios países.
+Entonces, va a ser como un puente, es la presencia de México en el ecosistema económico que va a crecer más en los próximos años, por eso es muy importante que la sede sea aquí.
+Nosotros vamos a proponer, la Presidenta de México va a proponer cuáles van a ser los temas que se van a tocar.
+Vamos a tener tres reuniones previas: ministeriales, con el sector privado también; bueno, también están las iniciativas de Inteligencia Artificial. México acaba de presentar su propuesta, me preguntaron ayer sobre eso, sobre el laboratorio nacional que presentó nuestra Presidenta.
+Estamos en los temas, es ponernos a la vanguardia, ser activos, decir: “Véngase para acá, vamos a dialogar, vamos a crecer juntos”. Eso es lo que nos instruyó la Presidenta, es la actitud de México.
+---
+PREGUNTA
+Secretario, aprovechando que está con la palabra, preguntarle si ¿los países como Corea del Sur y China no se acercaron a hablar con usted sobre el tema de los aranceles?
+Incluso vimos que se tomó una foto con el presidente Xi Jinping.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+No, no me hizo mención a eso; más bien, mandó un muy cálido mensaje a la Presidenta Sheinbaum, le dio mucho gusto que México estuviera presente.
+Y más que nada, la conversación fue sobre la invitación a participar en la sede que ellos van a tener de APEC en el año… el año siguiente es en Vietnam. No, es China y luego sigue Vietnam. Entonces, el año entrante será en China, ellos son la sede de APEC y nos hizo la invitación a que los acompañáramos.
+Esa fue la conversación. Pero sí fue muy amable, muy cálido.
+Con Corea también, muy amables.
+Y desde luego que siempre hay temas de diferente naturaleza, pero no fue un tema central o importante en esas conversaciones el asunto de los aranceles que México está presentando en su Congreso, está en discusión.
+Más bien, lo que les interesó mucho es que México sea la sede, que tenga interés de ser la sede y los mensajes a la Presidenta de México, que yo vi muy positivos de todos los países, porque también hablé con Indonesia, Malasia, Corea —por supuesto, era el anfitrión—, los Estados Unidos, Canadá —el primer ministro—, en fin, Xi Jinping.
+Toda la comunidad internacional tiene un gran reconocimiento por nuestra Presidenta y lo que está haciendo México, ahí lo pude yo constatar.
+---
+PREGUNTA
+Muchas gracias.
+En otro tema, Presidenta, preguntarle: su opinión sobre esta publicación que hizo la presidenta de Morena, Luisa María Alcalde, en donde mostró unos contratos a un joven que se califica como “apartidista”, Edson Andrade, que es uno de los principales impulsores de la marcha de la Generación Z y fue contratado por Acción Nacional, el PAN, en febrero de 2025, por 2 millones 106 mil 810 pesos dividido en 12 pagos.
+Y la presidenta de Morena dice que “qué coincidencia”, esto después de que el propio presidente del PAN, Jorge Romero, señaló que “a la oposición solamente le faltaba la violencia”.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues muy interesante, ¿no?, muy interesante la publicación de ayer de Luisa María. Mucha información, para que se analice por todas y por todos.
+---
+PREGUNTA
+Porque también se hizo público, Presidenta, que uno de los presuntos agresores, Alberto González Mancilla, que es uno de los detenidos por esta generación de violencia, también fue identificado como delegado regional del Consejo Nacional del PAN en la Cuauhtémoc.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Muy interesante, para que todas y todos lo analicen, para documentar.
+---
+PREGUNTA
+Por último, Presidenta, también preguntarle: yo sé que ayer fue el tema, pero el tema del Mundial quedó… Bueno, me quedó la duda de: ¿cómo participará la Secretaría de las Mujeres en el Mundial?, ¿si tendrá una participación?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, está… Hay varios torneos femeniles de todas las edades, está el torneo de salón que presentó Zoé, están los torneos en las escuelas. Entonces, Citlalli está incorporada en todas las actividades que se presentaron ayer, principalmente en las Copas y Mundialitos.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Bueno, a ver. ¿Quién más? A ver, aquí―.
+---
+PREGUNTA
+Muchas gracias, Arturo Pavón, de Efecto Colateral.
+Presidenta, habló el director de la Supercomputadora en Barcelona acerca de independizarse de lo que es todo el sistema, digamos, estadounidense en cuanto a los procesadores, a los chips, y esto podría marcar una gran diferencia en la forma que se maneja la información a nivel mundial.
+¿México está dando este primer paso para una independencia, una —vaya, sí— una independencia digital, como usted lo ha planteado desde su campaña?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es construcción de soberanía en todos sentidos.
+Nosotros… Obviamente, México es un país integrado al mundo entero y eso, digamos, ya no tiene vuelta atrás. Nosotros somos el país con más Tratados Comerciales o de los países con más Tratados Comerciales del mundo.
+La integración económica que hay con Estados Unidos es muy grande; y va a continuar, es natural, por los Tratados Comerciales que tenemos, porque estamos cerca, porque estando los tres países juntos fortalecemos nuestras economías.
+Pero nosotros planteamos un Plan para México, el Plan México.
+Y el Plan México tiene que ver con garantizar mayor autosuficiencia alimentaria, lo cual crea soberanía alimentaria; también fortaleciendo nuestro maíz, el maíz nativo; el fortalecimiento de la producción de frijol, de los principales granos, de carne y de otros productos principales para la alimentación.
+¿Eso quiere decir que nos cerramos a la importación?
+No, quiere decir que fortalecemos nuestras capacidades y generamos las condiciones para que nuestro pueblo viva mejor, porque finalmente nuestro objetivo es el bienestar de las y de los mexicanos, de todas y de todos, y fortalecer la economía de México con mayor soberanía.
+Entonces, es soberanía alimentaria.
+Estamos hablando también de soberanía energética; es decir, que produzcamos más la energía que consumimos en nuestro país. Hoy producimos mucho más gasolina y diésel de la que se producía antes, gracias a la Refinería Olmeca.
+Estamos promoviendo la transición energética para que haya mayor producción de energía solar, energía eólica, que nos permita que con nuestros propios recursos fortalezcamos el crecimiento de México.
+También importamos mucho gas, vamos a seguir importando, pero queremos que se produzca más gas en México para fortalecer nuestra soberanía energética.
+Y así en distintos temas.
+Uno de ellos también es el desarrollo tecnológico y la soberanía científica, Por supuesto que la ciencia no la puedes cerrar. Si hay un campo que tiene que ver con el mundo entero, pues es la ciencia, la colaboración con científicos de todo el mundo es indispensable; pero lo que queremos es mayor desarrollo científico y tecnológico del país.
+Y hoy con la Inteligencia Artificial y con el desarrollo de los datos vinculados con la ciencia, con la tecnología, no podríamos pensar en mayor soberanía si no tenemos una supercomputadora o no tenemos mayor almacenamiento de datos.
+Depender de los demás para que nos den la información para el desarrollo de México… Vamos a seguir con mucha colaboración, pero queremos fortalecer a México.
+Por eso, se llama “Plan México”, porque es el fortalecimiento en distintas áreas.
+¿Es solo del Estado?
+No, la iniciativa privada, el sector social es importantísimo. Es decir, hay necesidad de inversión privada, de que también las cooperativas, los ejidos, las comunidades, también tengan su participación, pero el Estado tiene un papel muy importante; y en particular en que no dependamos de otros para el desarrollo de las capacidades mexicanas, sino que podemos tener un centro público de supercómputo, vinculado con las universidades, evidentemente. Eso va a colocar a México en otra posición.
+Entonces, estamos muy entusiasmados con este proyecto.
+Pepe Merino estuvo con su equipo en Barcelona, ​​recientemente estuvieron en la India, que ha desarrollado muchísimo sus capacidades de servicios en ingeniería, de cómputo, de supercómputo, de producción nacional; ha estado en otros países.
+Y tenemos colaboración de muchas naciones también, pero nosotros queremos que en México se desarrollen estas capacidades.
+Entonces, eso es el Plan México.
+---
+PREGUNTA
+Gracias.
+Mateo Valero mencionó que “se mantiene una gran vigilancia en la protección de todos los datos que se van a manejar”. Eso refiere una gran responsabilidad de su gobierno, pero, sobre todo, de su gobierno en la transición que va a venir para el 2030. No cualquiera puede llegar a la Presidencia en el 2030 teniendo toda esa cantidad de datos a su disposición, tenemos que blindarlo.
+¿Qué opina usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Los datos personales le pertenecen a la persona, la persona decide si da esos datos para algún tema.
+Ahora, por supuesto, si sacas tu RFC, tienes que dar esos datos para que se puedan compartir.
+Pero es muy importante que los datos se resguarden. Y como aquí el experto es Pepe, pues mejor le doy la palabra.
+---
+PREGUNTA
+Sobre todo, la información nacional.
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Aquí, digamos, son, yo diría tres temas, Presidenta, muy rápido:
+Lo primero, que es lo más importante, es lo que la Presidenta ya señaló: los dueños de los datos personales son las personas y son quienes deciden solicitar que estos datos se compartan si, por ejemplo, están haciendo un trámite o están tramitando un crédito, en fin, lo que sea con públicos o privados que tengan la capacidad de poder decidir sobre quién ve qué información, para acceder a qué servicio o qué trámite.
+Lo segundo, por parte de lo público del gobierno hay un compromiso importante del resguardo y disponibilidad de esa información. Es decir, que cuando tu quieres hacer un trámite, por ejemplo, de manera digital, pues sí lo puedes realizar, pero que tu información esté resguardada de manera segura.
+Y esa es una política de ciberseguridad, es decir, que no tenga vulnerabilidad la información, pero, al mismo tiempo, que esté disponible para que cualquier ciudadano pueda hacer el trámite que requiera.
+Y lo tercero es que este modelo en donde los dueños de la información son las personas, tiene que estar metido en el diseño y la construcción de todas las soluciones digitales.
+Nosotros, por ejemplo, creamos ya Llave MX, que al día de hoy tiene 19 millones de cuentas activas, a solicitud, por ejemplo, de las personas que quieren realizar algún trámite, etcétera. Y ahí, por supuesto, es las personas quienes solicitan y las personas quienes de manera voluntaria comparten información para poder acceder a estos servicios digitales.
+Y en eso, México se acompaña de las mejores prácticas en el mundo para garantizar, por supuesto, la privacidad de las personas y, al mismo tiempo, facilitarles la vida, que es lo que venimos nosotros a hacer, facilitarles la vida sin poner en riesgo, sin vulnerar, por supuesto, su privacidad y que siempre son los dueños de su propia información.
+Sería eso, Presidenta.
+---
+PREGUNTA
+Gracias.
+Y por último, ya hablando de información confidencial del Gobierno, recordemos que cuando se fueron a trabajar Calderón y Zedillo a empresas a las que habían beneficiado en diferentes momentos, ellos se fueron con información muy, muy importante sobre la vida pública de México y de la administración pública de México. Se llevaron esa información, no sabemos cómo la manejaron.
+Por eso, yo preguntaba: la transición tendrá que ser muy importante para resguardar los datos de todo el país, no nada más personales.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Por eso, ahora no se permite que un servidor público que salga, y que tiene que ver con un tema, se vaya a trabajar una empresa vinculada con ese tema; eso ya está en la ley desde el Presidente López Obrador.
+Porque sí, Calderón se fue a trabajar a Iberdrola, en su momento fue secretario de Energía y luego presidente.
+Y Zedillo se fue a trabajar a la empresa de ferrocarriles, a la cual le privatizó los ferrocarriles en México. Es un conflicto de interés evidente.
+Ahora, ya por ley no se puede, ya no puedes ser secretario de Energía y salir a una empresa de energía porque, evidentemente, tienes información privilegiada.
+Ahora, lo que tiene que ver con el resguardo de la información estratégica para el país y el resguardo de la información personal que utiliza el Gobierno para los trámites de los ciudadanos y de las ciudadanas, ahí tiene que haber por ley los criterios claros de qué se comparte y qué no.
+En el caso de la información personal: no se puede compartir nada que no tenga que ver con los propios trámites que realiza la persona.
+Cuando sacamos una credencial del INE, que ya no es el gobierno, sino es una institución autónoma, le estamos dando datos personales, incluso nuestra fotografía, nuestra huella digital. El INE tiene la responsabilidad de resguardar esos datos, por ley.
+La información estratégica que lleva el Centro Nacional de Inteligencia, por ejemplo, y ahora el nuevo Sistema Nacional de Inteligencia e Investigación, en la propia ley establece claramente el resguardo de esa información, porque alguna es información estratégica de la nación, y la otra son informaciones individuales de las personas que no pueden compartirse. En eso, la Ley de Datos Personales es muy importante en nuestro país.
+---
+PREGUNTA
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Bueno, vamos a ver, sobre el tema, sobre el tema, sobre el tema. A ver aquí la compañera―
+---
+PREGUNTA
+Buenos días, Presidenta. Mara Rivera, de Enfoque.
+Yo quisiera preguntarle si ¿ya le informaron, el secretario de Economía, de estos 6 mil millones de dólares, de inversiones nuevas?, ¿qué sectores son los que se van a ver beneficiados? Y también, si ¿son, forman parte de la estrategia del nearshoring?
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Bueno, tengo algunas limitaciones legales de las… No te puedo dar los nombres de las compañías, pero sí te puedo dar los sectores principales:
+Tengo, en primer lugar, energía.
+En segundo lugar, son inversiones vinculadas a centros de datos.
+Primero, energía; centros de datos.
+3. Obras de infraestructura.
+Y 4. Sector financiero.
+Son las que tengo registradas en este periodo del que estamos informando.
+Tienen que ver con la expansión, la llegada a México o primeros arribos de lo que podríamos llamar “una nueva economía”, que está centrada en datos, Inteligencia Artificial y energía, porque está muy vinculado uno con el otro.
+Empieza a ser un dato relevante. Ya conforme pasen los meses, ahora en las próximas semanas podemos tener más detalles para poderlos conocer. Pero esencialmente están vinculadas con esas actividades.
+En cuanto al origen, en primer lugar es Estados Unidos, un poquito más del 30 por ciento; luego sigue España, Países Bajos, y Japón y Canadá. Ese es el origen.
+---
+PREGUNTA
+Gracias.
+¿Alguna opinión que pudiera compartirnos respecto al último estudio de los análisis del BBVA respecto a la situación económica?, en donde señala que: la inversión prácticamente está detenida y que incluso la desconfianza empresarial ha detenido también la creación de empleos formales.
+---
+SECRETARIO DE ECONOMÍA, MARCELO EBRARD CASAUBON
+Mira, yo creo que tenemos, como todos, velocidades de inversión.
+Una muy importante tendencia de la Inversión Extranjera Directa y de la llegada a nuestro país de lo que te acabo de referir, en donde yo diría: en la esfera internacional me queda muy claro que la percepción traducida en inversiones es muy positiva sobre lo que vamos a lograr con los Estados Unidos, el principal origen de la inversión es Estados Unidos, y con otros países del mundo, pero principalmente por la revisión del Tratado de Libre Comercio, porque, si no, no tendrías ese ritmo de inversión.
+Entonces, quiere decir que están apostando, invirtiendo, asumiendo que nuestro país va a tener un crecimiento económico relevante; si no, no harían esas inversiones.
+Entonces, eso lo ves muy claro en la esfera internacional, las Inversiones Extranjeras Directas, también está el flujo de las exportaciones.
+Por cierto, hoy Estados Unidos ya publicó sus cifras que estábamos esperando. Entonces, ¿qué te dicen sus cifras de su comercio exterior?, te dicen que México es el principal socio de Estados Unidos, número 1.
+En exportaciones de Estados Unidos somos el país que más le compra del mundo, número 1. Esto lo publicaron hoy, hace un ratito.
+En importaciones de Estados Unidos también somos el número 1, somos el cliente número 1.
+Y como acabo de decir, en cuanto a inversión extranjera, el origen número 1 también es Estados Unidos.
+Entonces, ¿qué te dice el…? Estas son las cifras oficiales de Estados Unidos. Entonces, yo veo que la apuesta de la comunidad internacional o del mercado es muy en favor de nuestro país, y esa tendencia se va a consolidar.
+Ahora el reto es que nuestra inversión nacional la pongamos en el mismo track. Por eso hicimos ayer… comentaba la compañera: ¿qué hicimos ayer respecto al uso de textiles y de calzado?, reunimos a los compradores, reunimos a las empresas, les estamos facilitando el acceso a financiamiento. Y esto va a provocar ¿qué cosa?, ¿qué es lo que tiene que provocar?, tiene que provocar un crecimiento de nuestra industria en 2026.
+Y como es ese sector, son otros sectores, lo vas a empezar a ver: construcción y otras actividades manufactureras, porque también México está exportando más de otras manufacturas, no las que necesariamente estábamos exportando tradicionalmente.
+Entonces, soy optimista de que habrá una convergencia entre la industria, entre la inversión nacional con la tendencia muy positiva que se observa en inversión extranjera.
+---
+PREGUNTA
+Gracias, secretario. Presidenta, bueno...
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay una… Así como comentas la nota esta de…
+---
+PREGUNTA
+Del BBVA.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+…hay una nota de Banamex ayer salió, me acordé.
+También hay… No solo salió Banamex, salieron otros bancos con una expectativa muy favorable para México.
+---
+PREGUNTA
+Ahora que lo comenta, Presidenta, también ellos adelantan que podría autorizarse este incremento a los mínimos del 11 por ciento.
+Hay también organismos… Bueno, primero preguntarle si ¿usted iría por ese porcentaje?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se está en mesa de trabajo con las empresas, con la representación de los trabajadores.
+Yo me comprometí a que —en campaña— a que el salario mínimo tenía que llegar a 2.5 canastas básicas, porque eso garantiza disminución de la pobreza.
+Entonces, tiene que ir en ese marco, y de manera muy responsable.
+Siempre se habla con Hacienda, Hacienda habla con Banxico para que se hagan las expectativas: si hay expectativa de inflación o no con el aumento al salario mínimo, se ve el impacto que puede tener en las empresas, en fin, se hace todos los análisis, no es así, a dedo, de “¿qué se me ocurre ahora?”, sino en un trabajo muy técnico y pensando siempre en las y los trabajadores mexicanos.
+---
+PREGUNTA
+Por supuesto.
+También le quería yo comentar respecto a esto que organismos como el IMEF ayer precisamente, señalaban que hay un riesgo latente: que si llegara a darse un aumento a los mínimos por arriba de la inflación esperada, esto provocaría prácticamente efectos inflacionarios, de los que no se quieren.
+Habría dinero para adquirir productos, habría dinero por parte de la clase trabajadora, pero en donde ellos ven un riesgo es en la productividad, que no habría productividad deseada para alcanzar las expectativas de ese dinero que estaría fluyendo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Se ha demostrado que, si aumenta el salario, aumenta la productividad. Eso es número 1.
+Número 2, en la Constitución ya está establecido que el aumento al salario mínimo tiene que ser mayor que la inflación. O sea, eso ya no está en discusión.
+Y número 3, hay mesas de trabajo, o sea, no se decide unilateralmente. Se trabaja con el Consejo Coordinador Empresarial y con los sindicatos para poder establecer un aumento que garantice mejor calidad de vida para las y los mexicanos, y que no genere problemas en la economía.
+---
+PREGUNTA
+Este señalamiento de “que no habría bienes producidos”, entonces, digamos, ¿qué es?, ¿no sé si alarmista o no tan certero, que pudiera poner en riesgo lo que se ha alcanzado respecto al cierre de la brecha salarial?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues no sé qué elementos hayan planteado esta declaración. Lo cierto es que se hace por consenso, todos los aumentos al salario mínimo han sido por consenso, y nosotros siempre buscamos que sea el mayor posible, porque le ha ido muy bien a México con el aumento al salario mínimo, muy bien.
+De acuerdo con el Inegi…
+---
+PREGUNTA
+Porque la expectativa son 3.96, de la expectativa de inflación. Entonces, ¿podríamos esperar que los mínimos estén todavía por arriba, quizás no el 11, pero sí arriba del 3.96?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bastante más, bastante más, eso es lo que nosotros esperamos, sacar de la mesa, porque todavía hay espacio.
+---
+PREGUNTA
+Ok. Presidenta, también hubo un…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El salario mínimo hoy al mes en la frontera es mayor. Ahí sí hay que revisar para que no pierda competitividad también la frontera norte, ahí sí, porque ahí ha aumentado casi 3 veces el salario.
+Pero el salario mínimo está en 8 mil 400 y pico, casi 8 mil 500 pesos al mes; o sea, no estamos hablando... Claro, estaba en 3 mil, en el 2018; pero estamos hablando de 8 mil 500 pesos al mes, o sea, estamos hablando de 450 dólares mensuales.
+Ayer, el acuerdo del PACIC, que tiene una canasta básica distinta, se mantuvo con los empresarios, los comercializadores —que además les agradecemos mucho—, se mantuvo en 910 pesos. Esa es la canasta semanal. Entonces, si lo multiplicas por 4, son 3 mil 200; quiere decir que, de un salario mínimo, si solo trabajara una persona en el hogar, prácticamente la mitad se va solo para alimentación.
+Entonces, por eso es importante pensar en las familias mexicanas, en aquellas que ganan un salario mínimo.
+Ahora recuerden, por ejemplo, que nuestro Programa de Vivienda es justamente para los que ganan 1 y 2 salarios mínimos para poder dar acceso a la vivienda a los que más lo necesitan.
+Pero así esta idea de que “el salario mínimo está altísimo”, pensando en cuánto puedes adquirir con un salario mínimo, siempre hay que pensar en las familias más necesitadas en nuestro país, y el esfuerzo de los empresarios, sin generar un problema en la economía mexicana, de manera responsable.
+---
+PREGUNTA
+Sí. Presidenta, en otros temas, sí se reconoce evidentemente el esfuerzo que ha tenido el gobierno junto con Petróleos Mexicanos para tomar medidas en contra de lo que ha sido el huachicol fiscal, incluso también todos estos temas que han involucrado en la productividad de la empresa.
+Sin embargo, ayer que Pemex reportaba a la SEC de los Estados Unidos, a la Comisión de Valores y Bolsa de los Estados Unidos, en donde admite que prácticamente medidas de seguridad para reducir el robo de combustible y el huachicol fiscal son uno de los mayores riesgos para su operación.
+¿Está enterada de este reporte? ¿Qué piensa? Porque evidentemente el admitir que en cierta forma ha fracasado, hasta el momento, y está en riesgo la operatividad de la empresa…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, no ha fracasado.
+Primero, el huachicol de picar los ductos, ese ha disminuido muchísimo; todavía se llega a presentar, pero ha disminuido mucho.
+Y la importación ilegal de combustible o la importación sin pagar impuestos —porque ese es el tema, se importa sin que se reporte que es combustible, sino reportando otro producto— también ha disminuido.
+¿En qué se puede observar?
+En el incremento de las ventas de Pemex y de los privados.
+Recuerden que en México, a partir de la reforma del ‘13, de Peña, los privados pueden importar gasolina si tienen un permiso de importación de Secretaría de Energía; ahora ya hay menos permisos que los que se dieron en su momento.
+Pero ellos, los que importan gasolina, nos han reportado mayores ventas en las gasolineras y Pemex ha incrementado sus ventas. Entonces, si ha incrementado la venta legal de combustible y las ganancias de Pemex y de los privados, quiere decir que disminuye la recarga ilegal en las gasolineras de combustible; es la mejor señal.
+Todavía ocurre, sí, todavía en una proporción bastante menor, y tenemos que combatirlo hasta que no haya absolutamente nada.
+---
+PREGUNTA
+Quizás, a lo mejor el director de Pemex podría explicarnos por qué este señalamiento o por qué se advierte a los Estados Unidos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay que ver la redacción de cómo lo incorporaron: sí es un riesgo, pues sí, sí es un riesgo, ¿verdad?, para las ventas de Pemex, pero lo cierto es… Yo me reúno todas las semanas con Energía, también con Economía, con Hacienda; ayer nos reunimos con Pemex y justamente me mostraron cómo se ha ido incrementando la venta de gasolina y de diésel.
+---
+PREGUNTA
+¿Las operaciones de la empresa entonces no están en riesgo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No.
+Y, además, se ha hecho un trabajo este año muy importante y, además, muy reconocible de la Secretaría de Energía, Pemex y también particularmente de la Secretaría de Hacienda, del secretario, de la subsecretaria, principalmente, del ramo, que lograron disminuir la deuda de Pemex en un esquema de apoyo del Gobierno Federal a Pemex muy creativo y que aplaudieron todos, incluso las calificadoras, calificaron de mejor manera a Pemex.
+Entonces, va bien Pemex, va bien. Vamos bien.
+---
+PREGUNTA
+Muy bien. Ya dos cosas, Presidenta:
+¿A quién le toca informar, al Gobierno Federal o al Gobierno de la Ciudad, sobre quiénes integran este llamado “bloque negro”? Desde su gobierno incluso han estado operando.
+Porque, bueno, sí se ha estado comentando, se escucha que en este movimiento, prácticamente desde que empezó a verse en los movimientos de mujeres, estudiantes, se ve en el pasado sábado que está este grupo de choque… Bueno, no, de este grupo violento.
+¿Pero quiénes lo integran? O sea, se habla de 9 detenidos, ninguno forma parte identificado como este “bloque negro”.
+¿A quién le toca informar quiénes son estos?, ¿y quién los está financiando, además?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Fue una de las preguntas que hice justamente en “La mañanera”.
+Hay… Ya tiene un tiempo, desde que fui jefa de Gobierno, que hay grupos que se cubren la cara, se ponen de negro y generan actos violentos, algunos utilizando artefactos muy peligrosos.
+Y ahí se hicieron en su momento las investigaciones, se llamó a declarar, porque todo tiene que ser en el marco de la ley.
+Yo creo que lo que vimos el sábado, y por eso hice el llamado a la Fiscalía de la Ciudad de México y al propio Gabinete de Seguridad que es importante que se investigue quiénes y cómo generaron estos actos de violencia porque, además, estos golpes que hicieron a la Policía de la Ciudad de México, en algunos casos, fueron de gravedad.
+Entonces, tiene que investigarse porque finalmente es un delito, más allá de una protesta social. Entonces, tiene que investigarse.
+¿Y quién tiene en este caso que llevar el proceso de investigación? La Fiscalía de la Ciudad de México. Y si solicita ayuda, obviamente, se le apoya con el Gabinete de Seguridad.
+---
+PREGUNTA
+Sí, porque cuando se ven dan terror, pero nadie sabe quiénes son. O sea, los detenidos no son del famoso “bloque negro”, entonces...
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, eso es lo que tiene que informar la Fiscalía de la Ciudad.
+Ayer también lo comenté: Si los detenidos tiene… Si hay un detenido, tiene que haber pruebas, evidentemente. Y el delito tiene que corresponder a las pruebas que se tienen; si requiere prisión preventiva oficiosa o no, de acuerdo con el tipo de delito. Y eso lo tiene que determinar la Fiscalía de la Ciudad de México.
+No hay, eso sí se puede decir claramente, no hay ni persecución política ni represión.
+Si hubo una mala actuación de policías, tiene que ser sancionada. Pero no es un asunto ni de represión, ni de persecución política, porque nosotros no estamos de acuerdo con eso.
+Lo que sí hubo fue un grupo muy violento, y que tiene que investigarse.
+---
+PREGUNTA
+Y ya, por último, Presidenta, ¿qué opinión tiene de que…?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Y bueno, los de siempre, que ya sabemos, ¿verdad?, que convocaron.
+---
+PREGUNTA
+Claro.
+Se está haciendo una convocatoria en las redes sociales para que el 6 de diciembre se efectúe una marcha, pero ahora apoyándola a usted. O sea, ¿qué opinión tiene respecto a si era conveniente o no?, ¿es importante o no?
+Porque, por parte de los convocantes, consideran que debe también quedar clara la manifestación a su favor y que haya aceptación. ¿Qué piensa usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Estábamos nosotros pensando, desde hace tiempo: se cumplen 7 años de Transformación al cierre de este año, porque recuerden que el Presidente López Obrador entró el 1º de diciembre de 2018; entonces habíamos pensado nosotros, todavía estamos en eso: convocar a una celebración de 7 años de Transformación en el país.
+Hay mucho apoyo popular al movimiento de Transformación, la mayoría está con el movimiento de Transformación.
+La oposición realmente cada vez tiene menos presencia, porque no tiene nada que ofrecer.
+Lo he dicho: Qué bueno que haya oposición, nadie quiere pensamiento único en México, nadie. Si queremos que haya debate, que haya pluralidad. No queremos pensamiento único. La democracia es eso, que se oigan todas las voces.
+Claro, el pueblo elige cuando hay elecciones y el pueblo apoya o no a sus gobernantes.
+Entonces, lo que le ha pasado a la oposición en México es que ya es contra todo y a favor de nada. Y además, con mucha mentira, con mucha mentira, mucha hipocresía.
+Entonces, ¿qué proponen?
+Entonces, como no hay propuesta, porque no hay propuesta… Ahora, la propuesta es la ultraderecha, imagínense, en México. Entonces como no hay propuesta, la gente tampoco los sigue. Y luego, cuando ven actos violentos, pues menos.
+Yo ayer decía: Nosotros siempre nos movilizamos pacíficamente y siempre vamos a llamar… Aquí hay libertad de expresión, libertad de reunión, libertad de manifestación.
+Bueno, la libertad de prensa nadie puede cuestionarla, la verdad. Toda la… Una televisora hablando todo el día contra nosotros. Si eso no fuera libertad de expresión, pues imagínense.
+Entonces, aquí hay libertad de expresión, libertad de reunión, libertad de manifestación, todas las libertades.
+Claro, la libertad también conlleva en el ciudadano una responsabilidad. La libertad no es libertinaje, ¿verdad? La libertad representa una responsabilidad al ciudadano. ¿Cuál es la responsabilidad del ciudadano? Pues cumplir con un marco legal que tiene nuestro país.
+Claro, si hubiera represión, si hubiera pensamiento único, si no se permitieran las manifestaciones, si... Bueno, incluso surgen otras formas de lucha. Pero aquí en México hay libertad de todo, de todo, absolutamente, absoluta libertad, de todo.
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Vamos a ver. Ya estamos platicando ahí con compañeros, compañeras, a ver si hacemos esta celebración, que yo creo que estaría bien, la verdad, porque hay mucho que celebrar:
+Fíjense, récord en Inversión Extranjera Directa. ¡Celebración!
+Supercomputadora más grande en América Latina. ¡Celebración!
+Todos los adultos mayores tienen pensión universal. ¡Celebración!
+Todos los jóvenes ahora de secundaria tienen beca. ¡Celebración!
+Todos los de preparatoria tienen beca. ¡Celebración!
+El aumento salarial de 125 por ciento del salario mínimo. ¡Es algo que celebrar!
+¿Qué más?
+Sembrando Vida.
+Jóvenes Construyendo el Futuro.
+Más preparatoria cerca de la casa, más universidades.
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Las mujeres. Tiempo de Mujeres.
+13.5 millones menos de pobres en el país.
+Menor desigualdad.
+El peso. Ayer estaba leyendo, me lo mandó una persona que se dedica a los temas financieros, que ayer… que México es la moneda que mejor se comporta en América Latina. ¡Impresionante!
+No hay inflación.
+Colaboración con el sector privado en la firma de que no aumente la canasta básica. ¡Celebración!
+Libertad, democracia.
+Una Corte que es la Corte de todas y de todos.
+Pues, ¡¿cómo no?!
+Entonces sí, ¿un México distinto? Sí es un México distinto.
+Y hay problemas también, claro que hay problemas en México, pero para eso estamos, para trabajar todos los días para el bienestar de la gente y la paz y la tranquilidad.
+—A ver, vamos para acá—.
+---
+PREGUNTA
+Sí, muy buenos días, Presidenta —Ramón Flores, de El Centinela Informa— y funcionarios, funcionarias que la acompañan.
+Presidenta, ¿cuál es su opinión respecto a lo que declaró ayer la gobernadora de Veracruz, Rocío Nahle?, donde informó que Veracruz logró reducir en 42 por ciento la deuda total del estado durante el primer año de su administración, al pasar de 119 mil millones a 62 mil millones de pesos; todo ello sin detener la inversión en obra pública, seguridad, salud, ni programas sociales.
+La reducción se alcanzó gracias a una estrategia financiera que permitió liquidar al 100 por ciento la deuda histórica con la autoridad fiscal, al cubrir totalmente los 30 mil millones de pesos acumulados, desde el 2009.
+Presidenta, el programa federal que usted implementó de “Deudor cumplido” lo aprovechó este gobierno de Veracruz local o estatal.
+¿Por qué, si un gobierno aprovecha a pagar su deuda histórica, por qué hay un empresario que se atreve a decirles “gobiernícolas” y no paga lo que debe, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, pues eso tiene que contestarlo él, ¿no? No me corresponde.
+Pero sí quiero decir, ayer… Ha hecho buen trabajo Rocío.
+En particular este tema, los municipios, los estados, tienen un esquema para poder pagar su deuda con el SAT: se hace un... También los empresarios, por cierto, todos.
+Todo está marcado, ¿dónde?, en el Código Fiscal.
+No hay nada… ¿Como se dice? No hay especulación, no hay algo particular de un funcionario del SAT. Todo, todo es el Código Fiscal. El Código Fiscal es la ley que establece cómo se realizan auditorías, cómo se debe pagar, etcétera.
+Y facilidades para pago. Entonces, para municipios y estados hay una facilidad donde, si se paga, se le regresa un porcentaje muy alto. Entonces, Veracruz entró a este esquema y cumplió con sus obligaciones.
+También con el ISSSTE, me informó Martí ayer que también tenía Veracruz una deuda muy grande con el ISSSTE, y también pagó y se hace beneficiario de este apoyo financiero.
+Entonces, qué bueno, la verdad. Felicidades, a Veracruz.
+---
+PREGUNTA
+¿Va a seguir apoyando a los veracruzanos con las obras y lo que está pasando, también?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí. Ahí se está haciendo un puente, en el puerto de Veracruz.
+Hay una inversión mixta para… Ahí en Poza Rica, en la planta de fertilizantes de Escolín.
+Se está trabajando para echar a andar todas las plantas de petroquímica de Pemex.
+Se va a hacer una obra, obras carreteras.
+Está el puente de Coatzacoalcos.
+Obviamente, lo que se está haciendo en los puertos.
+Y la repavimentación.
+Y ahora recibió un apoyo muy importante, las familias veracruzanas después de las lluvias en el norte de Veracruz.
+Y viene toda la etapa de reconstrucción.
+---
+PREGUNTA
+Por cierto, ¿ya tiene fecha para la segunda etapa de donde les van a entregar el segundo apoyo que había mencionado su Gobierno?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya, ya está, ya se entregó.
+---
+PREGUNTA
+Ah, ya se entregó.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya se entregaron todos los apoyos. Fueron, fíjense… Decían que, llovió: “que ¿dónde está el Fonden?”, porque eso fue la... Porque luego levantan, además, una tendencia en las redes sociales, como si fuera la realidad. Y no, es virtual, la mayoría, porque hay mucho bot, mucho robot, en fin.
+Pero ya lo anunciamos, estuvieron aquí a distancia los cinco gobernadores y ya se entregaron todos los segundos apoyos. Fue una inversión de 7 mil 600, ―más o menos, si mal no me acuerdo― millones de pesos, 7 mil, que se entregaron a un mes de las lluvias.
+Quedan nada más unos cuantos caminos que se siguen limpiando, pero prácticamente en un mes Poza Rica, Álamo, El Higo, en Veracruz, y toda la sierra fue atendida.
+Todavía falta la reubicación de familias que están a un lado de los ríos, que es necesario reubicarlas.
+Y también, inversión para agua potable, desazolve de los ríos, diques de contención, en los tres estados principales donde hubo daños, o en los cuatro, porque Querétaro hubo, pero no tanto: en Veracruz, en Puebla, en Hidalgo y en San Luis Potosí.
+---
+PREGUNTA
+Presidenta, en un segundo tema...
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+7 mil 426 millones de pesos.
+―Hay otra ahí donde viene por estado. Ahí está―
+Veracruz, las familias veracruzanas, en un mes, o sea, los primeros… ni 15 días pasaron y ya tenían su primer apoyo de 20 mil pesos. Y al mes recibieron su segundo apoyo, dependiendo del daño en la vivienda, de 25 mil pesos, 20 mil directos más 5 mil de enseres, hasta 70 mil pesos de apoyo si el daño fue mayor.
+Y todavía a las familias que perdieron todo de daño mayor, todavía se les van a entregar enseres. Estamos esperando que la vivienda esté bien.
+---
+PREGUNTA
+Muchas gracias, Presidenta, por su respuesta.
+Presidenta, en un segundo tema: ahora que se está hablando mucho de los casinos, ha trascendido que Codere, la empresa española de casinos, una de las más grandes en México después de Caliente, o de Grupo Caliente, ha estado vendiendo sus casas de juego. Se sabe que ya ha rematado al menos 60 de ellos en una operación superior a los 800 millones de pesos.
+Esto no tendría nada de sorprendente si no es porque se dice que los compradores son inversionistas de Tamaulipas.
+Quien autorizó entonces la compraventa fue quien estaba en la Dirección General de Juegos y Sorteos de la Secretaría de Gobernación, Leonardo Figueroa, en la pasada administración.
+Ha trascendido que es gente que estaría ligada al huachicol fiscal y al tráfico de migrantes en la frontera tamaulipeca.
+Mi pregunta es, Presidenta: ¿ahora que el secretario Omar García Harfuch está investigando, podría ahondar en este tema?
+Y en este mismo tema: ¿con 78 años sin cambio alguno en la Ley de Juegos y Sorteos ante los avances tecnológicos se requiere de una reforma para evitar el lavado de dinero y una mayor recaudación de impuestos, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, no tengo yo la información que tú tienes en la nota que das. Que se investigue por Gobernación, que es quien da los permisos; y si hay algún delito, que sea el Gabinete de Seguridad o la propia Fiscalía.
+Sí se va a cambiar la ley, lo hemos platicado aquí, y la idea es que también participen, porque hay muchas empresas de juegos y sorteos que cumplen con la ley.
+Entonces, la idea es que se actualice. Más que grandes cambios, es la actualización. Hoy hay mucho juego por internet; cuando se hizo la ley, ni internet había.
+Entonces, ahora que hay tanta plataforma de apuestas, es importante que se regule todo eso.
+Entonces, Rosa Icela, la secretaria de Gobernación, está trabajando en ello.
+---
+PREGUNTA
+Muchas gracias por su respuesta, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, ya vámonos, 09:15.
+—A ver, la compañera nada más y ya, cerramos—.
+Mañana todavía… ¿Quieren que haya conferencia mañana?
+A ver, vamos a ponerlo a votación porque, de todas maneras, vamos a dar el discurso del 20 de Noviembre.
+A ver, levante la mano quien quiere que haya conferencia mañana. Bájenla.
+Para que vean que somos democráticos aquí.
+---
+PREGUNTA
+Mañana vienen los…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Mañana en la tarde vienen diputados y senadores. Les quiero agradecer por la aprobación del Paquete Económico.
+Hoy vienen gobernadores, porque estamos con el IMSS-Bienestar, entonces vienen a una reunión del IMSS Bienestar.
+Bueno, a ver, ¿quién dice que mañana no haya conferencia, que no haya?
+Bueno, lo voy a pensar.
+---
+PREGUNTA
+Gracias, presidenta. Buenos días. Shaila Rosagel, corresponsal de Grupo Healy: El Imparcial, de Sonora; La Crónica, de Mexicali; y Frontera, de Tijuana.
+Presidenta, preguntarle si ¿tiene información sobre la presa Puerta del Sol?, ¿si quedaron etiquetados recursos para ejercerse en 2026? No sé si tenga conocimiento de cuánto quedó etiquetado en el presupuesto.
+Yo había revisado y por parte de Semarnat había una partida de mil 500 millones para ejecutarse en 2026, pero no sé cómo quedaría ya, al final en la Cámara. No sé si tenga conocimiento si quedó etiquetado este recurso.
+Y además de la consulta…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Para qué presa dices?
+---
+PREGUNTA
+Para la presa Puerta del Sol, que forma parte del sistema de presas.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿De Sonora?
+---
+PREGUNTA
+Ajá, de Sonora.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es justo lo que hemos platicado aquí: se tiene que hacer primero una consulta ciudadana. Están los recursos, pero tiene que haber una consulta ciudadana para garantizar que todo el mundo esté de acuerdo.
+Y ahí, previo a ello, tienen que explicarse los pros y los contras.
+---
+PREGUNTA
+¿Pero sí quedaron entonces etiquetados recursos?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, Si la gente decide que se haga la presa, están los recursos para iniciarla.
+---
+PREGUNTA
+¿Y hay algún avance en el proyecto ejecutivo, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, sí hay avances, sí hay avances. Por eso, ya a la hora de que haya la consulta, se explicaría en qué consistiría.
+---
+PREGUNTA
+Okey, Presidenta, muchas gracias.
+También había informado que en este mes tenía previsto visitar los pueblos del río Sonora. No sé si se mantenga esta visita que realizaría.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No sé si nos va a dar tiempo para noviembre.
+Este fin de semana voy a… Ah, vamos a inaugurar una parte del Interoceánico de… —A ver si me recuerdan—
+Bueno, dependiendo, si mañana hay conferencia; si no, el viernes les doy toda la información.
+Inauguramos una parte del Interoceánico.
+Vamos a ir probablemente a la Mixteca oaxaqueña, porque ahí —como ha venido presentando Jesús Esteva— hicimos muchísimas obras de mejoramiento de caminos, muchísimas, y de plantas de tratamiento.
+Y después, vamos a Veracruz, porque el 23 es el Día de la Independencia en la Mar, 200 años.
+---
+PREGUNTA
+Entonces, ¿esta visita quizás no sería en noviembre, sería en diciembre o ya sería hasta el otro año?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Todavía no tenemos planeado el último fin de semana. Había quedado de ir a Coahuila con las familias de Pasta de Conchos, en noviembre, entonces probablemente vayamos a Coahuila, y ya, todavía no definimos a qué otros estados.
+---
+PREGUNTA
+Gracias, Presidenta.
+También, preguntarle: se va a cumplir un año de la aparición aquí en México de la plaga del gusano barrenador, ahora creo que es el 25 o 24 de noviembre.
+Preguntarle… Bueno, y también del primer cierre de la frontera, porque se ha estado abriendo y cerrando a la importación de ganado. Preguntarle: ¿cuál es el balance de las afectaciones que ha habido por estos cierres y de la situación a este primer año?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Podemos pedirle a Julio Berdegué que venga a platicarlo.
+Ha habido afectación en México, aunque ahora recuerden que estamos apoyando particularmente a los ganaderos de la frontera. Bueno, Durango no es precisamente la frontera, pero Durango, Coahuila y Sonora.
+Ahora también estuvimos en Campeche, hay apoyo en el sur.
+En Tabasco, Javier May tiene apoyo, a los ganaderos.
+Pero también ha habido mucho impacto en Estados Unidos, el incremento del precio de la carne ha sido importante, justo por el cierre de la frontera.
+Entonces, por eso, esperamos que ya pronto se abra. Y, además, hay control de la plaga.
+Entonces, eso fue lo que vino a ver, entre otras cosas, la secretaria de Agricultura de Estados Unidos.
+---
+PREGUNTA
+Ya para finalizar: comentaba usted que esta planta de mosca estéril va a estar, la que se está construyendo en México, va a estar lista a mediados del próximo año, que es una planta que los expertos dicen que es muy necesaria para poder controlar la plaga del gusano.
+Preguntarle si en esta reunión que tuvo con Rollins, si ¿platicaron, de alguna forma, si se puede reabrir la frontera antes de que se concluya esta planta?, ¿y más o menos qué mes sería, si ya sería para el año próximo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ese es el objetivo.
+Ahora, ¿qué va de por medio? Indicadores técnicos para que no sea subjetivo de que se encontró la plaga en algún lugar, sino indicadores técnicos —que es en lo que han venido trabajando ya desde hace rato, y ya prácticamente hay un acuerdo— para que se pueda decir: “A ver, si este indicador sobrepasa, entonces, para evitar que cruce la plaga, entonces Estados Unidos podría tomar esa determinación”.
+Lo que nosotros decimos es que no sea ni subjetivo y menos político, que sea una decisión técnica.
+Entonces, de aquí a junio, que va a estar la planta, lo que queremos que se abra antes con base en un análisis técnico.
+---
+PREGUNTA
+Pero ¿ya sería el próximo año esta apertura, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues hay que preguntarle al Secretario de Agricultura, que él puede estar informado.
+---
+PREGUNTA
+Gracias, Presidenta.
+Ya nada más, finalmente, preguntarle sobre ¿cuándo se va a concluir —sobre Baja California— la carretera a playas de Tijuana?, ¿cuál es el estatus de la obra, el porcentaje de la construcción?, ¿y cuándo estaría funcionando?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿El segundo piso o cuál?
+---
+PREGUNTA
+Ajá, sí.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El segundo piso, el objetivo es que se abra en diciembre.
+Todavía no nos hace un cambio el… Quien está a cargo de los ingenieros militares, todavía no hay un cambio, está prácticamente terminado, y esperemos ya en diciembre estar inaugurándolo.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya, cerramos, con eso yo creo que cerramos ya.
+El “Detector de mentiras” lo llevamos para mañana o para el viernes.
+Gracias. Buen día.
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Les aviso al ratito. Dependiendo de la información al ratito que se vaya dando.
+Gracias a todos.
+―000―

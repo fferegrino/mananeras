@@ -1,0 +1,799 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 26 de noviembre de 2025
+Presidencia de la República
+26 de noviembre de 2025
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días. ¿Cómo están?
+---
+PREGUNTA
+Bien, ¿y usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bien, muy bien.
+Bueno, el día de hoy vamos a ver dos temas
+—Adelante, adelante; siéntense, por favor. Listo—.
+Bueno, vamos a ver dos temas:
+Un tema es un enlace que vamos a hacer para una obra en Colima, de Conagua. Lo va a presentar Efraín Morales.
+Le pedí también, aprovechando, que pudiera aclarar sobre la Ley de Aguas, que es lo que… Las falsedades que están diciendo que tiene la Ley de Aguas, y lo que sí tiene y lo relevante de por qué se envió la reforma a la Ley de Aguas Nacionales.
+Eso sería lo primero.
+Y después, está aquí: Pepe Merino, Rosaura Ruiz, Jorge Luis Pérez Hernández, coordinador nacional de Infraestructura Digital.
+A ver, están con Pepe Merino: Jorge Luis Pérez Hernández, coordinador nacional de Infraestructura Digital; Raúl Soto García, director ejecutivo interino de Infotec; el doctor Arturo Reyes, director general del Poli, del Politécnico; y también, Héctor Benítez Pérez, director general de Cómputo y Tecnologías de Información y Comunicación de la UNAM. Y la secretaria de Ciencia, Humanidades, Tecnología e Innovación.
+Vamos a presentar. La semana pasada presentamos el convenio que hicimos con el Centro de Supercómputo de Barcelona y ahora, vamos a presentar: cómo vamos a hacer la supercomputadora “Coatlicue” —se llama— en México, que va a iniciar su construcción el próximo año.
+Entonces, nos lo van a presentar ellos y la importancia que tiene que México tenga una supercomputadora de este nivel.
+Entonces, primero vamos con Efraín y después, con Pepe Merino y Rosaura.
+—Adelante—.
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA), EFRAÍN MORALES LÓPEZ
+Buenos días, Presidenta. Con su permiso.
+—No sé si tengamos ya listo el enlace—.
+Bueno, vamos a dar inicio a una obra muy importante para el estado de Colima, se trata de una obra que hemos denominado “Agua para Colima”. Es la construcción de un acueducto de alrededor de 21 kilómetros que va a tener una inversión de alrededor de mil 780 millones.
+Este acueducto va a dotar de, prácticamente, el doble del suministro a la ciudad de Colima. Es un acueducto que está planeado para resolver tanto el suministro de agua en cuanto a cantidad y en cuanto a calidad para los siguientes 30 años en el estado, en la ciudad de Colima.
+Y si me lo permite, Presidenta, le cederé el uso de la voz de aquel lado a la gobernadora Indira Vizcaíno. Buenos días.
+También se encuentra con ella el subdirector general de Agua Potable, Drenaje y Saneamiento de la Comisión Nacional del Agua, Felipe Zataráin.
+Adelante, gobernadora.
+---
+GOBERNADORA DE COLIMA, INDIRA VIZCAÍNO SILVA (ENLACE VIDEOLLAMADA)
+Muchísimas gracias, Efraín.
+Presidenta, muy buenos días.
+Me da muchísimo gusto tener la oportunidad de coincidir nuevamente con usted; el día de ayer tuvimos la oportunidad de coincidir en este histórico 25N; y el día de hoy con el arranque de esta obra Agua para Colima, que es fundamental para nuestro estado, particularmente para la zona metropolitana de la capital.
+Colima, por décadas, ha tenido un suministro en esta zona metropolitana desde el acueducto que viene de la comunidad indígena de Zacualpan, a la cual estamos profundamente agradecidos, pero el crecimiento de nuestra zona metropolitana hacía indispensable, desde hace ya varios años, el tener nuevas fuentes de abastecimiento que garantizaran el acceso al agua, que nos garantizaran además la presión que se requiere y las cantidades necesarias para poder suministrar de forma adecuada a esta zona.
+Y con esta obra que se ha autorizado a través del gobierno que usted encabeza, Presidenta, se deja una muestra clara de la sensibilidad, de la empatía, del amor que usted tiene por el pueblo de Colima.
+Yo lo decía en una visita a nuestro estado y lo quiero reiterar el día de hoy: de pronto, en el pasado neoliberal, había decisiones que se tomaban estrictamente en función de cuántas personas habitaban un estado, por no decir de cuántos adultos eran parte de un listado nominal.
+Y con su gobierno queda demostrado que la visión de este Gobierno de México, encabezado por la primera mujer Presidenta de nuestro país, toma decisiones en función de que todas y todos los mexicanos valemos exactamente lo mismo, seamos parte de un estado con poca población, como el nuestro, o no. Que todas y todos los mexicanos somos seres humanos que merecemos tener a salvo y garantizados nuestros derechos.
+Y el derecho al agua se convierte en una realidad con esta obra que da viabilidad —como lo decía el director de Conagua— para los próximos, por lo menos, 30 años de esta zona metropolitana de nuestra capital. Una inversión sin precedentes que nos posibilita garantizar este servicio y este abasto para nuestra zona metropolitana.
+Agradezco muchísimo que nos acompañe el doctor Felipe Zataráin, quien es nuestro director general, también, de Agua Potable, Drenaje y Saneamiento. Muchísimas gracias por estar en Colima.
+Y de corazón, Presidenta, con esta y con todas las obras que se ha respaldado a las y los colimenses, al pueblo de Colima, quiero insistir en el agradecimiento profundo que tenemos esa sensibilidad que se ha tenido para poder atender las necesidades más profundas de nuestro estado.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias, Indira.
+—¿Felipe va a comentar algo más?—
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA), EFRAÍN MORALES LÓPEZ
+—No—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿No? Adelante—.
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA), EFRAÍN MORALES LÓPEZ
+Muchas gracias a todas y a todos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Un aplauso.
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA), EFRAÍN MORALES LÓPEZ
+Bueno, en cuanto al Paquete de reformas en materia de aguas nacionales que se envió al Congreso, a la Cámara de Diputados, quisiéramos hacer los siguientes comentarios.
+Se trata de dos iniciativas:
+Por un lado, la Ley General de Aguas, que establece las bases para la reglamentación del artículo 4º constitucional.
+Y por otro lado, la reforma a la Ley de Aguas que es reglamentaria del artículo 27º. Es muy importante establecer que esta segunda es la que sienta las bases para que el Estado mexicano recupere la rectoría sobre el manejo de nuestras aguas nacionales en favor del pueblo de México.
+La primera establece las bases ―como ya lo comenté― para garantizar el derecho humano al agua.
+Se definen las competencias —que es un tema muy importante— entre los tres niveles de Gobierno.
+Y entre los aspectos más importantes es que se reconoce a los sistemas comunitarios de agua que operan en distintas zonas del país.
+El principal cambio es que el agua deje de verse como una mercancía y se reconozca como un derecho humano, como un bien estratégico para el desarrollo de nuestro país.
+Este ordenamiento de las concesiones ―y aquí quiero puntualizar― es, con esta nueva Ley, el principal cambio, es que el Estado mexicano, el Gobierno de México, es el único facultado para poder llevar a cabo el otorgamiento de concesiones.
+No será posible ya transmitir títulos de concesión entre particulares porque esto ha generado fuertes afectaciones, se han generado una gran desigualdad en cuanto a la distribución. Con la Ley de 1992 se permitía que se realizaran trámites entre particulares, y esto lo que provocó es que quien tenía recursos económicos o quien tiene recursos económicos acumula uno o muchos títulos de concesión y, con ello, grandes cantidades de agua; mientras que hay otros que no cuentan con los recursos suficientes, que no pueden tener el acceso al agua para las actividades más elementales, estamos hablando de comunidades y de pequeños y medianos agricultores.
+También se eliminan los cambios de uso. Es un tema muy importante porque actualmente se puede cambiar el uso de las concesiones y esto donde nos ha llevado es que, por ejemplo, se otorgan concesiones para uso agrícola que terminan siendo utilizadas en parques industriales, que terminan siendo utilizadas en campos de golf o que incluso se llevan a desarrollos inmobiliarios sin que exista un control del Estado. Y esto ha generado un gran desorden y grandes afectaciones.
+También se elimina, se crea un nuevo Registro de Agua Nacional público, que nos va a ayudar a tener total transparencia en todas las concesiones que se tienen otorgadas en las distintas regiones del país: quiénes son los beneficiarios, cuál es el volumen que tienen otorgado y cómo se otorgaron estas concesiones.
+Este es un asunto que quisiera puntualizar porque es un tema que ha causado muchas especulaciones, que se está utilizando de una manera inadecuada, sobre las herencias y la compraventa de tierras:
+Es totalmente falso, porque hay quien ha querido decir que “ya no se va a permitir”. Sería absurdo pensarlo así. El binomio tierra-agua está garantizado.
+Se mantienen los derechos para heredar a sus hijos. En el caso de las tierras, si son uno, dos o tres hijos, se realiza de manera proporcional.
+También se mantienen los derechos cuando se trata de la compraventa de propiedades, se puede y se va a otorgar un nuevo título de concesión a nombre del nuevo propietario. Entonces, que tengan totalmente certeza de que así va a ser.
+Se fortalecen los procedimientos para combatir el robo de agua. Aquí hemos presentado algunas imágenes de las afectaciones que esto implica y de lo sofisticado que son los sistemas, pero a veces no se pueden llevar a cabo las sanciones porque los procedimientos son muy laxos, y se incrementan las sanciones para inhibir esa conducta.
+Se crea un Fondo de Reserva de Aguas Nacionales, que nos va a permitir tener agua suficiente para garantizar el derecho humano al agua; sobre todo, de comunidades indígenas, de comunidades que desafortunadamente no tienen en este momento concesiones que les permitan tener un suministro constante.
+Y también ya no se podrá, estamos evitando el acaparamiento, ya no se pueden mantener los títulos de concesión que son utilizados de manera especulativa. Es decir, hay muchos beneficiarios de títulos de concesión que no los están utilizando, que únicamente los tienen almacenados y que no permiten que quien realmente necesita esos títulos de concesión, esa agua, la pueda utilizar. Es como tener formada una cubeta y no permitir que el que la necesita, que la tiene atrás, la pueda utilizar.
+Eficiencia en el uso del agua:
+Se promueve la tecnificación del riego.
+Se fortalecen los mecanismos para medir el agua, porque lo que no se mide no se puede eficientar.
+Se establecerá una regulación correspondiente para la captación pluvial. Nosotros somos promotores de la captación pluvial, es un mecanismo que ayuda mucho a agricultores y a comunidades que se encuentran en zonas altas. Lo que se está regulando es que no se lleven a cabo infraestructuras que salen de cualquier proporción —en algunos lugares ya son verdaderamente lagos— cuando esto afecte el ciclo del agua; es decir, que esa agua deje de llegar a los ríos tiene afectaciones para especies de animales, para especies vegetales, y lo que estamos cuidando es que no se cometan abusos en ese sentido.
+Y finalmente, quisiera terminar diciendo que quienes están en algunas ocasiones oponiéndose a esta iniciativa, quienes generan campañas de desinformación, quienes están muy preocupados porque no se pase esta Ley en los términos que se ha planteado: pues es que lo que están haciendo es defendiendo sus intereses, porque son quienes durante muchos años, al amparo del poder político y al amparo del poder económico, han acaparado grandes cantidades de agua y con eso no han permitido que quien realmente la necesita, sobre todo, pequeños y medianos productores, sobre todo, comunidades rurales y comunidades indígenas, puedan acceder al agua que le pertenece al pueblo de México.
+Entonces, esos son los aspectos más importantes que quisiéramos destacar de la iniciativa.
+Decimos que seguramente se discutirá en los próximos días en la Cámara de Diputados. Sabemos que en algunos aspectos se está trabajando para enriquecer la propuesta y estamos muy atentos dando seguimiento a estos trabajos.
+Es cuanto de mi parte, Presidenta.
+Gracias.
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Muchas gracias.
+Pues, bueno, llegó el día de presentar a “Coatlicue”, uno de los proyectos de innovación, tecnología, más importantes y que hemos hecho junto con la Secretaría a cargo de Rosaura y, por supuesto, bajo la instrucción de la Presidenta Claudia Sheinbaum.
+“Coatlicue”, la supercomputadora pública mexicana, que forma parte —como decíamos— del Plan México.
+Si me permite, Presidenta, explico muy rápido qué es una supercomputadora porque yo creo que ayuda a dimensionar la importancia:
+Bueno, una supercomputadora es una computadora hecha de miles de procesadores —un procesador es lo que compone a una computadora normal, como la que tenemos en nuestras casas o en nuestros trabajos o en la escuela— que trabajan al mismo tiempo.
+Esta es la parte quizá más importante: son miles de computadoras que al mismo tiempo están trabajando en la solución de un mismo problema. Y usualmente suelen ser problemas que usan millones y millones y millones de datos, y que en una computadora, incluso la computadora más avanzada que podamos tener en nuestro lugar de trabajo, pues tomaría meses, a veces hasta años.
+Nosotros en la Agencia a veces procesamos conjuntos de datos que nos pueden tomar tres semanas en procesar, pues con esto sería 2 segundos, 2 minutos y estaría listo.
+¿Y cómo se compone?
+Uno de los componentes, además de los CPUs, que son lo que normalmente tienen las computadoras en nuestras casas, tienen GPUs.
+¿Qué son los GPUs?
+Son unidades de procesamiento gráfico. Estos son procesadores de computadoras que nacieron para videojuegos que demandan mucha memoria porque tienen imágenes y cada vez imágenes de mayor nitidez y calidad.
+Los GPUs, además, uno de los usos clave es que están… ni mandados a hacer para procesar temas de algoritmos de Inteligencia Artificial. Entonces, todo lo que ustedes ven en temas de Inteligencia Artificial sean imágenes o sean textos, los procesadores que usan para poder resolver estos algoritmos son los GPUs. Y “Coatlicue” tendrá un aproximado de 15 mil GPUs.
+Estos GPUs van en unas cositas que les llamamos “chasis”. Algunos, usando la palabra en inglés, le llaman racks.
+Estos chasis, como los del coche, que tienes la base de metal y sobre esa, montas el resto de cosas, es la misma lógica: tienes el chasis y sobre el chasis montas los distintos procesadores. En este caso 2 procesadores y en el caso de “Coatlicue” estamos hablando de 7 mil 500 chasis aproximadamente.
+Cada chasis… No es lineal la conversión, pero pensemos, digamos, por claridad que cada chasis equivale a unos 50, 60 computadores. Es decir, si multiplicamos 50 por 7 mil 500, estaremos hablando de 375 mil 400 mil computadoras; imagínense, 400 mil computadoras como las que conocemos, digamos, con una capacidad RAM importante, trabajando al mismo tiempo.
+Estos chasis se ensamblan en unos muebles que llamamos “gabinetes”, que tienen en promedio, o en este caso tendrán 36 charolitas, chasis, trabajando.
+Atrás de estos gabinetes hay una cantidad enorme de cables, que justamente lo que permiten es garantizar que todas estas computadoras trabajen al mismo tiempo.
+Y los chasis… perdónenme, los gabinetes, el conjunto de gabinetes es justamente la supercomputadora, que en este caso tendrá alrededor de 200 gabinetes alineados, por supuesto, todos conectados.
+Esto requiere tres cosas importantísimas:
+Agua para enfriamiento. Como las computadoras, ahorita que las tienen en la pierna, notarán que se calientan un poquito, estas son supercomputadoras que también se calientan mucho y que requieren un enfriamiento importante.
+Energía eléctrica, justamente para eso.
+Y conectividad, para poder dar servicios remotos y dentro de la misma supercomputadora.
+Entonces, estamos hablando de una computadora que casi ninguno de nosotros ha visto nunca en su vida y que en 2 años veremos construida en México.
+¿Para qué sirven?
+Analizar cantidades inmensas de datos en segundos para mejorar decisiones importantes. Por ejemplo, ahorita hablo de las utilidades, pero, por ejemplo, en el caso de agua, estimar la cantidad de agua superficial y profunda, por ejemplo, en el país.
+Y otros temas: salud, clima, energía, movilidad, telecomunicaciones, etcétera.
+Y esto, por supuesto, impulsa el desarrollo tecnológico del país, la prosperidad económica y la investigación científica.
+Es un proyecto que vincula tres áreas claves: tecnología; prosperidad económica, incluyente, inclusiva; y la investigación científica nacional de punta.
+Y este es “Coatlicue”. Como les decía, será la supercomputadora más poderosa de América Latina:
+Un procesamiento de 14 mil 480 GPUs, más o menos, que son los procesadores.
+Y una capacidad… la forma en que se mide en las supercomputadoras se llaman “PetaFLOPS”, y perdón por el terminajo, pero es como para que ustedes tengan la referencia. Un PetaFLOP lo que significa es que se pueden realizar mil billones de operaciones por segundo. Un billón es un millón de millones; mil de esos por segundo es lo que significa un PetaFLOP.
+“Coatlicue” —que aquí me ilustraba José Alfonso, que es profundo conocedor del tema, es la fuente de poder, la fuente de vida—: 314 mil billones de operaciones por segundo; imaginen lo que vamos a poder hacer en términos de estimaciones y cálculos. Y una inversión pública de alrededor de 6 mil millones de pesos que, por supuesto, esperamos amortizar muy rápido solo por la utilidad que nos va a generar.,
+Y este es el comparativo: hoy la computadora más poderosa, más grande de América Latina está en Brasil, es una supercomputadora privada, se llama “Pegaso”, que tiene 42 PetaFLOPS, es decir, 42 mil billones de operaciones por segundo.
+Este es el comparativo: vean el tamaño —ilustra la diferencia— de Coatlicue, 7 veces la que hoy es la más grande.
+Y en el caso de México, que no es menor, y que además en su momento, la más poderosa al día de hoy es “Yuca”, que tiene 2.3, que está en Sonora, en la Universidad de Sonora, 2.3 PetaFLOPS.
+Entonces, bueno, ¿qué hoy vamos a poder hacer?
+Y además es importante decirlo: además de que es una computadora pública, esto implica que vamos a poder hacer de manera soberana los mexicanos, las mexicanas, cuatro cosas centrales:
+1. Resolver problemas públicos que requieren alta capacidad de cómputo, y ahorita ilustro algunos.
+2. Y en esto Rosaura es la experta y su equipo, realizar investigación científica de punta en sectores estratégicos.
+3. Ofrecer capacidad de cómputo para apoyar proyectos emprendedores. Por ejemplo, si hay una iniciativa —como le llaman, un startup— que requiere mucho cómputo para su proyecto de negocio, de emprendimiento, poder reservar un poquito de esta capacidad para ello, que de otra forma no podrían acceder.
+4. Dar servicios de cálculo masivo a la iniciativa privada y así también generar un modelo autosustentable financieramente.
+Entonces, con la supercomputadora podremos fortalecer desde lo público la capacidad nacional en áreas de alto impacto tecnológico y económico.
+Algunos usos públicos, no es una lista exhaustiva:
+Predicciones climatológicas. Lo hablábamos la semana pasada, que requieren un procesamiento enorme de datos, imágenes, indicadores de manera simultánea, y que se puede prever no solo la ocurrencia, sino también el impacto de los fenómenos.
+Planeación de siembras para mejorar cosechas. Y esto en términos de la soberanía alimentaria es importantísimo. Por ejemplo, este es uno de los usos más importantes que hace India de su supercomputadora.
+Procesamiento de imágenes de suelo y subsuelo. Les decían lo del agua, pero también se puede aplicar para petróleo y gas.
+Planificación de consumo de energía.
+Y procesamiento de grandes volúmenes de datos. Por ejemplo, aduanas, facturas, etcétera, que previenen, por supuesto, actos de corrupción y de evasión fiscal, y que generan beneficios públicos muy obvios; y en salud tiene también un chorro de aplicativos.
+Bueno, la supercomputadora más poderosa de la región será pública, es importante, y un modelo de gestión que además implica la colaboración entre instituciones gubernamentales y educativas:
+El Politécnico, que nos acompaña su director, muchísimas gracias.
+Infotec, que es el área de tecnología del Gobierno Federal y parte de la Agencia de Transformación Digital.
+Y por ejemplo, el IPICYT, que es el Instituto Potosino de Investigación Científica y Tecnológica, que es uno de los centros de investigación de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación más importantes y más dirigidos al tema de cómputo o cómputo avanzado.
+La supercomputadora será operada, además es importante decirlo, por mexicanos y mexicanos. México tiene una capacidad técnica en sus ingenieros, en sus ingenierías, en sus científicos, científicas, enorme, y que tendrán por supuesto una formación específica sobre cómputo avanzado, pero que serán quienes operen científicos, científicas, investigadores, por supuesto, estudiantes, que formen parte de un programa de formación de cómputo, supercómputo y emprendedores.
+La ubicación la definiremos en enero, de manera colegiada, porque hay varios criterios que considerar:
+Capacidad hídrica, aunque ya hay modelos de reciclamiento de agua para enfriamiento.
+Acceso a energía, que sí es importantísimo.
+Sismicidad.
+Y conectividad.
+Y el tiempo de construcción será 24 meses, pero —como anunciamos la semana pasada— no nos vamos a quedar esperando 24 meses para empezar a resolver problemas.
+Se crea —desde la semana pasada que se firmó, el convenio con el Centro de Supercómputo de Barcelona— el Centro Mexicano de Supercómputo en Barcelona que, además ―como decíamos la semana pasada― han estado en este centro más de mil investigadores e investigadoras mexicanas, y esa es una capacidad que tenemos, por supuesto, que aprovechar con la creación de “Coatlicue”.
+Y contaremos con el acompañamiento técnico, por lo pronto, de dos países y centros de supercómputo hermanos:
+Uno, el Centro de Supercómputo de Barcelona, que lo anunciamos la semana pasada.
+Y el otro, el Centro para el Desarrollo de Cómputo Avanzado, que es un centro público también, en la India.
+Entonces, bueno, le dejo la palabra a Rosaura para que nos explique cómo “Coatlicue” se va a vincular con algo que ya existe, que es el clúster de Supercómputo que está conformado por universidades y centros públicos.
+Muchas gracias.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+Con su permiso, Presidenta.
+Buenos días a todos y todas.
+Yo creo que lo más grandioso que tenemos que decir de este gran proyecto de la Doctora Sheinbaum es que es el Gobierno quien encabeza este proceso de superación de lo que se ha venido haciendo por las universidades, por los institutos, que antes eran Centros Conahcyt, ahora son Centros Secihti, pero el paso que se da es un paso muy grande; y, sobre todo, quiero destacar ese papel del Gobierno coordinando todo este proceso.
+Ya decía Pepe, la computadora “Coatlicue” recibe su nombre —y nos explicó muy bien José Alfonso— de esa idea nahua de la energía total, pero también es el símbolo de poder creador. Y es la madre de dioses como Huitzilopochtli y Coyolxauhqui, la diosa más poderosa de la mitología mexica.
+Ahora, “Coatlicue” va a ser el nodo principal. El nodo principal va a encabezar, este nodo que hemos estado haciendo desde el lado de la academia; está formado —ya vieron— por estas computadoras, por ejemplo, “Yuca” —que ya mencionaba, que ya mencionaba Merino— de la Universidad de Sonora.
+Están ahí todas, no las leo, ustedes las pueden ver. Pero, ese es el clúster que actualmente tenemos y con el que estamos iniciando también ese trabajo que —decía— encabezará “Coatlicue”.
+Todas estas computadoras —son supercomputadoras de un tamaño muchísimo más reducido que “Coatlicue”, evidentemente— están conectadas actualmente ya en el país. Y vamos a fortalecerla para que operen conectados mediante enlaces de alta velocidad y tendrán rendimiento de cómputo por nodo en orden de PetaFlops, que ya explicaba Merino.
+Es, para dimensionar esto ―decía él― un PetaFlops equivale a realizar mil billones de operaciones por segundo. Son un 1 seguido de 15 ceros, esto es lo impresionante de la velocidad que va a tener esta computadora.
+Están ―les decía― unidas:
+Están en el norte, está CICESE; está en Baja California.
+Está en la Ciudad de México, está el Politécnico, la UNAM, el Cinvestav. El Politécnico, la UNAM, el Cinvestav, están en la Ciudad de México, también está la UAM.
+Esta red de supercómputo, esta que estamos, con la que tenemos hoy, permite trabajar de manera precisa el modelado y la simulación de problemas complejos, al igual que desarrollar sistemas de Inteligencia Artificial que involucren grandes cantidades de datos.
+Yo creo que la exposición de Pepe fue muy clara, de la importancia, de la magnitud que tiene este paso que está dando el Gobierno de la Doctora Sheinbaum.
+Les decía, esta red está conectada, y la nueva computadora “Coatlicue” va a encabezar esta red.
+Este es el cronograma que tenemos para el proceso, que va a durar 24 meses y que está ahí expuesto.
+En estos 24 meses se tendría que hacer una planeación y modelo de gestión, un diseño conceptual y permisos, ingeniería detallada y licitaciones, obra civil y adecuación, suministro y logística, integración e instalación, pruebas y validación, y la puesta en marcha en 24 meses.
+Esto es muy relevante: la Doctora también nos ha indicado que se cree un Consejo Directivo que va a estar al pendiente. El nombre se discutirá en este Consejo. Pero estará encabezado por la Agencia de Transformación Digital y la Secihti para coordinar este trabajo —ya dijimos— asesorado por diferentes, formado por científicos, por personal del gobierno y también empresarios que están en este grupo.
+Este Comité tendrá que decidir, por ejemplo, el porcentaje de procesamiento por usuario de la supercomputadora, el manejo de la velocidad de transmisión en la red de comunicación, las estrategias para renovar al propio Consejo Directivo.
+Creo, insisto, solamente en que esto es un gran paso, no solo para la ciencia en México.
+Ya decía Pepe cómo la producción científica a nivel mundial es de millones de artículos, de millones de datos que ya humanamente es imposible procesar, una persona no puede en salud, o en medio ambiente, o en predicción de posibles desastres naturales, por efectos de fenómenos naturales, sola o un equipo.
+El nivel de datos que tenemos en el mundo es esa magnitud, por eso necesitamos ya, para que la ciencia mexicana, la industria mexicana, el propio gobierno y su funcionamiento llegue a etapas mucho más modernas utilizando las tecnologías que se han creado en el planeta y que tenemos que sacar beneficio de ellas.
+Aquí está Conagua que, no tengo la menor duda, va a ser uno de los beneficiados para hacer su trabajo con esta nueva computadora, que —decía— encabeza a todo lo que se ha venido haciendo de forma institucional por las instituciones mexicanas, pero que ahora encabeza el gobierno de la Doctora Sheinbaum.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, pues es esto.
+La verdad estamos muy entusiasmados, la supercomputadora “Coatlicue”, que va a iniciar su construcción el próximo año, estamos definiendo la ubicación; y va a permitir que México entre de lleno al uso de la Inteligencia Artificial y procesamiento de datos, que hoy no tenemos capacidad de hacerlo porque no tenemos la suficiente capacidad de cómputo.
+Entonces, nos va a ayudar muchísimo, no solo al desarrollo de la ciencia, las tecnologías, sino, en esencia, al desarrollo del país.
+Bueno, esto es “Coatlicue”.
+Vamos, sobre el tema.
+—A ver—.
+---
+PREGUNTA
+Qué tal. Muy buenos días a todos y a todas.
+Juan Hernández, de Diario Basta, Tabasco Hoy, Campeche Hoy y Quintana Roo Hoy, de Grupo Cantón.
+Sobre el tema de “Coatlicue”, hablando de toda esta tecnología, toda esta inversión que se va a realizar, ¿de cuánto estamos hablando de personas que van a ser empleadas, van a ser ocupadas?, ¿cómo se va a conectar, digamos, todo México a través de este gran proyecto que van a echar a andar?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Pepe—.
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Para hacer un símil, porque depende de la tecnología y la tecnología va cambiando muy rápido: el equipo base en la supercomputadora de Barcelona son alrededor de 80 personas.
+Nosotros pensaríamos en un equipo central para toda la gestión de infraestructura, energía, enfriamiento, mantenimiento, etcétera, y en todo caso es un equipo que puede ir creciendo y reduciendo de manera flexible de acuerdo a los proyectos, por supuesto, pero como un equipo base yo pensaría entre 80 a 100 personas, no más que eso.
+Y los equipos ya especializados que van usando el supercómputo para problemas específicos, que ya serán parte seguramente de otras autoridades o autoridades educativas, centros de investigación, etcétera.
+---
+PREGUNTA
+Además de todo lo que nos han expuesto, ¿en qué otras disciplinas, ramas, en qué va a beneficiar este equipo, esta tecnología?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+En todo.
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Pues en todo, como dice la Presidenta. Es que todo genera datos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Imagínense una computadora, la que ustedes usan.
+Lo multiplicas por… —¿Cuánto?—
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+—375 mil—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+…375 mil computadoras como las que se usan normalmente puestas juntas, procesando al mismo tiempo todos los datos.
+Entonces, hoy con la Inteligencia Artificial puede ser muy útil, por ejemplo, para predicción de clima. Nosotros tenemos muchísima información que la computadora que tiene el Meteorológico Nacional no tiene la capacidad para procesarla, más que en días, meses, incluso.
+Para los evasores fiscales también, porque imagínense la cantidad de información que tiene el SAT. Queremos, por ejemplo, cruzar la información del SAT con Aduanas, y ahora nos está costando mucho trabajo porque no tenemos la capacidad de cómputo para procesarla. Obviamente que todos los datos personales son resguardados, pero eso nos va a permitir incluso acelerar las Aduanas.
+Hoy, por ejemplo, el papel que trae el SAT y el papel que trae Aduanas no se cruzan, cada uno lo trae en papel y es físico. Entonces, para poder cruzar toda esa información de todos los importadores, todos los exportadores, entre el SAT-Aduanas, de tal manera que todo sea automático, pues imagínense.
+Incluso el Aeropuerto Internacional “Felipe Ángeles” puede ser un clúster de carga si tiene la capacidad de procesar esa información.
+Para salud, poder saber con los censos de salud, por ejemplo, que estamos haciendo, la información: cuántas personas, si hay problemas de diabetes más en una zona que en otra, poder procesar la información.
+Y el desarrollo científico hoy está muy vinculado al procesamiento de datos. Entonces, si México quiere estar a la vanguardia de muchos temas, necesitamos la capacidad de procesamiento de datos.
+¿Qué podríamos hacer?
+Pues que lo ponga un privado y las instituciones públicas compraran el espacio. No, queremos que sea una supercomputadora pública; es una supercomputadora del pueblo de México, pública. Entonces, ahí se puede procesar toda la información.
+¿Quiénes participan?
+Las instituciones de educación superior, el Infotec y todas las instituciones de Gobierno, estatal, municipal, federal, que quieran participar; los científicos.
+Y, además, si un privado quiere usar la supercomputadora, va a tener que comprar el procesamiento de datos de lo que sea, y eso permite generar algún ingreso para la supercomputadora. Pero es una capacidad de cómputo que no tiene ningún otro país de América Latina.
+Entonces, nos colocaríamos en dos años en un nivel de procesamiento de datos que, además, también trae inversiones públicas y privadas que puedan utilizar este procesamiento de datos, que de otra forma no se podría.
+Esto tiene que sumarse a lo que está ahora de supermoda, que son los centros de datos para almacenamiento de datos en muchos lugares. Pero es un paso muy importante para México.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+En un segundo tema, si nos puede platicar sobre este encuentro que sostuvo con la presidenta de Honduras, Xiomara Castro: ¿qué fue lo que se abordó?, ¿cómo fue el clima ahí de conversación?, ¿cuáles eran las preocupaciones que manifestó la mandataria hondureña?, ¿qué más hablaron ahí?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, primero, agradecerle, además, porque vino, entre otras cosas, a agradecer el apoyo que le ha dado México durante su gobierno. Recuerden que ahí está el programa Sembrando Vida, ahora va a venir una segunda etapa; Jóvenes Construyendo el Futuro, que fue en una visión de cooperación para el desarrollo.
+La mejor forma de evitar que haya migración es invirtiendo y apoyando a las personas en sus lugares de origen.
+Convenios que se firmaron con Pemex, con Comisión Federal de Electricidad.
+Entonces, vino a agradecer. Y, además, agradecemos por el agradecimiento.
+Ellos tienen elección el domingo, hay elección en Honduras el domingo. Entonces, le interesaba mucho a ella hacernos saber que es muy importante que se respete la voluntad popular del pueblo hondureño, que no haya ningún injerencismo, intervencionismo de nadie, que sea el pueblo de Honduras quien lo decida —un teléfono por ahí que sigue sonando— que se respete la voluntad popular.
+Nos vino a compartir su preocupación por que no pudiera ser así, y yo espero que así sea, que se respete siempre la voluntad de todos los pueblos.
+Y trabajo hacia adelante. A ella le quedan 4 meses, más o menos, de gobierno y quiere cerrar estos programas para que Honduras pueda seguir manteniendo esta relación que ha mantenido con México.
+Es un buen gobierno. Fíjense, ella disminuyó la pobreza extrema y disminuyó la pobreza con programas similares a los nuestros, también aumentando el salario mínimo, con muchas obras de infraestructura social.
+Entonces, ha sido —desde mi punto de vista— un buen gobierno.
+Y siempre respetamos a todos los pueblos y gobiernos de América Latina, particularmente un gobierno progresista como el que hoy gobierna Honduras.
+---
+PREGUNTA
+Dos últimos temas más, Presidenta:
+Conocer: ¿su opinión referente a una encuesta que publicó De las Heras, que da a conocer datos muy reveladores sobre la marcha del 15 de noviembre?
+Una de ellas, una de estas revelaciones es que la gente sabe quién organizó esta manifestación, que fue en este caso —y lo señalan ahí en este estudio— fue la Marea Rosa.
+Y en un segundo punto, que fue un grupo de manifestantes los que iniciaron los actos violentos y que se les pagó para, en todo caso, para provocar y para hacer toda esta situación de violencia que quisieron explotar mucho lo que fue el grupo opositor.
+Saber ¿su opinión referente a este estudio que señala que “los mexicanos no se la comen” así tan…?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—A ver, por ahí estaba. No sé si tengan la encuesta para poderla… Está en el sitio de… La vi ayer por la tarde. A ver—.
+Bueno, mucha gente se enteró quién organizó la marcha. Fíjense, el 33 por ciento cree que “fue la Marea Rosa”.
+“¿Quiénes comenzaron los ataques?” Un grupo de manifestantes, 51 por ciento.
+[62%] Creen que fue pagado para provocar.
+Ya con eso.
+Eso es lo que piensa la gente.
+---
+PREGUNTA
+¿Qué impresión le da este estudio?
+Vaya, quieren manejar la retórica de que aquí en México se les censura, o sea, es lo que está repitiendo constantemente la oposición: “hay censura”, “es un Estado totalitario”. Realmente... o sea, les duele que esté avanzando México.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+A ver, lo pongo así, porque también hay algunos que ahora dicen “que nosotros inventamos”.
+¿Quién fue a esa manifestación? ¿Qué caras reconocidas fueron a la manifestación? No las voy a poner aquí. Para el análisis de ustedes y de quienes nos escuchan y de la gente que nos ve y nos escucha, ¿quién fue?, ¿qué dirigentes políticos fueron a esa manifestación?
+¿Cómo se dan los golpes?, que lo presenté yo aquí en una “mañanera”.
+¿Por quiénes? Que no eran jóvenes.
+¿Qué denuncia hace el Congreso de la Ciudad de México? Que lo dije aquí hace poco, con muchas pruebas, porque no fue una denuncia menor lo que hicieron diputados en el Congreso de la Ciudad, de cómo estaban vinculados quienes generaron la violencia con alcaldes de la Ciudad, de qué partidos son.
+Es nada más sumar: esto, más esto, más esto, más esto, y ya que cada quien saque sus conclusiones.
+Entonces, fue un grupo distinto al de otras veces, de otros que se han manifestado con violencia.
+No eran jóvenes los que generaron esta violencia.
+Y tampoco fue una marcha caracterizada por jóvenes, que fue lo que quisieron plantear, que era la Generación Z y todo esto, sino que fue principalmente de adultos que están en contra del gobierno.
+Y está bien que haya manifestaciones, somos un país libre y, además, respetamos la libertad de manifestación, la libertad de reunión, como en ningún otro país se respeta, solamente vean las actuaciones de la Policía de muchas ciudades del mundo. Entonces, nosotros respetamos; en lo que no estamos de acuerdo es con la violencia.
+Entonces, si vas sumando: cómo fue que se generó, quién las usó, quién estuvo promoviendo… Aquí presentamos también unos días antes cómo fue que se fue construyendo en las redes sociales la convocatoria a esa manifestación.
+¿Y por qué es relevante?
+Leí hoy, me lo pasaron en el resumen, que un panista, promovido por el PAN, va a ir a Washington a denunciar al Gobierno de México, fíjense.
+¿Qué mexicano…? A ver, vamos a ponerlo así: ¿qué mexicana o mexicano va a denunciar a otro país, a Washington en particular, además, un invento de cómo se dieron las cosas en una manifestación?
+¿Qué opinan ustedes de un dirigente, de un legislador de un partido de oposición que casi no tiene ya apoyo popular en México y que se va al extranjero, a Estados Unidos, a Washington, a denunciar al Gobierno mexicano? ¿Qué opinan ustedes?
+---
+PREGUNTA
+(inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Qué opinan ustedes, en esta condición?, cuando hay libertad de expresión. Bueno, tienen prácticamente la opinión en todos los medios de comunicación, tienen un canal donde tienen abierto el espacio.
+No tienen cerrados los medios, ¿o sí? Al revés, tienen más espacio en los medios que nosotros.
+---
+PREGUNTA
+Abusan de las concesiones.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Y van a Washington a hacer una denuncia.
+Porque cuando hice yo la referencia el 20 de noviembre, al injerencismo, a cómo quien llama a la injerencia extranjera en México no es nuevo, son los conservadores de siempre, y cómo es que ahora una vez más lo hacen. No es menor.
+Entonces, esto es para el pueblo, para la gente. Porque aquí seguimos hablando de la defensa de la soberanía y de la decisión del pueblo sobre sus gobernantes, y que no vengan del extranjero a decirnos lo que se debe o no se debe de hacer.
+Entonces, ¿qué opina el pueblo de que un dirigente de un partido, que ahora se llama de ultraderecha, vaya a Estados Unidos a hacer una denuncia pública?
+Porque aquí ¿qué, tiene cerrados los medios de comunicación o qué? Son representantes populares, ¿por qué no la hace aquí?, ¿por qué se va a Estados Unidos?
+Es para la gente, porque hay que recordar siempre, siempre, siempre, ahora sí que “quién es quién en la política”, y quiénes son los que demandan la intervención extranjera.
+Entonces, eso no. Los mexicanos decidimos, está el artículo 39 y 40 constitucional, y es la defensa de la soberanía.
+Y segundo, que se siga investigando —yo ya pedí— cómo fue la violencia en el 15N, porque tiene que salir todo. Entonces, ya el Congreso de la Ciudad de México hizo una parte, se tiene que investigar quiénes promovieron esa violencia.
+---
+PREGUNTA
+Perfecto.
+Y finalmente, y le agradezco mucho, Presidenta: el próximo 1º de diciembre cumple su 38 aniversario nuestro medio fundador, Tabasco Hoy y, bueno, a nombre de Miguel Cantón Zetina, quisiera pedir unas palabras para todo el equipo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Muchas felicidades, muchas felicidades a la familia Cantón.
+---
+PREGUNTA
+Todo el equipo: prensistas, reporteros, camarógrafos, toda la gente, repartidores, gente que nos ayuda.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+A todos. Tienen mucha presencia en el sureste, pero aquí también con Basta.
+---
+PREGUNTA
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Adelante. A ver acá, por acá y luego vamos acá—.
+---
+PREGUNTA
+Buenos días, Presidenta. Arturo Pavón, de Efecto Colateral.
+Sobre la supercomputadora “Coatlicue”, preguntar: vaya, es inmensa la información que puede tener. ¿De qué manera se va a respaldar? ¿Hay un respaldo? ¿Hay posibilidad de respaldar?
+Y en segundo, como tiene información nacional, ¿de qué manera se podría blindar físicamente esta supercomputadora?
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Por supuesto, un proyecto de esta magnitud incluye la implementación de mecanismos de ciberseguridad importantes, en los cuales además, México, por supuesto, tiene la capacidad con ingenieras e ingenieros.
+Una supercomputadora no es… Aprovecho la pregunta para explicar, quizás, la diferencia entre un centro de datos y una supercomputadora:
+En el caso de la supercomputadora —como ya decía la Presidenta— son miles y miles, en este caso casi 400 mil computadoras, trabajando simultáneamente en el mismo problema, es un problema de cómputo.
+Realmente una supercomputadora no está pensada, aunque puede, para resolver problemas de almacenamiento, en todo caso el almacenamiento puede estar en un centro de datos que es un sistema en el que de manera modular tú puedes usar un cachito para almacenar, otro cachito para hacer cómputo, en fin, está como más fragmentado, no es una computadora que vincule a miles de computadoras para hacer estimaciones simultáneas.
+La información estará resguardada en donde… depende, digamos, del proyecto, pero quién es el dueño sustantivo… si es Conagua, por ejemplo, imaginemos, y Conagua tiene un centro de datos, pues ahí está la información y simplemente se hace una conexión para poder hacer los cálculos; o si es Semarnat, si es CFE, si es Pemex. El Gobierno Federal tiene un centro de datos importante en Aguascalientes, que también está a cargo de Infotec. En fin, esto más que almacenamiento, lo que ofrece son servicios de cómputo.
+---
+PREGUNTA
+Físicamente, la seguridad ¿ya se tiene contemplada la intervención de —tal vez— Guardia Nacional, Marina, Ejército?
+---
+TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, JOSÉ ANTONIO PEÑA MERINO
+Es una instalación de seguridad nacional, pero un paso a la vez, definiremos en enero la ubicación y, por supuesto, tendrá todos los protocolos de seguridad como amerita un proyecto de este calibre.
+---
+PREGUNTA
+Muchas gracias.
+Como segunda pregunta: pues ahora resulta que el operador político de la excandidata prianista Xóchitl Gálvez allá en Tamaulipas, es Rogelio García Moreno, ahora es el presidente de los agricultores allá y fue el que encabezó los bloqueos allá en Matamoros, en Tamaulipas generalmente.
+Y bueno, él dice que es apartidista, pero “ya salió el peine” de que están detrás de las concesiones del agua, como usted también lo mencionó ayer.
+Eso contrasta muchísimo con un evento que tuvo lugar ayer en Puebla: se hizo la entrega de más de 5 mil 600 apoyos, no económicos, sino en especie, o sea, se dieron pie de crías, se dio maquinaria, pollos, vaya, todo para que la gente, los campesinos reales, que sí están marcados por el sol y la labranza, ellos pudieran ya iniciar bien su desarrollo como microempresarios en sus hortalizas, en sus tierras.
+Entonces, ¿cuál sería su opinión acerca de este contraste, que por un lado campesinos reales sí están labrando la tierra y sí están apoyando, más bien dejándose apoyar por el Gobierno Federal, cuando por otro lado hay otros grupos de interés?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Por qué nosotros enviamos la iniciativa de la Ley de Aguas Nacionales? O sea, ¿qué nos motiva? Y por eso lo importante de la explicación de qué contiene esta Ley.
+Lo voy a volver a decir:
+En 1992 cambió la administración del agua, se crea la Comisión Nacional del Agua; desaparece prácticamente la Secretaría de Recursos Hidráulicos. Y la visión era que el agua, como otras cosas, es una mercancía, que debe haber un mercado para el agua; nada más que la Constitución dice que el agua es de la nación, claramente, desde la Constitución del ‘17.
+Una de las grandes virtudes de la Constitución del ‘17, además de reconocer los derechos sociales, fue reconocer los recursos naturales como propiedad de la nación. El petróleo en México es propiedad de la nación.
+En otros países, en Estados Unidos, por ejemplo, el petróleo, si lo tienes en el subsuelo en tu casa, es tuyo. Aquí no, aquí, la visión de todos los insurgentes, es ―y además había muchas presiones de empresas extranjeras― es que los recursos, el petróleo, el agua son de la nación.
+Ahora, el agua en particular se puede concesionar. ¿Quién la concesiona? En este caso, la institución dedicada a la administración del agua, que es la Comisión Nacional del Agua.
+Pero la visión en el periodo neoliberal es que: sí es de la nación, pero se puede mercantilizar. Si yo tengo una concesión, la concesión la puedo transmitir a otro, nada más me pagas y nomás le avisamos a la Conagua.
+¿Qué generó esta situación, de 1992 a la fecha?
+Una sobreexplotación de prácticamente todos los cuerpos de agua y los acuíferos en el país, pues porque como es una mercancía se concesiona, se transmite, se vende. Entonces, ¿dónde queda la visión estratégica de un recurso natural que, además, hoy es escaso en muchísimos lugares?
+Entonces, ¿qué se está planteando con la Ley de Aguas?
+Número uno, que se ordenen todas las concesiones, que además ya iniciamos; porque había:
+Tres bases de datos, contradictorias algunas entre ellas.
+Concesionados millones de metros cúbicos a agricultores, a empresas, que no se estaban usando. Entonces, si tú tienes un… vamos a poner como un río, y el agua de ese río está concesionada a alguien, aunque tú vivas a un lado del río, no la puedes usar porque está concesionada a otro.
+Bueno, si ese otro ni siquiera la está usando, ¿por qué no la va a poder usar el que vive a un lado del río, que no tiene agua, o agua del subsuelo?
+Hay pozos, resulta que hay 10 pozos, pero se puede perforar otros 10 para darle agua a la gente, a la gente humilde que no tiene acceso al agua; pero no se puede porque esos otros 10 pozos ya fueron concesionados a alguien.
+Cuando llegamos al Gobierno hicimos un gran Acuerdo por el Agua, y dijimos: “A ver, todos aquellos que tengan concesión de agua, que no la estén usando, regresen de manera voluntaria esa agua que no usan a la Conagua”.
+Y muchos empresarios lo hicieron, muchos agricultores lo hicieron, regresaron, dijeron: “A ver, no estamos usando, ahí vamos a ponerla, vamos a regresarla a Conagua para que se use para lo que se debe de usar o para quien lo necesite”.
+Bueno, hay agricultores, distritos de riego, agricultores grandes, de los grandotes, que tienen concesiones de agua.
+Ahora, la Ley de Aguas dice: “Ya no vas a poder vender esa agua a otro, a un tercero, ni la vas a poder transmitir así nada más. Por ejemplo, si tienes un predio, usas el agua para riego, ahora ya no se la vas a poder vender al desarrollador inmobiliario que en tu tierra va a hacer viviendas, ya no, ya tienes que regresarla a la Conagua, y el que va a hacer viviendas ya tiene que ver, pedírsela a la Conagua”.
+Entonces, estamos poniendo orden y estamos garantizando el agua como derecho humano y como recurso de la nación.
+¿Eso limita el desarrollo? No. Lo ordena, en un recurso tan importante para el mundo entero y para México, que es el agua.
+Hay algunos que tienen muchísimas concesiones de agua, muchísimas, y no quieren. Pues sí, pero llegamos a transformar, a que esos privilegios que les dieron durante mucho tiempo de agua que no usan o agua que sobreexplotan, pues ya no. Y que ahí donde no hay agua pueda haber agua.
+Además de todo, ¿qué estamos haciendo? Ayudándoles a los agricultores, incluso a los medianos, y a distritos de riego para que hagan más eficiente el consumo de agua, les estamos dando recursos para tecnificar, para que sean más eficientes, más productivos y puedan regresar agua.
+Ah, pues no quieren regresar agua.
+Ayer lo decía, hay distritos que tienen concesionada agua para riego. Como es para riego, para producción de alimentos, la Ley dice que no deben pagar, porque es para la producción de alimentos. No pagan por el uso de esa agua, de esa concesión.
+Bueno, resulta que no la usan, y la venden a los municipios y entonces los ves en sus carrazos, camionetotas, a los agricultores de algunos distritos de riego porque ganan al año 300 millones de pesos por venderle agua a un municipio. Pues eso no, eso no puede ser.
+Entonces, claro, hay algunos que se manifiestan ahora que quieren seguir manteniendo ese privilegio. Pues no. No, por el bien de la gente.
+Porque nosotros llegamos a transformar la vida pública para todas y todos los mexicanos, y en particular para el que menos tiene.
+Entonces, por eso es muy importante que pase la Ley de Agua. Que a lo mejor tenía un error, tenía otro error, bueno, adelante, que se modifica todo aquello que.
+Ahora están queriendo decir que “un ejidatario no va a poder cederle, si tiene un pozo en su parcela, esa agua a sus hijos”. Falso, claro que se puede hacer.
+Pero lo que ya no, es ese acaparamiento, que además se dio; es más, lo vamos a mostrar aquí en una “mañanera”, cómo durante la época de Calderón se dieron un montón de concesiones —le voy a pedir ahí a Efraín que lo traiga— y quiénes estaban al frente de la Conagua en los estados que ahora se están manifestando.
+Porque quieren ahora generar una idea de que “¡hay caos, caos, caos!” No, están contra los privilegios que tenían antes, en contra de la gente, incluso de otras industrias que se quieran desarrollar en cierta zona, porque como está acaparada el agua, pues entonces no se puede usar para nadie más.
+Entonces, no a los privilegios, sí a la Ley, sí al Estado de derecho. Ahora, ya me gustó esa palabra o esas palabras.
+Como decía Juárez: “Nadie ni nada por encima de la ley”, y ya no al acaparamiento del agua para uso de unos cuantos.
+Eso es lo que está de fondo en la Ley Nacional o Ley de Aguas Nacionales, ese es el fondo del cambio.
+Y repito, si hay algunos errores, pues para eso hay una mesa de trabajo en el Congreso, que se corrijan.
+Pero ¿a qué llegamos, si no es a Transformar la Vida Pública para el bien de México?
+---
+PREGUNTA
+Legisladores y gobernadores tienen la misión de dar toda esta información en sus localidades. Es necesario que la gente entienda, porque ayer Rubén Moreira, diputado del PRI, salió a decir frases muy pequeñas, no lo demostraba con un papel escrito, sino simplemente decía: “Si tienes un pozo en tu casa, ya no lo puedes explotar”.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, ridículo...
+---
+PREGUNTA
+¿Con qué, en qué se basa?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+La verdad. O sea, es que son argumentos… No, no es un asunto personal, digo “ridículo” el argumento; o sea, no, no es cierto. Y además, él sabe porque está la discusión.
+Repito, que si hay algún error, que se corrija.
+Pero, a ver, que diga públicamente si está a favor del acaparamiento del agua.
+Y luego, ya Rosa Icela mostró, luego, quiénes son los que se manifiestan también.
+Entonces, cada quien encabeza la lucha que quiere encabezar.
+Y nosotros encabezamos:
+Una, que es, el agua es un derecho humano.
+Y dos, es un recurso de la nación, que debe ordenarse, y debe servir para que todas y todos los mexicanos tengamos acceso al agua, la Ley.
+Y las obras que se están haciendo, porque se están haciendo muchísimas obras en el país; hoy se presentó la de Colima, que ya inicia.
+Pero, además, repito, agua para todas y para todos, como derecho humano, como bien de la nación y para el desarrollo del país.
+No es que no queramos que haya productores agrícolas de riego; al contrario, queremos que haya más distritos de riego en el país para producir más alimentos.
+Queremos también que haya desarrollo, que haya inversiones. Si hay inversiones que usan mucha agua, pues que mejor se vayan a Veracruz, a Campeche, al sur, sureste, donde hay más agua, y que se distribuya adecuadamente para que no tengan unos mucho, muchísimo, muchísimo, que además ni la usan, y otros no tengan nada.
+Esa es la lucha que nosotros encabezamos: la defensa de la nación y del derecho humano, de los derechos humanos.
+---
+PREGUNTA
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Vamos. A ver, la compañera estaba desde…―
+---
+PREGUNTA
+Gracias. Buenos días. Citlali Guerrero, de Bajo Palabra.
+Preguntarle sobre si nos puede informar sobre ¿cuál es el avance de los proyectos hidráulicos en Acapulco?, ¿si ya se invirtieron los mil 800 millones de pesos programados para este año?
+Y saber ¿qué avance llevan los trabajos para restablecer y mejorar el suministro de agua potable en el municipio?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Efra―.
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA), EFRAÍN MORALES LÓPEZ
+Buenos días.
+Hay una gran inversión en el proyecto que hemos denominado “Acapulco se Transforma Contigo”, en ese marco se están realizando, o se realizó, todo el desazolve de los canales pluviales, que es un problema histórico en Acapulco, que además nos permitió que en esta temporada de lluvias no se tuvieran afectaciones, como inundaciones.
+Se están llevando a cabo el desazolve, que tiene un gran avance, prácticamente ya se tienen tramos terminados, del río de La Sabana, del arroyo Colacho, del arroyo San Agustín.
+Se están, además, reconformando bordos que fueron afectados con los huracanes.
+Y se están haciendo obras de protección con muros de gavión para que las colonias que se inundaron con estos fenómenos naturales no vuelvan a sufrir esta condición.
+Además, se está realizando un trabajo muy importante por lo que tiene que ver con el saneamiento.
+Se están compactando, ya, plantas de tratamiento de aguas, se están concentrando en algunas, redireccionando.
+Ahí hemos iniciado ya las obras en la planta Renacimiento, en la planta de Miramar.
+Además, se están construyendo colectores que van a evitar, van a captar las aguas negras para evitar que se contamine la bahía.
+Y se está haciendo un trabajo muy importante para conectar, una interconexión para la zona poniente de Acapulco. Hay alrededor de 8 mil familias que reciben agua únicamente por tandeo; con esta obra, que ya inició, vamos a poder suministrar agua vía red.
+Y, además, se va a beneficiar a otro tanto de la población, porque va a mejorar la cantidad de agua que están teniendo, estamos hablando de alrededor de 65 mil habitantes de Acapulco que van a ver mejorado el suministro.
+Y otra obra muy importante es la que tiene que ver con la adaptación al cambio climático, cuando sucedieron los fenómenos meteorológicos, que además ocurrió uno y al siguiente año nos ocurrió John, se afectarán las principales fuentes de abastecimiento porque están en un nivel bajo, y lo que estamos haciendo es generar infraestructura sobreelevada para que puedan resistir a cualquier fenómeno meteorológico.
+También estas obras, en dos casos ya se encuentran en licitación, en dos casos, que es la obra de toma del acueducto Papagayo, ya estamos haciendo la obra de toma.
+Entonces, hay un gran avance. En este momento no traigo el avance presupuestal, pero prácticamente ya todos los proyectos se encuentran en ejecución y va a haber un cambio radical en cuanto al suministro de agua, en cuanto al saneamiento, en cuanto a obras de protección para la población, para prevenir inundaciones y también para adaptarnos a las condiciones del cambio climático.
+---
+PREGUNTA
+¿Pero cuándo se verán esos resultados de que ya los acapulqueños van a tener el acceso al agua, o sea, que ya tengan agua?, porque han anunciado estas obras desde inicio de año y entiendo que se están haciendo estos proyectos, pero ¿cuándo ya los acapulqueños van a ver como los beneficios y los resultados de estos proyectos para que ya la gente tenga agua?
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA, EFRAÍN MORALES LÓPEZ (CONAGUA)
+Bueno, en cuanto a las obras de protección y colectores, el beneficio ya es palpable.
+En cuanto a la sobreelevación de los pozos, son obras que van a tardar, tardan un poco de tiempo, este año y el siguiente, a mediados del siguiente año estarán listas, y también las obras de agua potable.
+---
+PREGUNTA
+¿El cambio radical que usted menciona se va a ver como en 6 meses, 5 meses?
+---
+DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA, EFRAÍN MORALES LÓPEZ (CONAGUA)
+Se verá antes de que concluya el año 2026 en su totalidad, pero ya se empiezan a sentir beneficios, sobre todo, de protección, de desazolves y de colectores.
+Con mucho gusto te compartimos la información detallada de cada uno de los proyectos.
+---
+PREGUNTA
+Muchas gracias.
+Presidenta, en Chiapas se documenta el caso de los hermanos Daniel Muñoz Vargas y Camerino Muñoz Osorio, es de una familia de Guerrero, detenidos antes de los hechos por los que se les acusa y presentados por las Fiscales como responsables de la quema de vehículos.
+La evidencia ante la Comisión Estatal de Derechos Humanos muestra adulteración de datos, tortura y manipulación de pruebas, por parte del Ministerio Público y de la Secretaría de Seguridad Estatal.
+¿Qué acciones tomará su gobierno ante este tipo de prácticas que contradicen su postura y su discurso de justicia y debida investigación?
+¿Y cómo va a garantizar que la nueva política de seguridad no repita los viejos esquemas de fabricar culpables para justificar los resultados?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, ¿fue un caso, dices, en Chiapas?
+---
+PREGUNTA
+Chiapas, de dos hermanos de Guerrero.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Dices que “la Comisión Estatal de Derechos Humanos ya hizo su recomendación”?
+---
+PREGUNTA
+Ya, sí.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, hay que darle seguimiento a la recomendación.
+---
+PREGUNTA
+Porque están acusados ​​de un delito antes de que se diera el delito; entonces es como totalmente…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Si hay una recomendación, tiene que ser reconocida por el gobierno estatal.
+Las Comisiones de Derechos Humanos tienen esa responsabilidad y tienen abierto para que cualquier persona que sepa que, una violación de derechos humanos, por parte de la autoridad, pueda presentar su queja y se traduce en una resolución de la Comisión, que hace su investigación, y ahí los gobiernos estatales o federal tienen que asumir esa recomendación.
+---
+PREGUNTA
+Gracias.
+Ya por último, Presidenta: bueno, ya está como por terminar el año y le quería preguntar sobre los avances del Plan de Justicia de los Pueblos Afromexicanos. Usted hace algunos meses dijo que lo iba a presentar aquí.
+Es preguntarle: ¿cuáles son esos avances?
+Y si ¿tiene considerado que, así como este año le dedicó a la mujer indígena, el próximo año se lo pueda dedicar a la mujer afromexicana?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El Plan de Justicia de la Zona Amuzga, de la Región Amuzga, es el que está más avanzado.
+El de la Región Afromexicana, que es justo en la costa entre Oaxaca y Guerrero, principalmente Guerrero, Cuajinicuilapa y toda esta zona, estos municipios, está avanzando; ahí todavía estamos trabajando.
+Donde más es ahí en la Región Amuzga, que ya se ha avanzado en infraestructura de salud, otras acciones, créditos para las mujeres artesanas.
+Entonces, sí, lo presentamos aquí, cómo va el avance.
+El año que entra lo vamos a dedicar a Margarita Maza. Son 200 años de su nacimiento.
+A Margarita Maza se le conoce por haber sido esposa de Juárez, nada más, pero ya vamos a hablar aquí de su vida y los sacrificios de ella y de su familia en todo el periodo de Reforma.
+Entonces, lo vamos a dedicar a ella el próximo año, a Margarita Maza.
+---
+PREGUNTA
+¿En algún año tiene pensado dedicarle a la mujer afromexicana?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya veremos lo de mujeres afromexicanas.
+---
+PREGUNTA
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―A ver, a ver, aquí, la compañera―.
+---
+PREGUNTA
+Buenos días, Presidenta. Elia Cruz, de La Hoguera.
+Sobre lo que comentaba hace un momento de la Ley Nacional de Aguas, decía que “hay acaparamiento de algunas personas”.
+¿Podrían darnos a conocer quiénes son estos grandes productores que acaparan?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, y concesiones que se dieron en su momento. Sí, sí lo vamos a dar a conocer.
+---
+PREGUNTA
+Sobre este tema también, Presidenta, ayer también se dio a conocer que la Secretaría de Gobernación, en esta reunión que tuvo con los productores y transportistas, no llegó a un acuerdo o no hubo un acuerdo ayer, se levantaron de la mesa.
+¿A qué se debió eso, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya lo va a informar la secretaria.
+Cuando hay demandas legítimas, se atienden. Hay una mesa y se busca encontrar una salida, obviamente que esté en el marco de los recursos disponibles, no se puede prometer lo que no se es posible entregar. Nosotros acostumbramos a hacer compromisos, no promesas.
+Entonces, cuando nos comprometemos con algo, hay que cumplirlo. Entonces, hay que ser muy responsable qué se puede y qué no se puede.
+Cuando hay una demanda legítima, se busca encontrarle salidas para que se pueda atender.
+Por ejemplo, en el caso del maíz se buscó algo tripartita: que le entraran las empresas que compran maíz a dar un precio más alto del mercado, que los gobiernos estatales le entraran con algo y el Gobierno Federal con algo. Y ahí se logró un acuerdo para algunos productores de maíz, que va avanzando en otros estados de la República.
+¿Por qué es esto?
+Porque el precio del maíz, este año y el próximo, está muy bajo. Ya lo hemos explicado en otras ocasiones: el precio del maíz, por el Tratado, se fija en Estados Unidos, en la Bolsa de Chicago.
+Y, además, es un maíz distinto: allá principalmente maíz amarillo, mucho de ello transgénico; y acá es maíz blanco, criollo, nativo, híbrido en algunos casos, pero es híbrido nacional, semillas mejoradas del maíz originario de México.
+Entonces, es algo que tenemos que seguir trabajando, evidentemente, para que se diferencie el precio del maíz amarillo, del maíz blanco. Porque maíz amarillo hay mucho más en el mundo que el maíz blanco, que el principal productor de maíz blanco es México y es para autoconsumo.
+Entonces, como el precio del maíz está muy bajo, se está buscando apoyar a los productores. Y se busca, dado que no hay suficientes recursos en el Gobierno Federal… Repito, el próximo año son un billón de pesos a Programas de Bienestar, a dedicarlo directo a la gente, además de construcción de hospitales, centros de salud, contratación de médicos, escuelas, preparatorias, universidades, todo lo que significa para lo que fuimos electos, para continuar con la Transformación.
+Cuando hay una demanda de este tipo, buscamos la manera de encontrarle una salida y que ellos estén de acuerdo.
+Cuando no, tiene que ver con un asunto político para generar algún problema nada más por generarlo, o cuando hay un tema que es la defensa de algún privilegio, entonces de todas maneras se les abre la mesa para platicar, pero hay cosas que no se pueden resolver.
+Entonces, ya, la secretaria de Gobernación y el secretario de Agricultura van a estar informando.
+---
+PREGUNTA
+Comentaba usted hace un momento que “hay demandas que no se pueden cumplir debido a los recursos”. ¿Cuáles serían estas demandas que le están…?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, pues ellos piden un Precio de Garantía muy alto para todo el maíz. Pues eso, no hay suficientes recursos para poderlo cumplir.
+Entonces, ¿qué hacemos? Buscamos, a ver, quién es el comprador. Que una parte el comprador lo… Dé más recursos, que hasta ahora hay muchas empresas que han participado en este proceso; otro sea el gobierno, otro que sean los gobiernos estatales.
+Se busca disminuir, por ejemplo, los precios de transporte, evitar que haya intermediarios, que haya la compra directa del grano, porque a veces el intermediario lo compra a precios muy bajos.
+Entonces, se buscan acuerdos directos entre el productor y el comprador, que en muchos productos se han logrado, para evitar el intermediarismo que genera todavía un precio más bajo para el productor y que no impacta en el precio al consumidor.
+Entonces, se busca siempre la manera de apoyar y, sobre todo, a los pequeños productores.
+---
+PREGUNTA
+Sobre eso, ayer la Sader emitió un comunicado diciendo que habían logrado un acuerdo justamente con los productores de maíz de Campeche.
+¿Este acuerdo también tiene la posibilidad de extenderse a otros estados?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es un parecido al que se hizo en el Bajío; o sea, es un acuerdo en donde hay una parte del gobierno del estado, otra parte de las empresas que compran el maíz para hacer harina principalmente, y de nosotros, del Gobierno Federal.  Entonces, buscan acuerdos que ayuden, sobre todo, al pequeño productor.
+---
+PREGUNTA
+Pero, digamos, ¿otros estados también serán beneficiarios, por ejemplo, productores como Guerrero, Morelos...?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Esa mesa de trabajo está abierta todo el tiempo con todos los estados.
+Por eso yo ayer dije: ¿Para qué toman una carretera, si está abierta la mesa de diálogo?
+Nosotros también nos manifestamos muchas veces. Te manifestabas porque ni siquiera… Cuando había una solicitud particular. Digo, nos manifestamos para transformar el país de fondo y de raíz; pero cuando acompañamos demandas particulares, ni mesas de diálogo había.
+Aquí está la mesa de diálogo abierta, se están buscando alternativas. Y de todas maneras, toman una carretera. Y ahí es donde yo digo: ¿Qué los mueve a tomar una carretera, si están en una mesa de trabajo donde se están buscando alternativas?
+---
+PREGUNTA
+¿En el tema de seguridad que demandan los transportistas, ahí ya han logrado un avance?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ayer puse la gráfica de cómo disminuyó el robo en carreteras. Tenemos que seguir avanzando. No es cero, es cierto, no es cero, pero hemos avanzado y estamos avanzando más.
+Hay un programa especial de la Guardia Nacional donde la Guardia se reúne con transportistas.
+Es relevante, fíjense, que de los transportistas, cerca de 9 asociaciones sacaron comunicados diciendo que “ellos no eran quienes estaban cerrando, y que había mesas de diálogo, y que se va avanzando y quieren que se avance más; pero que hay mesas de trabajo”.
+¿Para qué sirven las mesas de trabajo en seguridad?
+Bueno, ellos denuncian: “Los robos están aquí, están acá, están en este otro lado”.
+¿Qué hacemos nosotros, aparte de la vigilancia de la Guardia Nacional?
+Por ejemplo, en la México-Querétaro, en la México-Puebla, se abrieron a lo largo de los años brechas que van directo a la carretera o caminos que van directo a la carretera, porque se rompió el flex beam o se movió la… Flex beam son estas —bueno, así se le dice en inglés, perdón el anglicismo— las barreras estas de contención que están pintadas de negro con blanco. O hay otro tipo de barreras de concreto que movieron.
+Entonces, quien asalta se mete por estos lugares, asalta y se regresa, y ya después se van a otros lados.
+Entonces, lo que está haciendo es cerrando todos esos lugares que estaban abiertos para evitar y que la única entrada a las carreteras de cuota sea entrada y salida, punto, ningún otro lado.
+Entonces, está trabajando en eso.
+Nos informan: “Los asaltos están en este lugar”.
+Bueno, se trabaja para evitar que haya estos asaltos o la investigación para que haya las detenciones que tenga que haber.
+Entonces, hay mesas de trabajo, 9, creo que son 9, que publicaron que “estábamos trabajando”; y hay una asociación que dijo que “no”.
+Entonces, esa es la disminución del robo en carreteras. Y hay que seguir, porque hay otras que no se denuncian. Entonces, también está el 088, que es el teléfono de la Guardia, donde se denuncian, y ahí en el Gabinete de Seguridad le damos seguimiento a las denuncias telefónicas, que luego no llegan a denuncias penales, de robo de vehículo, o de autotransporte, principalmente.
+---
+PREGUNTA
+Gracias, Presidenta.
+En otro tema, la marcha de ayer de mujeres a favor de la erradicación de la violencia fue pacífica, aunque no con la misma convocatoria que las pasadas.
+¿Cuál es su opinión al respecto?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, más bien, ahí habrá que preguntarle a las convocantes, ¿no?
+Yo creo que hay un reconocimiento de que hay un Gobierno que está trabajando por las mujeres. Y como vimos ayer, es un tema en donde no hay diferencias, trabajamos juntos con todos los gobiernos de los estados. Y nuestro compromiso es seguir trabajando para la erradicación de la violencia contra las mujeres.
+Y qué bueno que fue pacífica, que no hubo problemas.
+---
+PREGUNTA
+En otro tema, Presidenta, el viernes pasado se dio a conocer que se detuvo a siete escoltas del alcalde asesinado de Uruapan, Michoacán, Carlos Manzo.
+¿Qué información tiene? ¿Qué información le ha dado el Gabinete acerca de esta detención? ¿Hay indicios de que ellos estuvieran involucrados en el homicidio?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tiene que contestarlo el Gabinete de Seguridad, en estos casos prefiero que sea; o la Fiscalía de Michoacán, que es quien hizo las detenciones; o directamente el Gabinete de Seguridad, que está colaborando, sobre el avance de casos tan relevantes como el de Carlos Manzo, el alcalde de Uruapan.
+---
+PREGUNTA
+Sobre este mismo tema, Presidenta, ¿cuál es su opinión acerca de las declaraciones que emitió ayer el senador de Morena, Gerardo Fernández Noroña, acerca de la nueva alcaldesa y viuda de Carlos Manzo?, que dice que “le está ganando la ambición y que ha decidido tener una posición de ultraderecha fascista”.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Yo creo, primero, que en estos casos hay que ser muy… Hay que respetar, primero.
+O sea, la esposa del alcalde, hoy alcaldesa de Uruapan, no está pasando por un momento fácil, ¿no?, acaba de perder a su esposo. Entonces, yo creo que en esa parte tiene que haber una sensibilidad, para empezar.
+Y ya si hay un asunto de debate político, bueno, pues ya es otro tema. Pero yo creo que todo a su tiempo, todo a su debido tiempo.
+Y hay que, en momentos, ser solidarios, estés de acuerdo o no estés de acuerdo.
+Entonces, mi opinión.
+Ya para lo político, ya habrá otros momentos.
+---
+PREGUNTA
+Presidenta, hoy también sale una información acerca de este empresario, que es presuntamente dueño del certamen de Miss Universo y que señalan que estaría imputado, por parte de la Fiscalía General de la República, de un presunto huachicol.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pues tendría que informar la Fiscalía, ¿no? Si hay una investigación a esta persona, tiene que informar la Fiscalía. Hoy sale en un medio, pero tiene que informarse.
+Ahora, eso es independiente de la joven que ganó el concurso, porque lo quieren juntar; es distinto.  Entonces quieren quitarle el mérito —repito, más allá de que estemos de acuerdo con estos certámenes o no— mérito a quien lo tiene en el certamen.
+Ahora, otra cosa muy distinta es este tema de esta persona. Y ahí, si hay una investigación, pues que se diga que hay una investigación y que se informe por parte de la Fiscalía.
+---
+PREGUNTA
+Finalmente, Presidenta, en La Hoguera publicamos varios textos acerca de la movilidad en la Ciudad de México, pero en especial en el oriente de la Ciudad.
+Hemos tenido como muchas demandas. Hicimos un recorrido por toda esa zona del oriente y, bueno, usuarios del transporte público, del transporte privado, se quejan por las largas horas que pasan en el tráfico que se hace, principalmente sobre la autopista México-Puebla debido a las obras del Trolebús, que no concluyen y que ya llevan 3 años haciéndose.
+La pregunta, Presidenta, es: ¿cuándo se va a concluir?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El Trolebús ya está funcionando. Creo que están haciendo dos estaciones más o, más bien, se están haciendo dos estaciones más. Y está funcionando muy bien el Trolebús.
+Es un proyecto muy bonito, porque es un segundo piso donde van trolebuses, transporte eléctrico. Se toma en Chalco o en los distintos municipios, y puedes hacer la transferencia en la Línea A del Metro o te sigues hacia Ermita-Iztapalapa, y llegas a la transferencia de la Línea 7, creo que es esa, la de Constitución de 1917.
+---
+DIRECTOR GENERAL ADSCRITO A LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA, JOSÉ ANTONIO MENDOZA BELMONT
+La Línea 8.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+La 8, la Línea 8, Constitución de 1917. Y de ahí te puedes mover en Metro por toda la Ciudad.
+Y ya tiene… O sea, te puedes seguir incluso en el Trolebús hasta Mixcoac.
+Entonces, está funcionando —por lo que me han informado— muy, muy bien.
+Y, bueno, ya el tema del tránsito sobre la Puebla y Zaragoza, se tiene ahí que… Y vamos a ayudarle a la jefa de Gobierno, a mejorar la Línea A del Metro.
+La Línea A del Metro va sobre Zaragoza. A todos los que me oyen desde otros estados, es que fui jefa de Gobierno, por eso me la sé.
+La Zaragoza, Calzada Zaragoza, que es por la que entras de la México-Puebla; la México-Puebla puedes irte hacia Ermita o puedes irte hacia Zaragoza, y Zaragoza es una avenida que es así.
+¿Por qué es así? Pues por los hundimientos diferenciales que hay en esa zona de la Ciudad por la sobreexplotación del acuífero. Entonces, eso ha generado problemas en la Línea A del Metro.
+Entonces, vamos a ayudar. Entonces, va muy despacito la Línea A, entonces vamos a ayudar para poder enderezarla, poner una especie de puentecitos, digamos, que permitan que no tenga estos problemas de hundimiento la Línea y que funcione mejor.
+También ahí Efraín está trabajando en un proyecto que esperamos licitar ya muy pronto, porque ahí se inunda mucho también en época de lluvias, para que se disminuyan las inundaciones.
+---
+PREGUNTA
+¿En el puente de La Concordia?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+En el puente de La Concordia.
+---
+PREGUNTA
+Una de las demandas que nos hacían o nos hacían ver ese día que hicimos los recorridos era que no solamente era la… Bueno, que sí funciona el Trolebús, sino más bien para el servicio que va sobre la autopista y el confinamiento que se está haciendo de ese espacio, que detiene el tráfico y deja a muchas personas varadas durante al menos 40 minutos en un tramo de solamente 5 kilómetros.
+Entonces, por eso preguntaba: ¿cuándo se terminará?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Vamos a pedirle a Jesús Esteva que pueda informar. Es una obra que está haciendo el gobierno del Estado de México.
+Pero, bueno, vamos a pedirle a Jesús que pueda informar, Jesús Esteva.
+---
+PREGUNTA
+En esa parte a la llegada, o sea, viniendo desde Chalco hacia la Ciudad de México, a la llegada del puente de La Concordia antes existían dos carriles, que eran laterales, que pasaban por la parte de abajo, donde se dio ese lamentable episodio con la pipa, y ahora están clausurados.
+¿Esos ya permanecerán ahí clausurados o se van a volver a abrir, o solamente el tránsito va a quedar sobre…?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No llego hasta… Mi información no llega hasta allá ahora, pero con gusto le pido a Jesús Esteva que pueda informar, informarles a todos, y en particular a ti, para saber si esos se van a quedar cerrados o no.
+---
+PREGUNTA
+Y otro punto sobre eso para el momento en que informe este —ni modo— y para el momento que informe el secretario: pasando la caseta también de Chalco, quizá usted lo vivió cuando fue a inaugurar la Universidad Rosario Castellanos…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, ahí se cerraron mucho los carriles.
+---
+PREGUNTA
+Porque pusieron un semáforo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Una estación muy larga, además. Sí, se está viendo.
+---
+PREGUNTA
+¿Se va a corregir eso?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, se va a corregir. De hecho, tiene un carril de rebase; se va a quitar ese carril de rebase del Trolebús.
+Y le pedí, ahora como parte del Proyecto de la Zona Oriente del Estado de México, que se corrija esa estación que, la verdad, no quedó muy bien. Nos lo ha pedido también la presidenta municipal de Chalco.
+---
+PREGUNTA
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+―Vamos ¿Quién más? ¿Quién más? A ver, la compañera―.
+---
+PREGUNTA
+Buenos días, Presidenta. Anne Vigna, de Le Monde.
+Ahora que la Ley en Materia de Desaparición Forzada fue reformada con la creación de nuevas bases nacionales de información, ¿el Gabinete de Seguridad podría publicar el número de personas desaparecidas como lo hace con los homicidios para saber si hay aumento, si hay una disminución y cuántos han sido localizados?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí. Es algo que vamos a informar pronto, me lo han preguntado varias veces, que es importante que sepan y por qué se están revisando bien las bases de datos.
+Lo he explicado en otras ocasiones y lo explico nuevamente: la antigua ley establecía que hay una plataforma, más allá de las Fiscalías, que tienen las Comisiones de Búsqueda, donde uno puede reportar ahí a una persona desaparecida.
+¿Qué nos encontramos?
+Que esos reportes de esa plataforma muchos de ellos no están completos, incluso en algunos casos ni el nombre completo de la persona está. Viene su primer nombre, no vienen los apellidos, no viene contacto, no viene dirección, no viene dónde desapareció y, sin embargo, se contabilizaba como una persona desaparecida.
+Entonces, lo primero que estamos haciendo, como la ley decía que “había que mantenerlo”, es decir: con la antigua Ley estas eran las bases de datos que estaban en la plataforma y ese cruce con las Fiscalías estatales cómo es, cuántas de ellas tenían realmente carpeta de investigación o al menos registro en un Ministerio Público.
+Entonces, ese… justo la supercomputadora nos ayudaría a que eso fuera más rápido. Pero, bueno, tener la información de los Ministerios Públicos estatales, de las Comisiones de Búsqueda estatales, eso ha llevado un poco de tiempo, pero va avanzando.
+Entonces, para poder informar: de todos los registros que estaban en la plataforma, estos tenían datos completos, estos no tenían datos completos; de estos que no tenían datos completos, que sí tenían, que no tenían, para que haya total transparencia.
+Esa es una primera parte.
+Lo segundo es cuánto de ello tiene carpeta de investigación. Si hay una persona desaparecida, ¿quién denunció directamente y al Ministerio Público para que se abra una carpeta? Y son distintas.
+Entonces, que podamos informar cuántas carpetas de investigación hay.
+La nueva Ley lo que nos faculta es que pueda haber búsquedas administrativas de esta información. Eso está ayudando mucho a la Agencia de Transformación Digital.
+Entonces, de las personas desaparecidas, por ejemplo, ya podemos preguntarle al INE, como pregunta: “¿Esta persona que está reportada como desaparecida hizo algún trámite de credencial de elector posterior a su desaparición?” Y el INE nos contesta “sí” o “no”.
+Si contesta que sí, entonces pedimos a la familia —si es que se contacta la familia—: si podemos tener acceso al dato de la dirección. Y va y se busca a la persona en la dirección.
+Eso por un lado. Entonces, esa parte ha tenido su complejidad, pero lo estamos atendiendo.
+De los datos nuevos de personas desaparecidas, la nueva Ley establece claramente que: si son ciertos días, es no localizada; si son otros días, ya es desaparecido; y si es desaparecido, tiene que haber carpeta de investigación.
+Entonces, toda esa parte es lo que nos ha llevado un poco de tiempo para poderlo presentar.
+Las Fiscalías no reportan diario si hay casos de desaparecidos. Y si lo reportan, tiene que haber un tiempo para que sea no localizada, que haya la alerta, y que después ya se considere como persona desaparecida. Y de esas, cuantas estarían vinculadas con algún asunto de la delincuencia organizada.
+Entonces, antes de que termine el año se va a dar la información.
+Y no la hemos dado precisamente por eso, porque queremos ser muy claros en la información previa y la información actual de cuántas personas hay, además de todo el trabajo que se está haciendo para evitar que haya cooptación de jóvenes, por parte de la delincuencia organizada.
+---
+PREGUNTA
+Sí, era la siguiente pregunta, porque la política social y educativa para que los jóvenes no ingresen al narcotráfico —como México lo está haciendo— es recomendado por organismo como la ONU; pero cuando los jóvenes son obligados a trabajar para la delincuencia organizada, como se sabe que ocurre con el reclutamiento forzado, ¿qué se pretende hacer ahí?
+¿Sabe, por ejemplo, que las redes criminales usan las redes sociales con falsas ofertas de trabajo que buscan también estudiantes de algunas carreras técnicas?
+Entonces, ¿qué se pretende hacer para eso?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El nuevo Sistema Nacional de Inteligencia e Investigación nos permite tener mucho más acceso a estas plataformas de cooptación, bajar las páginas, hablar incluso con las plataformas digitales.
+—Se han bajado muchas, ¿no?—
+Pasamos el dato de cuántas se han bajado.
+Y, además, se está trabajando en el alertamiento que tiene que ver también con las nuevas leyes. Por ejemplo, que en todos los, los… No se llaman CETRAM, sino las estaciones de transporte foráneo e interurbano, cuando vas a comprar un boleto de camión para ir a otro lugar, en algunos estados en particular donde sabemos que pueden haber riesgos de cooptación de algún grupo criminal, ahí se está obligando a las empresas a que reporten y que tengan información de: quién va, que se pida la credencial de elector necesariamente para poder subir un autobús, en fin, varias medidas de alertamiento; para que, si hay el reporte de una persona no localizada, de inmediato alerte a todo el país para que pueda ser localizado en determinado punto.
+También la nueva Ley nos permite que se pueda acceder a datos privados en caso de que un juez lo solicite, y que esté conectado con esta plataforma de información.
+También está ya trabajando la Comisión de Telecomunicaciones, la nueva Comisión, en nuevas reglas para que la compra de los chips de los teléfonos se tenga que dar la identificación, que ya está en la Ley.
+En México, creo que ningún otro país del mundo tiene esta facilidad como hay en México de que puedas comprar un chip en una tienda y que no tengas que dar tu nombre, y entonces lo usa la delincuencia para estar cambiando sus chips y poder hacer extorsiones y otras cosas. Ahora, ya no se va a poder hacer eso.
+Y lo guardan las telefónicas, la información. Y después, a solicitud puede, de una desaparición o de una extorsión, lo puede solicitar la Secretaría de Seguridad.
+Entonces, todo esto lo estamos haciendo para evitar.
+Y, además, escuelas, universidades, centros de alto rendimiento y algunas otras acciones para que los jóvenes ni piensen acercarse a un grupo criminal.
+---
+PREGUNTA
+Y otro tema, Presidenta: usted sabe que hay indicios muy fuertes de que el caso de Hugo Alberto Wallace fue fabricado. La confesión de Juana Hilda ya quedó sin efecto por la Suprema Corte, y era la única base de la acusación.
+La Fiscalía tendrá que retirar la acción penal. Además, que hubo tortura en la oficina de la Fiscalía. Eso lo dijo la Comisión Nacional de Derechos Humanos y también la Suprema Corte.
+¿Por qué la Fiscalía no desiste de la acción penal y abre una investigación sobre el actuar de sus funcionarios en la época de Calderón?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tiene que contestarlo la Fiscalía.
+---
+PREGUNTA
+Porque quienes han investigado este caso, y no me refiero nada más al trabajo de Ricardo Raphael, sino también a la Comisión Nacional de Derechos Humanos, la Suprema Corte, la Defensoría Pública, todas son instancias públicas financiadas por el Estado para garantizar la defensa de los derechos humanos; y no se toman en cuenta sus informes, que son de cientos de páginas, y que señalan la fabricación del caso y la violencia… violaciones, perdón, graves como la tortura.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tiene que contestar la Fiscalía.
+---
+PREGUNTA
+Ok. El caso se atrasó nuevamente con la reforma judicial porque, en el caso de Brenda Quevedo Cruz y Jacobo, ellos han solicitado el cierre del proceso, pero el juez que acaba de asumir el caso pidió más tiempo para analizar los expedientes.
+En cuanto a Toño y Alberto César, que fueron sentenciados en primera instancia como Juana Hilda, sus casos se encuentran en un Tribunal Colegiado que no ha sido integrado todavía.
+¿No sería conveniente que la nueva administración judicial revisara también el actuar de los jueces?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, para eso hay un Tribunal de... ¿Cómo se llama?, se me olvida siempre el nombre de esa institución.
+---
+PREGUNTA
+Tribunal de Disciplina Judicial.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Tribunal de Disciplina Judicial. Tiene que actuar, o sea, tienen que… El Poder Judicial, el nuevo Poder Judicial tiene una enorme responsabilidad histórica, y con el pueblo que lo eligió, y tienen que dar resultados dentro del marco de la ley.
+Entonces, en el caso del Tribunal de Disciplina, tiene que, si es el caso, investigar a los jueces que están involucrados con alguna queja y hacer investigaciones imparciales, pues. Pero si hay evidencia de que hay un juez que está cometiendo alguna irregularidad, pues para eso se creó esta institución.
+---
+PREGUNTA
+Brenda está en arraigo domiciliario desde más de un año y medio, y por culpa de la tortura necesita una atención médica y una operación; pero al estar confinada en su casa, sin poder salir, nada avanza.
+¿No se podría revisar sus medidas cautelares para permitir que reciba el tratamiento, que es un tratamiento muy importante?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Si ellos se gustan buscar al Gobierno para que podamos ayudarles en la información, con todo gusto. Pero sí es un asunto del Poder Judicial.
+Bueno, yo creo que ya, ¿no?
+Vámonos.
+El “Detector”.
+---
+COORDINADOR DE INFODEMIA, MIGUEL ÁNGEL ELORZA VÁSQUEZ
+Con su permiso, Presidenta.
+Buenos días a todas y todos.
+Las movilizaciones de transportistas y agricultores han sido aprovechadas por medios de comunicación y comentaristas para desinformar sobre sus causas e incluso sobre quienes participaron en ellas, con el objetivo de generar la percepción de que “el Gobierno de México no ha atendido sus demandas”.
+Por otro lado, el hecho de que 13.5 millones de mexicanos hayan salido de la pobreza y que diversos organismos internacionales hayan reconocido esta hazaña parece molestar a algunos comentócratas que, desconociendo las voces internacionales, mienten diciendo que este acto de justicia social se debe al Inegi.
+Veamos el video del “Detector de mentiras” de esta semana.
+---
+COORDINADOR DE INFODEMIA, MIGUEL ÁNGEL ELORZA VÁSQUEZ
+Gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buen día.
+---
+PREGUNTA
+¿Va a ir a Sonora, Presidenta, en su gira?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, yo creo que no. Todavía estamos en la definición de dónde vamos.
+---
+PREGUNTA
+(Inaudible)
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya les platicamos.
+—000—

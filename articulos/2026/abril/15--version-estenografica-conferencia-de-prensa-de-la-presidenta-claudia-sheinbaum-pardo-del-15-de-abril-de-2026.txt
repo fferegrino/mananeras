@@ -1,0 +1,694 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de abril de 2026
+Presidencia de la República
+15 de abril de 2026
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días.
+---
+PREGUNTA
+Buenos días, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Disculpen ustedes la tardanza en el inicio de la conferencia, 10 minutos después.
+Pero me da mucho gusto presentarles y recibir aquí, en “La mañanera”, a un grupo de científicas, científicos, tecnólogos, académicos de México que nos van a ayudar a la pregunta que hicimos hace una semana, de que es: ¿bajo qué condiciones es factible o no es factible explotar el gas no convencional en nuestro país?, ¿y en dónde sí y en dónde no?
+En fin, esa es la tarea que les dimos.
+—Siéntense, por favor—.
+Me da mucho gusto que nos acompañe el rector de la UNAM, el doctor Lomelí.
+Están aquí tres instituciones… cuatro instituciones nacionales y dos institutos de investigación:
+La UNAM, la Universidad Nacional Autónoma de México, investigadores de la UNAM, investigadoras.
+De la Universidad Autónoma Metropolitana, su director general, su rector.
+El director general del Instituto Politécnico Nacional, también está con nosotros.
+Está la directora del Instituto Mexicano de Tecnología del Agua.
+Y no pudo estar hoy con nosotros, pero es parte también de este equipo, el Instituto Mexicano del Petróleo.
+Así como la Universidad Autónoma de Nuevo León, que también tiene distintos académicos o académicos de distintas disciplinas que nos van a estar apoyando en este proceso.
+La idea es que, como todos ellos ya conocen este tema —algunos de ellos han investigado aguas subterráneas, otros han investigado geología, otros han investigado tratamiento de agua—, que se pongan de acuerdo, se sienten, vean qué hay que investigar adicionalmente, y que en 2 meses nos puedan dar una primera orientación; y después seguir trabajando junto con nosotros en este tema tan importante para el país que representa, en primer lugar, soberanía.
+Por supuesto que no es la única tecnología. Como hemos dicho aquí, la tecnología más importante que estamos desarrollando o las tecnologías más importantes que estamos desarrollando son las fuentes renovables de energía.
+Vamos a pasar a 45 por ciento… —¿Es así, Luz Elena?—
+---
+SECRETARIA DE ENERGÍA, LUZ ELENA GONZÁLEZ ESCOBAR
+—40 por ciento—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+40 por ciento de generación de energías renovables, en el país, al 2030.
+Y estamos trabajando de manera muy importante sobre almacenamiento de energía —que el otro día me preguntaron— baterías, almacenamiento a través de las presas, la combinación de paneles fotovoltaicos con energía hidráulica, hidrógeno verde. Todas las tecnologías disponibles a la fecha, las estamos incorporando en el Plan Nacional de Energía.
+Pero aun así —como todos saben—, dependemos 75 por ciento del gas natural que viene de Estados Unidos.
+Entonces, para fortalecer la soberanía energética, estamos incorporando a este grupo de académicos de altísimo nivel de nuestro país que nos puedan dar una orientación en este sentido, porque han venido trabajando sobre estos temas.
+Una vez que ellos definan, evidentemente, si ellos plantean —por decir algo, es una hipótesis— “es factible hacerlo en Coahuila, es donde hay mayor factibilidad de distinto tipo, porque no hay poblaciones cercanas, porque… en fin, en cierta zona”, entonces, pasaríamos a la parte social, evidentemente: a la consulta con las comunidades, al trabajo con las comunidades, para que sea una decisión colectiva. Nunca vamos a pasar por encima de ninguna comunidad, porque esa es siempre nuestra esencia.
+Hace tiempo —ustedes saben que me he dedicado a la energía durante mucho tiempo—... Tengo un artículo que habla sobre una investigación de cómo la energía eólica en el Istmo de Tehuantepec se hizo en contra de las comunidades y generó mucho rechazo a la energía eólica, por parte de las comunidades del Istmo de Tehuantepec, por la manera en que se hizo.
+Inclusive muchas veces hablamos de “energías limpias y negocios sucios”, por la manera en que se construyó el proceso.
+Entonces, en este caso es un trabajo colectivo con las comunidades y también, en primer lugar, con los académicos.
+Es creo que un ejercicio inédito en nuestro país el incorporar a la academia, a las universidades públicas de nuestro país, a las y los investigadores de estos temas, a que nos ayuden a tomar la mejor decisión posible para el futuro de México y para la soberanía nacional.
+Dicho esto, le paso la palabra a Rosaura.
+Después, les pediría, al rector de la UNAM, que pudiera darnos unas palabras; al director de la UAM, al rector de la UAM; y al director del Instituto Politécnico Nacional.
+Rosaura va a presentar quiénes son estos investigadores, investigadoras, y sus currículums, breves, que también van a aparecer en la página del Gobierno de México.
+Nos acompaña también:
+Luz Elena González, secretaria de Energía.
+Cuitláhuac García, que es el director de Cenagas.
+Emilia Calleja, que es la directora de Comisión Federal de Electricidad.
+Porque, si nos da tiempo, queríamos presentarles toda la infraestructura de gasoductos que estamos desarrollando en el país para el sexenio. Si no nos da tiempo, porque no alcanzamos a cerrar, ya vendrían el próximo miércoles. Pero esperemos que nos dé tiempo.
+Entonces, si lo consideran, le doy la palabra a Rosaura.
+Y después, agradecemos la presencia de las y los académicos y de los rectores aquí en “La mañanera del pueblo”.
+―Adelante, Rosaura―.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI), ROSAURA RUIZ GUTIÉRREZ
+Con su permiso, Presidenta. Buenos días, todos y todas.
+Bueno, en primer lugar, quiero agradecer a los y las científicas, a los representantes de las universidades, los rectores, el director del Politécnico. Muchísimas gracias a todos por estar aquí y apoyarnos en esta empresa.
+Como ha señalado la Presidenta en días recientes, el compromiso de este gobierno es alcanzar la soberanía energética sin comprometer la seguridad hídrica ni la salud de nuestros ecosistemas.
+Para lograr este equilibrio, por instrucciones de la Presidenta, la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la Secihti, ha convocado a un grupo de alto nivel que hoy nos acompaña.
+Este no es solo un equipo técnico, es un grupo multidisciplinario de expertas y expertos.
+¿Por qué reunirlos? Porque la complejidad de los yacimientos no convencionales no permite visiones aisladas.
+Necesitamos a los mejores en geología y en yacimientos para entender la estructura de la tierra; a expertos en fluidos y perforación para recomendar el uso de químicos que sean biodegradables; y de manera crucial, a los y las expertas en agua y en medio ambiente, también en cambio climático.
+Como bien se señaló, el agua es el eje transversal desde su inyección y tratamiento hasta su reúso en circuitos cerrados para no afectar las cuencas ni el consumo humano especialmente en zonas áridas.
+Hoy nos acompañan representantes de las instituciones de excelencia del país: la UNAM, el Instituto Politécnico Nacional, el Tecnológico Nacional de México, la UAM y también, la Universidad de Nuevo León.
+Hay otras universidades, no las pudimos citar para hoy, pero también están participando.
+Están participando también los Centros Públicos de Investigación de Secihti, así como el Instituto Mexicano del Petróleo y el Instituto Mexicano de Tecnologías del Agua de la Semarnat.
+Los que están aquí hoy son especialistas del tema y representan a un grupo más amplio que estamos reuniendo, siendo la punta de lanza de una comunidad mucho más amplia de investigadores ―como ya señalé―, también de Nuevo León, y está Tamaulipas, Veracruz y Coahuila, que ya están integrados en este esfuerzo, y no solamente porque conocen bien la cuenca donde se podría trabajar en el futuro.
+Estamos aquí para dar confianza y rigor científico al pueblo de México. No estamos improvisando, estamos aplicando la ciencia para el bienestar social y la protección de nuestro suelo.
+Los investigadores e investigadoras que aquí nos acompañan, los voy a presentar:
+El doctor Carlos Serralde Monreal no está en este momento, porque él es un mexicano que trabaja en Canadá, pero que ha aceptado ser parte de este grupo, es una persona experta en estos temas.
+El doctor Manuel Martínez Morales, de IMTA. Él es ingeniero geólogo del Politécnico, maestro en Aguas Subterráneas por la Universidad de Arizona y doctor en Hidráulica en la Facultad de Ingeniería de la UNAM. Es un experto en exploración y explotación de aguas subterráneas.
+El doctor Jesús Humberto Romo Toledano, es de la ESIQIE del Politécnico. Él es ingeniero químico industrial con maestría en Ingeniería Ambiental y doctorado en Tecnología Avanzada. Profesor activo de la Academia de Ingeniería Ambiental y Operaciones Unitarias de la ESIQIE. Su área de especialización es el tratamiento de aguas impactadas con hidrocarburos.
+Está también el señor Samuel Alejandro Lozano Morales. Él es del Instituto de Química Aplicada de Secihti. Es ingeniero químico con maestría y doctorado en Tecnología Avanzada, con especialidad en Nanotecnologías, Síntesis y Aplicación de Nanomateriales.
+Está también… Bueno, perdón, voy a citar a la doctora Blanca Jiménez. Ella no está, es nuestra embajadora en Francia. Pero ella es una gran experta que ha dedicado su vida al estudio de temas de agua. Está también en el grupo.
+El doctor Carlos Aguilar Madera —que está aquí—, él es de la Universidad Autónoma de Nuevo León, es director de la Facultad de Ciencias de la Tierra. Y viene, además, en representación del rector de la universidad. Su especialidad incluye los fenómenos de transporte en sistemas multifásicos, recuperación mejorada de hidrocarburos y tiene varios proyectos en lo que se llama black shale o “lutitas negras”.
+El doctor Erick Emanuel Luna, del Instituto Mexicano del Petróleo. Él es físico e ingeniero investigador de larga trayectoria en ese Instituto; él se especializa en la recuperación mejorada de hidrocarburos, inyección de gases como nitrógeno y CO2, y el modelado numérico de medios porosos naturalmente fracturados.
+La maestra en Ciencias, Rosa María Hernández Medel, ella es del Politécnico, de ESIA en Ticomán, es actual jefa del Departamento de Ingeniería Petrolera en la ESIA Ticomán, del Politécnico. Su autoridad, es una autoridad en el diseño de fluidos de control, cementos y fracturantes. Es una importancia científica. Muchas gracias.
+La doctora Elena Centeno García, es del Instituto de Geología de la UNAM, ella es ingeniera geóloga. Su investigación se centra en tectónica y sedimentación, con aportes clave para entender la evolución geológica del occidente de México.
+El maestro en ciencias, José Adalberto Morquecho Robles, de la ESIA del Instituto Politécnico, es ingeniero petrolero con maestría en Ciencias de la Tierra con especialidad en Geomecánica.
+El doctor Luis Fernando Camacho Ortegón —muchas gracias por llegar— es de la Universidad Autónoma de Coahuila, él es doctor en Geociencias. Su trabajo se centra en la geología, en la mineralogía y metalurgia, con un enfoque particular en la caracterización de depósitos minerales y procesos de extracción.
+Ellos son algunos de los científicos y científicas que estamos convocando a este grupo.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—La doctora Patricia Herrera, de…—.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+Ah, perdón. La doctora Patricia, que es la directora del IMTA, de Semarnat.
+Muchas gracias.
+Gracias a todos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Rector—.
+---
+RECTOR DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO, LEONARDO LOMELÍ VANEGAS
+Muchas gracias. Muy buenos días.
+En primer lugar, agradecer a la Presidenta de la República la invitación a participar en este esfuerzo, que es del mayor interés para el país. Sin duda, se trata de una encomienda en la que las instituciones involucradas y los investigadores e investigadoras que participarán pondremos nuestro mejor empeño para determinar tanto los costos como los beneficios de poder aprovechar este recurso del cual dispone el país.
+Sin duda, en los costos hay que tomar en cuenta el costo ambiental, el costo social, tener presentes también las tecnologías que nos permiten minimizar esos costos y las opciones para mitigar los costos.
+Pero es muy importante también en el beneficio, no solamente cuantificar la ganancia económica que se puede recibir de aprovechar este recurso, sino su aportación para algo muy importante, que es la soberanía energética del país.
+Hace unas 3 décadas, 3 décadas y media, yo recuerdo que prevalecía la tesis de que “no era importante tener gas o petróleo si se podían conseguir precios competitivos en los mercados internacionales”.
+Entonces, a la fecha, hemos tenido conflictos que han afectado en diversos momentos de la historia las redes de suministro de gas, de petróleo, de gasolina, que han tenido efectos directos en los precios de estos insumos estratégicos, no solo para la actividad económica, sino para el bienestar de las familias. Y esto nos ha llevado a revalorar la importancia de la soberanía energética.
+Sí es importante contar con estos recursos, sí es importante no depender en exceso del exterior para disponer de ellos, porque estas redes internacionales de suministro se pueden ver afectadas, como lo hemos visto tan solo en años recientes con los conflictos en Europa y Medio Oriente.
+Por eso, es importante evaluar la posibilidad de aprovechar este recurso con el que cuenta el país.
+Insisto, lo que van a hacer las y los investigadores es tomar en cuenta todos los costos, las tecnologías existentes y también el beneficio que puede haber a las poblaciones, y comunicarlo a la sociedad mexicana. Eso es lo que la Presidenta nos ha pedido, en su momento, que también se haga, pero lo haremos con la mayor responsabilidad.
+Así que agradezco la posibilidad de apoyar a la República en un asunto que es del mayor interés para todas y todos los mexicanos.
+Y por supuesto que, de parte de la Universidad Nacional Autónoma de México, estaremos dispuestos a llevar a cabo esta encomienda y todas aquellas que nos sean asignadas para contribuir al desarrollo del país.
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Muchas gracias, rector—.
+La UAM.
+---
+RECTOR DE LA UNIVERSIDAD AUTÓNOMA METROPOLITANA, GUSTAVO PACHECO LÓPEZ
+Buenos días a todas y todos.
+Doctora Claudia Sheinbaum Pardo, Presidenta Constitucional de los Estados Unidos Mexicanos.
+Agradezco la convocatoria y la oportunidad de dirigirme a la nación.
+Saludo también a los integrantes del presídium.
+A los medios de comunicación.
+Pero, sobre todo, al pueblo de México.
+Especialmente agradezco la invitación de la doctora Rosaura Ruiz Gutiérrez, titular de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, para compartirles el siguiente mensaje:
+Como rector general de la Universidad Autónoma Metropolitana, acudo a este espacio para dar continuidad a la visión de soberanía energética, que el Gobierno de México encabeza, y reafirmar que la UAM es uno de los brazos científicos más robustos con los que cuenta el Estado mexicano.
+Nuestra institución, “la Casa Abierta al Tiempo”, como siempre, está lista y dispuesta para atender los grandes desafíos de la nación.
+Coincidimos con el diagnóstico: la dependencia del gas natural importado, particularmente del sur de Estados Unidos, representa una vulnerabilidad que México debe de superar.
+Entendemos el gas como un combustible de transición. Y por ello, la Universidad Autónoma Metropolitana pone a disposición de la nación su rigor académico, científico y capacidad de innovación para asegurar que la explotación de reservas nacionales, incluyendo el gas no convencional, se realice bajo los más estrictos estándares de sustentabilidad, alta eficiencia y adecuada gestión de riesgos.
+Nuestra contribución se materializa en la innovación tecnológica propia. Un ejemplo tangible es la microbio-refinería rural, un proyecto de investigación con incidencia social que realizamos en la Sierra Huasteca.
+Esta investigación, liderada por la UAM en colaboración con la Universidad de San Luis Potosí y la Universidad Michoacana de San Nicolás Hidalgo, es un modelo para solución de comunidades aisladas, y es un prototipo también de lo que se denomina “la petroquímica verde nacional”.
+Hemos demostrado que es posible valorizar la biomasa y los residuos orgánicos para producir, por ejemplo: bioetanol, biogás y biofertilizantes en un Modelo de Economía Circular.
+Lo que hoy presentamos como una solución para comunidades rurales, tenemos la capacidad para extrapolarlo a mayor escala. Para lograrlo, nuestros equipos de investigación ya están implementando de manera ética y responsable: la Inteligencia Artificial en el diseño y la optimización de estos procesos, lo que garantiza eficiencia energética, promueve rendimientos y distribución justa de beneficios para la población en esta cadena de valor.
+Además, quiero destacar que la Universidad Autónoma Metropolitana ha desarrollado una ruta tecnológica sólida y probada para la producción de bioturbosina. Esto también abona en la transición energética soberana con combustibles generados en nuestra nación.
+La transición hacia la soberanía energética debe de ser un proceso guiado por la ciencia abierta al servicio de la sociedad y con una perspectiva de responsabilidad intergeneracional.
+En la Universidad Autónoma Metropolitana tenemos una convicción profunda: la ciencia debe responder a la realidad social. Así, el conocimiento cobra sentido cuando se traduce en bienestar y prosperidad para todas y todos.
+La Universidad Autónoma Metropolitana —con sus 5 unidades universitarias: Azcapotzalco, Cuajimalpa, Iztapalapa, Lerma y Xochimilco— asume su responsabilidad ante la nación como una universidad pública y de carácter nacional para sumar las capacidades y competencias científicas en definir el mapa de ruta para la transición energética soberana y sostenible.
+Desde la academia estamos listas y listos para diseñar y construir, desde el presente, el futuro deseable de nuestra patria, que es el del desarrollo sostenible para todas y todos.
+In calli ixcahuicopa, “Casa Abierta al Tiempo”.
+Muchas gracias por su atención.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Muchas gracias—.
+Director del Poli.
+---
+DIRECTOR DEL INSTITUTO POLITÉCNICO NACIONAL, ARTURO REYES SANDOVAL
+En nombre de la comunidad politécnica, saludo con mucho gusto a nuestra Presidenta, la Doctora Claudia Sheinbaum Pardo.
+Así como a los miembros del Gabinete, aquí presentes.
+A las y los periodistas.
+A la audiencia que nos sigue en esta conferencia de prensa matutina.
+Este año, el Instituto Politécnico Nacional cumple 9 décadas en las que ha sido motor del conocimiento científico y técnico de nuestro subsuelo y en el sector de hidrocarburos.
+Nuestras ingenierías e ingenieros no solo han planeado, diseñado la infraestructura energética que hoy sostiene a nuestro país, también la han defendido en momentos críticos de nuestra historia.
+Sin embargo, tenemos presente que el prestigio no solo se construye con técnica, sino con una visión de sustentabilidad arraigada en el territorio mexicano.
+Por ello, ante el reto de la fracturación hidráulica, el Politécnico cuenta con una perspectiva para su integración en el Comité Científico sobre Fracturación Hidráulica, que asume dos ejes irrenunciables:
+La evaluación técnica operativa desde la ingeniería de hidrocarburos, perforación y diseño de pozos, donde se suman las fortalezas de formación científicas, técnicas y operativas de dos unidades que tenemos aquí en la Ciudad de México: la Escuela de Ingeniería Química e Industrias Extractivas, la ESIQIE; y la Escuela Superior de Ingeniería y Arquitectura, la ESIA, Unidad Ticomán.
+También queremos decir que ponemos a disposición a nuestros expertos y nuestras expertas en el eje de sustentabilidad y protección de recursos a través de dos Centros muy importantes que se encuentran:
+Uno de ellos aquí en la Ciudad de México, el CIIEMAD, o Centro de Investigaciones y Estudios sobre Medio Ambiente y Desarrollo.
+Y uno en Sinaloa, también de gran importancia, el CIIDIR Sinaloa, que se especializa en el manejo integral del agua, ordenamiento ecológico territorial, monitoreo de contaminación política ambiental e impacto de territorios habitados.
+Finalmente, quiero decirles que, una vez más, el Instituto Politécnico Nacional pone al servicio de la nación mexicana su compromiso cardenista con la soberanía energética, la protección del medio ambiente y el bienestar de las comunidades, en cumplimiento del mandato que encierra nuestro lema que es: “Poner la técnica al servicio de la patria”.
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, pues son las participaciones.
+Si quieren, abrimos a preguntas y, una vez que cerremos el tema, si nos da tiempo, pasamos al tema de la infraestructura de gas; y si no, lo pasamos para el próximo miércoles.
+—Bueno, vamos de este lado. A ver, el compañero—.
+---
+PREGUNTA
+Gracias, Presidenta. La Alianza Latinoamericana en Contra del Fracking, Presidenta, solicita un pronunciamiento de usted —y aprovechando que están los académicos aquí, de ellos— para garantizarnos que el fracking no es solamente una extensión de contaminación del agua, que produce cáncer, produce sismicidad.
+Y aprovechando, que el rector de mi UNAM, como es la UNAM de usted, pues nos diga si ¿él puede contradecir a la Alianza Latinoamericana Contra el Fracking? Como punto número 1.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hace una semana y, después, en varias conferencias dije lo siguiente: ¿qué nos hace pensar nuevamente en el gas no convencional?
+Que, durante muchos años dijimos: “no es necesario el gas no convencional y tiene impactos ambientales graves, sobre todo, relacionados con el agua, utiliza mucha agua y se contamina el agua”. Eso siempre lo planteamos.
+¿Qué nos lleva a decir “a ver, por qué no analizamos otra vez el gas no convencional”? Dos temas sustantivos:
+El primero es la soberanía energética.
+Nosotros consumimos gas no convencional, México consume gas no convencional. Está a 100 metros de la frontera, nada más que está en Texas; 75 por ciento del gas que consume México es gas no convencional, solamente que se explota en Estados Unidos.
+O sea, ya estamos consumiendo gas no convencional. Eso es lo primero.
+Lo segundo… Ah, bueno, y con la soberanía —como bien dijo el rector—, pues la situación actual. Lo que vivió Europa hace algunos años.
+Por supuesto que tenemos muy buena relación con el gobierno de Estados Unidos, y queremos seguir teniendo muy buena relación, y lo vamos a seguir haciendo. Y vamos a resolver las diferencias que tengamos siempre, porque son nuestros vecinos, porque allá viven 40 millones de mexicanos, y porque tiene que haber una política de buena vecindad y porque tenemos siempre que buscar la paz, la cooperación sin subordinación.
+Pero nosotros tenemos que ver por la soberanía de nuestro país, energética, igual que Estados Unidos ve por la soberanía energética de los Estados Unidos.
+Entonces, eso es lo primero: consumimos 75 por ciento del gas que consumimos… El 75 por ciento del gas que consumimos es gas no convencional, solo que viene de Texas.
+Segundo. En varias reuniones que hemos tenido con el equipo, Pemex, el Instituto Mexicano del Petróleo, el Instituto Mexicano de Tecnología del Agua, lo que hemos estado observando es que hay una innovación enorme en este tema que permite que ya no se usen químicos tan contaminantes, que se usen químicos biodegradables, y también el reciclamiento de agua, y muchas otras tecnologías alrededor de ello.
+Entonces, eso nos hace ver que hay que voltear a ver nuevamente al gas no convencional con ojos de soberanía y con ojos de reducción al máximo de los impactos ambientales.
+No digo “cero impacto ambiental” porque no hay ninguna actividad humana que sea de cero impacto ambiental, sino la reducción y la mitigación de los impactos ambientales.
+Entonces, con esos ojos es que estamos volviendo a ver el gas no convencional.
+Y por supuesto: si hay reservas, ¿dónde hay reservas?; si es factible la explotación, ¿en dónde?, ¿bajo qué técnicas y bajo qué condiciones? Ese es un tema.
+Entonces, a todos aquellos movimientos legítimos que están contra el fracking, en primer lugar, les decimos:
+Estamos involucrando a los mejores científicos de México, académicos, en distintos temas, para que nos digan si, en efecto, hay nuevas tecnologías para la explotación del gas no convencional y en dónde sería viable explotarlo.
+Porque hay gas no convencional en distintas regiones de México, pero a lo mejor tiene más impactos ambientales en unos que en otros, o tiene afectación a la población en unos que en otros. En una primera visión.
+Y después, seguir trabajando con ellos y ellas, para que nos puedan seguir asesorando y orientando.
+Eso es lo primero. Es decir, la decisión la vamos a tomar en términos del conocimiento científico; no como una decisión de la Presidenta sino incorporando a científicos de tratamiento de agua, a geólogos, a ingenieros e ingenieras petroleras, especialistas en tratamiento de agua, en fin.
+Y también en impactos ambientales en general, porque también hay otro grupo de impactos ambientales relacionados con el cambio climático, con las emisiones de metano.
+Entonces, es un grupo interdisciplinario que queremos que nos ayude a ver si, en efecto, hay nuevas técnicas, innovación de técnicas y qué impactos puede tener; y en dónde sería, en todo caso, factible.
+Eso es lo primero.
+Lo segundo. No vamos a hacer nada contra la población nunca.
+Tenemos que, si se decide explotar —como decía— en Coahuila, por decir algo... Digo “Coahuila”, ¿por qué?, porque del otro lado está una cuenca que sabemos que tiene gas y que incluso Estados Unidos, al sacar el gas o las empresas de Estados Unidos al sacar el gas, no sabemos qué tanto gas están sacando de este lado, porque finalmente está ―aquí los geólogos que me corrijan―, está en el Jurásico, o sea, está a 3 mil metros de profundidad, 3 mil kilómetros de profundidad, 3 mil metros de profundidad, perdón: 3 mil metros de profundidad.
+Entonces, por eso planteo “Coahuila”, pero hay otras regiones del país.
+Entonces, si vemos que es factible en esta zona, con esta tecnología, bajo estas condiciones, pues hay que hablar con la población de esa zona.
+Entonces, si vemos que es factible en esta zona, con esta tecnología, bajo estas condiciones, pues hay que hablar con la población de esa zona, es decir: “¿estás de acuerdo?”, “¿no estás de acuerdo?”, “estos son los impactos que va a haber”, “¿cómo se incorporan las comunidades?”, “¿qué beneficios habría para las comunidades?”, en caso de que fuera así.
+No vamos a hacer nada en contra de una comunidad; no somos gobiernos de antes, que olvidaban a las comunidades y que no las incorporaban en la toma de decisiones.
+Entonces, eso es lo que le decimos a los grupos que durante muchos años han luchado contra el fracking.
+Yo misma durante muchos años dije: “el fracking no”.
+Pero cuando veo las nuevas tecnologías, la situación del país en términos de la dependencia, lo peor que podemos decir es solo “no”, sino: a ver, vamos a averiguar si, en efecto, hay nuevas tecnologías, menores impactos ambientales.
+Ahora, ¿estamos apostando el futuro de México a eso? No.
+Y por eso, qué bueno que el rector de la UAM lo menciona, porque hay muchos otros desarrollos tecnológicos vinculados con lo que se llaman “tecnologías verdes” o “renovables”, que también el objetivo es orientarse hacia ellas.
+Lo que no queremos es cerrar la puerta al futuro de México y a la decisión soberana que tenemos que tomar en momentos en donde estamos viendo que cada vez dependemos más de un energético del exterior.
+---
+PREGUNTA
+Y la segunda, y última pregunta, Presidenta: la antecesora de la secretaria de Energía, y ahora sucesora del exgobernador de Veracruz, Cuitláhuac García, se pronunció por desarrollar dos plantas nucleoeléctricas similares a Laguna Verde.
+¿Cree que esa pudiera ser la alternativa?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, la nuclear también tiene otros problemas, también ambientales y de otro tipo.
+Por lo pronto estamos planteando las renovables e investigar si tiene una posibilidad viable, en términos de sustentabilidad y de la propia geología y de costos, la explotación del (gas) no convencional.
+---
+PREGUNTA
+Solamente, ¿considera —para concluir, Presidenta— el tema de la región de Vaca Muerta, en Argentina, que es deleznable, usted lo conoce, para que no se repita ese capítulo en México?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay varias zonas del mundo que explotan gas no convencional, las más importantes son: Estados Unidos, Canadá, Argentina, China y hay otros países también que lo están viendo como opción.
+Entonces, por eso no es cerrar la posibilidad y tomar una decisión consensada también e informada; no una decisión de una ocurrencia, sino una decisión informada, y lo mejor que podemos hacer es acudir a nuestros propios científicos.
+Cuando Lázaro Cárdenas decide expropiar el petróleo, las empresas extranjeras le decían: “no vas a poder, México no tiene técnicos, México no tiene desarrollo, nos vas a necesitar”.
+Entonces, ¿a quién volteamos a ver?, pues a nuestras universidades, a nuestros institutos de investigación, a nuestros académicos.
+Este académico que está en Canadá, que mencionó Rosaura… —¿Su nombre cuál es? ¿Aquí lo tienes? A lo mejor aquí lo tiene Rosaura—.
+Carlos Serralde, es mexicano, pero está en Toronto y conoce de este tema.
+Igual habrá otros mexicanos que están en otros lados que conozcan de estos temas y que nos pueden ayudar.
+Es decir, no está cerrado el grupo.
+Entonces, estamos acudiendo a los académicos, las académicas. Y por supuesto, en su momento, también a las comunidades —repito— porque no vamos a hacer nada en contra de las comunidades.
+—Vamos de este lado—.
+---
+PREGUNTA
+Buenos días, Presidenta. Buenos días a todo el panel. Eduardo Esquivel Ancona, Domo de Cristal.
+En Domo de Cristal hemos estado investigando qué alternativas hay para el fracking. Hay uno que se llama “waterless fracking”, fracking sin agua, es a través de otros fluidos como el nitrógeno o el dióxido de carbono.
+Pero no sé si —como dicen— “pueda matar más el remedio que la enfermedad en estos fluidos”. Esa sería mi primera pregunta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Alguien de los científicos que está por aquí quiere comentar algo? Adelante. Por aquí, acá—.
+---
+ENCARGADO DE LA DIRECCIÓN DE INVESTIGACIÓN DEL INSTITUTO MEXICANO DEL PETRÓLEO, ERICK EMANUEL LUNA ROJERO
+Gracias. Buenas tardes a todas y a todos.
+Efectivamente, en el Instituto Mexicano del Petróleo traemos proyectos de fracking con CO2 espumado o dióxido de carbono espumado. Dependiendo de la formación en que se usen dan buenos resultados, similares al agua o mejores al agua.
+Vamos a trabajar seguramente en esos temas también en este comité.
+---
+PREGUNTA
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—A ver, de este lado y luego te doy la palabra a ti—
+Adelante.
+---
+PREGUNTA
+Ah, perdón. En una segunda pregunta: en Texas ya llevan varias décadas explotando el fracking.
+¿Este fracking en Texas —es frontera— no está afectando el medio ambiente también del lado mexicano?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Alguien que…?—.
+No hay investigaciones, digamos, de los posibles impactos ambientales de este lado de la frontera de la explotación del otro lado. Y si hay, pues hay que revisarlos para poder comentarlo.
+Lo que es cierto es que la explotación es muy cerca de la frontera. Como está a 3 mil metros… —No sé si alguien quiera... Adelante, por favor—.
+---
+DOCTOR EN GEOCIENCIAS DE LA UNIVERSIDAD AUTÓNOMA DE COAHUILA, LUIS FERNANDO CAMACHO ORTEGÓN
+Con su permiso, señora Presidenta.
+Bueno, a la pregunta: yo soy de la Universidad Autónoma de Coahuila, del Centro de Investigación en Geociencias Aplicadas, que está en la región norte del estado. Y hemos estado trabajando, desde hace cerca de 22 años, en grupos interdisciplinarios también en los Estados Unidos, junto con el Instituto Mexicano del Petróleo, y hemos estado observando cómo funciona la industria de los hidrocarburos no convencionales en los Estados Unidos.
+Y, como ya mencionaron en su momento, aproximadamente hace como 40 años empezaron a utilizar algunas técnicas que tenían baja eficiencia y sí generaron algunos problemas.
+Pero con el paso del tiempo fueron mejorando mucho la tecnología, y al día de hoy, cuando ya se apertura la cuenca Eagle Ford en el sur de Texas, básicamente en esa región no han tenido accidentes que lamentar, ni contaminaciones de fluidos de acuíferos someros, ya que ellos están explotando agua de acuíferos salados o agua química, es un agua que no es potable, no se puede consumir, son fluidos que están circulando entre las formaciones a profundidades superiores a los 2 mil 500, a 4 mil o 5 mil metros de profundidad.
+Entonces, cuando hacen ellos extracción de esa agua y esa agua la utilizan para hacer su fracturamiento hidráulico en las formaciones, no han tenido afectaciones —dijéramos— a los acuíferos superiores.
+Y, por otro lado, esa agua también que han estado utilizando ellos para ese efecto, la van controlando en el fracking a través de nuevas tecnologías, que ―como ya mencionaron― actualmente existen sistemas robotizados que están midiendo constantemente el fracturamiento que se está dando y pueden medir en tiempo real, en milisegundos, la velocidad a la que la fractura va creciendo.
+Y de esa manera se evita que la fractura crezca más allá del yacimiento, porque una de las cosas que hay que cuidar también es no fracturar de más el yacimiento y perder el hidrocarburo.
+Entonces, se está haciendo un trabajo muy específico en muchas de las áreas de explotación de los Estados Unidos.
+Y a la fecha no hemos escuchado ningún reporte de la Railroad Commission, ni también el TCEQ de Estados Unidos, donde también nosotros estamos participando a través del Eagle Ford Consortium. en Estados Unidos y de otras organizaciones y universidades con las que colaboramos; no hemos escuchado ningún accidente o problema serio que hayan tenido.
+Realmente, el fracking nosotros lo consideramos, con la tecnología actual, una tecnología que básicamente ya alcanzó un nivel de seguridad muy estable.
+Es cuanto, Presidenta.
+---
+PREGUNTA
+En otra pregunta, también relacionada con esto: ¿cómo se está explotando?
+La semana pasada se habló de que Repsol todavía conserva un…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, están cancelados los contratos. El único que queda no tiene autorización para hacer más.
+---
+PREGUNTA
+Sí, lo que iba a preguntar es: ¿cómo estaban explotando, si era…? Pero, bueno, si ya no… Y ya, por último, lo que he estado viendo en Domo de Cristal, así, investigando, no solo es el problema de que no hay gas, bueno, que estamos importando, tenemos una tremenda dependencia del gas natural importado.
+Pero otro problema que estamos viendo son los almacenamientos, que dijo usted que “la semana que viene van a hablar de esto”, pero ¿podríamos adelantar algo?, porque hay también que buscar formas, yacimientos en desuso que pueden almacenar gas natural, hay otras.
+¿Qué se está explorando ahorita en México para tener este almacenamiento de gas?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Si quieren nos concentramos ahora en el tema y el tema del grupo de investigadores, y después seguimos hablando en otras “mañaneras” de gas.
+Algo importante que no mencionamos es que: Pemex está haciendo un trabajo muy importante para recuperar el gas que se quema en la atmósfera —porque todavía se quema gas en la atmósfera— y la explotación de gas convencional en los pozos que no tienen que ver con fracturación. Entonces, ese programa está, se está invirtiendo en ello y se está desarrollando.
+Este tema, la decisión queremos tomarla de manera colectiva.
+---
+PREGUNTA
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+―De este lado—.
+---
+PREGUNTA
+A ver, sobre el tema, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+A ver sobre el tema.
+---
+PREGUNTA
+Buenos días, Presidenta ―Ramón Flores, del Centinela Informa― y funcionarios y funcionarias que la acompañan, académicos y académicas.
+Presidenta, considerando las limitaciones técnicas, ambientales y de costos del fracking, preguntarle ¿qué portafolio de tecnologías y fuentes como renovables, almacenamiento energético, modernización de Pemex y en la Comisión Federal de Electricidad, así como eficiencia energética, está priorizando su administración para sustituir la producción potencial de hidrocarburos no convencionales y asegurar la soberanía energética?
+¿Y bajo qué métricas de autosuficiencia, reservas y seguridad del sistema, se evaluará su viabilidad en el mediano y largo plazo?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Son cerca de 15 mil megawatts ―¿no?, ¿o más?―
+---
+DIRECTORA GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE), EMILIA ESTHER CALLEJA ALOR
+―16 mil―.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+16 mil megawatts.
+―A ver, Emilia, ¿por qué no nos platicas de qué tamaño es el Sistema Eléctrico Nacional y cómo va a crecer?―.
+---
+DIRECTORA GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE), EMILIA ESTHER CALLEJA ALOR
+Buenos días a todas y a todos.
+Con su permiso, Presidenta.
+Como bien lo menciona la Presidenta, nuestro plan de expansión incluye básicamente una ampliación muy grande en el tema de energías renovables. Estamos hablando de los contratos mixtos y privados que también a través de la Sener se están evaluando, y están ya también en factibilidad y en su fase de ingeniería y desarrollo, en donde estamos teniendo un interés por el incorporarse como socios de CFE de cerca de 17 mil megawatts.
+Estos proyectos se estarán lanzando este año, intentando el tema de incrementar… Bueno, no “intentando”; concretando el tema de incrementar nuestro parque de generación limpia para llegar a un 38 por ciento al final del sexenio.
+Con todo esto estamos también dando, con las centrales de energía firme, como son los Ciclos Combinados y algunas centrales que aún tenemos de tecnologías convencionales que básicamente también queman gas, pero es el que le da el soporte.
+Y estamos incorporando también tecnologías de almacenamiento para poder tener una estabilidad en la red, al momento de la transición que salen las energías renovables, durante los periodos donde no hay aire o que termina la luz solar.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Qué tecnologías hay en renovable que estamos desarrollando?
+Primero. Pusimos una regla al cambiar la Constitución y la Ley de Comisión Federal de Electricidad y la Ley de Energía, que es: 54 por ciento de la generación eléctrica tiene que ser pública y 46 por ciento privada. Y en el despacho de energía eléctrica tiene prioridad lo público.
+Eso es algo que está en la ley y es parte de nuestro Proyecto de Transformación: recuperar la soberanía también en términos de que el pueblo de México tenga la propiedad de las empresas y tenga la mayoría en la generación. Eso es algo que ya se aprobó. Y todo el Plan Nacional de Energía nos está llevando no solo a eso, sino a tener incluso mayor proporción de las plantas de energía.
+Presidente López Obrador compró las Plantas de Iberdrola y con ello, amplió la capacidad de la inversión pública o de la planta de generación pública con respecto a los privados.
+Eso es lo primero, y eso se va a mantener y así vamos a seguir trabajando.
+Lo segundo. La prioridad la tienen las energías renovables, es decir, lo que más vamos a generar ahora es con energías renovables.
+¿Qué son las energías renovables? Pues las que la fuente primaria de energía es hasta cierto punto infinita, porque el sol siempre va a estar ahí, el viento siempre va a estar ahí, el calor de la tierra siempre va a estar ahí.
+Entonces… La biomasa, que puede utilizarse bajo ciertas condiciones, también siempre está ahí.
+La basura se puede utilizar, siempre, también bajo ciertas condiciones ambientales.
+¿Cuáles son las fuentes que estamos desarrollando más?
+La solar, el sol, con distintas tecnologías también.
+La eólica, el viento.
+La geotermia, el calor de la tierra.
+Esencialmente.
+¿Qué estamos poniendo como condición?
+Ah, bueno, y la repotenciación de las plantas hidráulicas que ya existen.
+¿Qué estamos poniendo como condición? Que todas tengan almacenamiento de energía, es decir, baterías.
+¿Qué tipo de baterías? También hay distintos tipos de baterías.
+¿Para qué sirven las baterías? Cuando está el sol, se genera electricidad, pero también la puedes almacenar en las baterías.
+Entonces, todas tienen seguridad para la inyección a la red y baterías, esas son las condiciones que Comisión Federal de Electricidad y el Centro Nacional de Control de Energía definió como “condiciones mínimas para el desarrollo de las renovables”.
+Entonces, es lo principal.
+Además, nosotros dijimos: “1.8 millones de barriles diarios de petróleo, no más; todo lo demás tiene que ser renovable”.
+Y los 9 mil millones —¿por ahí es, no?— de metros cúbicos diarios que se consumen, de pies cúbicos diarios que se consumen, pues ir reduciendo la dependencia del exterior para el gas.
+Para ello, ¿qué hacemos?
+Recuperar el gas de la atmósfera.
+La producción de nuevos pozos también nos da gas y hay que recuperarlo todo.
+Algunos pozos directos de gas —que todavía existen— convencional en nuestro país.
+Y analizar las tecnologías para el gas no convencional.
+Ese es el programa integral.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Adelante.
+---
+PREGUNTA
+Buenos días, estimada Presidenta. Buenos días a todo el grupo de científicos, a todos los periodistas que nos acompañan, a la audiencia que nos escucha. Soy Raúl Benet, de la Red de Radios Comunitarias de México, Radio Tepoztlán y de Rompeviento TV.
+Tengo varias preguntas, pero la primera: veo la composición, es muy sorprendente, del panel de académicos, expertas, expertos, sobre todo, expertos, en el tema, pues en los temas de extracción, de perforación, los temas, digamos, de los químicos del agua, pero… bueno, los rectores ¿no? muy sorprendente.
+Pero siento que es un panel que ya está, digamos, completamente orientado a una decisión tomada, y esa sería, digamos, la primera pregunta:
+Originalmente, cuando se había presentado este tema, yo había entendido que se estaría abriendo una discusión para ver si convendría transitar o entrar en este tema del fracking en México.
+Ahora, bueno, por la composición y por todo lo que se ha dicho, ya no estamos —y esa es la pregunta, la primera pregunta que tengo—, ya no estamos en esa etapa de preguntarnos si “¿se puede o no hacer fracking?”, sino más bien ya estamos en una siguiente etapa: “se va a hacer fracking, se va a extraer”.
+Y lo que estamos preguntando es “¿dónde y cómo?”, pero no, ya abandonamos o ya pasamos por esa etapa. ¿Es así? ¿Ya es una decisión tomada?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No. Por eso estamos consultando a los científicos.
+Rosaura no leyó los otros currículums de quienes no están aquí presentes, pero son parte del grupo.
+Hay personas del Instituto de Ciencias de la Atmósfera y Cambio Climático, especialistas en atmósfera y cambio climático, que es muy importante.
+Y hay más científicos vinculados con el agua, incluso muchos que han hablado en contra de esta forma de extracción del gas.
+Hoy presentamos los que están aquí.
+—No sé si tengas los currículums de las otras personas que no vinieron hoy, pero que ya fueron contactados—.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+No pudieron venir todos, ni todas, por razones… Es que lo hicimos un poco rápido, porque es el tema importante.
+Pero los científicos y las científicas tienen diferentes posiciones, evidentemente, en este tema también.
+Y la idea de la Presidenta es formar un grupo donde… Inclusive, ella me pidió: “incluye a gente crítica”. Incluimos de todo.
+Y hay personas que se dedican… Mencionaba la Doctora, al Instituto de Ciencias de la Atmósfera, donde hay un grupo muy importante de cambio climático, por ejemplo.
+Esta Telma Castro, por mencionar algún ejemplo, no pudo venir, pero hay gente de todas las áreas.
+Ahora, no hay una decisión tomada, pero sí hay una necesidad de entender el tema desde la ciencia, desde el conocimiento.
+El conocimiento avanza día a día, todos lo sabemos, y cada vez más rápido.
+Y ha habido… Ya han visto, yo soy bióloga, soy filósofa de la ciencia, no trabajo este tema. Sin embargo, sí he visto cómo han cambiado las tecnologías en muchísimos temas que antes eran impensables.
+Entonces, me parece que… Esperemos que este panel discuta, se pongan de acuerdo. Y les vamos a entregar sus conclusiones, por lo menos, la primera parte en 2 meses, que nos pidió la Presidenta.
+---
+PREGUNTA
+¿Cuántos (inaudible)?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Son 12, por lo pronto.
+—Son 12, ¿no?—.
+---
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ
+Sí, son 12, pero tenemos otras personas también:
+Está la gente de Coahuila, que vino un representante, pero hay otros.
+En total eran 17 personas que tenemos.
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Miren, les voy a poner un ejemplo. Perdón que, como es mi tema, la energía… Cuando yo estudié la maestría… Yo salí de la Facultad de Ciencias, donde nos conocimos, con Rosaura también.
+Entré a la Facultad de Ciencias en 1981, venía del CCH Sur. Y salí de la Facultad de Ciencias… Me recibí hasta el ´90, por cierto, para todos los que… Porque tuve a mi hija, en fin, terminé mis materias por ahí del ´86. Y después, me metí a la maestría en Ingeniería en Energía.
+Cuando yo estudié en la maestría, entré creo que en el ´90 a la maestría —si mal no me acuerdo— ´89, no sé, por ahí, creo que ´89, había un ingeniero que daba clases ahí... Bueno, con Víctor nos conocimos desde la Facultad de Ciencias y luego en la maestría, y luego él se fue al doctorado a Francia y yo me fui a Estados Unidos.
+Víctor es más grande que yo, por cierto.
+Bueno, cuando yo estudié la Maestría, el ingeniero Viqueira, un ingeniero que llegó con la República española, llegó asilado a México, de los mejores ingenieros eléctricos del país, trabajó en CFE y dio muchísimos años clases en la Facultad de Ingeniería.
+Tenemos un artículo, el ingeniero Viqueira, Víctor y yo, cuando quisieron privatizar la energía eléctrica en el ´99, en el periódico La Jornada. Por ahí, si lo buscan, lo van a encontrar, es un periódico en contra de la privatización de la energía eléctrica que había propuesto Zedillo.
+Bueno, el ingeniero Viqueira me dio clases de lo que es el Sistema Eléctrico Nacional y el despacho de energía, y cómo es la oferta y la demanda de energía eléctrica, y cómo las plantas deben irse colocando a partir de los costos de generación.
+En aquella época era un teorema, así: “no es posible el almacenamiento económico de la energía eléctrica”.
+—¿Cierto o no?—.
+---
+INTERVENCIÓN
+—Así es—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Eso estudié yo. No se puede almacenar la energía eléctrica de una manera costo-económica, digo, costo-eficiente; se tienen que planear los sistemas energéticos para que, en el momento que generan, en ese momento se tiene que consumir, no puede haber almacenamiento.
+Una de las mayores áreas de investigación, en este momento, en el sector energético es el almacenamiento de energía.
+El gran desarrollo de las fuentes renovables de energía y su impulso tiene que ver con el almacenamiento de energía.
+Entonces, por supuesto que hay nuevos desarrollos tecnológicos y del conocimiento, y eso es lo que queremos, que el nuevo desarrollo científico, tecnológico, que nosotros desde el gobierno, aunque hayamos estado en la ciencia y en la academia, no nos da tiempo de estar en eso, porque estamos haciendo… estamos gobernando para el pueblo.
+Pero hay muchos académicos, muchas instituciones académicas extraordinarias en nuestro país que nos pueden ayudar. Entonces, por eso es este grupo interdisciplinario.
+Yo todavía le di clase a Juan Vidal, es mi alumno de doctorado. Trabaja de subsecretario de Hidrocarburos en la Secretaría de Energía.
+—Creo que todavía les enseñé eso, ¿no?, que “no se podía almacenar”—.
+O sea, ya de maestra del posgrado de Ingeniería, todavía yo enseñaba eso. No les estoy hablando de tantísimo tiempo.
+Entonces, por eso es: no nos cerremos, veamos si es factible, como otras tecnologías, no es solamente el gas no convencional.
+Estamos trabajando también con las instituciones académicas en todo el Plan Nacional de Energía.
+---
+PREGUNTA
+Gracias, Presidenta. Entonces, entiendo a lo mejor que “no es una decisión tomada”, pero, digamos, hay un gran interés en avanzar hacia allá.
+Por cierto, sí tenemos un gran almacén de energía, que es el sol, y hay que ir hacia allá.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Sí, pero el sol genera cuando hay sol, en la noche no genera, y necesitas energía eléctrica en la noche, por eso hay que almacenarla.
+---
+PREGUNTA
+Sí, de acuerdo. Pero, entonces no es una decisión tomada, estamos yendo hacia allá, se está buscando cómo sí hacerlo.
+Y en ese sentido, mi siguiente pregunta tendría que ver con el hecho de que, bueno, el comité o la comisión, el grupo de científicos, sí está muy claramente formado.
+Si bien, se ve que hay algunas otras personas —como dice la doctora Rosaura— que pueden ser críticas o que han tenido una visión crítica, y otras personas que están más relacionadas con temas de cambio climático. Sin embargo, la comisión en su conjunto se ve que es muy fuertemente favorable —y bueno, de hecho— hacia la fractura hidráulica, así está conformada, aunque podría haber algunos que fueran críticos.
+Sin embargo, a mí me parece que hay temas que, cuando menos, no se han visibilizado o están muy marginados y que deberían de estar siendo centrales, ¿no?
+Todo el tema, por ejemplo, de la oposición social que ya ha habido y no, digamos, nada más basada en mala información ni nada, sino que existen organizaciones, comunidades indígenas, no solo organizaciones, digamos, como la Alianza Mexicana Contra el Fracking y muchas otras, que tienen una larga trayectoria y también tienen ciencia muy, muy fuerte, sino que también ya de entrada sabemos que hay una cantidad importante de comunidades que han sufrido los daños ya por lo que se hizo en el pasado y que están totalmente opuestas.
+O sea, ya no es una cuestión de imaginarnos que puede llegar a haber una oposición.
+Entonces, en términos de la composición de la comisión, yo sí creo que le falta una parte —o cuando menos no se ha visibilizado— muy sólida en términos de lo social y también en términos de impactos, por ejemplo, en salud.
+Nos dice el ingeniero que nos hizo favor de dar una respuesta que, en particular, en esta cuenca de Eagle Pass, en el sur de Texas, no ha habido accidentes graves, pero sí tenemos… Hay más de 2 mil 500 reportes agrupados en los Estados Unidos de los impactos sociales, ambientales y en salud de las actividades a lo largo de estos años de la fractura hidráulica.
+Entonces, preocupa el hecho de que, cuando se hace esta pregunta, la respuesta vaya en esa dirección, cuando sí existe evidencia científica que debería de estar al alcance —y que está al alcance, porque es pública— de todos los impactos que sí ha tenido, que son graves en algunos casos, que están publicados por revistas con pares, con las revistas de más alto nivel académico de los Estados Unidos, de los graves impactos.
+Entonces, el hecho de que ya de entrada la comisión responda parcialmente a este tipo de problemas…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No es una respuesta de la comisión, es una respuesta de un científico de Coahuila especializado en el tema que te da esta adhesión, habrá otros que tienen otra experiencia.
+---
+PREGUNTA
+Sin embargo, sí creo…. Y la pregunta tiene que ver con eso, o sea, ¿de dónde o hacia dónde estamos yendo con esta comisión con todos estos impactos particularmente y con toda esta situación social?
+Yo me esperaría ver ahí no solo a expertos en temas de salud, pero, sobre todo, a expertos y a responsables en temas de consulta indígena, de participación ciudadana.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Pero esa se va a hacer. O sea, por eso, yo dije que no vamos a hacer nada en contra de las comunidades, nada.
+---
+PREGUNTA
+Pero ya de entrada hay una oposición…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Nada vamos a hacer en contra de las comunidades, porque nosotros no somos así.
+Te pongo un ejemplo: mi idea era que el Polo de Bienestar de Desarrollo Económico de Economía Circular estuviera en Hidalgo, en Tula. Se trabajó con la comunidad, se hizo una consulta pública, y la comunidad dijo “no, aquí no. No queremos ese proyecto aquí, queremos otros”.
+Ah, muy bien, la comunidad dijo que “no”, buscamos otro sitio en donde pueda haber otra posición.
+Y tomamos en cuenta, además, lo que nos dijo la comunidad para el nuevo Polo de Bienestar que estamos planteando.
+Entonces, nosotros no vamos a hacer nada en contra de las comunidades.
+La consulta indígena la hemos hecho. Ahora que estamos haciendo los trenes al norte, hemos hecho cerca de 100 consultas indígenas con las comunidades para poder garantizar que pase el tren. Y si la comunidad nos dice “por aquí no, es imposible”, se busca otra vía alterna.
+Entonces, nosotros no vamos a hacer nada en contra de las comunidades, eso debe quedar claro.
+Lo primero es ver la viabilidad técnica, científica.
+Porque a lo mejor el grupo nos dice: “pues fíjense que en México sí se puede hacer con reciclamiento de agua, pero te cuesta 200 veces lo que te cuestan otras tecnologías”. Ah, bueno, va a ser muy difícil, ¿verdad?, porque no hay los recursos necesarios, no va a ser viable económicamente.
+Entonces, lo primero, por eso dije: “en 2 meses que nos den una orientación; si hay nuevas tecnologías, ¿cuánto cuestan esas tecnologías?, ¿es viable o no?”
+Y después, seguimos trabajando, no es que en 2 meses empiece el primer pozo, no. Seguimos trabajando una vez que haya una primera orientación de la viabilidad.
+Y tampoco vamos a forzar una decisión a la comunidad científica, ni estamos escogiendo científicos que ya tienen una decisión tomada.
+Ahora, es evidente que en el grupo científico tiene que haber ingenieros, ingenieras que han estudiado la fracturación, porque ni modo que “no”, ¿verdad?, y en México: la viabilidad, las reservas.
+Pero a lo mejor nos dicen: “miren, no hay suficientes reservas, en realidad, el estudio no es suficiente”.
+Pero nosotros ni vamos a cerrar los ojos frente a lo que hay publicado de las condiciones negativas que provoca esta extracción, ni tampoco le vamos a cerrar la puerta a las comunidades, pero es un primer grupo en donde también hay otras científicas, científicos; en la UAM hay otros compañeros que están, otros científicos, académicos, que han trabajado el tema del tratamiento de agua y que también son muy críticos a esta forma de explotación del gas y del petróleo.
+---
+PREGUNTA
+Entonces, en este mismo sentido de “no se va a afectar ―digamos― a las comunidades, se les va a respetar, nunca vamos a hacer nada en contra de la comunidad”, yo quisiera preguntar: es un tema de importancia nacional, todo el tema de la soberanía energética está en la historia de México desde hace casi un siglo, es importantísimo.
+La sociedad está muy politizada, muy involucrada desde la expropiación petrolera, supongo que desde antes, hay un gran interés en esta discusión en el resultado de lo que presente esta comisión, de estos debates que se están dando porque son muy grandes.
+Y mi pregunta sería si ¿se está contemplando, si sería pertinente, sería posible —yo creo que sería necesario— llevarlo a una consulta pública?
+Las consultas, no solo las consultas de la Secretaría de Medio Ambiente o en este caso ASEA, bueno, que es parte de la Secretaría del Medio Ambiente, o de las consultas indígenas, sino una consulta nacional, una consulta popular.
+Y que una vez que se tengan, yo pienso que se tendría que tener el resultado de esa comisión, y otros, digamos, hacer muy públicos otros posicionamientos, y a partir de ahí hacer una consulta, una consulta nacional, una consulta como hacen la Ley Nacional de Consulta.
+De una vez voy a hacer la última pregunta, y es: bueno, el hecho es que el 46 por ciento de la inversión tendrá que ser, o será, posiblemente será privada, tenemos…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Eso no está, la decisión, todavía.
+---
+PREGUNTA
+Bueno, digamos, puede ser, podría ser.
+El hecho es que en México, si bien tenemos cierta fortaleza, toda la inversión en términos de maquinaria, en términos de expertís, en términos de financiamiento, es muy probable que todo venga —o que una parte significativa, no todo— venga del extranjero y particularmente de las grandes empresas petroleras de los Estados Unidos y del Golfo Pérsico, pero, sobre todo, de los Estados Unidos.
+Y ahí en este tema estamos a punto de llegar a firmar o de estar en la etapa de revisión del T-MEC.
+Y ahí a mí me preocupa mucho el hecho de que ya hemos enfrentado en el pasado políticas o decisiones políticas que se tomaron hace 20 o 30 años, y que ahorita nos están demandando por miles de millones, o mil 500 millones de dólares por una autorización de una empresa norteamericana, que se le dio una autorización, y que después ellos reclamaron que… todo lo que reclaman esas empresas, ¿no?
+Ahí preocupa mucho que ya estamos a punto de volver a… Creo que esas cláusulas, el artículo, el capítulo 14 y sus anexos 3 y 4 del T-MEC, siguen teniendo esta preferencia, digamos, o esta facultad que tienen las empresas energéticas norteamericanas de demandar a México por todo el tema de… por este tipo de temas, ¿no?
+Por ejemplo, si ya se les dio una autorización y una población se opone —y eso ha ocurrido en la historia de México una y otra vez— y se detiene una inversión, pues vamos a enfrentar una situación muy dura de demandas de estas empresas norteamericanas.
+Y preocupa mucho el futuro —digamos, ya no diría yo la incertidumbre—, la certeza de que va a haber conflictos sociales y ambientales a la hora… Son 10 mil pozos al menos.
+Es una cosa que viene también de algunos de los científicos favorables a la fractura hidráulica, que hablan de que, al menos, estarían perforando 10 mil pozos, tomando en cuenta la declinación tan rápida que tiene esta tecnología, ¿no?, que en pocos meses o años declina 30, 40, 50 por ciento un pozo.
+Y esto significa, según los mismos expertos favorables al fracking: se estarán perforando entre 10 mil y 30 mil pozos.
+Entonces, la cantidad de conflicto social…
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+A ver, nada más: estás llegando a conclusiones ya.
+---
+PREGUNTA
+Bueno, eso se ha presentado ya por parte de algunos expertos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es que… A ver, porque sí es importante:
+Fíjate, justo antier estaba yo leyendo, porque me han puesto a leer mucho sobre este tema: ya no se requieren tantos pozos, hay nuevas metodologías de extracción; ya no se requieren tantos pozos, por el tipo de tecnologías nuevas que hay.
+Segundo. Tú estás diciendo que “vamos a meter a las empresas trasnacionales a explotar petróleo a México”. ¿Quién ha dicho eso? ¿Cuándo he dicho eso?
+---
+PREGUNTA
+¿Eso no va a ocurrir?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hasta ahora, todos los contratos que hemos hecho de nuestra administración, que no vienen del pasado, incluso el Presidente López Obrador… Bueno, con el Presidente López Obrador se hizo el proyecto Trion, que es el proyecto en aguas profundas con Australia, que ya está perforando en aguas profundas. Ese lo hizo el Presidente López Obrador bajo ciertas condiciones, evidentemente, favorables para el pueblo de México.
+Los contratos mixtos que se han hecho en Pemex, con condiciones absolutamente favorables para el pueblo de México, son empresas nacionales que han trabajado hace mucho tiempo en Pemex.
+Entonces, vamos uno por uno, por uno, por uno.
+O sea, ¡¿cómo creen que nosotros, que hemos luchado tanto, vamos a entregar el petróleo a las empresas trasnacionales?! Pues no somos Calderón, no somos Peña.
+---
+PREGUNTA
+O sea, ¿no va a haber…? Digamos, ¿no van a ser las empresas texanas las que van a…?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay tecnologías que tienen ellos que probablemente se tengan que usar, pero ¿bajo qué condiciones?, pues es algo que… Nosotros no vamos a entregar nuestros recursos naturales al extranjero. ¡Imagínense! ¡¿Cómo creen?! Si es la esencia de la Transformación.
+Lo que no podemos hacer es seguir dependiendo 75 por ciento de nuestro gas, de gas no convencional, de Texas, y ampliar esa dependencia.
+Entonces, si bien podemos seguir comprando, tenemos que buscar la soberanía energética.
+Entonces, es muy importante seguir investigando.
+Y no hay nada que estamos escondiendo. Si quisiera yo esconder algo, pues no estaríamos presentando públicamente lo que estamos haciendo. Estaríamos ahí con Pemex diciendo: “a ver, perfórale este pozo, a ver si nos da. Y a ver, que nadie se entere. Y tráete a Repsol para que lo explote”. No, lo estamos abriendo.
+Ahora, por eso es muy importante saber en dónde sí y en dónde puede tener impactos muy graves, sociales incluso. A lo mejor hay la tecnología, pero socialmente no es aceptado.
+Una vez que también definamos en qué cuenca es factible realizarlo, también ahí debe haber una consulta en la zona, a partir de las características que se desarrollan con las comunidades de la zona.
+Entonces, por eso vamos paso por paso y buscamos que sea lo más pronto posible, por si decimos “sí, y bajo estas condiciones”, que tengamos tiempo para dejar un programa de largo plazo para el país.
+---
+PREGUNTA
+¿Sobre la consulta nacional?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Hay que ver si es consulta nacional o es una consulta en la zona en donde puede haber esta explotación, porque finalmente van a ser las comunidades afectadas.
+Entonces, vamos una por una, una por una.
+Y a todos los grupos ambientalistas que se oponen a la fracturación hidráulica, lo que les decimos es: vamos a tomar una decisión responsable, y obviamente vamos a escuchar a todos; y vamos a consultar, en su momento, también a las comunidades en donde sea factible desarrollar esta tecnología o no.
+A lo mejor en 2 meses nos dicen los científicos: “¿saben qué?, pues no, es muy caro, imposible; solamente es factible económicamente lo que se hacía hace 20 años”. No, bueno, eso sí va a estar muy difícil.
+---
+PREGUNTA
+Muchas gracias, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias, Raúl.
+—Bueno, vamos a una más por acá y si quieren…—.
+Yo creo que hoy vamos a cerrar con esto. Y si le parece a Luz y a todos los demás, porque si no… La otra parte del gas lo presentamos el próximo miércoles.
+—A ver, la compañera—.
+---
+PREGUNTA
+Buenos días, Presidenta. Elia Cruz, de La Hoguera.
+Solo quiero hacer un… quisiera hacerle unas preguntas de precisión sobre el tema.
+Decía hace un momento que “no se iniciará de inmediato la explotación en caso de que haya una opinión favorable a este fracking de bajo impacto”.
+Entonces, ¿cuándo se iniciaría?, ¿en cuánto tiempo proyectan que pudiera empezar?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bueno, primero, y si así lo considera el grupo científico de académicos, académicas, es que nos puedan dar una orientación en 2 meses, que nos digan:
+“Sí es factible hacerlo, pero para disminuir los impactos ambientales se requiere reciclamiento del agua”.
+O “sí es factible hacerlo, pero con el CO2 espumoso —no sé si se dice así—, espuma de CO2”.
+“Sí es factible hacerlo, pero bajo estas condiciones”.
+“Sí es factible hacerlo, pero solo es factible socialmente hacerlo en estas regiones, mientras no se desarrolle más la tecnología”.
+“Sí es factible hacerlo pero cuesta 3 veces más que lo que cuesta esto”.
+O, de plano: “no es factible hacerlo porque los impactos ambientales son muy graves en estas zonas”.
+Entonces, lo que queremos es una primera orientación en 2 meses.
+¿De quiénes?
+Pues de personas que ya han trabajado esto, porque si traemos personas que nunca han trabajado esto, apenas se estarían enterando.
+Y personas que sean muy críticas también o que no están de acuerdo, pero son especialistas en tratamiento de agua, especialistas en la explotación de este tipo de recursos, especialistas en distintas áreas que nos puedan dar una orientación.
+A partir de ahí, lo presentamos públicamente y decimos: “la siguiente etapa es esta” o “ya no hay siguiente etapa”.
+Sobre la siguiente etapa, ya definiríamos, si fuera factible, en qué lugar, bajo qué tecnologías, quién las tiene, cómo contratarlas, etcétera, etcétera, ya seguiríamos hacia adelante, y bajo qué consulta a la sociedad.
+---
+PREGUNTA
+¿Pero ahora no? ¿Ahora mismo no hay un tiempo estimado?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+En este momento, no hay una explotación de gas no convencional, por eso pusimos: “2 meses”, que nos puedan dar una primera orientación.
+Estamos en abril. En junio, hacia finales de junio, digamos, principios de julio, que nos den una primera orientación. Y a partir de ahí, ver si vamos al siguiente paso y cuáles serían los siguientes pasos, en caso de ser positivo.
+---
+PREGUNTA
+Presidenta, la semana pasada usted mencionaba que se plantearía un esquema de contratos mixtos, en caso de que fuera factible.
+Ahorita mismo le comentaba el compañero que sería… que no con empresas extranjeras, pero las empresas extranjeras son las que tienen la tecnología.
+¿Cómo se haría entonces?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Es que hay muchas maneras de contratación, y Pemex las tiene de toda la vida.
+Entonces, puede contratar una tecnología, no necesariamente el beneficio del petróleo asociado a la contratación de la tecnología.
+Y, además, yo no dije: “va a ser con contratos mixtos”.
+Me preguntaron: “¿lo va a explotar solo Pemex o puede haber otras opciones?”.
+Y dije: “también puede ser que sean contratos mixtos”.
+¿Y bajo qué condiciones? Pues también hay que revisarlo.
+Incluso la compañera de Reforma me dijo: “oiga, pero eso va a ser una dependencia tecnológica”.
+Y dije “bueno, México depende tecnológicamente en muchas áreas”.
+En la generación eléctrica compramos todas las turbinas.
+Hay producción que no hay en México, que solamente hay en el extranjero y la importamos.
+En fin, para mucha de la producción.
+En salud, los tomógrafos no se producen en México, los compramos de Europa. Que ¿deseamos que se fabriquen en México? Sí, por eso es el Plan México, pero, por lo pronto, pues sí dependemos de muchas empresas en la tecnología.
+Primero. No toda la tecnología la tiene el Estado.
+Y segundo. Hay tecnología diversa de tratamiento de agua, de explotación de petróleo, de… Bueno, las renovables, la mayoría de las baterías en el mundo las fabrica China. ¿Queremos que aquí se fabrican baterías? Sí, pero importamos una parte de China porque, si no, no podría haber coches eléctricos, porque no podríamos importar esa tecnología.
+Entonces, somos un país abierto al mundo y desde toda la vida se ha utilizado tecnología.
+¿Qué deseamos? ¿Que haya transferencia tecnológica? Sí.
+Por eso nuestra visión. Incluso la UNAM nos está ayudando en esto, con la Facultad de Economía, estamos diseñando de largo plazo una política industrial para el país que nos permita que se produzca más en México, y que la ciencia y la tecnología de nuestro país nos permitan desarrollar también al país.
+Por eso es el auto Olinia, para que nosotros… Ayer me presentaron el avance de la Olinia.
+Me decían: “de los siete países del mundo que más autos produce, de los siete países, México es el séptimo país en la producción de automóviles, México es el único país que no tiene una marca propia”, todos los demás: Estados Unidos… China es el primero, Estados Unidos el segundo, India, Europa… Alemania, en Europa; Corea, todos tienen una marca propia, nosotros no.
+Había una marca propia en la época del desarrollo estabilizador o del “milagro mexicano”, posterior, que se hizo el American Motors.
+---
+PREGUNTA
+—El Renault, Presidenta—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+El Renault era mucho diseño mexicano. Nada más que todo eso se vendió, se abandonó esa política en México.
+Entonces, ¿qué queremos? Tener nuestro propio vehículo, nuestra marca. Ahí vamos, poco a poquito.
+¿Que mientras tanto vamos a tener que importar muchos componentes, porque no se hacen aquí? Pues sí, pero la idea es que poco a poco sea 100 por ciento nacional.
+Pero en todas las áreas hay importación y hay patentes de tecnología.
+Las medicinas que tomamos, las que compramos para el Sistema de Salud de nuestro país, son patentes, muchas de ellas internacionales. Todos nos inyectamos, en su momento, con una patente de AstraZeneca, una patente de Pfizer, una patente de Sputnik, una patente de Cuba.
+¿Qué queremos? ¿Que haya patentes mexicanas? Sí, y por eso la vacuna Patria, que seguimos trabajando en ella, en la planta, sobre todo, de producción, que es lo que todavía se tiene que desarrollar un poco más. Pero la patente está.
+Entonces, por eso trabajamos con el Poli, con la UNAM, con el Tecnológico Nacional de México, que tiene muchísimos científicos.
+Pero sí, patentes, hay muchas patentes internacionales de tecnología que hay que utilizar.
+¿Cómo contratarlas? Pues ya será el siguiente paso.
+---
+PREGUNTA
+Entonces, ¿esta tecnología la contrataría Pemex, y Pemex operaría la explotación?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Todavía no sabemos, todavía no llegamos todavía a eso. Estamos en la primera etapa: ¿es factible o no es factible? Y si es factible, ¿cómo y dónde? En esa etapa estamos.
+---
+PREGUNTA
+¿Pero descartamos que vayan a venir empresas extranjeras a explotar gas no convencional a México?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Esa es la siguiente etapa, pero lo que no vamos a entregar es nuestros recursos naturales al extranjero, eso sí, no. Además, eso está en la Constitución.
+---
+PREGUNTA
+Presidenta, igual, de darse el fracking, ¿qué beneficios tendrían los mexicanos?, ¿costaría menos el gas al ya no tener una dependencia de otros países o no?, porque se sigue fijando el precio a nivel internacional.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Más que el precio, para todas y todos los mexicanos, por supuesto es la disponibilidad: el que haya gas en nuestro propio territorio, eso es importantísimo para todas y todos los mexicanos.
+Pero la soberanía es un asunto de todas y de todos. No solamente es un beneficio individual, es un beneficio colectivo. Y es la patria, es la nación, es el futuro de México. Eso le compete a todas y a todos los mexicanos, a todas y a todos.
+Por eso, cuando se nacionalizó o se expropió el petróleo, todas y todos los mexicanos, o la gran mayoría… Había algunos conservadores que se oponían y que formaron un partido en la época, de ahí viene el PAN, que se opusieron a la decisión del pueblo de México y de Lázaro Cárdenas, en contra, además, de muchos intereses extranjeros.
+La soberanía. Por eso, el pueblo de México masivamente salió a apoyar la expropiación y dio lo poco que tenían para poderle pagar a las empresas extranjeras.
+Es una decisión de soberanía, de nación, de patria, de futuro, de soberanía energética, y eso le compete a todas y a todos los mexicanos.
+---
+PREGUNTA
+Presidenta, quiero hacer dos preguntas sobre su viaje a España.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Ya mañana, todavía tenemos mañana. El viernes...
+---
+PREGUNTA
+¿Habrá apagones programados, Presidenta?
+Nada más confirmar con usted, Presidenta, es: ¿qué tan cierto es una publicación que se difunde de CFE sobre apagones programados el 15 de abril, 5 horas, y pone las zonas de la Ciudad de México, Sinaloa, Veracruz, Zacatecas, zonas afectadas?, ¿qué tan cierto es esto?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¿Es cierto eso?—
+---
+DIRECTORA GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE), EMILIA ESTHER CALLEJA ALOR
+—No es cierto—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No es cierto. Fake news.
+Bueno, cerramos, yo creo, ¿no?, con esto.
+Vamos a tener más tiempo todavía para seguir hablando de esto.
+Mañana —quiero platicarles—, mañana... Incluso traíamos las gráficas hoy del tema de: la inflación; del tema del PACIC, la canasta básica; del trabajo que hizo Profeco con las gasolineras, de los acuerdos a los que hemos llegado.
+Afortunadamente hoy el precio del barril está a 88 dólares, estaba a 100, hoy está a 88.
+Y todos hacemos votos porque se resuelva el conflicto o la guerra en Medio Oriente.
+Bueno, gracias a todas y a todos.
+Buen día.
+---
+PREGUNTA
+Una foto, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—¡Ah! Vénganse para acá, para la foto—.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias, buen día.
+---
+PREGUNTA
+¿Vienen gasolineros hoy?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Perdón?
+---
+PREGUNTA
+¿Hoy vienen los gasolineros, hoy?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+No, el martes de la próxima semana.
+Mañana veo PACIC, productores y comercializadores.
+Y el martes de la próxima semana, gasolineros.
+Gracias.
+---
+PREGUNTA
+¿A qué hora se va a Madrid, Presidenta?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+“El tecolote” voy a agarrar, el de las 12:00 de la noche.
+El viernes va a haber “mañanera” con Rosa Icela.
+—000—
