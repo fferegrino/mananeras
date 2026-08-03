@@ -1,0 +1,300 @@
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de agosto de 2026
+Presidencia de la República
+03 de agosto de 2026
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días.
+---
+PREGUNTA
+Buenos días, Presidenta.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+¿Cómo están?
+---
+PREGUNTA
+Bien. ¿Y usted?
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Bien, también muy bien. Nos fue muy bien en Oaxaca, una gira muy amplia.
+Y ayer anunciamos —ya lo vamos a presentar aquí la próxima semana— un espacio, una ciudad, así; en mixteco le pusieron “Ñuu Tata”, que es “pueblo que cuida”, porque allí se van a construir: un hospital, o ya se está construyendo un hospital del ISSSTE; ayer se puso la primera piedra para un hospital del IMSS y se va a construir también un hospital del IMSS Bienestar en el mismo lugar.
+Van a compartir algunos servicios; son más de 700 camas censables, e importantísimo para Oaxaca. Va a tener la última tecnología; de hecho, va a ser el centro de la salud. Es como un Hospital General, pero con todas las especialidades y todos los equipos, o “La Raza”, más o menos así, pero de última generación.
+Entonces, un espacio muy muy importante para la ciudad de Oaxaca que, en realidad, va a ser regional, no solamente para todo el estado de Oaxaca, sino incluso para una parte de Puebla, esta Ciudad Salud, con tres hospitales y, por primera vez, constituido, pensado como el Servicio Universal de Salud.
+Bueno, ese fue el evento de ayer; estuvimos en la Mixteca y en distintos lugares.
+Bueno, hoy no está Iván Escalante, pero nos dejó un video —no pudo llegar el día de hoy— sobre “Quién es quién en los precios”.
+Después, Julio León, el director de Becas de la Secretaría de Educación Pública, nos va a platicar, porque a partir de hoy comienza la dispersión de la Beca “Rita Cetina” para útiles y uniformes escolares en primaria. Nos va a platicar cómo van a ser estos depósitos. Ya son millones de familias que tienen su tarjeta del Bienestar para recibir este apoyo.
+Y también vamos a seguir con el debate sobre el impacto de las plataformas digitales. Hemos hablado del impacto que tienen en las niñas, los niños, los jóvenes, cómo se generan adicciones, desde la perspectiva de la psicología, de la neurología.
+Y ahora vamos a hablar sobre cómo están diseñadas las plataformas. Y tenemos a dos grandes invitados: a distancia está el doctor Jonathan Haidt, psicólogo social de la Universidad de Nueva York; y está aquí con nosotros el ingeniero Arturo Béjar, él es exdirector de Ingeniería de Facebook, experto en seguridad digital.
+Entonces, después de “Quién es quién en los precios” y de Julio León, vamos a escuchar a Mario Delgado, después a Jonathan Haidt —no sé si lo estoy pronunciando bien— y después al ingeniero Arturo Béjar, un mexicano que nos da mucho orgullo que esté el día de hoy en “La mañanera”.
+Bueno, vamos con “Quién es quién” en video.
+---
+VOZ MUJER
+Presentamos el “Quién es quién en los precios”, el monitoreo que realiza la Profeco sobre productos y servicios esenciales para las familias mexicanas.
+---
+VOZ HOMBRE
+Iniciamos con el “Quién es quién en el envío de dinero”:
+---
+VOZ MUJER
+Realizamos un ejercicio simulando el envío de 400 dólares desde Estados Unidos. Y en la modalidad de depósito a cuenta o transferencia, la remesadora que más pesos da es Finabien, con 7 mil 94 pesos con 57 centavos.
+---
+VOZ HOMBRE
+Con esto, Finabien se posiciona como la remesadora que más pesos da por tus dólares, acumulando 51 semanas, es decir, casi un año como la mejor opción.
+---
+VOZ MUJER
+Y la que menos da en esta modalidad es WorldRemit con 6 mil 746 pesos con 27 centavos.
+---
+VOZ HOMBRE
+En la modalidad de envío en efectivo, la que más da es Pangea Money Transfer, con 7 mil 268 pesos.
+---
+VOZ MUJER
+Y la que menos da es WorldRemit con 6 mil 737 pesos con 26 centavos.
+---
+VOZ HOMBRE
+Cada semana monitoreamos 18 remesadoras para que consultes quién tiene el mejor promedio de comisión y de tipo de cambio.
+Continuamos con el seguimiento a la Estrategia para la Estabilización del Precio del Diésel:
+---
+VOZ MUJER
+Desde mayo pasado, la Presidenta de México, Doctora Claudia Sheinbaum Pardo, realizó con empresarios gasolineros un acuerdo voluntario para que el diésel se venda en menos de 27 pesos por litro.
+---
+VOZ HOMBRE
+Ya tenemos un 85.2 por ciento de cumplimiento entre las estaciones, y el precio promedio nacional al 31 de julio es de 27 pesos con 3 centavos.
+---
+VOZ MUJER
+Esta semana identificamos con precios justos a Pemex Combustibles Vialva, en Tuxtla Gutiérrez, Chiapas, que vende el litro en 26 pesos con 97 centavos, con un margen de ganancia de 1 peso con 42 centavos.
+---
+VOZ HOMBRE
+Pero también están las que “se vuelan la barda con los precios”, como BP estación Osiris, en Amozoc, Puebla, con 29 pesos con 99 centavos y un margen de ganancia de 3 pesos con 83 centavos.
+Y ahora “Quién es quién en primera necesidad” con el seguimiento a los 24 productos de la canasta PACIC:
+---
+VOZ MUJER
+La canasta más barata la encontramos en Bodega Aurrera Camino del Seri, en Hermosillo, Sonora, en 715 pesos con 31 centavos.
+---
+VOZ HOMBRE
+Y la más cara en Walmart Taxqueña, en Coyoacán, Ciudad de México, con 921 pesos con 50 centavos.
+---
+VOZ MUJER
+Y en el comparativo de tres ciudades presentamos:
+---
+VOZ HOMBRE
+En Ecatepec de Morelos, Estado de México. La más barata se encuentra en Bodega Aurrera Plaza Aragón en 748 pesos con 50 centavos.
+---
+VOZ MUJER
+Y la más cara, pero también por debajo de 910 pesos, en Mercado Soriana, Ciudad Azteca, en 840 pesos con 30 centavos.
+---
+VOZ HOMBRE
+En Tuxtla Gutiérrez, Chiapas. Chedraui Tuxtla Crystal fue la más barata con 787 pesos con 20 centavos.
+---
+VOZ MUJER
+Y la más cara, pero también por debajo de 910 pesos, fue en Soriana Híper Poliforum, en 850 pesos.
+---
+VOZ HOMBRE
+En Acapulco Guerrero. La más barata la encontramos en Soriana Híper Acapulco Costera, en 800 pesos con 50 centavos.
+---
+VOZ MUJER
+Y la más cara, pero también por debajo de 910 pesos, en Walmart Acapulco, en 835 pesos con 50 centavos.
+Y ya salió la Revista del Consumidor del mes de agosto, la 594, un número dedicado al regreso a clases.
+---
+VOZ HOMBRE
+En esta nueva edición encontrarás, en nuestros estudios de calidad, útiles escolares y alimento húmedo para gato para que elijas con información.
+---
+VOZ MUJER
+En “Caminito de la escuela sin deudas” te decimos cómo surtir la lista escolar sin afectar la economía familiar.
+---
+VOZ HOMBRE
+Y en “Niñez conectada y protegida” te enseñamos a cuidar a niñas y niños con controles parentales y filtros digitales.
+---
+VOZ MUJER
+Y para el próximo 15 y 16 de agosto te invitamos a asistir a la Feria de Regreso a Clases Profeco, en la que encontrarás grandes descuentos y precios justos. Porque tus derechos también van a la escuela.
+---
+VOZ HOMBRE
+Toda esta información la puedes encontrar en Revista del Consumidor. Escanea el código QR y descárgala gratis, o consíguela empresa en las librerías de Fondo de Cultura Económica.
+---
+VOZ MUJER
+Compartimos nuestros canales de comunicación. Estas son nuestras redes sociales, sitio web y el Teléfono del Consumidor.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+—Muchas gracias—.
+Julio.
+---
+TITULAR DE LA COORDINACIÓN NACIONAL DE BECAS PARA EL BIENESTAR “BENITO JUÁREZ”, JULIO LEÓN TRUJILLO
+Con su permiso, Presidenta. Buenos días a todas y a todos.
+Si bien, el ciclo escolar ya ha concluido, pues ahora se encuentran las y los estudiantes en un periodo vacacional; las mamás, los papás, los tutores, en este momento también se alistan con los útiles, los uniformes, las mochilas, para el siguiente ciclo escolar.
+Y hoy, para mí es un gusto poderles contar la materialización de un compromiso que hizo la Presidenta: del fortalecimiento del Sistema de Becas de nuestro país.
+Hoy las y los estudiantes de primaria reciben la beca para útiles uniformes, este apoyo anual de 2 mil 500 pesos para la compra de esto.
+Hoy también todos los estudiantes de secundaria públicas reciben la Beca “Rita Cetina” de secundaria, donde se reciben mil 900 pesos bimestrales si existe solo un hijo al interior de la familia; si hay hijos adicionales, reciben 700 pesos adicionales también por cada hijo.
+Hoy todos los estudiantes de preparatoria reciben la Beca “Benito Juárez”, donde de forma bimestral también reciben mil 900 pesos.
+Y cada día se fortalece más también las becas de educación superior en “Gertrudis Bocanegra” y Jóvenes Escribiendo el Futuro.
+Vamos al informe.
+Por lo que obedece a educación básica, a este cierre de ciclo escolar ya se atendieron en preescolar a 176 mil 761 estudiantes, en primaria ya son 9 millones 502 mil 322, en secundaria 5 millones 281 mil 672; dando un total de una cobertura de 14 millones 960 mil 755 becarios en educación básica, con una inversión, al cierre de este primer semestre, de 62 mil 445 millones 912 mil 700 pesos.
+En educación media superior ya hemos alcanzado una cobertura de 4 millones 162 mil 377 becarios. Y la inversión al cierre de agosto, 23 mil 731 millones 481 mil 650 pesos.
+Para Educación Superior son 2 modalidades: Jóvenes Escribiendo el Futuro y “Gertrudis Bocanegra”.
+Para Jóvenes Escribiendo el Futuro ya atendemos a 414 mil 100 estudiantes con una inversión al cierre de agosto de 7 mil 256 millones 15 mil 100 pesos.
+Y “Gertrudis Bocanegra”, como en este momento solo ha sido para Michoacán, hemos atendido a 55 mil 924 becarios, con una inversión de 318 millones 766 mil 800 pesos.
+Cabe hacer mención acá que la Presidenta ya ha anunciado que este próximo ciclo escolar también se estará atendiendo con la beca para transporte “Gertrudis Bocanegra” al estado de Zacatecas y al estado de Chiapas. Y así, poco a poco, la Presidenta nos ha dicho que esta beca estará creciendo para tener una cobertura y un alcance mayor para los estudiantes de educación superior.
+Si ya lo vemos todo en su conjunto, el Sistema de Becas hoy en día ya alcanzó esta gran cobertura de 19 millones 593 mil 156; nosotros esperábamos terminar el ciclo escolar con 20 millones, nos quedamos a nada, pero este año 2026 esperamos alcanzar una cobertura de 22 millones de estudiantes. Y al cierre de este primer semestre son 93 mil 752 millones 176 mil 250 [pesos], con lo que cerramos el recurso ejercido al mes de agosto.
+Y esto es lo que acabamos de cerrar —¿podemos darle para que inicie el video?— esto es lo que acabamos de cerrar para la atención en educación primaria:
+Tuvimos 73 mil asambleas que se realizaron a lo largo y ancho del país.
+La meta de entrega de tarjetas era de 5 millones de tarjetas; ya se han entregado 4.7 millones, que representa el 95.1 de avance. Como pueden ver, nos falta un piquito de tarjetas por entregar que ahora se siguen entregando.
+La Presidenta nos ha instruido que tenemos que ir hasta el último rincón y tenemos que entregar el 100 por ciento de las tarjetas de quienes hicieron registro, solicitud a la Beca “Rita Cetina” de primaria.
+—Si quieres, dale siguiente para que siga el video, por favor—.
+Ahí podemos apreciar cómo se están entregando las tarjetas ahora en oficina. Ya hicimos el operativo regular en donde hacemos una convocatoria-asamblea.
+Ya hicimos también el operativo de rezago donde, a todos aquellos que no fueron a su asamblea, los invitamos a que acudan a un segundo momento.
+Todos aquellos que no han ido al operativo de rezago, hoy en día les estamos llamando para que vayan a un Centro de Atención de Becas para el Bienestar y ahí un servidor de la educación está realizando la entrega de la tarjeta.
+También hay papás, mamás, tutores que por alguna razón u otra no pueden asistir a la oficina, algunos por enfermedad o algunos por otra causal. Entonces, también se están realizando las entregas casa por casa, como se puede apreciar en el video. Las servidoras y los servidores están acudiendo a los domicilios para quienes no contestan la llamada o quienes no pueden asistir al Centro de Atención de Becas para el Bienestar, la tarjeta la puedan tener muy pronto con ellos.
+Yo recuerdo dos casos en los que fui a entregar tarjeta casa por casa:
+Una persona por su tratamiento de cáncer no pudo ir a recibir su tarjeta, se la llevamos a su casa y se puso muy contenta.
+Otra persona justo en la entrega de tarjetas estaba dando a luz a su bebé; entonces, tampoco pudo acudir, y le llevamos la tarjeta a su domicilio.
+Esa es la instrucción de la Presidenta y así la estamos atendiendo.
+Y lo prometido es deuda:
+La Presidenta dijo que “en el mes de agosto se realizaba la dispersión de los recursos para útiles y uniformes”, justo en este momento crucial en el que se empiezan a adquirir todo lo que se requiere para ir a la escuela. Entonces, hoy arranca la dispersión de los 2 mil 500 pesos.
+Hoy lunes se atiende a quienes… o se les deposita a quienes su primer letra de su primer apellido inicia con la letra “A” y “B”.
+El martes 4: a quien inicia con la letra “C”.
+El miércoles 5: “D”, “E” y “F”.
+El jueves 6: la letra “G”.
+El viernes 7: “H”, “I”, “J”, “K”, y “L”.
+El lunes 10: la letra “M”.
+El martes 11: la “N”, “Ñ”, “Q”, “P" y “Q”.
+El miércoles 12: la letra “R".
+El jueves 13: la letra “S”.
+Y el viernes estaremos… el viernes 14 estaremos concluyendo con el resto de las letras [“T”, “U”, “V”, “W”, “X”, “Y”, “Z”].
+Así que atentas mamás y papás de su dispersión de recursos.
+Ahí viene la cantidad de becarios, 6 mil 694 mil 988 son quienes están recibiendo esta dispersión.
+La inversión social es de 16 mil 700 millones de pesos.
+Y, por último, Presidenta, solamente una recomendación adicional que ya le hemos hecho en otros momentos, pero creo que vale la pena que lo hagamos nuevamente, son nuevos becarios que están recibiendo por primera vez esta beca.
+Le recomendamos instalar la aplicación del Banco del Bienestar en su celular, es gratuita, está disponible para iOS y también para Android.
+Y si alguien no quiere instalar la aplicación, pero quiere consultar su saldo, también lo puede hacer en la línea del Banco del Bienestar, 800 900 2000, marcando el número 1, los 16 dígitos de la tarjeta y la fecha de nacimiento, y con eso estarán teniendo el saldo de su tarjeta.
+Continuaremos trabajando arduamente, por instrucciones de la Presidenta, para seguir instalando el Sistema de Becas de nuestro país eficientemente.
+Creemos firmemente en este gobierno que, si un estudiante se mantiene en la escuela, una familia gana; pero si millones de estudiantes se mantienen estudiando, ahí gana la nación entera.
+Así que seguiremos trabajando en ello.
+Por lo que corresponde a becas, Presidenta, es cuanto.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+Ahora sí, Mario.
+---
+SECRETARIO DE EDUCACIÓN PÚBLICA, MARIO DELGADO CARRILLO
+Buenos días a todas y a todos. Con su permiso, Presidenta.
+Continuamos este lunes con este debate que ha convocado la Presidenta de México sobre el uso de los dispositivos digitales y el impacto en el bienestar de los niños, las niñas y adolescentes.
+Como ya lo planteó la Presidenta: nunca nos hemos preguntado sobre el diseño de las plataformas digitales.
+Y hoy se va a hablar de eso porque las plataformas, si bien nos permiten comunicarnos, aprender, compartir información, mantenernos conectados, también incorporan mecanismos para atraer nuestra atención y prolongar el tiempo que permanecemos en ellas. El scroll infinito, las notificaciones, la reproducción automática, los algoritmos de recomendación, pues van haciendo que estemos pegados a la pantalla y el uso se puede volver compulsivo.
+Ante esto —como conversábamos la semana pasada— quienes quedan más expuestos son los niños, las niñas y los adolescentes.
+Para hablarnos de ello —ya lo comentó la Presidenta— tenemos dos expertos de talla internacional que se han atrevido a hacer un cuestionamiento ético del diseño de las redes sociales y conocen muy bien su funcionamiento.
+El primero es Jonathan Haidt. Quiero hablarles un poco de él, es una de las voces con mayor impacto en el debate global sobre redes sociales:
+Es profesor en Psicología por la Universidad de Nueva York.
+Investiga el impacto de las redes sociales en la salud mental de adolescentes y también en el desarrollo democrático.
+Tiene 4 libros muy conocidos a nivel internacional, creo que el más conocido es este: La generación ansiosa. Jonathan Haidt tiene más de 2 millones de copias vendidas de este libro y ya es una referencia internacional en el debate de la regulación de celulares en las escuelas y cómo retrasar el acceso a redes sociales en países como Inglaterra, Australia o Francia puede tener resultados favorables.
+Tiene, además, un movimiento internacional, sería en español “El movimiento de la generación ansiosa”, que es el movimiento internacional para infancias que busca: tengan menos pantallas, escuelas sin celulares y tengan las infancias juegos más libres.
+También, viajó directamente desde San Francisco para estar el día de hoy con nosotros, cosa que le agradecemos profundamente, el ingeniero Arturo Béjar.
+Él es mexicano.
+Es el ingeniero que Meta eligió para diseñar sus sistemas de protección de usuarios.
+Tiene muchísima experiencia. Estudió Matemáticas en King's College con Steve Wozniak, es cofundador de Apple con Steve Jobs, comenzó a trabajar en IBM México a los 15 años y fue el primer ingeniero de seguridad en Yahoo!, para los que se acuerdan todavía de Yahoo!
+Fue director de Ingeniería de Protección y Cuidado en Facebook, responsable de equipos dedicados a la seguridad, bienestar y protección de los usuarios.
+Su trabajo y testimonios han colocado en el centro del debate público: las responsabilidades de las plataformas en el diseño de algoritmos adictivos y por los daños que enfrentan niñas, niños y adolescentes por estos algoritmos.
+¿En qué se basa la discusión? ¿Cuáles son algunos de los puntos de los que hay que hablar?
+Primero. Que existen algoritmos, este diseño que hacen las plataformas, porque miden toda nuestra actividad en las redes y a partir de lo que miden genera ese algoritmo para mantenernos atrapados; y no son neutrales estos algoritmos, tienen cierta orientación.
+2. Los dispositivos digitales ya no son herramientas pasivas, son herramientas que van orientando, toman decisiones y van moldeando nuestras conductas.
+Y tercero. Que el impacto no termina en el mundo digital. Como nos nutren de información, nos muestran contenidos, influyen en la manera en que nos percibimos a nosotros mismos, cómo percibimos la realidad y cómo nos relacionamos con la vida democrática.
+Y por último decir que estamos frente a una relación muy desigual, porque las familias, pues tienen que enfrentar a las grandes empresas que tienen todos los datos, tienen todos los especialistas y tienen el diseño de los algoritmos.
+Por lo tanto, estamos frente a un problema de salud pública, no es una cuestión nada más de autorregulación de las personas o de las familias. Se requieren acciones colectivas que antepongan el bienestar de las infancias y las juventudes antes que los intereses comerciales.
+Entonces, vamos a hacer la conexión a Nueva York con el doctor Jonathan Haidt.
+—Adelante, doctor. Además, va a ser el esfuerzo de hablarnos en español. Gracias—.
+---
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA)
+Buenos días a todos.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Buenos días.
+---
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA)
+Quisiera agradecer a la Presidente Sheinbaum por iniciar esta conversación nacional sobre los efectos de la tecnología en la juventud mexicana.
+También deseo agradecer al secretario Delgado y subsecretario Villanueva por su dedicación y su colaboración.
+Por favor, disculpen mi español de nivel de bachillerato.
+Me llamo Jonathan Haidt. Soy el autor de La generación ansiosa, libro que documenta los numerosos efectos nocivos que los teléfonos inteligentes y las redes sociales han tenido en los niños y jóvenes de todo el mundo en los últimos 15 años.
+Entre 2010 y 2015, la infancia pasó de su forma tradicional basada en el juego a lo que tenemos hoy, que podría denominarse “una infancia basada en el teléfono”.
+En aquel entonces pensábamos que nuestros hijos eran nativos digitales: crecían rodeados de teléfonos inteligentes y computadoras, y creíamos que eso los haría sumamente inteligentes y hábiles. Pero estábamos equivocados.
+Ahora, sabemos que la infancia basada en el teléfono provoca depresión, ansiedad, trastornos alimentarios, adicción, distracción, menor capacidad de atención y aprendizaje, acoso sexual y una serie de otros daños para los adolescentes.
+Las empresas que controlan la atención de nuestros hijos utilizaron algoritmos e Inteligencia Artificial para enganchar al máximo a cada niño con el fin de vender su atención. Luego, mintieron al respecto.
+Pero ahora ha salido a la luz la verdad:
+Salió a la luz gracias al valiente testimonio de denunciantes como Arturo Béjar y Frances Haugen.
+Salió a la luz en el histórico caso judicial de Los Ángeles el pasado mes de marzo.
+Salió en cientos de estudios científicos, los cuales mi equipo de investigación ha recopilado en nuestro boletín Afterbabel.com.
+Y salió cada vez que los padres conversamos entre nosotros y descubrimos que todos enfrentamos las mismas dificultades en nuestros hogares.
+Por eso, ahora en 2026 las democracias del mundo empiezan a decir: “basta, no con nuestros hijos”.
+Las democracias del mundo están quitando los teléfonos inteligentes durante la escuela y están elevando a 16 años la edad mínima para abrir cuentas en redes sociales.
+Le animo a usted, Presidenta Sheinbaum, a implementar ambas medidas en México.
+Imagínese si, cuando nosotros íbamos a la escuela, hubiéramos podido llevar nuestros televisores y radios para usarlos durante la clase. Imagínese ser maestro en una situación tan imposible.
+La enorme distracción que provocan los teléfonos, así como las tabletas y los computadores es una de las razones por las que los resultados de los exámenes y la capacidad lectora están disminuyendo en todo el mundo.
+Mi equipo de investigación ha constatado que en ambos países las calificaciones en los exámenes han caído desde 2012, mientras que ha aumentado el sentimiento de soledad en la escuela.
+Las escuelas libres de teléfonos representan una medida sencilla, económica y eficaz para lograr que los centros educativos sean más eficientes y divertidos.
+Ya son 25 los estados de Estados Unidos que han implementado esta medida; los resultados son espectaculares.
+Esto es lo que siempre escuchamos: “recuperaré a mis alumnos” y “el comedor está lleno de vida”.
+Aquí está la clave del éxito: deben separar a los alumnos de sus teléfonos durante toda la jornada escolar. No exentan políticas que solo se apliquen al tiempo de clase, esas políticas no aportan beneficios sociales.
+Además, deberían aplicar la norma a todos los cursos, los alumnos mayores la necesitan incluso más que los más pequeños.
+La segunda medida que están adoptando líderes de todo el mundo es elevar a 16 años la edad mínima para tener cuentas en redes sociales. Las redes sociales son totalmente inapropiadas para los niños.
+Hablar con desconocidos es una actividad para adultos.
+La pornografía es cosa de adultos.
+Comprar drogas en línea es cosa de adultos.
+Sin embargo, todos nuestros hijos están expuestos regularmente a estos peligros cuando abren cuentas en Instagram, TikTok o Snapchat.
+Por eso, les recomiendo a ustedes proteger a los niños de México contra productos de consumo defectuosos, productos diseñados para crear adicción en los niños, no para ayudarles.
+Sigan ustedes el valiente ejemplo de Australia. No crean ustedes a quienes dicen que “la medida fracasó porque solo redujo el uso y un 30 por ciento”. Lograr cualquier cambio en el comportamiento de los adolescentes en solo 6 meses es un gran logro.
+Y ahora que existe un mercado de verificación de edad que respeta la privacidad, será mucho más fácil actuar para cualquier país que siga los pasos de Australia.
+Mi consejo es el siguiente: que se centren en el diseño de las plataformas, no en regular o prohibir contenidos. Podríamos aprovechar del ejemplo de Indonesia, que enumera las funcionalidades inapropiadas para los niños, como hablar con desconocidos.
+Para terminar, el antiguo filósofo chino Lao-Tse dijo: “un viaje de mil millas comienza con un solo paso”.
+Presidenta Sheinbaum, usted ya ha dado ese primer paso al consultar a maestros, padres, niños y otras partes interesadas. Siga adelante.
+Mi equipo está aquí para ayudarle. Encontrará nuestros recursos en anxiousgeneration.com.
+Este camino se vuelve más fácil a medida que se avanza porque usted descubrirá que el mundo entero se está uniendo a esta travesía y el viaje también se vuelve más divertido porque usted verá a los niños mexicanos inventando sus propios juegos, riendo juntos y leyendo libros por placer.
+Porque este viaje no se trata de quitarles los teléfonos, se trata de recuperar la infancia en el mundo real para todos nuestros hijos.
+Gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Muchas gracias, doctor.
+—Vamos, Arturo—.
+Ahora, terminando, vamos a las preguntas.
+---
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR
+Gracias, Presidenta, secretario.
+Gracias por la oportunidad de estar aquí.
+Yo le he dedicado mi vida a la seguridad de la gente en línea, llevo más de 30 años trabajando el tema, y creo que es importante que todos podamos entender qué son las cosas en el diseño de estos productos que causan daños.
+El diseño de estas plataformas ha evolucionado a través del tiempo y ahorita está construido con 6 ingredientes, ingredientes que juntos causan adicción y uso compulsivo:
+El primer ingrediente es lo que se llama “el scroll infinito”. Imagínate el bebé que por primera vez puede mover el dedo y hacer así. Podría pasarse toda su vida hasta que se muere haciendo así y no se acaban los videos, y eso puede ser un millón de bebés.
+Luego, la reproducción automática de videos. Cuando nosotros entramos a cualquier lugar y hay una pantalla, pues vemos qué es lo que está pasando en la pantalla, respondemos, investigamos. Y eso está diseñado para capturar la atención, porque cada video empieza automáticamente a ser reproducido y nos captura.
+Luego, combina eso con algo que ve, qué es lo que captura nuestra atención por un momentito y dice: “ah, ok, te voy a dar más de eso”. “Ah, mira, te capturó la atención alguien con ojos azules”; en 2 minutos todos tienen ojos azules.
+Al inicio dices: “pues bueno, sería algo bueno”.
+Pero qué tal cuando eres una niña y estás viendo y te captura por un momento una persona que está flaca, en mal plan, o sea, que uno se preocupa de su bienestar y dices: “¡Ay!”; en minutos eso, el algoritmo de recomendaciones, lo transforma en recomendaciones de otras gentes, de comida, de recetas de perder peso, y genera un bombardeo, un bombardeo que le enseña a la gente joven que hay que dejar de comer.
+Yo he hablado con gente joven que ha sobrevivido a anorexia y a esos temas, y me platican: “me levantaba en la mañana, abría Instagram y veía una foto de una ensalada y yo escogí ese día no comer”.
+Los algoritmos enseñan, las recomendaciones enseñan.
+Y luego, si tienen la capacidad de bajar el teléfono y alejarse, las notificaciones: “oye, hay algo por ahí que tienes que saber, no te voy a decir qué, tienes que ir a ver”.
+Y quién como gente joven, inclusive nosotros como adultos, tiene la capacidad de que si nos tocan así constantemente: “oye, ve esto”, “oye, ve lo otro”.
+Cientos de veces al día, hay niños que cientos y cientos de veces están levantando el teléfono para ver si entran notificaciones, porque esas notificaciones van contra nuestra vulnerabilidad cuando nos estamos desarrollando, de mandarnos.
+Y eso combina, otra vez. Imagínate que cuando vas a la escuela te dan una cachucha con un número y esa cachucha dice qué tan popular eres. Y todos tienen la cachucha y tú ves que alguien que tiene la cachucha, que está muy flaco, lo que sea, dices: “bueno, lo que yo tengo que hacer es dejar de comer para que mi popularidad suba”.
+Esas cosas a la gente joven nunca se las daría, ¿no?
+Y todo eso lo combinas en lo que es la presión social de estar ahí: “todo el mundo está en Instagram ¿cómo no voy a estar yo?”
+¿Por qué las gentes, los niños chiquitos están preguntando a los papás o la mamá: “oye, mamá, ¿cuándo puedo tener mi cuenta en Insta?, ¿cuándo puedo tener mi cuenta en Snapchat?” Porque todo el mundo está ahí. Pero no está ahí para el bien, es un enganche más que nos jala a un producto que en cada faceta está diseñado para capturar, exprimir y vender nuestra atención.
+Ahora, este es un estudio de los que estaba hablando Jonathan Haidt, este yo lo supervisé. Yo regresé a Instagram después de unos años, hicimos un estudio de 240 mil gentes y se les hicieron preguntas como: “oye, ¿has recibido acoso sexual?”, “¿te hemos enseñado algo que te haga sentir mal de tu cuerpo?”, “¿has visto contenido que recomendara suicidio o autolesiones en los últimos siete días?”.
+Entonces, de aquí a “La mañanera”, en una semana, 1 en 5 adolescentes van a recibir contenido que les hace sentir el mal de su cuerpo, a unos más de 10 veces, más de 100 veces, 1 en 8.
+Imagínate que es a nuestros hijos a los que les está pasando esto, un acoso sexual más de una vez, 98 por ciento de las veces de una persona desconocida.
+1 en 11, contenido que tiene que ver con autolesiones y suicidios más de una vez de aquí en una semana.
+Y estas son cuestiones de diseño, esto es un algoritmo que captura la atención. Y mientras más tiempo pasas ahí, más daños te causa.
+Estos productos, las redes sociales como las conocemos hoy, están construidas en dos partes:
+Una parte es captar la atención el mayor tiempo posible, el uso compulsivo.
+Y la segunda parte es generar conexiones con desconocidos.
+Y estas son dos cosas que una madre o un padre nunca les daría a sus hijos.
+Ahora, ¿cuál es la respuesta de la industria en estos temas? Niegan adicción.
+En el caso de Los Ángeles, en el cual yo estuve, le preguntaron a la persona que está a cargo de Instagram: “oye, esta niña que ha tenido problemas de cuerpo, problemas de otros temas, 16 horas en un día”.
+El ejecutivo contesta: “no, eso no es adicción, eso es elección personal”.
+Dicen: “es la responsabilidad de los padres hacer que estas cosas sean seguras”.
+Pero no es cierto, cuando uno compra un juguete para un niño, uno tiene que tener la confianza que el juguete es seguro.
+Cuando uno compra un coche para un adolescente o le pasa el coche que uno tiene, el diseño del coche no es la responsabilidad de los padres; uno no debería tener que estar en el coche todo el tiempo para ver que funcionara, las madres que trabajan, los padres que trabajan, no tenemos el tiempo para hacer eso.
+Y luego la compañía dice: “tenemos herramientas que demuestran que está seguro el producto”.
+Yo, con ayuda de universidades en Estados Unidos, he estudiado esas herramientas.
+Te prometen: “no vas a poder buscar contenido de flaquez y de cosas”.
+Y si las empiezas a buscar en español, te recomienda. “Quiero ser flaca”, y ves, y te recomienda contenido, ensaladas, todo, y luego te empieza a bombardear con eso. Es el diseño de los problemas que causan eso.
+Entonces, ¿a dónde acabamos? Al gobierno le corresponde proteger.
+Cuando una compañía como el tabaco, como el alcohol o lo que sea, no está actuando en el interés de la gente joven, sabe de los daños, los niega, dice que sus productos son seguros, es la responsabilidad de tomar los pasos para proteger a nuestra gente joven a través de estudios, de los daños, a través de medidas de protección que demuestren la mejora del impacto y, sobre todo, asegurar que lo que le damos a la gente joven está diseñado para el bienestar y no para perjudicar.
+Cuando se trata de la gente joven, más vale prevenir que lamentar.
+Muchas gracias.
+---
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO
+Gracias.
+Bueno, pues como ven, la opinión de dos grandes expertos que han estudiado el impacto que tiene —vamos a decir— el uso excesivo de las plataformas, las redes sociales, en las niñas, los niños, y las y los jóvenes.
+Y por eso esta discusión nacional, por eso “La mañanera” de los lunes la estamos dedicando a este tema, para que madres, padres de familia conozcan, niñas, niños, jóvenes, ustedes, y que se discuta qué hacer en México para proteger a las y los niños, a los adolescentes de esta adicción que provoca las redes sociales y las plataformas.
+Si tienen preguntas para los expertos… Vamos.
