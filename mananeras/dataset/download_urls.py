@@ -1,14 +1,14 @@
+import logging
 from pathlib import Path
-from typing import List
+from typing import Callable, Iterable, List
 
 from bs4 import BeautifulSoup
 from playwright.sync_api import Page, TimeoutError as PlaywrightTimeout, sync_playwright
 
+logger = logging.getLogger(__name__)
+
 base_url = "https://www.gob.mx"
 articles_url = base_url + "/presidencia/es/archivo/articulos?page="
-
-raw_path = Path("raw")
-raw_path.mkdir(exist_ok=True, parents=True)
 
 
 def _wait_past_challenge(page: Page) -> None:
@@ -61,54 +61,79 @@ def get_anchors(documents):
     return anchors
 
 
-def get_new_urls(url_list, page) -> List[str]:
-    page_num = page or 1
+def read_known_urls(url_list) -> List[str]:
+    """Read the recorded URLs, newest first. Returns an empty list if there is no record yet."""
+    url_list = Path(url_list)
+    if not url_list.exists():
+        logger.info("No previous urls found, starting from scratch")
+        return []
+
+    with open(url_list) as readable:
+        known_urls = [line.strip() for line in readable if line.strip()]
+
+    logger.info("Read %d known urls", len(known_urls))
+    return known_urls
+
+
+def record_urls(url_list, new_urls: Iterable[str], known_urls: Iterable[str]) -> None:
+    """Prepend the newly fetched URLs to the record.
+
+    This file must stay strictly prepend-only. Git delta-compresses each daily rewrite
+    into roughly a kilobyte only because every existing line keeps its exact order and
+    bytes. Sorting, deduplicating or otherwise reordering the record would turn every
+    revision into a full snapshot, costing hundreds of kilobytes per day.
+    """
     url_list = Path(url_list)
     url_list.parent.mkdir(exist_ok=True, parents=True)
-    last_fetched = None
-    old_urls = []
-    if url_list.exists():
-        with open(url_list) as readable:
-            for old_url in readable:
-                old_urls.append(old_url.strip())
-        last_fetched = old_urls[0]
-        print(f"Last url found {last_fetched}")
-    else:
-        print("No previous urls found, starting from scratch")
 
-    print(f"Starting fetching from page {page_num}")
+    with open(url_list, "w") as writable:
+        for url in list(new_urls) + list(known_urls):
+            writable.write(url + "\n")
 
-    new_urls = []
-    stop_crawling = False
+
+def collect_new_urls(known_urls: Iterable[str], page_num: int, fetch_links: Callable[[int], List[str]]) -> List[str]:
+    """Walk the listing pages, newest first, collecting URLs that are not already known.
+
+    Crawling stops once a whole page holds nothing new. Scanning the complete page,
+    instead of stopping at the first familiar URL, lets a gap left by an earlier failure
+    be picked up on a later run.
+    """
+    known = set(known_urls)
+    seen = set()
+    new_urls: List[str] = []
+
+    while True:
+        links = fetch_links(page_num)
+        if not links:
+            logger.info("No more urls, nothing left to crawl")
+            break
+
+        unknown = [link for link in links if link not in known and link not in seen]
+        if not unknown:
+            logger.info("Page %d holds nothing new, stopping", page_num)
+            break
+
+        seen.update(unknown)
+        new_urls.extend(unknown)
+        logger.info("Found %d new urls on page %d", len(unknown), page_num)
+        page_num += 1
+
+    return new_urls
+
+
+def crawl_new_urls(known_urls: Iterable[str], page: int = 1) -> List[str]:
+    """Crawl the listing for URLs missing from ``known_urls``, without recording anything."""
+    page_num = page or 1
+    logger.info("Starting fetching from page %d", page_num)
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         try:
             pw = browser.new_page(locale="es-MX")
-            while not stop_crawling:
-                results = _fetch_listing_page(pw, page_num)
-                links = get_anchors(results)
-                if not links:
-                    print("No more urls, no need to dataset anymore")
-                    break
 
-                if page_num % 10 == 0:
-                    print(f"Querying page {page_num}")
+            def fetch_links(number: int) -> List[str]:
+                return get_anchors(_fetch_listing_page(pw, number))
 
-                for link in links:
-                    if link == last_fetched:
-                        print("Found a previously crawled page, no need to dataset anymore")
-                        stop_crawling = True
-                        break
-                    new_urls.append(link)
-
-                page_num += 1
+            return collect_new_urls(known_urls, page_num, fetch_links)
         finally:
             browser.close()
-
-    all_urls = new_urls + old_urls
-    with open(url_list, "w") as writable:
-        for url in all_urls:
-            writable.write(url + "\n")
-
-    return new_urls
