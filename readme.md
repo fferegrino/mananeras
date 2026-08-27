@@ -4,7 +4,7 @@ Scripts that pull **written transcripts** of Mexico’s presidential morning pre
 
 ## Requirements
 
-- **Python** 3.8+
+- **Python** 3.10+
 - **[Poetry](https://python-poetry.org/)** for dependencies
 - **[Playwright](https://playwright.dev/python/)** Chromium (the archive listing is loaded in a browser after a bot challenge)
 
