@@ -13,7 +13,7 @@ def lee_mananera(path: Union[Path, str]) -> Mananera:
         date = next(readable).strip()
         try:
             next(readable)
-        except:
+        except StopIteration:
             pass
 
         participaciones: List[Participacion] = []

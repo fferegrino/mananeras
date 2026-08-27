@@ -1,10 +1,22 @@
 import re
 from pathlib import Path
-from typing import Tuple
+from typing import Dict, Tuple
 
 from bs4 import BeautifulSoup, Tag
 
-date_format = re.compile(r"(?P<day>[0-9]{2}) de (?P<month>[a-z]+) de (?P<year>[0-9]{4})")
+date_format = re.compile(r"(?P<day>[0-9]{1,2}) de (?P<month>[a-z]+) de (?P<year>[0-9]{4})", re.IGNORECASE)
+
+
+def _parse_date(date: str) -> Dict[str, str]:
+    """Split a publication date such as '2 de junio de 2021' into its parts"""
+    match = date_format.match(date)
+    if not match:
+        raise ValueError(f"Unrecognized publication date: {date!r}")
+    date_info = match.groupdict()
+    # Output paths are built from these values, so keep them uniform
+    date_info["day"] = date_info["day"].zfill(2)
+    date_info["month"] = date_info["month"].lower()
+    return date_info
 
 
 def extract(raw_input, processed_output_path):
@@ -62,9 +74,10 @@ def parse_document(file: Path):
             [article_content] = soup.find_all("div", {"class": "pull-left"})[1:-1]
 
         title = soup.find("h1").text.strip()
-        author, date = [dd.strip() for dd in article_content.find("section").text.split('|')]
+        metadata = soup.find("section", {"class": "border-box"})
+        author, date = [dd.text.strip() for dd in metadata.find_all("dd")]
         all_ps = article_content.find_all("p")
-        date_info = date_format.match(date).groupdict()
+        date_info = _parse_date(date)
         current_speaker = None
         dialogs = []
         for ps in all_ps:

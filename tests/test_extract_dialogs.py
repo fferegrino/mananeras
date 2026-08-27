@@ -1,8 +1,9 @@
 from pathlib import Path
 
+import pytest
 from bs4 import BeautifulSoup
 
-from mananeras.dataset.extract_dialogs import _parse_ps, parse_document
+from mananeras.dataset.extract_dialogs import _parse_date, _parse_ps, parse_document
 
 
 def test_2019(sample_docs_path: Path):
@@ -48,6 +49,23 @@ def test_2021(sample_docs_path: Path):
 
     assert all_dialogs[-2][0] == "INTERLOCUTORA"
     assert all_dialogs[-2][1][0] == "¿A qué hora?"
+
+
+@pytest.mark.parametrize(
+    "date, expected",
+    [
+        ("11 de septiembre de 2019", {"day": "11", "month": "septiembre", "year": "2019"}),
+        ("2 de junio de 2021", {"day": "02", "month": "junio", "year": "2021"}),
+        ("02 de Diciembre de 2020", {"day": "02", "month": "diciembre", "year": "2020"}),
+    ],
+)
+def test_parse_date(date: str, expected: dict):
+    assert _parse_date(date) == expected
+
+
+def test_parse_date_unrecognized():
+    with pytest.raises(ValueError, match="Unrecognized publication date"):
+        _parse_date("miércoles de la semana pasada")
 
 
 def test_parse_ps():
