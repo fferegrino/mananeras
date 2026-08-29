@@ -5,7 +5,6 @@ from mananeras.reader import lee_mananera
 
 
 def test_read_mananera(sample_docs_path: Path):
-
     mananera = lee_mananera(sample_docs_path / "ejemplo.txt")
 
     assert mananera.fecha == date(2019, 8, 2)

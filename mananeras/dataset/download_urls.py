@@ -1,39 +1,117 @@
 import logging
+import time
 from pathlib import Path
 from typing import Callable, Iterable, List
 
 from bs4 import BeautifulSoup
-from playwright.sync_api import Page, TimeoutError as PlaywrightTimeout, sync_playwright
+from playwright.sync_api import (
+    Browser,
+    BrowserContext,
+    Page,
+    TimeoutError as PlaywrightTimeout,
+    sync_playwright,
+)
 
 logger = logging.getLogger(__name__)
 
 base_url = "https://www.gob.mx"
 articles_url = base_url + "/presidencia/es/archivo/articulos?page="
 
+DEFAULT_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
 
-def _wait_past_challenge(page: Page) -> None:
+CHROMIUM_ARGS = [
+    "--disable-blink-features=AutomationControlled",
+    "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--disable-infobars",
+    "--window-position=0,0",
+    "--ignore-certificate-errors",
+    "--ignore-certificate-errors-spki-list",
+]
+
+STEALTH_JS = """
+// Pass the Webdriver Test.
+Object.defineProperty(navigator, 'webdriver', {
+    get: () => undefined,
+});
+
+// Pass the Plugins Length Test.
+Object.defineProperty(navigator, 'plugins', {
+    get: () => [1, 2, 3, 4, 5],
+});
+
+// Pass the Languages Test.
+Object.defineProperty(navigator, 'languages', {
+    get: () => ['es-MX', 'es', 'en-US', 'en'],
+});
+
+// Pass the Chrome Test.
+window.chrome = {
+    runtime: {},
+};
+"""
+
+
+def _create_browser_context(browser: Browser) -> BrowserContext:
+    context = browser.new_context(
+        user_agent=DEFAULT_USER_AGENT,
+        locale="es-MX",
+        timezone_id="America/Mexico_City",
+        viewport={"width": 1920, "height": 1080},
+        extra_http_headers={
+            "Accept-Language": "es-MX,es;q=0.9,en-US;q=0.8,en;q=0.7",
+            "sec-ch-ua": '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": '"Windows"',
+        },
+    )
+    context.add_init_script(STEALTH_JS)
+    return context
+
+
+def _wait_past_challenge(page: Page, timeout_ms: int = 45000) -> None:
     page.wait_for_function(
         "() => document.title !== 'Challenge Validation'",
-        timeout=120000,
+        timeout=timeout_ms,
     )
 
 
-def _fetch_listing_page(page: Page, page_num: int) -> List:
+def _fetch_listing_page(page: Page, page_num: int, max_retries: int = 3) -> List:
     url = articles_url + str(page_num)
-    page.goto(url, wait_until="domcontentloaded", timeout=120000)
-    _wait_past_challenge(page)
-    try:
-        page.wait_for_selector('a[href*="/articulos/"][href*="prensa"]', timeout=90000)
-    except PlaywrightTimeout:
-        pass
-    return [BeautifulSoup(page.content(), "html5lib")]
+    for attempt in range(1, max_retries + 1):
+        try:
+            logger.info("Fetching listing page %d (attempt %d/%d)", page_num, attempt, max_retries)
+            page.goto(url, wait_until="domcontentloaded", timeout=45000)
+            _wait_past_challenge(page, timeout_ms=45000)
+            try:
+                page.wait_for_selector('a[href*="/articulos/"][href*="prensa"]', timeout=30000)
+            except PlaywrightTimeout:
+                pass
+            return [BeautifulSoup(page.content(), "html5lib")]
+        except Exception as exc:
+            logger.warning(
+                "Attempt %d/%d to fetch page %d failed: %s",
+                attempt,
+                max_retries,
+                page_num,
+                exc,
+            )
+            if attempt < max_retries:
+                time.sleep(2 * attempt)
+            else:
+                logger.error("Failed to fetch listing page %d after %d attempts", page_num, max_retries)
+                return []
+    return []
 
 
 def query(page_to_query: int) -> List:
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=True, args=CHROMIUM_ARGS)
         try:
-            pw = browser.new_page(locale="es-MX")
+            context = _create_browser_context(browser)
+            pw = context.new_page()
             return _fetch_listing_page(pw, page_to_query)
         finally:
             browser.close()
@@ -127,9 +205,10 @@ def crawl_new_urls(known_urls: Iterable[str], page: int = 1) -> List[str]:
     logger.info("Starting fetching from page %d", page_num)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=True, args=CHROMIUM_ARGS)
         try:
-            pw = browser.new_page(locale="es-MX")
+            context = _create_browser_context(browser)
+            pw = context.new_page()
 
             def fetch_links(number: int) -> List[str]:
                 return get_anchors(_fetch_listing_page(pw, number))

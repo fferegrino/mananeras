@@ -1,7 +1,13 @@
 from pathlib import Path
 from typing import Dict, List
+from unittest.mock import MagicMock, call, patch
+
+from playwright.sync_api import TimeoutError as PlaywrightTimeout
 
 from mananeras.dataset.download_urls import (
+    _create_browser_context,
+    _fetch_listing_page,
+    _wait_past_challenge,
     collect_new_urls,
     read_known_urls,
     record_urls,
@@ -85,3 +91,53 @@ def test_collect_new_urls_returns_nothing_when_up_to_date():
     fetch = _pages({1: ["b", "a"]})
 
     assert collect_new_urls(["b", "a"], 1, fetch) == []
+
+
+def test_wait_past_challenge():
+    mock_page = MagicMock()
+    _wait_past_challenge(mock_page, timeout_ms=30000)
+    mock_page.wait_for_function.assert_called_once_with(
+        "() => document.title !== 'Challenge Validation'",
+        timeout=30000,
+    )
+
+
+def test_create_browser_context():
+    mock_browser = MagicMock()
+    _create_browser_context(mock_browser)
+    mock_browser.new_context.assert_called_once()
+    context = mock_browser.new_context.return_value
+    context.add_init_script.assert_called_once()
+
+
+def test_fetch_listing_page_success():
+    mock_page = MagicMock()
+    mock_page.content.return_value = '<html><a href="/articulos/prensa-1">Prensa</a></html>'
+    docs = _fetch_listing_page(mock_page, 1, max_retries=2)
+    assert len(docs) == 1
+    assert "prensa-1" in docs[0].decode()
+
+
+@patch("time.sleep")
+def test_fetch_listing_page_retry_success(mock_sleep):
+    mock_page = MagicMock()
+    mock_page.goto.side_effect = [PlaywrightTimeout("Timeout 1"), None]
+    mock_page.content.return_value = '<html><a href="/articulos/prensa-1">Prensa</a></html>'
+
+    docs = _fetch_listing_page(mock_page, 1, max_retries=2)
+
+    assert len(docs) == 1
+    assert mock_page.goto.call_count == 2
+    mock_sleep.assert_called_once_with(2)
+
+
+@patch("time.sleep")
+def test_fetch_listing_page_all_retries_fail(mock_sleep):
+    mock_page = MagicMock()
+    mock_page.goto.side_effect = PlaywrightTimeout("Timeout exceeded")
+
+    docs = _fetch_listing_page(mock_page, 1, max_retries=3)
+
+    assert docs == []
+    assert mock_page.goto.call_count == 3
+    assert mock_sleep.call_args_list == [call(2), call(4)]
