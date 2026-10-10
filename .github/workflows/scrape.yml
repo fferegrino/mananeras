@@ -65,3 +65,11 @@ jobs:
         huggingface-token: ${{ secrets.HF_TOKEN }}
         kaggle-username: ioexception
         kaggle-key: ${{ secrets.KAGGLE_KEY }}
+        healthcheck-url: ${{ secrets.HEALTHCHECK_URL }}
+
+    # A failure before publish skips it, and with it publish's own failure ping.
+    - uses: fferegrino/dataset-sync/ping@v1
+      if: failure()
+      with:
+        url: ${{ secrets.HEALTHCHECK_URL }}
+        status: fail
