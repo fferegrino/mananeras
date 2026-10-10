@@ -3,7 +3,12 @@ from pathlib import Path
 import pytest
 from bs4 import BeautifulSoup
 
-from mananeras.dataset.extract_dialogs import _parse_date, _parse_ps, parse_document
+from mananeras.dataset.extract_dialogs import (
+    _parse_date,
+    _parse_ps,
+    extract,
+    parse_document,
+)
 
 
 def test_2019(sample_docs_path: Path):
@@ -129,3 +134,24 @@ def test_parse_document_filename_and_title_fallback(tmp_path: Path):
     assert date == "28 de agosto de 2026"
     assert date_info == {"day": "28", "month": "agosto", "year": "2026"}
     assert all_dialogs[0] == ("PRESIDENTA", ["Buenos días."])
+
+
+def test_extract_reports_only_parsed_articles(sample_docs_path: Path, tmp_path: Path):
+    raw = tmp_path / "raw"
+    raw.mkdir()
+    good = "conferencia-28-de-junio-de-2021"
+    (raw / f"{good}.html").write_bytes((sample_docs_path / f"{good}.html").read_bytes())
+    (raw / "challenge.html").write_text("<html><body><h1>Challenge</h1></body></html>")
+
+    assert extract(raw, tmp_path / "articulos") == {good}
+    assert len(list((tmp_path / "articulos").glob("**/*.txt"))) == 1
+
+
+def test_extract_reports_already_extracted_articles(sample_docs_path: Path, tmp_path: Path):
+    raw = tmp_path / "raw"
+    raw.mkdir()
+    good = "conferencia-28-de-junio-de-2021"
+    (raw / f"{good}.html").write_bytes((sample_docs_path / f"{good}.html").read_bytes())
+    extract(raw, tmp_path / "articulos")
+
+    assert extract(raw, tmp_path / "articulos") == {good}

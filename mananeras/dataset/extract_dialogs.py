@@ -1,7 +1,7 @@
 import logging
 import re
 from pathlib import Path
-from typing import Dict, Tuple
+from typing import Dict, Set, Tuple
 
 from bs4 import BeautifulSoup, Tag
 
@@ -28,13 +28,19 @@ def _parse_date(date: str) -> Dict[str, str]:
     return date_info
 
 
-def extract(raw_input, processed_output_path):
+def extract(raw_input, processed_output_path) -> Set[str]:
+    """Extract every downloaded article, returning the names of those that have a processed file.
+
+    Articles that fail to parse are left out, so that the caller does not record them as done.
+    """
     raw_input = Path(raw_input)
     processed_output_path = Path(processed_output_path)
     processed_output_path.mkdir(exist_ok=True, parents=True)
     existing_files = {str(file).partition("--")[2][:-4] for file in processed_output_path.glob("**/*.txt")}
+    extracted = set()
     for html_file in raw_input.glob("*.html"):
         if html_file.stem in existing_files:
+            extracted.add(html_file.stem)
             continue
 
         try:
@@ -57,6 +63,9 @@ def extract(raw_input, processed_output_path):
                 writable.write(speaker + "\n")
                 for line in lines:
                     writable.write(line + "\n")
+        extracted.add(html_file.stem)
+
+    return extracted
 
 
 def _c(txt: str) -> str:

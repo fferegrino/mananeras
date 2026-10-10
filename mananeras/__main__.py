@@ -29,10 +29,13 @@ def main():
     logger.info("downloading articles")
     downloaded_urls = download_articles(new_urls, "raw")
     logger.info("processing articles")
-    extract("raw", "articulos")
+    extracted = extract("raw", "articulos")
     # Only recorded once the articles are safely extracted, so that a failure part way
     # through is retried on the next run instead of being skipped forever.
-    record_urls("urls.txt", downloaded_urls, known_urls)
+    extracted_urls = [url for url in downloaded_urls if url.rpartition("/")[2] in extracted]
+    if len(extracted_urls) != len(downloaded_urls):
+        logger.warning("Extracted %d of %d downloaded articles", len(extracted_urls), len(downloaded_urls))
+    record_urls("urls.txt", extracted_urls, known_urls)
     logger.info("compressing articles")
     shutil.make_archive("data/articulos", "zip", "./articulos")
     logger.info("creating new dataset version")
