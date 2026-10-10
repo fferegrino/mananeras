@@ -8,9 +8,10 @@ from mananeras.dataset.download_urls import (
     _create_browser_context,
     _fetch_listing_page,
     _wait_past_challenge,
+    article_slug,
     collect_new_urls,
-    read_known_urls,
-    record_urls,
+    read_known_slugs,
+    url_slug,
 )
 
 
@@ -21,51 +22,31 @@ def _pages(pages: Dict[int, List[str]]):
     return fetch_links
 
 
-def test_read_known_urls_missing_file(tmp_path: Path):
-    assert read_known_urls(tmp_path / "urls.txt") == []
+def test_read_known_slugs_missing_directory(tmp_path: Path):
+    assert read_known_slugs(tmp_path / "data") == set()
 
 
-def test_read_known_urls_skips_blank_lines(tmp_path: Path):
-    url_list = tmp_path / "urls.txt"
-    url_list.write_text("a\nb\n\n")
+def test_read_known_slugs_from_nested_articles(tmp_path: Path):
+    for name in ["2019/mayo/02--conferencia-b.txt", "2026/octubre/09--conferencia-a--con-guiones.txt"]:
+        article = tmp_path / name
+        article.parent.mkdir(parents=True, exist_ok=True)
+        article.write_text("")
+    (tmp_path / "dataset-metadata.json").write_text("{}")
 
-    assert read_known_urls(url_list) == ["a", "b"]
-
-
-def test_record_urls_creates_file(tmp_path: Path):
-    url_list = tmp_path / "urls.txt"
-
-    record_urls(url_list, ["a"], [])
-
-    assert url_list.read_text() == "a\n"
+    assert read_known_slugs(tmp_path) == {"conferencia-b", "conferencia-a--con-guiones"}
 
 
-def test_record_urls_is_prepend_only(tmp_path: Path):
-    """The old lines must survive byte for byte, in order, or git delta compression collapses."""
-    url_list = tmp_path / "urls.txt"
-    known = ["c", "b", "a"]
-    record_urls(url_list, [], known)
-    before = url_list.read_text()
+def test_slugs_of_url_and_article_agree():
+    url = "https://www.gob.mx/presidencia/es/articulos/version-estenografica-del-09-de-octubre-de-2026"
+    article = Path("data/2026/octubre/09--version-estenografica-del-09-de-octubre-de-2026.txt")
 
-    record_urls(url_list, ["e", "d"], known)
-
-    after = url_list.read_text()
-    assert after == "e\nd\n" + before
-    assert after.splitlines() == ["e", "d", "c", "b", "a"]
-
-
-def test_record_urls_round_trips(tmp_path: Path):
-    url_list = tmp_path / "urls.txt"
-
-    record_urls(url_list, ["b", "a"], [])
-
-    assert read_known_urls(url_list) == ["b", "a"]
+    assert url_slug(url) == article_slug(article) == "version-estenografica-del-09-de-octubre-de-2026"
 
 
 def test_collect_new_urls_stops_at_page_without_news():
-    fetch = _pages({1: ["d", "c"], 2: ["b", "a"], 3: ["z"]})
+    fetch = _pages({1: ["/x/d", "/x/c"], 2: ["/x/b", "/x/a"], 3: ["/x/z"]})
 
-    assert collect_new_urls(["b", "a"], 1, fetch) == ["d", "c"]
+    assert collect_new_urls(["b", "a"], 1, fetch) == ["/x/d", "/x/c"]
 
 
 def test_collect_new_urls_stops_when_listing_runs_out():
@@ -76,9 +57,9 @@ def test_collect_new_urls_stops_when_listing_runs_out():
 
 def test_collect_new_urls_recovers_a_gap():
     """A URL missed by an earlier failed run is picked up even though newer ones are known."""
-    fetch = _pages({1: ["c", "b", "a"], 2: []})
+    fetch = _pages({1: ["/x/c", "/x/b", "/x/a"], 2: []})
 
-    assert collect_new_urls(["c", "a"], 1, fetch) == ["b"]
+    assert collect_new_urls(["c", "a"], 1, fetch) == ["/x/b"]
 
 
 def test_collect_new_urls_ignores_duplicates_across_pages():
@@ -88,7 +69,7 @@ def test_collect_new_urls_ignores_duplicates_across_pages():
 
 
 def test_collect_new_urls_returns_nothing_when_up_to_date():
-    fetch = _pages({1: ["b", "a"]})
+    fetch = _pages({1: ["/x/b", "/x/a"]})
 
     assert collect_new_urls(["b", "a"], 1, fetch) == []
 

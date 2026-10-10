@@ -1,7 +1,7 @@
 import logging
 import time
 from pathlib import Path
-from typing import Callable, Iterable, List
+from typing import Callable, Iterable, List, Set
 
 from bs4 import BeautifulSoup
 from playwright.sync_api import (
@@ -139,44 +139,35 @@ def get_anchors(documents):
     return anchors
 
 
-def read_known_urls(url_list) -> List[str]:
-    """Read the recorded URLs, newest first. Returns an empty list if there is no record yet."""
-    url_list = Path(url_list)
-    if not url_list.exists():
-        logger.info("No previous urls found, starting from scratch")
-        return []
-
-    with open(url_list) as readable:
-        known_urls = [line.strip() for line in readable if line.strip()]
-
-    logger.info("Read %d known urls", len(known_urls))
-    return known_urls
+def url_slug(url: str) -> str:
+    return url.rpartition("/")[2]
 
 
-def record_urls(url_list, new_urls: Iterable[str], known_urls: Iterable[str]) -> None:
-    """Prepend the newly fetched URLs to the record.
+def article_slug(article: Path) -> str:
+    """The URL slug an extracted article was saved under, from its ``DD--slug.txt`` name."""
+    return article.name.partition("--")[2][: -len(".txt")]
 
-    This file must stay strictly prepend-only. Git delta-compresses each daily rewrite
-    into roughly a kilobyte only because every existing line keeps its exact order and
-    bytes. Sorting, deduplicating or otherwise reordering the record would turn every
-    revision into a full snapshot, costing hundreds of kilobytes per day.
+
+def read_known_slugs(articles_path) -> Set[str]:
+    """The slugs of every article already extracted.
+
+    The article tree is the record of what has been fetched: every URL is
+    ``.../articulos/<slug>``, and an article is only written once it has been extracted,
+    so a URL that failed to download or parse is retried on the next run.
     """
-    url_list = Path(url_list)
-    url_list.parent.mkdir(exist_ok=True, parents=True)
-
-    with open(url_list, "w") as writable:
-        for url in list(new_urls) + list(known_urls):
-            writable.write(url + "\n")
+    known = {article_slug(article) for article in Path(articles_path).glob("**/*.txt")}
+    logger.info("Found %d known articles", len(known))
+    return known
 
 
-def collect_new_urls(known_urls: Iterable[str], page_num: int, fetch_links: Callable[[int], List[str]]) -> List[str]:
-    """Walk the listing pages, newest first, collecting URLs that are not already known.
+def collect_new_urls(known_slugs: Iterable[str], page_num: int, fetch_links: Callable[[int], List[str]]) -> List[str]:
+    """Walk the listing pages, newest first, collecting URLs whose slug is not already known.
 
     Crawling stops once a whole page holds nothing new. Scanning the complete page,
     instead of stopping at the first familiar URL, lets a gap left by an earlier failure
     be picked up on a later run.
     """
-    known = set(known_urls)
+    known = set(known_slugs)
     seen = set()
     new_urls: List[str] = []
 
@@ -186,7 +177,7 @@ def collect_new_urls(known_urls: Iterable[str], page_num: int, fetch_links: Call
             logger.info("No more urls, nothing left to crawl")
             break
 
-        unknown = [link for link in links if link not in known and link not in seen]
+        unknown = [link for link in links if url_slug(link) not in known and link not in seen]
         if not unknown:
             logger.info("Page %d holds nothing new, stopping", page_num)
             break
@@ -199,8 +190,8 @@ def collect_new_urls(known_urls: Iterable[str], page_num: int, fetch_links: Call
     return new_urls
 
 
-def crawl_new_urls(known_urls: Iterable[str], page: int = 1) -> List[str]:
-    """Crawl the listing for URLs missing from ``known_urls``, without recording anything."""
+def crawl_new_urls(known_slugs: Iterable[str], page: int = 1) -> List[str]:
+    """Crawl the listing for URLs whose slug is missing from ``known_slugs``."""
     page_num = page or 1
     logger.info("Starting fetching from page %d", page_num)
 
@@ -213,6 +204,6 @@ def crawl_new_urls(known_urls: Iterable[str], page: int = 1) -> List[str]:
             def fetch_links(number: int) -> List[str]:
                 return get_anchors(_fetch_listing_page(pw, number))
 
-            return collect_new_urls(known_urls, page_num, fetch_links)
+            return collect_new_urls(known_slugs, page_num, fetch_links)
         finally:
             browser.close()

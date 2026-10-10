@@ -2,19 +2,42 @@ name: Scrape information
 
 on:
   workflow_dispatch:
+    inputs:
+      source:
+        description: Where to read the current dataset from
+        type: choice
+        options: [huggingface, kaggle]
+        default: huggingface
   schedule:
   - cron: "20 19 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
 
 jobs:
   Scrape:
 
     runs-on: ubuntu-latest
+    timeout-minutes: 60
 
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v7
+
+    - uses: fferegrino/dataset-sync/fetch@v1
+      with:
+        # Scheduled runs have no inputs, so they always read from Hugging Face.
+        from: ${{ inputs.source || 'huggingface' }}
+        huggingface-dataset: feregrino/mananeras
+        kaggle-dataset: ioexception/mananeras
+        kaggle-username: ioexception
+        kaggle-key: ${{ secrets.KAGGLE_KEY }}
 
     - name: Set up Python 3.10
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version: "3.10"
 
@@ -29,15 +52,16 @@ jobs:
       run: poetry run playwright install chromium --with-deps
 
     - name: Execute workload
-      env:
-        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
-        KAGGLE_USERNAME: ioexception
       run: python -m mananeras
 
-    - name: Commit changes
-      run: |
-        git config --global user.email "antonio.feregrino+datasets@gmail.com"
-        git config --global user.name "Antonio Feregrino"
-        git add articulos/ urls.txt
-        git diff --quiet && git diff --staged --quiet || git commit -m 'Nuevos archivos'
-        git push
+    # A transcript is written once and never changed, so any rewrite is a bug.
+    - uses: fferegrino/dataset-sync/publish@v1
+      with:
+        append-only: "*.txt"
+        huggingface-dataset: feregrino/mananeras
+        huggingface-card: dataset-card.md
+        kaggle-dataset: ioexception/mananeras
+        kaggle-metadata: dataset-metadata.json
+        huggingface-token: ${{ secrets.HF_TOKEN }}
+        kaggle-username: ioexception
+        kaggle-key: ${{ secrets.KAGGLE_KEY }}

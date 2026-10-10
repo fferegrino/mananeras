@@ -1,0 +1,16 @@
+{
+    "id": "ioexception/mananeras",
+    "title": "Conferencias Mañaneras",
+    "subtitle": "Versiones escritas de las conferencias de la presidencia de México.",
+    "description": "Las versiones estenográficas de las conferencias de prensa matutinas de la presidencia de México, descargadas diariamente de https://www.gob.mx/presidencia/es/archivo/articulos y convertidas a texto plano para hacerlas un poco más fáciles de consumir programáticamente.\n\nHay un archivo por conferencia en `AAAA/mes/DD--slug.txt`, por ejemplo `2026/octubre/09--version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-octubre-de-2026.txt`, donde `slug` es la última parte de la URL del artículo en gob.mx. Cada archivo tiene el título, el autor y la fecha en sus tres primeras líneas, seguidos de las participaciones: cada una empieza con una línea `---`, luego el nombre de quien habla (`???` si no se pudo identificar) y después sus párrafos, uno por línea.\n\nEl código que lo genera está en https://github.com/fferegrino/mananeras, que también incluye un lector en Python. También disponible en Hugging Face: https://huggingface.co/datasets/feregrino/mananeras",
+    "licenses": [
+        {
+            "name": "CC-BY-SA-4.0"
+        }
+    ],
+    "keywords": [
+        "government",
+        "politics",
+        "mexico"
+    ]
+}

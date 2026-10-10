@@ -5,6 +5,8 @@ from typing import Dict, Set, Tuple
 
 from bs4 import BeautifulSoup, Tag
 
+from mananeras.dataset.download_urls import read_known_slugs
+
 logger = logging.getLogger(__name__)
 
 date_format = re.compile(
@@ -36,7 +38,7 @@ def extract(raw_input, processed_output_path) -> Set[str]:
     raw_input = Path(raw_input)
     processed_output_path = Path(processed_output_path)
     processed_output_path.mkdir(exist_ok=True, parents=True)
-    existing_files = {str(file).partition("--")[2][:-4] for file in processed_output_path.glob("**/*.txt")}
+    existing_files = read_known_slugs(processed_output_path)
     extracted = set()
     for html_file in raw_input.glob("*.html"):
         if html_file.stem in existing_files:
